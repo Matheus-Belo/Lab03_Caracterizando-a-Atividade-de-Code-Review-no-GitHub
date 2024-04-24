@@ -1,0 +1,101 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToAnalysis
+264,Add a little bit more description about profiling,64,True,False,,2024-01-29T03:43:43Z,1,3,0,1,1,1,2,159534162.755051
+577,German Translation README-de.md,291,True,False,,2024-01-09T11:02:53Z,2,4,0,1,1853,0,1853,81516610.755051
+557,add git action for generating epub and upload artifacts,428,True,False,,2023-12-02T06:26:01Z,2,4,2,1,18,0,18,85061924.755051
+701,eng: ADDED the post scriptum hint ,164,True,False,,2023-09-13T18:49:14Z,1,3,0,1,1,0,1,51726128.755051
+750,Fix Scalability Article links,353,True,True,2023-03-16T09:58:20Z,2023-03-16T09:58:20Z,1,2,1,1,5,5,10,35654253.755051
+661,Fix typos,0,True,True,2022-04-23T13:14:45Z,2022-04-23T13:14:45Z,1,3,3,3,3,3,6,63755892.088285
+634,Added white background to all images (#630),195,True,False,,2023-02-20T23:12:22Z,4,6,4,54,0,0,0,73063179.088285
+717,Fix top k requests link,291,True,True,2022-12-11T20:06:51Z,2022-12-11T20:06:51Z,2,3,1,1,1,1,2,45023439.088285
+716,Update latency vs throughput blog link,291,True,True,2022-11-13T21:04:18Z,2022-11-13T21:04:18Z,1,2,1,1,1,1,2,46209477.088285
+451,Fix translations link in PR template,36,True,True,2020-08-02T18:13:18Z,2020-08-02T18:13:18Z,1,3,2,1,1,1,2,118198354.088285
+631,Fix memcache architecture URL,61,True,True,2022-02-13T02:52:00Z,2022-02-13T02:52:00Z,1,2,1,4,4,4,8,73701365.088285
+694,Fix Typo,10,True,True,2022-07-31T16:44:43Z,2022-07-31T16:44:43Z,1,2,1,1,1,1,2,54752187.088285
+651,Replace broken weighted round robin link (#650),291,True,True,2022-04-20T00:37:02Z,2022-04-20T00:37:02Z,1,3,1,1,1,1,2,65898679.088285
+217,Fix #397: Change master/slave to primary/replica,1693,True,False,,2022-04-15T11:11:49Z,6,6,5,11,33,33,66,176369927.240079
+355,Fix link,41,True,True,2020-01-21T00:26:10Z,2020-01-21T00:26:10Z,1,2,1,1,1,1,2,134562475.242073
+594,Update GitHub Engineer Blog link,365,True,True,2021-11-17T12:26:09Z,2021-11-17T12:26:09Z,1,2,1,4,4,4,8,80092387.243075
+511,Fix capitalization of Dropbox,143,True,True,2021-05-09T18:20:50Z,2021-05-09T18:20:50Z,2,3,1,1,1,1,2,99917632.243075
+395,Remove invalid link,19,True,False,,2021-04-16T02:52:46Z,1,4,4,1,1,1,2,128082943.243075
+505,Fix LRU cache link,112,True,True,2021-02-16T02:14:06Z,2021-02-16T02:14:06Z,1,2,1,1,1,1,2,101679319.243075
+500,Update indieflashblog link,429,True,True,2021-02-16T02:10:04Z,2021-02-16T02:10:04Z,1,2,0,4,4,4,8,102486757.584384
+486,Fix Celery url,28,True,True,2020-12-29T02:51:33Z,2020-12-29T02:51:33Z,1,2,1,1,1,1,2,108958416.584384
+348,Fix broken link in CAP theorem section,0,True,True,2020-02-17T02:00:45Z,2020-02-17T02:00:45Z,1,2,1,1,1,1,2,135540398.584384
+481,Update broken HBase architecture link,271,True,True,2020-10-30T01:14:46Z,2020-10-30T01:14:46Z,1,2,1,1,2,2,4,111697100.584384
+447,Fix #335: Update OSI image to Open Systems Interconnection ,291,True,True,2020-08-02T18:10:23Z,2020-08-02T18:10:23Z,2,2,3,1,0,0,0,119050641.584384
+168,Remove Imgur dependency by storing images locally,0,True,True,2020-07-18T01:15:48Z,2020-07-18T01:15:48Z,2,3,4,40,152,152,304,182426650.584384
+393,Remove extraneous __init__.py,0,True,True,2020-07-12T16:02:45Z,2020-07-12T16:02:45Z,1,1,0,1,0,0,0,129148720.584384
+441,Resolve #281: Add design stock exchange links,10,True,True,2020-07-12T16:00:04Z,2020-07-12T16:00:04Z,1,2,1,1,1,0,1,119873222.584384
+295,Change disk to HDD for clarity,212,True,True,2020-07-11T01:01:12Z,2020-07-11T01:01:13Z,4,5,2,1,3,3,6,152134246.584384
+408,Included apache kafka for event queuing,94,True,False,,2020-07-10T10:58:46Z,4,9,1,1,4,0,4,125855787.584384
+425,Fix: metadata-file,222,True,False,,2020-07-10T01:18:58Z,10,3,4,1,1,1,2,121719681.584384
+310,Clarify CDN advantages,131,True,True,2020-07-10T00:49:44Z,2020-07-10T00:49:44Z,3,4,1,1,1,1,2,149629699.584384
+319,Add links for latency based and geolocation based routing,107,True,True,2020-07-10T00:48:47Z,2020-07-10T00:48:47Z,1,2,1,1,2,2,4,145958443.584384
+321,Update dead links,0,True,True,2020-07-09T00:10:17Z,2020-07-09T00:10:17Z,5,4,2,1,2,3,5,145850969.584384
+336,Update url for weighted round robin,100,True,False,,2020-07-09T00:08:56Z,2,3,1,1,2,2,4,140090738.472303
+396,"Fix the loop over ""self.cards""",0,True,True,2020-07-08T00:56:06Z,2020-07-08T00:56:06Z,1,2,1,1,1,1,2,127832430.472303
+400,Add CAP theorem video,66,True,True,2020-07-08T00:54:02Z,2020-07-08T00:54:02Z,1,4,3,1,1,0,1,127170130.472303
+418,Fix typo: Change replication to federation,164,True,True,2020-07-04T14:53:57Z,2020-07-04T14:53:57Z,1,2,1,1,1,1,2,123671948.472303
+405,Remove redundant SQL index in Pastebin exercise,150,True,True,2020-07-07T01:05:51Z,2020-07-07T01:05:51Z,1,2,1,1,1,1,2,126557052.472303
+409,Fix Mint exercise bugs and typos,0,True,True,2020-07-07T01:00:34Z,2020-07-07T01:00:34Z,1,2,1,1,8,8,16,125259279.472303
+433,Add system design template link,0,True,True,2020-07-05T14:53:29Z,2020-07-05T14:53:29Z,2,2,3,1,1,0,1,120420262.472303
+340,kr: Fix Korean translation link in language index,174,True,True,2020-07-05T14:57:58Z,2020-07-05T14:57:58Z,2,3,1,4,4,4,8,138370075.472303
+428,"Write word ""Korean"" in Korean language.",63,True,False,,2020-07-05T14:58:57Z,1,3,2,4,4,4,8,121300001.472303
+439,Fix #313: Clarify availability patterns,28,True,True,2020-07-05T14:50:31Z,2020-07-05T14:50:31Z,1,3,1,1,1,1,2,120049273.472303
+438,Fix typos in Twitter and web crawler exercises,72,True,True,2020-07-05T14:48:23Z,2020-07-05T14:48:23Z,1,2,1,2,3,3,6,120087019.472303
+414,Update design Twitter back-of-the-envelope calculations,85,True,True,2020-07-04T14:55:43Z,2020-07-04T14:55:43Z,1,2,1,1,1,0,1,124225082.472303
+154,"Fixed grammar in ""Learn how to design large-scale systems""",0,True,False,,2020-07-04T14:40:44Z,2,3,1,1,2,2,4,191239565.480379
+406,Check dependencies in Ebook gen script,44,True,True,2020-07-04T01:24:24Z,2020-07-04T01:24:24Z,2,3,3,1,15,1,16,126168054.481011
+350,Resolve #164 - Fix phrasing with availability and partition tolerance,152,True,True,2020-07-04T01:22:03Z,2020-07-04T01:22:03Z,2,3,1,1,1,1,2,135470602.320871
+317,Fix a typo in Layer 7 load balancer of README.md,0,True,True,2020-07-01T00:56:56Z,2020-07-01T00:56:56Z,1,2,1,1,1,1,2,146685410.320871
+398,fix: typo,39,True,True,2020-07-01T00:42:25Z,2020-07-01T00:42:25Z,2,3,1,1,2,2,4,127623495.320871
+399,Missing comma,0,True,True,2020-07-01T00:37:50Z,2020-07-01T00:37:50Z,2,3,1,1,1,1,2,127259032.320871
+411,"Update ""Scaling up to your first 10 million users"" link",148,True,True,2020-05-26T01:59:02Z,2020-05-26T01:59:02Z,1,2,1,1,4,4,8,124944440.320871
+392,zh-Hans: Translate solutions,13,True,True,2020-03-30T00:40:50Z,2020-03-30T00:40:51Z,1,8,2,9,2525,10,2535,130142289.320871
+374,zh-cn: Sync with upstream to keep it up-to-date,0,True,True,2020-03-10T01:34:19Z,2020-03-10T01:34:19Z,1,8,4,9,1458,1466,2924,131143884.320871
+351,Fix broken 'round robin' links,144,True,True,2020-01-15T15:04:08Z,2020-01-15T15:04:08Z,1,2,1,1,2,2,4,135085899.320871
+345,raise NotImplemented —> raise NotImplementedError,266,True,True,2019-12-27T01:11:58Z,2019-12-27T01:11:58Z,1,2,1,1,1,1,2,136619662.320871
+305,ja: Fix mistranslation in SQL tuning section,56,True,True,2019-12-09T03:35:45Z,2019-12-09T03:35:45Z,3,3,3,1,11,11,22,150502042.320871
+318,change CN translation to make it more accurate,66,True,True,2019-12-09T03:34:17Z,2019-12-09T03:34:17Z,2,3,1,1,1,1,2,146667409.320871
+332,Fixed typo.,0,True,False,,2019-11-03T10:50:01Z,1,2,0,1,4,4,8,141971621.320871
+333,Merge pull request #1 from donnemartin/master,4,True,False,,2019-11-03T10:47:08Z,1,2,0,0,0,0,0,141540459.320871
+292,ja: Fix typo of Big-O notation in KVS section,711,True,True,2019-07-06T15:07:14Z,2019-07-06T15:07:14Z,1,3,3,1,1,1,2,153027676.320871
+308,ja: Fix translation in Service Discovery section,259,True,True,2019-08-13T23:51:20Z,2019-08-13T23:51:20Z,2,3,2,1,1,1,2,150068929.20416
+307,ja: Fix translation in Load balancer section,211,True,True,2019-08-13T23:50:53Z,2019-08-13T23:50:53Z,2,3,2,1,1,1,2,150069005.20416
+306,ja: Fix translation in Anki flashcards section,120,True,True,2019-08-13T23:50:10Z,2019-08-13T23:50:10Z,2,3,2,1,1,1,2,150069078.20416
+303,ja: Fix translation in Federation section,633,True,True,2019-08-05T00:30:54Z,2019-08-05T00:30:54Z,2,3,1,1,1,1,2,151194751.20416
+302,ja: Fix translation in reverse proxy (web server) section,101,True,True,2019-08-03T14:08:19Z,2019-08-03T14:08:19Z,2,3,1,1,1,1,2,151195608.20416
+301,ja: Fix translation in horizontal scaling section,156,True,True,2019-08-03T14:07:59Z,2019-08-03T14:07:59Z,2,4,3,1,1,1,2,151365748.20416
+300,ja: Fix translation in push CDNs section,104,True,True,2019-08-03T14:07:35Z,2019-08-03T14:07:35Z,2,3,1,1,1,1,2,151366442.20416
+299,ja: Fix translation in weak consistency section,190,True,True,2019-08-03T14:06:58Z,2019-08-03T14:06:58Z,2,3,2,1,2,2,4,151617330.20416
+273,zh-Hans: Translate Pastebin solution,21,True,True,2019-06-16T15:21:22Z,2019-06-16T15:21:22Z,8,3,6,2,331,1,332,157710515.20416
+237,Add availability in numbers section,136,True,True,2019-05-12T11:19:23Z,2019-05-12T11:19:23Z,7,5,7,1,47,0,47,170853084.210066
+207,Add Ebook generation script,299,True,True,2019-05-12T10:21:15Z,2019-05-12T10:21:15Z,1,3,6,7,164,120,284,178052374.210066
+252,Translate language list,152,True,True,2019-05-11T16:42:59Z,2019-05-11T16:42:59Z,1,2,4,1,1,1,2,164150986.210066
+275,Update HDFS design link to the latest version,0,True,True,2019-05-07T10:22:13Z,2019-05-07T10:22:13Z,1,2,1,1,1,1,2,157150681.210066
+268,Enable syntax highlighting in all python code snippets,173,True,True,2019-05-07T10:24:42Z,2019-05-07T10:24:42Z,1,2,1,10,30,30,60,158807671.210066
+124,"Add article link: How Twitter Handles 3,000 Images/sec",0,True,True,2019-04-10T00:47:00Z,2019-04-10T00:47:00Z,3,2,3,1,1,1,2,198723165.210066
+238,--fix: Missing `path` in argument.,107,True,False,,2019-04-10T00:44:49Z,2,3,1,1,1,1,2,170754589.419098
+258,Fix broken SQL link in Scaling AWS exercise,134,True,True,2019-03-18T00:55:20Z,2019-03-18T00:55:20Z,1,2,1,1,1,1,2,162400611.419098
+257,Enable Python syntax highlighting in Pastebin sample code,90,True,True,2019-03-04T03:28:44Z,2019-03-04T03:28:44Z,1,2,1,1,1,1,2,162602521.419098
+255,Update document-store to document store,36,True,True,2019-02-28T11:55:51Z,2019-02-28T11:55:51Z,1,2,1,1,2,2,4,163270104.419098
+251,Fix typo in Twitter timeline and search solution,0,True,True,2019-02-11T10:48:37Z,2019-02-11T10:48:37Z,2,3,1,1,1,1,2,164205531.419098
+247,Fix grammar in document store section,53,True,True,2019-02-03T12:35:25Z,2019-02-03T12:35:25Z,1,2,1,1,1,1,2,165613222.419098
+246,zh-Hans: Fix typo,0,True,True,2019-01-20T19:59:43Z,2019-01-20T19:59:43Z,2,3,1,1,1,1,2,166447386.419098
+245,Add missing word in cache write through discussion,0,True,True,2019-01-05T17:20:17Z,2019-01-05T17:20:17Z,1,2,1,1,1,1,2,167819953.419098
+233,Fix #228: Address mutex latency discrepancy,23,True,True,2018-12-19T02:17:01Z,2018-12-19T02:17:01Z,4,3,4,4,4,4,8,171694193.419098
+230,Proper text formatting,78,True,False,,2018-12-15T04:10:09Z,1,2,1,1,7,1,8,171750814.419098
+229,Add Link: A 360 Degree View Of The Entire Netflix Stack,49,True,True,2018-11-14T01:23:22Z,2018-11-14T01:23:22Z,1,2,2,1,1,1,2,172894635.419098
+227,zh-TW: Update index anchors,199,True,True,2018-10-31T22:34:52Z,2018-10-31T22:34:52Z,2,4,4,1,20,20,40,174072750.419098
+93,Add automated testing,299,True,False,,2018-10-28T21:25:17Z,2,4,12,1,11,0,11,214223584.419098
+226,ja: Fix typo,169,True,True,2018-10-26T00:20:27Z,2018-10-26T00:20:27Z,1,3,4,1,7,7,14,174349556.083645
+224,Update Scalability for Dummies link,0,True,True,2018-10-11T01:13:43Z,2018-10-11T01:13:43Z,2,3,1,4,4,4,8,174952338.083645
+218,Resolve #214: Add reference links to message queues section,10,True,True,2018-10-01T00:38:29Z,2018-10-01T00:38:29Z,1,2,1,2,4,4,8,176363097.083645
+216,Update README intro,0,True,True,2018-09-24T00:12:12Z,2018-09-24T00:12:12Z,1,2,0,1,1,1,2,176564894.083645
+213,Update Cassandra architecture links,551,True,True,2018-09-19T00:10:27Z,2018-09-19T00:10:27Z,4,3,2,1,2,2,4,176929673.083645
+209, zh-Hans: Update translation,27,True,True,2018-09-16T07:48:51Z,2018-09-16T07:48:51Z,3,4,2,1,4,4,8,177745335.083645
+212, zh-Hans: Update translation,0,True,True,2018-09-15T07:29:04Z,2018-09-15T07:29:04Z,3,4,2,1,1,1,2,177044151.083645
+208,zh-Hans: Fix translation,0,True,True,2018-09-14T21:10:40Z,2018-09-14T21:10:40Z,3,4,2,1,1,1,2,177901777.083645
+210,Fix typo in Design Pastebin.com exercise,0,True,True,2018-09-08T00:47:44Z,2018-09-08T00:47:44Z,3,4,1,1,1,1,2,177706392.083645
+206,Fix #126: Update link to Anki decks,168,True,True,2018-09-02T18:10:43Z,2018-09-02T18:10:43Z,1,2,1,1,3,3,6,178224389.083645
+204,Fix broken links,250,True,True,2018-08-29T00:56:39Z,2018-08-29T00:56:39Z,1,2,1,1,10,11,21,178981684.083645

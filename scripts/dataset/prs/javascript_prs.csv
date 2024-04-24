@@ -1,0 +1,101 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToAnalysis
+2973,[spam],63,True,False,,2024-04-20T05:23:42Z,1,2,0,1,1,0,1,412001.302145
+2970,Added one more example to [9.3](this to help with method chaining.),358,True,False,,2024-04-18T14:58:38Z,1,2,0,1,22,0,22,604491.302145
+2849,Allow importing dev dependencies in ESLint flat config file,68,True,False,,2024-04-16T14:12:53Z,5,3,2,1,2,1,3,16855162.302145
+2969,[spam],22,True,False,,2024-04-16T11:31:25Z,1,3,0,1,2,0,2,708129.302145
+2966,[spam],12,True,False,,2024-04-12T14:58:05Z,1,2,0,1,2,0,2,1063686.302145
+2964,[spam],71,True,False,,2024-04-10T14:15:51Z,1,2,0,1,1,0,1,1232471.302145
+2962,[readme] replace dead link with archive.org link,88,True,True,2024-04-08T23:17:08Z,2024-04-08T23:17:08Z,2,2,0,1,1,1,2,1456464.302145
+2474,Explain why rule `react/jsx-key` is turned off,407,True,True,2021-09-29T04:58:12Z,2021-09-29T04:58:12Z,6,2,5,3,21,10,31,81494754.302145
+2503,[eslint config] [base] remove unneeded eslint version check,36,True,True,2021-11-13T21:47:05Z,2021-11-13T21:47:05Z,1,3,7,2,2,6,8,77324853.302145
+2779,[guide] added second link to eslint rule for item 7.1,182,True,True,2023-05-23T17:15:09Z,2023-05-23T17:15:09Z,1,2,0,1,1,1,2,29126329.302145
+2407,Alphabetize the rules for react-a11y.js,268,True,True,2021-03-25T06:57:17Z,2021-03-25T06:57:17Z,1,2,3,4,142,133,275,97334117.302145
+2406,Fix 19.6 example code,21,True,True,2021-03-25T19:26:03Z,2021-03-25T19:26:03Z,1,2,0,1,1,1,2,97389386.302145
+2618,Update readme2,36,True,True,2022-09-19T05:28:45Z,2022-09-19T05:28:45Z,1,2,2,5,16,15,31,55778087.302145
+2955,update 404 `compat-table` url,113,True,True,2024-03-25T17:31:03Z,2024-03-25T17:31:03Z,1,2,0,5,17,7,24,2613092.302145
+2878,remove object.entries dependency,1046,True,True,2024-01-28T05:21:29Z,2024-01-28T05:21:29Z,1,4,20,7,35,28,63,9574394.061323
+2958,Added Quiz,135,True,False,,2024-04-02T18:02:29Z,1,2,1,2,235,0,235,2076380.061323
+2949,[spam],0,True,False,,2024-03-22T15:53:36Z,1,2,0,3,6,0,6,2860324.061323
+2950,[spam],0,True,False,,2024-03-22T15:53:00Z,1,2,0,3,3,0,3,2860282.061323
+2946,chore: fix typo,0,True,False,,2024-03-16T14:49:52Z,1,2,0,1,1,1,2,3396711.061323
+2943,[spam],84,True,False,,2024-03-15T14:25:21Z,1,2,0,1,1,0,1,3473098.061323
+2944,[spam],11,True,False,,2024-03-15T14:12:09Z,1,2,0,1,1,0,1,3469727.061323
+2930,[spam],0,True,False,,2024-03-05T15:43:02Z,1,2,0,1,1,0,1,4342445.456715
+2919,[spam],0,True,False,,2024-03-05T01:05:02Z,1,2,0,1,16,0,16,4730581.456715
+2926,[spam],0,True,False,,2024-03-03T19:53:29Z,1,2,0,1,1,1,2,4478812.456715
+2924,[spam],0,True,False,,2024-03-02T06:07:22Z,1,2,0,1,1,1,2,4614586.456715
+2920,[spam],3,True,False,,2024-03-01T20:01:38Z,1,2,0,1,1,1,2,4688035.456715
+2904,Issue #2804 Added support for .eslintrc.js in imports.js,274,True,False,,2024-02-19T02:42:36Z,1,2,0,1,1,1,2,5736434.456715
+2896,Update README.md,762,True,False,,2024-02-08T17:18:35Z,4,2,3,1,16,11,27,6617544.001782
+2870,[spam],0,True,False,,2023-12-06T16:06:34Z,1,2,0,2,1,3,4,12119112.483967
+2871,[spam],0,True,False,,2023-12-07T15:37:54Z,1,2,2,1,1,1,2,12016525.483967
+2848,[spam],63,True,False,,2023-10-07T03:10:51Z,1,2,0,1,1,1,2,17326667.484962
+2876,Update README.md,50,True,False,,2023-12-28T16:51:56Z,1,2,2,1,1,1,2,10203954.99297
+2686,[Tests] refactor test paths,207,True,True,2022-12-03T22:37:03Z,2022-12-03T22:37:04Z,5,2,4,2,6,4,10,43867294.99297
+2864,Provide example of mid-variable acronym naming,617,True,False,,2023-11-15T00:47:27Z,3,2,4,1,1,1,2,14402061.99297
+2856,fix #2301 web page Display error in jsx,28,True,False,,2023-10-21T02:23:51Z,1,2,0,1,2,2,4,16166141.99297
+2818,Imports rules: add eslint flat config support,0,True,False,,2023-09-02T11:55:31Z,8,3,4,5,109,2,111,21083901.99297
+2824,Support flat config,0,True,False,,2023-09-03T21:55:07Z,3,2,1,0,0,0,0,20279640.20909
+2819,[readme] Added Proper meaningful word in section 2.3,172,True,False,,2023-08-24T19:26:12Z,6,2,0,1,1,1,2,21071856.20909
+2815,[eslint config] [base] Add a message for `confusing-browser-globals`,140,True,True,2023-08-22T17:56:42Z,2023-08-22T17:56:42Z,2,2,0,1,4,1,5,21341325.20909
+2812,Added Object.hasOwn to section 3.7,48,True,True,2023-08-16T05:28:15Z,2023-08-16T05:28:15Z,4,2,0,1,6,2,8,21858786.20909
+2810,[readme] correct no-use-before-define justification,131,True,True,2023-08-12T21:49:40Z,2023-08-12T21:49:40Z,1,2,0,1,1,1,2,22131270.20909
+2803,"[guide] Add commas to Truth, Equality, and JavaScript",0,True,True,2023-08-05T00:12:15Z,2023-08-05T00:12:15Z,3,2,0,4,14,14,28,23063186.20909
+2791,add new javascript operator `nullish coalescing` to docs,140,True,True,2023-07-03T16:21:38Z,2023-07-03T16:21:38Z,2,2,4,1,27,0,27,25646401.20909
+2773,Add documentation for no-use-before-define rule under hoisting section,96,True,True,2023-05-30T20:30:31Z,2023-05-30T20:30:31Z,7,3,1,1,50,0,50,29390295.20909
+2775,fix: Updated README.md and alligned removing extra spaces,48,True,False,,2023-05-21T15:49:19Z,1,2,0,1,1,1,2,29307995.20909
+2774,fix: Updated grammatical errors on LICENSE.md,131,True,False,,2023-05-21T09:57:12Z,3,3,0,1,1,1,2,29346987.960821
+2768,[readme] Updates ESLint rule in section 12.3 (exponentiation-operator),111,True,True,2023-05-02T19:41:34Z,2023-05-02T19:41:34Z,1,2,0,1,1,1,2,30920640.960821
+2767,"spell checking, fixed grammar error.",88,True,True,2023-04-28T19:24:35Z,2023-04-28T19:24:35Z,1,2,0,1,1,1,2,31303211.960821
+2350,chore: enable not breaking changes features,200,True,False,,2023-02-24T02:04:13Z,1,2,2,0,0,0,0,106855080.960821
+2688,[guide] Add `Object.hasOwn`,348,True,True,2022-12-06T18:56:08Z,2022-12-06T18:56:08Z,10,4,1,1,2,0,2,43691301.960821
+33,Arrays example is very confusing,31,True,True,2012-11-22T22:12:06Z,2012-11-22T22:12:06Z,1,3,1,1,33,5,38,360630205.960821
+2724,Added link of JavaScript Roadmap,439,True,True,2023-02-09T07:26:44Z,2023-02-09T07:26:44Z,1,2,4,6,50,12,62,38172924.47668
+2705,[spam],16,True,False,,2023-01-05T19:00:51Z,1,3,2,2,16,0,16,41046901.47668
+2610,Add `hasOwn` to section 3.7,36,True,False,,2022-12-15T17:27:25Z,2,3,5,1,6,1,7,57431852.47668
+2667,Remove broken links and var keywords,12,True,True,2022-11-17T22:09:54Z,2022-11-17T22:09:54Z,4,3,2,1,37,38,75,46885663.47668
+2682,[readme] add space before code blocks,43,True,True,2022-11-17T22:00:29Z,2022-11-17T22:00:29Z,2,2,10,3,14,0,14,45588117.47668
+2679,[spam],0,True,False,,2022-11-15T13:33:01Z,1,2,1,1,45,0,45,45764538.47668
+2677,[spam],0,True,False,,2022-11-08T02:03:07Z,1,2,2,1,45,0,45,46195425.47668
+2675,Update .gitignore,19,True,False,,2022-11-07T08:24:00Z,1,2,0,1,0,2,2,46242022.47668
+2676,Update .editorconfig,20,True,False,,2022-11-07T08:23:34Z,1,2,0,1,0,2,2,46241857.47668
+2674,[spam],0,True,False,,2022-11-05T04:54:44Z,1,2,0,1,2,0,2,46363922.47668
+2670,[guide] fix typo in `space-before-blocks`,0,True,True,2022-11-01T20:36:43Z,2022-11-01T20:36:43Z,4,2,1,1,1,1,2,46727442.47668
+2664,Change comment spaces and qux to quux,46,True,True,2022-10-26T19:51:55Z,2022-10-26T19:51:55Z,1,2,0,1,2,2,4,47189355.47668
+2665,Add comma to the end of the property,160,True,True,2022-10-26T18:53:44Z,2022-10-26T18:53:45Z,1,2,2,1,5,5,10,47180073.47668
+2662,Add Optional Chaining,240,True,True,2022-10-26T18:45:31Z,2022-10-26T18:45:31Z,2,2,1,1,8,0,8,47238258.47668
+2660,Add Nullish Coalescing Operator,98,True,True,2022-10-26T18:14:00Z,2022-10-26T18:14:01Z,3,2,2,1,2,0,2,47240503.186214
+2659,[editorial] convert example to use single instead of double quotes,69,True,True,2022-10-25T16:45:20Z,2022-10-25T16:45:20Z,3,2,0,2,8,1,9,47267071.186214
+2641,Create Jenkinsfile,76,True,False,,2022-09-06T16:51:52Z,1,2,0,1,28,0,28,51495315.186214
+2623,[eslint config] [base] disable the deprecated `no-spaced-func` rule,392,True,True,2022-08-10T19:15:41Z,2022-08-10T19:15:41Z,4,2,0,1,2,1,3,54003251.186214
+255,Added naming conventions for UPPERCASE use cases.,156,True,True,2018-03-23T22:29:21Z,2018-03-23T22:29:21Z,5,14,33,1,38,0,38,286808389.186214
+2190,added E-Commerce-Umbrella to 'In the Wild',0,True,False,,2022-06-07T19:21:17Z,1,2,1,1,1,0,1,130617233.186214
+2444,Added period to 4.4 for formatting consistency.,233,True,True,2022-05-24T16:08:46Z,2022-05-24T16:08:46Z,1,2,0,4,10,5,15,88736791.186214
+2591,Allow devDependencies import for vite/vitest,0,True,False,,2022-05-15T16:45:15Z,1,2,6,1,3,1,4,61401117.186214
+1776,Reddit,104,True,False,,2022-03-16T06:08:16Z,1,2,0,1,0,1,1,191576731.731981
+2559,removed unnecessary spaces,0,True,False,,2022-03-01T15:46:31Z,2,2,0,1,0,2,2,67839043.731981
+2557,Update ecmaVersion,0,True,False,,2022-03-01T06:54:26Z,1,2,0,1,1,1,2,67865554.731981
+2536,docs(common): fix url format from http to https updated,0,True,False,,2022-01-05T20:38:56Z,3,2,0,1,1,1,2,72559629.171695
+2501,[eslint config] set `namedComponents` option to match style guide,128,True,True,2021-12-22T23:18:28Z,2021-12-22T23:18:28Z,3,3,5,3,8,4,12,77384949.171695
+2508,Add 7.16 : prefer-rest-params,46,True,False,,2021-11-18T08:57:30Z,12,2,0,1,22,0,22,76979197.171695
+2509,Add 7:16 : rest-operator-last,47,True,False,,2021-11-18T08:57:04Z,4,2,2,1,17,0,17,76978033.171695
+2507,Update Arrow function 8.1 : added best example in it,58,True,False,,2021-11-18T08:55:43Z,10,3,0,1,3,0,3,76993795.171695
+2511,[readme] operator => parameter syntax,68,True,True,2021-11-17T20:46:17Z,2021-11-17T20:46:17Z,3,2,0,1,1,1,2,76882145.171695
+2506,Add 5.4 Destructuring alias for objects.,81,True,False,,2021-11-15T17:27:52Z,4,2,0,1,13,0,13,76995033.171695
+2484,Updated Type coerisions,35,True,False,,2021-11-08T05:20:14Z,2,3,0,1,11,1,12,79315564.171695
+2493,docs: add an example using for..of,236,True,False,,2021-11-06T17:07:00Z,3,2,0,1,5,0,5,77827679.171695
+2491,[Tests] migrate tests to Github Actions,0,True,True,2021-11-05T17:49:19Z,2021-11-05T17:49:19Z,1,2,1,5,208,108,316,77876691.171695
+2471,Improve function-paren-newline with multiline-arguments option,68,True,True,2021-11-04T15:56:56Z,2021-11-04T15:56:56Z,1,2,1,2,7,3,10,82296999.171695
+2483,[guide] Fix 14.1 Temporal Dead Zones link,0,True,True,2021-10-23T06:02:32Z,2021-10-23T06:02:32Z,1,2,0,1,1,1,2,79475156.292425
+2482,clarify hooks requirement in README,330,True,True,2021-10-22T19:04:46Z,2021-10-22T19:04:46Z,5,2,2,1,4,2,6,79638662.292425
+2479,Fix typo,29,True,False,,2021-10-12T16:59:33Z,1,2,0,1,7,7,14,79916654.292425
+1917,"Allow modification of draft and draftState for ""immer""",86,True,False,,2021-08-10T17:17:33Z,1,3,1,1,3,1,4,176958594.292425
+2438,[readme] fixed typo and removed redundancy,0,True,True,2021-06-29T18:16:47Z,2021-06-29T18:16:47Z,1,2,0,5,24,10,34,89902982.292425
+2422,Update companies,0,True,True,2021-05-11T16:45:14Z,2021-05-11T16:45:15Z,1,2,2,1,1,0,1,93426239.292425
+2423,Spread operator => Spread syntax,87,True,True,2021-05-11T01:22:44Z,2021-05-11T01:22:44Z,1,2,0,2,3,3,6,93278743.292425
+2419,[guide] add references for eslint rules,64,True,True,2021-05-09T20:36:14Z,2021-05-09T20:36:14Z,1,2,4,1,47,1,48,93914567.292425
+2413,[editorial] add `var` info to `let`/`const` section,189,True,True,2021-05-03T23:45:39Z,2021-05-03T23:45:39Z,8,3,0,1,5,1,6,94821032.292425
+2420,[eslint config] [base] update default value for complexity,68,True,True,2021-05-03T20:25:54Z,2021-05-03T20:25:54Z,1,2,5,1,1,1,2,93912153.292425
+2416,Fix Object (3.3) with `this` keyword,396,True,False,,2021-04-29T20:39:18Z,3,2,0,1,5,1,6,94251922.292425
+2412,Using template literals to break lines,208,True,False,,2021-04-22T14:46:03Z,1,2,1,1,12,0,12,94872138.292425
+2201,fix example,0,True,False,,2021-03-25T21:09:46Z,3,2,0,1,5,6,11,129046913.458659

@@ -1,0 +1,101 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToAnalysis
+15587,fix mistake in #15583,525,True,True,2024-04-22T08:50:34Z,2024-04-22T08:50:34Z,1,2,0,1,1,1,2,258100.883065
+15583,get_crop_region_v2,1097,True,True,2024-04-21T15:06:40Z,2024-04-21T15:06:40Z,1,2,0,2,44,18,62,273326.883065
+15532,Fix cls.__module__ value in extension script,1952,True,True,2024-04-21T04:42:57Z,2024-04-21T04:42:57Z,1,4,3,2,5,7,12,735908.883065
+15555,fix x1 upscalers,325,True,True,2024-04-21T04:22:58Z,2024-04-21T04:22:58Z,1,2,0,1,1,1,2,579494.883065
+15531,fix typo in function call (eror -> error),53,True,True,2024-04-21T04:43:19Z,2024-04-21T04:43:19Z,2,4,1,1,1,1,2,761728.883065
+15547,numpy DeprecationWarning product -> prod,1324,True,True,2024-04-21T04:23:38Z,2024-04-21T04:23:38Z,1,2,0,1,1,1,2,633635.883065
+15560,Remove API upscaling factor limits,236,True,True,2024-04-21T04:22:30Z,2024-04-21T04:22:30Z,1,2,0,1,1,1,2,559124.883065
+15544,"Compatibility with Debian 11, Fedora 34+ and openSUSE 15.4+",322,True,True,2024-04-21T04:22:05Z,2024-04-21T04:22:05Z,1,2,0,1,1,1,2,647401.883065
+15561,Allow webui.sh to be runnable from arbitrary directories containing a .git file,2017,True,True,2024-04-21T04:21:21Z,2024-04-21T04:21:21Z,1,2,0,1,3,3,6,552384.883065
+15567,Hide 'No Image data blocks found.' message,167,True,True,2024-04-21T04:09:28Z,2024-04-21T04:09:28Z,1,2,0,1,4,1,5,474747.883065
+15533,fix: remove_callbacks_for_function should also remove from the ordered map,921,True,True,2024-04-21T04:07:58Z,2024-04-21T04:07:58Z,1,2,0,1,3,0,3,728611.883065
+15534,Fix images do not match / Coordinate 'right' is less than 'left',4104,True,True,2024-04-21T04:06:45Z,2024-04-21T04:06:45Z,3,3,2,1,12,7,19,714797.883065
+15581,FilenameGenerator Sampler Scheduler,922,True,True,2024-04-21T04:00:28Z,2024-04-21T04:00:28Z,1,2,0,1,29,1,30,327603.883065
+15577,Add schedulers API endpoint,1010,True,True,2024-04-21T03:59:56Z,2024-04-21T03:59:56Z,1,2,0,2,20,1,21,389875.883065
+15582,Add avif support,596,True,True,2024-04-21T03:59:38Z,2024-04-21T03:59:38Z,1,2,0,3,14,1,15,326031.883065
+15423,feat: ensure the indexability of dynamically imported packages,206,True,True,2024-04-06T06:00:35Z,2024-04-06T06:00:35Z,1,3,9,1,7,2,9,2007548.044542
+14801,Add NPU Support,6299,True,True,2024-01-31T19:39:29Z,2024-01-31T19:39:29Z,1,6,13,7,64,3,67,7358026.044542
+14208,Soft Inpainting,3974,True,True,2023-12-14T06:56:13Z,2023-12-14T06:56:13Z,1,14,24,5,904,27,931,12219970.044542
+14588,Feature: Extra Networks Tree View,1894,True,True,2024-01-22T19:24:06Z,2024-01-22T19:24:06Z,1,6,22,15,1316,340,1656,9222880.044542
+15460,"create_infotext allow index and callable, re-work Hires prompt infotext",1554,True,True,2024-04-09T09:05:02Z,2024-04-09T09:05:02Z,1,2,0,1,73,11,84,1395057.044542
+15465,Fix extra-single-image API not doing upscale failed,218,True,True,2024-04-09T08:00:31Z,2024-04-09T08:00:31Z,1,2,0,1,1,0,1,1337399.044542
+7295,Basic inpainting batch support,1549,True,True,2023-01-28T05:27:37Z,2023-01-28T05:27:37Z,1,6,7,2,25,4,29,39099671.044542
+15442,open_folder as util,616,True,True,2024-04-06T05:54:21Z,2024-04-06T05:54:21Z,1,2,0,2,37,29,66,1669655.044542
+15443,Use HF_ENDPOINT variable for HuggingFace domain with default,879,True,True,2024-04-06T05:48:55Z,2024-04-06T05:48:55Z,1,3,1,1,3,1,4,1659050.044542
+15390,fix: Python version check for PyTorch installation compatibility,986,True,True,2024-03-30T04:32:29Z,2024-03-30T04:32:29Z,1,2,1,0,0,0,0,2460326.775118
+15414,Fix CodeFormer weight,293,True,True,2024-03-31T13:53:23Z,2024-03-31T13:53:23Z,1,2,0,1,1,1,2,2081153.775118
+15293,Extras upscaler: option limit target resolution,271,True,True,2024-03-31T05:02:36Z,2024-03-31T05:02:36Z,1,3,18,3,48,15,63,3299771.775118
+15380,interrupt upscale,561,True,True,2024-03-30T04:34:34Z,2024-03-30T04:34:34Z,1,2,0,2,5,0,5,2522273.775118
+15350,minor bug fix of sd model memory management,260,True,True,2024-03-30T04:37:11Z,2024-03-30T04:37:11Z,1,2,6,1,7,4,11,2909420.775118
+15382,"fix: when find already_loaded model, remove loaded by array index",296,True,True,2024-03-30T04:36:33Z,2024-03-30T04:36:33Z,1,2,0,1,1,1,2,2521404.775118
+15386,fix typo in call_queue.py,215,True,True,2024-03-30T04:34:10Z,2024-03-30T04:34:10Z,1,2,0,1,2,2,4,2494383.775118
+15394,fix ui_config for hires sampler and scheduler,196,True,True,2024-03-27T13:42:09Z,2024-03-27T13:42:09Z,1,2,0,1,2,2,4,2431130.775118
+15035,Use `absolute` path for normalized filepath,716,True,True,2024-03-02T03:35:46Z,2024-03-02T03:35:46Z,1,4,8,1,1,1,2,5000916.775118
+15319,Support cover images embedded in safetensors metadata,498,True,True,2024-03-24T10:43:38Z,2024-03-24T10:43:38Z,1,2,2,3,43,2,45,3139276.775118
+15354,Add Size as an XYZ Grid option,301,True,True,2024-03-24T02:27:00Z,2024-03-24T02:27:00Z,1,2,0,1,12,0,12,2871647.775118
+15361,"Fix for ""Scheduler selection"" #15333",291,True,True,2024-03-24T02:21:40Z,2024-03-24T02:21:40Z,1,2,0,2,3,3,6,2832921.775118
+15343,escape brackets in lora random prompt generator,252,True,True,2024-03-24T02:31:33Z,2024-03-24T02:31:33Z,1,2,0,1,2,0,2,2946207.652402
+15334,Allow PNG-RGBA for Extras Tab,699,True,True,2024-03-21T04:21:15Z,2024-03-21T04:21:15Z,3,3,1,4,4,4,8,3046667.652402
+15310,Update pytorch lightning utilities,816,True,True,2024-03-21T04:08:43Z,2024-03-21T04:08:43Z,1,2,9,2,8,0,8,3178091.652402
+15331,Fix extra networks buttons when filename contains an apostrophe,369,True,True,2024-03-20T03:53:56Z,2024-03-20T03:53:56Z,1,2,0,5,12,11,23,3073915.652402
+15325,Sgm uniform scheduler for SDXL-Lightning models,679,True,True,2024-03-19T18:37:16Z,2024-03-19T18:37:16Z,1,3,1,3,21,2,23,3120019.652402
+15316,Escape btn_copy_path filename,188,True,True,2024-03-19T05:02:37Z,2024-03-19T05:02:37Z,1,2,0,1,2,1,3,3151280.652402
+15305,update .gitignore,295,True,False,,2024-03-18T16:34:04Z,1,3,1,1,1,0,1,3200765.652402
+15224,"Better workaround for Navi1, removing --pre for Navi3",621,True,True,2024-03-16T05:45:03Z,2024-03-16T05:45:03Z,1,2,0,1,11,5,16,3771036.652402
+3377,Implementation of CUDA device id selection (--device-id 0/1/2),371,True,True,2022-10-22T10:58:01Z,2022-10-22T10:58:01Z,1,6,9,2,19,3,22,47579714.652402
+15290,allow variants for extension name in metadata.ini,1018,True,True,2024-03-17T10:19:23Z,2024-03-17T10:19:23Z,1,2,0,1,36,6,42,3304035.285419
+15262,Support dragdrop for URLs to read infotext,607,True,True,2024-03-17T04:02:08Z,2024-03-17T04:02:08Z,1,4,6,1,22,5,27,3494206.285419
+15211,type hinting in shared.py,237,True,True,2024-03-16T06:45:30Z,2024-03-16T06:45:30Z,2,3,0,1,16,12,28,3851075.285419
+15231,fix ui-config for InputAccordion [custom_script_source],763,True,True,2024-03-16T09:35:43Z,2024-03-16T09:35:43Z,1,2,2,1,2,0,2,3705383.285419
+15268,handle 0 wheel deltaY,507,True,True,2024-03-16T15:25:00Z,2024-03-16T15:25:00Z,1,2,2,1,1,1,2,3480209.285419
+15267,prevent alt menu for firefox,410,True,True,2024-03-16T15:31:55Z,2024-03-16T15:31:55Z,1,2,14,1,26,0,26,3480576.285419
+15283,Use correct DoRA implementation,323,True,True,2024-03-16T17:20:08Z,2024-03-16T17:20:08Z,1,2,0,1,15,3,18,3365689.285419
+15261,Make imageviewer event listeners browser consistent,638,True,True,2024-03-16T05:41:11Z,2024-03-16T05:41:11Z,1,2,0,1,4,8,12,3502320.285419
+15179,fix: fix syntax errors,208,True,True,2024-03-16T15:45:01Z,2024-03-16T15:45:01Z,1,3,3,1,1,1,2,4080470.285419
+15276,v180_hr_styles actual version number,212,True,True,2024-03-16T09:40:25Z,2024-03-16T09:40:25Z,1,2,0,1,1,1,2,3393238.285419
+15222,move postprocessing-for-training into builtin extensions,406,True,True,2024-03-16T06:43:02Z,2024-03-16T06:43:02Z,1,2,0,5,0,0,0,3776363.285419
+15223,move upscale postprocessing under input accordion,1100,True,True,2024-03-16T06:41:40Z,2024-03-16T06:41:40Z,2,3,1,1,15,11,26,3773531.285419
+15233,featch only active branch updates for extensions,485,True,True,2024-03-16T06:06:33Z,2024-03-16T06:06:33Z,1,2,0,1,2,0,2,3702528.285419
+15210,allow interrupt generation in command line (Ctrl+C),276,True,False,,2024-03-16T08:10:43Z,8,3,15,4,27,12,39,3854553.285419
+15221,"fix ""Restore progress"" button",667,True,True,2024-03-16T06:44:50Z,2024-03-16T06:44:50Z,1,2,0,1,3,2,5,3787816.086314
+15228,Ascend NPU wiki page,366,True,True,2024-03-16T06:39:34Z,2024-03-16T06:39:34Z,1,2,0,1,1,0,1,3729922.086314
+15239,Add missing .mean() back,175,True,True,2024-03-16T06:06:05Z,2024-03-16T06:06:05Z,1,2,0,1,1,1,2,3668762.086314
+15244,Automatically Set the Scale by value when user selects an Upscale Model,648,True,True,2024-03-16T05:49:32Z,2024-03-16T05:49:32Z,1,4,2,2,33,0,33,3634312.086314
+15259,PEP 604 annotations,218,True,True,2024-03-16T05:43:02Z,2024-03-16T05:43:02Z,1,2,0,1,1,0,1,3511807.086314
+15260,Fix AttributeError in OFT when trying to get MultiheadAttention weight,1353,True,True,2024-03-16T05:42:46Z,2024-03-16T05:42:46Z,1,2,0,1,7,7,14,3508916.086314
+15263,Strip comments from hires fix prompt,179,True,True,2024-03-16T05:30:16Z,2024-03-16T05:30:16Z,1,2,0,1,7,0,7,3493649.086314
+15269,fix issue with Styles when Hires prompt is used,3292,True,True,2024-03-16T05:25:39Z,2024-03-16T05:25:39Z,1,2,0,3,29,18,47,3463173.086314
+15272,bump action version,1366,True,True,2024-03-16T05:22:48Z,2024-03-16T05:22:48Z,1,2,0,2,9,9,18,3433997.086314
+15160,Add DoRA (weight-decompose) support for LoRA/LoHa/LoKr,439,True,True,2024-03-08T05:02:17Z,2024-03-08T05:02:17Z,1,5,7,1,15,0,15,4177837.086314
+15198,Add model description to searched terms,424,True,True,2024-03-10T04:03:17Z,2024-03-10T04:03:17Z,1,2,0,1,1,1,2,3952981.086314
+15201,update preview on Replace Preview,286,True,True,2024-03-10T11:11:26Z,2024-03-10T11:11:26Z,1,3,0,1,2,1,3,3907695.086314
+15199,Add entry to MassFileLister  after writing metadata,467,True,True,2024-03-10T04:01:46Z,2024-03-10T04:01:46Z,1,2,0,2,20,4,24,3951191.086314
+8863,Add button to grab the width and height from the loaded image in img2img,182,True,False,,2023-05-17T21:04:04Z,2,6,4,2,6,3,9,34336977.97761
+15189,Add '--no-prompt-history' cmd args for disable last generation prompt history,411,True,True,2024-03-09T05:28:56Z,2024-03-09T05:28:56Z,1,2,0,3,3,2,5,4017918.97761
+15006,fix: the `split_threshold` parameter does not work when running Split oversized images,237,True,True,2024-02-26T04:16:42Z,2024-02-26T04:16:42Z,1,3,2,1,1,1,2,5302506.97761
+15178,edit-attention: deselect surrounding whitespace,518,True,True,2024-03-08T03:21:24Z,2024-03-08T03:21:24Z,2,3,0,1,8,0,8,4115961.97761
+15131,Re-use profiler visualization for extra networks,527,True,True,2024-03-06T10:08:43Z,2024-03-06T10:08:44Z,1,2,0,3,180,93,273,4374639.97761
+15142,Fix emphasis infotext missing from `params.txt`,375,True,True,2024-03-06T10:07:02Z,2024-03-06T10:07:02Z,1,2,0,1,4,4,8,4312536.97761
+15141,Only override emphasis if actually used in prompt,554,True,True,2024-03-06T10:05:56Z,2024-03-06T10:05:56Z,1,2,0,1,5,2,7,4312649.97761
+14820,Update to ROCm5.7 and PyTorch,631,True,True,2024-03-06T12:45:39Z,2024-03-06T12:45:39Z,1,9,30,1,1,2,3,7116397.97761
+15135,fix extract_style_text_from_prompt #15132,625,True,True,2024-03-06T10:07:43Z,2024-03-06T10:07:43Z,1,2,0,1,1,1,2,4360364.97761
+14981,Add training support and change lspci for Ascend NPU,500,True,True,2024-03-04T17:06:54Z,2024-03-04T17:06:54Z,1,2,4,3,4,3,7,5471517.97761
+14178,Re-add `keyedit_delimiters_whitespace` setting lost as part of commit e294e46,281,True,True,2023-12-03T03:33:16Z,2023-12-03T03:33:16Z,1,2,0,1,1,0,1,12423458.97761
+14177,Fix `save_samples` being checked early when saving masked composite,343,True,True,2023-12-03T08:57:14Z,2023-12-03T08:57:15Z,1,2,0,1,3,3,6,12428584.97761
+12924,More accurate check for enabling cuDNN benchmark on 16XX cards,180,True,True,2023-09-09T06:33:37Z,2023-09-09T06:33:38Z,1,2,0,1,2,1,3,20462188.197923
+12856,Add noisy latent to `ExtraNoiseParams` for callback,415,True,True,2023-08-30T04:27:14Z,2023-08-30T04:27:14Z,1,2,0,3,7,4,11,20636759.197923
+12854,Do not change quicksettings dropdown option when value returned is `None`,522,True,True,2023-08-30T04:41:47Z,2023-08-30T04:41:47Z,1,2,0,1,1,1,2,20644354.197923
+12818,Add option to align with sgm repo's sampling implementation,736,True,True,2023-08-29T05:54:09Z,2023-08-29T05:54:09Z,1,3,6,3,14,2,16,20802871.197923
+12834,Fix notification not playing when built-in webui tab is inactive,308,True,True,2023-08-29T05:55:45Z,2023-08-29T05:55:45Z,1,2,0,1,1,1,2,20731467.197923
+12833,Don't print blank stdout in extension installers,332,True,True,2023-08-29T06:00:34Z,2023-08-29T06:00:34Z,1,2,1,1,3,1,4,20734545.197923
+12832,Honor `--skip-install` for extension installers,414,True,True,2023-08-29T05:58:02Z,2023-08-29T05:58:02Z,1,2,0,1,2,1,3,20734992.197923
+12795,Prevent duplicate resize handler,349,True,True,2023-08-27T06:24:42Z,2023-08-27T06:24:42Z,1,2,0,1,3,1,4,20890646.197923
+12819,Add missing infotext for RNG in options,310,True,True,2023-08-28T04:20:34Z,2023-08-28T04:20:34Z,1,2,0,1,1,1,2,20802544.197923
+12792,Hide broken image crop tool,488,True,True,2023-08-27T06:26:50Z,2023-08-27T06:26:50Z,1,3,1,1,8,0,8,20922728.2012
+12780,Don't show hidden samplers in dropdown for XYZ script,200,True,True,2023-08-27T06:28:12Z,2023-08-27T06:28:12Z,1,2,0,1,3,3,6,20976622.2012
+12714,Reset columns on resize handle double click,201,True,True,2023-08-22T04:30:52Z,2023-08-22T04:30:52Z,1,2,0,1,2,0,2,21334425.2012
+12687,Add resize-handle (built-in extension),788,True,True,2023-08-20T09:42:12Z,2023-08-20T09:42:12Z,1,2,2,2,116,0,116,21457688.2012
+12648,"Gallery: Set preview to `True`, allow custom height",359,True,True,2023-08-19T05:06:13Z,2023-08-19T05:06:13Z,1,2,0,2,2,1,3,21620171.2012
+12634,Improve interrupt speed,461,True,True,2023-08-19T05:05:36Z,2023-08-19T05:05:36Z,1,2,0,3,5,1,6,21653423.2012
+12645,Make results column sticky,515,True,True,2023-08-19T05:27:28Z,2023-08-19T05:27:28Z,1,3,1,1,9,2,11,21623623.796092

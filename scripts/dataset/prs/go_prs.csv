@@ -1,0 +1,101 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToAnalysis
+49799,syscall/js: allocate makeArgs slices on stack,854,True,False,,2024-04-04T19:44:21Z,4,3,7,1,31,6,37,76105415.627811
+61242,encoding/json: prevent duplicate slicebytetostring,1175,True,False,,2024-04-02T15:04:33Z,1,3,28,2,14,2,16,25083164.628944
+57460,cmd/link: remove objIdx structure,346,True,False,,2024-03-23T04:35:53Z,2,3,43,1,30,44,74,41960846.369389
+43287,cmd/go: support go go gadget syntax,75,True,False,,2024-03-16T13:29:11Z,1,7,14,1,6,0,6,105538674.29173
+58282,net/http: add ResponseController http2 request without body read deadline test,29,True,False,,2024-03-06T19:26:41Z,1,3,23,1,15,0,15,38595275.67282
+48881,modify the test case,44,True,False,,2021-10-11T19:13:17Z,1,3,8,1,3,3,6,80209646.681573
+64728,database/sql: wrap errors with %w in driverArgsConnLocked,274,True,False,,2024-02-27T16:35:59Z,1,3,25,3,48,1,49,11364522.503632
+65900,runtime/coverage: remove refs to deprecated io/ioutil,0,True,False,,2024-02-26T14:46:05Z,1,3,11,1,3,3,6,5292797.503632
+65833,crypto/x509: fix typo,0,True,False,,2024-02-26T21:04:54Z,1,3,8,1,1,1,2,5489370.503632
+65750,reflect: make Value.Comparable return true for nil interface value,12,True,False,,2024-02-17T00:19:07Z,1,3,20,2,7,1,8,5882674.507878
+65747,crypto/subtle: remove unused code,0,True,False,,2024-02-16T16:01:49Z,1,3,10,1,0,8,8,5894351.507878
+65360,errors: unwrap joinError to avoid deeply-nested joins,1145,True,False,,2024-02-16T03:19:02Z,1,2,8,2,25,13,38,7389956.507878
+65510,cmd/internal/bio: query /proc/sys/vm/max_map_count on linux if possible,80,True,False,,2024-02-06T11:35:52Z,1,2,5,1,15,2,17,6920351.278454
+65422,Update and rename SECURITY.md to Nytonecombek,1211,True,False,,2024-02-01T07:52:32Z,2,2,1,1,0,0,0,7204290.015236
+56127,cmd/go/internal/load: improve comments,133,True,False,,2024-01-29T17:30:19Z,1,3,14,1,2,2,4,48557629.017443
+57390,encoding/asn1: use errors.New to replace fmt.Errorf,0,True,False,,2023-12-30T04:52:54Z,1,3,10,1,1,1,2,42548630.77386
+60124,net/http/httptest: remove unnecessary creation of http.Transport,148,True,False,,2023-11-06T21:28:24Z,1,3,21,1,1,1,2,30195367.407196
+58299,crypto: support errors.Unwrap() for more crypto errors,195,True,False,,2023-10-04T14:04:08Z,1,2,3,11,29,25,54,38526425.80881
+60178,cmd/go/internal/generate: error if failed to find a package,115,True,False,,2023-09-09T01:56:19Z,1,3,35,2,14,1,15,29967577.932747
+42808,encoding/xml: prevent multiple XMLNS attributes,340,True,False,,2023-08-29T13:03:26Z,1,3,7,2,26,8,34,107739243.799222
+61817,slices: add Concat,12,True,False,,2023-08-08T15:46:14Z,1,3,12,3,32,0,32,22543104.93356
+61607,cmd/go: missing name in failed command error,117,True,False,,2023-08-02T15:22:01Z,1,3,15,2,7,1,8,23527557.700251
+60026,errors: optimize *joinError's Error method for less allocation and faster execution,129,True,False,,2023-07-31T18:43:32Z,4,4,37,1,15,6,21,30573613.700251
+61440,reflect: deprecate PtrTo,111,True,False,,2023-07-27T23:34:47Z,1,3,37,4,5,2,7,24202142.700251
+50483,cmd/go: cache coverage profile with tests,319,True,False,,2023-07-25T21:50:49Z,1,4,19,4,151,20,171,72460492.717586
+60960,all: fix typos,0,True,False,,2023-07-18T20:03:19Z,2,3,11,16,18,18,36,26472025.717586
+58515,net/http: delete blank lines,0,True,False,,2023-07-15T16:03:21Z,7,4,8,10,0,14,14,37613407.70652
+57265,all: upgrade Unicode from 13.0.0 to 15.0.0,686,True,False,,2023-02-06T04:38:57Z,1,3,10,6,737,371,1108,43099603.70652
+60778,internal/trace: reduce if statement,161,True,False,,2023-06-23T17:49:56Z,1,3,6,1,2,3,5,27253728.70652
+44998,cmd/link: bring back R_ARM_V4BX for Annapurna AL-212 and possibly others,1351,True,False,,2023-06-13T22:30:51Z,1,3,12,1,6,0,6,98228321.874436
+56161,net: The Go DNS resolver on Windows should filter disabled interfaces,182,True,False,,2023-06-02T17:04:25Z,2,3,15,1,5,0,5,48451877.874436
+57448,"net/http: check for nil, nil return from DialContext as well as Dial",0,True,False,,2023-05-24T21:35:15Z,1,3,18,1,5,1,6,42241595.983281
+56856,live objects metric,27,True,False,,2023-05-23T07:35:22Z,3,2,8,4,21,0,21,45056534.983281
+57439,cmd api NewWalker Reducing the code makes the code more concise,76,True,False,,2023-04-10T03:48:53Z,1,3,3,1,1,1,2,42292194.452217
+50939,"net/http: expose ""http: server gave HTTP response to HTTPS client"" error",141,True,False,,2023-04-07T19:53:36Z,1,3,21,2,5,1,6,70297846.452217
+59449,sort: clarify that sort/slice uses reflection in doc,37,True,False,,2023-04-06T23:45:24Z,1,3,7,1,6,0,6,33298888.722403
+59144,"all: replace fmt.Sprintf(""%d"") with strconv.Itoa",289,True,False,,2023-03-31T18:46:08Z,3,4,20,7,17,10,27,34664644.722403
+59301,errors: improve the godoc for Join and Unwrap,155,True,False,,2023-03-30T23:55:36Z,1,2,13,2,4,1,5,33925322.722403
+59160,sync: fix TestCondSignalStealing flake,13,True,False,,2023-03-22T18:59:32Z,1,4,7,1,1,6,7,34616658.733941
+59085,os: avoid creating a new file in Truncate on Windows,391,True,False,,2023-03-22T07:11:48Z,2,3,23,2,21,1,22,34939213.733941
+59047,errors: correct spelling,0,True,False,,2023-03-16T16:11:53Z,2,4,6,1,2,2,4,35092213.733941
+59052,cmd: fix typo in webhtml.go,19,True,False,,2023-03-15T22:54:57Z,2,4,3,1,1,1,2,35079007.733941
+58575,strconv: add Atoi test cases with characters less than '0',0,True,False,,2023-02-21T05:16:46Z,1,3,11,1,2,0,2,37358894.556873
+57717,invalid parameters were omitted mode,36,True,False,,2023-02-15T03:01:03Z,1,3,1,1,3,3,6,40637184.556873
+53920,time: adjust time zone offset if desired location differs mere seconds when parsing string,280,True,False,,2023-01-31T17:35:45Z,1,3,4,2,44,0,44,55979337.316051
+56405,debug/elf: use saferio.SliceCap when decoding ELF sections,183,True,False,,2022-10-25T16:56:57Z,1,4,11,1,9,5,14,47316846.668695
+56431,debug/elf: guard access to File.gnuVersym,476,True,False,,2022-10-26T22:30:55Z,1,3,6,1,6,2,8,47187040.668695
+54808,runtime: fix printlock/printunlock deadlock,12,True,False,,2022-09-08T07:51:08Z,1,3,13,4,96,46,142,51952277.091404
+54428,cmd/go: fix data race in TestScript,12,True,False,,2022-08-24T00:17:26Z,1,3,5,1,8,1,9,53603421.243126
+52121,net/http: trim cookie names,396,True,False,,2022-08-12T16:28:04Z,1,3,14,2,8,0,8,65024789.756821
+53966,cmd/cgo: panic when length too large,12,True,False,,2022-07-20T23:54:11Z,1,4,13,1,3,0,3,55665101.756821
+53931,cmd/go: add space after comma in 'go help test',105,True,False,,2022-07-25T18:18:08Z,1,3,16,2,2,2,4,55834864.05871
+52771,database/sql: add SetMaxBadConnRetries,191,True,False,,2022-07-25T12:01:03Z,2,3,9,2,100,106,206,61979480.059756
+50903,net/http: remove Content-Encoding in writeNotModified,307,True,False,,2022-07-11T08:26:42Z,1,3,22,2,55,0,55,70504350.370144
+50739,strings/clone: pretty comments,30,True,False,,2022-05-27T09:00:17Z,1,4,5,1,1,1,2,71196553.151384
+42597,net/http: allow sending 1xx responses,930,True,False,,2022-05-17T16:14:07Z,2,6,79,4,163,11,174,108677379.488726
+49824,debug/dwarf: remove unnecessary conditional in typeUnitReader.Seek,134,True,False,,2022-05-07T00:31:36Z,1,3,12,1,1,1,2,75885895.294401
+52423,reflect: support Len and Cap on pointer-to-array Value,12,True,False,,2022-04-25T23:23:09Z,4,3,50,2,78,2,80,63608420.367063
+52393,test/typeparam: fix copyright message,0,True,False,,2022-04-21T23:45:43Z,1,3,6,1,1,1,2,63762894.367063
+47333,go/printer: secure margin for testing on slowly device,12,True,False,,2022-04-18T06:20:37Z,1,3,1,1,1,1,2,87041711.367063
+48104,net/http: add MaxBytesHandler,12,True,False,,2021-11-09T18:29:18Z,3,3,10,2,69,0,69,83529285.766094
+50980,cmd/compile: edit README,62,True,False,,2022-02-02T19:33:45Z,1,2,4,1,4,5,9,70146715.458398
+50843,io: add WriterTo support to MultiReader,18,True,False,,2022-01-28T09:35:58Z,1,3,6,2,46,0,46,70719898.459431
+43321,misc/trace: fix typo in message,17,True,False,,2021-12-15T19:10:53Z,2,5,1,1,1,1,2,105323565.489617
+42541,runtime/pprof: method StartCPUProfile adds a parameter to allow custom cpu rate.,12,True,False,,2021-12-15T19:10:46Z,1,4,3,1,4,0,4,108780271.805073
+40829,cmd/go: support non .go named files in go build,12,True,False,,2021-12-15T19:10:12Z,1,5,3,4,69,29,98,116369976.811892
+40428,strings: improve performance of ToUpper and ToLower,269,True,False,,2021-12-15T19:09:30Z,1,5,13,2,9,10,19,118115849.811892
+39556,encoding/csv: allow for interpretation of empty lines,289,True,False,,2021-12-15T19:09:24Z,2,6,10,2,35,10,45,122002488.255211
+39110,math: add more examples,30,True,False,,2021-12-15T19:07:13Z,1,5,21,1,28,0,28,124330234.255211
+39073,encoding/asn1: respect omitempty when marshaling nil values,256,True,False,,2021-12-15T19:07:13Z,1,5,14,2,10,0,10,124496819.255211
+39015,container/list: check the list state before mutation,321,True,False,,2021-12-15T19:07:12Z,1,5,3,2,40,10,50,124699896.255211
+28735,encoding/json: document the unmarshalling of missing json fields,241,True,False,,2021-12-15T19:04:00Z,1,5,6,1,2,1,3,171953097.452293
+28726,doc: add missing import of the log package,133,True,False,,2021-12-15T19:03:59Z,1,4,17,1,4,1,5,172003707.452293
+28624,encoding/json: add simple example,62,True,False,,2021-12-15T19:03:59Z,2,5,10,1,22,0,22,172437287.330251
+25154,encoding/json: include property name for marshal errors,357,True,False,,2021-12-15T19:03:38Z,1,5,23,2,102,13,115,188996861.330251
+49588,doc: go1.18 release notes for CLs 323318/332771,14,True,False,,2021-11-27T19:53:38Z,1,2,14,1,8,6,14,77008599.162359
+39245,syscall: support O_SYNC flag for os.OpenFile on windows,295,True,False,,2021-11-16T06:01:34Z,2,4,41,1,4,0,4,123543167.336544
+23805,add function for bool in math/rand,45,True,False,,2021-11-09T15:20:05Z,2,6,23,1,5,0,5,195474713.336544
+47531,cmd/go: go clean should list all deleted files,148,True,False,,2021-11-09T03:06:20Z,1,3,3,1,15,10,25,85882129.359933
+42511,refractor,35,True,False,,2021-10-30T00:04:05Z,1,3,5,2,2,7,9,108862732.379668
+48761,Links for installer in readme,1211,True,False,,2021-10-20T05:08:57Z,1,3,2,1,8,0,8,80621914.379668
+47940,math/big: Support precision of -1 in Rat.FloatString,12,True,False,,2021-08-26T02:59:41Z,1,3,2,1,4,0,4,84152111.786327
+47420,"doc/asm: update pseudo SP desc, SP points to the bottom of the local stack",158,True,False,,2021-08-16T16:34:35Z,1,3,1,1,3,2,5,86583276.819518
+47254,test/bench/go1: fix size for RegexpMatchMedium_32,0,True,False,,2021-07-18T21:06:06Z,1,3,8,1,1,1,2,87503361.9132
+43900,[dev.boringcrypto] crypto/boring: Introduce OpenSSL port,1863,True,False,,2021-07-06T22:06:50Z,1,3,11,44,5063,1396,6459,102373724.222938
+46324,doc/go1.17: document testing changes for Go 1.17,24,True,False,,2021-06-04T14:34:58Z,1,3,13,1,1,2,3,92253431.018249
+46389,"runtime,cmd/link/internal/ld: fix typos",9,True,False,,2021-05-26T16:16:18Z,2,4,5,2,2,2,4,91948799.778221
+44802,all: fix spelling,0,True,False,,2021-05-14T01:00:09Z,1,3,8,5,5,5,10,99057573.069582
+45771,doc: change <a/> to </a> in spec,0,True,False,,2021-04-27T04:46:55Z,1,3,5,1,1,1,2,94537799.671519
+42768,net: pass MSG_CMSG_CLOEXEC flag in ReadMsgUnix ,352,True,False,,2021-04-19T21:30:42Z,18,4,94,12,186,13,199,107930720.400777
+42618,database/sql: remove unnecessary types in composite literals,0,True,False,,2021-03-25T14:54:59Z,2,4,11,1,3,3,6,108530135.966822
+42793,net: add IP.IsPrivate,103,True,False,,2021-03-22T21:39:06Z,3,5,39,2,43,0,43,107791351.966822
+40165,crypto/ecdsa: fix dead reference link,81,True,False,,2021-03-13T11:28:49Z,1,4,14,1,1,1,2,119494221.432935
+44470,fix: io/copy document. fix #44411,78,True,False,,2021-02-21T23:18:00Z,1,3,4,1,4,0,4,100095158.826291
+39330,path/path: Avoid removing wildcard in front of /..,13,True,False,,2020-12-05T09:47:42Z,2,4,7,4,21,5,26,123052645.186038
+42623,internal/fmtsort: sort the unsafe pointers in map,183,True,False,,2020-11-19T02:19:41Z,1,4,24,2,23,1,24,108472031.349056
+27971,net/http: add Post example,87,True,False,,2020-11-10T19:18:07Z,3,5,5,1,17,0,17,175470329.349056
+36826,os: do not use procfs for os.Executable in dragonfly,425,True,False,,2020-10-28T17:10:26Z,2,4,25,4,54,30,84,133761157.292682
+42059,cmd/compile/internal/gc: use plural nouns in comments,0,True,False,,2020-10-19T21:42:41Z,1,3,6,1,3,3,6,110862666.466421
+39989,io: add ErrBadWriteCount,12,True,False,,2020-10-13T17:46:52Z,1,4,27,2,37,2,39,120317344.466421
