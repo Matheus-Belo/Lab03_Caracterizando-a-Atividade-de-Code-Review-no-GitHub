@@ -1,0 +1,101 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToAnalysis
+2742,[RFC] add metadata alongside templates,4379,True,False,,2021-11-07T20:57:22Z,7,10,15,19,119,155,274,184652651.855203
+3884,Go: Ignore Go workspace file go.work,366,True,True,2021-12-04T21:22:31Z,2021-12-04T21:22:31Z,1,6,10,1,3,0,3,77146025.855203
+3664,update laravel.gitignore for ignore all lock file,59,True,False,,2024-03-19T15:23:29Z,1,4,2,1,1,0,1,99948988.855203
+3645,Add .tye/ folder to VisualStudio.gitignore,73,True,False,,2024-03-08T07:01:25Z,2,3,0,1,3,0,3,101283446.855203
+2483,Add *.snk strong name key files,625,True,True,2017-12-26T03:30:10Z,2017-12-26T03:30:10Z,1,5,5,1,4,0,4,207970714.863799
+4049,Create Dbt.gitignore,405,True,False,,2024-01-17T01:24:24Z,1,2,0,1,5,0,5,63023677.863799
+3976,Ignore PDM project-wide config,440,True,True,2022-03-29T03:18:27Z,2022-03-29T03:18:27Z,6,7,6,1,9,1,10,68918580.885075
+4348,Update MATLAB.gitignore,32,True,False,,2023-10-29T16:47:27Z,1,2,0,1,3,0,3,20497655.885075
+3567,Add .godot/ folder to Godot.gitignore for Godot 4,559,True,True,2022-12-18T19:57:20Z,2022-12-18T19:57:20Z,2,10,11,1,4,0,4,109789171.885075
+3014,Ballerina gitignore file added,292,True,False,,2023-05-03T04:47:11Z,2,4,3,1,44,0,44,160563674.885075
+4334,Add files Dotnet gitignore,193,True,False,,2023-10-21T13:04:13Z,1,3,1,1,477,0,477,23125041.89313
+4140,Add ignores for Angular projects,305,True,False,,2023-10-19T00:48:47Z,4,2,0,1,30,0,30,52149454.89313
+4239,Add delve debug binary,488,True,False,,2023-10-05T19:43:31Z,1,2,0,1,3,0,3,38737728.89313
+4038,tidy: Fix the inconsistent line breaks,101,True,False,,2023-07-27T15:16:45Z,1,1,0,1,2,0,2,64438693.306231
+4313,[ADD] Added *.pyc and *.DS_Store,106,True,False,,2023-06-27T02:58:24Z,1,4,4,1,1,0,1,27000301.307228
+3429,Use the correct product name for IntelliJ IDEA,616,True,False,,2023-06-23T23:48:10Z,1,2,0,2,4,4,8,122823864.307228
+3531,Update CMake.gitignore,94,True,False,,2023-06-02T15:00:39Z,1,2,4,1,1,0,1,113130670.307228
+3452,Exclude *.tfvars files,1189,True,True,2020-07-07T00:36:25Z,2020-07-07T00:36:25Z,1,5,8,1,5,4,9,120911889.796394
+4283,Update Go.gitignore,205,True,False,,2023-05-06T14:24:11Z,1,2,0,1,1,0,1,32228840.796394
+4136,update ignore,188,True,False,,2023-04-23T09:17:41Z,2,2,0,1,4,0,4,52386238.796394
+3944,Update Python.gitignore,256,True,False,,2023-04-16T10:55:22Z,1,3,1,1,3,0,3,72227049.796394
+4275,Add .vscode/ to Unity.gitignore,157,True,False,,2023-04-15T14:24:07Z,1,3,1,1,3,0,3,33308067.804664
+3498,Update C.gitignore,179,True,False,,2023-02-11T09:34:36Z,1,2,0,1,1,0,1,117156690.382907
+2859,[Terraform] added plan files,274,True,False,,2023-02-02T08:01:20Z,2,6,8,1,3,0,3,173241793.382907
+3937,feat(terraform): adding lock file ignore,481,True,False,,2022-12-28T06:45:48Z,9,5,9,1,5,2,7,73687539.390892
+3312,Changes the name of Perl 6 to Raku,504,True,True,2020-02-19T18:10:09Z,2020-02-19T18:10:10Z,1,2,2,1,1,1,2,131922683.994549
+3769,Python.gitginore: add configuration directory by pycharm-jetbrains IDE,488,True,False,,2022-11-19T19:13:38Z,1,3,0,1,3,0,3,89536016.995583
+4071,Update Laravel.gitignore to latest version,116,True,False,,2022-11-04T07:01:17Z,2,2,0,1,12,21,33,61089289.995583
+4122,Update Node.gitignore,213,True,False,,2022-10-01T15:11:11Z,2,3,1,1,3,0,3,54789889.995583
+3495,Add gitignore support for ATS lang,517,True,False,,2022-08-10T12:12:25Z,1,2,0,1,9,0,9,117321218.463341
+3486,Add Storybook static build directory to Node.gitignore,410,True,False,,2021-12-04T21:39:12Z,2,6,7,1,3,0,3,117860449.463341
+4063,added .idea folder to Visual studio cache,87,True,False,,2022-07-23T23:52:49Z,1,2,0,1,1,0,1,61996452.463341
+4070,Update Maven.gitignore,494,True,False,,2022-05-21T21:41:16Z,2,2,1,1,3,0,3,61152568.584456
+3509,Add some comments to the VSC gitignore,109,True,False,,2022-05-19T00:56:05Z,1,2,0,1,4,1,5,115725788.584456
+3508,Terraform template - add Terragrunt exclusions,723,True,False,,2022-05-19T00:56:05Z,1,2,0,1,4,0,4,115738158.584456
+3792,Add RStudio Connect folder to R gitignore,381,True,True,2021-12-11T00:11:17Z,2021-12-11T00:11:17Z,1,3,2,1,3,0,3,87017953.584456
+3943,Create Racket.gitignore,392,True,True,2022-02-16T04:31:41Z,2022-02-16T04:31:41Z,2,5,6,1,7,0,7,72374487.585871
+2679,[VisualStudio] Add Python venv and Django settings,233,True,False,,2022-04-02T02:04:50Z,3,5,6,1,14,0,14,189277050.585871
+4029,Switch to gender neutral terms,409,True,False,,2022-03-31T15:50:54Z,2,4,1,1,2,2,4,65288494.585871
+3442,Add gitignore support for the Zig programming language,459,True,False,,2022-02-27T10:50:28Z,8,7,8,1,7,0,7,121669237.153562
+3974,feat(terraform): adds tfvars.json to gitignore,147,True,True,2022-02-11T04:03:49Z,2022-02-11T04:03:49Z,1,2,0,1,1,0,1,69438916.654386
+3652,style(Autotools): remove trailing whitespaces,84,True,True,2021-06-10T04:32:09Z,2021-06-10T04:32:09Z,1,4,2,1,2,2,4,100544833.654386
+3514,Packer template - Exclude .pkrvars.hcl files,586,True,True,2022-01-30T17:25:03Z,2022-01-30T17:25:03Z,2,3,4,2,11,3,14,115136991.654386
+3866,Updated Visual Studio .gitignore. Added launchSettings.json as a user…,454,True,False,,2022-01-30T17:34:31Z,1,4,1,1,1,0,1,78448925.654386
+3926,Added HashiCorp Packer variables file,1634,True,False,,2022-01-30T17:34:19Z,1,3,1,1,13,0,13,74425098.654386
+3936,Add Docusaurus files to Node.gitignore,275,True,True,2022-01-08T04:57:27Z,2022-01-08T04:57:27Z,1,3,1,1,3,0,3,73727670.529999
+3935,Update Xcode.gitignore,337,True,True,2022-01-08T04:59:54Z,2022-01-08T04:59:54Z,1,3,0,1,1,21,22,73751316.529999
+3939,chore: Remove empty Travis-CI config,103,True,True,2022-01-08T04:54:47Z,2022-01-08T04:54:47Z,1,2,0,1,0,10,10,73093569.529999
+3533,Fixing typo in Terraform.gitignore,241,True,False,,2022-01-03T14:41:48Z,3,4,1,1,1,1,2,113029180.529999
+3102,Create Flutter.gitignore.,245,True,False,,2021-12-19T01:26:27Z,1,5,3,1,131,0,131,151761565.529999
+3636,Update Images.gitignore,284,True,False,,2021-12-19T01:25:28Z,1,3,1,1,7,0,7,102062761.761749
+3897,Ignore Rider files,908,True,False,,2021-12-19T01:18:36Z,1,2,2,1,6,0,6,76134710.761749
+3925,Ignore .bundle and vendor per official Jekyll documentation,386,True,True,2021-12-19T01:17:19Z,2021-12-19T01:17:19Z,1,2,0,1,3,0,3,74440859.761749
+3931,Create .gitignore,172,True,False,,2021-12-19T00:55:02Z,1,2,2,1,1,0,1,74225338.761749
+3784,Added wildcard to crash.log because the newer versions of Terraform c…,185,True,True,2021-12-11T00:44:20Z,2021-12-11T00:44:20Z,1,3,2,1,1,0,1,87797669.761749
+3780,add Umbraco excludes for version 9 / .Net 5 (Core),214,True,False,,2021-12-14T19:10:57Z,2,4,9,1,13,0,13,88147043.761749
+3869,Ignore directories from the Bazel IntelliJ plugin,424,True,True,2021-12-10T18:56:52Z,2021-12-10T18:56:52Z,1,2,0,1,7,0,7,78198970.761749
+3920,Ignore Eclipse .project and .classpath when using build tools Maven or Gradle,631,True,True,2021-12-13T17:30:04Z,2021-12-13T17:30:05Z,1,3,1,2,12,0,12,74729951.761749
+3921,GO: Added link to allow list template,284,True,True,2021-12-13T17:27:23Z,2021-12-13T17:27:23Z,1,2,0,1,3,0,3,74565142.761749
+3839,Fixed .vscode not being ignored,84,True,True,2021-12-11T00:04:11Z,2021-12-11T00:04:11Z,1,3,0,1,1,1,2,81213330.761749
+3916,Update VS Code to support *.code-snippets,328,True,True,2021-12-10T18:45:50Z,2021-12-10T18:45:50Z,1,2,0,1,1,0,1,74866867.968487
+3748,Delete Clojure.gitignore,171,True,False,,2021-12-11T04:11:13Z,1,2,1,1,0,1,1,91543832.968487
+3760,Add media folder to umbraco.gitignore,208,True,True,2021-12-11T04:07:02Z,2021-12-11T04:07:02Z,2,3,1,1,4,0,4,90202169.969001
+3919,Re-add .env to Node.gitignore,41,True,True,2021-12-11T03:56:11Z,2021-12-11T03:56:11Z,1,2,0,1,2,1,3,74779623.969001
+3838,Create Zig.gitignore,201,True,False,,2021-12-11T00:05:58Z,4,3,1,1,2,0,2,81375840.641702
+3544,Add svg temporary files,310,True,True,2021-12-11T00:01:15Z,2021-12-11T00:01:15Z,1,4,5,1,3,0,3,111730507.641702
+3324,ReactJS,908,True,False,,2021-12-10T18:58:36Z,1,7,5,1,76,0,76,131083099.641702
+3507,Update to Global/VisualStudioCode,314,True,False,,2021-12-10T18:45:13Z,1,3,1,1,2,0,2,115741413.641702
+3761,Dual license (add MIT),411,True,False,,2021-12-09T22:36:05Z,1,4,3,2,10,1,11,90133747.649784
+3832,Make not to ignore *.code-workspace,363,True,True,2021-12-07T06:59:14Z,2021-12-07T06:59:14Z,1,2,2,1,0,1,1,82017372.650212
+3894,Updated Node.gitignore,86,True,False,,2021-12-07T06:54:37Z,1,3,1,1,10,0,10,76572956.650212
+3871,Add .gitignore for Microsoft Business Central,594,True,True,2021-12-07T06:46:21Z,2021-12-07T06:46:21Z,2,4,4,1,22,0,22,78123145.810471
+3910,"Replace references of this repo's ""master"" branch with ""main"".",122,True,True,2021-12-07T06:28:26Z,2021-12-07T06:28:26Z,1,3,0,5,5,5,10,75139556.810471
+3378,Ignore everything in root directory for WordPress.gitignore,330,True,False,,2021-12-04T22:59:36Z,2,5,6,1,1,0,1,126723473.810471
+3295,Update and fix WordPress gitignore,4214,True,True,2021-12-04T20:39:42Z,2021-12-04T20:39:43Z,1,5,18,1,42,17,59,134159397.810471
+3124,Added VS Code support to UE4's gitignore,666,True,False,,2021-12-04T20:34:16Z,4,3,1,1,3,1,4,150508688.810471
+3464,Add .env.local to Node,283,True,False,,2021-12-05T00:04:40Z,1,2,2,1,1,0,1,119680833.810471
+3032,react gitignore,200,True,False,,2021-12-04T23:47:13Z,2,5,3,1,19,0,19,158567642.810471
+3562,feat(NuxtJS.gitignore): add support for NuxtJS,226,True,False,,2021-12-04T23:38:02Z,1,4,3,1,95,0,95,109992279.810471
+3549,Update Node.gitignore,220,True,False,,2021-12-04T23:27:46Z,1,4,3,1,1,0,1,111446507.241826
+3825,Remove nuget.config from VisualStudio.gitignore,574,True,True,2021-12-04T23:12:46Z,2021-12-04T23:12:46Z,1,2,1,1,0,3,3,82815494.241826
+3830,Add vuepress v2.x temp and cache directory,234,True,True,2021-12-04T23:06:26Z,2021-12-04T23:06:26Z,2,3,1,1,4,0,4,82514217.241826
+3547,Add IDE and Mac OS configuration on Laravel,350,True,False,,2021-12-04T22:27:12Z,1,3,2,1,6,0,6,111578664.241826
+3451,Add JetBrains note for PyCharm to Python.gitignore,1224,True,True,2021-12-04T22:26:50Z,2021-12-04T22:26:50Z,2,4,1,1,7,0,7,120941256.241826
+3864,Ignore Rails .env according recomendations,242,True,True,2021-12-04T22:18:33Z,2021-12-04T22:18:33Z,2,4,0,1,1,1,2,78562546.250071
+3885,Add replay_pid* to Java.gitignore,330,True,True,2021-12-04T22:03:30Z,2021-12-04T22:03:31Z,1,2,0,1,1,0,1,77060869.250368
+3872,Hugo: Add new .hugo_build.lock,284,True,True,2021-12-04T21:58:59Z,2021-12-04T21:58:59Z,1,2,0,1,3,0,3,78118710.250368
+3880,Update KiCad domain.,254,True,True,2021-12-04T21:30:10Z,2021-12-04T21:30:10Z,1,2,0,1,2,2,4,77601349.183966
+3888,Ignore default Recordings folder created by Unity Recorder package,475,True,True,2021-12-04T21:12:54Z,2021-12-04T21:12:55Z,1,2,0,1,3,0,3,76920509.183966
+3522,Created general gitignore template,451,True,False,,2021-12-04T20:53:31Z,1,3,3,1,46,0,46,113975719.183966
+3786,Ignore .idea And .vscode Folders in Python.gitignore,204,True,False,,2021-12-04T20:46:42Z,1,3,1,1,4,0,4,87325843.183966
+3655,.gitignore is not ignoring root files,604,True,False,,2021-12-04T20:39:59Z,3,4,1,1,4,1,5,100469520.19216
+3553,Create .gitignore,171,True,False,,2021-12-04T20:35:27Z,1,4,1,1,1,0,1,111150672.192426
+3515,Create binary,187,True,False,,2021-12-04T20:35:07Z,1,3,0,1,1,0,1,115079218.192426
+3121,Update VisualStudio.gitignore,544,True,True,2021-12-04T20:08:42Z,2021-12-04T20:08:42Z,2,5,3,1,11,0,11,150709654.878645
+3356,"added file extensions when glossaries is loaded with ""symbols"" option",463,True,True,2021-12-04T20:01:42Z,2021-12-04T20:01:42Z,1,2,0,1,3,0,3,128543022.878645
+3898,AL Language gitignore template,116,True,True,2021-12-04T19:41:03Z,2021-12-04T19:41:03Z,1,2,0,1,11,0,11,75885181.878645
+3093,Update Wordpress.gitignore,356,True,False,,2021-12-04T19:33:49Z,12,8,2,1,4,0,4,152744715.878645
+3899,Add `.RDataTmp` to R.gitignore,473,True,True,2021-12-04T19:11:39Z,2021-12-04T19:11:39Z,1,2,0,1,1,0,1,75765004.878645
+3678,Ignore autogenerated test scenes,188,True,False,,2021-12-04T16:01:47Z,1,3,1,1,4,0,4,98498382.878645

@@ -1,0 +1,101 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToAnalysis
+11128,"Add ""The Super Programmer""",0,True,True,2024-04-23T10:01:03Z,2024-04-23T10:01:03Z,1,2,4,1,1,0,1,175014.621087
+11123,9 page PDF from Dag Langmyhr (2010) about colours in LaTeX,914,True,True,2024-04-21T02:55:21Z,2024-04-21T02:55:21Z,3,3,0,1,1,0,1,685859.621087
+11126,chore(deps): bump tj-actions/changed-files from 44.0.0 to 44.3.0,6701,True,True,2024-04-21T02:53:49Z,2024-04-21T02:53:49Z,1,2,0,1,1,1,2,358164.621087
+11121,Adding a Computer Architecture Book.,826,True,True,2024-04-14T14:45:35Z,2024-04-14T14:45:35Z,1,3,1,1,1,0,1,916497.621087
+10941,Add CSS handbook,885,True,True,2023-11-13T00:43:48Z,2023-11-13T00:43:48Z,1,3,2,1,1,0,1,15186694.621087
+11119,Content proposal in C# (fr) and Spring (en),924,True,True,2024-04-12T20:34:36Z,2024-04-12T20:34:36Z,3,3,2,1,1,0,1,1099105.621087
+11115,Added new freecodecamp links,91,True,True,2024-04-10T12:36:04Z,2024-04-10T12:36:04Z,7,2,2,1,4,1,5,1665489.621087
+11116,"Change Linux Morteza Bashsiz, Add ceph and ansible from Morteza Bashsiz",797,True,True,2024-04-10T12:37:13Z,2024-04-10T12:37:13Z,5,2,3,1,13,3,16,1622569.621087
+9897,Update CONTRIBUTING.md,674,True,True,2023-10-06T16:21:12Z,2023-10-06T16:21:12Z,1,2,1,1,7,7,14,17452450.621087
+11112,chore(deps): bump tj-actions/changed-files from 43.0.0 to 44.0.0,7290,True,True,2024-04-01T19:49:13Z,2024-04-01T19:49:13Z,1,2,0,1,1,1,2,2168180.621087
+11113,chore(deps): bump eps1lon/actions-label-merge-conflict from 2.1.0 to 3.0.0,2430,True,True,2024-04-01T19:44:25Z,2024-04-01T19:44:25Z,4,3,0,1,1,1,2,2168176.621087
+11105,chore(deps): bump tj-actions/changed-files from 43.0.0 to 43.0.1,5085,True,False,,2024-03-30T11:29:53Z,1,1,1,1,1,1,2,2771903.621087
+9611,added Sinhala translation of the code of conduct,612,True,False,,2024-03-27T14:08:43Z,5,3,4,2,230,0,230,17820003.621087
+11100,chore(deps): bump tj-actions/changed-files from 42.0.4 to 43.0.0,6080,True,True,2024-03-18T00:24:06Z,2024-03-18T00:24:06Z,1,2,0,1,1,1,2,3378304.487708
+7437,Added Amazon Web Service (AWS) Arabic Playlist,612,True,True,2022-10-04T01:46:40Z,2022-10-04T01:46:40Z,2,4,5,1,1,0,1,49152017.487708
+11095,Mark AngularJS as deprecated on free-programming-books-langs.md,217,True,True,2024-03-12T16:42:00Z,2024-03-12T16:42:00Z,1,2,1,1,1,1,2,3871902.487708
+11080,Update free-programming-books-id.md,764,True,True,2024-03-04T15:04:00Z,2024-03-04T15:04:00Z,1,2,3,1,1,0,1,4529821.487708
+11086,Add Chinese courses about Python,0,True,True,2024-03-06T14:52:17Z,2024-03-06T14:52:18Z,1,2,2,1,10,4,14,4348119.487708
+11084,Add Chinese courses,0,True,False,,2024-03-06T01:30:17Z,2,2,1,1,1,0,1,4359280.487708
+11082,Add Chinese ai free courses,0,True,True,2024-03-05T18:56:15Z,2024-03-05T18:56:15Z,1,2,4,1,7,0,7,4418069.487708
+11071,chore(deps): bump tj-actions/changed-files from 42.0.0 to 42.0.4,7942,True,True,2024-02-24T22:48:03Z,2024-02-24T22:48:03Z,1,2,0,1,1,1,2,5192473.974239
+10977,added a course in free-courses-en.md,545,True,False,,2024-02-22T00:10:59Z,2,3,3,1,1,0,1,14269385.974239
+11054,"add link to MoonMath book (zk-SNARKs, zero-knowledge proofs)",1045,True,True,2024-01-24T23:54:31Z,2024-01-24T23:54:31Z,2,2,2,1,1,0,1,7847110.974239
+11048,chore(deps): bump tj-actions/changed-files from 41.1.0 to 42.0.0,6377,True,True,2024-01-22T03:54:07Z,2024-01-22T03:54:07Z,1,2,0,1,1,1,2,8217750.974239
+11043,Bump actions/upload-artifact from 3 to 4,865,True,True,2024-01-15T17:06:54Z,2024-01-15T17:06:54Z,1,3,0,2,8,5,13,8720899.838794
+11046,contribute Android PDF Books in English,612,True,False,,2024-01-15T17:09:19Z,1,3,2,1,7,0,7,8670593.838794
+11040,chore(deps): bump tj-actions/changed-files from 40.2.1 to 41.1.0,8068,True,True,2024-01-15T17:07:25Z,2024-01-15T17:07:25Z,2,3,0,1,1,1,2,8820504.838794
+10972,Added Design Pattern in free-programming-books-zh.md,612,True,False,,2024-01-15T07:55:02Z,1,3,3,1,1,0,1,14606949.838794
+11037,"add: 'JavaScript for Data Science' by Gans, Hodges, and Wilson",809,True,True,2024-01-10T16:17:22Z,2024-01-10T16:17:22Z,3,2,0,1,1,0,1,9153012.838794
+11036,"add: ""Research Software Engineering with Python"" by Irving et al",791,True,True,2024-01-10T16:16:51Z,2024-01-10T16:16:51Z,2,2,0,1,1,0,1,9153066.838794
+11027,Add The Mathematical Engineering of Deep Learning book,783,True,True,2024-01-04T16:53:42Z,2024-01-04T16:53:42Z,1,2,0,1,1,0,1,9664276.838794
+10393,Enhance Indonesian translation (review assistance requested),396,True,True,2024-01-03T16:39:24Z,2024-01-03T16:39:24Z,16,6,7,2,59,58,117,16495072.838794
+11011,Added Node.js courses from Microsoft Learn,1127,True,True,2023-12-26T14:47:18Z,2023-12-26T14:47:18Z,3,2,0,1,1,0,1,10730771.547798
+10264,Create CODE_OF_CONDUCT-ml.md (review requested),643,True,False,,2023-12-18T15:19:34Z,2,4,5,2,24,0,24,16786984.547798
+11005,"Added Proofs and Types book by Jean-Yves Girard, Paul Taylor and Yves Lafont",784,True,True,2023-12-18T15:15:00Z,2023-12-18T15:15:01Z,1,3,1,1,1,0,1,11276123.547798
+11003,add guide to cp book(changes made),632,True,False,,2023-12-15T17:26:34Z,1,3,2,1,1,0,1,11475213.547798
+11002,Add Latex Cheat Sheet,632,True,True,2023-12-13T14:07:47Z,2023-12-13T14:07:47Z,1,2,2,1,6,0,6,11567235.547798
+10014,Malabranch (malayim review needed),612,True,False,,2023-12-12T17:49:40Z,2,6,11,1,31,0,31,17182191.547798
+10999,chore(deps): bump tj-actions/changed-files from 40.1.1 to 40.2.1,7723,True,True,2023-12-11T04:10:02Z,2023-12-11T04:10:02Z,1,2,0,1,1,1,2,11845740.493957
+10998,chore(deps): bump actions/stale from 8 to 9,4884,True,True,2023-12-11T04:09:38Z,2023-12-11T04:09:38Z,1,2,0,1,2,2,4,11845745.493957
+10997,Add two Smalltalk books in pt-BR,869,True,True,2023-12-05T18:16:56Z,2023-12-05T18:16:56Z,2,2,1,1,7,0,7,12169951.493957
+10991,Added LaTeX book in free-programming-books-es.md,700,True,True,2023-12-04T18:05:05Z,2023-12-04T18:05:05Z,1,3,1,1,1,0,1,12601133.493957
+7036,format: syntax of `in-process` anotation should be `*(:construction: in process)*`,805,True,True,2023-11-29T22:15:41Z,2023-11-29T22:15:41Z,2,3,13,34,80,78,158,52556155.493957
+10963,Addition: Design Course,889,True,True,2023-11-21T14:06:36Z,2023-11-21T14:06:36Z,8,2,3,2,14,0,14,15050491.493957
+9681,Update free-courses-hi.md,612,True,True,2023-11-21T18:42:58Z,2023-11-21T18:42:58Z,2,2,2,0,0,0,0,17743585.493957
+10988,Roll up Three,33,True,True,2023-11-22T00:55:06Z,2023-11-22T00:55:07Z,2,1,4,4,7,2,9,13370096.493957
+10967,Two New Flatter Playlist Added,612,True,True,2023-11-22T00:33:03Z,2023-11-22T00:33:03Z,1,3,0,1,2,0,2,14889322.493957
+10859,Update free-programming-cheatsheets.md,664,True,True,2023-11-22T00:26:03Z,2023-11-22T00:26:03Z,2,3,2,1,2,0,2,15470750.502421
+10900,Updated free-courses-hi.md,971,True,False,,2023-11-22T00:24:06Z,2,3,5,0,0,0,0,15324179.502747
+10765,fix grammar in code_of_conduct-id.md,612,True,True,2023-11-22T00:17:08Z,2023-11-22T00:17:08Z,11,2,12,2,8,1,9,15739025.503102
+10799,Update free-programming-books-langs.md,723,True,False,,2023-11-22T00:16:22Z,3,3,4,1,1,1,2,15692929.503102
+10560,Update free-programming-books-hi.md,832,True,True,2023-11-22T00:09:15Z,2023-11-22T00:09:15Z,3,2,4,2,6,1,7,16151660.503102
+10658,Branch main veer,1020,True,True,2023-11-22T00:08:38Z,2023-11-22T00:08:38Z,1,2,2,1,1,0,1,15967418.503102
+10637,Update free-courses-hi.md 2 new course added 1. Core Java in hindi 2.…,826,True,False,,2023-11-21T23:15:59Z,2,3,3,1,2,0,2,16017184.63947
+10515,1,699,True,True,2023-11-21T23:04:48Z,2023-11-21T23:04:48Z,2,3,5,1,1,0,1,16227586.63947
+10985,chore(deps): bump actions/github-script from 6 to 7,4107,True,True,2023-11-21T22:56:36Z,2023-11-21T22:56:36Z,1,2,0,1,1,1,2,13659126.63947
+10437,"Added new courses , a MOOC site, and a programming playground",1337,True,True,2023-11-21T22:53:04Z,2023-11-21T22:53:04Z,7,2,4,2,7,0,7,16410736.63947
+10494,"Update free-courses-en.md - Added machine learning video link , Hacker's guide to model",573,True,True,2023-11-21T22:40:22Z,2023-11-21T22:40:22Z,2,2,0,1,1,0,1,16250604.63947
+10441,Added an important & informative book for Algorithm and Data Structures using Javascript. ,1034,True,False,,2023-11-21T22:39:42Z,2,3,2,1,1,0,1,16408304.63947
+10413,Update free-courses-ta.md,809,True,False,,2023-11-21T22:28:44Z,4,4,3,1,1,0,1,16451204.63947
+10158,Added Perl language course by freeCodeCamp,612,True,True,2023-11-21T22:26:07Z,2023-11-21T22:26:07Z,3,2,7,2,10,0,10,16950188.63947
+10331,Added Flutter course link by Codepur,824,True,False,,2023-11-21T22:19:21Z,3,4,2,1,1,0,1,16606018.63947
+10303,added KOTLIN Bengali Course,1137,True,False,,2023-11-21T21:09:26Z,4,3,4,1,2,2,4,16676585.63947
+10049,Update free-courses-hi.md,643,True,False,,2023-11-21T21:06:36Z,2,2,3,1,1,0,1,17101945.63947
+10063,added cloud computing course in hindi language,843,True,False,,2023-11-21T20:48:31Z,2,2,6,0,0,0,0,17093682.63947
+10047,Update free-courses-hi.md,612,True,True,2023-11-21T20:40:20Z,2023-11-21T20:40:20Z,1,3,3,1,3,0,3,17102745.63947
+10039,(changes made) Added course: OSCP prep (security),545,True,True,2023-11-21T20:28:13Z,2023-11-21T20:28:13Z,3,3,12,1,1,0,1,17117679.63947
+9993,added php tutorials,869,True,False,,2023-11-21T20:26:06Z,2,2,1,1,1,0,1,17215624.63947
+9992,added nextjs youtube tutoiral link,863,True,False,,2023-11-21T20:19:04Z,2,2,1,1,1,0,1,17216482.63947
+9925,nepali courses,496,True,True,2023-11-21T20:16:46Z,2023-11-21T20:16:46Z,4,2,5,1,36,10,46,17381591.63947
+9886,I added a Javascript e-book in the Bengali language.,769,True,True,2023-11-21T19:58:10Z,2023-11-21T19:58:10Z,3,3,3,1,3,1,4,17474130.424961
+9778,Added new link for course and free programming playgrounds,1063,True,False,,2023-11-21T19:52:03Z,3,3,6,2,2,0,2,17642486.424961
+9867,Update free-courses-hi.md,658,True,True,2023-11-21T19:39:41Z,2023-11-21T19:39:41Z,3,4,5,1,1,1,2,17525696.424961
+9654,Update free-courses-en.md,723,True,True,2023-11-21T19:18:55Z,2023-11-21T19:18:55Z,5,3,3,1,2,2,4,17786608.424961
+9598,feat: added web development free courses for beginners,996,True,True,2023-11-21T18:29:18Z,2023-11-21T18:29:18Z,1,2,10,1,7,1,8,17830771.424961
+9527,"added links to numpy , opencv yt playlist from yes tech",897,True,True,2023-11-21T14:08:27Z,2023-11-21T14:08:27Z,3,2,5,1,3,0,3,18495291.424961
+10965,Add the first course of Rust in pt-BR,700,True,True,2023-11-21T14:06:19Z,2023-11-21T14:06:20Z,1,2,0,1,6,0,6,14994634.424961
+10924,Update free-programming-books-pt_BR.md,612,True,True,2023-11-21T13:53:18Z,2023-11-21T13:53:18Z,5,3,5,1,1,0,1,15247996.424961
+10935,Updated programming tutorials,643,True,False,,2023-11-21T13:53:00Z,2,3,5,1,1,0,1,15199470.424961
+10923,Add algorithm playground,823,True,True,2023-11-21T13:46:19Z,2023-11-21T13:46:19Z,7,3,1,1,7,0,7,15250278.424961
+10910,Update free-courses-hi.md node js,672,True,True,2023-11-21T13:30:02Z,2023-11-21T13:30:02Z,2,2,2,1,1,0,1,15308021.424961
+10905,Adding a Data Science Free course and a React Free Courese,815,True,True,2023-11-21T13:29:05Z,2023-11-21T13:29:05Z,1,3,8,1,6,6,12,15317615.424961
+10892,Updated the title of playlist with the creator' name and institute as mentioned officially,818,True,True,2023-11-21T13:25:01Z,2023-11-21T13:25:01Z,5,2,1,1,1,0,1,15359827.424961
+10889,Updates Graph Courses in  free-courses-en.md,780,True,False,,2023-11-21T13:09:28Z,1,2,2,1,1,0,1,15364601.424961
+10842,Updated Kotlin course in  free-courses-en.md,778,True,True,2023-11-21T13:07:45Z,2023-11-21T13:07:45Z,2,3,2,1,1,0,1,15528829.424961
+10879,Update free-programming-books-langs.md,651,True,False,,2023-11-21T13:07:27Z,1,3,2,1,1,0,1,15407225.667659
+10834,Update README.md,612,True,True,2023-11-21T13:05:50Z,2023-11-21T13:05:50Z,3,3,0,1,2,2,4,15556971.667659
+10819,Added AI course in english,653,True,False,,2023-11-21T12:56:51Z,1,3,4,1,1,0,1,15616626.667659
+10783,[Review] Nepali Casts,639,True,False,,2023-11-21T12:54:39Z,1,2,4,2,17,0,17,15717122.667659
+10706,Books amend5000,612,True,False,,2023-11-21T12:53:12Z,7,3,14,1,3,1,4,15849494.667659
+10733,Update free-courses-en.md added a machine learning playlist,794,True,False,,2023-11-21T12:41:39Z,1,4,4,1,1,0,1,15814475.667659
+10766,Added Content to Learn Astro,840,True,True,2023-11-21T12:39:14Z,2023-11-21T12:39:14Z,1,2,4,1,8,0,8,15738496.667659
+10417,Code of Conduct for Marathi language added . (language review requested),599,True,True,2023-11-20T22:19:23Z,2023-11-20T22:19:23Z,1,3,8,2,33,0,33,16448749.667659
+10717,Update free-courses-ar.md,612,True,True,2023-11-17T18:37:24Z,2023-11-17T18:37:24Z,1,2,7,1,1,0,1,15838673.667659
+10721,Update free-courses-en.md,668,True,True,2023-11-17T18:04:46Z,2023-11-17T18:04:46Z,1,3,1,1,1,0,1,15835796.667659
+10757,Updated free-programming-books-sr.md withi Singidunum University books,1084,True,True,2023-11-17T17:59:20Z,2023-11-17T17:59:20Z,3,2,2,1,36,0,36,15775580.667659
+10711,Vim Playground Added,612,True,True,2023-11-17T17:48:46Z,2023-11-17T17:48:46Z,4,4,1,1,1,0,1,15845252.667659
+10760,Update free-courses-hi.md,84,True,False,,2023-11-17T17:48:18Z,2,4,2,1,1,0,1,15752849.667659
+10738,Update free-courses-en.md,628,True,True,2023-11-17T17:36:15Z,2023-11-17T17:36:15Z,5,3,2,1,1,0,1,15806424.667659
+10696,PHPによるプログラミング教育,852,True,False,,2023-11-17T17:12:44Z,4,2,8,1,1,0,1,15878640.667659

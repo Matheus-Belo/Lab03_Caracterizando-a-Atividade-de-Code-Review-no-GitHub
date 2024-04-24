@@ -1,0 +1,101 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToAnalysis
+32740,[YouPorn] Fix and improve extraction; add playlist extraction,2093,True,True,2024-04-22T00:34:27Z,2024-04-22T00:34:27Z,2,1,0,3,576,48,624,3892363.620637
+32762,[extractor/common] Fix crash in _report_ignoring_subs,1602,True,True,2024-04-05T14:25:29Z,2024-04-05T14:25:29Z,6,2,4,1,15,6,21,1837390.620637
+32752,[Youtube] Fix AttributeError no attribute '_YoutubeIE__ie_msg' if unable to decode n-parameter,785,True,True,2024-03-23T15:30:13Z,2024-03-23T15:30:13Z,1,2,1,1,3,3,6,2768295.620637
+28008,[doodstream] add new extractor,1351,True,False,,2024-03-19T09:15:13Z,1,6,4,3,75,0,75,102026354.620637
+32742,[Vimeo]  fix config parser regex,1519,True,True,2024-03-12T11:44:14Z,2024-03-12T11:44:14Z,1,2,2,1,2,2,4,3803916.620637
+32725,[XFileShare] Update for 2024 with new InfoExtractor features ,2002,True,True,2024-03-08T13:03:43Z,2024-03-08T13:03:43Z,5,1,0,6,276,182,458,5452252.620637
+28801,[utils] Handle user:pass in URLs,1505,True,True,2024-03-04T01:27:55Z,2024-03-04T01:27:55Z,3,3,5,2,34,1,35,95133497.620637
+23877,[utils] Fix handling of comments in js_to_json,1856,True,False,,2023-08-01T00:05:37Z,1,11,25,2,41,9,50,133721546.620637
+28446,[utils] Fix handling of comments in js_to_json,2025,True,False,,2024-03-04T00:03:11Z,1,6,5,2,44,10,54,98216029.620637
+32514,[caffeine.tv] Add new extractor,1164,True,True,2024-02-22T12:54:08Z,2024-02-22T12:54:08Z,4,2,0,2,80,0,80,21725433.628697
+29432,[GBNews]Add new extractor for GB News TV channel,1520,True,True,2024-02-22T12:44:00Z,2024-02-22T12:44:00Z,1,1,2,2,140,0,140,88992347.629118
+29343,[downloader/external] fix wget proxy,2432,True,False,,2024-02-21T16:29:09Z,1,3,2,1,4,1,5,89797070.835698
+30256,Comment Description YoutubeDL.py,1360,True,False,,2024-02-07T14:19:35Z,1,2,0,1,1,1,2,76468802.835698
+31174,[veejoy] Add new extractor,2053,True,False,,2024-01-30T23:17:42Z,17,2,8,2,161,1,162,53275027.835698
+31981,[infomaniak] Add new extractor to resolve #31329,837,True,False,,2024-01-27T11:08:42Z,1,2,1,2,69,0,69,33608515.835698
+32559,"Fix format string injection when using option --write-info-json for video with percent sign in title. (Caused TypeError ""not enough arguments for format string"")",1235,True,True,2023-12-06T02:45:41Z,2023-12-06T02:45:41Z,1,2,1,1,2,2,4,19338457.835698
+32634,[telewebion] fix extraction,1144,True,True,2023-12-02T15:25:09Z,2023-12-02T15:25:09Z,5,2,2,1,23,24,47,14253881.835698
+32628,[Epidemic Sound] Add new extractor,1114,True,True,2023-12-06T01:17:57Z,2023-12-06T01:17:57Z,6,2,6,2,102,0,102,14701974.835698
+31421,🩹 fix deprecation warning: Node.js 12 actions are deprecated.,1051,True,False,,2023-11-07T11:56:03Z,2,4,4,1,5,5,10,42939692.633517
+29155,[core] add autonumber_reset (closes #29158),2448,True,False,,2023-10-22T02:49:18Z,4,2,1,3,13,1,14,91758013.633517
+20870,[JioSaavn] Add extractor,1325,True,False,,2023-10-07T23:16:21Z,2,2,4,2,122,0,122,157523431.633517
+18530,Add support for gaana.com,1176,True,False,,2023-08-01T00:05:38Z,1,7,8,2,187,0,187,169112783.976013
+18380,Don't display messsage about confirmation code when file isn't downloadble,1148,True,False,,2023-08-01T00:05:39Z,1,3,0,1,12,7,19,170141978.183299
+18298,Added Proxy username:password to example,1576,True,False,,2023-08-01T00:05:38Z,1,3,0,1,2,1,3,170858168.183299
+18268,[narando] add new extractor,1210,True,False,,2023-08-01T00:05:39Z,3,3,4,2,85,0,85,171137529.183299
+17939,Rightnowmedia Support,1352,True,False,,2023-08-01T00:05:39Z,1,3,0,2,106,0,106,173821584.183299
+17077,Make proxy PRIVATE in verbose,1326,True,False,,2023-08-01T00:05:39Z,2,3,3,2,19,2,21,181274566.192276
+16958,[Mp4upload] new extractor (updated),827,True,False,,2023-08-01T00:05:39Z,6,5,3,2,146,0,146,182539867.192456
+26775,"[viu:ott] add support for premium account, add language_flag_id query param",690,True,False,,2023-08-01T00:05:35Z,1,5,3,1,96,10,106,112338522.617715
+26569,[bitchute] Fix error for geoblocking,773,True,False,,2023-08-01T00:05:35Z,2,4,0,1,11,2,13,114110707.617715
+26532,[Lumni] Add new extractor,1087,True,False,,2023-08-01T00:05:35Z,1,3,1,2,76,0,76,114559998.617715
+26464,[Alura] New extractor,1198,True,False,,2023-08-01T00:05:35Z,1,3,1,2,184,0,184,115333512.617715
+26910,Relaxed validation for format filters so that any arbitrary field can be used,1129,True,False,,2023-08-01T00:05:34Z,1,3,0,1,1,1,2,111038906.620497
+26836,[yandex video][yandex efir] fixed extractor,1404,True,False,,2023-08-01T00:05:35Z,1,3,0,1,40,8,48,111818683.620497
+25919,[realvision] Add extractor for RealVision.,1574,True,False,,2023-08-01T00:05:35Z,2,3,3,3,78,0,78,119874604.804575
+25783,[ard.py] add playlist support (solves issue #22209),1198,True,False,,2023-08-01T00:05:35Z,2,3,0,1,153,1,154,120926626.804575
+25103,Add xvideos3 to _VALID_URL regex,1308,True,False,,2023-08-01T00:05:35Z,18,3,3,1,19,3,22,125524176.805229
+26345,[doodstream] new extractor,1066,True,False,,2023-08-01T00:05:35Z,1,3,1,2,72,0,72,116385074.805229
+24906,[funimation] Add _get_subtitles,1650,True,False,,2023-08-01T00:05:36Z,1,4,2,1,26,1,27,126566287.805229
+24710,[Playerglobewien],1082,True,False,,2023-08-01T00:05:36Z,4,5,11,2,99,0,99,127527192.497628
+24430,[pbs] restore subtitles,908,True,False,,2023-08-01T00:05:36Z,2,8,10,1,12,0,12,129092828.498574
+24330,[skillshare:class] Add support for skillshare.com classes,1299,True,False,,2023-08-01T00:05:36Z,7,3,9,2,51,0,51,129940610.498574
+24327,[Vlaretv] Add new extractor,1076,True,False,,2023-08-01T00:05:36Z,1,3,0,2,29,0,29,129985302.498574
+24182,[bitchute] parse timestamp,1084,True,False,,2023-08-01T00:05:36Z,1,3,0,1,17,10,27,131032119.498574
+25424,[BritishCouncil] Add new extractor,1236,True,False,,2023-08-01T00:05:35Z,1,3,4,2,30,0,30,123410502.237214
+25308,Bilibili add list support,1079,True,False,,2023-08-01T00:05:35Z,2,7,12,2,313,205,518,124198747.237214
+25267,[orf] Add Radiothek extractor,939,True,False,,2023-08-01T00:05:36Z,1,3,0,2,33,0,33,124589386.237214
+24931,Add twitcasting history extractor,1234,True,False,,2023-08-01T00:05:36Z,10,4,3,2,93,7,100,126461500.237214
+24823,[youtube] Fix download of auto-captions when manual subtitles are available,2768,True,False,,2023-08-01T00:05:36Z,1,4,2,1,8,0,8,126902724.237214
+24488,Fix download with Token Authentication from funk.net (Nexx Player),1094,True,False,,2023-08-01T00:05:36Z,5,5,12,1,21,8,29,128717376.31666
+23742,[facebook] Add support for user video playlist,1081,True,False,,2023-08-01T00:05:37Z,12,4,5,2,126,0,126,134933031.31666
+22902,[thisoldhouse] Add metadata parsing,1258,True,False,,2023-08-01T00:05:37Z,7,3,2,1,42,2,44,141568186.31666
+22520,[fc2] Fixed fc2 video download,962,True,False,,2023-08-01T00:05:37Z,3,4,11,1,13,14,27,144426227.31666
+22150,[ADN] Use PhantomJS to get the subtitle encryption key (closes #12724),1316,True,False,,2023-08-01T00:05:37Z,3,4,3,1,32,4,36,147808095.36633
+22095,[gaana] Add new extractor,1112,True,False,,2023-08-01T00:05:37Z,1,5,2,2,206,0,206,148190433.36633
+21362,[xvideos] Add couple of other domains for /embedframe/ endpoint,1051,True,False,,2023-08-01T00:05:37Z,1,3,0,1,1,1,2,153730390.36633
+24233,[Airvuz] New extractor,1985,True,False,,2023-08-01T00:05:36Z,1,3,0,3,218,0,218,130691287.36633
+23985,[Rooster Teeth] Add subtitle support,1197,True,False,,2023-08-01T00:05:36Z,1,4,0,1,32,2,34,132889762.36633
+23827,[archiveorg] Fix extraction,1438,True,False,,2023-08-01T00:05:37Z,5,4,1,3,99,24,123,134083832.36633
+23704,[DRTV] DRTVPlaylist extractor,1094,True,False,,2023-08-01T00:05:36Z,1,3,0,2,111,1,112,135220797.36633
+23675,[tvnoe] Fixing/changing the extractor for TV Noe (Czech Christian TV),1347,True,False,,2023-08-01T00:05:36Z,1,3,3,1,41,26,67,135475099.36633
+23641,[la7] Fix extraction (problematic parsing as JSON of videoParams/videoLa7),1184,True,False,,2023-08-01T00:05:36Z,1,5,3,1,8,19,27,135728741.36633
+23366,[XFileShare] Add NxLoad,1285,True,False,,2023-08-01T00:05:37Z,1,3,0,1,14,3,17,138031349.375577
+23209,Copyedits for CONTRIBUTING.md,1061,True,False,,2023-08-01T00:05:37Z,3,5,0,1,17,17,34,139230372.375577
+22843,RaiPlay: Handle multiple arrays of subtitles,755,True,False,,2023-08-01T00:05:37Z,5,3,0,1,37,19,56,141960869.375577
+22699,[README.md] Mention different default format with -x,1297,True,False,,2023-08-01T00:05:37Z,1,3,0,1,2,0,2,142983916.375577
+21429,[tvplay] Extract subtitles for Viafree (closes #12685),1485,True,False,,2023-08-01T00:05:37Z,5,4,11,1,35,8,43,153181762.375577
+20871,[XVideos] Add support for untracked properties,1378,True,False,,2023-08-01T00:05:38Z,6,4,4,1,113,3,116,157520578.375577
+20706,[porntrex] Add New Extractor for porntrex.com Provides [PornTrex] and [PornTrexPlayList],1093,True,False,,2023-08-01T00:05:38Z,13,6,6,2,147,0,147,158373466.383665
+20518,add extractor for 13tv.co.il,856,True,False,,2023-08-01T00:05:38Z,2,3,0,3,89,0,89,159907616.383847
+20487,[Vimeo] Add new embedded type,4224,True,False,,2023-08-01T00:05:38Z,1,3,0,1,6,1,7,160324121.40636
+20484,Fixes #20480: Fixed RegexNotFoundError on RTP channel ,1406,True,False,,2023-08-01T00:05:38Z,1,4,5,2,50,34,84,160330923.40636
+20376,[vrv] fix thumbnails,1055,True,False,,2023-08-01T00:05:38Z,2,3,0,1,13,9,22,161192389.40636
+20350,Add support for websites with multiple LD-JSON objects,1453,True,False,,2023-08-01T00:05:38Z,3,3,0,2,54,4,58,161393148.40636
+20280, Download Original Thumb Size,1078,True,False,,2023-08-01T00:05:38Z,1,3,0,1,1,1,2,161914282.40636
+19183,[svtplay] Extract more metadata and higher resolution thumbnail (closes #18159),1210,True,False,,2023-08-01T00:05:38Z,1,3,1,1,74,34,108,164216409.414587
+19000,Add VdoCipher extractor,867,True,False,,2023-08-01T00:05:38Z,2,4,3,4,81,2,83,165527127.415353
+18957,[orf:fm4:story] Fix extraction (closes #18919),1261,True,False,,2023-08-01T00:05:38Z,1,4,2,1,18,3,21,165779472.415353
+18850,Facebook - get timestamp from tahoe if missing.,1332,True,False,,2023-08-01T00:05:38Z,5,4,3,1,95,23,118,166504825.41635
+18712,[gramofononline] new extractor,1063,True,False,,2023-08-01T00:05:38Z,11,3,1,2,140,0,140,167613321.41635
+20923,[europaconsilium] Add extractor (closes #20679),1558,True,False,,2023-08-01T00:05:37Z,4,3,1,3,70,3,73,157245386.443471
+20875,[17049] rudimental support of password-protected events (playlist) in…,1108,True,False,,2023-08-01T00:05:37Z,1,3,4,1,20,0,20,157509762.443471
+20833,[earthcam] Add new extractor per #19293,1054,True,False,,2023-08-01T00:05:38Z,1,4,0,2,66,0,66,157734241.443471
+20694,[changba] Add extractor per #20540,1321,True,False,,2023-08-01T00:05:38Z,4,4,1,2,60,0,60,158511207.443471
+20689,"[bajeczki] New extractor for ""bajeczki.org""",1490,True,False,,2023-08-01T00:05:38Z,1,3,0,2,33,0,33,158539615.443471
+20393,[BiliBili] Add support to download paged videos,1229,True,False,,2023-08-01T00:05:38Z,1,7,5,1,40,3,43,161060642.443471
+19085,Contar,829,True,False,,2023-08-01T00:05:38Z,10,3,1,2,287,0,287,164995698.443471
+18731,[facebook] extract better titles (fixes #14156),2520,True,False,,2023-08-01T00:05:38Z,1,5,4,1,4,0,4,167438324.73744
+18725,[dnb] Add new extractor,1095,True,False,,2023-08-01T00:05:38Z,1,3,1,2,76,0,76,167503174.73744
+20021,Handle Opus bitrate when quality is specified instead of bitrate,1419,True,False,,2023-08-01T00:05:38Z,2,3,0,1,9,1,10,162758707.73744
+19136,[adobepass] Fixes Adobe Pass for saml login errors with Verizon,1346,True,False,,2023-08-01T00:05:38Z,1,5,3,2,32,5,37,164657251.73744
+18913,[ruv] Fix extractor,1113,True,False,,2023-08-01T00:05:38Z,1,3,0,1,52,25,77,166137874.738437
+18622,[adobepass] support FubuTV MSO,813,True,False,,2023-08-01T00:05:38Z,1,4,0,1,44,17,61,168353225.738437
+17649,[nbc] Add support for series playlists,1297,True,False,,2023-08-01T00:05:39Z,2,3,4,2,102,3,105,176228478.738437
+17497,[niconico] Search Extractor,1431,True,False,,2023-08-01T00:05:39Z,2,3,1,2,56,2,58,177525301.080985
+17434,[PBS] Fix subtitle download,1473,True,False,,2023-08-01T00:05:39Z,4,4,2,2,48,2,50,177883364.080985
+17327,[olympicchannel] Add extractor,988,True,False,,2023-08-01T00:05:39Z,12,3,3,2,44,0,44,178807444.080985
+18547,Add new extractor: Kanal2,918,True,False,,2023-08-01T00:05:39Z,22,4,9,2,122,0,122,169009940.080985
+18521,[youtube] Fix TFA,2663,True,False,,2023-08-01T00:05:38Z,11,5,11,1,26,2,28,169218660.080985
+18070,Add support for safari learning paths,1117,True,False,,2023-08-01T00:05:39Z,3,6,27,2,58,1,59,172612700.080985

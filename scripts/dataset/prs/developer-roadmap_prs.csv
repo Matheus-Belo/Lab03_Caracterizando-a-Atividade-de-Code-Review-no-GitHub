@@ -1,0 +1,101 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToAnalysis
+5543,feat: add user open graph,0,True,True,2024-04-23T22:07:15Z,2024-04-23T22:07:15Z,3,2,0,3,55,8,63,97603.981828
+5527,"Fix broken video link, and add unlighthouse to the ressources",286,True,True,2024-04-22T04:53:13Z,2024-04-22T04:53:13Z,2,2,0,1,1,1,2,432378.981828
+5503,Update react.md - fixed grammatical error,129,True,True,2024-04-16T14:24:51Z,2024-04-16T14:24:51Z,1,2,0,1,1,1,2,790415.981828
+5480,feat: implement sponsor,0,True,True,2024-04-15T12:16:55Z,2024-04-15T12:16:55Z,1,2,0,2,38,2,40,1352871.981828
+5423,Youtube Link for Garbage Collection -Geekific in Java roadmap replace…,99,True,False,,2024-04-12T03:44:30Z,1,2,1,1,1,1,2,2236334.981828
+5471,Fix typo for the content typo of 102-chatty-io.md,64,True,True,2024-04-07T07:06:03Z,2024-04-07T07:06:03Z,1,2,0,1,1,1,2,1608315.981828
+5446,feat: implement guide table of content,0,True,False,,2024-04-03T16:26:25Z,1,2,1,10,209,38,247,1966765.738277
+5151,Update 101-sum.md,26,True,True,2024-02-07T15:47:22Z,2024-02-07T15:47:22Z,1,2,0,1,7,7,14,6666731.738277
+5425,Fix : Invalid link in Java Developer roadmap #5408,141,True,True,2024-03-30T21:14:26Z,2024-03-30T21:14:27Z,1,2,0,1,1,1,2,2197606.738277
+5417,Update 100-mediatr.md (fix a broken link),0,True,True,2024-03-27T21:17:00Z,2024-03-27T21:17:00Z,1,2,0,1,1,1,2,2403174.738277
+5414,Update 100-osi-model.md,57,True,True,2024-03-27T21:18:08Z,2024-03-27T21:18:08Z,1,2,1,1,2,2,4,2428469.738277
+5399,feat/ Added complexity video resource,93,True,True,2024-03-26T22:43:14Z,2024-03-26T22:43:14Z,1,2,0,1,3,1,4,2701028.738277
+5380,Fix typo in System Design Roadmap,0,True,True,2024-03-22T08:47:48Z,2024-03-22T08:47:48Z,1,2,0,1,1,1,2,3040535.344705
+5365,Updated index.md,88,True,True,2024-03-18T15:43:49Z,2024-03-18T15:43:49Z,1,2,0,1,2,2,4,3210066.344705
+5227,Fixing typo in typescript as type,177,True,True,2024-03-04T13:46:22Z,2024-03-04T13:46:22Z,1,2,0,1,1,1,2,5443821.166858
+5247,Fix formatting,0,True,True,2024-03-04T13:41:11Z,2024-03-04T13:41:11Z,1,2,0,1,1,1,2,5022102.166858
+5282,Fix: Corrected a typo in get started page,113,True,True,2024-03-03T16:38:37Z,2024-03-03T16:38:37Z,1,2,0,1,1,1,2,4505976.166858
+5172,Added two Rust courses,0,True,True,2024-02-14T11:15:27Z,2024-02-14T11:15:27Z,1,2,0,1,3,1,4,6233765.300494
+5177,Made Changes to quarternions,0,True,True,2024-02-14T11:13:35Z,2024-02-14T11:13:35Z,1,2,0,1,5,1,6,6129894.300494
+5179,fix: disable login buttons,201,True,True,2024-02-14T11:10:09Z,2024-02-14T11:10:09Z,2,2,0,9,116,61,177,6066219.300494
+5166,Typo Fix,77,True,True,2024-02-11T15:45:57Z,2024-02-11T15:45:57Z,1,2,2,2,2,2,4,6312680.300494
+5045,fix: broken link in python and also add another similar resource,227,True,True,2024-02-04T16:02:18Z,2024-02-04T16:02:18Z,2,3,3,1,3,1,4,8428063.300494
+5134,fix all nodejs doc redirection from .dev to .org,196,True,True,2024-02-04T16:09:29Z,2024-02-04T16:09:29Z,1,2,1,11,12,11,23,6922821.300494
+5121,Fix #5058 : Add Pointers chapter in GoLang Roadmap,974,True,False,,2024-02-02T08:07:03Z,1,3,0,1,11,0,11,7156737.300494
+5069,Added TypeScript and replaced Postgres with MongoDB in Full Stack Roadmap,204,True,False,,2024-01-29T09:12:45Z,1,1,3,28,199,139,338,8060767.300494
+5088,fix: remove the non-English youtube video from blockchain roadmap,88,True,True,2024-01-25T16:52:18Z,2024-01-25T16:52:19Z,1,2,0,1,0,1,1,7810907.67869
+5014,fix: replace the broken youtube link with the correct one in ux-design,54,True,True,2024-01-25T15:44:52Z,2024-01-25T15:44:52Z,3,4,0,1,1,1,2,9075181.67869
+5061,fix: broken link in frontend performance recommended guides,181,True,True,2024-01-25T15:43:13Z,2024-01-25T15:43:13Z,1,2,0,1,1,1,2,8176930.67869
+5085,Create 104-opentofu.md,140,True,False,,2024-01-25T00:15:41Z,1,2,0,1,9,0,9,7851538.67869
+5078,Update 101-esbuild.md,89,True,True,2024-01-24T16:02:01Z,2024-01-24T16:02:01Z,2,3,0,1,1,1,2,7930317.67869
+4827,fix: link to service discovery,0,True,True,2023-12-12T23:32:59Z,2023-12-12T23:32:59Z,1,2,0,1,1,1,2,12157019.67869
+4517,separate articles in 107-domain-name-system.md,33,True,True,2023-09-30T20:59:02Z,2023-09-30T20:59:02Z,1,2,0,1,1,1,2,17993449.67869
+4999,fix: markdown missing closing parenthesis for link,66,True,True,2024-01-09T08:13:38Z,2024-01-09T08:13:38Z,1,2,0,1,1,1,2,9223182.67869
+5001,fix: replace broken link with a valid one in frontend performance,188,True,True,2024-01-09T08:15:17Z,2024-01-09T08:15:17Z,1,2,0,1,1,1,2,9219834.67869
+4970,fix: change the broken link to a valid resource,161,True,True,2024-01-08T18:03:56Z,2024-01-08T18:03:56Z,1,2,0,1,1,1,2,9685052.67869
+5051,Update 104-using-gradle.md,63,True,True,2024-01-19T13:09:11Z,2024-01-19T13:09:11Z,4,3,2,1,7,1,8,8373456.67869
+5049,fix: replace a broken link in the backend roadmap,122,True,True,2024-01-18T17:08:14Z,2024-01-18T17:08:14Z,2,3,0,1,1,1,2,8414264.67869
+4948,[Rust roadmap] Add links to 101-variables.md,68,True,True,2024-01-09T08:49:51Z,2024-01-09T08:49:51Z,1,2,0,1,6,1,7,10003016.836919
+4954,devops-roadmap-aws,48,True,True,2024-01-09T12:16:22Z,2024-01-09T12:16:22Z,2,2,0,1,3,1,4,9932867.836919
+4645,Fixed the react-native pdf,129,True,True,2024-01-09T12:00:02Z,2024-01-09T12:00:02Z,1,3,1,1,0,0,0,15149801.836919
+4889,Update 102-how-llms-built.md,35,True,True,2024-01-09T11:39:38Z,2024-01-09T11:39:38Z,1,2,0,1,2,2,4,10912565.836919
+4958,fix: year update in cpp.md file,39,True,False,,2024-01-09T11:31:45Z,1,3,1,1,3,3,6,9848255.836919
+4926,Added javascript testing with jest (youtube video tutorial),141,True,True,2024-01-09T11:15:08Z,2024-01-09T11:15:08Z,1,2,0,1,1,0,1,10354833.836919
+5002,Update 105-high-order-components.md,0,True,True,2024-01-09T11:00:57Z,2024-01-09T11:00:57Z,1,2,0,1,1,0,1,9219110.836919
+4900,Update 103-llm-vocabulary.md,77,True,True,2024-01-09T08:51:08Z,2024-01-09T08:51:08Z,1,2,0,1,2,2,4,10688675.836919
+4922,issue-4862: Updated enable http reference url.,13,True,True,2024-01-09T08:09:06Z,2024-01-09T08:09:06Z,2,3,0,1,1,1,2,10372352.836919
+4898,Update index.md,33,True,False,,2024-01-08T18:52:09Z,2,3,2,1,1,1,2,10721702.836919
+4967,Consistency in spelling,86,True,True,2024-01-08T18:02:45Z,2024-01-08T18:02:45Z,2,3,0,2,2,2,4,9726154.836919
+4972,Create javascript-forkable.json,0,True,False,,2024-01-08T18:00:27Z,1,3,1,1,7,0,7,9670741.836919
+4973,Update 101-flask.md,34,True,True,2024-01-08T17:59:44Z,2024-01-08T17:59:44Z,1,2,0,1,1,1,2,9650906.836919
+4989,Update 103-implementation-semantics.md,29,True,True,2024-01-08T17:49:59Z,2024-01-08T17:49:59Z,1,2,0,1,3,3,6,9383390.592171
+4992,Update 102-javascript-versions.md,0,True,True,2024-01-08T17:35:47Z,2024-01-08T17:35:47Z,2,2,0,1,2,1,3,9334055.592171
+4979,Updated: all occurrences of the year 2023 to 2024 in relevant files.,82,True,True,2024-01-08T17:29:49Z,2024-01-08T17:29:50Z,1,2,0,42,150,150,300,9576701.592171
+4986,Update 103-implementation-semantics.md,30,True,False,,2024-01-06T23:26:23Z,1,2,0,1,1,1,2,9464429.592171
+4977,Add files via upload,68,True,False,,2024-01-06T09:07:20Z,1,2,0,1,10,0,10,9590091.592171
+4961,Update index.md,55,True,True,2024-01-03T11:24:04Z,2024-01-03T11:24:05Z,2,2,0,1,1,1,2,9779950.592171
+4968,fix npm links,28,True,True,2024-01-03T11:19:02Z,2024-01-03T11:19:02Z,1,2,0,1,2,2,4,9711030.592171
+3541,Update 102-mfu-cache.md,11,True,False,,2024-01-02T11:46:31Z,1,2,0,1,1,1,2,35748505.592171
+4943,Fixed spelling,0,True,True,2023-12-31T01:24:07Z,2023-12-31T01:24:07Z,2,3,0,1,1,1,2,10122164.592171
+4942,Fix broken superagent official website link,43,True,True,2023-12-31T01:28:42Z,2023-12-31T01:28:42Z,1,2,0,1,1,1,2,10133926.592171
+4924,Update 104-delete-methods.md,79,True,True,2023-12-28T13:40:26Z,2023-12-28T13:40:26Z,1,2,0,1,0,14,14,10363755.592171
+4935,fix: introduction to blockchain links,137,True,True,2023-12-28T13:37:47Z,2023-12-28T13:37:47Z,1,2,1,3,3,3,6,10267875.592171
+4588,Update Material UI guide to v5,186,True,True,2023-12-24T13:02:16Z,2023-12-24T13:02:16Z,1,2,2,2,6,6,12,16560953.592171
+4873,fix: link text typo,16,True,True,2023-12-18T17:17:28Z,2023-12-18T17:17:28Z,1,2,0,1,1,1,2,11214126.26033
+4800,Fixed Angular Roadmap Type Guard video URL,41,True,True,2023-12-12T23:38:30Z,2023-12-12T23:38:30Z,1,2,0,1,1,1,2,12592428.261079
+3525,Fixed a small typo in Chrome Devtools.md,33,True,True,2023-12-12T23:51:15Z,2023-12-12T23:51:15Z,1,2,0,1,1,1,2,36122248.261079
+4535,fix resource typo,0,True,True,2023-12-12T23:50:14Z,2023-12-12T23:50:14Z,2,3,0,1,1,1,2,17685256.261079
+4524,"Fix ""discuss"" typo",56,True,True,2023-12-12T23:47:41Z,2023-12-12T23:47:41Z,1,2,0,1,1,1,2,17788065.261079
+4763,Angular RxJS Marble Diagrams broken link and typo,350,True,True,2023-12-12T23:46:42Z,2023-12-12T23:46:42Z,1,2,0,1,1,2,3,13045841.261079
+4819,Update 105-control-flow-statements.md,123,True,True,2023-12-12T23:36:03Z,2023-12-12T23:36:03Z,1,2,0,1,1,2,3,12339881.262112
+4826,Minor fixes in punctuation,0,True,True,2023-12-12T23:34:55Z,2023-12-12T23:34:55Z,1,2,0,1,1,1,2,12177599.262112
+4836,Fixed typo O(n^n) -> O(n^k),39,True,True,2023-12-12T23:31:23Z,2023-12-12T23:31:23Z,1,2,0,1,1,1,2,11925193.262112
+4850,Fixed the heading index.md (Curve to Orientation),102,True,True,2023-12-12T23:27:33Z,2023-12-12T23:27:33Z,1,2,0,1,2,2,4,11650695.262112
+4851,Fix typo in heap-and-stack.md,8,True,True,2023-12-12T23:26:19Z,2023-12-12T23:26:19Z,1,2,0,1,1,1,2,11605168.263114
+4824,Flutter : update 100-material-widgets.md,84,True,True,2023-12-05T15:36:20Z,2023-12-05T15:36:20Z,1,2,0,1,1,1,2,12211538.560634
+3455,Flutter: Replaced deprecated widget,84,True,False,,2023-12-05T05:43:19Z,1,2,1,0,0,0,0,37605704.560634
+4766,Update index.md python ,55,True,True,2023-11-26T19:42:51Z,2023-11-26T19:42:51Z,1,2,0,1,1,1,2,13018305.560634
+3460,"fix: typo in ""balancing""",38,True,False,,2023-11-23T11:03:31Z,1,2,1,0,0,0,0,37404833.568783
+3279,Update 102-fastapi.md,32,True,False,,2023-11-23T07:29:40Z,1,2,1,1,17,0,17,40640377.568783
+4703,Update 100-linear-algebra.md,684,True,True,2023-11-16T19:33:47Z,2023-11-16T19:33:47Z,1,2,1,1,3,1,4,13819316.931645
+4589,frontend-roadmap-electron,60,True,True,2023-11-05T17:14:07Z,2023-11-05T17:14:07Z,1,2,0,1,1,1,2,16499046.931645
+4659,updated new twitter logo,68,True,True,2023-11-05T17:02:32Z,2023-11-05T17:02:32Z,1,2,2,3,2271,728,2999,14775867.931645
+4514,fix(typo): fix typo in 101-instanceof-operator.md,61,True,True,2023-09-30T21:00:55Z,2023-09-30T21:00:55Z,1,2,0,1,1,1,2,18182620.154031
+4520,Fix typo cpp 104 index,0,True,True,2023-09-30T15:40:04Z,2023-09-30T15:40:04Z,1,2,0,1,1,1,2,17916688.154031
+4509,Update 107-git.md,47,True,True,2023-09-26T13:18:42Z,2023-09-26T13:18:42Z,1,2,0,1,1,1,2,18324469.015224
+3781,Solana whitepaper added,62,True,True,2023-09-22T19:39:06Z,2023-09-22T19:39:06Z,2,3,0,1,1,0,1,32896224.019232
+3794,add: a to word database,0,True,True,2023-09-22T19:32:50Z,2023-09-22T19:32:50Z,1,3,0,1,1,1,2,32774620.019672
+3799,Update 106-design-system-examples.md,73,True,False,,2023-09-22T19:32:30Z,1,3,0,1,1,0,1,32710159.019672
+3908,Update CORS Resources,192,True,True,2023-09-22T19:24:00Z,2023-09-22T19:24:00Z,3,4,0,2,6,1,7,30197949.468379
+4492,Add more questions,0,True,True,2023-09-22T04:02:13Z,2023-09-22T04:02:13Z,3,2,0,12,454,4,458,18822900.468379
+3922,fix(103-advanced-topics),58,True,True,2023-09-12T16:03:57Z,2023-09-12T16:03:57Z,1,3,0,1,2,2,4,29821184.468379
+3930,Update 101-prototypal-inheritance.md,159,True,True,2023-09-12T15:44:02Z,2023-09-12T15:44:02Z,1,3,0,1,1,1,2,29609528.63318
+3968,pion & kratos nodes,99,True,False,,2023-09-12T15:43:28Z,1,2,1,2,30,0,30,28839358.63318
+3978,Add content internet,251,True,False,,2023-09-12T15:42:52Z,1,3,1,1,1,0,1,28601724.63318
+4017,Fix typo in docker.json,103,True,False,,2023-09-12T15:40:03Z,1,3,1,1,1,1,2,27824051.63318
+4423,Updated link on the Android Roadmap,53,True,True,2023-08-30T13:20:29Z,2023-08-30T13:20:29Z,1,2,0,1,2,3,5,20586631.711986
+906,[SP Translation] Typo fixed line 11283,679,True,True,2021-09-07T04:37:30Z,2021-09-07T04:37:31Z,1,3,1,1,2,2,4,85331781.560248
+4116,Update setup-and-auto-renew-ssl-certificates.md,0,True,False,,2023-08-17T02:08:35Z,2,3,3,1,16,0,16,26310256.560248
+4265,Fix misspell.,49,True,True,2023-07-31T15:35:02Z,2023-07-31T15:35:02Z,2,2,0,2,2,2,4,23480837.644647
+4016,Add localization,144,True,False,,2023-07-26T19:36:32Z,3,2,0,66,1078,418,1496,27833128.644647

@@ -1,0 +1,101 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToAnalysis
+64829,Ensure install works in test fixtures when `NEXT_TEST_SKIP_CLEANUP=1` is specified,345,True,True,2024-04-24T13:05:21Z,2024-04-24T13:05:21Z,1,2,2,1,1,0,1,331455.237077
+56587,test: run e2e test in ramdisk,418,True,False,,2024-04-24T06:00:58Z,2,3,3,3,220,29,249,17197795.237077
+64946,Ensure edge prerender-manifest is minimal,241,True,True,2024-04-23T22:19:15Z,2024-04-23T22:19:15Z,1,2,1,3,11,1,12,65506.237077
+64941,remove special-cased prefetch kind in dev mode,1558,True,True,2024-04-24T00:12:40Z,2024-04-24T00:12:41Z,1,2,3,4,168,14,182,68268.237077
+64172,perf(image-optimizer): optimize content-type detect,647,True,False,,2024-04-09T13:48:01Z,1,3,5,1,50,33,83,1471896.237077
+64227,forward missing server actions to valid worker if one exists,923,True,True,2024-04-09T14:10:06Z,2024-04-09T14:10:06Z,1,3,3,15,322,7,329,1357969.237077
+64236,test: Disable `next build` test for turbopack,74,True,True,2024-04-09T14:26:27Z,2024-04-09T14:26:27Z,2,4,3,2,9,3,12,1335415.237077
+64221,feat(next/image): add `overrideSrc` prop,93,True,True,2024-04-09T14:48:01Z,2024-04-09T14:48:01Z,6,4,2,7,150,1,151,1364500.237077
+63020,Add `continueFizzStream` tests,191,True,False,,2024-04-09T14:53:48Z,2,2,2,1,221,1,222,4121781.237077
+60996,add undici and use latest for global fetch,0,True,False,,2024-04-09T14:54:14Z,1,3,2,7,61,2,63,8015145.237077
+64254,Fix failing test case,44,True,False,,2024-04-09T15:52:29Z,1,2,2,2,3,2,5,1297812.237077
+63547,fix(fetch-cache): add check for updated tags when checking same cache key,236,True,True,2024-04-09T16:36:32Z,2024-04-09T16:36:32Z,15,3,2,4,105,2,107,2977033.237077
+64258,provide revalidateReason to getStaticProps,417,True,True,2024-04-09T16:53:08Z,2024-04-09T16:53:08Z,1,2,3,8,130,10,140,1293564.237077
+64257,update turbopack,36,True,True,2024-04-09T21:33:02Z,2024-04-09T21:33:02Z,1,3,1,4,43,43,86,1294838.130927
+64691,Add --skip-install flag to create-next-app,292,True,True,2024-04-23T22:04:54Z,2024-04-23T22:04:54Z,3,3,3,6,55,2,57,574084.130927
+59282,Fix cardinality of opentelemetry span names on client-side navigation,3897,True,False,,2024-04-23T20:58:13Z,1,6,10,4,159,10,169,12199020.130927
+64928,deps updated for with-mongodb-mongoose example,0,True,True,2024-04-23T20:05:21Z,2024-04-23T20:05:21Z,1,3,1,1,6,6,12,78900.130927
+64935,Allow StackBlitz repro links in bug reports on GitHub,248,True,True,2024-04-23T19:58:44Z,2024-04-23T19:58:44Z,1,4,2,1,1,1,2,73611.130927
+64925,bug fix on a pull request #64911,287,True,True,2024-04-23T18:01:32Z,2024-04-23T18:01:32Z,1,3,3,1,5,0,5,82069.130927
+64909,Speed up createNext test suite isolation,1212,True,True,2024-04-23T19:13:00Z,2024-04-23T19:13:00Z,5,4,4,6,293,326,619,103554.140063
+64181,feat(turbopack): Check for duplicate parallel routes,225,True,True,2024-04-23T19:11:41Z,2024-04-23T19:11:42Z,4,4,2,3,94,7,101,1428661.140375
+64232,feat(turbopack): Handle fragments in requests,125,True,True,2024-04-23T19:10:13Z,2024-04-23T19:10:13Z,6,3,2,7,59,51,110,1345943.140375
+64923,fix dynamic route interception not working when deployed with middleware,600,True,True,2024-04-23T19:02:43Z,2024-04-23T19:02:43Z,1,2,3,15,133,28,161,84537.140375
+64888,docs: update og generation code with local assets,837,True,True,2024-04-23T18:07:16Z,2024-04-23T18:07:16Z,15,3,3,1,4,3,7,158690.141086
+64911,Update with-storybook example,530,True,True,2024-04-23T15:13:24Z,2024-04-23T15:13:24Z,1,3,4,43,590,336,926,101063.141086
+64467,Fix client boundary inheritance for barrel optimization,646,True,True,2024-04-14T21:36:20Z,2024-04-14T21:36:21Z,2,7,15,13,103,1,104,862120.141086
+64908,Docs: Add section for `@next/env` package,30,True,True,2024-04-23T15:31:05Z,2024-04-23T15:31:05Z,2,4,2,1,48,0,48,103591.141086
+64179,docs: add note about streaming and Safari limitations,46,True,True,2024-04-08T12:38:45Z,2024-04-08T12:38:45Z,2,3,0,1,4,0,4,1452193.141086
+64175,ensure seeded prefetch entry is renewed after expiry,353,True,True,2024-04-08T13:49:59Z,2024-04-08T13:49:59Z,1,3,3,3,22,2,24,1459367.058908
+64195,Add additional links to staleTime docs,61,True,True,2024-04-08T13:52:48Z,2024-04-08T13:52:48Z,2,4,1,1,3,3,6,1404507.058908
+64094,chore(deps): Sync dependencies,131,True,True,2024-04-08T14:39:52Z,2024-04-08T14:39:52Z,1,3,2,1,13,13,26,1676810.058908
+64186,fix(examples): invalid `with-apollo` and `with-graphql-hooks`,425,True,True,2024-04-08T14:55:39Z,2024-04-08T14:55:39Z,4,3,5,47,435,1085,1520,1416387.058908
+64133,Fix hydration error higlight when tag matched multi times,1035,True,True,2024-04-08T17:12:03Z,2024-04-08T17:12:03Z,1,3,2,2,113,85,198,1614424.058908
+64049,"test(turbopack): Add -Wl,--warn-unresolved-symbols to next-swc-napi on Linux",717,True,True,2024-04-08T17:49:24Z,2024-04-08T17:49:24Z,1,4,3,1,5,0,5,1771034.058908
+63944,Test opentelemetry regressions,0,True,False,,2024-04-08T18:52:32Z,1,2,2,3,17,1,18,1974881.058908
+64147,fix(docs): update width height value on example to sync with demo,455,True,True,2024-04-08T22:15:03Z,2024-04-08T22:15:03Z,1,3,0,1,2,2,4,1549182.058908
+64202,test: pin eslint version to 8 in test to avoid breaking changes,127,True,True,2024-04-08T22:18:17Z,2024-04-08T22:18:17Z,1,3,2,2,4,2,6,1398111.058908
+64117,Stop using `baseUrl` in root tsconfig,956,True,True,2024-04-08T22:25:43Z,2024-04-08T22:25:43Z,3,3,3,142,153,161,314,1642623.058908
+58534,feat: Do not mangle `AbortSignal` to avoid breaking `node-fetch`,314,True,True,2024-04-09T00:28:03Z,2024-04-09T00:28:03Z,3,4,4,6,41,1,42,13837702.058908
+64206,Turbopack: prefer local opentelemetry version,76,True,True,2024-04-09T00:35:37Z,2024-04-09T00:35:37Z,2,3,2,1,6,3,9,1396433.058908
+64209,chore: externalize undici for bundling,849,True,True,2024-04-09T07:26:53Z,2024-04-09T07:26:53Z,1,3,2,4,11,0,11,1390171.058908
+64875,Fix next/image usage in mdx,853,True,True,2024-04-23T11:37:50Z,2024-04-23T11:37:50Z,6,5,2,5,22,4,26,177618.058908
+61413,fix: improve tsconfig extends checks,409,True,True,2024-04-23T10:25:33Z,2024-04-23T10:25:33Z,12,4,6,3,134,12,146,7319693.426103
+64894,Fix mixed exports in server component with barrel optimization,535,True,True,2024-04-23T07:57:50Z,2024-04-23T07:57:50Z,1,3,1,8,32,6,38,146636.426103
+64678,feat(next-core): support parsing matcher config object,178,True,True,2024-04-23T07:55:24Z,2024-04-23T07:55:24Z,2,3,4,6,213,79,292,586415.426103
+64422,docs(server-actions-and-mutations): switch onClick to formAction,47,True,False,,2024-04-23T04:00:31Z,1,4,0,1,3,4,7,1011454.426103
+62967,fix(cli): respect SIGTERM and SIGINT exit codes in next dev,43,True,False,,2024-04-23T04:00:30Z,2,2,2,2,26,12,38,4199616.426103
+64857,Update 04-loading-ui-and-streaming.mdx,71,True,True,2024-04-22T23:47:34Z,2024-04-22T23:47:34Z,1,2,1,1,1,1,2,201977.426103
+64799,"fix(fetch-cache): fix additional typo, add type & data validation",362,True,True,2024-04-22T23:03:10Z,2024-04-22T23:03:10Z,8,4,3,1,28,5,33,417703.426103
+64801,fext(next): extend next.config for mdxRs support options,246,True,True,2024-04-22T21:51:47Z,2024-04-22T21:51:47Z,2,4,2,25,258,121,379,409734.426103
+64860,Add WorkOS to list of auth libraries,54,True,True,2024-04-22T21:09:38Z,2024-04-22T21:09:38Z,1,3,2,1,1,0,1,195051.426103
+61323,chore(docs): added inlang to the list of i18n community libraries,673,True,True,2024-04-22T21:07:16Z,2024-04-22T21:07:16Z,1,5,2,2,2,1,3,7442081.426103
+64885,build(cargo): bump up turbopack,169,True,False,,2024-04-22T20:27:10Z,1,3,1,4,45,50,95,161934.426103
+64889,test(manifest): update flaky test into failed,0,True,False,,2024-04-22T20:18:09Z,1,3,3,1,2,2,4,158167.426103
+64878,docs: remove types in js example,0,True,True,2024-04-22T15:21:21Z,2024-04-22T15:21:21Z,1,3,1,1,1,1,2,176740.392724
+64809,fix: mixing namespace import and named import client components,1459,True,True,2024-04-22T13:05:41Z,2024-04-22T13:05:41Z,3,3,2,9,131,22,153,399675.392724
+64527,Enable loading source maps for Next Server and React,1032,True,True,2024-04-22T12:40:23Z,2024-04-22T12:40:24Z,1,4,12,89,176,23,199,755452.392724
+64160,Update Turbopack development test manifest,101,True,True,2024-04-08T00:46:08Z,2024-04-08T00:46:09Z,1,3,1,1,17,11,28,1497508.392724
+64011,"feat(turbopack): Align behavior for `link rel=""preconnect""` with webpack mode",153,True,True,2024-04-08T06:24:18Z,2024-04-08T06:24:18Z,1,3,2,4,6,2,8,1849440.392724
+64169,Add additional logs to next-integration-stat,244,True,True,2024-04-08T09:04:36Z,2024-04-08T09:04:36Z,1,2,3,2,8098,36773,44871,1478810.392724
+64110,feat: allow `module: Preserve` tsconfig option,1005,True,True,2024-04-08T11:30:05Z,2024-04-08T11:30:05Z,6,3,7,3,167,31,198,1652017.392724
+64553,build: Update `swc_core` to `v0.90.33`,94,True,True,2024-04-22T07:04:45Z,2024-04-22T07:04:45Z,1,3,4,5,114,85,199,705219.392724
+64838,Update Turbopack development test manifest,101,True,True,2024-04-22T06:04:58Z,2024-04-22T06:04:58Z,1,3,2,1,3,0,3,287902.392724
+64818,Update Nav.tsx,33,True,True,2024-04-22T02:41:07Z,2024-04-22T02:41:07Z,1,4,2,1,0,1,1,370297.392724
+64154,docs: improve prerender error message,26,True,True,2024-04-07T14:46:13Z,2024-04-07T14:46:13Z,2,2,0,1,1,0,1,1529987.392724
+64151,fix: Update install method for Bun,278,True,True,2024-04-07T16:41:32Z,2024-04-07T16:41:32Z,4,2,6,1,1,1,2,1533992.114822
+63883,docs: add Logto authentication guide link,205,True,False,,2024-04-05T19:26:33Z,1,4,6,2,2,0,2,2202069.114822
+64851,Update `@testing-library/react` used in tests,297,True,True,2024-04-21T21:47:39Z,2024-04-21T21:47:39Z,1,3,2,5,29,28,57,242074.114822
+64842,Upgrade Turborepo,228,True,True,2024-04-21T21:12:03Z,2024-04-21T21:12:03Z,1,3,3,2,23,23,46,281254.114822
+64789,Move next-swc Turborepo config to packages/next-swc,179,True,True,2024-04-21T18:17:06Z,2024-04-21T18:17:06Z,1,3,2,2,141,144,285,428875.114822
+64479,chore: Update pnpm v8.15.14 to v8.15.7,202,True,True,2024-04-15T14:54:28Z,2024-04-15T14:54:28Z,1,3,3,5,10,10,20,830368.114822
+64804,Disable ncc cache instead of cache cleaning,196,True,True,2024-04-20T13:45:35Z,2024-04-20T13:45:35Z,1,2,2,2,2,1,3,408472.114822
+64805,fix interception route rewrite regex not supporting hyphenated segments,562,True,True,2024-04-20T00:11:32Z,2024-04-20T00:11:32Z,1,2,3,7,85,3,88,407882.114822
+64088,Ensure static generation storage is accessed correctly,1690,True,True,2024-04-05T14:14:14Z,2024-04-05T14:14:14Z,2,4,3,5,69,67,136,1700294.114822
+64109,Ensure empty config with Turbopack does not show webpack warning,784,True,True,2024-04-05T16:53:03Z,2024-04-05T16:53:03Z,1,3,2,1,1,1,2,1652663.114822
+64092,Fix missing CNA tests env variable,383,True,True,2024-04-05T17:04:38Z,2024-04-05T17:04:38Z,2,4,3,1,5,1,6,1683382.114822
+64119,docs: fix code snippet in next/script,66,True,True,2024-04-05T17:12:12Z,2024-04-05T17:12:12Z,2,4,2,1,6,6,12,1640639.114822
+58293,fix encoding for filenames containing `?` or `#`,16,True,True,2024-04-05T17:25:30Z,2024-04-05T17:25:30Z,5,5,2,9,101,15,116,14358532.114822
+64085,Fix @opentelemetry/api aliasing for webpack,233,True,True,2024-04-05T17:39:21Z,2024-04-05T17:39:21Z,1,2,1,1,3,20,23,1705096.114822
+64116,Always throw error when build fails during test,518,True,True,2024-04-05T19:33:19Z,2024-04-05T19:33:19Z,1,2,2,2,5,9,14,1642728.378364
+63835,chore: Replaced more impactful words,141,True,True,2024-04-05T20:04:11Z,2024-04-05T20:04:12Z,5,3,6,1,4,4,8,2322542.378364
+63823,style(dev-overlay): refine the error message header styling,272,True,True,2024-04-05T21:39:22Z,2024-04-05T21:39:22Z,1,2,2,10,122,104,226,2332285.378364
+64727,fix: remove traceparent from cachekey should not remove traceparent from original object,387,True,True,2024-04-19T23:13:58Z,2024-04-19T23:13:58Z,2,2,4,3,70,1,71,527098.378364
+64740,Update 06-bundle-analyzer.mdx,444,True,True,2024-04-19T20:43:26Z,2024-04-19T20:43:26Z,5,4,1,1,4,5,9,517932.378364
+64794,Update index.mdx,43,True,True,2024-04-19T18:34:21Z,2024-04-19T18:34:21Z,1,3,2,1,1,1,2,425002.378364
+64767,Upgrade Turborepo,161,True,True,2024-04-19T18:26:55Z,2024-04-19T18:26:55Z,2,3,4,12,108,35,143,452249.378364
+64770,chore: match label name during autolabeling,2043,True,True,2024-04-19T12:33:13Z,2024-04-19T12:33:13Z,1,3,1,1,2,1,3,450601.378364
+64762,Update Turbopack development test manifest,101,True,True,2024-04-19T12:14:14Z,2024-04-19T12:14:14Z,1,3,2,1,11,0,11,460696.378364
+63627,fix: bundle fetching with asset prefix,177,True,True,2024-03-29T23:38:24Z,2024-03-29T23:38:24Z,5,2,7,9,155,40,195,2819884.378364
+58446,Fixes noStore page.tsx docs for PPR error,645,True,False,,2024-04-05T05:00:32Z,1,2,0,0,0,0,0,13987283.378364
+64098,perf: improve next server static performance,249,True,True,2024-04-05T07:09:35Z,2024-04-05T07:09:36Z,1,3,4,1,8,18,26,1673667.378364
+64101,Update Turbopack development test manifest,101,True,True,2024-04-05T08:57:44Z,2024-04-05T08:57:44Z,2,4,1,1,24,16,40,1670298.378364
+63921,test(cna): split and refactor,442,True,True,2024-04-03T17:16:40Z,2024-04-03T17:16:40Z,7,3,4,15,1267,1678,2945,2055399.255324
+64761,docs: remove types in js example,0,True,True,2024-04-19T10:32:49Z,2024-04-19T10:32:49Z,1,3,2,1,1,1,2,462293.255324
+64712,"Reapply ""chore(test): run related E2E deploy tests on PRs"" (#64682)",251,True,True,2024-04-19T09:02:43Z,2024-04-19T09:02:43Z,2,3,1,10,232,94,326,542235.255324
+64454,Enhance types for Node and Edge environments,1413,True,True,2024-04-16T02:38:27Z,2024-04-16T02:38:27Z,5,5,3,14,593,401,994,922997.255324
+64061,Update sitemap.mdx,8,True,True,2024-04-04T14:18:33Z,2024-04-04T14:18:33Z,1,3,1,1,1,1,2,1747955.255324
+64008,feat(turbopack): Print error message for `next/font` fetching failure,177,True,True,2024-04-04T14:56:10Z,2024-04-04T14:56:11Z,1,3,2,2,9,3,12,1855927.255324
+63927,test: Use the correct matcher pattern for stack traces,240,True,True,2024-04-04T14:56:22Z,2024-04-04T14:56:22Z,1,3,1,2,16,7,23,2032908.255324
+64039,docs: fix prefetching information,384,True,True,2024-04-04T14:57:38Z,2024-04-04T14:57:38Z,1,2,1,2,6,11,17,1803108.255324

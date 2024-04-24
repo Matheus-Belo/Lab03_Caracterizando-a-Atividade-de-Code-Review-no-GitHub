@@ -1,0 +1,37 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToAnalysis
+1820,Update foreword.md,663,True,True,2023-07-12T10:01:37Z,2023-07-12T10:01:37Z,2,3,0,1,1,1,2,38831694.064395
+1746,typo,0,True,True,2023-07-07T05:50:33Z,2023-07-07T05:50:33Z,1,3,0,1,1,1,2,88406884.064395
+1808,fix typos,234,True,True,2022-10-23T13:09:44Z,2022-10-23T13:09:44Z,1,4,1,11,17,17,34,50924087.869909
+1743,fix: typo in example code & some minor ones,646,True,False,,2021-08-26T15:05:59Z,1,3,1,1,7,7,14,90060133.476711
+1720,add book 1 translation into Ukrainian,846,True,True,2021-01-07T16:23:03Z,2021-01-07T16:23:03Z,2,2,2,10,815,810,1625,104040070.478704
+1114,Update ch5.md,726,True,False,,2020-03-03T05:38:02Z,1,3,4,1,1,1,2,211175349.643715
+1585,Foreword update on README.md,0,True,False,,2020-01-22T16:55:28Z,1,2,0,1,1,1,2,135601909.60519
+1176,Small fix on implicit relation between Strong and Static typing,308,True,False,,2019-12-11T20:24:48Z,1,5,8,1,1,1,2,204328938.153961
+1539,Update ch2.md,265,True,False,,2019-12-02T13:27:16Z,1,3,0,1,1,1,2,140990466.027788
+1170,Add missing spaces in statement 'var i=0',108,True,False,,2019-08-28T16:28:03Z,1,3,1,1,1,1,2,205360474.867936
+1189,fix typos and change translation,0,True,False,,2019-08-28T16:26:53Z,1,3,1,4,10,10,20,202804164.867936
+1208,[Fix] annotation fixed,85,True,False,,2019-08-28T16:26:34Z,1,3,1,1,2,2,4,198846709.867936
+1286,Specify getter/setter's reference variable can't be property name,374,True,False,,2019-08-28T16:22:22Z,1,3,1,1,1,1,2,187783936.526595
+1392,Fix spacing in function params,80,True,False,,2019-08-28T16:11:33Z,1,3,1,1,1,1,2,168828774.624413
+1431,Update ch1.md,157,True,False,,2019-08-28T16:06:55Z,2,2,1,1,1,1,2,162345699.624413
+1432,Added a note on scope lookup,93,True,False,,2019-08-28T16:06:28Z,2,2,2,2,6,4,10,162343741.624413
+1479,Remove gendered pronouns,196,True,False,,2019-07-09T16:13:29Z,1,3,1,1,3,3,6,151734378.88502
+1205,Update non-readonly property descriptor value to `writeable:true`,85,True,False,,2018-10-18T11:34:20Z,1,3,1,1,1,1,2,199890078.583113
+1239,Changed folder names to be displayed in the same order as the books,93,True,False,,2018-08-22T10:19:00Z,1,3,1,85,0,0,0,194630038.546451
+1018,Clarification on the const definition,379,True,False,,2017-08-15T15:34:27Z,1,4,4,1,5,2,7,220705538.546451
+1223,Update the 'Become a Patron' badge,267,True,True,2018-02-17T10:31:06Z,2018-02-17T10:31:06Z,1,2,1,1,1,1,2,196899693.799103
+1179,Fixed typos,0,True,True,2017-11-10T02:53:06Z,2017-11-10T02:53:06Z,1,3,1,1,1,1,2,203738469.799103
+1165,Update foreword.md,93,True,False,,2017-10-18T05:22:48Z,1,2,0,1,1,1,2,206009013.564353
+1142,个别错别字和不通顺的地方,0,True,False,,2017-09-17T01:32:04Z,1,2,0,1,4,4,8,208572815.564353
+912,1edBranchCn,93,True,False,,2017-08-15T15:47:52Z,1,4,1,2,2,2,4,233300128.60172
+927,Correct command output,50,True,False,,2017-08-15T15:46:02Z,1,3,0,1,1,1,2,230850815.60172
+990,Fix typos,68,True,True,2017-08-15T15:40:05Z,2017-08-15T15:40:05Z,1,3,0,4,6,6,12,224345896.60172
+1075,Optimization for accuracy,125,True,False,,2017-07-26T15:55:26Z,8,2,1,1,1,1,2,215160683.60172
+1098,1ed-zh-CN 修正错别字,245,True,True,2017-07-26T15:53:12Z,2017-07-26T15:53:12Z,3,2,0,1,2,2,4,213108030.60172
+1097,Refined part of Towards Delegation-Oriented Design,26,True,True,2017-07-23T13:51:09Z,2017-07-23T13:51:10Z,6,2,2,1,8,8,16,213156000.60172
+1073,Refined syntactics,0,True,True,2017-07-15T14:56:56Z,2017-07-15T14:56:56Z,3,2,2,1,1,1,2,215235114.60172
+1030,typo,121,True,False,,2017-06-24T14:42:58Z,2,2,0,1,1,1,2,219129524.285969
+1034,Update ch6.md,9,True,False,,2017-05-25T19:14:04Z,1,3,1,1,1,1,2,218356418.390032
+1028,Update ch2: Fixed typos and refined translations,0,True,True,2017-05-16T08:43:40Z,2017-05-16T08:43:40Z,3,2,1,1,15,15,30,219389114.390032
+984,improve chinese translation of preface,54,True,False,,2017-04-06T09:02:57Z,2,3,2,1,18,17,35,224580033.689251
+901,Chinese translation of YDKJS,93,True,True,2017-03-13T01:46:19Z,2017-03-13T01:46:19Z,3,5,14,66,8296,8372,16668,234654400.689251

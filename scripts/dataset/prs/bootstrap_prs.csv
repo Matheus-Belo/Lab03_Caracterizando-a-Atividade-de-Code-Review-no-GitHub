@@ -1,0 +1,101 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToAnalysis
+38984,Convert build scripts to ESM,0,True,True,2023-08-06T04:37:24Z,2023-08-06T04:37:24Z,1,2,0,10,67,57,124,23169878.069979
+39887,Build(deps-dev): Bump rollup from 4.13.2 to 4.14.1,4065,True,True,2024-04-09T15:06:04Z,2024-04-09T15:06:04Z,1,1,0,2,65,65,130,1315124.069979
+39886,Build(deps-dev): Bump terser from 5.29.2 to 5.30.3,1344,True,True,2024-04-09T15:05:16Z,2024-04-09T15:05:16Z,1,1,0,3,6,6,12,1315140.069979
+39884,Build(deps-dev): Bump sass from 1.72.0 to 1.74.1,3967,True,True,2024-04-09T14:56:22Z,2024-04-09T14:56:22Z,1,1,0,2,5,5,10,1315169.069979
+39883,Build(deps-dev): Bump eslint-plugin-unicorn from 51.0.1 to 52.0.0,1344,True,True,2024-04-09T14:55:17Z,2024-04-09T14:55:17Z,1,1,0,3,6,5,11,1315184.069979
+39874,Switch Form Layout depending on screen size,995,True,False,,2024-04-06T12:53:15Z,1,2,2,1,16,0,16,1567608.861606
+39863,Add PostCSS-RTLCSS approach to the documentation,1294,True,True,2024-04-05T17:50:01Z,2024-04-05T17:50:01Z,2,4,5,1,10,0,10,1792914.861606
+37252,Add `$enable-important-utilities` condition in colored links,797,True,True,2022-10-06T20:04:43Z,2022-10-06T20:04:43Z,1,3,4,1,2,2,4,49143438.861606
+39854,changed the background color,38,True,False,,2024-04-02T07:21:03Z,1,2,2,2,4,2,6,1934926.869661
+39768,docs: add a render image hook,409,True,True,2024-04-01T18:48:31Z,2024-04-01T18:48:31Z,6,3,0,4,14,6,20,3915407.870153
+39778,docs: use `urls.JoinPath` in more places,660,True,True,2024-03-22T09:50:03Z,2024-03-22T09:50:03Z,1,2,0,2,3,2,5,3714215.113219
+39807,Move theme toggler to a partial,694,True,True,2024-03-20T17:05:43Z,2024-03-20T17:05:43Z,3,2,0,3,42,66,108,3106264.113219
+39805,"masthead.html: add `rel=""noopener"" target=""_blank""`",660,True,True,2024-03-20T15:29:12Z,2024-03-20T15:29:12Z,1,2,0,1,1,1,2,3107149.113219
+39802,Build(deps-dev): Bump @babel/preset-env from 7.24.0 to 7.24.1,13595,True,True,2024-03-19T15:39:29Z,2024-03-19T15:39:29Z,1,1,2,2,306,339,645,3123986.113219
+39803,Build(deps-dev): Bump @babel/cli from 7.23.9 to 7.24.1,14123,True,True,2024-03-19T15:35:14Z,2024-03-19T15:35:14Z,1,1,0,2,6,6,12,3123974.113219
+39373,refactor css: modal and offcanvas header spacing,1402,True,True,2023-11-15T19:38:44Z,2023-11-15T19:38:44Z,2,5,3,2,1,5,6,14619682.113219
+39801,Build(deps-dev): Bump @babel/core from 7.24.0 to 7.24.1,13227,True,True,2024-03-19T13:53:42Z,2024-03-19T13:53:42Z,1,1,0,2,39,38,77,3124000.113219
+38993,docs: bundle assets with Hugo,1380,True,True,2024-03-19T09:25:15Z,2024-03-19T09:25:15Z,9,3,3,31,707,283,990,23001043.599491
+39494,Change floating label placeholder's color,988,True,True,2024-03-19T05:47:42Z,2024-03-19T05:47:42Z,4,5,4,1,1,2,3,11560553.599491
+39753,Added listener on escape key to close tooltips,772,True,False,,2024-03-18T08:36:39Z,1,4,5,3,39,1,40,4206497.599491
+39791,Fix broken comment link for reflow hack,839,True,True,2024-03-18T08:32:49Z,2024-03-18T08:32:49Z,1,3,0,1,1,1,2,3336907.599491
+39792,Build(deps-dev): Bump follow-redirects from 1.15.5 to 1.15.6,1749,True,True,2024-03-18T07:30:16Z,2024-03-18T07:30:16Z,1,1,0,1,3,3,6,3336028.599491
+39782,docs: mention text transform classes,713,True,True,2024-03-15T19:23:19Z,2024-03-15T19:23:19Z,1,2,0,1,1,1,2,3634274.599491
+39783,v4-dev: NES Edition,229,True,False,,2024-03-15T17:24:56Z,5,4,1,9,713,838,1551,3579506.599491
+39749,Update masthead to HeroDevs EOL,810,True,True,2024-03-15T17:23:43Z,2024-03-15T17:23:44Z,1,4,3,2,11,3,14,4226237.599491
+39750,V4 dev herodevs never ending support links and page,920,True,False,,2024-03-14T04:26:39Z,1,3,3,7,99,0,99,4225495.599491
+39781,docs: move fathom site to hugo config,660,True,True,2024-03-13T09:43:03Z,2024-03-13T09:43:03Z,1,2,0,2,4,1,5,3656904.599491
+39777,Docs: fix Reddit URL to avoid redirection,203,True,True,2024-03-12T14:10:02Z,2024-03-12T14:10:02Z,1,2,0,1,1,1,2,3722475.675091
+39772,examples: assorted tweaks,728,True,True,2024-03-12T09:42:03Z,2024-03-12T09:42:03Z,5,2,0,1,18,12,30,3833921.675091
+36657,Fix input-group renders for form-control-plaintext,13,True,False,,2024-03-12T07:30:17Z,4,4,5,2,12,1,13,57260330.675091
+39748,README.md: fix source-maps link after 953b4b6,0,True,True,2024-03-07T04:50:52Z,2024-03-07T04:50:52Z,1,2,0,1,1,1,2,4227348.683137
+39766,"Docs: drop `data-bs-scroll=""true""` from navbar",862,True,True,2024-03-11T07:26:03Z,2024-03-11T07:26:03Z,1,2,0,1,1,1,2,3995485.683246
+39739,Search: Fix modal on mobile chromium based browsers,814,True,True,2024-03-08T08:04:12Z,2024-03-08T08:04:12Z,1,2,0,1,1,0,1,4311881.68347
+39757,footer: remove unneeded trailing slash,119,True,True,2024-03-07T14:11:01Z,2024-03-07T14:11:01Z,1,2,0,1,1,1,2,4154413.68347
+39746,docs: show banner on mobile again and reduce padding on small screens,660,True,False,,2024-03-06T17:48:40Z,2,3,1,2,2,3,5,4244407.68347
+39724,Docs: minor tweaks,66,True,True,2024-03-06T13:50:18Z,2024-03-06T13:50:18Z,2,2,1,8,12,10,22,4523591.68347
+39741,More docs fixes,84,True,True,2024-03-06T07:52:50Z,2024-03-06T07:52:50Z,3,2,1,38,73,53,126,4305824.68347
+39738,Fix docs-versions.html,494,True,True,2024-03-05T18:24:46Z,2024-03-05T18:24:46Z,1,2,0,1,7,3,10,4321232.68347
+39730,Build(deps): Bump streetsidesoftware/cspell-action from 5 to 6,4759,True,True,2024-03-05T12:39:02Z,2024-03-05T12:39:02Z,1,1,0,1,1,1,2,4336212.68347
+39725,docs: remove Google Analytics,99,True,True,2024-03-04T18:34:48Z,2024-03-04T18:34:48Z,1,3,1,5,11,19,30,4522267.359395
+39691,Build(deps-dev): Bump ip from 2.0.0 to 2.0.1,1486,True,True,2024-02-20T12:45:28Z,2024-02-20T12:45:28Z,1,1,0,2,8,8,16,5545201.359395
+39714,Build(deps-dev): Bump sass-true from 7.0.1 to 8.0.0,2927,True,True,2024-02-27T13:24:40Z,2024-02-27T13:24:40Z,1,1,0,2,11,14,25,4940744.359395
+39711,Build(deps-dev): Bump eslint from 8.56.0 to 8.57.0,6569,True,True,2024-02-27T13:20:22Z,2024-02-27T13:20:22Z,1,1,0,2,18,18,36,4940781.359395
+39713,Build(deps-dev): Bump nodemon from 3.0.3 to 3.1.0,1722,True,True,2024-02-27T13:19:09Z,2024-02-27T13:19:09Z,1,1,0,2,8,8,16,4940755.359395
+39715,Build(deps-dev): Bump hugo-bin from 0.120.2 to 0.120.4,1570,True,True,2024-02-27T13:17:48Z,2024-02-27T13:17:48Z,1,1,0,2,8,8,16,4940730.359395
+39697,refactor(accordion): merge selectors for `border-radius` rule,1497,True,True,2024-02-22T12:11:39Z,2024-02-22T12:11:39Z,2,3,0,1,4,9,13,5490497.359395
+39524,Release v5.3.3,394,True,True,2024-02-20T15:14:29Z,2024-02-20T15:14:29Z,2,3,1,88,224,237,461,10720251.898268
+39690,Build(deps-dev): Bump terser from 5.27.1 to 5.27.2,1933,True,True,2024-02-20T15:03:19Z,2024-02-20T15:03:19Z,1,1,0,2,8,8,16,5545241.906489
+39672,Build(deps-dev): Bump eslint-plugin-html from 7.1.0 to 8.0.0,1955,True,True,2024-02-18T07:04:14Z,2024-02-18T07:04:14Z,1,1,1,2,23,20,43,6150865.906736
+39673,Build(deps-dev): Bump postcss from 8.4.34 to 8.4.35,1942,True,True,2024-02-18T07:00:15Z,2024-02-18T07:00:16Z,1,1,0,2,8,8,16,6150853.906736
+39675,Build(deps-dev): Bump lockfile-lint from 4.12.1 to 4.13.1,2336,True,True,2024-02-18T06:59:46Z,2024-02-18T06:59:47Z,1,1,0,2,18,18,36,6150815.906736
+39676,Build(deps-dev): Bump eslint-plugin-unicorn from 51.0.0 to 51.0.1,1874,True,True,2024-02-18T06:58:26Z,2024-02-18T06:58:26Z,1,1,0,2,8,8,16,6150801.906736
+39201,Selector Engine: fix multiple IDs,785,True,True,2024-02-18T06:58:07Z,2024-02-18T06:58:07Z,3,3,0,3,43,2,45,18979699.906736
+39657,Fix product example mobile navbar toggler,926,True,True,2024-02-14T20:33:47Z,2024-02-14T20:33:47Z,2,3,0,1,3,3,6,6629591.906736
+38674,Remove duplicate `$alert-*-scale` Sass vars,710,True,True,2023-05-31T04:37:03Z,2023-05-31T04:37:03Z,2,4,2,1,0,3,3,28512509.906736
+39592,Update vite.md,793,True,True,2024-02-13T18:28:35Z,2024-02-13T18:28:35Z,3,5,1,3,10,10,20,8171717.906736
+39663,updated table to be responsive,726,True,True,2024-02-13T08:06:40Z,2024-02-13T08:06:41Z,2,3,2,1,337,335,672,6550425.906736
+39560,Drop `--bs-accordion-btn-focus-border-color` and deprecate `$accordion-button-focus-border-color`,969,True,True,2024-02-06T20:04:06Z,2024-02-06T20:04:06Z,2,4,0,2,3,3,6,9698848.906736
+39536,Changed RTL processing of carousel control icons,1283,True,True,2024-02-06T20:02:43Z,2024-02-06T20:02:43Z,5,5,3,1,2,10,12,10141288.39171
+39595,CSS: Fix the focus ring on focused checked buttons,897,True,True,2024-02-06T19:59:43Z,2024-02-06T19:59:43Z,1,3,0,1,9,0,9,8051887.39171
+39653,Build(deps): Bump release-drafter/release-drafter from 5 to 6,2631,True,True,2024-02-06T19:47:05Z,2024-02-06T19:47:05Z,1,1,0,1,1,1,2,6753309.39171
+39651,Build(deps-dev): Bump eslint-config-xo from 0.43.1 to 0.44.0,2255,True,True,2024-02-06T19:46:52Z,2024-02-06T19:46:52Z,1,1,0,15,48,22,70,6755796.39171
+39650,Build(deps-dev): Bump eslint-plugin-unicorn from 50.0.1 to 51.0.0,2597,True,True,2024-02-06T19:35:43Z,2024-02-06T19:35:43Z,1,1,0,2,8,8,16,6755805.39171
+39652,Build(deps-dev): Bump postcss from 8.4.33 to 8.4.34,2036,True,True,2024-02-06T19:33:10Z,2024-02-06T19:33:10Z,1,1,0,2,8,8,16,6755785.39171
+39649,Build(deps-dev): Bump stylelint-config-twbs-bootstrap from 13.0.0 to 14.0.0,2404,True,True,2024-02-06T19:32:41Z,2024-02-06T19:32:41Z,1,1,0,2,39,39,78,6755819.39171
+39646,Bump copyright year to 2024,105,True,True,2024-02-06T04:13:23Z,2024-02-06T04:13:23Z,1,2,0,17,21,21,42,6804042.39171
+39528,docs: clean up example.html,0,True,True,2024-02-02T07:56:42Z,2024-02-02T07:56:42Z,1,2,0,1,7,7,14,10617029.39171
+39601,Build(deps-dev): Bump rollup from 4.9.4 to 4.9.6,3730,True,True,2024-02-02T06:55:58Z,2024-02-02T06:55:58Z,1,1,0,2,114,114,228,7963396.39171
+39600,Build(deps-dev): Bump terser from 5.26.0 to 5.27.0,1904,True,True,2024-02-02T06:54:42Z,2024-02-02T06:54:42Z,1,1,0,2,8,8,16,7963408.39171
+39599,Build(deps-dev): Bump sass from 1.69.7 to 1.70.0,3868,True,True,2024-02-02T06:52:43Z,2024-02-02T06:52:44Z,1,1,0,2,8,8,16,7963418.997483
+39602,Build(deps-dev): Bump nodemon from 3.0.2 to 3.0.3,1918,True,True,2024-02-02T06:44:13Z,2024-02-02T06:44:13Z,1,1,0,2,8,8,16,7963386.997483
+39617,Docs: add missing comma in native font stack code source in Content > Reboot,540,True,True,2024-01-30T18:08:35Z,2024-01-30T18:08:35Z,1,2,0,1,1,1,2,7365095.997483
+39411,Optimize the accordion icon,27,True,True,2024-01-30T18:05:54Z,2024-01-30T18:05:54Z,3,4,2,1,2,2,4,13833537.997483
+39585,"Docs: Add missing type=""button"" to Cheatsheet nav buttons",989,True,True,2024-01-30T06:46:01Z,2024-01-30T06:46:01Z,3,4,0,2,6,6,12,8638499.997483
+39604,Fix typo in 'media-breakpoint-between' in migration docs,769,True,True,2024-01-29T16:51:06Z,2024-01-29T16:51:06Z,2,3,0,1,1,1,2,7856968.997483
+39612, Added support for clearing floats in the Float utility class-> Issue number - #39610 ,1194,True,False,,2024-01-29T16:32:32Z,1,2,0,1,22,0,22,7616955.997483
+38463,Add decodeURI to anchor hashes,882,True,False,,2023-04-21T16:27:30Z,1,4,9,3,47,2,49,32467256.002043
+39554,Build(deps-dev): Bump @babel/core from 7.23.6 to 7.23.7,3045,True,True,2024-01-09T07:18:50Z,2024-01-09T07:18:50Z,1,1,0,2,26,26,52,9776606.002043
+39096,CI: stop running coveralls in forks,0,True,True,2024-01-09T07:11:06Z,2024-01-09T07:11:06Z,3,3,1,1,1,0,1,21195743.585055
+39539,Update links on get-started page,743,True,True,2023-12-30T07:44:14Z,2023-12-30T07:44:15Z,2,3,0,1,3,3,6,10109500.585055
+39537,Docs: fix desc around deprecated Sass mixins for alerts and list groups,1272,True,True,2023-12-30T07:48:21Z,2023-12-30T07:48:21Z,1,2,0,3,3,7,10,10133486.585055
+32024,Fix TypeError when Bootstrap is included in `head`,233,True,True,2020-11-01T13:32:36Z,2020-11-01T13:32:37Z,5,5,12,14,185,127,312,109868970.585055
+39510,Build(deps-dev): Bump rollup from 3.29.4 to 4.9.1,3876,True,True,2023-12-23T17:41:41Z,2023-12-23T17:41:41Z,1,1,1,2,297,11,308,10989164.585055
+39519,Docs: use consistent HTML elements in Utilities > Background page,867,True,True,2023-12-22T06:14:16Z,2023-12-22T06:14:16Z,2,3,1,1,2,3,5,10801594.585055
+39520,Docs: drop unused `.theme-icon` class,603,True,True,2023-12-21T16:34:17Z,2023-12-21T16:34:17Z,1,2,0,2,6,6,12,10801344.585055
+39164,Add CSS properties to extend browser support,1846,True,False,,2023-12-21T06:24:40Z,1,6,5,1,6,4,10,19671395.585055
+24459,Set autoprefixer's cascade option to false.,54,True,True,2017-10-22T12:23:24Z,2017-10-22T12:23:24Z,1,2,0,1,1,1,2,205484171.585055
+39488,Build(deps-dev): Bump @babel/preset-env from 7.23.5 to 7.23.6,5429,True,True,2023-12-17T08:05:53Z,2023-12-17T08:05:53Z,1,1,0,2,64,62,126,11592360.688441
+39491,Build(deps-dev): Bump hugo-bin from 0.116.4 to 0.117.1,1575,True,True,2023-12-17T07:58:34Z,2023-12-17T07:58:34Z,1,1,0,2,8,8,16,11592263.688441
+39489,Build(deps-dev): Bump terser from 5.24.0 to 5.26.0,2495,True,True,2023-12-16T08:23:47Z,2023-12-16T08:23:47Z,1,1,0,2,8,8,16,11592334.688441
+39497,Fix a typo,717,True,True,2023-12-15T07:16:00Z,2023-12-15T07:16:00Z,1,2,0,1,1,1,2,11427706.688441
+39435,Docs: add `shift-color()` usage example in sass customization page,881,True,True,2023-12-12T07:08:19Z,2023-12-12T07:08:19Z,5,3,0,1,7,0,7,13125164.688441
+39458,Docs: enhance `.card-img-*` description,751,True,True,2023-12-10T07:23:46Z,2023-12-10T07:23:46Z,2,3,0,1,1,1,2,12448717.688441
+38719,Fix focus box-shadow for validation stated form-controls,1295,True,True,2023-12-09T08:34:21Z,2023-12-09T08:34:21Z,3,3,4,1,12,2,14,27899791.688441
+39467,Build(deps-dev): Bump @babel/preset-env from 7.23.3 to 7.23.5,4791,True,True,2023-12-05T16:17:55Z,2023-12-05T16:17:55Z,1,1,0,2,58,58,116,12198403.688441
+39464,Build(deps-dev): Bump clean-css-cli from 5.6.2 to 5.6.3,1618,True,True,2023-12-05T16:17:06Z,2023-12-05T16:17:06Z,1,1,0,2,16,16,32,12198430.688441
+39468,Build(deps-dev): Bump postcss from 8.4.31 to 8.4.32,1892,True,True,2023-12-05T16:16:02Z,2023-12-05T16:16:02Z,1,1,0,2,16,16,32,12198394.688441
+39466,Build(deps-dev): Bump nodemon from 3.0.1 to 3.0.2,1926,True,True,2023-12-05T15:53:35Z,2023-12-05T15:53:35Z,1,1,0,2,10,28,38,12198416.688441
+39443,Build(deps-dev): Bump @babel/cli from 7.23.0 to 7.23.4,5127,True,True,2023-11-28T11:50:23Z,2023-11-28T11:50:23Z,1,1,0,2,8,8,16,12802496.688441
+39445,Build(deps-dev): Bump stylelint-config-twbs-bootstrap from 11.0.1 to 12.0.0,2436,True,True,2023-11-28T11:49:54Z,2023-11-28T11:49:54Z,1,1,0,2,76,84,160,12802469.688441

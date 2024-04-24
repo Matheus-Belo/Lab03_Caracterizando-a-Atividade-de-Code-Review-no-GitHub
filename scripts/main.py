@@ -1,5 +1,5 @@
-from scripts.metricas import get_repo_data, get_pr_data, summarized_data
-from scripts.dados import salvarcsv, ler_csv, merge
+from metricas import get_repo_data, get_pr_data, summarized_data
+from dados import salvarcsv, ler_csv, merge
 
 REPOSITORIOS = 200
 PAGINA = 1

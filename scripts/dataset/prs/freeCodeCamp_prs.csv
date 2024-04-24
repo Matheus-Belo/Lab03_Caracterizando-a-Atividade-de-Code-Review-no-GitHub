@@ -1,0 +1,101 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToAnalysis
+54498,refactor: remove hasNoSolution,363,True,False,,2024-04-24T06:29:07Z,4,2,1,2,8,31,39,105451.163263
+54501,test: simplify action-row spec,399,True,True,2024-04-23T17:42:16Z,2024-04-23T17:42:16Z,2,3,0,1,90,115,205,97093.163263
+53560,"feat(api,client): Add Webhooks with Optional Token",587,True,False,,2024-04-23T15:49:14Z,1,5,12,17,340,11,351,6784854.163263
+54448,fix(curriculum): add missing word to instructions,297,True,True,2024-04-22T04:41:51Z,2024-04-22T04:41:51Z,2,3,0,1,1,1,2,406278.163263
+54413,refactor: simplify logic in get-challenges,408,True,True,2024-04-23T11:11:55Z,2024-04-23T11:11:55Z,6,3,1,2,41,71,112,696444.163263
+54497,test: remove mocks from email signup spec,370,True,True,2024-04-23T11:13:22Z,2024-04-23T11:13:22Z,2,3,0,1,8,22,30,108183.163263
+54226,fix(UI): remove flash from update email flow,275,True,True,2024-04-23T09:06:36Z,2024-04-23T09:06:36Z,3,4,4,2,11,6,17,2479695.163263
+54468,fix(curriculum): Updated the tests to accpet the answer irrespective of the order of concatenation,275,True,True,2024-04-23T09:30:11Z,2024-04-23T09:30:12Z,3,3,0,1,3,3,6,280388.163263
+54485,chore: allow all seeded users to be modified,506,True,True,2024-04-22T16:25:54Z,2024-04-22T16:25:54Z,2,3,0,3,12211,10305,22516,167600.163263
+54463,fix(curriculum): add reminder to include final colon for if and else statements,297,True,True,2024-04-22T07:14:33Z,2024-04-22T07:14:33Z,3,3,0,2,2,2,4,296234.163263
+54444,fix(curriculum): change editable region for step 24 of cat painting,442,True,True,2024-04-22T14:15:26Z,2024-04-22T14:15:26Z,2,3,0,1,3,3,6,447968.163263
+54479,ci: create playwright report artifacts,259,True,True,2024-04-22T18:29:31Z,2024-04-22T18:29:31Z,2,3,1,1,7,0,7,192087.163263
+54435,refactor(curriculum): update RPG project to accommodate new intro pyramid project,259,True,True,2024-04-22T17:10:58Z,2024-04-22T17:10:58Z,3,3,0,178,624,2044,2668,553989.163263
+54484,"chore(i18n,learn): processed translations",45,True,True,2024-04-22T16:11:29Z,2024-04-22T16:11:29Z,2,3,0,3000,83412,3233,86645,173636.163263
+54477,fix(curriculum): Learn Introductory JavaScript by Building a Pyramid Generator Step 30,275,True,True,2024-04-22T14:11:18Z,2024-04-22T14:11:18Z,2,3,0,1,1,1,2,222136.163263
+54474,fix(curriculum): update description for step 19 of pyramid project,376,True,True,2024-04-22T14:10:15Z,2024-04-22T14:10:15Z,2,3,0,1,9,3,12,266285.163263
+54467,fix(curriculum): Updated editable regions for step 44 of pyramid project,275,True,True,2024-04-22T14:09:54Z,2024-04-22T14:09:54Z,2,3,0,1,1,1,2,282677.005242
+54483,"chore(i18n,client): processed translations",45,True,True,2024-04-22T13:54:30Z,2024-04-22T13:54:31Z,2,3,0,12,80,3,83,177620.005242
+50721,feat(api): POST user/user-token,275,True,True,2023-06-29T10:36:44Z,2023-06-29T10:36:44Z,10,5,2,6,4141,1939,6080,27111649.005242
+54454,fix(Curriculum): Removed the incorrect comma in the instruction set.,275,True,False,,2024-04-22T04:40:49Z,2,3,1,1,1,1,2,368499.005242
+54456,fix(curriculum): update description for step 16 of pyramid project,293,True,True,2024-04-22T04:40:02Z,2024-04-22T04:40:02Z,4,3,0,1,1,1,2,324756.005242
+54459,fix(curriculum): clarify cipher instruction step 17,279,True,True,2024-04-21T17:52:24Z,2024-04-21T17:52:24Z,2,3,0,1,1,1,2,306195.005242
+54460,fix(curriculum): include example of return statement cipher step 66,279,True,True,2024-04-21T17:51:18Z,2024-04-21T17:51:18Z,2,3,0,1,8,1,9,304361.005242
+54452,fix: defined ValueError in step 64 of Learn String Manipulation by Building a Cipher,279,True,True,2024-04-21T17:53:41Z,2024-04-21T17:53:42Z,2,3,0,1,2,0,2,372929.005242
+54315,fix(curriculum): update logic and tests for step 29 football team,279,True,False,,2024-04-09T03:05:47Z,1,4,2,20,21,20,41,1595637.005242
+54262,feat(client): fallback image for portfolio page,279,True,True,2024-04-09T08:40:11Z,2024-04-09T08:40:11Z,3,3,0,1,9,3,12,2017433.005242
+54211,fix(curriculum): clarify random property,275,True,True,2024-03-26T22:40:07Z,2024-03-26T22:40:07Z,4,5,0,1,1,1,2,2551974.537712
+54210,fix(UI): skip button outline visibility,312,True,True,2024-03-26T10:04:34Z,2024-03-26T10:04:34Z,3,4,1,1,10,2,12,2566860.537712
+54102,fix(curriculum): update instructions in Cat Photo App step1,272,True,True,2024-03-22T12:52:04Z,2024-03-22T12:52:04Z,3,4,1,1,4,5,9,3508457.537712
+54370,fix(curriculum): update tests for step 28 of Authors page,525,True,True,2024-04-12T14:59:39Z,2024-04-12T14:59:39Z,2,3,0,1,2,2,4,1058069.537712
+54365,fix(curriculum): Update TODO step 65 to show code example of expected answer,275,True,False,,2024-04-12T06:07:58Z,1,3,1,2,11,0,11,1085980.537712
+54446,fix: use dummy data in forum leaderboard project,402,True,True,2024-04-20T18:40:17Z,2024-04-20T18:40:17Z,2,3,0,67,70,70,140,429917.537712
+54389,fix: restore missing reset button,363,True,True,2024-04-19T08:00:56Z,2024-04-19T08:00:56Z,4,5,6,3,53,9,62,855644.537712
+54371,fix(curriculum): update test of TODO step 6 to allow for multiple function answers,321,True,True,2024-04-18T07:15:06Z,2024-04-18T07:15:06Z,2,3,5,1,1,1,2,1050413.537712
+54437,fix(client): full width border for console tab,312,True,True,2024-04-18T19:19:54Z,2024-04-18T19:19:54Z,2,3,0,1,4,0,4,532608.537712
+54221,feat: make it easier to make changes to profile,535,True,False,,2024-04-18T19:46:15Z,1,5,7,1,22,0,22,2516631.537712
+54441,fix(curriculum): unclear messages in step 54 of statistic calculator,369,True,True,2024-04-18T17:07:08Z,2024-04-18T17:07:09Z,3,3,0,1,17,8,25,520094.537712
+54278,fix(client): improve help modal verbiage and styles,116,True,True,2024-04-11T08:03:08Z,2024-04-11T08:03:08Z,8,6,7,3,30,26,56,1903538.537712
+54433,fix(curriculum): feedback heading in english challenge,553,True,True,2024-04-18T06:49:08Z,2024-04-18T06:49:08Z,2,3,0,1,1,1,2,564097.537712
+54439,fix: show console on load for new js project,355,True,True,2024-04-18T16:35:31Z,2024-04-18T16:35:31Z,2,3,1,2,8,3,11,527302.537712
+54416,feat(client): conditionally hide preview for new js project,426,True,True,2024-04-18T09:05:32Z,2024-04-18T09:05:32Z,5,3,6,5,70,26,96,654831.537712
+54312,refactor(curriculum): updating step 22 of stats calculator project,915,True,True,2024-04-18T07:31:46Z,2024-04-18T07:31:46Z,5,6,11,38,666,133,799,1615249.537712
+53901,fix(ui): fixed upper jaw inline code string spacing,407,True,False,,2024-04-18T08:44:59Z,1,3,7,1,3,1,4,4857872.744186
+54428,chore(deps): update curriculum-helpers to v3.3.0,275,True,True,2024-04-18T08:31:11Z,2024-04-18T08:31:11Z,2,3,1,2,41,89,130,592152.744186
+54358,fix(curriculum): update step 6 of TODO app to allow for multiple correct answers,273,True,False,,2024-04-18T08:32:33Z,1,3,3,1,1,1,2,1105810.744186
+54422,fix(client): prevent dispatches during render,683,True,True,2024-04-18T08:27:05Z,2024-04-18T08:27:05Z,4,3,0,2,40,11,51,608814.744186
+54418,fix(curriculum): Update hint text for step 6 of todo app project,275,True,True,2024-04-18T04:39:38Z,2024-04-18T04:39:38Z,3,3,0,1,1,1,2,625995.744186
+54321,DO NOT MERGE - refactor(curriculum): refactoring RPG project to prepare for the addition of the intro JS project,403,True,False,,2024-04-18T02:09:22Z,3,33,3,3000,168680,31213,199893,1441855.744186
+53913,fix(curriculum): grammar issues and updated test in step 29 of music player project,259,True,False,,2024-04-17T22:40:10Z,4,3,6,1,6,4,10,4803638.744186
+54419,fix(curriculum): update description and hint text of Date Formatter - Step 28,275,True,True,2024-04-17T20:08:18Z,2024-04-17T20:08:18Z,2,3,0,1,4,2,6,611239.744186
+54305,feat: new introductory javascript project,275,True,True,2024-04-17T16:29:14Z,2024-04-17T16:29:14Z,40,5,9,135,7134,43,7177,1685188.744186
+54425,"chore(i18n,learn): processed translations",45,True,True,2024-04-17T16:28:42Z,2024-04-17T16:28:42Z,2,3,0,222,664,620,1284,605056.744186
+54424,fix(curriculum): update editable regions for step 47 of calorie counter,374,True,True,2024-04-17T15:19:48Z,2024-04-17T15:19:48Z,2,3,0,1,2,2,4,606870.744186
+54408,fix(curriculum): updated tests of calorie counter,341,True,False,,2024-04-17T15:09:49Z,1,4,2,1,4,5,9,735040.744186
+54421,"chore(i18n,client): processed translations",45,True,True,2024-04-17T14:03:55Z,2024-04-17T14:03:55Z,2,3,0,13,32,21,53,609592.744186
+54414,fix(curriculum): use security as said in the clip,275,True,True,2024-04-17T05:55:00Z,2024-04-17T05:55:00Z,2,3,0,1,2,2,4,666079.744186
+54273,test(e2e): migrate image picture check tests to playwright,272,True,True,2024-04-17T04:52:59Z,2024-04-17T04:53:00Z,3,3,0,2,41,40,81,1917146.744186
+54374,fix(curriculum): update example description in accessibility quiz step 8,275,True,True,2024-04-16T14:29:28Z,2024-04-16T14:29:28Z,5,3,0,1,1,1,2,1047413.744186
+54404,fix(curriculum): clarify instructions,344,True,True,2024-04-16T04:45:34Z,2024-04-16T04:45:34Z,2,3,0,1,1,1,2,753331.744186
+54401,fix(i18n): use translated text for play button,275,True,True,2024-04-16T15:35:34Z,2024-04-16T15:35:34Z,3,3,0,2,8,2,10,758058.449297
+54410,chore(deps): update playwright,275,True,True,2024-04-16T14:25:15Z,2024-04-16T14:25:15Z,2,3,1,2,82,32,114,707346.449297
+54412,chore(client): remove execute-challenge-saga log,327,True,True,2024-04-16T11:43:34Z,2024-04-16T11:43:35Z,2,3,0,1,1,1,2,703201.449297
+54073,feat: use English code in i18n challenges,705,True,False,,2024-04-16T08:22:39Z,1,3,5,4,333,88,421,3645322.449297
+54407,fix(curriculum): updated step 27 of music player to accept let declaration,327,True,True,2024-04-16T06:18:54Z,2024-04-16T06:18:54Z,2,3,0,1,1,1,2,743013.449297
+54406,"fix(curriculum): correct instructions, add quotes around value",562,True,True,2024-04-16T04:51:04Z,2024-04-16T04:51:04Z,2,3,0,1,4,4,8,750998.449297
+54393,fix(client): forum search link for English challenges missing block name,721,True,True,2024-04-15T16:57:30Z,2024-04-15T16:57:31Z,2,4,1,2,38,2,40,806789.449297
+54381,fix(curriculum): update tests for Football Teams step 25 to accept both types of functions,503,True,True,2024-04-15T11:53:27Z,2024-04-15T11:53:27Z,2,3,0,1,2,2,4,981009.449297
+54399,"chore(i18n,learn): processed translations",45,True,True,2024-04-15T21:55:52Z,2024-04-15T21:55:52Z,2,3,0,685,20549,650,21199,765954.449297
+54378,fix: prevent false matches in step 10 spam,640,True,False,,2024-04-15T18:56:35Z,1,3,1,1,8,0,8,1027950.451064
+54364,fix: modified tests for step 10 of building a spam filter,393,True,True,2024-04-15T17:32:10Z,2024-04-15T17:32:10Z,3,6,4,1,4,0,4,1092191.451064
+54396,"chore(i18n,client): processed translations",45,True,True,2024-04-15T16:38:02Z,2024-04-15T16:38:02Z,2,3,0,22,104,49,153,782423.451064
+52884,fix(curriculum): Improve Sudoku solver,275,True,False,,2024-04-15T12:36:19Z,8,5,2,897,12450,12022,24472,9756081.451064
+54201,fix: make it easier to show and focus shortcuts modal,526,True,True,2024-04-12T18:14:16Z,2024-04-12T18:14:17Z,3,5,2,1,5,5,10,2617120.451064
+54335,refactor: simplify get challenges,363,True,True,2024-04-14T20:08:57Z,2024-04-14T20:08:57Z,2,3,0,4,14,100,114,1286407.451064
+54349,feat: The Odin Project function basics,275,True,True,2024-04-15T07:47:28Z,2024-04-15T07:47:28Z,4,3,0,8,386,0,386,1141464.451064
+54351,refactor(api): clean up route code,428,True,True,2024-04-15T07:19:45Z,2024-04-15T07:19:45Z,2,3,0,2,108,57,165,1136988.451064
+54385,fix(curriculum): update steps 18 and 19 for date formatter project,375,True,True,2024-04-15T06:35:53Z,2024-04-15T06:35:53Z,3,3,0,2,4,4,8,921485.45211
+54383,fix(tools): better alert messaging,755,True,True,2024-04-15T06:00:25Z,2024-04-15T06:00:25Z,2,3,0,1,15,2,17,929918.133427
+54388,fix(curriculum): typo in step 47 of binary converter project,528,True,False,,2024-04-15T04:46:37Z,1,3,3,1,1,1,2,860653.133427
+54362,fix(curriculum): spacing issue for step 17 of rpg project,469,True,True,2024-04-15T04:52:28Z,2024-04-15T04:52:28Z,3,4,0,1,3,3,6,1097434.133427
+54390,fix(curriculum): typo in step 47 binary project,275,True,True,2024-04-15T04:45:21Z,2024-04-15T04:45:21Z,2,3,0,1,1,1,2,855567.133427
+54294,fix(curriculum): removed hyphens searching for topic from coding pages,389,True,True,2024-04-14T20:19:45Z,2024-04-14T20:19:45Z,2,4,2,1,3,1,4,1741297.133427
+54369,fix(curriculum): make the description of step 1 cafe menu easier to understand,275,True,True,2024-04-12T15:01:42Z,2024-04-12T15:01:42Z,2,4,2,1,13,4,17,1067492.133427
+54165,fix(curriculum): nutrition label matches FDA guidelines,275,True,True,2024-04-12T18:09:52Z,2024-04-12T18:09:52Z,4,3,0,7,15,8,23,2945893.133427
+54244,feat(curriculum): add English curriculum block 7.3 analyzing code documentation,259,True,True,2024-04-12T19:41:12Z,2024-04-12T19:41:12Z,4,3,0,30,1550,17,1567,2254731.133427
+54240,refactor: move joinArray & parseDate to utils,462,True,True,2024-04-12T19:07:32Z,2024-04-12T19:07:32Z,4,4,0,3,34,33,67,2343825.133427
+54376,feat(client): add linkedIn credential id to share btn,329,True,True,2024-04-12T15:32:34Z,2024-04-12T15:32:34Z,2,4,0,4,45,5,50,1036784.133427
+54346,feat(client): add linkedIn credential id to share btn,275,True,True,2024-04-12T08:15:14Z,2024-04-12T08:15:14Z,14,4,1,4,45,5,50,1159405.133427
+54373,"Revert ""feat(client): add linkedIn credential id to share btn (#54346)""",454,True,True,2024-04-12T13:11:56Z,2024-04-12T13:11:56Z,2,3,1,4,5,45,50,1049115.133427
+54355,fix(curriculum): update step 65 description for TODO project,273,True,True,2024-04-12T06:56:15Z,2024-04-12T06:56:15Z,3,3,0,1,10,0,10,1108562.134428
+54345,fix(curriculum): use contraction in fill the blank text,295,True,True,2024-04-11T15:57:55Z,2024-04-11T15:57:55Z,2,3,1,3,5,5,10,1163896.134428
+54350,chore(api): refactor schemas into individual files,445,True,True,2024-04-11T12:45:56Z,2024-04-11T12:45:56Z,2,3,0,34,1271,1145,2416,1139331.667126
+50515,feat(api): get certslug route,275,True,True,2024-04-11T06:57:46Z,2024-04-11T06:57:46Z,5,7,1,7,626,5,631,28948512.667126
+54299,feat: accept multiple modals ab test,472,True,True,2024-04-11T08:10:03Z,2024-04-11T08:10:03Z,2,3,0,1,2,8,10,1731748.667126
+54241,chore(e2e): delete Cypress tests that are already covered by Playwright,294,True,True,2024-04-11T06:49:41Z,2024-04-11T06:49:42Z,2,3,0,12,0,507,507,2338260.667126
+54336,"fix(curriculum): fixed grammar of ""stay is in the order""",275,True,True,2024-04-11T02:00:19Z,2024-04-11T02:00:19Z,2,3,0,1,1,1,2,1281284.667126
+54342,fix: never flush logs after executing tests,848,True,True,2024-04-10T16:30:06Z,2024-04-10T16:30:06Z,2,3,0,1,9,9,18,1204282.667126
+54340,"chore(i18n,learn): processed translations",45,True,True,2024-04-10T15:29:12Z,2024-04-10T15:29:12Z,2,3,0,1529,25346,3093,28439,1211471.667126
+54308,fix(tools): make the editing steps tool keep the challenge type,523,True,True,2024-04-08T18:27:42Z,2024-04-08T18:27:42Z,2,3,0,6,29,6,35,1637560.667126
+54334,chore: remove unused /docs code,360,True,True,2024-04-09T16:31:40Z,2024-04-09T16:31:40Z,2,3,1,3,0,31,31,1292386.667126
