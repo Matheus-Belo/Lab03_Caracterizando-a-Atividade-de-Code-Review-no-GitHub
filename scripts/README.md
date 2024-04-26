@@ -2,6 +2,8 @@
 # Scripts
 
 
-* Adicionar os scripts nesta pasta.
+* [Repositórios](/scripts/repo.py) 
+* [pullRequests](/scripts/pullRequests.py)
+* [Gráficos](/scripts/graficos.py)
 
-* Listar os scripts desenvolvidos, adicionando uma breve descrição de como utilizá-los neste arquivo.
+* Rode os scripts na ordem que estão aresentados nesse arquivo. 

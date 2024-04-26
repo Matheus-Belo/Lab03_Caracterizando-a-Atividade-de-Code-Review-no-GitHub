@@ -1,5 +1,4 @@
 Nome,QuantidadePRsMerged,url
-scrcpy,77,https://github.com/Genymobile/scrcpy
 awesome,644,https://github.com/sindresorhus/awesome
 public-apis,1871,https://github.com/public-apis/public-apis
 coding-interview-university,398,https://github.com/jwasham/coding-interview-university
@@ -48,7 +47,7 @@ PowerToys,4601,https://github.com/microsoft/PowerToys
 axios,819,https://github.com/axios/axios
 node,7857,https://github.com/nodejs/node
 awesome-chatgpt-prompts,114,https://github.com/f/awesome-chatgpt-prompts
-
+scrcpy,77,https://github.com/Genymobile/scrcpy
 create-react-app,1944,https://github.com/facebook/create-react-app
 three.js,12189,https://github.com/mrdoob/three.js
 TypeScript,13911,https://github.com/microsoft/TypeScript
