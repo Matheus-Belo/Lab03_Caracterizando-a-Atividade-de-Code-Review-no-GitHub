@@ -1,0 +1,781 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+1274,readme arabic,414,True,False,,2024-02-24T15:53:13Z,0,1,6,1,76,0,76,0
+1273,test change,98,True,False,,2024-02-20T20:58:04Z,0,1,0,1,2,0,2,0
+1264,Action perms,586,True,False,,2024-02-05T19:05:24Z,0,1,0,4,8,3,11,0
+1251,test change,12,True,False,,2024-01-24T15:07:16Z,0,1,0,1,1,1,2,0
+1248,Update index.css,414,True,False,,2024-01-17T16:28:22Z,0,1,1,1,2,1,3,0
+180,Fix typos,262,True,True,2021-02-05T18:48:15Z,2021-02-05T18:48:15Z,1,3,2,1,5,5,10,315061.0
+181,Adding FR.fr,314,True,True,2021-03-24T15:42:23Z,2021-03-24T15:42:23Z,4,4,12,4,242,0,242,4038447.0
+1222,Fix typo,413,True,True,2023-11-15T01:00:19Z,2023-11-15T01:00:19Z,2,3,1,1,1,1,2,2702686.0
+950,Add helpwanted part,48,True,True,2023-03-24T19:51:29Z,2023-03-24T19:51:29Z,1,3,5,2,117,0,117,12840110.0
+1129,translation in urdu  github-basics README,55,True,False,,2023-07-08T01:38:34Z,1,3,1,1,325,0,325,0
+906,Create readme.md in russian,106,True,False,,2022-12-30T08:38:27Z,0,2,1,1,50,0,50,0
+1032,Edit images,0,True,False,,2023-10-10T18:21:52Z,2,2,7,0,0,0,0,0
+1206,"Fixed Issues #1205 and #1184, wrong picture  for translated pages.",217,True,False,,2023-09-19T17:51:30Z,0,2,1,1,1,1,2,0
+1034,Update README.md to improve sentence structure and grammar,0,True,False,,2023-07-24T18:37:22Z,0,2,2,1,6,6,12,0
+1038,Update README.md,40,True,False,,2023-09-26T15:32:05Z,2,2,5,1,12,12,24,0
+1175,Update README.md - Added emoji to make it more beautiful,82,True,False,,2023-09-26T15:30:39Z,0,2,3,1,10,10,20,0
+1187,fix: wrong image url in intro to programming README.zh-cz,163,True,True,2023-09-26T15:20:26Z,2023-09-26T15:20:26Z,1,2,0,1,1,1,2,3114062.0
+1177,feat: add commands in readme to setup locally,97,True,False,,2023-09-26T15:19:15Z,2,3,4,1,50,0,50,0
+1214,update readme with codespace and setup instructions,98,True,True,2023-09-26T15:12:58Z,2023-09-26T15:12:58Z,0,1,1,3,63,13,76,182.0
+1196,"Fix Typo: added a space in ""making-decisions"" README file",348,True,True,2023-09-25T12:47:00Z,2023-09-25T12:47:01Z,1,2,2,1,44,42,86,2593330.0
+1139,Update index.js,73,True,False,,2023-09-25T13:51:30Z,0,2,3,1,1,1,2,0
+1171,fix:removed extra blank link between sections,414,True,False,,2023-09-25T13:14:10Z,0,2,1,1,0,2,2,0
+1197,Fix: typos,10,True,True,2023-09-25T12:44:42Z,2023-09-25T12:44:42Z,1,2,1,4,13,13,26,2432899.0
+1182,Update index.html,414,True,True,2023-09-25T12:40:37Z,2023-09-25T12:40:37Z,2,4,3,1,43,42,85,3610512.0
+1212,test forked repo,13,True,False,,2023-09-20T10:30:03Z,0,1,0,1,1,1,2,0
+1207,Update index.html,420,True,False,,2023-09-15T14:16:41Z,0,1,0,1,1,1,2,0
+1072,Fix lesson 17 dead link of issue #1065,152,True,False,,2023-05-26T10:35:25Z,0,1,2,9,10,10,20,0
+1178,Create README.uz.md,547,True,False,,2023-08-23T14:48:23Z,0,1,4,1,202,0,202,0
+1110,Create for-teachers.fa.md ,109,True,False,,2023-07-27T19:33:47Z,0,4,4,116,35,1,36,0
+975,Translation proposal in Spanish translation (paragraph 03),0,True,True,2023-07-24T18:35:17Z,2023-07-24T18:35:17Z,3,3,2,1,1,1,2,21493075.0
+973,Semantic issue (proposal in paragraph 21),39,True,True,2023-02-08T00:29:38Z,2023-02-08T00:29:38Z,1,3,0,1,2,2,4,7290842.0
+977,Proper translation (paragraph 27 & 214) - Spanish translation,37,True,True,2023-07-17T18:11:14Z,2023-07-17T18:11:15Z,2,3,1,1,5,5,10,20785673.0
+1156,Third lesson,21,True,False,,2023-07-14T20:45:57Z,0,2,1,18,477,32,509,0
+1138,Second lesson,31,True,False,,2023-07-14T20:45:33Z,0,2,1,13,254,32,286,0
+1137,Finished First Lesson,76,True,False,,2023-07-14T20:44:29Z,0,2,3,5,89,32,121,0
+967,Update README.es.md,0,True,True,2023-07-11T19:56:35Z,2023-07-11T19:56:35Z,1,3,1,1,6,0,6,21490808.0
+787,Add portuguese br translation quizz,90,True,True,2023-07-13T20:42:19Z,2023-07-13T20:42:19Z,1,3,4,3,2522,9,2531,24446303.0
+878,[TRANSLATION] added a portuguese translation for 7 bank-project,56,True,True,2023-07-13T20:33:52Z,2023-07-13T20:33:52Z,1,3,1,1,21,0,21,23583707.0
+1015,Danhpaiva/portuguese br,53,True,True,2023-07-13T20:30:44Z,2023-07-13T20:30:44Z,1,3,1,1,3,3,6,17777754.0
+1132,Update .gitignore,43,True,False,,2023-07-07T17:55:48Z,0,2,2,1,0,65,65,0
+1159,Test,7,True,False,,2023-07-12T19:06:41Z,0,2,1,1,28,0,28,0
+1163,Updated url of Labs of Github site (line 324),351,True,True,2023-07-11T21:09:56Z,2023-07-11T21:09:56Z,1,3,1,1,3,3,6,2210.0
+988,Fixed markup formatting (paragraph 30),33,True,True,2023-07-11T19:57:37Z,2023-07-11T19:57:37Z,2,4,2,1,3,3,6,19689235.0
+851,Fixes in documentation / Assignees: @12rashic,44,True,False,,2023-07-11T19:54:28Z,2,4,10,1,10,10,20,0
+983,"Typos fixed (line 53, 975, 1802, 2058) in Spanish translation",0,True,True,2023-07-11T18:23:54Z,2023-07-11T18:23:54Z,1,3,1,1,8,8,16,19927263.0
+984,Table markupd fixed in Spanish translation,0,True,True,2023-07-11T18:25:58Z,2023-07-11T18:25:58Z,1,3,1,1,2,2,4,19762991.0
+985,Semantic issue (paragraph 09) in Spanish translation,26,True,True,2023-07-11T18:32:37Z,2023-07-11T18:32:37Z,1,3,1,1,4,4,8,19761857.0
+987,Typo fixed (line 115) in spanish translation,0,True,True,2023-07-11T18:35:13Z,2023-07-11T18:35:13Z,1,4,3,1,1,1,2,19760806.0
+992,Typo fixed (paragraph 102) in Spanish translation,0,True,True,2023-07-11T18:41:30Z,2023-07-11T18:41:30Z,1,3,1,1,1,1,2,19605463.0
+993,Title typo fixed (line 05) in Spanish translation,63,True,True,2023-07-11T18:43:13Z,2023-07-11T18:43:13Z,1,3,1,1,4,4,8,19600275.0
+994,Fixed table markup (spanish translation),0,True,True,2023-07-11T18:44:37Z,2023-07-11T18:44:37Z,1,3,1,1,1,1,2,19600215.0
+986,Table markup fixed (spanish translation),0,True,True,2023-07-11T18:34:04Z,2023-07-11T18:34:04Z,1,3,1,1,2,2,4,19761717.0
+1155,Update README.md,0,True,False,,2023-07-07T17:58:20Z,0,2,1,1,1,1,2,0
+769,Feature: Add language navigation,50,True,True,2023-07-10T15:42:02Z,2023-07-10T15:42:02Z,1,2,4,3,35,0,35,24343819.0
+1052,SECURITY.md,0,True,False,,2023-07-10T16:58:11Z,0,2,2,1,1,1,2,0
+1048,microsoft,0,True,False,,2023-07-10T16:57:12Z,0,2,2,1,126,0,126,0
+1073,Bump http-cache-semantics from 4.1.0 to 4.1.1,2105,True,True,2023-07-10T16:54:50Z,2023-07-10T16:54:50Z,0,1,1,1,6,6,12,13549935.0
+1161,Pause translation updates,210,True,True,2023-07-10T16:51:26Z,2023-07-10T16:51:27Z,0,1,1,8,31,161,192,318.0
+943,added switch statement,0,True,True,2023-07-10T14:49:51Z,2023-07-10T14:49:51Z,1,2,4,1,39,0,39,22195632.0
+758,Update README.md,60,True,False,,2023-07-10T14:46:01Z,0,2,4,1,23,0,23,0
+1039,Bump json5 from 2.2.1 to 2.2.3 in /quiz-app,3026,True,False,,2023-07-07T18:43:02Z,0,1,3,1,12,12,24,0
+1077,Bump @sideway/formula from 3.0.0 to 3.0.1 in /quiz-app,2201,True,False,,2023-07-07T18:42:43Z,0,1,3,1,6,6,12,0
+1099,Bump webpack from 5.75.0 to 5.76.1 in /quiz-app,4289,True,False,,2023-07-07T18:42:31Z,0,1,3,1,6,6,12,0
+1160,update quiz app dependencies,0,True,True,2023-07-07T18:41:39Z,2023-07-07T18:41:39Z,0,1,1,2,3561,2911,6472,204.0
+1131,修改格式错误,117,True,True,2023-07-07T17:59:16Z,2023-07-07T17:59:16Z,1,2,0,1,1,1,2,4409212.0
+1053,SECURITY.md,0,True,False,,2023-07-07T17:56:46Z,1,3,2,2,2,2,4,0
+1082,Update package.json,0,True,False,,2023-07-07T17:52:10Z,0,2,2,1,2,1,3,0
+1112,FIX grammatical errors in README.md,0,True,True,2023-07-07T17:46:03Z,2023-07-07T17:46:03Z,1,2,1,1,1,1,2,8037520.0
+1080,Update README.ja.md,34,True,True,2023-07-07T17:49:21Z,2023-07-07T17:49:21Z,2,3,1,1,1,1,2,12351314.0
+1079,Update assignment.ja.md,32,True,True,2023-07-07T17:48:31Z,2023-07-07T17:48:31Z,1,2,1,1,2,2,4,12365136.0
+1078,Update README.ja.md,431,True,True,2023-07-07T17:47:32Z,2023-07-07T17:47:32Z,1,3,3,1,1,1,2,12371115.0
+1111,Variable not declared/ambiguos usage #1103 solved,347,True,False,,2023-07-07T17:45:16Z,0,2,2,1,1,1,2,0
+1088,Add files via upload,0,True,False,,2023-07-07T13:54:56Z,0,2,3,20,2780,0,2780,0
+1089,Add files via upload,0,True,False,,2023-07-07T13:53:20Z,0,2,3,18,560,0,560,0
+1107,Variable not declared/ambiguous usage #1103 Solved,110,True,True,2023-07-05T18:13:48Z,2023-07-05T18:13:48Z,1,2,1,1,1,1,2,9200013.0
+1120,remove regionName Keyword,0,True,True,2023-07-05T18:09:37Z,2023-07-05T18:09:37Z,1,2,1,1,5,5,10,6691096.0
+824,Git improvement,65,True,False,,2023-07-03T10:42:31Z,1,3,3,2,20,8,28,0
+823,update hindi translation,160,True,False,,2023-07-03T10:42:30Z,1,4,2,1,7,7,14,0
+1113,Translate the README.md into German,53,True,False,,2023-06-22T08:42:41Z,0,1,2,1,112,0,112,0
+1141,Update style.css,97,True,False,,2023-06-21T15:14:15Z,0,1,2,1,75,67,142,0
+1136,test-commit,0,True,False,,2023-06-05T21:51:42Z,0,1,0,1,0,1,1,0
+1135,Removed z from ## Pre-Lecture Quiz,13,True,False,,2023-06-05T09:06:05Z,0,1,0,1,1,1,2,0
+729,Create README.tr.md,119,True,False,,2023-02-02T20:31:12Z,1,2,2,1,30,0,30,0
+717,[RU] added russian version data-types in js-basics,68,True,False,,2022-10-12T08:46:14Z,0,2,1,1,206,0,206,0
+1105,updates,0,True,True,2023-03-24T15:01:56Z,2023-03-24T15:01:56Z,1,3,1,1,1,1,2,413223.0
+819,Modified README.md and CODE_OF_CONDUCT.md,0,True,False,,2023-03-24T18:02:41Z,2,2,5,2,2,2,4,0
+909,"I have added important HTML,CSS code for beginners to building websites",0,True,False,,2023-03-24T19:49:31Z,13,4,3,9,483,0,483,0
+946,Updated the correct URLs,117,True,True,2023-03-24T19:47:58Z,2023-03-24T19:47:58Z,2,3,2,1,5,5,10,12872941.0
+949,turkish translation of main README.md,105,True,True,2023-03-24T19:45:44Z,2023-03-24T19:45:44Z,1,2,3,1,113,0,113,12840954.0
+942,Online Doctor Appointment System,153,True,False,,2023-03-24T19:43:43Z,0,2,3,69,2347,112,2459,0
+923,Phonebook web app,48,True,False,,2023-03-24T19:42:10Z,0,2,2,29,655,0,655,0
+921,Portfolio Template,0,True,False,,2023-03-24T19:41:10Z,0,2,2,1,595,0,595,0
+896,BMI Calculator beginner,66,True,False,,2023-03-24T19:39:05Z,0,4,8,1,52,0,52,0
+884,Rock Paper Scissor Game Added,68,True,False,,2023-03-24T19:38:17Z,0,2,5,3,196,0,196,0
+763,✨ feat(Complete JavaScript): All JS concepts,819,True,False,,2023-03-24T19:36:38Z,0,2,6,61,4547,0,4547,0
+767,🚀 feat(Js Polyfills): Added some JS polyfills,57,True,False,,2023-03-24T19:34:18Z,0,2,7,5,179,0,179,0
+871,Form validation in react,0,True,False,,2023-03-24T19:31:49Z,0,3,3,18,29349,0,29349,0
+843,update readme on js-basics,0,True,False,,2023-03-24T19:29:14Z,0,2,2,1,1,1,2,0
+830,Scissors Paper Rock new project,28,True,False,,2023-03-24T19:25:14Z,0,2,3,15,290,0,290,0
+820,L3xi42 patch 2,33,True,False,,2023-03-24T18:56:10Z,2,3,3,1,19,18,37,0
+803,Create Rajshekar723.md,21,True,False,,2023-03-24T18:00:37Z,0,2,3,1,13,0,13,0
+782,Adding Git Log Command,0,True,False,,2023-03-24T16:25:15Z,0,2,4,1,8,0,8,0
+1106,fixed the broken link issue ,300,True,False,,2023-03-24T15:05:40Z,0,2,1,1,1,1,2,0
+1091,fix some link errors in README.zh-cn.md,176,True,True,2023-03-24T14:54:14Z,2023-03-24T14:54:14Z,1,2,1,1,9,9,18,2414529.0
+1036,Update CONTRIBUTING.md with better grammar,0,True,False,,2023-03-24T14:49:07Z,0,3,5,1,3,3,6,0
+1067,Replace with a clearer browser.jpg,201,True,True,2023-03-22T00:17:22Z,2023-03-22T00:17:22Z,1,2,0,1,0,0,0,4223161.0
+1013,test change,13,True,False,,2023-03-18T15:00:56Z,0,2,3,1,1,1,2,0
+1100,Update translations_checklist.md,42,True,False,,2023-03-15T09:17:52Z,0,1,0,1,2,0,2,0
+1098,Update translations_checklist.md,42,True,False,,2023-03-15T09:05:59Z,0,1,0,1,2,0,2,0
+1096,Solved making decisions assignment,25,True,False,,2023-03-09T14:16:17Z,0,1,0,1,10,0,10,0
+1092,Fix : Typo in the table (column - learning objectives) (row - 22) [DOCS],154,True,True,2023-03-03T17:37:46Z,2023-03-03T17:37:46Z,1,3,0,1,1,1,2,542535.0
+773,Fix 404 Terrarium links on the lessons plan in french main readme,44,True,False,,2022-12-13T08:39:27Z,0,2,2,1,3,3,6,0
+788,learn,0,True,False,,2022-10-04T14:58:00Z,1,3,0,1,1,0,1,0
+816,typo fix on line-13 of README.hi.md,0,True,False,,2023-02-17T16:18:30Z,0,2,1,1,3,3,6,0
+1081,Update app.js,0,True,False,,2023-02-17T10:36:40Z,0,1,0,1,1,0,1,0
+998,Turkish translations and some edits,39,True,False,,2023-02-09T07:57:14Z,0,2,1,7,782,1,783,0
+957,Update spanish translation 3.terrarium,67,True,True,2023-02-08T16:41:31Z,2023-02-08T16:41:31Z,2,3,1,2,12,4,16,8827429.0
+971,Updated URL (line 20),90,True,True,2023-02-08T00:32:09Z,2023-02-08T00:32:09Z,1,3,0,1,5,5,10,7339704.0
+980,Tabla markup fixed in Spanish translation,0,True,True,2023-02-08T00:28:08Z,2023-02-08T00:28:08Z,1,3,0,1,1,1,2,6655252.0
+979,Table markup fixed plus backtick fix (paragraph 05) in Spanish transl…,6,True,True,2023-02-08T00:27:06Z,2023-02-08T00:27:06Z,1,3,0,1,2,2,4,6745894.0
+978,Markdown markup fixed in line 55 (spanish translation),0,True,True,2023-02-07T20:13:20Z,2023-02-07T20:13:21Z,1,3,0,1,1,1,2,6809862.0
+974,Semantic issue (paragraph 270) in Spanish translation,0,True,True,2023-02-07T20:03:34Z,2023-02-07T20:03:34Z,1,3,1,1,1,1,2,7070320.0
+927,Added README Translation in Thai (th),201,True,True,2023-01-17T15:39:29Z,2023-01-17T15:39:29Z,2,4,4,1,112,0,112,7359847.0
+972,"Typos (lines 14, 30, 34, 116, 161) in spanish translation",0,True,True,2023-01-16T23:07:56Z,2023-01-16T23:07:56Z,2,4,1,1,6,6,12,5429705.0
+1044,PR to fix broken urls of GitHub Training Lab Link on Introduction to GitHub module,101,True,False,,2023-01-11T21:31:53Z,1,3,2,0,0,0,0,0
+768,"bank project solution, describe in more detail how to start it",81,True,True,2023-01-13T16:47:02Z,2023-01-13T16:47:02Z,2,2,1,1,1,1,2,8969999.0
+953,Dice game added,17,True,False,,2023-01-13T00:19:14Z,0,4,8,9,101,0,101,0
+958,Update README.hi.md,98,True,True,2023-01-13T00:17:57Z,2023-01-13T00:17:57Z,1,2,0,1,3,3,6,6448299.0
+960,Update README.hi.md,68,True,True,2023-01-13T00:16:59Z,2023-01-13T00:16:59Z,1,2,0,1,1,1,2,6447870.0
+794,Added a Game,47,True,False,,2023-01-13T00:15:53Z,0,3,1,1,214,0,214,0
+800,4-typing-game Frontend View,80,True,False,,2023-01-13T00:14:46Z,0,2,3,2,139,20,159,0
+831,Add : Weather App,0,True,False,,2023-01-13T00:05:47Z,0,2,4,28,29587,0,29587,0
+847,add: #Hacktoberfest2022 WebApp to organization Dev tasks,94,True,False,,2023-01-13T00:01:39Z,0,2,3,7,214,0,214,0
+798,Google meet clone,66,True,False,,2023-01-12T23:56:57Z,0,2,1,30,19113,0,19113,0
+813,Hacktoberfest 2022,217,True,False,,2023-01-12T23:55:23Z,0,2,3,1,160,0,160,0
+817,Add designing and css styles,74,True,False,,2023-01-12T23:52:18Z,0,4,6,1,69,0,69,0
+772,dsa-Problem-Cash-Register,26,True,False,,2023-01-12T23:49:20Z,0,2,2,1,100,0,100,0
+785,Updated README.hi.md,96,True,True,2023-01-12T23:47:55Z,2023-01-12T23:47:55Z,2,4,4,1,52,31,83,8786664.0
+806,Adding for-teachers.mar.md,0,True,True,2023-01-12T23:45:18Z,2023-01-12T23:45:18Z,1,2,3,2,108,0,108,8496912.0
+834,Adding home work 1,18,True,False,,2023-01-12T23:41:04Z,0,2,2,5,65,4,69,0
+835,Create Icon,21,True,False,,2023-01-12T23:34:50Z,0,2,4,1,46,0,46,0
+822,Update README.hi.md,31,True,True,2023-01-12T23:29:51Z,2023-01-12T23:29:51Z,1,2,0,1,9,9,18,8346987.0
+844,hacktoberfest-2022,90,True,False,,2023-01-12T23:24:54Z,0,2,5,17,194,0,194,0
+825,Added a new project,227,True,False,,2023-01-12T23:21:28Z,0,3,7,4,377,0,377,0
+999,added real slim shady lyrics,23,True,False,,2022-12-08T16:18:02Z,0,2,2,1,1,0,1,0
+1009,Update docsify site,59,True,True,2022-12-10T14:48:33Z,2022-12-10T14:48:33Z,0,1,1,2,210,274,484,168.0
+1017,Updates to links,213,True,True,2022-12-20T22:16:52Z,2022-12-20T22:16:52Z,0,1,1,77,181,184,365,174.0
+863,Added french readme for lesson 8 about code editor,0,True,True,2023-01-12T22:53:23Z,2023-01-12T22:53:23Z,1,2,1,1,161,0,161,8042772.0
+855,Resume.html,138,True,False,,2023-01-11T08:39:24Z,0,2,5,1,395,0,395,0
+852,hacktoberfest,0,True,False,,2023-01-12T08:39:58Z,0,2,2,1,313,0,313,0
+1026,Fix links to topics in the correct language,132,True,True,2023-01-12T20:14:43Z,2023-01-12T20:14:43Z,3,3,0,3,37,18,55,1330900.0
+848,Add PT-BR (Brazilian Portuguese) translation to forms-browsers-local-storage,126,True,False,,2023-01-12T08:39:59Z,0,3,2,3,247,0,247,0
+859,added 3 tools,0,True,False,,2023-01-11T08:39:23Z,1,3,1,5,63,6,69,0
+799,vikas.html,0,True,False,,2023-01-10T22:27:22Z,0,2,3,1,134,0,134,0
+832,added resource & examples to the docs,122,True,True,2023-01-10T16:14:17Z,2023-01-10T16:14:17Z,1,3,4,1,4,3,7,8043713.0
+968,Update README.md,18,True,True,2023-01-10T15:20:32Z,2023-01-10T15:20:32Z,2,2,2,1,6,0,6,5565854.0
+736,Update README.md,72,True,False,,2023-01-09T22:17:11Z,0,2,3,1,5,5,10,0
+867,added sinhala translation,0,True,False,,2023-01-10T08:38:59Z,0,2,4,1,17,0,17,0
+860,Updated Readme.md in GitHub basics,110,True,False,,2023-01-10T08:39:03Z,0,2,1,1,1,1,2,0
+862,order-summary-component for practise,0,True,False,,2023-01-10T08:39:01Z,0,2,1,9,188,0,188,0
+727,Added persian (fa) translation,728,True,True,2023-01-09T22:34:15Z,2023-01-09T22:34:15Z,1,3,4,3,2622,4,2626,11022687.0
+805,Marathi translation (README),0,True,True,2023-01-09T22:55:35Z,2023-01-09T22:55:35Z,1,2,2,1,85,0,85,8236231.0
+774,Create assignment.az.md,0,True,True,2023-01-09T22:49:08Z,2023-01-09T22:49:08Z,1,3,1,1,13,0,13,8605090.0
+777,Translates the files of the folder lesson-template in french,257,True,True,2023-01-09T22:47:41Z,2023-01-09T22:47:41Z,1,3,2,2,60,0,60,8596848.0
+734,add assignment.az.md,48,True,True,2023-01-09T22:35:33Z,2023-01-09T22:35:33Z,1,3,1,1,11,0,11,9772831.0
+1042,Replaced dead links and modified text accordingly,19,True,True,2023-01-09T21:40:00Z,2023-01-09T21:40:00Z,1,2,1,1,4,4,8,265835.0
+891,translation: for-teachers.es.md,35,True,True,2023-01-09T18:16:55Z,2023-01-09T18:16:55Z,2,3,3,1,33,0,33,7428006.0
+966,Added notes under 4-arrays-loops,157,True,False,,2023-01-09T08:39:15Z,0,1,1,1,2,0,2,0
+894,Ading project hijacking google and you tube search,45,True,False,,2023-01-07T20:30:32Z,0,3,2,6,84,112,196,0
+991,Translation proposal in line 10 (spanish chapter),0,True,True,2023-01-06T20:51:35Z,2023-01-06T20:51:35Z,1,3,0,1,1,1,2,3616645.0
+981,Internal URL fixed (paragraph 09) in Spanish translation,0,True,True,2023-01-06T17:19:11Z,2023-01-06T17:19:11Z,1,2,0,1,2,2,4,3862534.0
+990,Translation proposal (line 111),0,True,True,2023-01-05T23:29:03Z,2023-01-05T23:29:03Z,1,3,0,1,2,2,4,3540130.0
+995,Syntax & typo in line 05 in spanish translation,0,True,True,2023-01-05T22:53:26Z,2023-01-05T22:53:26Z,1,3,0,1,2,2,4,3456117.0
+911,Updated Readme.md description,94,True,False,,2023-01-05T08:39:13Z,0,2,2,1,7,7,14,0
+928,Main,0,True,False,,2023-01-04T08:38:51Z,0,3,4,5,165,0,165,0
+933,README and for-teachers: German translation,128,True,False,,2023-01-04T08:38:50Z,0,2,2,2,144,0,144,0
+914,added Gujarati translation,0,True,False,,2023-01-04T08:38:53Z,0,3,5,2,194,0,194,0
+1021,Add XR development in other curricula,0,True,True,2023-01-03T19:12:44Z,2023-01-03T19:12:44Z,1,2,0,1,1,0,1,789145.0
+1033,Update README.md with code formatting,59,True,True,2023-01-03T19:17:43Z,2023-01-03T19:17:43Z,1,2,0,1,1,1,2,437910.0
+1031,Update README.md with better formatting,61,True,True,2023-01-03T19:14:32Z,2023-01-03T19:14:32Z,1,2,0,1,2,2,4,456123.0
+1037,Fix spelling error,0,True,True,2023-01-03T19:12:59Z,2023-01-03T19:12:59Z,1,2,0,1,1,1,2,255221.0
+1035,Update CONTRIBUTING.md with better grammar,47,True,True,2023-01-03T19:12:05Z,2023-01-03T19:12:05Z,1,2,0,1,2,2,4,369035.0
+903,updates readme.md with information of switch case statment in js-basi…,57,True,False,,2023-01-03T08:38:47Z,1,3,5,1,82,27,109,0
+922,Adding website header,0,True,False,,2023-01-02T08:38:56Z,0,2,1,20,671,0,671,0
+926,Turkish translations for Getting Started - Intro to Programming Languages lessons,748,True,False,,2023-01-02T08:38:55Z,0,2,2,5,343,0,343,0
+932,Create README.bn.md,64,True,False,,2023-01-02T08:38:52Z,0,2,2,1,31,0,31,0
+931,Create README.bn.md,47,True,False,,2023-01-02T08:38:53Z,0,2,1,1,13,0,13,0
+934,snehal lohar translation,35,True,False,,2023-01-02T08:38:51Z,0,2,1,1,11,0,11,0
+735,beautified the typing game and updated Readme.MD accordingly,291,True,False,,2023-01-02T06:22:00Z,0,2,4,5,349,134,483,0
+897,New Idea added ,78,True,False,,2023-01-01T08:38:24Z,0,2,3,6,399,0,399,0
+898,"Translated 3-1 , 3-2 ,3-3 to tamil",43,True,False,,2023-01-01T08:38:23Z,0,3,2,6,756,0,756,0
+899,Added Weather API Based simple JS project,118,True,False,,2022-12-31T08:38:21Z,0,2,4,5,467,0,467,0
+904,Akshay's Project updated,0,True,False,,2022-12-31T08:38:17Z,0,3,2,11,204,0,204,0
+902,Updated README.md,41,True,False,,2022-12-31T08:38:20Z,0,2,2,2,18,8,26,0
+905,made readme.md readable .,225,True,False,,2022-12-30T08:38:28Z,4,4,8,3,96,47,143,0
+907,Created a for-teachers.md in Khmer,127,True,False,,2022-12-30T08:38:26Z,0,2,3,1,33,0,33,0
+908,Update README.md,58,True,False,,2022-12-30T08:38:25Z,3,4,1,1,1,1,2,0
+910,Adding UI Design,0,True,False,,2022-12-29T08:38:45Z,8,3,6,4,152,9,161,0
+913,bmi-calcuator with html css and js file,91,True,False,,2022-12-29T08:38:42Z,0,2,4,12,210,0,210,0
+912,"4 typing game,start  button aligned to centre",50,True,False,,2022-12-28T08:38:48Z,0,2,7,2,12,2,14,0
+770,Translation to RUSSIAN 2-js-basics > 1-data-types,0,True,False,,2022-12-23T08:38:44Z,1,3,3,2,216,0,216,0
+887,Added nested ternary expression,341,True,False,,2022-12-22T08:38:46Z,0,1,1,1,12,0,12,0
+731,IT localization + fixed broken links to promo video gif,237,True,True,2022-12-19T20:47:29Z,2022-12-19T20:47:29Z,1,3,3,8,151,6,157,7970287.0
+870,Added PT-BR Translations for 6-space-game,75,True,True,2022-12-20T18:49:24Z,2022-12-20T18:49:24Z,2,4,3,1,31,0,31,5963755.0
+1011,Update README.md,64,True,True,2022-12-20T13:35:06Z,2022-12-20T13:35:06Z,2,2,1,1,2,0,2,844290.0
+1014,added new file,0,True,False,,2022-12-20T00:29:04Z,0,1,0,1,24,0,24,0
+726,Simplified Chinese translation.,86,True,True,2022-12-19T15:38:19Z,2022-12-19T15:38:19Z,3,4,1,2,376,0,376,10189395.0
+776,Create README.az.md,0,True,False,,2022-12-19T08:38:44Z,0,3,3,1,330,0,330,0
+858, Fix link translation (FR) for README ,38,True,True,2022-12-15T18:27:42Z,2022-12-15T18:27:42Z,1,2,5,1,13,13,26,5617470.0
+748,Swedish translation for README & for-teachers,243,True,False,,2022-12-15T08:39:31Z,0,2,3,2,145,0,145,0
+749,Swedish translation for lession 1 README,275,True,False,,2022-12-14T08:39:33Z,0,2,1,1,17,0,17,0
+761,Indonesian Translation: Terrarium & typing-game,45,True,False,,2022-12-13T08:39:29Z,0,2,3,2,61,0,61,0
+750,Swedish translation GitHub basics,124,True,False,,2022-12-13T08:39:34Z,0,2,1,1,330,0,330,0
+751,Swedish translation: intro to programming languages,234,True,False,,2022-12-13T08:39:32Z,0,2,1,2,210,0,210,0
+752,Swedish translation: accessibility,210,True,False,,2022-12-13T08:39:31Z,0,2,1,2,247,0,247,0
+775,Create README.az.md,0,True,False,,2022-12-11T08:39:01Z,0,3,2,1,11,0,11,0
+783,Translation to RUSSIAN 2-js-basics > 2-functions-methods,82,True,False,,2022-12-11T08:38:58Z,1,3,1,2,210,0,210,0
+786,Translation to RUSSIAN 2-js-basics > 3-making-decisions,84,True,False,,2022-12-11T08:38:57Z,1,3,1,2,216,0,216,0
+791,Translation to RUSSIAN 2-js-basics > 4-arrays-loops,80,True,False,,2022-12-11T08:38:56Z,0,2,1,2,174,0,174,0
+792,Translation to RUSSIAN 3-terrarium README.md,61,True,False,,2022-12-11T08:38:55Z,0,2,1,1,31,0,31,0
+1004,build(deps): bump minimatch from 3.0.4 to 3.1.2 in /7-bank-project/api,2300,True,True,2022-12-10T15:23:52Z,2022-12-10T15:23:52Z,0,1,0,1,3,3,6,71731.0
+1005,build(deps): bump express from 4.17.1 to 4.17.3 in /7-bank-project/api,4736,True,False,,2022-12-10T15:23:47Z,0,0,1,2,163,67,230,0
+1002,"Bump qs, body-parser and express in /7-bank-project/api",10787,True,True,2022-12-10T15:23:02Z,2022-12-10T15:23:02Z,0,1,0,2,196,146,342,207752.0
+941,build(deps): bump ansi-regex from 4.1.0 to 4.1.1,2011,True,False,,2022-12-10T14:49:22Z,0,0,1,1,10,10,20,0
+1003,build(deps): bump minimatch from 3.0.4 to 3.1.2,2300,True,True,2022-12-10T14:33:16Z,2022-12-10T14:33:16Z,0,1,0,1,6,6,12,68696.0
+1008,Update quiz app dependencies,60,True,True,2022-12-10T14:29:09Z,2022-12-10T14:29:09Z,0,1,1,6,2841,2864,5705,157.0
+742,Updated Git Bash and Terminal commands,343,True,False,,2022-12-10T08:38:55Z,0,1,1,1,3,0,3,0
+746,Updated README.md,0,True,False,,2022-12-10T08:38:54Z,0,1,1,1,2,2,4,0
+703,Added hindi version to the readme.md file.,87,True,False,,2022-12-09T17:31:38Z,0,4,4,1,45,0,45,0
+1007,build(deps): bump loader-utils from 1.4.0 to 1.4.2 in /quiz-app,2473,True,True,2022-12-09T19:30:32Z,2022-12-09T19:30:32Z,0,1,0,1,18,18,36,103.0
+1006,build(deps): bump minimatch from 3.0.4 to 3.1.2 in /quiz-app,2300,True,True,2022-12-09T19:29:53Z,2022-12-09T19:29:53Z,0,1,0,1,6,6,12,90.0
+963,Contribution,0,True,False,,2022-12-09T19:28:46Z,1,33,1,43,8215,15740,23955,0
+982,"Bump loader-utils, @vue/cli-plugin-babel, @vue/cli-plugin-eslint and @vue/cli-service in /quiz-app",13997,True,False,,2022-12-09T19:28:46Z,0,0,1,2,6942,14499,21441,0
+938,"build(deps): bump ejs, @vue/cli-plugin-babel, @vue/cli-plugin-eslint and @vue/cli-service in /quiz-app",12161,True,False,,2022-12-09T19:28:43Z,0,0,1,2,7984,15549,23533,0
+1000,Bump decode-uri-component from 0.2.0 to 0.2.2 in /quiz-app,2610,True,False,,2022-12-09T19:28:35Z,0,0,1,1,6,6,12,0
+937,"build(deps): bump node-forge, @vue/cli-plugin-babel, @vue/cli-plugin-eslint and @vue/cli-service in /quiz-app",14714,True,True,2022-12-09T19:27:46Z,2022-12-09T19:27:46Z,0,1,0,2,7984,15549,23533,3816831.0
+875,features improved by CSS,32,True,False,,2022-12-09T19:23:18Z,0,2,1,2,50,1,51,0
+876,Create README.hin.md,42,True,False,,2022-12-09T19:19:16Z,0,2,1,1,13,0,13,0
+890,Fixes some links from PT Translations,73,True,True,2022-12-09T18:55:55Z,2022-12-09T18:55:55Z,2,3,1,6,39,39,78,4778227.0
+889,Update README.hi.md,31,True,True,2022-12-09T18:59:21Z,2022-12-09T18:59:21Z,1,2,0,1,12,12,24,4797426.0
+883,added malayalam translation for assignment in first lesson,96,True,True,2022-12-09T19:12:23Z,2022-12-09T19:12:23Z,1,2,0,1,11,0,11,4851445.0
+886,chore: Correction of some words,0,True,True,2022-12-09T19:14:34Z,2022-12-09T19:14:34Z,1,2,0,1,7,7,14,4823500.0
+881,loop problem solved,0,True,False,,2022-12-09T19:10:19Z,0,2,1,1,7,0,7,0
+880,Create pygame.py,0,True,False,,2022-12-09T19:07:27Z,0,2,1,1,16,0,16,0
+888,hacktoberfest,0,True,False,,2022-12-09T19:03:09Z,1,3,1,1,54,0,54,0
+892,made it visually attractive,0,True,False,,2022-12-09T18:54:06Z,0,2,1,1,22,23,45,0
+959,README.md,81,True,True,2022-12-09T18:44:26Z,2022-12-09T18:44:26Z,1,2,2,1,17,0,17,3490539.0
+895,To-do-list,22,True,False,,2022-12-09T17:55:53Z,0,3,2,2,190,18,208,0
+893,Update index.html,0,True,False,,2022-12-09T17:53:15Z,0,2,1,1,1,1,2,0
+918,Update styles.css,0,True,True,2022-12-09T17:35:45Z,2022-12-09T17:35:46Z,1,2,0,1,3,3,6,4186526.0
+947,"Fixed URLs for HTML, CSS, JS",57,True,True,2022-12-09T15:45:01Z,2022-12-09T15:45:01Z,3,2,1,1,3,3,6,3784849.0
+757,hover effect added to the input fields,200,True,False,,2022-12-09T08:39:26Z,0,1,1,1,5,0,5,0
+917,added css changed old colour theme added images,117,True,False,,2022-12-08T18:21:36Z,3,2,2,3,13,0,13,0
+919,new ,0,True,False,,2022-12-08T18:17:15Z,0,2,1,1,3,1,4,0
+924,"updated the first sentence of the readmefile (added the words ""which is"" to make it sound correctly)",0,True,True,2022-12-08T18:14:48Z,2022-12-08T18:14:48Z,1,2,0,1,1,1,2,3980916.0
+925,My first brunch,0,True,False,,2022-12-08T18:13:05Z,0,2,1,2,5,2,7,0
+944,fixed markdown,55,True,True,2022-12-08T18:08:24Z,2022-12-08T18:08:24Z,1,2,1,1,4,4,8,3710202.0
+948,Fixed URLs acc. to language,61,True,True,2022-12-08T18:05:30Z,2022-12-08T18:05:30Z,1,2,1,1,3,3,6,3706503.0
+961,"Corrected grammatically incorrect sentences, punctuations and typos for better readability. (In README.md)",187,True,True,2022-12-08T18:01:19Z,2022-12-08T18:01:19Z,1,2,1,1,11,11,22,3386042.0
+954,Add files via upload,73,True,False,,2022-12-08T18:00:02Z,0,2,2,9,131,17,148,0
+956,Corrected some grammatical errors,49,True,True,2022-12-08T17:58:18Z,2022-12-08T17:58:18Z,1,2,2,5,14,14,28,3482008.0
+965,modelist123 recent commit,38,True,False,,2022-12-08T17:49:59Z,0,2,1,1,11,0,11,0
+989,Semantic issue (paragraph 10),0,True,False,,2022-12-08T16:23:27Z,0,2,1,1,1,1,2,0
+873,Update assignment.md,0,True,False,,2022-12-08T16:20:38Z,0,2,1,1,2,2,4,0
+997,"Update README.md links at lines - 115, 116, 117",263,True,True,2022-12-08T16:18:17Z,2022-12-08T16:18:17Z,1,2,0,1,3,3,6,895010.0
+874,Fix Typos in README.md file of section 8.1,51,True,True,2022-12-08T16:12:15Z,2022-12-08T16:12:15Z,2,3,2,1,2,2,4,4846339.0
+996,JS Updates,21,True,False,,2022-12-05T02:49:09Z,0,3,3,5,300,132,432,0
+964,Update README.md,77,True,False,,2022-12-04T02:48:33Z,0,1,0,1,15,4,19,0
+936,Added new comparision operator,0,True,False,,2022-12-03T16:03:00Z,0,2,2,1,1,0,1,0
+969,"Bump loader-utils, @vue/cli-plugin-babel, @vue/cli-plugin-eslint and @vue/cli-service in /quiz-app",14055,True,False,,2022-11-23T02:20:44Z,0,0,1,2,7408,14965,22373,0
+976,Add clarity to docsify page,61,True,True,2022-11-21T14:35:23Z,2022-11-21T14:35:23Z,0,1,1,1,7,1,8,252237.0
+872,[TRANSLATION] added a Spanish translation for 8.1 section,0,True,False,,2022-11-18T17:29:38Z,1,2,1,1,161,0,161,0
+955,Added Hangman Game written in Vanilla JS,38,True,False,,2022-11-17T16:01:07Z,0,1,3,4,266,0,266,0
+970,Frquency Generator for #Hacktoberfest 😌,58,True,False,,2022-11-15T11:46:22Z,0,1,0,3,187,115,302,0
+766,ci(workflow): update actions/stale to v6,0,True,True,2022-10-26T15:19:20Z,2022-10-26T15:19:20Z,2,3,0,1,1,1,2,2154686.0
+765,ci(workflow): update actions/checkout to v3,0,True,True,2022-10-26T15:12:19Z,2022-10-26T15:12:19Z,2,3,0,1,1,1,2,2154397.0
+951,New project digital & analog clock,0,True,False,,2022-11-06T13:04:14Z,0,1,0,4,255,0,255,0
+707,Update README.md,66,True,False,,2022-11-06T09:40:44Z,2,4,5,1,3,0,3,0
+755,Chore improvements,41,True,False,,2022-11-01T09:05:34Z,1,2,8,2,5,1,6,0
+850,"Semantic & syntax issues (paragraph 20, 98 [...])",0,True,True,2022-10-31T23:07:58Z,2022-10-31T23:07:58Z,1,3,1,1,9,9,18,1814307.0
+935,Grammar fixes README.MD,0,True,True,2022-10-31T23:07:14Z,2022-10-31T23:07:14Z,1,2,1,1,1,1,2,479248.0
+962,Developing a airline website,183,True,False,,2022-10-31T19:41:54Z,0,19,3,19,86,80,166,0
+829,Improve spanish translation ,84,True,True,2022-10-31T17:23:18Z,2022-10-31T17:23:18Z,2,3,3,1,18,19,37,1922025.0
+920,corrected grammatical mistakes in 2-github-basics,82,True,False,,2022-10-31T17:04:44Z,0,1,0,1,4,4,8,0
+939,Chore Improvements,0,True,True,2022-10-28T19:55:39Z,2022-10-28T19:55:39Z,1,2,2,2,5,1,6,188659.0
+915,un-translate code,84,True,True,2022-10-28T19:48:57Z,2022-10-28T19:48:57Z,1,2,3,2,10,10,20,735446.0
+864,added spanish translations for 2-functions-methods readme,64,True,True,2022-10-28T19:43:51Z,2022-10-28T19:43:51Z,1,3,1,1,6,6,12,1442949.0
+849,Translation issue (paragraph 09),0,True,True,2022-10-28T19:41:49Z,2022-10-28T19:41:50Z,1,3,1,1,1,1,2,1546034.0
+804,Update and fix Error typos,65,True,True,2022-10-28T19:37:07Z,2022-10-28T19:37:07Z,1,2,0,1,6,6,12,1945378.0
+930,Corrected grammar in explanation,393,True,True,2022-10-28T18:22:02Z,2022-10-28T18:22:02Z,1,2,0,1,6,6,12,294402.0
+929,My linktree ~Kaif Raza,0,True,False,,2022-10-28T16:50:47Z,0,2,1,6,128,22,150,0
+866,Modified README.hi.md,60,True,True,2022-10-28T16:38:21Z,2022-10-28T16:38:21Z,1,3,2,1,1,1,2,1393136.0
+869,HACKTOBERFEST,56,True,True,2022-10-28T15:00:03Z,2022-10-28T15:00:03Z,2,3,0,1,2,2,4,1372389.0
+738,update README.md,10,True,False,,2022-10-28T13:42:24Z,0,2,1,1,2,2,4,0
+837,Corrected some grammatical errors,0,True,True,2022-10-28T13:07:04Z,2022-10-28T13:07:04Z,2,2,1,1,3,4,7,1612674.0
+841,Changed an image for better UX,237,True,False,,2022-10-27T02:34:27Z,0,2,2,1,1,1,2,0
+940,Online Student Election System,324,True,False,,2022-10-26T15:45:32Z,0,1,1,51,2006,112,2118,0
+853,Create designpage.html,0,True,False,,2022-10-27T02:57:44Z,0,2,1,1,313,0,313,0
+857,Update README.md,80,True,True,2022-10-27T02:54:30Z,2022-10-27T02:54:31Z,1,2,0,1,3,3,6,1331812.0
+854,Update README.md,39,True,False,,2022-10-27T02:54:23Z,0,2,1,1,2,2,4,0
+856,Update README.md,100,True,True,2022-10-27T02:42:59Z,2022-10-27T02:42:59Z,1,2,0,1,7,7,14,1332645.0
+839,This is the pull request for Hacktoberfest 2022,27,True,False,,2022-10-27T02:19:23Z,0,2,1,1,2,0,2,0
+756,Updated Readme,29,True,False,,2022-10-27T01:09:28Z,0,2,1,1,1,1,2,0
+815,added links to the topic files in readme file ,42,True,False,,2022-10-27T01:01:46Z,0,2,1,1,7,7,14,0
+747,Update README.md,38,True,True,2022-10-27T00:47:48Z,2022-10-27T00:47:48Z,1,2,0,1,4,0,4,2261203.0
+821,Fix Typos and Grammar in Browser Extension Project Part 2,680,True,True,2022-10-26T20:57:44Z,2022-10-26T20:57:44Z,1,2,1,1,8,8,16,1601486.0
+833,Update assignment.md,0,True,True,2022-10-26T20:50:04Z,2022-10-26T20:50:04Z,1,2,0,1,2,2,4,1488090.0
+814,fix a broken link,62,True,True,2022-10-26T20:31:36Z,2022-10-26T20:31:36Z,1,3,1,1,2,2,4,1667662.0
+808,fixed typo in about-browsers chapter,104,True,True,2022-10-26T16:42:34Z,2022-10-26T16:42:34Z,1,3,0,1,1,1,2,1718164.0
+807,added null as primitive type,236,True,True,2022-10-26T16:40:31Z,2022-10-26T16:40:31Z,1,3,0,1,1,1,2,1723999.0
+812,Fixed dead assignment and quiz link,55,True,False,,2022-10-26T19:35:39Z,2,2,1,1,2,2,4,0
+802,Create Rajshekar723.md,22,True,False,,2022-10-26T16:35:43Z,0,2,1,1,14,0,14,0
+781,Upgrade actions/stale to version 6,0,True,False,,2022-10-26T15:35:19Z,0,2,1,1,1,1,2,0
+764,Update index.html,0,True,False,,2022-10-26T15:02:45Z,1,4,2,1,2,0,2,0
+784,Added Repo Size,0,True,False,,2022-10-26T14:53:06Z,1,3,1,1,2,0,2,0
+762,Added a Full stop on the line 103.,0,True,True,2022-10-26T14:46:37Z,2022-10-26T14:46:37Z,1,2,0,1,1,1,2,2155883.0
+753,Fixed minor typos,0,True,True,2022-10-26T14:37:49Z,2022-10-26T14:37:49Z,3,4,0,1,2,2,4,2198839.0
+754,learning,54,True,False,,2022-10-26T14:37:18Z,0,4,3,1,12,0,12,0
+916,Add and update tracking info to first-party URLs,158,True,True,2022-10-26T14:23:47Z,2022-10-26T14:23:47Z,1,2,1,110,254,254,508,509778.0
+811,beginner Friendly web-pages to learn html css basic,136,True,False,,2022-10-22T18:38:37Z,0,0,2,24,773,0,773,0
+771,added git and github basics for web dev beginner👶,156,True,False,,2022-10-05T17:34:32Z,1,3,8,1,129,0,129,0
+177,Italian Translation - Ch. 5,768,True,True,2021-01-31T17:38:37Z,2021-01-31T17:38:38Z,1,3,5,15,699,30,729,634893.0
+779,Add README translation (ES) for getting-started-lessons,138,True,True,2022-10-04T21:06:28Z,2022-10-04T21:06:28Z,29,4,8,2,17,4,21,197325.0
+661,fix transition zh-cn of 2-2,0,True,True,2022-05-08T13:39:59Z,2022-05-08T13:39:59Z,2,3,0,1,1,1,2,20477.0
+681,Improved readability,123,True,True,2022-05-21T01:22:41Z,2022-05-21T01:22:42Z,4,3,8,1,20,20,40,9885.0
+686,build(deps): bump eventsource from 1.0.7 to 1.1.1 in /quiz-app,2986,True,True,2022-06-06T14:41:12Z,2022-06-06T14:41:12Z,4,2,0,1,3,3,6,409464.0
+694,Fixed typo addEventListener,0,True,True,2022-06-23T20:59:42Z,2022-06-23T20:59:42Z,9,3,0,1,1,1,2,128976.0
+745,Vscode dev - Added using a code editor lesson 8,0,True,True,2022-09-30T13:55:53Z,2022-09-30T13:55:53Z,17,3,8,21,413,0,413,5185.0
+699,fix incorrect answer in quiz,232,True,True,2022-08-22T06:58:51Z,2022-08-22T06:58:51Z,7,4,18,14,15,15,30,4453916.0
+693,Update README.md,33,True,True,2022-06-19T14:43:00Z,2022-06-19T14:43:00Z,1,3,0,1,1,1,2,82782.0
+885,adding some basics of block chain,106,True,False,,2022-10-18T13:51:47Z,0,1,2,21,590,0,590,0
+900,Reader_day_night_mode,0,True,False,,2022-10-17T19:33:53Z,0,1,0,3,8261,0,8261,0
+877,Add some road maps for begginers ,28,True,False,,2022-10-16T15:39:18Z,0,1,2,5,0,0,0,0
+882,Create index23.html,0,True,False,,2022-10-14T12:34:58Z,0,1,0,1,15,0,15,0
+840,"Added a Rock,paper and Scissor game a Simple web development project",0,True,False,,2022-10-14T06:27:05Z,0,2,6,4,170,0,170,0
+879,Create Snake.py,0,True,False,,2022-10-13T23:26:34Z,0,1,0,1,62,0,62,0
+865,Add my first file,50,True,False,,2022-10-12T13:22:43Z,0,1,2,2,2,0,2,0
+842,Create PROFILE.md,58,True,False,,2022-10-12T13:01:45Z,0,1,1,1,1,0,1,0
+718,[RU] initial russian version quizzes,126,True,False,,2022-10-12T08:46:11Z,0,2,1,5,2719,2,2721,0
+861,order-summary-component for practice,0,True,False,,2022-10-11T20:00:49Z,0,1,2,9,188,0,188,0
+845,Add README translation (pt_BR) for getting-started-lessons,61,True,False,,2022-10-10T18:49:24Z,0,1,2,1,17,0,17,0
+827,HacktoberFest2022,502,True,False,,2022-10-10T08:08:19Z,0,1,0,1,1,1,2,0
+838,Create assignment.th.md,34,True,False,,2022-10-10T07:10:44Z,0,1,0,1,11,0,11,0
+828,scissors paper rock game new project,0,True,False,,2022-10-09T11:50:24Z,0,1,4,15,290,0,290,0
+809,Update README.md,41,True,False,,2022-10-06T23:13:45Z,0,1,0,1,1,1,2,0
+810,add profile.md,0,True,False,,2022-10-06T22:10:18Z,0,1,0,1,1,0,1,0
+793,changed the Look,142,True,False,,2022-10-05T17:52:58Z,0,1,1,2,310,8,318,0
+789,Editing the git switch quiz answers and Readme.,707,True,False,,2022-10-05T16:05:38Z,0,2,2,2,3,2,5,0
+778,nice workProject example,4,True,False,,2022-10-05T08:28:12Z,1,3,0,6,31,14,45,0
+780,Add files via upload,343,True,False,,2022-10-04T16:55:54Z,0,2,0,28,2632,0,2632,0
+790,Frameworks,90,True,False,,2022-10-04T11:42:44Z,0,3,0,8,270,19,289,0
+744,Test,18,True,False,,2022-09-30T13:56:47Z,0,2,0,1,4,4,8,0
+588,Translated base README.md to Russian,317,True,True,2022-02-07T02:22:32Z,2022-02-07T02:22:32Z,1,2,2,1,103,0,103,237647.0
+739,initial draft on extensions,0,True,False,,2022-09-26T09:03:11Z,0,2,1,7,34,3,37,0
+702,Add dependabot,31,True,False,,2022-07-11T06:36:52Z,1,1,0,1,8,0,8,0
+730,Created README.it.md and for-teachers.it.md,75,True,False,,2022-09-18T14:50:07Z,0,1,1,2,145,0,145,0
+725,Create README.zh-cn.md,42,True,False,,2022-08-23T17:07:57Z,0,1,0,1,112,0,112,0
+723,fix: Broken Badge (Open in Visual Studio Code) & Add: more ml translations,0,True,True,2022-08-22T06:57:34Z,2022-08-22T06:57:34Z,0,2,5,12,15,7,22,567377.0
+692,Added Portuguese Translation.,60,True,False,,2022-08-22T20:00:48Z,1,3,2,1,30,0,30,0
+724,Correct and modify some links / text,115,True,True,2022-08-19T14:45:34Z,2022-08-19T14:45:35Z,3,2,0,1,11,2,13,34266.0
+719,answers,28,True,False,,2022-08-19T08:36:46Z,0,2,2,4,11,11,22,0
+712,Update CONTRIBUTING.md for PR clarity,206,True,True,2022-08-19T08:31:19Z,2022-08-19T08:31:19Z,1,4,5,1,1,1,2,1971126.0
+690,Added Nepali Translation,0,True,True,2022-08-19T08:20:46Z,2022-08-19T08:20:46Z,2,3,2,2,114,0,114,5590114.0
+722,Fix: Broken Badge(Open in Visual Studio Code) & Add: more ml translations,0,True,False,,2022-08-15T17:19:56Z,0,1,1,12,14,7,21,0
+721,fix: Broken Badge (Open in Visual Studio Code),56,True,False,,2022-08-15T17:16:11Z,0,1,1,1,2,1,3,0
+695,build(deps): bump shell-quote from 1.7.2 to 1.7.3 in /quiz-app,2338,True,True,2022-08-04T18:56:25Z,2022-08-04T18:56:25Z,0,2,1,1,3,3,6,3662432.0
+709,build(deps): bump terser from 4.8.0 to 4.8.1 in /quiz-app,2093,True,True,2022-08-04T18:55:29Z,2022-08-04T18:55:29Z,1,1,0,1,6,6,12,1236879.0
+714,Fix broken image and some typos,158,True,True,2022-08-04T11:46:59Z,2022-08-04T11:46:59Z,0,2,1,2,3,3,6,235203.0
+720,Added a website template,141,True,False,,2022-08-04T11:45:45Z,0,2,1,1,0,0,0,0
+697,Add files via upload,0,True,False,,2022-08-04T11:44:32Z,0,2,2,1,4,21,25,0
+711,Add a missing comma after however,94,True,True,2022-08-02T18:25:31Z,2022-08-02T18:25:31Z,0,2,0,1,1,1,2,578729.0
+700,Update index.html,0,True,True,2022-08-02T18:23:59Z,2022-08-02T18:23:59Z,0,2,0,1,1,1,2,2720063.0
+716,fix: added links to russian lessons,92,True,True,2022-08-02T18:23:37Z,2022-08-02T18:23:37Z,0,3,0,1,2,2,4,79626.0
+715,fix: added links to russian versions of lessons,78,True,False,,2022-08-01T19:55:47Z,0,1,1,1,205,0,205,0
+713,test change,0,True,False,,2022-07-29T08:45:44Z,2,1,0,1,1,1,2,0
+708,added link to new quiz app,0,True,True,2022-07-18T10:38:04Z,2022-07-18T10:38:04Z,0,1,0,270,522,653,1175,14.0
+705,Updated quiz-links in the translated files ,0,True,True,2022-07-15T12:11:13Z,2022-07-15T12:11:13Z,0,2,0,12,53,53,106,11192.0
+706,new web app,0,True,True,2022-07-15T14:45:25Z,2022-07-15T14:45:25Z,0,1,0,270,16847,1608,18455,77.0
+704,Fixed links to the lesson quizzes ,0,True,True,2022-07-14T18:39:34Z,2022-07-14T18:39:35Z,0,2,0,256,554,509,1063,3589.0
+701,Update assignment.md,23,True,False,,2022-07-05T22:47:34Z,0,1,1,1,26,1,27,0
+689,Library Management (Basic JS and LocalStorage),409,True,False,,2022-06-27T18:03:19Z,0,3,6,5,612,0,612,0
+696,Thai translation,0,True,False,,2022-06-25T08:09:49Z,0,1,1,1,108,0,108,0
+688,Update link to english lesson instead of Italian lesson,110,True,True,2022-06-12T14:56:55Z,2022-06-12T14:56:55Z,0,2,0,1,1,1,2,12423.0
+651,Translate/danhpaiva,47,True,True,2022-05-06T02:07:18Z,2022-05-06T02:07:18Z,5,2,1,2,13,13,26,5027.0
+649,build(deps): bump async from 2.6.3 to 2.6.4 in /quiz-app,2311,True,True,2022-05-01T00:05:51Z,2022-05-01T00:05:51Z,0,1,1,1,3,3,6,117540.0
+586,Add readme.es in 1-getting started-lessons/traslations,0,True,False,,2022-05-01T00:02:57Z,2,2,2,1,17,0,17,0
+647,Sue nimoh,23,True,False,,2022-05-01T00:02:22Z,0,2,2,3,61,26,87,0
+650,8. Ultimate Car Game,146,True,False,,2022-05-01T00:01:55Z,0,2,2,6,340,0,340,0
+646,Create main.yml,0,True,False,,2022-04-07T17:32:00Z,0,2,2,1,36,0,36,0
+645,Completed terrarium and typing-game,0,True,False,,2022-04-07T13:33:10Z,0,3,2,20,344,0,344,0
+368,Translates all base README of lessons to 'el',4,True,False,,2022-03-29T00:25:26Z,0,2,3,9,231,0,231,0
+579,Create README.ur.md,311,True,False,,2022-03-29T00:25:05Z,1,2,1,1,103,0,103,0
+583,Translate to Vietnamese,0,True,False,,2022-03-29T00:24:50Z,1,2,1,7,17298,18,17316,0
+640,build(deps): bump minimist from 1.2.5 to 1.2.6,2125,True,True,2022-03-29T00:21:18Z,2022-03-29T00:21:18Z,0,1,0,1,6,6,12,40663.0
+641,build(deps): bump ansi-regex from 4.1.0 to 4.1.1 in /7-bank-project/api,2011,True,True,2022-03-28T13:04:38Z,2022-03-28T13:04:38Z,0,1,0,1,6,6,12,55.0
+642,build(deps): bump minimist from 1.2.5 to 1.2.6 in /quiz-app,2125,True,True,2022-03-28T13:04:15Z,2022-03-28T13:04:15Z,0,1,0,1,3,3,6,16.0
+639,build(deps): bump minimist from 1.2.5 to 1.2.6 in /7-bank-project/api,2125,True,True,2022-03-28T13:03:09Z,2022-03-28T13:03:09Z,0,1,0,1,3,3,6,1383.0
+635,fixed the demo.gif in typing game,27,True,True,2022-03-13T06:12:19Z,2022-03-13T06:12:19Z,1,2,0,1,1,1,2,3327.0
+631,"Translated 1-1 , 1-2  to tamil",33,True,True,2022-03-13T17:38:27Z,2022-03-13T17:38:27Z,9,2,1,3,535,0,535,311441.0
+629,Add Portuguese Brazilian translation for 4-typing-game,60,True,True,2022-03-13T17:39:18Z,2022-03-13T17:39:18Z,1,2,1,1,30,0,30,344585.0
+627,Updated Quiz app UI,60,True,False,,2022-03-09T13:49:41Z,0,2,1,1,50,12,62,0
+623,Translated all lessons to tamil language and added ta.json as a tamil translation for quizapp ,40,True,True,2022-03-09T19:34:43Z,2022-03-09T19:34:43Z,6,2,6,9,2687,1,2688,138993.0
+628,Translated README.md and for-teachers.md to ta[Tamil],0,True,True,2022-03-09T19:36:40Z,2022-03-09T19:36:40Z,1,2,0,2,137,0,137,13090.0
+630,git checkout to git switch,129,True,True,2022-03-10T01:45:05Z,2022-03-10T01:45:05Z,0,2,2,28,84,84,168,19468.0
+624,Added tam.json file for quiz app,65,True,False,,2022-03-08T07:31:27Z,0,1,0,9,2670,2,2672,0
+621,translate lesson 1 to tamil,51,True,False,,2022-03-08T07:31:18Z,0,1,1,1,18,0,18,0
+622,Translated lesson 2 to tamil language,42,True,False,,2022-03-08T04:56:57Z,0,1,0,1,14,0,14,0
+620,fix: video gif path in hindi,34,True,True,2022-03-07T16:44:57Z,2022-03-07T16:44:57Z,1,2,0,1,2,2,4,135.0
+613,build(deps): bump prismjs from 1.25.0 to 1.27.0,3881,True,True,2022-03-01T01:25:55Z,2022-03-01T01:25:55Z,0,2,1,1,10,7,17,256377.0
+615,build(deps): bump url-parse from 1.5.7 to 1.5.10 in /quiz-app,2389,True,True,2022-03-01T01:25:46Z,2022-03-01T01:25:46Z,0,1,0,1,3,3,6,74091.0
+612,Fix quiz's correct option and non-rendering of bullet points under for loop,10,True,True,2022-02-27T00:04:00Z,2022-02-27T00:04:00Z,2,3,1,2,5,5,10,229101.0
+614,fixed an image link in 3-terrarium,0,True,True,2022-02-26T23:59:43Z,2022-02-26T23:59:43Z,1,2,0,1,1,1,2,4590.0
+611,[pt-BR] Fix a small translation typo,83,True,True,2022-02-23T18:35:52Z,2022-02-23T18:35:52Z,1,2,0,1,2,2,4,603.0
+610,[pt-BR] Fix a small translation typo,22,True,True,2022-02-23T16:43:30Z,2022-02-23T16:43:30Z,1,2,0,1,2,2,4,54947.0
+608,build(deps): bump url-parse from 1.5.3 to 1.5.7 in /quiz-app,2383,True,True,2022-02-23T16:44:42Z,2022-02-23T16:44:42Z,1,2,1,1,3,3,6,380514.0
+609,Fixing punctuation marks,0,True,True,2022-02-23T16:44:20Z,2022-02-23T16:44:20Z,1,2,0,1,3,3,6,229146.0
+605,build(deps): bump node-fetch from 2.6.1 to 2.6.7,3193,True,True,2022-02-16T21:22:13Z,2022-02-16T21:22:13Z,0,2,1,1,65,7,72,193689.0
+603,build(deps): bump follow-redirects from 1.14.7 to 1.14.8 in /quiz-app,2071,True,True,2022-02-14T15:33:34Z,2022-02-14T15:33:34Z,0,1,0,1,3,3,6,59748.0
+602,Suggest french translation refactor for Base readme ,57,True,True,2022-02-14T15:19:28Z,2022-02-14T15:19:28Z,5,2,1,1,61,72,133,83906.0
+601,[fr] french translation for 7-4-readme.md file,67,True,True,2022-02-13T17:05:24Z,2022-02-13T17:05:24Z,1,2,0,1,281,0,281,71350.0
+600,[fr] french translation for 7-3-readme.md file,65,True,True,2022-02-13T17:05:03Z,2022-02-13T17:05:03Z,1,2,0,1,334,0,334,156437.0
+599,fix a link by deleting space,28,True,True,2022-02-13T17:04:10Z,2022-02-13T17:04:10Z,1,2,0,1,1,1,2,156732.0
+592,"Fixed typos, various text improvements",372,True,True,2022-02-08T12:59:45Z,2022-02-08T12:59:45Z,3,3,4,1,32,32,64,80967.0
+562,Add lesson-template/translations/README.es.md,25,True,True,2022-01-02T04:08:09Z,2022-01-02T04:08:09Z,1,2,0,1,50,0,50,388044.0
+595,"Revision of the question in quiz (id: 4, quest: 2)",68,True,True,2022-02-10T17:16:20Z,2022-02-10T17:16:20Z,1,2,0,1,1,1,2,130017.0
+597,RU: Translated 2-js-basics base README,206,True,True,2022-02-10T17:15:51Z,2022-02-10T17:15:51Z,1,2,0,1,14,0,14,44310.0
+594,"Link fix, revision of the translation.",240,True,True,2022-02-08T12:58:23Z,2022-02-08T12:58:23Z,1,2,0,2,8,8,16,19934.0
+591,Setup Ready,0,True,False,,2022-02-07T12:25:32Z,0,2,0,1,5,0,5,0
+590,[fr] french translation for 6-4-readme.md file,65,True,True,2022-02-07T02:21:06Z,2022-02-07T02:21:06Z,0,2,0,1,297,0,297,104412.0
+589,Update README.ml.md,10,True,True,2022-02-05T16:18:39Z,2022-02-05T16:18:39Z,1,2,0,1,1,1,2,7045.0
+584,[fr] Review: Suggest more accurate translation,185,True,True,2022-02-03T03:48:22Z,2022-02-03T03:48:22Z,1,2,0,1,22,22,44,359518.0
+585,[fr] Fix small typo and image link,29,True,True,2022-02-03T03:47:51Z,2022-02-03T03:47:51Z,1,2,0,1,19,19,38,356704.0
+587,Fix project links in README.md,230,True,True,2022-02-03T03:45:31Z,2022-02-03T03:45:32Z,1,2,1,10,158,158,316,57241.0
+582,[fr] french translation for 6-3-readme.md file,42,True,True,2022-01-28T16:24:40Z,2022-01-28T16:24:40Z,1,2,1,1,388,0,388,8299.0
+471,added french readme for Web-Dev-For-Beginners/6-space-game/5-keeping-score/,75,True,True,2021-10-29T21:38:27Z,2021-10-29T21:38:28Z,2,3,0,1,189,0,189,380.0
+465,Added french translation for README.fr.md ,96,True,True,2021-10-29T15:55:30Z,2021-10-29T15:55:30Z,2,3,2,1,223,0,223,75432.0
+581,fix small typo in french translation,14,True,True,2022-01-27T16:33:57Z,2022-01-27T16:33:57Z,1,2,0,1,3,3,6,699.0
+578,fix:  style miss && small content,33,True,True,2022-01-21T15:53:34Z,2022-01-21T15:53:34Z,1,2,3,3,5,3,8,111937.0
+580,Create README.ur.md,0,True,False,,2022-01-22T05:06:51Z,0,1,0,1,103,0,103,0
+574,Bump follow-redirects from 1.13.1 to 1.14.7 in /quiz-app,2484,True,True,2022-01-19T22:07:56Z,2022-01-19T22:07:56Z,0,1,0,1,9,9,18,409545.0
+576,Fix typos,36,True,True,2022-01-19T12:36:09Z,2022-01-19T12:36:09Z,1,2,1,7,9,9,18,69004.0
+577,"Hii, My name is Pawan Kumar and i have added some cool Javascript pro…",6,True,False,,2022-01-19T12:37:00Z,0,2,2,85,1946,0,1946,0
+571,Fix table,44,True,True,2022-01-10T12:58:39Z,2022-01-10T12:58:39Z,1,2,0,1,2,3,5,165609.0
+561,Add a translation and edit a file,65,True,True,2021-12-28T15:05:08Z,2021-12-28T15:05:08Z,1,2,0,2,39,0,39,2435.0
+560,add french translation for 6-2-readme,44,True,True,2021-12-28T15:04:04Z,2021-12-28T15:04:04Z,4,2,0,1,216,0,216,72884.0
+557,feat: translate readme and for-teachers from english to telugu,362,True,True,2021-12-28T02:54:19Z,2021-12-28T02:54:19Z,1,2,1,2,137,0,137,616393.0
+558,Update README.hi.md,45,True,True,2021-12-24T14:43:12Z,2021-12-24T14:43:12Z,1,2,0,1,3,3,6,293719.0
+552,fr-french tranlation of 6-1-readme,41,True,True,2021-12-19T21:45:18Z,2021-12-19T21:45:18Z,1,2,0,1,224,0,224,684289.0
+550,[fr] 5-3-readme french translation,62,True,True,2021-12-07T16:17:09Z,2021-12-07T16:17:10Z,1,2,2,1,162,0,162,336.0
+551,Suggest improved title translation,80,True,True,2021-12-11T15:38:17Z,2021-12-11T15:38:17Z,1,2,0,1,1,1,2,245769.0
+547,[fr] french translate of 5-2-readme,36,True,True,2021-12-01T20:07:33Z,2021-12-01T20:07:33Z,1,2,0,2,250,26,276,189649.0
+365,[fr] add 5-1-assignment.fr.md,24,True,True,2021-08-23T13:15:59Z,2021-08-23T13:15:59Z,3,4,0,1,11,0,11,13249.0
+543,Corrected instruction,85,True,True,2021-12-01T20:08:52Z,2021-12-01T20:08:52Z,6,4,3,1,4,2,6,533157.0
+544,"Change ""auto generated"" to ""auto-generated""",43,True,True,2021-11-28T19:20:15Z,2021-11-28T19:20:15Z,0,2,2,1,3,3,6,34749.0
+542,Fix image links and reference french assignment,0,True,True,2021-11-25T20:31:18Z,2021-11-25T20:31:18Z,0,2,0,1,26,26,52,29615.0
+541,[fr] french translate of  4-typing-game-readme,47,True,True,2021-11-24T15:15:34Z,2021-11-24T15:15:34Z,0,2,1,1,340,0,340,62900.0
+538,"Changes in ""assignment.es.md"" ""Intro to HTML""",70,True,True,2021-11-24T15:16:30Z,2021-11-24T15:16:30Z,1,2,0,1,1,1,2,186494.0
+530,[fr] add readme.fr.md for 2-3-making decisions,69,True,True,2021-11-16T16:26:10Z,2021-11-16T16:26:10Z,1,2,0,1,177,0,177,58944.0
+427,[TRANSLATIONS]: Malayalam ,48,True,False,,2021-11-21T16:09:14Z,6,3,7,2,100,1,101,0
+531,Fix some image links,20,True,True,2021-11-20T18:40:13Z,2021-11-20T18:40:13Z,0,2,0,1,3,3,6,97246.0
+532,Fix image links,15,True,True,2021-11-20T18:39:45Z,2021-11-20T18:39:45Z,1,2,0,1,3,3,6,96220.0
+528,[RU] Add translation to Russian for 'for-teachers.md',0,True,True,2021-11-17T22:17:14Z,2021-11-17T22:17:14Z,1,2,0,1,35,0,35,184769.0
+529,[fix link] reference the french assignment,50,True,True,2021-11-16T16:40:17Z,2021-11-16T16:40:17Z,0,2,0,1,1,1,2,60247.0
+527,Added Bangla translation for base README,95,True,True,2021-11-15T17:55:15Z,2021-11-15T17:55:15Z,0,2,2,1,103,0,103,106819.0
+525,Suggest french translation for 7-4-assignment,50,True,True,2021-11-12T13:31:47Z,2021-11-12T13:31:48Z,0,2,0,1,25,0,25,140292.0
+526,[fr] Add fench translation file for 2-4-readme,59,True,True,2021-11-15T17:55:42Z,2021-11-15T17:55:42Z,2,2,0,1,131,0,131,336299.0
+522,[fr] add readme.fr.md file for 7-api-readme,41,True,True,2021-11-09T13:24:44Z,2021-11-09T13:24:45Z,1,2,0,1,34,0,34,1675.0
+521,[fr] Suggest translation for 7-solution-readme,41,True,True,2021-11-09T02:16:00Z,2021-11-09T02:16:00Z,1,2,0,1,13,0,13,22857.0
+512,Feat/css,0,True,False,,2021-11-05T13:37:26Z,1,2,1,4,194,0,194,0
+520,Update a image link,33,True,True,2021-11-08T17:51:57Z,2021-11-08T17:51:57Z,1,2,0,1,1,1,2,1745.0
+509,Add git branch -M main,249,True,False,,2021-11-06T21:59:11Z,0,2,4,1,1,0,1,0
+513,Adding pdf working link,8,True,True,2021-11-06T22:00:15Z,2021-11-06T22:00:15Z,1,2,5,5,6,6,12,235485.0
+510,"Translate README, for-teachers Malayalam & Open in Visual Studio Code Badge",105,True,True,2021-11-06T21:51:43Z,2021-11-06T21:51:43Z,1,2,5,6,204,0,204,288207.0
+517,fix: Update favicon image,0,True,True,2021-11-06T21:50:20Z,2021-11-06T21:50:20Z,0,2,2,1,0,0,0,13271.0
+511,make website beautiful,83,True,False,,2021-11-05T17:31:08Z,1,2,1,2,64,6,70,0
+515,Fix: Suggest broken link fix on 3-1 readme files ,57,True,True,2021-11-04T13:06:33Z,2021-11-04T13:06:33Z,1,2,0,11,11,11,22,256.0
+486,Translation_checklist_update : Missing API base readme at 7-bank-project/api  ,52,True,True,2021-10-31T14:19:56Z,2021-10-31T14:19:56Z,1,2,0,1,1,0,1,32282.0
+485,Suggest french translation for 7-2-forms_readme,47,True,True,2021-10-31T14:22:41Z,2021-10-31T14:22:41Z,0,2,0,1,301,0,301,35023.0
+506,"Fix image and text link, reference fr assignment",48,True,True,2021-11-02T20:11:09Z,2021-11-02T20:11:09Z,1,3,2,1,3,3,6,34274.0
+505,Fix french translation typo,104,True,True,2021-11-02T02:41:16Z,2021-11-02T02:41:16Z,0,2,1,3,5,5,10,1799.0
+501,Delete unnecessary .ua file,47,True,True,2021-10-31T23:47:23Z,2021-10-31T23:47:23Z,1,2,0,1,0,33,33,8403.0
+503,[RU] Add translation to Russian for assignment 3-accessibility,0,True,True,2021-10-31T23:50:13Z,2021-10-31T23:50:13Z,1,2,0,1,16,0,16,3043.0
+502,"[RU] Correct typos, format text and fix image link in Russian translation for 2-github-basics",0,True,True,2021-10-31T23:49:38Z,2021-10-31T23:49:38Z,1,2,0,1,46,46,92,4227.0
+500,Add Ukrainian translation for typing-game,10,True,True,2021-10-31T23:48:22Z,2021-10-31T23:48:22Z,3,3,6,1,30,0,30,13062.0
+499,"[RU] Add translation to Russian for README in 1-intro-to-programming-languages, 2-github-basics",0,True,True,2021-10-31T20:59:56Z,2021-10-31T20:59:56Z,1,2,0,2,524,0,524,4447.0
+498,translate to pt ASSIGNMENT about browsers,81,True,True,2021-10-31T20:56:11Z,2021-10-31T20:56:12Z,1,2,0,1,11,0,11,4494.0
+487,French translation for  7-3-assignment,66,True,True,2021-10-31T20:55:21Z,2021-10-31T20:55:21Z,3,3,2,1,15,0,15,44750.0
+497,translate to pt README about browsers,77,True,True,2021-10-31T20:54:47Z,2021-10-31T20:54:47Z,1,2,0,1,167,0,167,4843.0
+496,Add translation for 1 assignment file,53,True,True,2021-10-31T17:50:49Z,2021-10-31T17:50:49Z,1,2,0,1,11,0,11,2983.0
+493,Add translation for 1-getting-started-lessons Ukranian language,71,True,True,2021-10-31T17:50:26Z,2021-10-31T17:50:26Z,2,2,1,1,21,0,21,6537.0
+492,Add Ukrainian translation for 2-js-basics/README.md,67,True,True,2021-10-31T17:50:05Z,2021-10-31T17:50:05Z,2,2,0,1,14,0,14,7177.0
+495,Translate pt terrarium base solution readme,68,True,True,2021-10-31T17:49:13Z,2021-10-31T17:49:13Z,1,2,0,1,32,0,32,3110.0
+491,Update iso language abbreviation for Ukrainian,247,True,True,2021-10-31T16:23:31Z,2021-10-31T16:23:31Z,1,2,0,1,33,0,33,3023.0
+482,translate intro to DOM and closures README,82,True,True,2021-10-31T15:28:07Z,2021-10-31T15:28:07Z,1,2,2,1,234,0,234,50876.0
+490,"Add translation for ""for-teachers.md"" file",46,True,True,2021-10-31T15:27:06Z,2021-10-31T15:27:06Z,1,2,1,1,33,0,33,659.0
+488,feat: Add favicon and title,0,True,True,2021-10-31T14:19:28Z,2021-10-31T14:19:28Z,0,2,3,2,3,2,5,1677.0
+483,Translate terrarium/intro-to-DOM-and-closures Portuguese,86,True,True,2021-10-31T14:23:03Z,2021-10-31T14:23:03Z,0,2,0,1,11,0,11,46370.0
+481,Translate terrarium/intro-to-css Portuguese,73,True,True,2021-10-31T14:21:21Z,2021-10-31T14:21:21Z,0,2,0,1,11,0,11,47167.0
+480,Translated Form assignment into French,67,True,True,2021-10-31T14:20:52Z,2021-10-31T14:20:52Z,3,3,0,1,13,0,13,80458.0
+476,Portuguese translation of Terrarium (base README and 1-intro-to-html),466,True,True,2021-10-31T14:20:37Z,2021-10-31T14:20:37Z,2,2,3,5,275,2,277,126183.0
+462,[fr] Suggest french translation for 7-1-template-route readme,56,True,True,2021-10-28T15:36:11Z,2021-10-28T15:36:11Z,0,2,0,2,313,4,317,200.0
+478,Pomodoro Timer,0,True,False,,2021-10-30T14:31:00Z,0,2,2,5,324,0,324,0
+477,Translate terrarium/intro-to-html Portuguese,75,True,True,2021-10-30T14:33:54Z,2021-10-30T14:33:54Z,0,2,0,1,11,0,11,39850.0
+467,[RU] Translation to Russian,0,True,True,2021-10-30T14:31:50Z,2021-10-30T14:31:50Z,3,2,1,2,28,0,28,152126.0
+475,pt translate: intro-to-html assignment,0,True,False,,2021-10-30T03:04:18Z,0,1,0,1,6,6,12,0
+473,Added web.gif,123,True,True,2021-10-29T22:41:54Z,2021-10-29T22:41:54Z,0,2,2,2,32,31,63,1211.0
+460,Add Translation to Filipino,133,True,True,2021-10-29T18:25:09Z,2021-10-29T18:25:09Z,2,2,1,1,198,0,198,112324.0
+470,Translate README.md to Filipino Language,157,True,True,2021-10-29T18:23:57Z,2021-10-29T18:23:57Z,0,3,2,1,318,0,318,604.0
+458,Add a french translation for 7-bank-project README #326,1593,True,True,2021-10-29T16:09:14Z,2021-10-29T16:09:14Z,7,3,3,1,21,0,21,260151.0
+436,Portuguese translation of root README,256,True,True,2021-10-29T16:00:51Z,2021-10-29T16:00:51Z,2,2,5,1,109,0,109,1517917.0
+457,[Translation] - Filipino,117,True,True,2021-10-29T15:59:58Z,2021-10-29T15:59:58Z,4,3,2,1,100,0,100,322452.0
+468,Fix broken link in assignment (1-getting-started),0,True,False,,2021-10-29T15:01:14Z,1,2,0,1,2,2,4,0
+463,Fix: Add loc param and reference fr assignment in 1-3-readme.fr.md,71,True,True,2021-10-28T19:04:48Z,2021-10-28T19:04:48Z,1,2,0,1,3,3,6,10892.0
+464,fix few typos,67,True,True,2021-10-28T19:04:22Z,2021-10-28T19:04:22Z,1,2,0,1,3,3,6,2815.0
+455, Add french translation for Browser extension - about browser,45,True,True,2021-10-28T14:36:21Z,2021-10-28T14:36:21Z,5,4,3,1,168,0,168,256257.0
+461,"Fix small typo, links and reference french assignment",53,True,True,2021-10-28T14:33:31Z,2021-10-28T14:33:32Z,1,2,0,1,4,4,8,1618.0
+440,[fr] 7-1-template-route assignment translation,67,True,True,2021-10-13T12:30:26Z,2021-10-13T12:30:26Z,1,2,0,1,15,0,15,6430.0
+426,[fr] add 6-5-assignment.fr.md,50,True,True,2021-10-01T16:55:10Z,2021-10-01T16:55:10Z,1,2,0,1,11,0,11,257434.0
+421,[fr] add 6-4-assignment.fr.md,48,True,True,2021-09-23T01:23:13Z,2021-09-23T01:23:13Z,1,2,0,1,11,0,11,108541.0
+432,[fr] Suggest translation for 6-6-end-condition assignment.md,68,True,True,2021-10-10T14:22:07Z,2021-10-10T14:22:07Z,2,2,1,1,19,0,19,405532.0
+454,Add french translation for Terrarium - intro to DOM and closures,45,True,True,2021-10-27T19:56:49Z,2021-10-27T19:56:50Z,8,3,2,1,217,0,217,191817.0
+456,Bump elliptic from 6.5.3 to 6.5.4 in /quiz-app,2151,True,True,2021-10-27T12:02:10Z,2021-10-27T12:02:10Z,0,1,0,1,12,12,24,160307.0
+453, Add french translation for Terrarium - intro to css,45,True,True,2021-10-27T12:01:27Z,2021-10-27T12:01:27Z,4,3,1,1,265,0,265,164883.0
+452,Add french translation for JS - functions and methods,45,True,True,2021-10-27T12:01:08Z,2021-10-27T12:01:08Z,3,3,2,1,196,0,196,166804.0
+451,Bump lodash from 4.17.20 to 4.17.21 in /quiz-app,2139,True,True,2021-10-25T15:29:36Z,2021-10-25T15:29:36Z,0,1,0,1,3,3,6,6772.0
+446,Bump hosted-git-info from 2.8.8 to 2.8.9 in /quiz-app,2299,True,True,2021-10-25T12:36:08Z,2021-10-25T12:36:08Z,0,1,0,1,3,3,6,493681.0
+447,Bump ssri from 6.0.1 to 6.0.2 in /quiz-app,2276,True,True,2021-10-25T12:35:53Z,2021-10-25T12:35:53Z,0,1,0,1,6,6,12,493644.0
+450,Add french translation for Intro to HTML README,14,True,True,2021-10-25T12:35:34Z,2021-10-25T12:35:34Z,2,3,3,1,233,0,233,5787.0
+449,cleanup: .DS_Store file dropped,0,True,True,2021-10-25T11:40:51Z,2021-10-25T11:40:51Z,1,2,0,1,0,0,0,6967.0
+444,Bump dns-packet from 1.3.1 to 1.3.4 in /quiz-app,2142,True,True,2021-10-19T19:27:37Z,2021-10-19T19:27:37Z,0,1,0,1,3,3,6,100980.0
+445,Bump browserslist from 4.16.0 to 4.17.4 in /quiz-app,3290,True,True,2021-10-19T19:27:12Z,2021-10-19T19:27:12Z,0,2,1,1,33,19,52,100907.0
+437,Bump color-string from 1.5.4 to 1.6.0 in /quiz-app,3541,True,True,2021-10-18T15:23:50Z,2021-10-18T15:23:50Z,0,1,0,1,3,3,6,483036.0
+438,Bump ws from 6.2.1 to 6.2.2 in /quiz-app,2138,True,True,2021-10-18T15:23:37Z,2021-10-18T15:23:37Z,0,1,0,1,3,3,6,483007.0
+439,Bump postcss from 7.0.35 to 7.0.39 in /quiz-app,2844,True,True,2021-10-18T15:23:20Z,2021-10-18T15:23:20Z,0,1,0,1,11,15,26,482989.0
+443,Fix typos in README.md,9,True,True,2021-10-18T15:22:14Z,2021-10-18T15:22:14Z,1,2,0,1,3,3,6,248002.0
+442,Fix to list all existing locales in quiz app header,364,True,True,2021-10-14T12:17:41Z,2021-10-14T12:17:41Z,1,2,0,1,2,13,15,4892.0
+434,Bump prismjs from 1.23.0 to 1.25.0,4225,True,True,2021-10-13T01:12:39Z,2021-10-13T01:12:40Z,0,1,0,1,4,50,54,211710.0
+435,Bump path-parse from 1.0.6 to 1.0.7 in /quiz-app,1962,True,True,2021-10-13T01:12:19Z,2021-10-13T01:12:19Z,0,1,0,1,3,3,6,211650.0
+433,Bump url-parse from 1.4.7 to 1.5.3 in /quiz-app,2450,True,True,2021-10-10T14:23:04Z,2021-10-10T14:23:04Z,0,1,0,1,11,19,30,316150.0
+228,Terrarium solution keyboard accessibility,774,True,False,,2021-10-10T14:22:50Z,1,3,4,3,84,14,98,0
+382,[fr] add 5-2-assignment.fr.md,90,True,True,2021-08-26T03:11:53Z,2021-08-26T03:11:53Z,1,3,1,1,11,0,11,43455.0
+429,Update READ.me,55,True,True,2021-10-03T01:13:43Z,2021-10-03T01:13:43Z,7,2,2,2,9,5,14,29678.0
+430,Update README.ko.md,52,True,True,2021-10-02T17:29:42Z,2021-10-02T17:29:42Z,1,2,0,1,3,3,6,466.0
+417,Update README.zh-cn.md,0,True,True,2021-09-27T15:57:47Z,2021-09-27T15:57:47Z,1,2,0,1,2,2,4,660768.0
+406,[fr] add base README.fr.md for 6-space-game,55,True,True,2021-09-07T21:29:36Z,2021-09-07T21:29:36Z,1,3,0,1,31,0,31,115044.0
+416,Clarification on how to setup the Bank server API and the Bank App server for part 2 of the bank app project,118,True,True,2021-09-17T17:47:52Z,2021-09-17T17:47:52Z,1,2,1,2,12,3,15,6131.0
+414,[fr] add 6-3-assignment.fr.md file,50,True,True,2021-09-16T22:40:03Z,2021-09-16T22:40:03Z,1,2,0,1,11,0,11,3129.0
+407,[fr] add 6-1-assignment.fr.md file,50,True,True,2021-09-09T13:52:41Z,2021-09-09T13:52:41Z,1,2,0,1,11,0,11,8021.0
+408,[fr] add 6-2-assignment.fr.md file,55,True,True,2021-09-12T02:33:21Z,2021-09-12T02:33:21Z,1,3,1,1,11,0,11,135710.0
+411,Bug fix to pass event object into the onLinkClick,135,True,True,2021-09-14T14:21:21Z,2021-09-14T14:21:21Z,0,2,1,1,4,2,6,5077.0
+405,improve,0,True,True,2021-09-06T02:02:41Z,2021-09-06T02:02:41Z,1,2,0,14,143,94,237,80729.0
+398,[fr] add README.fr.md for 5-solution,65,True,True,2021-09-03T20:25:42Z,2021-09-03T20:25:42Z,1,2,0,1,28,0,28,253373.0
+404,[fr] add README.fr.md for 5-start,43,True,True,2021-09-03T20:21:04Z,2021-09-03T20:21:04Z,1,2,0,1,28,0,28,17369.0
+402,Update and rename README.zh.tw.md to README.zh-tw.md,0,True,True,2021-09-03T20:22:03Z,2021-09-03T20:22:03Z,1,2,0,1,3,3,6,25181.0
+367,Added French File,3344,True,False,,2021-09-03T20:27:37Z,14,5,8,6,17109,1158,18267,0
+399,Translated some files in js-basics to pt,38,True,True,2021-09-03T20:25:16Z,2021-09-03T20:25:17Z,1,2,2,2,139,0,139,188297.0
+400,Create for-teachers.pt.md,47,True,True,2021-09-03T20:23:41Z,2021-09-03T20:23:41Z,1,2,1,1,34,0,34,151679.0
+401,[zh-cn] add 5/3/assignment.zh-cn.md,0,True,True,2021-09-03T20:22:59Z,2021-09-03T20:22:59Z,1,2,0,6,18,9,27,25556.0
+403,fix Markdown,15,True,True,2021-09-03T20:21:35Z,2021-09-03T20:21:35Z,1,2,0,3,8,8,16,24110.0
+388,[fr] add 5-3-assignment.fr.md,96,True,True,2021-08-26T19:44:41Z,2021-08-26T19:44:41Z,1,2,0,1,9,0,9,32211.0
+395,[zh-cn] add typing-game/assignment.zh-cn.md ,0,True,True,2021-08-29T14:24:30Z,2021-08-29T14:24:30Z,2,3,0,8,14,10,24,44240.0
+390,[zh-cn] 3/3/assignment.zh-cn.md,12,True,True,2021-08-29T14:23:50Z,2021-08-29T14:23:50Z,1,2,1,6,30,19,49,211167.0
+391,fix: MSN/MSDN TO MDN,0,True,True,2021-08-27T04:29:06Z,2021-08-27T04:29:06Z,1,2,0,9,10,10,20,2351.0
+385,fix typo in syntax,0,True,True,2021-08-27T03:18:20Z,2021-08-27T03:18:20Z,1,2,0,1,1,1,2,73934.0
+381,fix typo,0,True,True,2021-08-25T02:04:16Z,2021-08-25T02:04:17Z,1,2,1,4,8,8,16,1435.0
+364,fix typo in zh-cn translation,0,True,True,2021-08-24T18:00:57Z,2021-08-24T18:00:57Z,1,2,0,1,1,1,2,136623.0
+373,added hjuhyg,0,True,False,,2021-08-24T21:44:13Z,0,1,0,0,0,0,0,0
+366,Translates base README and for-teachers in Greek,68,True,True,2021-08-23T13:15:34Z,2021-08-23T13:15:34Z,1,2,1,4,134,0,134,9069.0
+362,Translation checklist update,91,True,True,2021-08-23T02:21:57Z,2021-08-23T02:21:57Z,1,2,0,1,0,1,1,16656.0
+358,"[fr] add translation for 4-typing-game assignment, 5-browser-extension base README",49,True,True,2021-08-19T21:55:22Z,2021-08-19T21:55:22Z,1,2,1,2,40,0,40,175003.0
+359,[zh-cn] translate 3.1 assignment,0,True,True,2021-08-19T21:53:56Z,2021-08-19T21:53:57Z,1,2,0,2,12,1,13,55486.0
+360,[zh] fix some links,0,True,True,2021-08-19T21:53:13Z,2021-08-19T21:53:13Z,1,2,0,3,5,5,10,54672.0
+94,Post quiz,0,True,False,,2020-12-03T17:07:53Z,0,1,1,4,11,11,22,0
+356,Correction in translation to pt-br,146,True,True,2021-08-17T13:16:50Z,2021-08-17T13:16:50Z,1,2,0,1,2,2,4,597.0
+354,[fr] add readme.fr.md for 3-terrarium base README,44,True,True,2021-08-17T13:16:35Z,2021-08-17T13:16:35Z,2,3,1,2,64,0,64,161711.0
+355,Fix translation URL error,0,True,False,,2021-08-16T14:12:20Z,0,1,0,1,3,3,6,0
+351,[fr] add assignment.fr.md file for 3-3-intro-to-DOM-and-closures,0,True,True,2021-08-12T12:06:57Z,2021-08-12T12:06:57Z,1,2,0,1,11,0,11,17652.0
+350,add assignment translated file for 3-2,38,True,True,2021-08-11T16:33:06Z,2021-08-11T16:33:06Z,1,2,0,1,11,0,11,154164.0
+349,add assignment french translated file for 3-1,45,True,True,2021-08-09T03:14:38Z,2021-08-09T03:14:38Z,1,2,1,1,11,0,11,23881.0
+347,add assignment.fr.md for 2-3 and 2-4,51,True,True,2021-08-06T10:57:24Z,2021-08-06T10:57:24Z,1,2,0,2,53,0,53,68077.0
+346,translate 2-2-assignment to french,25,True,True,2021-08-04T15:45:22Z,2021-08-04T15:45:22Z,1,2,0,1,13,0,13,750.0
+342,Translate js-basics/making decisions Portuguese,129,True,True,2021-08-03T02:06:57Z,2021-08-03T02:06:57Z,1,3,2,2,216,0,216,320.0
+345,fix small typo,21,True,True,2021-08-03T20:59:23Z,2021-08-03T20:59:23Z,1,2,0,1,1,1,2,86.0
+344,Update README.zh-cn.md,0,True,True,2021-08-03T16:46:11Z,2021-08-03T16:46:11Z,1,2,0,1,1,1,2,468.0
+343,Translation of section 2 & 2.1 README.md into French,126,True,True,2021-08-03T14:31:27Z,2021-08-03T14:31:27Z,1,2,1,2,213,0,213,29637.0
+336,Some errors were corrected and modified to have a more adequate / optimal / clear reading in our language.,0,True,True,2021-08-01T02:42:05Z,2021-08-01T02:42:05Z,1,2,0,2,61,34,95,33920.0
+335,Create README.fr.md,36,True,True,2021-07-31T14:15:40Z,2021-07-31T14:15:40Z,2,3,5,1,115,0,115,1644.0
+317,Change each word translation occurence related to a common vocabulray ,0,True,True,2021-07-19T14:30:09Z,2021-07-19T14:30:09Z,2,3,3,5,284,54,338,342323.0
+333,Translate zh-cn,76,True,True,2021-07-27T12:43:01Z,2021-07-27T12:43:01Z,1,2,1,4,108,0,108,14390.0
+206,Translate curriculum to zh-tw,449,True,True,2021-03-19T15:03:59Z,2021-03-19T15:03:59Z,3,4,4,58,8836,0,8836,2183441.0
+328,add assignment french translation for 1-3 and 2-1,0,True,True,2021-07-24T13:35:03Z,2021-07-24T13:35:03Z,1,2,0,2,26,0,26,38218.0
+321,propose a translation-checklist file,0,True,True,2021-07-20T22:27:32Z,2021-07-20T22:27:32Z,1,3,2,1,70,0,70,25848.0
+325,delete github-basics assignment task,60,True,True,2021-07-21T11:37:53Z,2021-07-21T11:37:53Z,1,2,0,1,0,1,1,12578.0
+327,Update the link to the translated pages,0,True,True,2021-07-21T11:36:48Z,2021-07-21T11:36:48Z,1,2,0,1,3,3,6,11994.0
+324,Update translations_checklist.md,0,True,True,2021-07-21T11:36:18Z,2021-07-21T11:36:18Z,1,2,0,1,1,0,1,13035.0
+323,Rename translations-checklist to translations_checklist.md,39,True,True,2021-07-20T22:37:08Z,2021-07-20T22:37:08Z,0,2,0,1,0,0,0,265.0
+322,fix some translations,0,True,True,2021-07-20T22:26:49Z,2021-07-20T22:26:49Z,1,2,0,2,8,8,16,800.0
+320,update quiz link redirection to french translation,0,True,True,2021-07-20T02:36:10Z,2021-07-20T02:36:10Z,1,2,0,1,3,3,6,38519.0
+319,"Change a word translation, add french quiz links",0,True,True,2021-07-19T15:34:49Z,2021-07-19T15:34:49Z,1,2,0,1,3,3,6,73.0
+318,docs: add missing kor translation,77,True,True,2021-07-19T14:29:35Z,2021-07-19T14:29:35Z,1,2,0,1,15,0,15,28683.0
+316,propose fr option and translation to the quizz app,89,True,True,2021-07-14T12:05:49Z,2021-07-14T12:05:49Z,1,2,0,4,2592,91,2683,36136.0
+315,feat: add link to starter code folder,0,True,False,,2021-07-13T12:58:26Z,0,2,1,1,1,1,2,0
+314,fix image path in pttranslation 1.2,42,True,True,2021-07-12T18:43:34Z,2021-07-12T18:43:34Z,1,2,1,2,15,5,20,8098.0
+312,add a french README proposition file for github - basics,107,True,True,2021-07-12T14:57:02Z,2021-07-12T14:57:02Z,1,2,2,2,320,0,320,1610.0
+311,PT translation,99,True,True,2021-07-12T14:58:15Z,2021-07-12T14:58:15Z,1,2,0,2,30,30,60,6599.0
+313,Propose word changes for adding the script to App.vue,127,True,False,,2021-07-12T14:55:25Z,0,3,2,562,16008,16751,32759,0
+310,Fix typo and small translation,32,True,True,2021-07-11T22:05:10Z,2021-07-11T22:05:11Z,1,2,0,1,3,3,6,1400.0
+309,Update README.fr.md,57,True,True,2021-07-11T15:58:26Z,2021-07-11T15:58:26Z,2,2,0,1,3,3,6,1130.0
+280,Updated web documentation (try 2),39,True,True,2021-07-03T14:12:01Z,2021-07-03T14:12:01Z,12,6,1,14,44,15,59,2679158.0
+267,Updated Swahili (.sw) language,0,True,False,,2021-07-03T14:07:29Z,1,2,2,1,2,0,2,0
+307,Update README.md,51,True,False,,2021-07-03T14:06:19Z,0,2,2,1,12,12,24,0
+299,Updated Incorrect video link to Arrays and Loops ,10,True,True,2021-06-28T12:15:31Z,2021-06-28T12:15:31Z,1,2,1,11,34,12,46,6758.0
+302,Fixed Markdown For Hindi Translations,0,True,True,2021-06-29T02:41:48Z,2021-06-29T02:41:48Z,1,2,0,1,1,1,2,116.0
+298,Fix next word not highlighting after first word is completed.,0,True,False,,2021-06-28T14:53:21Z,0,2,3,1,2,2,4,0
+292,Add a note in step 11 of github basics doc,136,True,False,,2021-06-24T20:27:26Z,0,2,1,1,2,0,2,0
+290,Disable deployment on PR,112,True,True,2021-06-16T13:44:43Z,2021-06-16T13:44:43Z,0,2,2,1,4,4,8,1143.0
+289,Bump glob-parent to 5.1.2,25,True,True,2021-06-16T13:18:11Z,2021-06-16T13:18:12Z,0,3,2,1,6,6,12,74234.0
+260,Translation zh-cn,130,True,True,2021-06-15T14:45:12Z,2021-06-15T14:45:12Z,2,3,5,1,231,0,231,3003608.0
+268,Updated Swahili,0,True,False,,2021-06-15T11:26:35Z,3,2,4,1,190,0,190,0
+288,Fix: correct link to kde konsole website docs,40,True,True,2021-06-15T01:55:30Z,2021-06-15T01:55:30Z,2,3,0,26,37,37,74,517900.0
+70,Update typo in game README.md,46,True,True,2020-11-19T20:56:41Z,2020-11-19T20:56:41Z,2,4,1,1,2,2,4,23986.0
+198,Files translated to portuguese,282,True,False,,2021-06-08T00:16:33Z,3,6,23,6,868,0,868,0
+285,Fix: corrected reference link from canvas lesson,69,True,True,2021-06-07T00:36:15Z,2021-06-07T00:36:15Z,1,2,1,4,4,4,8,2736.0
+263,Fixing PR link,0,True,True,2021-05-16T14:12:17Z,2021-05-16T14:12:17Z,1,2,1,1,1,1,2,73185.0
+282,Fix: corrected reference link from previous lesson,0,True,True,2021-06-04T01:40:07Z,2021-06-04T01:40:07Z,2,2,5,4,4,4,8,109427.0
+276,Updated web documentation,47,True,False,,2021-06-02T12:18:39Z,1,2,3,1,3,1,4,0
+272,typo,0,True,True,2021-05-26T14:48:12Z,2021-05-26T14:48:12Z,1,2,0,1,1,1,2,21682.0
+278,Fix table formatting and spelling mistakes,119,True,True,2021-05-30T23:10:56Z,2021-05-30T23:10:56Z,1,2,0,1,7,5,12,3254.0
+279,Markdown link fixes in Hindi Translation,165,True,True,2021-05-31T22:01:27Z,2021-05-31T22:01:27Z,2,3,1,6,20,20,40,60218.0
+271,Faster Performance,0,True,False,,2021-05-29T18:33:17Z,3,5,5,1,43,44,87,0
+274,Fix missing event argument in Banking App Part 1,158,True,True,2021-05-27T08:34:00Z,2021-05-27T08:34:00Z,0,3,3,6,12,12,24,29537.0
+270,DOC: Fix camelCase (or capitalization),187,True,True,2021-05-24T17:59:18Z,2021-05-24T17:59:18Z,1,2,1,1,1,1,2,265.0
+261,Small writing tweaks,128,True,True,2021-05-12T11:55:54Z,2021-05-12T11:55:54Z,1,2,0,1,3,3,6,23250.0
+202,Translation PT,94,True,True,2021-05-22T15:05:57Z,2021-05-22T15:05:57Z,2,3,8,13,1258,6,1264,7937266.0
+269,Bump lodash from 4.17.19 to 4.17.21 in /7-bank-project/api,0,True,True,2021-05-21T13:52:14Z,2021-05-21T13:52:14Z,0,2,1,1,3,3,6,66335.0
+266,Swahili translation,0,True,True,2021-05-20T14:46:12Z,2021-05-20T14:46:12Z,1,2,0,1,13,0,13,33426.0
+262,Create file assignment.es.md,73,True,True,2021-05-14T18:24:11Z,2021-05-14T18:24:11Z,1,3,4,1,12,0,12,83259.0
+258,Feature/chinese translation,125,True,True,2021-05-11T16:28:47Z,2021-05-11T16:28:47Z,0,2,2,1,34,0,34,2730.0
+256,add translation data-type_zh-cn,34,True,False,,2021-04-30T01:57:25Z,0,2,4,2,80,0,80,0
+257,Add several modifications regarding the Spanish language.,109,True,True,2021-04-30T01:56:54Z,2021-04-30T01:56:54Z,1,2,1,1,26,23,49,17709.0
+248,Translate Ch. 2 into Simplified Chinese,183,True,True,2021-04-22T15:13:28Z,2021-04-22T15:13:28Z,1,2,1,12,787,4,791,2102810.0
+252,Translation hi,175,True,True,2021-04-21T11:53:19Z,2021-04-21T11:53:20Z,0,2,3,24,4387,24,4411,1356542.0
+254,Updated lesson template,0,True,True,2021-04-13T16:04:53Z,2021-04-13T16:04:53Z,0,3,2,4,4,47,51,2404.0
+250,Section 2: JS Basics SPANISH translation ,0,True,True,2021-04-07T20:39:10Z,2021-04-07T20:39:10Z,2,2,0,4,141,41,182,581666.0
+230,Removed en-us from links,135,True,True,2021-03-16T20:30:48Z,2021-03-16T20:30:48Z,1,3,1,124,431,431,862,479.0
+245,Create for-teachers.pl.md,67,True,True,2021-04-01T19:55:48Z,2021-04-01T19:55:48Z,1,2,0,1,23,0,23,466320.0
+244,Translate Ch. 1 & for-teachers into Simplified Chinese,269,True,True,2021-03-31T21:19:40Z,2021-03-31T21:19:40Z,1,2,1,7,800,0,800,454896.0
+190,[WIP] translate 1-getting-started-lessons into Chinese,98,True,False,,2021-03-20T15:26:23Z,0,3,6,3,221,0,221,0
+242,Quizzes translated to Simplified Chinese,189,True,True,2021-03-25T20:00:33Z,2021-03-25T20:00:33Z,1,2,2,4,2526,14,2540,4301.0
+225,Translate the Dutch files,255,True,True,2021-03-21T18:07:59Z,2021-03-21T18:07:59Z,1,3,7,46,3779,30,3809,1321902.0
+227,Alejandra/ Lesson 1: getting started lessons translated to Spanish,0,True,True,2021-03-15T17:42:03Z,2021-03-15T17:42:04Z,1,2,0,4,159,154,313,67159.0
+226,Update README.md,45,True,False,,2021-03-09T13:40:39Z,1,3,1,1,2,1,3,0
+212,fix images path,0,True,False,,2021-03-06T15:46:29Z,2,3,1,6,107,108,215,0
+211,Fix path of images,67,True,False,,2021-03-01T01:18:04Z,0,1,1,6,107,108,215,0
+210,fix image url,18,True,True,2021-02-28T21:05:40Z,2021-02-28T21:05:40Z,1,2,0,1,1,1,2,4517.0
+208,Quizzes translated to Spanish,319,True,True,2021-02-28T01:08:41Z,2021-02-28T01:08:41Z,0,2,2,3,2512,0,2512,103326.0
+209,Merge pull request #1 from microsoft/main,11,True,False,,2021-02-27T04:00:02Z,0,1,1,0,0,0,0,0
+200,Translate curriculum to zh-tw,500,True,False,,2021-02-22T07:41:11Z,0,2,2,0,0,0,0,0
+204,translated all quiz questions to greek,29,True,True,2021-02-21T01:45:02Z,2021-02-21T01:45:02Z,0,2,1,4,2514,2,2516,26906.0
+203,Translated to Malay,33,True,True,2021-02-21T01:42:26Z,2021-02-21T01:42:26Z,1,2,0,3,2512,0,2512,75335.0
+199,Fix Markdown translation links in js-basics lesson,177,True,True,2021-02-18T01:10:07Z,2021-02-18T01:10:07Z,1,2,1,6,21,21,42,10745.0
+197,fix spelling in **check status ** step,60,True,True,2021-02-16T19:48:17Z,2021-02-16T19:48:18Z,1,2,0,1,1,1,2,7807.0
+196,Italian localization via query string for quizzez,0,True,True,2021-02-15T15:25:33Z,2021-02-15T15:25:33Z,1,2,0,7,7,14,21,7331.0
+194,Ch. 7 - italian translation,0,True,True,2021-02-14T14:26:25Z,2021-02-14T14:26:25Z,1,2,0,11,1350,0,1350,17876.0
+189,Fixed Japanese documents,37,True,True,2021-02-08T22:18:29Z,2021-02-08T22:18:29Z,1,2,1,22,61,62,123,348.0
+182,fix: dependabot vulnerablity,61,True,True,2021-02-07T18:27:30Z,2021-02-07T18:27:30Z,1,2,1,1,1,1,2,136476.0
+183,Chapter 6-space-game: Italian translation,0,True,True,2021-02-07T18:15:44Z,2021-02-07T18:15:45Z,2,2,1,14,1663,16,1679,113997.0
+77,Create German Readme.md translations,213,True,False,,2021-02-05T18:48:36Z,1,3,4,2,50,0,50,0
+90,Translating to Malay language (In Progress),347,True,True,2021-01-31T15:57:18Z,2021-01-31T15:57:18Z,1,2,4,61,6357,4,6361,5382466.0
+178,README.gr.md,26,True,True,2021-01-25T23:48:34Z,2021-01-25T23:48:34Z,1,2,1,1,192,0,192,103044.0
+179,assignment.gr.md,37,True,True,2021-01-25T23:48:02Z,2021-01-25T23:48:02Z,1,2,3,1,11,0,11,102758.0
+174,Fix laser cooldown bug,531,True,True,2021-01-20T23:19:10Z,2021-01-20T23:19:10Z,0,3,2,5,15,10,25,163869.0
+175,Ch. 4 italian translation and fixed wrong translations in the quiz app,0,True,True,2021-01-19T13:51:15Z,2021-01-19T13:51:15Z,1,2,0,4,754,373,1127,2076.0
+173,Italian translation of chapter 3,692,True,True,2021-01-16T16:10:48Z,2021-01-16T16:10:48Z,1,2,0,7,780,0,780,19260.0
+172,Fix two typos in typing-game README.md,0,True,True,2021-01-13T20:29:13Z,2021-01-13T20:29:13Z,1,2,0,1,2,2,4,7510.0
+101,Translating assignments into ko(Korean) (complete),229,True,True,2021-01-11T01:22:14Z,2021-01-11T01:22:14Z,1,5,1,23,315,0,315,2452856.0
+168,fix quiz url.,84,True,True,2021-01-11T01:21:13Z,2021-01-11T01:21:13Z,1,2,0,22,63,64,127,66667.0
+169,Add typing-game ko translation,83,True,True,2021-01-11T01:19:45Z,2021-01-11T01:19:45Z,0,2,1,2,339,1,340,58943.0
+170,Fix language in lesson 23 (Banking App - Data),87,True,True,2021-01-11T01:19:16Z,2021-01-11T01:19:16Z,1,2,0,1,21,21,42,7994.0
+167,"Italian translation of chapter 2, fixed a non translated sentence in …",10,True,True,2021-01-09T17:30:43Z,2021-01-09T17:30:43Z,1,2,0,10,782,1,783,27614.0
+166,translate quiz-app into japanese,89,True,True,2021-01-08T21:11:15Z,2021-01-08T21:11:15Z,0,2,1,2,2511,0,2511,4063.0
+163,Update pre-lecture-quiz.md,20,True,True,2021-01-05T13:49:41Z,2021-01-05T13:49:41Z,1,2,1,1,1,1,2,20009.0
+165,translate 7-bank-project into japanese,95,True,True,2021-01-06T18:17:36Z,2021-01-06T18:17:36Z,1,2,0,11,1343,0,1343,849.0
+142,fix several broken image-links,42,True,True,2020-12-30T22:46:25Z,2020-12-30T22:46:25Z,1,2,1,3,4,4,8,3300.0
+161,"1-getting-started-lessons: 1 Readme. Fixed some typos, grammatical and punctuation mistakes.",84,True,False,,2021-01-06T15:28:55Z,1,2,1,1,10,10,20,0
+160,for-teachers.md: Small mistake fix.,48,True,False,,2021-01-06T15:28:55Z,1,2,0,1,1,1,2,0
+159,Readme.md: Fixed punctuation and grammar mistakes ,69,True,False,,2021-01-06T15:28:54Z,1,2,0,1,5,5,10,0
+164,Fix a few grammatical mistakes,84,True,True,2021-01-05T13:51:01Z,2021-01-05T13:51:01Z,1,2,0,1,2,2,4,19036.0
+147,"Ch 1 - Italian translation, assignments and quizzes",0,True,True,2021-01-04T18:00:10Z,2021-01-04T18:00:10Z,0,2,4,9,2634,0,2634,280254.0
+158,[fix] typo in 2-js-basics/3-making-decisions/assignment,0,True,True,2021-01-04T17:46:47Z,2021-01-04T17:46:47Z,1,2,0,1,2,2,4,13437.0
+157,translate 6-space-game into japanese,93,True,True,2021-01-04T13:33:35Z,2021-01-04T13:33:35Z,1,2,0,13,1643,0,1643,186.0
+121,translation to hi(Hindi),261,True,True,2021-01-03T18:54:35Z,2021-01-03T18:54:35Z,1,4,5,93,5526,1,5527,603171.0
+140,Translating quiz-app into ko(Korean) (in progress),132,True,True,2021-01-03T18:52:09Z,2021-01-03T18:52:09Z,0,4,11,3,2513,0,2513,369081.0
+156,Added https:// which has a similar problem as #134,57,True,True,2021-01-02T17:26:48Z,2021-01-02T17:26:48Z,1,2,0,1,1,1,2,2009.0
+155,fix empty locale option when first created (quiz-app),162,True,True,2021-01-02T16:17:30Z,2021-01-02T16:17:30Z,0,2,0,1,3,1,4,522.0
+154,translate 5-browser-extension into japanese,100,True,True,2021-01-02T15:44:15Z,2021-01-02T15:44:15Z,0,2,1,9,665,0,665,9416.0
+151,Indonesian translations for quiz-app,113,True,True,2021-01-02T00:28:57Z,2021-01-02T00:28:57Z,0,2,2,1,334,334,668,24400.0
+152,translate top-page into japanese,89,True,True,2021-01-01T20:13:56Z,2021-01-01T20:13:56Z,0,2,0,2,94,0,94,4378.0
+148,translate 4-typing-game into japanese,94,True,True,2021-01-01T16:06:48Z,2021-01-01T16:06:48Z,0,2,0,3,379,0,379,9987.0
+149,Migrate existing quizzes Indonesian translations to quizz-app,151,True,True,2021-01-01T16:06:22Z,2021-01-01T16:06:22Z,1,2,1,24,2535,231,2766,1334.0
+40,Fixing translations broken links,0,True,True,2020-11-17T13:57:44Z,2020-11-17T13:57:44Z,0,2,0,32,107,109,216,2363.0
+53,Add indonesian translations (2-js-basics),82,True,True,2020-12-31T14:44:48Z,2020-12-31T14:44:48Z,1,5,5,17,915,0,915,3747282.0
+146,translate 3-terrarium into japanese,58,True,True,2020-12-31T20:20:19Z,2020-12-31T20:20:19Z,0,2,3,7,778,0,778,8548.0
+143,translate 2-js-basics into japanese,58,True,True,2020-12-31T20:19:44Z,2020-12-31T20:19:44Z,0,2,3,9,778,0,778,41436.0
+136,translate 1-getting-started-lesson into japanese,71,True,True,2020-12-31T18:29:41Z,2020-12-31T18:29:41Z,0,2,5,5,269,1,270,192268.0
+132,"Italian translations for chapter 1 sub chapters 1,2,3 and chapter 1 …",105,True,True,2020-12-31T18:16:34Z,2020-12-31T18:16:34Z,0,2,5,4,752,0,752,253048.0
+144,Replaced ` with ; in line 128.,16,True,True,2020-12-31T15:52:09Z,2020-12-31T15:52:09Z,2,2,1,1,1,1,2,17619.0
+145,Pre post lecture edit,144,True,True,2020-12-31T15:26:37Z,2020-12-31T15:26:37Z,1,2,1,2,8,6,14,268.0
+141,Fix questions data re-rendering & Refactor home component (on quiz-app),321,True,True,2020-12-30T20:39:25Z,2020-12-30T20:39:25Z,0,2,1,2,27,71,98,8286.0
+102,Translating quiz into ko(Korean) (in progress),142,True,False,,2020-12-30T05:42:57Z,2,3,9,48,799,0,799,0
+135,Update README.md,171,True,True,2020-12-29T14:02:34Z,2020-12-29T14:02:34Z,1,2,1,1,2,2,4,9971.0
+125,Update pre-lecture-quiz.md,0,True,False,,2020-12-28T05:49:43Z,0,2,1,1,3,3,6,0
+126,Update post-lecture-quiz.md,0,True,False,,2020-12-28T05:49:30Z,0,2,1,1,3,3,6,0
+124,Update bug_report.md,0,True,False,,2020-12-27T22:20:15Z,0,1,0,1,1,1,2,0
+116,Update pre-lecture-quiz.md,0,True,False,,2020-12-26T15:17:14Z,0,0,0,1,3,3,6,0
+109,Trivial: Enable relativePath conf in docsify,223,True,True,2020-12-26T15:02:06Z,2020-12-26T15:02:06Z,0,2,1,1,2,1,3,60208.0
+110,Use markdown table format to display images instead,174,True,True,2020-12-26T15:01:21Z,2020-12-26T15:01:21Z,1,2,0,3,6,3,9,58107.0
+112,Update post-lecture-quiz.md,0,True,False,,2020-12-26T14:59:23Z,0,2,1,1,3,3,6,0
+115,Update pre-lecture-quiz.md,10,True,False,,2020-12-26T14:58:26Z,0,2,1,1,3,3,6,0
+111,Create new project,0,True,False,,2020-12-26T04:35:49Z,0,2,0,1,1,0,1,0
+107,Update pre-lecture-quiz.md,0,True,False,,2020-12-25T21:17:44Z,1,2,0,1,3,3,6,0
+108,Update pre-lecture-quiz.md,0,True,False,,2020-12-25T18:01:56Z,0,1,0,1,3,3,6,0
+104,Change function's name to what is called in Javascript.,144,True,True,2020-12-14T19:26:43Z,2020-12-14T19:26:44Z,0,2,1,1,1,1,2,13232.0
+103,Merge pull request #1 from microsoft/main,22,True,False,,2020-12-14T15:17:22Z,0,1,0,0,0,0,0,0
+100,Translating assignments into korean,239,True,False,,2020-12-13T16:01:29Z,0,1,1,1,40,0,40,0
+99,Accessibility updates in lessons 3-7,926,True,True,2020-12-09T16:16:02Z,2020-12-09T16:16:02Z,1,2,0,13,101,76,177,25294.0
+61,Translated 1-intro-to-programming-languages into Dutch,78,True,True,2020-12-05T20:54:43Z,2020-12-05T20:54:43Z,4,3,2,1,193,0,193,1503272.0
+97,Link specifically to deprecated tags in intro to HTML,272,True,True,2020-12-05T20:53:49Z,2020-12-05T20:53:49Z,0,2,1,1,1,1,2,138219.0
+98,updates from main repo,0,True,False,,2020-12-04T23:54:50Z,0,1,0,0,0,0,0,0
+86,Proposed content changes to the accessibility unit,2213,True,True,2020-11-30T18:11:43Z,2020-11-30T18:11:43Z,1,3,5,2,24,15,39,228108.0
+84,proposing possible changes with regard to JS Closure,592,True,False,,2020-12-03T20:01:24Z,0,4,3,1,2,0,2,0
+95,"Fixing typo from ""adoping"" to ""adopting""",83,True,True,2020-12-03T19:50:57Z,2020-12-03T19:50:57Z,0,2,1,1,1,1,2,8026.0
+92,fix CORS support for 127.0.0.1 (closes #89),3,True,True,2020-12-01T08:15:24Z,2020-12-01T08:15:24Z,0,3,2,1,1,1,2,80008.0
+76,Small improvement of the german Readme.md,116,True,True,2020-11-30T18:13:39Z,2020-11-30T18:13:39Z,1,3,2,1,1,1,2,771034.0
+91,FIX : fix url for ko translations folder,179,True,True,2020-11-30T16:45:44Z,2020-11-30T16:45:44Z,0,2,0,30,152,152,304,25070.0
+39,[WIP] Add korean translations,262,True,True,2020-11-29T16:19:28Z,2020-11-29T16:19:26Z,1,3,7,30,5550,0,5550,1048517.0
+83,Add 1-intro-to-programming-languages Korean translation,100,True,False,,2020-11-27T01:11:31Z,0,2,3,4,240,0,240,0
+78,fix loadAsset function in 6-space-game/2-drawing-to-canvas/README.md,397,True,True,2020-11-26T00:25:38Z,2020-11-26T00:25:38Z,3,3,2,1,2,2,4,347390.0
+81,Update pre-lecture-quiz.md,0,True,False,,2020-11-24T14:21:53Z,1,3,2,1,3,3,6,0
+72,Update making decisions README.md,0,True,True,2020-11-21T14:32:51Z,2020-11-21T14:32:51Z,1,4,0,1,2,2,4,69394.0
+80,Fix typo in readme ,12,True,True,2020-11-24T14:23:08Z,2020-11-24T14:23:08Z,1,2,0,3,6,6,12,22464.0
+67,Update post-lecture-quiz.md,0,True,False,,2020-11-18T20:57:02Z,0,2,1,1,3,3,6,0
+71,Add Japanese translation Lesson 01.,0,True,True,2020-11-20T18:13:26Z,2020-11-20T18:13:26Z,2,3,3,3,287,0,287,23491.0
+75,Update post-lecture-quiz.md,0,True,False,,2020-11-20T21:24:47Z,0,2,2,1,3,3,6,0
+73,Update README.md,20,True,True,2020-11-20T21:26:59Z,2020-11-20T21:26:59Z,1,2,0,1,1,1,2,610.0
+68,Added commands for staging a particular file and unstaging a file or multiple files,83,True,True,2020-11-19T14:22:48Z,2020-11-19T14:22:48Z,2,3,1,1,27,2,29,22699.0
+64,js-basics: Fix setTimeout syntax,0,True,True,2020-11-18T17:23:22Z,2020-11-18T17:23:22Z,2,3,1,1,5,5,10,7891.0
+56,Update pre-lecture-quiz.md,23,True,True,2020-11-18T13:58:40Z,2020-11-18T13:58:40Z,0,2,1,1,18,18,36,21313.0
+59,Minor changes,0,True,False,,2020-11-19T06:32:59Z,1,2,4,3,70,63,133,0
+55,Replace link to image folder,12,True,True,2020-11-18T13:56:38Z,2020-11-18T13:56:38Z,1,3,1,1,1,1,2,22542.0
+54,Issue Solved- 08. Terrarium: Introduction to HTML ../images missing files #52,289,True,False,,2020-11-18T13:56:58Z,1,2,3,17,1,1,2,0
+58,Update post-lecture-quiz.md,36,True,True,2020-11-18T13:55:57Z,2020-11-18T13:55:57Z,0,2,0,1,2,2,4,20794.0
+57,Update pre-lecture-quiz.md,36,True,True,2020-11-18T13:55:35Z,2020-11-18T13:55:35Z,1,2,0,1,2,2,4,20886.0
+60,Corrected the numbering in the  pre/post quiz,147,True,True,2020-11-18T13:45:11Z,2020-11-18T13:45:11Z,0,3,2,2,4,4,8,9418.0
+16,"Major Fixes,",24,True,False,,2020-11-18T13:39:54Z,5,2,4,1,5,3,8,0
+24,Update README.md,0,True,True,2020-11-16T13:51:15Z,2020-11-16T13:51:15Z,0,2,0,1,2,2,4,2363.0
+47,Update pre-lecture-quiz.md,0,True,False,,2020-11-17T23:44:51Z,0,1,0,1,3,3,6,0
+46,typing-game: Fix broken link to lesson,0,True,True,2020-11-17T19:46:44Z,2020-11-17T19:46:44Z,1,2,0,1,1,1,2,517.0
+44,Added missing div tag,76,True,True,2020-11-17T17:54:44Z,2020-11-17T17:54:44Z,1,2,2,2,4,3,7,5315.0
+41,Add Indonesian translations,66,True,True,2020-11-17T15:37:19Z,2020-11-17T15:37:19Z,1,2,1,10,292,9,301,2269.0
+38,fixed issue #32,0,True,True,2020-11-17T13:12:37Z,2020-11-17T13:12:38Z,1,2,1,1,1,1,2,670.0
+34,answer-lulu,10,True,False,,2020-11-17T12:57:00Z,0,2,1,1,3,3,6,0
+35,JS_answer_lulu,10,True,False,,2020-11-17T12:56:26Z,0,2,1,1,4,4,8,0
+30,Update post-lecture-quiz.md,0,True,False,,2020-11-17T02:00:26Z,0,3,2,1,5,5,10,0
+33,Update_lulu,20,True,False,,2020-11-17T08:38:33Z,0,1,0,1,3,3,6,0
+31,"Added commands for git bash, fixed sentence structure and added info on alt tag.",163,True,True,2020-11-17T02:48:24Z,2020-11-17T02:48:24Z,0,2,1,2,15,7,22,1752.0
+26,Adding credits for assets to space game,0,True,True,2020-11-16T13:54:16Z,2020-11-16T13:54:16Z,0,1,0,1,4,0,4,14.0
+29,Update pre-lecture-quiz.md,13,True,False,,2020-11-16T16:18:54Z,0,2,1,1,3,3,6,0
+27,Add Indonesian translations,54,True,True,2020-11-16T17:56:32Z,2020-11-16T17:56:32Z,2,2,6,7,558,0,558,9611.0
+25,Merge pull request #1 from microsoft/main,6,True,False,,2020-11-16T13:43:06Z,0,1,0,0,0,0,0,0
+22,Removing Extra Spacing,0,True,True,2020-11-16T12:40:09Z,2020-11-16T12:40:09Z,1,2,1,1,0,2,2,8314.0
+20,Update pre-lecture-quiz.md,54,True,True,2020-11-16T02:02:38Z,2020-11-16T02:02:38Z,1,3,1,1,1,1,2,5173.0
+8,Fix broken quiz links,187,True,True,2020-11-15T14:11:04Z,2020-11-15T14:11:04Z,1,2,1,24,48,48,96,36937.0
+18,Added Translation guideline,109,True,True,2020-11-15T19:15:53Z,2020-11-15T19:15:53Z,1,2,1,2,15,2,17,140.0
+15,literlly nothing,0,True,True,2020-11-15T17:17:30Z,2020-11-15T17:17:30Z,1,2,1,1,2,2,4,6080.0
+12,update Spanish translations,0,True,True,2020-11-15T14:07:43Z,2020-11-15T14:07:43Z,0,3,4,1,16,10,26,14122.0
+13,Fix broken image link in Introduction to GitHub,178,True,True,2020-11-15T14:06:53Z,2020-11-15T14:06:53Z,1,2,0,1,1,1,2,12375.0
+4,Update README,0,True,True,2020-11-14T16:55:58Z,2020-11-14T16:55:58Z,1,3,0,1,1,1,2,16161.0
+5,Update post-lecture-quiz.md,0,True,True,2020-11-14T16:55:06Z,2020-11-14T16:55:06Z,1,2,0,1,1,1,2,13492.0
+1,Fixing broken links to assets,181,True,True,2020-11-12T18:24:46Z,2020-11-12T18:24:46Z,0,2,2,2,4,4,8,7398.0

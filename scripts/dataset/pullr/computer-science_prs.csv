@@ -1,0 +1,429 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+1196,PS help!,0,True,False,,2024-04-08T00:46:56Z,0,2,1,1,2,0,2,0
+1232,Move interactive textbook from courses to readings,0,True,True,2024-04-08T00:24:29Z,2024-04-08T00:24:29Z,0,1,0,2,2,2,4,241718.0
+1227,Remove Projects.md,308,True,True,2024-04-08T00:06:51Z,2024-04-08T00:06:51Z,0,1,0,2,10,85,95,668822.0
+1229,Remove the newsletter link,207,True,True,2024-04-03T00:29:52Z,2024-04-03T00:29:52Z,0,2,0,1,0,1,1,65924.0
+1225,Add SPD coursepage,445,True,True,2024-04-02T00:46:39Z,2024-04-02T00:46:39Z,0,3,3,6,98,1,99,921161.0
+1228,Update courses.md (Adding SICP in JavaScript),431,True,True,2024-04-02T00:42:34Z,2024-04-02T00:42:34Z,0,2,1,1,1,0,1,12396.0
+1224,Add Intro CS coursepage and replace the OCW version with an archived version on Edx,992,True,True,2024-04-01T02:37:56Z,2024-04-01T02:37:56Z,0,3,1,2,33,1,34,1088042.0
+1226,Mark the Py4E course link as link,320,True,True,2024-03-26T03:45:35Z,2024-03-26T03:45:35Z,1,3,0,1,2,2,4,296336.0
+1192,Move space between badges out of link text,94,True,True,2024-03-11T04:39:54Z,2024-03-11T04:39:54Z,0,2,1,1,4,4,8,7731317.0
+1209,fix: quick stupid case corrections for Discord,52,True,True,2024-03-11T04:40:29Z,2024-03-11T04:40:29Z,0,3,2,1,2,2,4,3158560.0
+1223,Add a better theme for the OSSU CS website,86,True,False,,2024-03-11T04:35:09Z,0,1,0,1,4,0,4,0
+1221,add final project into PROJECTS.md,77,True,True,2024-03-08T04:55:34Z,2024-03-08T04:55:34Z,0,2,0,1,1,0,1,36703.0
+1215,Update README.md,0,True,False,,2024-02-24T15:41:51Z,0,1,0,1,1,0,1,0
+1212,Remove mentions of outdated materials and add warning about them,1284,True,True,2024-02-18T17:16:58Z,2024-02-18T17:16:59Z,1,2,1,1,8,21,29,125531.0
+97,Added MIT license.,64,True,True,2015-10-06T23:26:32Z,2015-10-06T23:26:32Z,1,3,1,1,21,0,21,1660.0
+1206,Adding discussions channels,0,True,True,2024-02-03T10:36:52Z,2024-02-03T10:36:52Z,0,2,0,1,3,3,6,471274.0
+1204,Adding a new URL course for Git and GitHub because the old link invalid,223,True,True,2024-01-28T04:26:18Z,2024-01-28T04:26:18Z,2,3,0,1,1,1,2,13859.0
+1202,Update README.md,122,True,False,,2024-01-23T02:05:14Z,0,2,1,1,1,1,2,0
+1194,Hopefully fix some confusions regarding alt courses,173,True,True,2024-01-01T05:20:30Z,2024-01-01T05:20:30Z,0,2,1,1,9,9,18,304500.0
+1184,update Software Engineering: Introduction course,148,True,True,2023-11-09T07:36:44Z,2023-11-09T07:36:44Z,0,2,0,1,1,1,2,861595.0
+1186,Update FAQ.md,32,True,False,,2023-10-31T14:58:49Z,0,2,0,1,4,4,8,0
+1185,fix typos,58,True,True,2023-10-30T13:11:44Z,2023-10-30T13:11:44Z,0,2,1,2,2,2,4,1422.0
+1183,struck to stuck,0,True,True,2023-10-29T19:21:05Z,2023-10-29T19:21:05Z,0,2,3,1,1,1,2,18845.0
+1182,Fix CS50P pset links,112,True,True,2023-10-28T14:23:36Z,2023-10-28T14:23:37Z,0,2,0,1,9,9,18,6712.0
+1181,Update PROJECTS.md,34,True,False,,2023-10-15T18:23:23Z,0,2,5,1,1,0,1,0
+1178,Fix the name of the Py4E course,43,True,True,2023-10-10T04:13:31Z,2023-10-10T04:13:31Z,0,2,0,1,1,1,2,2054.0
+1177,Add intro-programming course page,164,True,True,2023-10-04T06:56:01Z,2023-10-04T06:56:01Z,0,2,0,2,89,1,90,69612.0
+1176,Add better link for How to Code courses,562,True,True,2023-09-30T05:34:35Z,2023-09-30T05:34:35Z,0,2,2,1,2,3,5,49724.0
+1175,Correct the CS50 alt URL,103,True,True,2023-09-18T04:38:33Z,2023-09-18T04:38:33Z,0,2,1,1,1,1,2,2078.0
+1170,Add Chinese document,92,True,False,,2023-08-27T21:57:53Z,0,3,3,1,525,0,525,0
+1166,for test,0,True,False,,2023-08-04T19:18:01Z,1,3,0,2,5,0,5,0
+1163,Newcourseupdate-harvardcs50,404,True,False,,2023-07-20T04:36:51Z,0,2,2,1,27,0,27,0
+1159,I just modified a file and changed the branch,0,True,False,,2023-06-24T10:12:47Z,0,1,0,1,1,0,1,0
+1152,Update LICENSE copyright years,88,True,True,2023-04-26T02:34:11Z,2023-04-26T02:34:11Z,0,2,0,1,1,1,2,131926.0
+1136,Added a PR template for projects.,0,True,True,2023-04-05T04:23:08Z,2023-04-05T04:23:08Z,0,4,2,1,21,0,21,3827336.0
+1145,Create how to choice best computer?,869,True,False,,2023-04-05T04:21:52Z,0,3,2,1,15,0,15,0
+1130,Add a new project from a student,350,True,True,2023-04-05T04:18:42Z,2023-04-05T04:18:42Z,1,4,1,1,1,0,1,5413762.0
+1143,fix core applications machine learning,294,True,True,2023-04-04T01:36:40Z,2023-04-04T01:36:40Z,0,4,2,1,1,1,2,1509242.0
+1141,Fix machine learning in core applications,202,True,False,,2023-03-17T13:45:12Z,0,1,0,1,1,1,2,0
+1138,Merge pull request #1 from ossu/master,2,True,False,,2023-03-03T03:12:38Z,0,1,0,0,0,0,0,0
+1133,Correct link to resources below,0,True,True,2023-02-06T02:14:33Z,2023-02-06T02:14:33Z,0,2,0,1,1,1,2,40796.0
+1132,Prerequisites,10,True,False,,2023-02-05T07:04:46Z,0,1,0,7,42,0,42,0
+1124,Update README.md,26,True,True,2023-01-21T18:13:32Z,2023-01-21T18:13:32Z,0,2,5,1,2,2,4,690223.0
+1125,Changed course for Theory of Computation to the one in openMIT,95,True,True,2023-01-21T18:09:32Z,2023-01-21T18:09:32Z,0,2,1,1,1,1,2,586733.0
+1126,Update CONTRIBUTING.md,12,True,True,2023-01-15T02:24:50Z,2023-01-15T02:24:50Z,0,2,0,1,1,1,2,1131.0
+1123,Update FAQ.md,153,True,True,2023-01-11T15:43:22Z,2023-01-11T15:43:22Z,0,2,0,1,3,3,6,18590.0
+1116,"Clarify OSTEP: add missing link, fix prerequisite",357,True,True,2022-12-19T08:13:21Z,2022-12-19T08:13:21Z,0,2,1,2,15,5,20,68457.0
+1115,Clarify OSTEP Options,237,True,True,2022-12-18T11:22:39Z,2022-12-18T11:22:39Z,0,3,5,1,35,13,48,13696.0
+1099,Adding cloud data processsing project,167,True,True,2022-12-13T01:14:09Z,2022-12-13T01:14:09Z,0,2,3,1,1,0,1,2520564.0
+1105,UPDATE EXTRA/COURSES : ADDING SOME COOL EXTRA COURSES,1916,True,True,2022-12-08T08:05:24Z,2022-12-08T08:05:25Z,0,2,0,1,4,0,4,710341.0
+1107,added resource explaining xv6 code for OSTEP,0,True,True,2022-12-08T07:46:08Z,2022-12-08T07:46:08Z,0,2,0,1,2,0,2,409712.0
+1093,Add 2011 Berkeley SICP in Scheme to extras,57,True,True,2022-11-27T06:55:33Z,2022-11-27T06:55:33Z,0,2,2,1,2,1,3,2728096.0
+1101,update How to Design Programs textbook link,827,True,True,2022-11-27T06:49:46Z,2022-11-27T06:49:46Z,0,2,0,1,1,3,4,430541.0
+1086,fix time estimation for PLA,175,True,False,,2022-10-26T12:27:03Z,0,3,4,1,3,3,6,0
+1088,Update exercism url to point to the current url,81,True,True,2022-10-13T03:38:28Z,2022-10-13T03:38:28Z,0,2,0,1,1,1,2,32381.0
+1087,Update exercism's link to the current url,77,True,False,,2022-10-12T18:37:45Z,0,1,0,1,1,1,2,0
+1085,Added new project,256,True,False,,2022-10-12T00:53:09Z,0,2,2,1,1,0,1,0
+1075,change Logic course,643,True,True,2022-09-25T13:04:57Z,2022-09-25T13:04:57Z,0,2,3,1,1,1,2,1382917.0
+1074,Update LICENSE copyright year,194,True,True,2022-09-16T22:11:11Z,2022-09-16T22:11:11Z,0,2,3,1,1,1,2,875866.0
+1071,Swap Intro CS from edX to OpenCourseWare,14,True,True,2022-08-23T23:16:16Z,2022-08-23T23:16:16Z,1,3,1,1,1,1,2,1789573.0
+1069,Update PROJECTS.md,588,True,True,2022-08-03T06:24:49Z,2022-08-03T06:24:49Z,0,2,0,1,1,1,2,148925.0
+1068,Added one Useful Link,307,True,False,,2022-07-28T08:33:48Z,0,2,1,1,3,0,3,0
+1066,Update README.md,69,True,False,,2022-07-25T06:56:10Z,0,2,3,1,6,5,11,0
+1063,Update README.md,50,True,False,,2022-07-20T01:29:21Z,0,2,5,1,0,1,1,0
+1062,Fix typo,14,True,True,2022-07-16T11:12:07Z,2022-07-16T11:12:07Z,0,2,0,1,1,1,2,3829.0
+1059,Hckme4 patch 2,172,True,False,,2022-07-13T01:12:39Z,0,2,0,1,24,43,67,0
+1058,added hints and tips for OSTEP Project 2A,0,True,True,2022-07-12T06:10:50Z,2022-07-12T06:10:50Z,0,2,0,2,48,5,53,52487.0
+1046,Alternative link for missing courses,261,True,False,,2022-07-10T01:00:32Z,0,4,4,1,1,2,3,0
+1057,Add information security link to table of contents,58,True,True,2022-07-08T07:08:58Z,2022-07-08T07:08:58Z,0,2,1,1,1,0,1,1410.0
+1056,Update README.md Addition of Advanced Information Security,19,True,True,2022-07-06T11:48:49Z,2022-07-06T11:48:49Z,0,2,2,1,11,0,11,95055.0
+1053,added OSTEP course page,121,True,True,2022-07-04T19:18:23Z,2022-07-04T19:18:23Z,0,2,0,6,423,1,424,1160631.0
+1054,Is this commit signed?,0,True,False,,2022-06-28T23:14:05Z,0,2,1,1,1,0,1,0
+975,Update readings.md,224,True,False,,2022-06-20T18:59:05Z,0,2,1,1,1,0,1,0
+1048,alternate links for Computation Structures,0,True,True,2022-06-20T18:58:09Z,2022-06-20T18:58:09Z,0,2,0,1,5,5,10,779475.0
+1052,fixes small typos in README.md,91,True,False,,2022-06-14T15:51:32Z,0,1,0,1,1,1,2,0
+1026,Add IBM Cybersecurity Analyst Professional Certificate to the Final Project section,3435,True,False,,2022-06-13T13:29:17Z,0,2,2,1,1,0,1,0
+987,added OSTEP course page #926 #976,1019,True,True,2022-06-11T17:36:16Z,2022-06-11T17:36:16Z,0,2,1,7,422,1,423,15224687.0
+994,Adding OpenDSA interactive eTextbook,466,True,False,,2022-06-11T17:27:58Z,0,3,8,1,1,0,1,0
+1028,alternative link for Computation Structures 1: Digital Circuits,156,True,False,,2022-06-11T16:57:35Z,0,9,4,1,14,15,29,0
+1002,Remove alternate course that is no longer offered.,14,True,True,2022-03-05T22:14:37Z,2022-03-05T22:14:37Z,0,1,0,1,1,1,2,13.0
+996,Add answer on finding courses,118,True,True,2022-05-15T17:07:18Z,2022-05-15T17:07:18Z,0,1,0,1,13,0,13,8754256.0
+982,Add puzzles-practice to extras,11,True,True,2021-12-17T03:59:32Z,2021-12-17T03:59:32Z,0,2,2,1,49,0,49,780946.0
+1047,"Math for CS 2010, 2015/2019 solutions",399,True,True,2022-06-11T15:16:36Z,2022-06-11T15:16:36Z,0,2,0,1,1,1,2,19523.0
+1038,colon [:],68,True,False,,2022-05-28T05:46:13Z,0,1,0,1,2,2,4,0
+1004,Update README.md Replacing Intellectual Property Law course,39,True,True,2022-05-15T15:14:33Z,2022-05-15T15:14:33Z,0,2,1,1,1,1,2,5942658.0
+1031,Update ,0,True,False,,2022-05-15T15:06:47Z,0,2,0,1,1,1,2,0
+1034,prime,0,True,False,,2022-05-15T15:06:18Z,0,3,2,1,31,0,31,0
+1019,Rahul added a message,0,True,False,,2022-04-06T18:36:32Z,0,1,0,1,1,0,1,0
+1018,update MathForCS dead alternate link,44,True,True,2022-04-06T00:29:00Z,2022-04-06T00:29:00Z,0,2,0,1,1,1,2,61559.0
+1015,Switch to gender neutral terms,409,True,False,,2022-03-31T15:53:22Z,0,1,0,1,1,1,2,0
+1014,Update full stack open hours/week,146,True,True,2022-03-28T03:24:47Z,2022-03-28T03:24:47Z,0,2,1,1,1,1,2,9348.0
+997,Add AoPS: Calculus to readings.md,43,True,False,,2022-03-24T09:01:57Z,0,1,2,1,1,0,1,0
+1012,Add Full Stack Open course,736,True,False,,2022-03-21T21:48:43Z,0,2,1,1,1,0,1,0
+1010,Fixes typos,46,True,True,2022-03-21T21:46:28Z,2022-03-21T21:46:28Z,1,3,0,1,6,6,12,125698.0
+1007,Remove missing specialization,14,True,False,,2022-03-19T04:19:24Z,0,1,1,1,0,1,1,0
+990,Updated Curriculum Index Links,140,True,True,2022-03-02T06:05:45Z,2022-03-02T06:05:45Z,0,3,1,1,5,4,9,2854378.0
+983,Added Intro to Numerical Analysis,133,True,True,2021-12-10T18:43:45Z,2021-12-10T18:43:45Z,0,3,1,1,1,0,1,957.0
+984,Added alternative to Intro to NumAnalysis,108,True,True,2021-12-10T19:25:33Z,2021-12-10T19:25:33Z,0,2,0,1,1,1,2,1388.0
+948,Add The Linux Command Line book to Tools section in extra readings,173,True,True,2021-12-10T18:58:22Z,2021-12-10T18:58:22Z,1,6,4,1,7,0,7,6041356.0
+967,"Add Calculus, Discrete Mathematics and Its Applications & The Art of Computer Programming to optional readings.",442,True,False,,2021-12-10T18:25:14Z,0,3,5,2,4,0,4,0
+977,Fix link formatting,105,True,True,2021-12-10T18:04:55Z,2021-12-10T18:04:55Z,0,2,0,1,1,1,2,601898.0
+981,extras/books recommends Linear Algebra for Everyone,11,True,True,2021-12-08T01:56:29Z,2021-12-08T01:56:29Z,0,1,0,1,1,1,2,8.0
+980,fix some links,0,True,True,2021-12-06T23:19:48Z,2021-12-06T23:19:48Z,0,2,2,1,15,15,30,7177.0
+956,"Add books, fix markdown formatting",819,True,True,2021-11-26T15:47:15Z,2021-11-26T15:47:15Z,0,2,2,1,4,2,6,3611864.0
+972,Json,284,True,False,,2021-11-09T03:10:52Z,0,3,2,2,899,0,899,0
+971,Add Ethics Courses,151,True,True,2021-11-06T20:50:05Z,2021-11-06T20:50:05Z,0,2,2,1,16,0,16,3044.0
+965,Update README.md,65,True,False,,2021-10-25T13:39:49Z,0,2,1,1,4,4,8,0
+962,Create Start Journaling,449,True,False,,2021-10-23T07:10:52Z,0,2,2,1,16,0,16,0
+955,Add Crafting Interpreters by Robert Nystrom,714,True,False,,2021-10-15T20:03:28Z,0,1,0,1,2,0,2,0
+953,"fix: updated Computation Structures 1,2 & 3 links",24,True,True,2021-10-10T02:24:08Z,2021-10-10T02:24:08Z,0,2,1,1,3,3,6,13989.0
+941,Add interesting/useful reading resources,185,True,True,2021-10-09T06:22:21Z,2021-10-09T06:22:21Z,1,4,5,1,2,0,2,3843599.0
+927,Switch 3b1b Linear Algebra from pre to corequisite,92,True,True,2021-10-09T06:19:36Z,2021-10-09T06:19:36Z,1,5,6,1,1,1,2,6660197.0
+943,Final Project table not rendering markdown correctly,118,True,False,,2021-09-16T02:48:04Z,0,2,2,1,1,0,1,0
+946,Update README.md,34,True,False,,2021-09-16T02:48:19Z,0,2,1,1,1,0,1,0
+945,Commit for RFC at issue #933,78,True,True,2021-09-16T02:43:11Z,2021-09-16T02:43:11Z,0,3,2,1,5,2,7,122376.0
+944,Implementing #933,79,True,False,,2021-09-14T16:29:32Z,0,2,0,1,50,21,71,0
+934,Remove repetition of the book 'Networking: A Top Down Approach',214,True,False,,2021-09-07T16:35:15Z,0,1,0,1,0,1,1,0
+935,"algebra notes, math prereq regimen set up",0,True,False,,2021-08-13T23:48:14Z,0,2,0,12,15,0,15,0
+792,Update README.md,85,True,False,,2021-08-03T17:22:58Z,1,4,2,1,1,1,2,0
+906,Update CHANGELOG.md,0,True,False,,2021-08-03T17:20:50Z,0,2,0,1,1,1,2,0
+900,Add the book Algorithms by Sedgewick to recommended readings,275,True,True,2021-08-03T17:20:11Z,2021-08-03T17:20:11Z,0,3,4,1,1,0,1,7458322.0
+929,extras/courses: Add Introduction to Computational Thinking by MIT,57,True,True,2021-07-28T02:01:16Z,2021-07-28T02:01:17Z,0,2,1,1,1,0,1,11448.0
+924,Json,145,True,False,,2021-07-21T14:01:28Z,0,3,0,2,899,0,899,0
+923,Removed Project with Dead Link,100,True,True,2021-07-21T04:46:34Z,2021-07-21T04:46:34Z,0,2,5,1,2,3,5,4997.0
+905,Math,0,True,False,,2021-06-20T22:11:13Z,0,1,0,1,2,0,2,0
+889,More realistic estimate for OS course,554,True,True,2021-04-10T03:34:57Z,2021-04-10T03:34:57Z,0,3,3,1,1,1,2,634473.0
+888,Update books' editions,360,True,True,2021-03-31T17:43:43Z,2021-03-31T17:43:43Z,0,2,1,1,12,12,24,507.0
+872,Set theme jekyll-theme-cayman,76,True,False,,2021-03-31T01:52:40Z,1,3,1,1,1,0,1,0
+885,Added alt link to ocw version of 6.002 in extra courses,0,True,True,2021-03-26T06:06:39Z,2021-03-26T06:06:39Z,0,2,0,1,1,1,2,34082.0
+883,Updated links to both HtC Simple and Complex Data,66,True,True,2021-03-24T19:43:36Z,2021-03-24T19:43:36Z,0,2,0,1,2,2,4,3378.0
+877,Fixed some grammatical errors,81,True,False,,2021-03-19T13:40:02Z,0,1,0,1,6,6,12,0
+880,Update from original,20,True,False,,2021-03-15T01:33:02Z,0,14,1,8,200,184,384,0
+873,"updated Prolog link, added PDF version (fixes #868)",760,True,True,2021-03-09T17:09:49Z,2021-03-09T17:09:49Z,0,2,1,1,4,2,6,77749.0
+667,Algorithms Specialization,96,True,True,2020-03-11T05:56:35Z,2020-03-11T05:56:36Z,0,2,0,1,6,3,9,420489.0
+871,Changed link to Effective Thinking Through Mathematics course in extras (issue #870),249,True,True,2021-03-03T19:38:06Z,2021-03-03T19:38:06Z,0,2,0,1,1,1,2,16544.0
+850,add CIS 198: Rust Programming course,0,True,False,,2021-02-27T14:49:05Z,0,1,1,1,1,0,1,0
+860,feat: Change order of database courses,385,True,True,2021-02-16T08:18:44Z,2021-02-16T08:18:44Z,0,2,1,1,1,1,2,643322.0
+863,Include edX financial aid information,64,True,True,2021-02-16T08:17:10Z,2021-02-16T08:17:10Z,0,2,1,1,1,1,2,138635.0
+857,Update Game Design specialization,69,True,True,2021-01-29T08:26:13Z,2021-01-29T08:26:13Z,2,4,1,1,1,1,2,221212.0
+843,"Add ""Practical C Programming by Steve Oualline""",204,True,False,,2021-01-18T14:33:48Z,2,4,6,1,1,0,1,0
+854,changed the discord invites,127,True,True,2021-01-18T06:37:16Z,2021-01-18T06:37:16Z,0,1,0,1,1,1,2,1002.0
+837,add two new books on systems,330,True,True,2020-12-20T16:50:35Z,2020-12-20T16:50:35Z,0,2,0,1,2,0,2,271137.0
+840,Add section to FAQ about alts,0,True,True,2020-12-21T03:33:06Z,2020-12-21T03:33:06Z,0,2,0,1,5,0,5,774.0
+839,Switch Math for CS from OCW to OLL,14,True,True,2020-12-20T14:50:38Z,2020-12-20T14:50:38Z,0,2,0,1,1,1,2,158312.0
+798,Add self driving lane detection project,244,True,False,,2020-12-19T12:45:58Z,0,2,2,1,2,1,3,0
+834,Removed Formal Concept Analysis (fixes #818),79,True,True,2020-12-11T21:15:42Z,2020-12-11T21:15:42Z,0,2,0,1,0,4,4,10661.0
+826,replace dead link,35,True,True,2020-11-22T19:33:39Z,2020-11-22T19:33:39Z,0,2,1,1,1,1,2,21601.0
+827,updated Prolog link,44,True,False,,2020-11-22T13:41:03Z,0,1,1,1,1,3,4,0
+809,Tr version of OSSU,37,True,False,,2020-10-28T04:01:54Z,0,3,1,8,558,527,1085,0
+805,Match recommended calc to course listed prereqs,194,True,True,2020-10-21T00:46:29Z,2020-10-21T00:46:29Z,0,2,1,1,1,1,2,1298099.0
+808,Json,5,True,False,,2020-10-15T05:48:47Z,0,3,0,2,899,0,899,0
+782,Update HELP.md,92,True,True,2020-09-11T17:44:28Z,2020-09-11T17:44:28Z,0,2,2,1,1,1,2,611893.0
+776,Updating Stanford compilers alternative link.,122,True,False,,2020-10-11T14:29:55Z,0,1,0,1,1,1,2,0
+806,Update README.md,91,True,False,,2020-10-07T04:19:20Z,0,4,7,1,1,1,2,0
+803,Update README.md,83,True,False,,2020-10-02T03:14:15Z,0,2,6,1,4,4,8,0
+770,Create dc,0,True,False,,2020-08-15T17:47:04Z,0,2,0,1,1,0,1,0
+802,Update README.md,15,True,False,,2020-10-02T02:32:50Z,0,2,0,1,2,2,4,0
+800,Fixed Advanced Systems dead links,203,True,True,2020-09-27T23:08:05Z,2020-09-27T23:08:05Z,0,2,1,1,3,3,6,283.0
+786,Replaced FutureLearn pre-calculus with Khan Academy,569,True,True,2020-09-16T05:47:48Z,2020-09-16T05:47:49Z,0,3,2,1,3,2,5,172451.0
+788,Changed Py4E hours of effort to match OSSU expected weekly effort levels,1254,True,True,2020-09-16T06:12:22Z,2020-09-16T06:12:23Z,0,3,5,1,2,2,4,2552.0
+779,Removed redundant note from Advanced Systems,78,True,True,2020-09-04T00:27:42Z,2020-09-04T00:27:42Z,0,2,0,1,0,6,6,55264.0
+774,Merge pull request #1 from ossu/master,22,True,False,,2020-08-24T08:25:44Z,0,1,0,0,0,0,0,0
+771,Change chat from Gitter to Discord,0,True,True,2020-08-16T22:20:23Z,2020-08-16T22:20:23Z,0,1,1,1,64,64,128,56341.0
+758,Json,69,True,False,,2020-08-16T08:47:18Z,0,3,0,2,921,0,921,0
+764,Simplify Intro to Programming,13,True,True,2020-08-16T05:46:19Z,2020-08-16T05:46:20Z,0,1,1,1,4,11,15,1201459.0
+730,Add alternative Calculus course,206,True,False,,2020-07-25T18:29:33Z,0,2,4,1,1,0,1,0
+753,Add Dockerfile,253,True,False,,2020-07-25T17:42:31Z,0,2,1,2,14,0,14,0
+733,Add Probability Alternative,592,True,False,,2020-07-25T17:37:50Z,0,2,5,1,1,1,2,0
+757,Replace Probability course,132,True,True,2020-07-25T17:36:20Z,2020-07-25T17:36:20Z,0,1,1,2,2,1,3,826.0
+754,Add Previous Probability Course to Extras,88,True,False,,2020-07-25T14:48:23Z,0,0,0,1,1,0,1,0
+755,j,1,True,False,,2020-07-23T08:01:38Z,0,0,0,1,1,0,1,0
+752,Python for Everyone > Python for Everybody,96,True,True,2020-07-20T05:18:23Z,2020-07-20T05:18:23Z,0,2,2,1,2,2,4,2310.0
+749,Resolve #734 #735 #747,521,True,True,2020-07-18T07:54:02Z,2020-07-18T07:54:02Z,0,2,0,3,3,4,7,85031.0
+748,Update README.md,144,True,False,,2020-07-17T08:03:20Z,0,1,1,1,1,1,2,0
+741,added a free Discrete Math book,184,True,False,,2020-07-02T08:09:16Z,0,3,3,1,1,0,1,0
+732,Add Probability alternative,592,True,False,,2020-06-17T14:03:17Z,0,0,0,1,3,2,5,0
+731,Add Probability alternative,592,True,False,,2020-06-17T13:55:47Z,0,0,0,1,1,0,1,0
+729,Change OS course in curriculum,19,True,False,,2020-06-15T02:27:52Z,0,2,0,1,1,1,2,0
+699,Add script to generate Trello boards,291,True,True,2020-06-10T01:50:50Z,2020-06-10T01:50:50Z,0,2,0,1,386,0,386,4183072.0
+726,Updated PROJECTS.md,60,True,True,2020-06-10T01:50:12Z,2020-06-10T01:50:12Z,0,2,0,1,1,0,1,52498.0
+723,Merge pull request #1 from ossu/dev,19,True,False,,2020-06-08T23:00:11Z,0,2,1,0,0,0,0,0
+719,fixes linear algebra url in readme.md,331,True,False,,2020-05-24T01:12:00Z,0,3,2,1,2,2,4,0
+717,Fix stale links,118,True,True,2020-05-18T03:24:44Z,2020-05-18T03:24:44Z,0,2,4,2,2,2,4,119784.0
+714,updated missing semester description,1467,True,False,,2020-05-14T01:27:00Z,0,2,1,1,1,1,2,0
+712,Update Hours and Weeks for programming language courses (and weeks for calculus 1C),10,True,True,2020-05-13T04:23:06Z,2020-05-13T04:23:06Z,0,2,1,1,4,4,8,157094.0
+710,Update Hours and Weeks for programming language courses (and weeks for calculus 1C),196,True,False,,2020-05-11T08:44:36Z,0,2,10,2,11,5,16,0
+711,updated Software Engineering prereqs and added relevant FAQ,0,True,True,2020-05-10T16:33:12Z,2020-05-10T16:33:12Z,1,3,1,2,7,1,8,1979.0
+705,Changed Software Engineering: Introduction prereqs,84,True,False,,2020-05-10T16:05:20Z,0,2,6,2,12,2,14,0
+708,OBS,0,True,False,,2020-05-10T04:43:23Z,0,2,0,1,1,0,1,0
+706,Another book for Discrete Mathematics,229,True,False,,2020-05-07T04:57:30Z,0,2,1,1,1,1,2,0
+702,Replaced Hack the Kernel with OSTEP,46,True,True,2020-05-03T05:38:03Z,2020-05-03T05:38:03Z,0,2,0,1,1,1,2,689163.0
+703,Links to prerequisites courses added,95,True,True,2020-04-26T04:27:57Z,2020-04-26T04:27:57Z,0,2,0,1,7,7,14,11340.0
+700,Fix spelling mistake,0,True,True,2020-04-22T17:36:47Z,2020-04-22T17:36:47Z,0,2,0,1,1,1,2,2002.0
+696,Updating link to How to Design Programs to Second Edition version,112,True,False,,2020-04-15T17:06:01Z,0,2,3,1,1,1,2,0
+694,Added link to HW for Intro to Parallel Programming,465,True,True,2020-04-12T20:32:04Z,2020-04-12T20:32:04Z,0,2,1,1,1,1,2,200971.0
+596,Added Advice from Previous students page,622,True,False,,2020-04-07T05:17:45Z,0,2,1,1,202,0,202,0
+691,Remove remaining references to Pro CS,0,True,True,2020-04-06T05:19:41Z,2020-04-06T05:19:42Z,0,2,1,1,3,4,7,4724.0
+688,Update README.md,62,True,True,2020-04-05T15:09:51Z,2020-04-05T15:09:52Z,0,2,1,1,1,0,1,11130.0
+676,Databases -> Database,0,True,True,2020-03-20T15:14:58Z,2020-03-20T15:14:58Z,0,2,0,1,1,1,2,54543.0
+677,Fix README ToC link,38,True,True,2020-03-20T15:13:49Z,2020-03-20T15:13:49Z,0,2,0,1,1,1,2,2308.0
+673,Removal of the Software Construction courses ,84,True,True,2020-03-19T02:19:46Z,2020-03-19T02:19:46Z,0,2,0,2,5,2,7,21347.0
+670,Add Computer Architecture/Organization courses,332,True,True,2020-03-16T00:47:06Z,2020-03-16T00:47:06Z,0,2,1,1,2,0,2,12637.0
+666,Update link to Stanford Compilers,185,True,True,2020-03-05T18:45:46Z,2020-03-05T18:45:46Z,0,2,0,1,1,1,2,23310.0
+665,Update to latest ABET guidelines,0,True,True,2020-03-05T01:16:31Z,2020-03-05T01:16:31Z,0,2,1,1,1,1,2,18524.0
+663,Add Gitter link to Getting help in Summary section,389,True,True,2020-03-03T07:11:02Z,2020-03-03T07:11:02Z,0,2,0,1,1,1,2,297323.0
+646,Removes extra column in table core theory,103,True,True,2020-02-19T22:58:17Z,2020-02-19T22:58:17Z,0,2,0,1,1,1,2,46718.0
+643,Added alt link for coursera Python for everyone _ new to course and m…,241,True,True,2020-02-11T21:38:51Z,2020-02-11T21:38:51Z,0,2,1,1,1,1,2,883184.0
+578,Updated Game Theory stats to reflect Coursera,204,True,False,,2020-01-29T08:30:06Z,0,2,4,1,1,1,2,0
+615,Add a competitive programming book,102,True,True,2020-01-29T06:15:40Z,2020-01-29T06:15:40Z,0,4,5,1,1,0,1,9299466.0
+617,Update readings.md,41,True,False,,2020-01-29T06:08:49Z,0,2,1,1,2,0,2,0
+611,making understandable,0,True,False,,2020-01-29T06:00:53Z,0,2,1,1,1,0,1,0
+641,Update License file copyright year,0,True,True,2020-01-29T05:59:41Z,2020-01-29T05:59:41Z,0,2,1,1,1,1,2,1288.0
+590,Update Core Systems,246,True,True,2019-08-29T00:53:20Z,2019-08-29T00:53:20Z,0,2,1,1,7,13,20,611123.0
+618,Included 'a' to 'education is scarce resource',0,True,True,2019-10-21T23:32:57Z,2019-10-21T23:32:57Z,0,1,0,1,2,2,4,45228.0
+614,Fixed curriculum structure,227,True,True,2019-10-13T16:37:23Z,2019-10-13T16:37:24Z,0,2,0,1,8,4,12,6103.0
+610,README: Small text fixes,25,True,True,2019-10-11T22:00:03Z,2019-10-11T22:00:03Z,2,2,0,1,4,4,8,45246.0
+607,Update README.md,30,True,False,,2019-10-10T01:17:23Z,0,2,1,1,10,10,20,0
+608,Fix syntax errors in README.md,0,True,False,,2019-10-10T01:17:19Z,0,2,1,1,11,11,22,0
+606,Update readings.md,78,True,True,2019-10-10T01:12:11Z,2019-10-10T01:12:11Z,0,2,0,1,1,1,2,484383.0
+601,Update link to file at Core Systems Network Assingment 3,63,True,True,2019-09-08T15:19:55Z,2019-09-08T15:19:55Z,0,2,0,1,1,1,2,14016.0
+600,Update link to file at Core Systems Networking Assignment 3,44,True,False,,2019-09-08T11:11:05Z,0,2,2,0,0,0,0,0
+599,Merge pull request #1 from ossu/dev,3,True,False,,2019-09-04T21:55:06Z,0,1,0,0,0,0,0,0
+580,"Update ""Introduction to Parallel Programming"" link",248,True,True,2019-08-04T18:08:14Z,2019-08-04T18:08:14Z,0,3,1,1,1,1,2,2277863.0
+583,Update README.md,56,True,False,,2019-08-04T08:47:05Z,0,1,1,1,1,1,2,0
+575,Merge pull request #1 from ossu/dev,22,True,False,,2019-05-14T18:58:14Z,0,1,0,0,0,0,0,0
+574,update May 2019,0,True,False,,2019-05-14T04:57:46Z,0,1,0,0,0,0,0,0
+572,Master,35,True,False,,2019-04-18T02:05:41Z,0,11,0,136,252690,23,252713,0
+571,Update to current version of LAFF course website,0,True,True,2019-04-11T19:34:40Z,2019-04-11T19:34:40Z,1,2,0,1,1,1,2,22397.0
+561,Add Algorithmics book,178,True,False,,2019-04-03T04:36:47Z,0,1,1,1,1,0,1,0
+563,Add ocw alt to 6.00.1x,0,True,True,2019-04-03T04:20:48Z,2019-04-03T04:20:48Z,0,2,0,1,1,1,2,5190262.0
+568,core maths: add essence of calculus as a prerequisite for Calculus 1A,34,True,False,,2019-04-03T04:18:39Z,0,19,2,9,99,55,154,0
+560,Added Tools section on extra/courses,265,True,True,2019-04-03T04:09:07Z,2019-04-03T04:09:07Z,0,5,6,1,8,0,8,5599177.0
+559,Update License file copyright year,0,True,True,2019-01-22T19:28:37Z,2019-01-22T19:28:38Z,0,2,0,1,1,1,2,6801.0
+557,READINGS: Update links,119,True,True,2019-01-03T04:41:11Z,2019-01-03T04:41:11Z,0,2,0,1,2,2,4,12061.0
+555, extras/readings: update links,143,True,False,,2019-01-03T01:20:25Z,0,1,0,1,2,2,4,0
+545,READINGS: Add Introduction to the Theory of Computation book (Michael Sipser),418,True,True,2018-12-10T02:20:04Z,2018-12-10T02:20:04Z,0,2,1,1,1,0,1,120236.0
+542,extra/readings: Add Computer Systems: A Programmer's Perspective book,318,True,True,2018-12-03T16:22:00Z,2018-12-03T16:22:00Z,0,2,1,1,1,0,1,407211.0
+541,README: Update MIT Calculus links,114,True,True,2018-11-28T21:11:55Z,2018-11-28T21:11:55Z,0,2,2,1,3,3,6,79856.0
+537,REQUIERMENTS.md/Fixed typo,26,True,True,2018-11-26T18:06:19Z,2018-11-26T18:06:19Z,0,2,1,1,1,1,2,69467.0
+535,README: Update Automata from archived (2016) to self-paced,251,True,True,2018-11-26T18:02:19Z,2018-11-26T18:02:19Z,0,2,1,1,1,1,2,413120.0
+533,README: Update course to core programing and advanced math,68,True,False,,2018-11-11T17:50:09Z,0,3,2,1,5,0,5,0
+497,Added link to Facebook group,90,True,False,,2018-11-06T16:30:32Z,0,3,4,1,1,0,1,0
+517,Add curricular guidelines,237,True,False,,2018-11-06T05:31:57Z,1,2,0,2,24,1,25,0
+524,Added GTx CS1301 Course Sequence to extras/courses,838,True,True,2018-11-01T14:51:56Z,2018-11-01T14:51:56Z,0,2,2,1,4,0,4,63633.0
+521,README: Propose GTx CS1301 as an alternate introduction course,1231,True,False,,2018-10-31T21:10:21Z,0,2,4,1,9,0,9,0
+522,Fix Introduction to Parallel Programming link,319,True,False,,2018-10-31T15:39:20Z,0,2,3,1,1,1,2,0
+514,Add PBRT (now free) to readings section,245,True,True,2018-10-18T22:32:16Z,2018-10-18T22:32:16Z,0,3,2,1,1,0,1,76241.0
+513,README: Add 'Process' section under Summary,141,True,True,2018-10-16T15:53:32Z,2018-10-16T15:53:32Z,0,1,0,1,6,0,6,167.0
+511,Fixed a few grammatical mistakes.,61,True,True,2018-10-16T14:28:49Z,2018-10-16T14:28:49Z,3,4,4,1,4,4,8,267488.0
+510,typo fix,0,True,True,2018-10-09T14:22:36Z,2018-10-09T14:22:36Z,0,2,1,1,1,1,2,2317.0
+509,Update readings: Add ISLR (machine learning book),45,True,True,2018-10-04T03:10:21Z,2018-10-04T03:10:21Z,0,2,1,1,1,0,1,161922.0
+508,Update LAFF link,0,True,True,2018-09-27T22:29:33Z,2018-09-27T22:29:33Z,0,2,1,1,1,1,2,31071.0
+450,Update courses.md,69,True,False,,2018-09-27T22:32:52Z,1,5,7,1,11,0,11,0
+491,Code of conduct,30,True,False,,2018-09-27T22:31:48Z,0,4,5,1,84,0,84,0
+506,updating link to LAFF – On Programming for Correctness,163,True,True,2018-09-27T22:28:32Z,2018-09-27T22:28:32Z,0,2,1,1,1,1,2,956393.0
+501,Update README.md,91,True,True,2018-09-27T22:26:34Z,2018-09-27T22:26:34Z,0,2,1,1,1,1,2,2841635.0
+500,Update README.md,21,True,True,2018-08-24T21:53:51Z,2018-08-24T21:53:51Z,0,2,0,1,1,1,2,8285.0
+485,"Replace link for ""Category Theory for Programmers""",103,True,False,,2018-07-09T22:48:52Z,0,3,2,1,1,1,2,0
+486,#484 Fixed SICP link,38,True,True,2018-07-09T16:15:04Z,2018-07-09T16:15:04Z,0,2,0,1,1,1,2,65254.0
+479,Remove dead link to Facebook group,317,True,True,2018-05-17T17:07:29Z,2018-05-17T17:07:29Z,0,3,2,1,1,1,2,11654.0
+470,updating parallel programming course,131,True,False,,2018-05-09T14:59:46Z,0,2,1,1,1,1,2,0
+457,computer-science,25,True,False,,2018-05-09T14:58:34Z,0,9,1,5,14,10,24,0
+477,Add a project,58,True,True,2018-05-09T14:56:09Z,2018-05-09T14:56:09Z,0,2,1,1,1,0,1,200771.0
+467,update Learn Prolog Now! link to interactive site,47,True,True,2018-03-31T03:08:36Z,2018-03-31T03:08:36Z,0,2,1,1,1,1,2,903679.0
+464,Add alt link for Intro to Parallel Programming,265,True,True,2018-03-07T13:09:00Z,2018-03-07T13:09:00Z,0,2,1,1,1,1,2,633278.0
+456,extras/courses: Add U of Helsinki OO Programming with Java,635,True,True,2018-02-17T02:23:27Z,2018-02-17T02:23:27Z,0,3,5,1,2,0,2,1480204.0
+460,Move Reliable Distributed Systems to Advanced Systems,13,True,True,2018-02-15T21:04:55Z,2018-02-15T21:04:56Z,0,2,1,1,2,2,4,172434.0
+455,README: Fix prereqs for Software Testing,122,True,True,2018-01-31T14:56:09Z,2018-01-31T14:56:09Z,0,2,1,1,1,1,2,58533.0
+446,Update README.md,62,True,False,,2018-01-31T14:51:31Z,0,2,7,1,1,1,2,0
+454,Change text 'OBS:' to 'Note:',17,True,True,2018-01-29T18:20:33Z,2018-01-29T18:20:33Z,0,2,1,1,1,1,2,89029.0
+452,Add programming language as requirement for Nand To Tetris Part II,1057,True,True,2018-01-29T18:17:16Z,2018-01-29T18:17:16Z,0,3,8,1,1,1,2,344709.0
+443,Add brief DSA course to Intro CS section,822,True,False,,2018-01-26T21:45:01Z,0,3,3,1,2,2,4,0
+447,Small Syntax Error,91,True,True,2018-01-08T15:23:54Z,2018-01-08T15:23:54Z,0,2,1,1,2,2,4,103559.0
+448,"Remove duplicate ""machine language"" topic",0,True,True,2018-01-08T15:19:28Z,2018-01-08T15:19:28Z,0,6,0,2,1,2,3,101057.0
+445,Update License file copyright year,0,True,True,2018-01-03T19:23:31Z,2018-01-03T19:23:31Z,0,4,0,1,1,1,2,40871.0
+442,add IR book by stanford/nlp,93,True,True,2017-12-30T18:01:39Z,2017-12-30T18:01:40Z,0,3,4,1,2,0,2,97014.0
+430,Add Pre-Calculus courses before Core Math courses,209,True,False,,2017-11-14T03:42:25Z,0,5,9,1,2,0,2,0
+435,Merge pull request #2 from ossu/master,15,True,False,,2017-11-05T20:01:22Z,0,1,0,0,0,0,0,0
+431,Dev pull request,0,True,False,,2017-11-02T19:23:49Z,0,2,2,4,12,6,18,0
+434,Change Operating System course in Core Systems,24,True,True,2017-11-02T19:08:25Z,2017-11-02T19:08:25Z,0,5,1,7,31,24,55,66906.0
+432,Update README.md,36,True,True,2017-11-01T02:06:15Z,2017-11-01T02:06:15Z,0,2,1,1,2,2,4,376773.0
+429,I have included MDN WEB DOCS.,160,True,False,,2017-10-20T14:17:05Z,0,2,1,1,1,0,1,0
+427,Add new forum and code of conduct,0,True,True,2017-10-10T14:39:18Z,2017-10-10T14:39:18Z,0,2,3,1,9,6,15,72631.0
+426,Add new section,0,True,False,,2017-10-08T21:24:23Z,0,2,1,1,3,0,3,0
+425,Update CodeComplete book title,27,True,True,2017-10-01T10:44:41Z,2017-10-01T10:44:41Z,0,2,1,1,1,1,2,37370.0
+415,Added System Design to reading,79,True,True,2017-07-13T11:00:28Z,2017-07-13T11:00:28Z,0,2,0,1,1,1,2,232492.0
+414,Merge pull request #1 from open-source-society/master,19,True,False,,2017-07-10T16:35:25Z,0,1,0,0,0,0,0,0
+410,Aman roy's project added.,0,True,True,2017-06-10T14:19:21Z,2017-06-10T14:19:21Z,0,2,2,1,1,0,1,45144.0
+409,Clearing of Introduction to Parallel Programming,118,True,False,,2017-06-07T20:28:06Z,0,2,1,1,1,1,2,0
+408,Add think python to programming readings,0,True,True,2017-05-26T01:28:33Z,2017-05-26T01:28:33Z,0,2,1,1,2,1,3,648437.0
+404,Update courses.md,36,True,True,2017-05-09T22:32:56Z,2017-05-09T22:32:56Z,0,2,2,1,2,1,3,31153.0
+403,Fixed spelling error in README.md,83,True,True,2017-05-09T13:53:31Z,2017-05-09T13:53:31Z,0,2,1,1,1,1,2,16806.0
+393,Overhaul for v7,240,True,True,2017-04-11T11:54:44Z,2017-04-11T11:54:44Z,0,5,9,12,786,1066,1852,2794601.0
+389,Added free books and courses,288,True,True,2017-03-28T10:17:28Z,2017-03-28T10:17:28Z,0,2,1,2,9,1,10,2893360.0
+388,Create android-developer.md,244,True,False,,2017-03-12T16:57:40Z,0,1,0,1,58,0,58,0
+391,Introduction to Computer Science Course has been added (Cs101),105,True,False,,2017-02-27T11:53:25Z,0,2,1,1,1,0,1,0
+383,upd algorithms,0,True,True,2017-01-19T12:39:00Z,2017-01-19T12:39:00Z,0,3,2,1,2,2,4,67483.0
+386,Update README.md with smile,56,True,True,2017-01-26T16:25:09Z,2017-01-26T16:25:09Z,0,2,1,1,1,1,2,40140.0
+379,ADD: Advanced Operating Systems from U.C.B.,62,True,True,2016-11-15T20:47:09Z,2016-11-15T20:47:09Z,2,2,4,1,3,2,5,206016.0
+376,updated commitment/duration for UT.9.10x,173,True,True,2016-10-21T13:14:47Z,2016-10-21T13:14:47Z,0,3,2,1,1,1,2,11167.0
+373,updated books,37,True,False,,2016-10-23T09:14:09Z,1,2,0,2,8,0,8,0
+375,Improved some english phrases,0,True,True,2016-10-18T10:02:38Z,2016-10-18T10:02:38Z,1,2,2,1,4,4,8,5685.0
+374,"Add missing ""you""",46,True,True,2016-10-16T20:15:13Z,2016-10-16T20:15:13Z,0,2,1,1,1,1,2,1000.0
+372,updated books and courses,178,True,False,,2016-10-13T22:39:33Z,16,3,1,3,11,0,11,0
+371,Update free-books.md,44,True,True,2016-10-12T09:06:49Z,2016-10-12T09:06:49Z,0,2,1,1,1,0,1,4707.0
+365,add Intro to Natural Language processing to paid courses,123,True,False,,2016-10-01T21:18:37Z,0,2,2,1,4,0,4,0
+360,Added free discrete math book,86,True,False,,2016-10-03T12:56:46Z,1,3,1,1,3,0,3,0
+368,Update free-books.md,17,True,True,2016-10-03T12:56:26Z,2016-10-03T12:56:26Z,0,2,1,1,4,0,4,2484.0
+364,Update to latest version of Math for Computer Science,18,True,True,2016-10-01T21:21:54Z,2016-10-01T21:21:54Z,0,2,1,2,9,2,11,179542.0
+361,Add Machine Learning free course from coursera,0,True,False,,2016-09-23T18:45:48Z,0,2,2,1,1,0,1,0
+357,Merge pull request #1 from open-source-society/master,6,True,False,,2016-09-13T22:48:34Z,0,2,0,0,0,0,0,0
+354,Update README.md,48,True,False,,2016-08-30T22:05:18Z,0,2,1,1,1,0,1,0
+352,Issue #351 Natural Language Processing course,122,True,False,,2016-08-20T20:19:09Z,0,2,1,1,0,7,7,0
+350,Add new free and paid introductory computer science textbooks,311,True,True,2016-08-09T14:15:38Z,2016-08-09T14:15:38Z,0,2,2,2,5,0,5,8315.0
+348,Update Introduction to Big Data link,20,True,True,2016-08-05T17:10:23Z,2016-08-05T17:10:23Z,0,2,3,2,8,2,10,5951.0
+346,Added a Course for Machine Learning,118,True,False,,2016-08-02T11:27:41Z,0,3,3,1,1,0,1,0
+345,Add two database courses on free-courses.md,0,True,True,2016-08-01T09:06:38Z,2016-08-01T09:06:38Z,0,2,1,1,2,0,2,12027.0
+344,Added free online resources.,396,True,False,,2016-07-30T23:31:25Z,0,2,1,1,14,0,14,0
+343,Add official badge for OSSU,4,True,True,2016-07-30T15:44:16Z,2016-07-30T15:44:16Z,0,1,0,1,8,0,8,11.0
+342,Release curriculum v4.0.0,4,True,True,2016-07-30T15:10:07Z,2016-07-30T15:10:07Z,0,1,0,2,37,9,46,10.0
+340,Add a free book about machine learning.,0,True,True,2016-07-18T16:56:58Z,2016-07-18T16:56:58Z,0,2,1,1,4,0,4,9802.0
+332,Add new Discrete Math book,77,True,False,,2016-06-30T00:34:40Z,0,2,2,1,1,0,1,0
+334,Added a new section Free Trainings,208,True,False,,2016-07-02T12:30:25Z,0,2,1,1,13,0,13,0
+335,Added some books,148,True,True,2016-07-01T17:47:01Z,2016-07-01T17:47:01Z,0,2,1,1,17,0,17,245.0
+328,fixing 404 MIT Challenge link not found,0,True,True,2016-06-08T22:38:20Z,2016-06-08T22:38:20Z,0,2,1,1,1,1,2,23083.0
+327,Update README.md,31,True,True,2016-05-27T11:26:42Z,2016-05-27T11:26:42Z,0,2,1,1,2,2,4,1304.0
+322,Added Operating Systems courses from Udacity,0,True,True,2016-05-21T17:36:26Z,2016-05-21T17:36:26Z,0,2,1,1,2,0,2,27969.0
+324,Add some books,92,True,True,2016-05-22T15:34:22Z,2016-05-22T15:34:22Z,0,2,0,1,16,0,16,36494.0
+323,Add books about Computer Networks,0,True,True,2016-05-21T17:37:42Z,2016-05-21T17:37:42Z,0,2,2,1,5,0,5,9721.0
+321,Added Udacity networking courses,0,True,True,2016-05-20T09:27:05Z,2016-05-20T09:27:05Z,0,2,0,1,2,0,2,8976.0
+317,Add CS50 to main curriculum,97,True,True,2016-05-04T20:06:39Z,2016-05-04T20:06:39Z,0,1,0,3,14,4,18,5.0
+315,Added some cybrary course,137,True,True,2016-04-24T18:21:07Z,2016-04-24T18:21:07Z,0,2,0,1,5,0,5,12782.0
+314,Added some algorithm courses.,52,True,True,2016-04-23T10:08:06Z,2016-04-23T10:08:06Z,0,3,7,1,12,1,13,93760.0
+312,Added new courses,0,True,True,2016-04-21T22:57:17Z,2016-04-21T22:57:17Z,0,2,2,1,15,0,15,71929.0
+310,added cybrary.it courses,134,True,True,2016-04-21T00:15:10Z,2016-04-21T00:15:10Z,0,2,6,1,19,3,22,113453.0
+311,adding skiena's algorithm and challenges courses,235,True,True,2016-04-20T15:20:17Z,2016-04-20T15:20:17Z,0,2,1,1,4,2,6,73914.0
+308,Added new courses,90,True,True,2016-04-19T12:42:30Z,2016-04-19T12:42:30Z,0,2,6,1,15,2,17,77731.0
+309,Added a Linear Algebra Course to Extras,276,True,True,2016-04-19T12:39:33Z,2016-04-19T12:39:33Z,0,2,1,1,3,0,3,31710.0
+307,Added 3 new course,114,True,True,2016-04-18T09:29:07Z,2016-04-18T09:29:07Z,0,2,2,1,4,0,4,94789.0
+306,Some other free courses.,113,True,True,2016-04-16T22:40:48Z,2016-04-16T22:40:48Z,0,2,2,1,5,1,6,27366.0
+305,Added Extra courses,297,True,True,2016-04-15T09:39:42Z,2016-04-15T09:39:42Z,0,3,11,1,3,1,4,452129.0
+302,Add CS50x in Introduction to Computer Science,105,True,False,,2016-04-07T16:55:51Z,0,3,2,1,1,0,1,0
+300,Update README.md,0,True,False,,2016-04-05T21:41:56Z,0,2,1,1,2,2,4,0
+299,Add new way to enroll in OSSU,0,True,True,2016-04-04T11:16:32Z,2016-04-04T11:16:32Z,0,1,0,2,10,28,38,26.0
+293,Added Operating Systems And Computer Networking Courses,0,True,False,,2016-04-04T10:40:19Z,0,2,2,1,57,4,61,0
+289,Added Intro to AI and Intro to Machine Learning courses,0,True,True,2016-03-31T11:06:06Z,2016-03-31T11:06:06Z,0,2,1,1,8,0,8,10424.0
+288,Added intro to cs udacity in extras section,0,True,True,2016-03-29T10:52:47Z,2016-03-29T10:52:47Z,0,2,1,1,1,0,1,47102.0
+287,Added an important course in intro to cs section,129,True,False,,2016-03-28T20:52:33Z,0,2,1,1,1,0,1,0
+286,Added an important course in intro to cs section,148,True,False,,2016-03-28T18:41:00Z,0,1,0,1,5,4,9,0
+281,"Added course called ""Discrete optimization""",85,True,True,2016-03-25T14:47:21Z,2016-03-25T14:47:21Z,0,2,4,1,3,0,3,155129.0
+277,Add two courses to extras,268,True,True,2016-03-19T20:39:51Z,2016-03-19T20:39:51Z,0,2,1,1,2,0,2,817.0
+260,Update README.md,62,True,False,,2016-03-17T11:42:48Z,0,1,2,2,5,1,6,0
+272,OSSU 2.0 - curriculum update,4,True,True,2016-03-17T11:29:06Z,2016-03-17T11:29:06Z,0,1,0,3,79,18,97,5.0
+270,Add how to send new links to the extras section,4,True,True,2016-03-17T10:14:38Z,2016-03-17T10:14:38Z,0,1,0,5,11,6,17,8.0
+264,Updated course info and added direct links to specializations.,20,True,True,2016-03-09T00:25:04Z,2016-03-09T00:25:04Z,0,1,4,2,16,7,23,214185.0
+254,Update link on systematic program design pt. 2,0,True,True,2016-03-06T23:12:56Z,2016-03-06T23:12:56Z,0,2,3,2,6,2,8,2442362.0
+263,Fixes broken link to Systematic Programm Design Part 2,75,True,False,,2016-03-06T23:15:21Z,0,2,2,1,1,1,2,0
+256,Update README URLs based on HTTP redirects,508,True,False,,2016-03-05T19:25:52Z,0,2,0,1,3,3,6,0
+246,Adding a course to the OSS - Software Engineering section,286,True,False,,2016-03-05T19:01:59Z,0,3,3,1,1,0,1,0
+228,add a course to Programming Paradigms,40,True,False,,2016-03-05T18:42:31Z,0,3,2,1,1,0,1,0
+238,Merge pull request #1 from open-source-society/master,14,True,False,,2015-12-26T22:23:11Z,0,1,0,0,0,0,0,0
+222,Update README URLs based on HTTP redirects,686,True,True,2015-11-23T21:13:57Z,2015-11-23T21:13:57Z,0,2,0,1,4,4,8,11849.0
+223,Add extras resource files,32,True,True,2015-11-23T21:08:57Z,2015-11-23T21:08:57Z,0,1,0,3,291,0,291,17.0
+213,Add link to Dive into Machine Learning,891,True,False,,2015-11-12T10:49:02Z,0,3,5,1,1,0,1,0
+212,Fix link to NLP course,8,True,True,2015-11-09T08:58:17Z,2015-11-09T08:58:17Z,0,1,0,2,6,2,8,6.0
+209,Request,0,True,False,,2015-11-07T16:38:06Z,0,2,1,1,9,0,9,0
+208,"Add ""Project Suggestions"" section",0,True,True,2015-11-07T15:20:18Z,2015-11-07T15:20:18Z,0,1,0,2,11,2,13,6.0
+207,Update issue for enrollment,0,True,True,2015-11-06T17:00:38Z,2015-11-06T17:00:38Z,0,1,0,1,2,2,4,19.0
+200,Remove the project.md file,13,True,True,2015-11-02T16:09:20Z,2015-11-02T16:09:20Z,0,2,3,3,5,311,316,115994.0
+198,changes to img title,0,True,True,2015-11-01T23:24:09Z,2015-11-01T23:24:09Z,0,2,1,1,1,1,2,98165.0
+199,Adding an abbreviation to title,0,True,False,,2015-11-01T23:09:47Z,0,2,1,1,1,1,2,0
+196,update readme,13,True,True,2015-10-30T20:29:57Z,2015-10-30T20:29:57Z,0,2,1,1,1,1,2,40387.0
+195,Update README.md,25,True,False,,2015-10-27T19:39:17Z,0,4,3,1,1,1,2,0
+189,Update README.md,38,True,False,,2015-10-25T08:48:43Z,0,3,2,1,1,0,1,0
+188,Game Design and Development,124,True,False,,2015-10-25T09:00:44Z,0,2,1,1,7,0,7,0
+190,Update projects.md,35,True,False,,2015-10-25T08:49:11Z,0,2,1,1,6,0,6,0
+182,Update to latest CS 162,453,True,True,2015-10-22T12:36:30Z,2015-10-22T12:36:30Z,0,2,3,2,7,2,9,127702.0
+184,Add project,99,True,True,2015-10-21T21:30:15Z,2015-10-21T21:30:15Z,0,1,0,1,1,1,2,7.0
+177,Minor changes (new info + links + typo + references + duration/effort),104,True,True,2015-10-20T16:49:27Z,2015-10-20T16:49:27Z,0,2,1,2,59,57,116,85399.0
+175,Add Git-it to README.md,174,True,False,,2015-10-18T08:10:46Z,0,2,1,1,1,0,1,0
+172,"Link word ""Introduction""",69,True,True,2015-10-16T20:46:01Z,2015-10-16T20:46:01Z,0,2,2,1,2,2,4,25167.0
+173,Bump to 1.2.5,50,True,True,2015-10-16T20:45:38Z,2015-10-16T20:45:38Z,0,2,1,1,4,0,4,258.0
+147,updated the pre-requisite para for more clarity,136,True,True,2015-10-13T10:27:29Z,2015-10-13T10:27:29Z,0,2,3,1,4,2,6,57576.0
+150,updated changelog,70,True,True,2015-10-13T10:26:46Z,2015-10-13T10:26:46Z,0,2,1,1,4,0,4,1071.0
+138,Add Git - the simple guide to the prerequisite section,213,True,True,2015-10-11T19:13:16Z,2015-10-11T19:13:16Z,0,3,4,2,6,1,7,8586.0
+133,Fixing typos,187,True,True,2015-10-11T09:44:42Z,2015-10-11T09:44:42Z,0,2,3,2,13,6,19,17555.0
+135,documented typo fix,0,True,False,,2015-10-11T08:43:07Z,0,1,0,1,7,0,7,0
+118,Fixing typo in hours/week,0,True,True,2015-10-08T08:03:16Z,2015-10-08T08:03:16Z,0,3,1,1,2,2,4,5457.0
+111,typo,0,True,True,2015-10-07T20:41:05Z,2015-10-07T20:41:05Z,0,3,2,1,1,1,2,872.0
+110,typo,0,True,False,,2015-10-07T20:23:34Z,0,2,0,1,2,2,4,0
+108,Update README.md,67,True,True,2015-10-07T17:49:22Z,2015-10-07T17:49:22Z,0,1,1,1,1,1,2,1052.0
+47,Create chaffin.md,0,True,False,,2015-10-05T08:16:20Z,0,2,3,1,15,0,15,0
+3,add Katy Moe to students,0,True,True,2015-10-04T18:01:16Z,2015-10-04T18:01:16Z,0,2,7,1,12,0,12,1554.0
+70,Correct formatting on student record,0,True,False,,2015-10-05T14:29:20Z,0,2,2,1,17,0,17,0
+67,State clearly not to open a new issue to enrol,218,True,True,2015-10-05T13:35:19Z,2015-10-05T13:35:19Z,0,2,1,1,1,1,2,490.0
+61,Readme,0,True,True,2015-10-05T11:37:57Z,2015-10-05T11:37:57Z,0,2,1,1,5,7,12,111.0
+62,Add a Gitter chat badge to README.md,434,True,False,,2015-10-05T12:02:26Z,0,2,0,1,2,0,2,0
+60,Enroll 007lva,0,True,False,,2015-10-05T11:31:24Z,0,2,1,1,16,0,16,0
+57,New student,0,True,False,,2015-10-05T11:29:45Z,0,2,1,1,9,0,9,0
+54,added my student info,0,True,False,,2015-10-05T09:58:33Z,0,2,1,1,9,0,9,0
+29,add student oscar-g,30,True,False,,2015-10-05T08:34:05Z,0,2,1,1,9,0,9,0
+14,Add rhnvrm to students,0,True,True,2015-10-04T19:10:54Z,2015-10-04T19:10:54Z,0,2,4,1,21,0,21,179.0
+22,Update README.md,164,True,True,2015-10-04T20:42:18Z,2015-10-04T20:42:18Z,0,2,3,1,20,20,40,729.0
+41,Added Students Hassam,0,True,False,,2015-10-05T08:00:21Z,0,2,1,1,8,0,8,0
+39,Enroll Peillach,59,True,False,,2015-10-05T07:59:45Z,0,2,1,1,9,5,14,0
+40,Student chaffin.md,0,True,False,,2015-10-05T02:49:46Z,0,1,0,1,19,0,19,0
+37,Student chaffin.md,0,True,False,,2015-10-05T00:48:25Z,0,1,0,1,15,0,15,0
+32,Add student jbsilva,166,True,False,,2015-10-05T01:28:11Z,0,2,3,1,50,0,50,0
+33,New student,0,True,False,,2015-10-04T22:12:06Z,0,2,2,1,13,0,13,0
+27,add student profile xbelt,0,True,True,2015-10-04T21:07:43Z,2015-10-04T21:07:43Z,0,2,1,1,9,0,9,724.0
+26,Added my student file,0,True,True,2015-10-04T20:52:05Z,2015-10-04T20:52:05Z,0,2,2,1,9,0,9,99.0
+25,Added student profile diogoamvasconcelos.md,46,True,True,2015-10-04T20:49:05Z,2015-10-04T20:49:05Z,0,2,3,1,15,0,15,184.0
+24,Add student monkeynaleo,55,True,True,2015-10-04T20:47:39Z,2015-10-04T20:47:39Z,0,2,1,1,11,0,11,736.0
+23,Name,0,True,True,2015-10-04T20:37:37Z,2015-10-04T20:37:37Z,0,2,2,1,9,0,9,420.0
+21,Created my student file under brennanbrown.md,0,True,True,2015-10-04T20:26:59Z,2015-10-04T20:26:59Z,0,2,2,1,17,0,17,55.0
+20,hoi-bat-pham.md,0,True,True,2015-10-04T20:22:46Z,2015-10-04T20:22:46Z,0,2,4,1,12,0,12,81.0
+19,Adding my student profile,25,True,True,2015-10-04T20:17:39Z,2015-10-04T20:17:39Z,0,2,4,1,9,0,9,66.0
+18,Enroll Peillach,0,True,True,2015-10-04T20:12:08Z,2015-10-04T20:12:08Z,0,2,2,1,9,0,9,169.0
+17,Add Marco Petersen to students,57,True,True,2015-10-04T20:14:31Z,2015-10-04T20:14:31Z,0,2,2,1,9,0,9,1264.0
+15,Registration as OSS student,0,True,True,2015-10-04T19:35:27Z,2015-10-04T19:35:27Z,0,2,2,1,12,0,12,143.0
+13,Add Den Patin to the students list,0,True,True,2015-10-04T19:10:21Z,2015-10-04T19:10:21Z,0,2,2,1,7,0,7,341.0
+11,add Bzzz666 to students list,0,True,True,2015-10-04T19:01:28Z,2015-10-04T19:01:28Z,0,2,2,1,9,0,9,447.0
+10,Create brennanbutler.md,0,True,True,2015-10-04T19:00:40Z,2015-10-04T19:00:40Z,0,2,2,1,9,0,9,403.0
+9,Skriptmonkey enrollment,40,True,True,2015-10-04T19:00:10Z,2015-10-04T19:00:10Z,0,2,2,1,15,0,15,472.0
+8,Create ryandjeric.md,130,True,True,2015-10-04T18:59:33Z,2015-10-04T18:59:33Z,0,2,2,1,6,0,6,665.0
+7,Adding Student,27,True,True,2015-10-04T18:58:07Z,2015-10-04T18:58:07Z,0,2,2,1,8,0,8,745.0
+5,add brandon stapleton to students,0,True,True,2015-10-04T18:15:13Z,2015-10-04T18:15:13Z,0,2,3,1,9,0,9,68.0
+4,Enrolled jmercouris,20,True,True,2015-10-04T18:13:22Z,2015-10-04T18:13:22Z,0,2,2,1,15,0,15,32.0

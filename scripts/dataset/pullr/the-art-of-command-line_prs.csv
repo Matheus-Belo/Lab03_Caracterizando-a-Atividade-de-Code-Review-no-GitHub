@@ -1,0 +1,464 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+801,Add   unxutils to windows only part,299,True,False,,2024-04-09T19:22:49Z,0,1,0,1,6,0,6,0
+543,Another couple uconv examples I find useful.,59,True,True,2018-03-14T01:40:18Z,2018-03-14T01:40:18Z,0,1,0,1,6,2,8,1559516.0
+612,Add CTRL-G to abort the history mode search,131,True,False,,2023-12-09T22:29:14Z,0,1,0,1,1,1,2,0
+632,Polish translation,26,True,False,,2023-11-18T23:10:23Z,0,1,0,0,0,0,0,0
+754,[Win only] add installer: `scoop` and package manager: `winget`,193,True,False,,2023-08-05T17:03:37Z,0,2,1,1,3,0,3,0
+847,Fix typo in README-zh.md,0,True,True,2023-07-12T21:40:23Z,2023-07-12T21:40:23Z,1,3,1,1,1,1,2,12746417.0
+865,corected a typo,0,True,True,2023-07-12T21:39:46Z,2023-07-12T21:39:46Z,0,2,1,1,1,1,2,4414195.0
+866,update README.md fix mosh url,89,True,True,2023-07-12T21:39:14Z,2023-07-12T21:39:14Z,0,2,1,17,17,17,34,1951291.0
+867,Typo: README_zh.md Github -> GitHub,0,True,True,2023-07-12T21:38:30Z,2023-07-12T21:38:30Z,0,2,1,1,1,1,2,743844.0
+578,Add Emacs mention to Romanian guide,366,True,False,,2023-06-26T15:40:59Z,0,1,2,1,4,4,8,0
+789,tr: Add Turkish translation,92,True,False,,2023-05-22T04:07:54Z,0,3,3,0,0,0,0,0
+861,well,0,True,False,,2023-05-07T10:29:03Z,0,1,0,1,2,0,2,0
+853,Repo Modification,23,True,False,,2023-04-03T20:21:51Z,0,1,0,1,1,1,2,0
+824,fr: Synchronize the translation,0,True,True,2023-03-07T19:34:51Z,2023-03-07T19:34:51Z,2,4,1,1,3,3,6,5795622.0
+841,fix typo,0,True,False,,2023-03-01T13:08:50Z,0,2,1,1,1,1,2,0
+849,Create Mith’s,0,True,False,,2023-02-26T12:53:28Z,0,1,0,1,1,0,1,0
+772,Contribution,0,True,False,,2022-12-29T23:28:54Z,0,2,1,1,1,1,2,0
+810,"correction typo ""intéractive"" -> ""interactive""",259,True,True,2022-12-29T22:43:54Z,2022-12-29T22:43:54Z,0,3,1,1,4,4,8,2364483.0
+811,"correction typo ""aliases"" -> ""alias""",39,True,True,2022-12-29T22:43:24Z,2022-12-29T22:43:24Z,0,3,1,1,1,1,2,2362675.0
+816,"typos ""q'une"" -> ""qu'une"", ""avec taux"" -> ""avec un taux""",0,True,True,2022-12-29T22:42:58Z,2022-12-29T22:42:58Z,0,3,3,1,2,2,4,2355670.0
+641,fr: Synchronize the translation,0,True,True,2022-12-29T22:41:26Z,2022-12-29T22:41:26Z,1,2,2,1,14,7,21,107769838.0
+812,"typo ""de multiple fichiers"" -> ""de multiples fichiers""",0,True,True,2022-12-29T22:38:52Z,2022-12-29T22:38:52Z,0,3,1,1,1,1,2,2358409.0
+815,"typo ""information général"" -> ""information générale""",0,True,True,2022-12-29T22:38:03Z,2022-12-29T22:38:03Z,0,3,1,1,1,1,2,2356082.0
+584,For good display,0,True,True,2022-12-29T22:37:57Z,2022-12-29T22:37:57Z,0,2,0,0,0,0,0,118224410.0
+814,"3x ""debogage"" -> ""débogage""",0,True,True,2022-12-29T22:37:34Z,2022-12-29T22:37:34Z,0,3,1,1,3,3,6,2356477.0
+778,Fix README-zh.md typo,0,True,True,2022-07-16T01:06:16Z,2022-07-16T01:06:16Z,3,4,0,1,1,1,2,2378434.0
+573,Update authors.,0,True,True,2018-08-19T01:07:59Z,2018-08-19T01:07:59Z,0,20,2,2,160,86,246,792.0
+745,Create README-tr.md,0,True,False,,2022-09-12T07:42:00Z,1,2,0,19,642,18,660,0
+718,Fix typo README-id.md,41,True,False,,2022-09-11T02:31:14Z,1,2,0,1,1,1,2,0
+782,fixed ambiguous description for process substitution,267,True,False,,2022-08-08T07:56:55Z,0,2,0,1,1,1,2,0
+777,fixes small typos in README.md,91,True,False,,2022-06-14T15:45:35Z,0,1,0,0,0,0,0,0
+636,Fix typo,39,True,False,,2022-05-15T13:10:19Z,1,2,0,1,1,1,2,0
+682,"complete, most up-to-date translation into Polish language",317,True,True,2020-09-07T19:20:29Z,2020-09-07T19:20:30Z,3,6,2,18,641,17,658,14352939.0
+756,donw,0,True,False,,2022-01-07T09:59:24Z,0,1,0,1,2,0,2,0
+755,donw,0,True,False,,2022-01-07T09:58:33Z,0,1,0,1,2,0,2,0
+747,test file for new branch,0,True,False,,2021-12-06T07:37:46Z,2,4,1,1,1,0,1,0
+743,fixed small typo in README-it.md,0,True,False,,2021-09-20T16:22:45Z,0,1,2,1,1,1,2,0
+619,Fix the broken `dtach` link,102,True,False,,2021-08-26T21:56:34Z,0,1,0,1,1,1,2,0
+378,"Pipe error management, add $PIPESTATUS and link to documentation",521,True,False,,2021-07-12T21:19:01Z,0,1,0,1,1,1,2,0
+267,Add flow control info.,0,True,False,,2021-07-12T21:18:20Z,0,1,0,1,2,0,2,0
+266,"Consider onsgmls, pup, or other HTML parsers",0,True,False,,2021-07-12T21:17:26Z,0,4,7,1,2,0,2,0
+263,Add tr command.,0,True,False,,2021-07-12T21:16:20Z,0,2,1,1,2,0,2,0
+730,Added `touch` command.,91,True,False,,2021-05-07T12:30:40Z,0,2,2,1,2,0,2,0
+601,Add cmder Windows tool,22,True,False,,2021-04-02T04:58:28Z,0,1,1,3,6,0,6,0
+618,en: Fix description of `env` and add description of `eval`,211,True,False,,2020-11-01T15:03:28Z,0,2,7,1,3,1,4,0
+693,Fix a typo,18,True,False,,2020-08-17T00:27:25Z,0,2,1,1,1,1,2,0
+655,Create LICENSE,1818,True,False,,2020-08-17T00:31:04Z,0,2,1,1,21,0,21,0
+649,Update README.md,0,True,True,2020-08-17T00:29:30Z,2020-08-17T00:29:30Z,0,2,0,1,1,1,2,25157322.0
+650,Fixed a typo in README.md,0,True,False,,2020-08-17T00:28:43Z,1,3,1,1,1,1,2,0
+661,misspelled a word,0,True,False,,2020-08-17T00:28:13Z,1,3,1,1,1,1,2,0
+684,Minor spelling fix in readme,27,True,False,,2020-08-17T00:27:52Z,1,3,2,1,1,1,2,0
+709,Updated Readme Typo,57,True,False,,2020-08-17T00:26:58Z,0,1,0,1,1,1,2,0
+708,Test0,0,True,False,,2020-08-03T12:48:04Z,0,1,0,2,22,0,22,0
+654,Fix the 'Windows only' link in README-es,0,True,False,,2020-07-08T15:20:06Z,0,1,0,1,1,1,2,0
+652,fix: markdown bold syntax,66,True,False,,2020-05-09T07:40:24Z,1,3,1,1,4,4,8,0
+688,"Updated Readme MD, fixed issue with misspelling",0,True,False,,2020-04-13T19:02:46Z,0,1,0,1,1,1,2,0
+255,Excuting a script file,473,True,False,,2015-08-12T06:13:24Z,0,4,4,1,2,0,2,0
+593,Fix Typo in Contributing.md,0,True,False,,2020-01-28T14:44:49Z,0,1,0,1,1,1,2,0
+645,Merge pull request #1 from jlevy/master,9,True,False,,2019-10-17T10:17:51Z,0,2,1,0,0,0,0,0
+624,zh: Fix italic shape notation,0,True,False,,2019-10-13T08:04:03Z,0,1,1,1,2,2,4,0
+604,Add Cygwin specific command tips `explorer`,89,True,False,,2019-09-05T04:13:33Z,1,1,0,2,6,2,8,0
+171,`sed` alternative for replacing strings in files,0,True,False,,2019-07-04T16:33:33Z,1,2,0,1,4,0,4,0
+174,Add `xclip` for console/X11 interop,0,True,False,,2019-07-04T16:33:08Z,0,2,0,1,5,0,5,0
+277,Added for and while loop info.,12,True,False,,2019-06-25T18:15:23Z,0,1,1,1,10,0,10,0
+628,Awesome Tetris in Bash,22,True,False,,2019-06-15T09:27:01Z,0,1,0,1,1,0,1,0
+615,uodate,0,True,False,,2019-05-31T02:10:53Z,0,40,0,11,444,228,672,0
+591,Update README-zh.md,27,True,False,,2019-05-25T13:31:14Z,0,2,1,2,6,0,6,0
+585,Branch Testing,9,True,False,,2019-04-25T19:30:14Z,0,1,0,1,1,0,1,0
+580,zh-Hant: Update iconv and uconv example,70,True,True,2019-03-17T03:55:48Z,2019-03-17T03:55:48Z,1,3,2,1,6,2,8,12828046.0
+579,Add cheat sheet to commands,233,True,True,2018-10-10T23:32:09Z,2018-10-10T23:32:09Z,0,3,5,1,4,1,5,61233.0
+574,copy-editing around mention of pipefail,0,True,True,2018-10-03T21:29:20Z,2018-10-03T21:29:20Z,0,2,1,1,1,1,2,1619828.0
+567,Update `apt-get` to `apt`,186,True,True,2018-08-05T06:59:22Z,2018-08-05T06:59:22Z,0,3,3,1,1,1,2,1573142.0
+562,Update README-zh.md,10,True,False,,2018-08-19T01:16:30Z,0,1,1,1,1,18,19,0
+570,add koh7,4,True,False,,2018-08-19T01:03:42Z,0,2,3,1,1,0,1,0
+568,update README-ja.md,4,True,True,2018-08-19T00:35:51Z,2018-08-19T00:35:51Z,1,4,4,1,110,14,124,2509964.0
+572,minor language edit,0,True,True,2018-08-19T00:35:11Z,2018-08-19T00:35:11Z,0,5,2,1,1,1,2,414042.0
+571,fr: Synchronize the translation,0,True,True,2018-08-19T00:34:22Z,2018-08-19T00:34:22Z,1,2,0,1,46,30,76,1067676.0
+561,ko: Update Meta and Basics section,212,True,True,2018-08-05T06:55:43Z,2018-08-05T06:55:43Z,0,4,3,1,21,21,42,6611184.0
+563,sl: Update Slovenian translation,45,True,True,2018-06-15T05:57:42Z,2018-06-15T05:57:42Z,1,2,0,1,35,24,59,156684.0
+311,add an awesome tool,0,True,False,,2018-04-28T06:21:01Z,0,2,2,2,2,0,2,0
+557,de: Update README,62,True,True,2018-04-15T23:47:09Z,2018-04-15T23:47:09Z,0,3,2,1,1,1,2,117484.0
+554,Add pmonitor link and correct tools' description,0,True,True,2018-04-07T20:25:51Z,2018-04-07T20:25:51Z,0,2,1,1,1,1,2,391236.0
+550,"Expand on ""here document""",110,True,True,2018-04-07T20:22:00Z,2018-04-07T20:22:00Z,0,2,1,1,7,1,8,571777.0
+552,Rename OS X into the current macOS name,75,True,True,2018-04-07T20:10:15Z,2018-04-07T20:10:15Z,0,2,1,1,10,10,20,393115.0
+551,el: Update translation,25,True,True,2018-04-07T20:07:44Z,2018-04-07T20:07:44Z,2,3,3,1,31,23,54,415419.0
+546,Add ISO 8601 date command.,0,True,True,2018-03-05T19:54:47Z,2018-03-05T19:54:47Z,0,2,1,1,1,1,2,71.0
+498,Added nano editor on basics for starters,117,True,True,2018-03-19T17:37:05Z,2018-03-19T17:37:05Z,3,3,1,1,1,1,2,36031284.0
+545,Updated Disclaimer,19,True,False,,2018-03-19T17:25:37Z,0,2,1,1,1,1,2,0
+496,"Add new method for iterating command line arguments, extracting basename and extension from filename, as well as another sample of usage for rename command",0,True,False,,2018-02-13T02:52:14Z,0,1,0,1,17,0,17,0
+539,Mention that brace expansion is performed before any other expansion,82,True,True,2018-01-10T03:53:51Z,2018-01-10T03:53:51Z,0,2,1,1,3,1,4,174028.0
+540,Mention that `<(...)` refers to process substitution.,31,True,True,2018-01-10T03:50:56Z,2018-01-10T03:50:56Z,0,2,1,1,1,1,2,173823.0
+465,"Brace expansion, more *, process substitution language",194,True,False,,2018-01-08T03:35:02Z,0,2,4,1,3,3,6,0
+538,Rename WSL,277,True,True,2018-01-04T18:38:38Z,2018-01-04T18:38:38Z,0,3,8,1,1,1,2,254114.0
+535,Fix a typo and spacing words in Korean translation,0,True,True,2017-12-31T06:08:05Z,2017-12-31T06:08:05Z,1,3,2,1,1,1,2,3377955.0
+530,zh: Update translation,67,True,True,2017-11-22T00:41:42Z,2017-11-22T00:41:42Z,2,3,4,1,29,11,40,2573970.0
+527,sl: Update Slovenian translation,106,True,True,2017-11-22T00:41:06Z,2017-11-22T00:41:06Z,0,2,1,1,40,28,68,3380140.0
+532,fr: Synchronize the translation,0,True,True,2017-11-22T00:40:44Z,2017-11-22T00:40:44Z,0,2,1,1,36,23,59,1576412.0
+534,Fix wrong ripgrep link,0,True,True,2017-11-22T00:40:18Z,2017-11-22T00:40:18Z,0,2,1,1,1,1,2,61885.0
+524,mention jiq,0,True,True,2017-11-11T23:23:05Z,2017-11-11T23:23:05Z,0,2,1,1,1,1,2,4582791.0
+529,Remove duplicate shuf,58,True,True,2017-11-11T23:18:48Z,2017-11-11T23:18:48Z,0,2,1,1,0,2,2,2509165.0
+528,Fix OS X typo name,31,True,True,2017-11-11T23:17:28Z,2017-11-11T23:17:28Z,0,2,1,1,1,1,2,2511042.0
+520,zh-Hant: fix typo and formatting,0,True,True,2017-11-11T23:16:55Z,2017-11-11T23:16:55Z,0,3,4,1,7,7,14,10839221.0
+521,cs: typos,0,True,True,2017-11-11T23:16:26Z,2017-11-11T23:16:26Z,0,3,5,1,12,12,24,10480787.0
+526,zh-Hant: Correct markup effect in README-zh-Hant.md,65,True,True,2017-11-11T23:15:17Z,2017-11-11T23:15:17Z,0,5,4,1,1,1,2,3704047.0
+531,Fix a typo,0,True,False,,2017-11-03T10:24:54Z,0,1,1,1,1,1,2,0
+519,Edit README-ru.md,26,True,True,2017-09-17T01:23:42Z,2017-09-17T01:23:42Z,4,3,2,1,1,1,2,8350863.0
+523,Fix some errors in README-pt.md,47,True,True,2017-09-17T01:21:27Z,2017-09-17T01:21:27Z,0,2,1,1,13,13,26,2669917.0
+518,Reorganize Windows-only section per #477,146,True,True,2017-08-27T23:01:26Z,2017-08-27T23:01:26Z,0,2,1,3,51,17,68,7219883.0
+510,Fix Italian,0,True,True,2017-06-03T17:24:44Z,2017-06-03T17:24:44Z,0,2,2,1,2,2,4,3656445.0
+517,Rewords of the Romanian translation,222,True,True,2017-06-03T17:23:22Z,2017-06-03T17:23:23Z,0,2,1,1,2,2,4,223485.0
+439,ru: Typo fix,34,True,True,2017-06-03T17:09:44Z,2017-06-03T17:09:44Z,2,7,6,1,1,1,2,25678946.0
+447,ru: Fix typo,43,True,True,2017-05-20T17:41:53Z,2017-05-20T17:41:53Z,0,4,5,1,2,2,4,23445530.0
+494,Fix #399: mention wrk,0,True,True,2017-05-20T17:50:58Z,2017-05-20T17:50:59Z,0,2,3,1,1,1,2,10148123.0
+488,Fix #457: use lsof to see listening processes,0,True,True,2017-05-20T17:50:37Z,2017-05-20T17:50:37Z,0,2,1,1,1,1,2,10566105.0
+492,Fix #320: excessive cat usage,0,True,True,2017-05-20T17:46:06Z,2017-05-20T17:46:06Z,0,3,3,1,4,4,8,10563253.0
+487,Fix #428: add ldd security warning,0,True,True,2017-05-20T17:44:12Z,2017-05-20T17:44:12Z,0,2,1,1,1,1,2,10567686.0
+490,Fix #95: add info on progress while copying,0,True,True,2017-05-20T17:40:24Z,2017-05-20T17:40:24Z,0,2,1,1,2,2,4,10563431.0
+491,Fix #67: remove awk example duplicate,0,True,True,2017-05-20T17:36:38Z,2017-05-20T17:36:38Z,0,2,1,1,1,1,2,10563188.0
+495,Fix #285: mention file monitoring tools,0,True,True,2017-05-20T17:31:41Z,2017-05-20T17:31:41Z,0,2,2,1,2,0,2,10146954.0
+505,ru: Minor fixes,47,True,True,2017-05-02T04:22:03Z,2017-05-02T04:22:03Z,2,5,3,1,39,39,78,5401398.0
+501,uk: update Ukrainian translate,0,True,True,2017-04-12T18:57:49Z,2017-04-12T18:57:49Z,2,4,7,1,22,6,28,4417528.0
+507,ja: Fix an anchor link,31,True,True,2017-04-04T00:36:08Z,2017-04-04T00:36:08Z,0,3,2,1,10,10,20,465636.0
+486,Add caret substitution tip,43,True,False,,2017-04-04T01:26:35Z,0,2,1,1,8,0,8,0
+504,el: Update translation,25,True,True,2017-04-04T01:10:55Z,2017-04-04T01:10:55Z,2,3,4,1,42,25,67,3052886.0
+503,fr: Synchronize the translation,0,True,True,2017-04-04T01:06:16Z,2017-04-04T01:06:16Z,0,2,1,1,8,5,13,3123492.0
+502,Typo in one link (https://en.wikipedia.org/wiki/Perf_%28Linux%29),108,True,True,2017-04-04T01:04:05Z,2017-04-04T01:04:05Z,0,2,1,2,3,3,6,3162160.0
+506,Fix typo,17,True,True,2017-04-04T00:37:37Z,2017-04-04T00:37:37Z,2,5,2,2,2,2,4,2962945.0
+500,zh: Refinement,76,True,True,2017-02-19T20:23:13Z,2017-02-19T20:23:13Z,0,3,4,1,104,102,206,1396253.0
+497,Update authors - GH profile rename,86,True,True,2017-02-13T05:24:46Z,2017-02-13T05:24:46Z,0,2,1,2,3,3,6,1745476.0
+493,Fix #427: add strace -f option,0,True,True,2017-02-13T05:23:34Z,2017-02-13T05:23:34Z,0,3,2,1,1,1,2,2150927.0
+489,Mention fuser,0,True,True,2017-02-13T04:59:29Z,2017-02-13T04:59:29Z,0,2,1,1,1,1,2,2224827.0
+499,Added traceroute and route commands,54,True,True,2017-02-13T04:55:24Z,2017-02-13T04:55:24Z,0,2,1,1,1,1,2,1511377.0
+484,ru: translate sentence to Russian,0,True,True,2017-01-17T20:28:15Z,2017-01-17T20:28:15Z,4,4,2,1,1,1,2,1910293.0
+159,Add alternative to `fpp`,258,True,False,,2017-01-30T11:08:54Z,0,2,3,1,1,1,2,0
+376,ru: Corrected doc and translation,160,True,True,2016-02-17T23:16:03Z,2016-02-17T23:16:03Z,0,3,3,1,21,21,42,114501.0
+393,ru: Add link to Data Science,0,True,True,2016-06-01T04:43:06Z,2016-06-01T04:43:06Z,0,3,3,1,2,2,4,7420157.0
+400,Add commands for creating large dummy files,75,True,True,2017-01-16T23:29:57Z,2017-01-16T23:29:57Z,0,3,5,1,2,0,2,25973084.0
+479,Fixed the description of ctrl + u,141,True,True,2017-01-17T20:31:21Z,2017-01-17T20:31:21Z,2,4,4,3,3,3,6,5685008.0
+480,ru: Polish README-ru.md,29,True,True,2017-01-17T20:28:55Z,2017-01-17T20:28:55Z,3,5,6,1,1,1,2,5643261.0
+474,ru: Update README-ru.md,0,True,True,2016-11-01T18:27:40Z,2016-11-01T18:27:40Z,1,4,6,1,1,1,2,229694.0
+466,zh: Translation updates,64,True,True,2016-10-28T06:55:45Z,2016-10-28T06:55:45Z,0,3,5,1,21,4,25,750473.0
+478,ro: Fix some typos,68,True,True,2016-11-01T02:57:25Z,2016-11-01T02:57:25Z,0,3,2,1,7,7,14,24686.0
+408,Add xkill and function.,34,True,False,,2016-10-31T11:24:02Z,0,1,0,2,19,0,19,0
+473,Finish the Romanian translation,11,True,True,2016-10-31T01:49:34Z,2016-10-31T01:49:34Z,3,3,2,16,611,15,626,94449.0
+476,Update authors.,0,True,True,2016-10-31T02:47:54Z,2016-10-31T02:47:54Z,0,1,1,2,24,18,42,6.0
+460,Indonesian (ID) translation,0,True,True,2016-10-31T02:38:50Z,2016-10-31T02:38:50Z,1,3,4,16,606,15,621,4028217.0
+462,Add usage of `ps aux | grep <process>`,148,True,False,,2016-10-31T02:17:34Z,0,5,7,1,2,0,2,0
+469,Add missing backticks around a parameter,0,True,True,2016-10-31T02:00:40Z,2016-10-31T02:00:40Z,0,3,2,1,1,1,2,485864.0
+468,Fr: Synchronize the translation,0,True,True,2016-10-31T01:53:31Z,2016-10-31T01:53:31Z,0,2,1,1,33,11,44,485474.0
+470,remove one redundancy line,0,True,True,2016-10-30T02:11:59Z,2016-10-30T02:11:59Z,0,2,1,1,1,3,4,384998.0
+467,trivial fix,0,True,True,2016-10-25T04:41:21Z,2016-10-25T04:41:21Z,0,2,1,1,2,2,4,10438.0
+385,Add new command : hexedit,50,True,False,,2016-10-23T23:30:24Z,0,2,6,1,1,3,4,0
+386,Add two new commands: whoami and blkid,0,True,False,,2016-10-23T23:30:07Z,0,1,0,1,4,0,4,0
+463,sl: Update translation,0,True,True,2016-10-09T00:21:44Z,2016-10-09T00:21:44Z,0,2,1,1,16,5,21,460798.0
+444,sl: Update translation,0,True,True,2016-08-20T22:36:37Z,2016-08-20T22:36:37Z,0,2,1,1,8,0,8,169214.0
+437,zh:  Translation updates,76,True,True,2016-08-09T17:38:47Z,2016-08-09T17:38:47Z,0,3,2,1,7,7,14,1174225.0
+250,German translation and maintainer,95,True,True,2016-09-08T05:45:52Z,2016-09-08T05:45:52Z,0,3,23,2,597,0,597,34971840.0
+458,de translation; authors updates,14,True,True,2016-09-08T05:55:10Z,2016-09-08T05:55:10Z,0,1,1,15,55,39,94,14.0
+456,ko: Updates translation,58,True,True,2016-08-31T06:58:30Z,2016-08-31T06:58:30Z,0,3,3,1,221,102,323,94368.0
+450,Clarifications on su and sudo,75,True,True,2016-08-26T15:46:59Z,2016-08-26T15:46:59Z,0,3,7,1,3,2,5,323779.0
+452,Add links to some projects,49,True,True,2016-08-25T19:07:14Z,2016-08-25T19:07:14Z,0,2,1,14,148,148,296,53927.0
+446,zh-hant: fix an anchor link,0,True,True,2016-08-26T01:18:03Z,2016-08-26T01:18:03Z,0,3,4,1,1,1,2,340966.0
+429,README.md: Added default value variable expansion example,55,True,True,2016-08-25T17:51:51Z,2016-08-25T17:51:51Z,0,2,1,1,9,1,10,4093944.0
+451,es: Typo,175,True,True,2016-08-25T17:48:19Z,2016-08-25T17:48:19Z,0,4,5,1,1,1,2,186177.0
+443,xz instead of 7z per #417,8,True,True,2016-08-25T17:23:07Z,2016-08-25T17:23:07Z,0,2,1,1,1,1,2,675757.0
+416,Ru: Translate recent changes,0,True,True,2016-08-25T17:20:05Z,2016-08-25T17:20:05Z,0,4,4,1,8,6,14,7077790.0
+449,"Add an ""ask a question"" button",0,True,True,2016-08-22T18:24:09Z,2016-08-22T18:24:09Z,0,1,0,2,14,1,15,65.0
+440,es: Adding windows only translations in spanish versions where is missing,0,True,True,2016-08-21T16:38:52Z,2016-08-21T16:38:52Z,0,3,7,1,26,0,26,783895.0
+445,Resolve conflicts in changes submitted by `l13t`,73,True,True,2016-08-20T22:35:29Z,2016-08-20T22:35:29Z,0,3,1,1,28,23,51,150271.0
+411,Some changes in ukrainian translation.,71,True,True,2016-08-20T22:35:37Z,2016-08-20T22:35:37Z,0,3,7,1,24,24,48,7644678.0
+319,pt: Fixups,0,True,False,,2016-08-19T15:49:14Z,0,3,8,1,22,22,44,0
+430,sl: Update translation,0,True,True,2016-07-18T15:41:08Z,2016-07-18T15:41:08Z,0,2,1,1,5,3,8,35876.0
+431,Sentence fix and removal of some trailing whitespaces,0,True,True,2016-07-19T03:40:15Z,2016-07-19T03:40:15Z,0,2,1,1,3,3,6,34379.0
+397,Update Windows section,101,True,True,2016-08-11T21:11:58Z,2016-08-11T21:11:58Z,0,3,8,1,8,0,8,12943805.0
+398,"zh-hant: Translate the section ""Windows only""",0,True,True,2016-08-14T02:11:07Z,2016-08-14T02:11:07Z,0,5,6,1,19,1,20,12776568.0
+442,fr: Synchronize the translation,0,True,True,2016-08-14T01:31:30Z,2016-08-14T01:31:30Z,0,2,1,1,14,1,15,78921.0
+435,el: Update translation,25,True,True,2016-07-22T21:31:12Z,2016-07-22T21:31:12Z,0,4,3,1,7,4,11,89567.0
+418,Fix typos,41,True,True,2016-07-18T15:42:22Z,2016-07-18T15:42:22Z,0,2,1,2,3,3,6,3008882.0
+396,sl: Update translation,0,True,True,2016-03-20T22:23:08Z,2016-03-20T22:23:08Z,0,2,1,1,41,4,45,696292.0
+410,"Checking if a command is an executable, shell builtin or alias.",116,True,True,2016-06-03T15:05:30Z,2016-06-03T15:05:30Z,0,2,2,1,1,1,2,1113445.0
+415,add hyperlink of dtach 's GitHub homepage,112,True,True,2016-06-03T15:04:09Z,2016-06-03T15:04:09Z,0,2,1,1,1,1,2,8542.0
+414,fr: synchronize the translation & minor reword,0,True,True,2016-06-02T23:01:07Z,2016-06-02T23:01:07Z,0,2,1,1,6,2,8,26633.0
+413,Update authors/stats.,0,True,True,2016-06-01T06:38:50Z,2016-06-01T06:38:50Z,0,5,5,2,27,19,46,5.0
+384,add one abbreviation of history command,0,True,True,2016-06-01T04:48:29Z,2016-06-01T04:48:29Z,0,2,0,1,1,1,2,8865239.0
+409,uk: Stylistic changes.,61,True,True,2016-05-31T23:41:55Z,2016-05-31T23:41:55Z,0,3,5,1,42,31,73,1288493.0
+405,ru: Improve grammar (typos): Update README-ru.md,12,True,True,2016-05-24T23:03:01Z,2016-05-24T23:03:01Z,0,4,4,1,1,1,2,3541334.0
+407,[uk] awesome-osx-command-line translation updated,36,True,True,2016-05-05T17:05:42Z,2016-05-05T17:05:42Z,0,4,4,1,1,1,2,1522653.0
+406,[uk] Replace дебаггінг -> відладка.,78,True,True,2016-05-05T17:03:19Z,2016-05-05T17:03:19Z,0,4,9,1,10,10,20,1848441.0
+403,zh: Change some mouthful of words in chinese,0,True,True,2016-04-16T14:58:32Z,2016-04-16T14:58:32Z,0,3,5,1,10,9,19,795909.0
+404,Replaces usage of Ви -> ви in Ukrainian translation.,180,True,True,2016-04-12T04:11:13Z,2016-04-12T04:11:13Z,0,3,2,1,18,18,36,91011.0
+282,Add tmux examples,0,True,False,,2016-04-11T15:51:10Z,0,1,0,2,68,1,69,0
+208,Add example for find awk sed,0,True,False,,2016-04-11T15:51:06Z,0,1,0,1,3,1,4,0
+85,Added bash shortcuts in MacOS for moving back/forward one word,0,True,False,,2016-04-07T02:13:59Z,0,4,4,1,1,1,2,0
+402,zh: Change some ':' to '：' so it can keep in line whit the others.,0,True,True,2016-03-28T01:08:15Z,2016-03-28T01:08:15Z,0,3,2,1,4,4,8,63924.0
+395,zh: add several command line tools for OS X only section,80,True,False,,2016-03-27T07:21:58Z,0,3,3,1,6,4,10,0
+394,zh: fix broken link for the Windows section,0,True,True,2016-03-20T22:32:08Z,2016-03-20T22:32:08Z,0,3,2,1,2,2,4,1158135.0
+391,fr: Synchronize the translation,0,True,True,2016-03-20T22:25:29Z,2016-03-20T22:25:29Z,0,2,1,1,1,1,2,1401588.0
+392,"zh: Sync with the English version, line by line",0,True,True,2016-03-06T19:37:03Z,2016-03-06T19:37:03Z,0,3,7,1,82,22,104,119213.0
+116,brace expansion example.,0,True,True,2015-08-11T17:04:09Z,2015-08-11T17:04:09Z,0,2,1,1,4,0,4,4186954.0
+389,"add ""Data Science at the Commande Line"" link to More Resources",0,True,True,2016-03-04T16:12:31Z,2016-03-04T16:12:31Z,0,2,1,1,1,1,2,139446.0
+390,WIP - es: update translation,0,True,True,2016-03-04T16:10:42Z,2016-03-04T16:10:42Z,0,2,1,1,7,2,9,112784.0
+379,ru: Merged and translated recent changes,212,True,True,2016-02-28T02:05:15Z,2016-02-28T02:05:15Z,0,3,3,1,40,4,44,801374.0
+388,"FIX: Closed code quotes for ""el"" translation",345,True,True,2016-02-25T08:42:11Z,2016-02-25T08:42:11Z,0,3,3,1,2,1,3,29524.0
+387,Update roles and credits.,97,True,True,2016-02-20T19:00:21Z,2016-02-20T19:00:21Z,0,3,3,2,48,37,85,27.0
+383,Remove a redundant mention of `lsb_release',212,True,True,2016-02-20T18:53:28Z,2016-02-20T18:53:28Z,0,2,1,14,2,29,31,105595.0
+380,fr: Update the translation,0,True,True,2016-02-20T18:50:12Z,2016-02-20T18:50:12Z,0,2,1,1,44,1,45,158709.0
+381,el: Update translation,64,True,True,2016-02-20T18:09:42Z,2016-02-20T18:09:42Z,0,3,3,1,45,8,53,149674.0
+350,Add instructions to manage filenames with whitespaces,175,True,True,2016-01-22T21:21:17Z,2016-01-22T21:21:17Z,0,3,5,1,2,0,2,266529.0
+377,merge the-art-of-command-line,0,True,False,,2016-02-17T11:05:52Z,0,1,0,0,0,0,0,0
+375,"128K limit, chattr, rsync, other additions",0,True,True,2016-02-17T06:34:12Z,2016-02-17T06:34:12Z,0,3,11,1,19,0,19,210440.0
+361,Add short Microsoft Windows section,0,True,True,2016-02-17T06:31:55Z,2016-02-17T06:31:55Z,0,4,13,1,19,1,20,1889622.0
+367,sl: update translation,0,True,True,2016-01-29T08:41:20Z,2016-01-29T08:41:20Z,0,2,1,1,12,0,12,21623.0
+346,Fix typo,43,True,True,2016-01-18T20:34:19Z,2016-01-18T20:34:19Z,0,2,1,1,1,1,2,152461.0
+373,"Break the list of package managers, final part: update translations",184,True,True,2016-02-16T04:33:57Z,2016-02-16T04:33:57Z,0,2,1,11,11,11,22,623495.0
+370,zh: traditional/simplified labels,0,True,True,2016-02-15T16:32:24Z,2016-02-15T16:32:24Z,0,4,8,14,14,14,28,993523.0
+374,el: Update translation,0,True,True,2016-02-12T15:55:40Z,2016-02-12T15:55:40Z,0,2,1,1,1,1,2,24465.0
+372,Break list of package managers into separate words,141,True,True,2016-02-08T18:19:01Z,2016-02-08T18:19:01Z,0,2,1,1,1,1,2,147155.0
+364,fr: Update the translation,0,True,True,2016-02-01T02:17:29Z,2016-02-01T02:17:29Z,0,2,2,1,16,0,16,408109.0
+366,el: Greek translation and maintainer,4,True,True,2016-02-01T02:01:43Z,2016-02-01T02:01:43Z,0,3,5,1,511,0,511,279978.0
+369,Update author roles and stats.,13,True,True,2016-02-01T02:15:42Z,2016-02-01T02:15:42Z,0,1,1,2,10,6,16,214.0
+368,ua: Update translation,0,True,True,2016-02-01T02:01:23Z,2016-02-01T02:01:23Z,0,2,1,1,20,12,32,1114.0
+357,ru: sync&correct translate,28,True,True,2016-01-30T02:09:44Z,2016-01-30T02:09:44Z,0,3,6,1,145,78,223,390341.0
+355,sl: sync translation,0,True,True,2016-01-25T00:42:06Z,2016-01-25T00:42:06Z,0,2,1,1,4,0,4,166444.0
+359,Add .bashrc recommendation,0,True,True,2016-01-26T23:30:49Z,2016-01-26T23:30:49Z,0,4,3,1,6,0,6,50001.0
+362,Add version control management,0,True,True,2016-01-26T22:12:32Z,2016-01-26T22:12:32Z,0,3,2,1,2,0,2,45246.0
+363,Add command-specific environment settings,0,True,True,2016-01-26T22:10:53Z,2016-01-26T22:10:53Z,0,2,1,1,2,0,2,11500.0
+360,Add home directory basics,0,True,True,2016-01-26T22:03:32Z,2016-01-26T22:03:32Z,0,4,3,1,3,1,4,44737.0
+356,zh-Hant: Translate to Traditional Chinese,61,True,True,2016-01-25T23:47:01Z,2016-01-25T23:47:01Z,0,3,4,13,529,12,541,59296.0
+358,Traditional Chinese maintainer. Update authors.,17,True,True,2016-01-25T23:59:08Z,2016-01-25T23:59:08Z,0,1,1,2,8,4,12,146.0
+354,fr: Update the translation,0,True,True,2016-01-25T00:41:46Z,2016-01-25T00:41:46Z,0,3,1,1,5,0,5,166748.0
+347,sl: Update translation,0,True,True,2016-01-18T20:34:04Z,2016-01-18T20:34:04Z,0,2,1,1,7,7,14,138170.0
+333,zh: update taocl for chinese language,179,True,True,2016-01-18T20:35:25Z,2016-01-18T20:35:25Z,0,3,7,1,2,1,3,1096556.0
+325,es: Improved translation on first two sections,57,True,True,2016-01-20T17:54:41Z,2016-01-20T17:54:41Z,0,4,10,1,6,6,12,1568171.0
+353,fr: Make some improvements,35,True,True,2016-01-20T17:51:28Z,2016-01-20T17:51:28Z,0,2,2,1,4,4,8,36076.0
+344,fr: Add french translation,56,True,True,2016-01-19T18:51:45Z,2016-01-19T18:51:45Z,0,4,8,1,614,0,614,346494.0
+352,Update roles and authors file.,105,True,True,2016-01-20T03:22:54Z,2016-01-20T03:22:54Z,0,1,1,2,12,6,18,17.0
+265,Add command Xpath.,0,True,False,,2015-09-23T02:58:40Z,0,2,1,1,1,1,2,0
+264,Add byobu command.,0,True,True,2015-09-23T02:28:16Z,2015-09-23T02:28:16Z,0,2,1,1,1,1,2,3606304.0
+348,es: update OS X patching in spanish. ,15,True,True,2016-01-18T20:33:48Z,2016-01-18T20:33:48Z,0,2,1,1,7,7,14,45299.0
+145,man latin1 also provides code table,0,True,False,,2016-01-17T12:44:15Z,0,2,3,1,1,1,2,0
+345,Fix OS X naming,0,True,True,2016-01-17T02:50:24Z,2016-01-17T02:50:24Z,0,2,1,1,7,7,14,2472.0
+340,sl: Update translation,0,True,True,2016-01-10T01:46:27Z,2016-01-10T01:46:27Z,0,2,1,1,6,6,12,1105.0
+307,Italian translation here!,105,True,True,2015-11-29T23:29:57Z,2015-11-29T23:29:57Z,0,3,5,1,538,0,538,190135.0
+341,es: update translation. (11-01-2016),49,True,True,2016-01-12T08:46:55Z,2016-01-12T08:46:55Z,0,2,1,1,4,3,7,85456.0
+275,Add PHP and Jekyll Webserver in Readme-EN,75,True,False,,2016-01-10T02:31:25Z,0,2,1,1,5,1,6,0
+308,Italian translation here!,80,True,False,,2016-01-10T01:56:35Z,0,2,1,1,538,0,538,0
+206,Fix MacOS X only navigation,0,True,True,2015-07-15T03:03:44Z,2015-07-15T03:03:44Z,0,2,1,1,2,2,4,13136.0
+339,Alphabetize translation links.,69,True,True,2016-01-10T00:56:13Z,2016-01-10T00:56:13Z,0,2,1,11,12,11,23,91296.0
+102,fr: WIP: FR translation,55,True,False,,2016-01-10T00:49:11Z,0,4,3,2,452,3,455,0
+336,Add contribution guidelines.,179,True,True,2016-01-08T00:27:18Z,2016-01-08T00:27:18Z,0,7,10,1,52,0,52,66902.0
+338,Contrib guidelines,103,True,True,2016-01-07T15:40:20Z,2016-01-07T15:40:20Z,0,2,2,1,6,5,11,25691.0
+322,it: Typo fix,24,True,True,2016-01-07T15:54:28Z,2016-01-07T15:54:28Z,0,3,3,1,1,1,2,685507.0
+334,cs: language added,74,True,True,2016-01-07T15:45:22Z,2016-01-07T15:45:22Z,0,2,2,11,535,10,545,116401.0
+335,uk: sync translate with last changes,0,True,True,2016-01-07T05:54:43Z,2016-01-07T05:54:43Z,0,2,1,1,4,4,8,28193.0
+326,ja: updated to the latest version,126,True,True,2016-01-06T11:36:37Z,2016-01-06T11:36:37Z,0,3,3,1,116,46,162,241920.0
+327,Arabic version,178,True,False,,2016-01-06T03:51:47Z,0,2,4,11,538,10,548,0
+332,update taocl for chinese language,179,True,False,,2016-01-06T03:55:01Z,0,31,0,12,1999,288,2287,0
+331,"Typo in One Liners - ""If want to""",0,True,True,2016-01-06T00:52:29Z,2016-01-06T00:52:29Z,0,2,1,1,1,1,2,5155.0
+321,Fix #318: s/MacOS X/OS X,0,True,True,2015-12-31T16:25:03Z,2015-12-31T16:25:03Z,0,5,5,7,20,20,40,84318.0
+315,zh: fix a typo,17,True,True,2016-01-02T13:55:22Z,2016-01-02T13:55:22Z,0,3,2,1,1,1,2,1152724.0
+324,Delete cowsay.png,0,True,False,,2016-01-02T13:54:38Z,0,1,2,1,0,0,0,0
+323,Update missing translation for spanish,94,True,True,2015-12-31T16:02:28Z,2015-12-31T16:02:28Z,0,3,3,1,5,5,10,14242.0
+317,uk: typo and word by word translate mistakes fixes,0,True,True,2015-12-31T16:50:15Z,2015-12-31T16:50:15Z,0,2,1,1,44,44,88,324664.0
+314,Add xkill and functions,0,True,False,,2015-12-15T18:35:47Z,0,2,1,1,6,0,6,0
+313,ja: fixed Japanese kanji.,80,True,True,2015-12-09T06:52:25Z,2015-12-09T06:52:25Z,0,4,4,1,1,1,2,145634.0
+310,ko: Correct spelling,32,True,True,2015-12-09T03:49:32Z,2015-12-09T03:49:32Z,0,4,4,1,1,1,2,520915.0
+312,Stepan ua,0,True,True,2015-12-06T19:23:12Z,2015-12-06T19:23:12Z,0,2,1,1,2,1,3,253784.0
+309,Fix anchors for Spanish version,0,True,True,2015-12-03T06:06:43Z,2015-12-03T06:06:43Z,0,2,2,1,8,8,16,81484.0
+294,typo （修改错别字）,19,True,True,2015-11-28T19:59:55Z,2015-11-28T19:59:55Z,0,4,5,1,1,1,2,4467407.0
+304,zh: Update translation.,58,True,True,2015-12-02T02:08:29Z,2015-12-02T02:08:29Z,0,3,14,2,43,28,71,2061961.0
+306,zh: Fix error in du command.,114,True,True,2015-11-30T16:04:04Z,2015-11-30T16:04:04Z,0,3,2,1,1,1,2,1133571.0
+303,sl: sync translation,0,True,True,2015-11-08T01:24:18Z,2015-11-08T01:24:18Z,0,2,1,1,11,9,20,150148.0
+295,ja: Tweak the tone,72,True,True,2015-11-11T00:38:12Z,2015-11-11T00:38:12Z,0,3,5,1,8,8,16,2838621.0
+302,es: spanish translation update.,0,True,True,2015-11-10T16:03:51Z,2015-11-10T16:03:51Z,0,2,3,1,10,6,16,633439.0
+301,Update redirects,54,True,True,2015-11-04T23:32:00Z,2015-11-04T23:32:00Z,0,3,2,1,3,3,6,152328.0
+299,uk: Ukrainian translation,19,True,True,2015-11-03T01:14:01Z,2015-11-03T01:14:01Z,0,2,4,11,354,8,362,530713.0
+297,sl: update translation,0,True,True,2015-10-23T17:02:59Z,2015-10-23T17:02:59Z,0,2,1,1,1,0,1,76956.0
+300,Added timeout command,50,True,True,2015-11-02T03:28:17Z,2015-11-02T03:28:17Z,0,2,1,1,2,0,2,291506.0
+298,es: spanish translation update.,36,True,True,2015-10-25T01:18:33Z,2015-10-25T01:18:33Z,0,2,1,2,59,23,82,32584.0
+290,sl: update translation,0,True,True,2015-10-08T22:03:54Z,2015-10-08T22:03:54Z,0,2,1,1,13,5,18,282241.0
+113,Mention Busybox.,0,True,False,,2015-10-12T06:14:16Z,0,1,0,1,1,0,1,0
+293,zh: Update,43,True,True,2015-10-06T14:23:38Z,2015-10-06T14:23:38Z,0,2,1,2,49,23,72,3614.0
+292,Tweak the language for the grep . * tip.,193,True,True,2015-10-06T04:14:10Z,2015-10-06T04:14:10Z,0,2,1,1,1,1,2,19823.0
+288,sl: update translation,0,True,True,2015-09-25T21:09:09Z,2015-09-25T21:09:09Z,0,2,1,1,1,1,2,76722.0
+173,Add more binary viewers/editors,0,True,True,2015-10-03T14:52:44Z,2015-10-03T14:52:44Z,0,2,2,1,2,2,4,7449893.0
+289,Track and acknowledge authors.,169,True,True,2015-09-30T08:37:17Z,2015-09-30T08:37:17Z,0,15,17,3,122,2,124,321.0
+283,ja: Japanese translation,309,True,True,2015-10-01T15:45:26Z,2015-10-01T15:45:26Z,0,2,3,1,454,0,454,2887359.0
+170,Use `&>` for redirecting stdout & stderr,0,True,False,,2015-09-30T22:29:31Z,0,1,0,1,1,1,2,0
+172,Add more info about JDK,57,True,True,2015-07-14T08:48:53Z,2015-07-14T08:48:53Z,0,2,1,1,1,0,1,429927.0
+273,Cover inode,96,True,True,2015-09-23T02:41:11Z,2015-09-23T02:41:11Z,0,2,1,1,1,1,2,3457615.0
+287,sl: update Slovenian translation,0,True,True,2015-09-23T16:28:24Z,2015-09-23T16:28:24Z,0,2,1,1,10,2,12,20854.0
+279,sl: Update translation,0,True,True,2015-08-19T07:07:06Z,2015-08-19T07:07:06Z,0,2,1,1,8,4,12,115988.0
+168,Update README-ru.md,40,True,False,,2015-09-23T02:52:01Z,0,2,1,1,1,1,2,0
+175,ru: Some fixes,136,True,False,,2015-09-23T02:47:28Z,0,2,3,1,46,46,92,0
+181,Add shyaml,147,True,True,2015-09-23T02:45:55Z,2015-09-23T02:45:55Z,0,2,2,1,2,0,2,6473456.0
+205,Added Mosh. It's awesome.,0,True,True,2015-09-23T02:40:30Z,2015-09-23T02:40:30Z,0,2,2,1,2,0,2,6076938.0
+239,Added example of backreferences in Perl one-liners.,277,True,False,,2015-09-23T02:39:15Z,0,2,2,1,26,0,26,0
+253,Small documentation update.,232,True,False,,2015-09-23T02:27:48Z,0,2,4,1,8,3,11,0
+271,adding ctrl-alt-t,0,True,False,,2015-09-23T02:21:04Z,0,3,3,1,2,0,2,0
+286,"Add ""lockfile"" and ""logrorate"" ",30,True,True,2015-09-23T02:16:10Z,2015-09-23T02:16:10Z,0,2,1,1,4,0,4,159624.0
+278,"Cover set -v, set -u, and more on trap.",0,True,True,2015-08-17T07:25:27Z,2015-08-17T07:25:27Z,0,1,0,1,6,3,9,233.0
+272,sl: update translation,0,True,True,2015-08-15T08:56:29Z,2015-08-15T08:56:29Z,0,2,1,1,16,5,21,114986.0
+276,The easy way to redirect both standard output and standard error,122,True,True,2015-08-15T17:06:41Z,2015-08-15T17:06:41Z,0,3,3,1,1,1,2,23069.0
+270,A reference to dateutils,51,True,True,2015-08-13T03:16:45Z,2015-08-13T03:16:45Z,0,2,1,1,2,0,2,61524.0
+260,Fix for #146.,0,True,True,2015-08-11T17:03:53Z,2015-08-11T17:03:53Z,0,2,1,1,1,1,2,18277.0
+259,Add vimdiff and sdiff command.,84,True,True,2015-08-11T17:15:37Z,2015-08-11T17:15:37Z,0,2,1,1,3,1,4,20443.0
+254,Use `Tab` to list available commands,197,True,True,2015-08-12T06:21:53Z,2015-08-12T06:21:53Z,0,2,2,1,1,1,2,601576.0
+132,"added apg, closes #101",0,True,True,2015-08-12T06:42:41Z,2015-08-12T06:42:41Z,0,2,2,1,2,0,2,3971309.0
+257,Add newline conversion,0,True,False,,2015-08-12T06:06:22Z,0,2,1,1,5,0,5,0
+1,Adds a one liner,68,True,False,,2015-05-29T17:30:50Z,0,2,3,1,20,0,20,0
+71,"added URL about using filenames in shell , and more ""human"" du with sort",124,True,False,,2015-08-11T03:47:12Z,0,2,1,1,2,1,3,0
+64,Added basics point on compiling packages from source,143,True,False,,2015-08-11T03:39:28Z,0,2,2,1,2,0,2,0
+252,sl: update translation#,0,True,True,2015-08-04T19:17:41Z,2015-08-04T19:17:41Z,0,2,1,1,5,3,8,23399.0
+251,Fix a typo. modifno should be modinfo,0,True,True,2015-08-04T19:17:03Z,2015-08-04T19:17:03Z,0,2,1,1,1,1,2,60782.0
+247,sl: update translation,0,True,True,2015-07-29T16:31:04Z,2015-07-29T16:31:04Z,0,2,1,1,8,2,10,38581.0
+248,Simplify explanation of the Option key on Mac OS X,0,True,True,2015-07-29T16:30:37Z,2015-07-29T16:30:37Z,0,2,1,1,1,1,2,38277.0
+52,Added some navigation hints,0,True,False,,2015-08-04T04:43:05Z,0,3,2,1,4,2,6,0
+55,Manageable installations with 'pip',0,True,False,,2015-08-04T04:44:36Z,0,3,2,1,1,1,2,0
+62,Add watch command,75,True,False,,2015-08-04T04:39:38Z,0,4,3,1,6,0,6,0
+235,zh: Update README-zh.md,12,True,True,2015-08-03T15:22:51Z,2015-08-03T15:22:51Z,0,3,2,1,20,8,28,765787.0
+249,Add iostat example. Improve langauge.,11,True,True,2015-08-03T15:21:59Z,2015-08-03T15:21:59Z,0,1,0,1,4,2,6,377102.0
+229,es: improve translation and updates translation from 18/07/2015 to 28/07/2015,0,True,True,2015-07-29T21:17:34Z,2015-07-29T21:17:34Z,0,4,8,1,141,129,270,445815.0
+242,sl: update translation,0,True,True,2015-07-28T05:19:38Z,2015-07-28T05:19:38Z,0,2,1,1,2,0,2,209243.0
+240,Added example of the `column` command.,60,True,False,,2015-07-28T05:58:24Z,0,4,5,1,16,0,16,0
+241,Added examples of the `watch` command.,169,True,False,,2015-07-28T05:52:20Z,0,3,2,1,12,0,12,0
+232,Add link to shellcheck,41,True,True,2015-07-28T05:35:38Z,2015-07-28T05:35:38Z,0,2,1,1,1,0,1,214457.0
+203,fixed keyboard shortcut for last argument (ctrl-r -> alt-_),0,True,False,,2015-07-28T05:25:24Z,0,2,1,1,1,1,2,0
+216,es: Improvements for 'es' translation ,167,True,False,,2015-07-27T23:41:24Z,0,3,4,1,92,92,184,0
+222,es: Revision and translation,28,True,False,,2015-07-27T23:09:29Z,0,3,8,1,119,119,238,0
+243,zh：update translation,0,True,False,,2015-07-26T07:27:14Z,0,1,0,1,16,6,22,0
+227,sl: Update translation,0,True,True,2015-07-24T01:03:22Z,2015-07-24T01:03:22Z,0,2,1,1,13,3,16,968.0
+238,Example of the '`column` command`.,54,True,False,,2015-07-25T18:50:56Z,0,1,0,1,42,0,42,0
+233,Added example of backreferences in Perl one-liners.,277,True,False,,2015-07-25T18:48:51Z,0,1,1,1,42,0,42,0
+228,Korean Translation update,0,True,True,2015-07-25T18:13:58Z,2015-07-25T18:13:58Z,0,2,1,1,22,18,40,138411.0
+230,Add sysctl command,81,True,True,2015-07-25T18:13:27Z,2015-07-25T18:13:27Z,0,2,1,1,2,0,2,79548.0
+155,es - updates from the initial transalation,4,True,True,2015-07-04T05:30:46Z,2015-07-04T05:30:46Z,0,2,2,1,35,12,47,38054.0
+182,Korean translation,53,True,True,2015-07-11T22:58:12Z,2015-07-11T22:58:12Z,0,4,3,1,470,0,470,148781.0
+212,sl: Update translation,0,True,True,2015-07-17T07:08:22Z,2015-07-17T07:08:22Z,0,2,1,1,1,1,2,55144.0
+221,"Add `-C` (context) to list of grep options, since it goes well with `-A` and `-B`",0,True,True,2015-07-23T23:58:39Z,2015-07-23T23:58:39Z,0,2,1,1,1,1,2,274772.0
+219,"Added proc files like meminfo, cmdline and added command references...",28,True,True,2015-07-23T23:42:44Z,2015-07-23T23:42:44Z,0,3,1,1,12,2,14,387165.0
+217,Add 'time',23,True,True,2015-07-23T23:34:40Z,2015-07-23T23:34:40Z,0,2,1,1,2,0,2,408567.0
+220,Add sysctl,81,True,False,,2015-07-23T23:33:40Z,0,2,2,1,6,1,7,0
+225,Rebase to the current master branch,0,True,False,,2015-07-23T12:22:52Z,0,1,0,1,48,48,96,0
+218,"Added proc files such as /proc/meminfo, /proc/cmdline and commands like lsmod, modinfo, uptime",94,True,False,,2015-07-19T11:21:00Z,0,2,0,1,8,2,10,0
+214,Python one liner and cat fix,79,True,False,,2015-07-18T06:49:58Z,0,2,1,1,5,1,6,0
+213,es: orthography corrections,0,True,True,2015-07-18T06:46:59Z,2015-07-18T06:46:59Z,0,2,1,1,48,48,96,135530.0
+215,Merge pull request #2from jlevy/master,7,True,False,,2015-07-17T12:25:03Z,0,1,0,0,0,0,0,0
+207,sl: Update translation,0,True,True,2015-07-15T03:01:50Z,2015-07-15T03:01:50Z,0,2,1,1,4,4,8,12808.0
+201,ru: Update README-ru.md,15,True,True,2015-07-16T15:26:56Z,2015-07-16T15:26:56Z,0,2,1,1,1,1,2,192731.0
+209,Include invert-match flag for grep.,221,True,True,2015-07-16T15:21:57Z,2015-07-16T15:21:57Z,0,2,1,1,1,1,2,82272.0
+200,zh: update translation to the latest,8,True,True,2015-07-16T15:21:26Z,2015-07-16T15:21:26Z,0,3,2,1,7,13,20,192952.0
+210,es: translation of last commits.,0,True,True,2015-07-16T06:16:14Z,2015-07-16T06:16:14Z,0,2,1,1,4,4,8,41241.0
+195,"Add example using awk, sed and find.",0,True,False,,2015-07-15T09:12:16Z,0,1,1,1,3,1,4,0
+180,ru: Major improvements in Russian version,190,True,True,2015-07-14T22:39:22Z,2015-07-14T22:39:22Z,0,10,4,3,125,131,256,439710.0
+178,ru: Fixed some typos in README-ru.md,0,True,True,2015-07-14T22:39:25Z,2015-07-14T22:39:25Z,0,3,2,1,4,4,8,450979.0
+177,ru: Polish README-ru.md. Fixed different typos.,191,True,True,2015-07-14T22:39:25Z,2015-07-14T22:39:25Z,0,3,2,1,63,63,126,457899.0
+204,es - updates: translation of last commits. ,0,True,True,2015-07-14T18:23:02Z,2015-07-14T18:23:02Z,0,2,1,1,1,7,8,7118.0
+202,sl: Update translation according to updates in English,0,True,True,2015-07-14T14:37:02Z,2015-07-14T14:37:02Z,0,2,1,1,1,7,8,8887.0
+193,sl: update translation according to English,0,True,True,2015-07-13T19:29:29Z,2015-07-13T19:29:29Z,0,2,1,1,3,3,6,27402.0
+194,Remove duplicate xargs usage,126,True,False,,2015-07-14T08:45:41Z,0,2,2,1,0,6,6,0
+198,zh: update translation to the latest and remove unneeded white spaces,50,True,False,,2015-07-14T09:36:47Z,0,3,1,2,7,19,26,0
+197,Fixed Korean typos,115,True,True,2015-07-14T07:59:17Z,2015-07-14T07:59:17Z,0,3,3,1,4,4,8,11529.0
+196,es: update translation the last commits,0,True,True,2015-07-13T19:22:54Z,2015-07-13T19:22:54Z,0,2,1,1,6,6,12,6226.0
+176,ru: Fixed wrong description of ctrl-k combination in Russian,140,True,False,,2015-07-13T16:00:59Z,0,2,2,1,1,1,2,0
+192,Link to a few projects.,42,True,True,2015-07-13T02:35:18Z,2015-07-13T02:35:18Z,0,2,2,1,2,2,4,45297.0
+189,sl: Slovenian translation,199,True,True,2015-07-13T02:25:58Z,2015-07-13T02:25:58Z,0,2,1,1,476,0,476,94548.0
+191,"Fix some typos, add link to jq",0,True,True,2015-07-13T02:40:50Z,2015-07-13T02:40:50Z,0,3,2,1,3,3,6,60004.0
+188,Fix typos in Obscure but useful section,0,True,True,2015-07-11T22:37:59Z,2015-07-11T22:37:59Z,0,2,1,1,3,3,6,16694.0
+190,Update korean translation,0,True,True,2015-07-13T02:45:10Z,2015-07-13T02:45:10Z,0,2,2,1,14,8,22,80311.0
+187,Adding ctrl-a and ctrl-e keybindings to English and Spanish versions,68,True,True,2015-07-11T23:00:21Z,2015-07-11T23:00:21Z,0,3,2,2,2,2,4,87978.0
+184,Added file command under Processing files and data,63,True,False,,2015-07-11T01:35:29Z,0,3,1,1,4,0,4,0
+183,es: update the last commits.,10,True,True,2015-07-10T16:33:44Z,2015-07-10T16:33:44Z,0,2,1,1,1,1,2,26956.0
+120,Added bullet for alias. Fixes #119,0,True,True,2015-07-03T09:10:57Z,2015-07-03T09:10:57Z,0,3,2,1,2,0,2,754707.0
+169,Typo in `du -hk *` for summary,113,True,True,2015-07-10T00:57:07Z,2015-07-10T00:57:07Z,0,2,1,1,1,1,2,58060.0
+164,es: Grammar and orthography checks,39,True,True,2015-07-08T15:16:01Z,2015-07-08T15:16:01Z,0,3,4,1,70,70,140,73508.0
+162,es: Revisions to the spanish version,46,True,False,,2015-07-07T18:53:50Z,0,1,1,1,30,30,60,0
+163,ru: Fixed typos in Russian translation,0,True,True,2015-07-07T19:27:24Z,2015-07-07T19:27:24Z,0,3,1,1,14,14,28,2757.0
+160,Russian version of the art of command line,201,True,True,2015-07-07T15:16:05Z,2015-07-07T15:16:05Z,0,3,2,5,538,64,602,39979.0
+161,zh: Merge English updates,0,True,True,2015-07-07T15:26:46Z,2015-07-07T15:26:46Z,0,2,1,1,16,12,28,15002.0
+86,Added mmv,0,True,False,,2015-07-05T09:27:48Z,0,4,5,1,2,0,2,0
+156,zh: Add Chinese translation for Mac only section,77,True,True,2015-07-06T05:41:33Z,2015-07-06T05:41:33Z,0,3,5,1,15,1,16,200050.0
+154,fixed typo,0,True,True,2015-07-04T05:28:34Z,2015-07-04T05:28:34Z,0,2,1,1,1,1,2,63833.0
+122,es: WIP: Spanish translation,4,True,True,2015-07-03T16:53:34Z,2015-07-03T16:53:34Z,0,3,4,1,450,0,450,773591.0
+60,add description and example of sponge,101,True,False,,2015-07-03T08:13:39Z,0,2,3,1,17,0,17,0
+134,"(macos) adds mdls to ""obscure but useful commands""",142,True,False,,2015-07-03T03:14:01Z,0,2,4,1,2,0,2,0
+148,zh: Use full-width punctuation marks in Chinese,105,True,True,2015-07-01T08:14:28Z,2015-07-01T08:14:28Z,0,2,0,1,125,125,250,55808.0
+141,pt: Corrections,31,True,True,2015-06-30T06:12:08Z,2015-06-30T06:12:08Z,0,2,0,1,41,42,83,93210.0
+144,zh: Fix typos,70,True,True,2015-06-30T05:58:14Z,2015-06-30T05:58:14Z,0,3,2,1,2,2,4,10484.0
+140,zh: fix typo,3,True,False,,2015-06-30T05:58:14Z,0,2,1,1,1,1,2,0
+110,zh: change some words,0,True,False,,2015-06-30T05:54:02Z,0,4,18,1,1,1,2,0
+143,zh:just one word,0,True,True,2015-06-30T05:53:56Z,2015-06-30T05:53:56Z,0,3,1,1,1,1,2,10885.0
+142,zh: Merge English updates,15,True,True,2015-06-29T19:03:39Z,2015-06-29T19:03:39Z,0,3,1,1,6,7,13,1156.0
+133,zh: Add a half-width space between English and Chinese words,216,True,True,2015-06-29T18:18:37Z,2015-06-29T18:18:37Z,0,4,16,1,112,113,225,195049.0
+139,zh: Adjust indentation,44,True,False,,2015-06-29T04:06:00Z,0,2,1,1,35,35,70,0
+138,Add a Gitter chat badge to README.md,382,True,True,2015-06-28T18:05:31Z,2015-06-28T18:05:31Z,0,2,0,1,2,0,2,66.0
+135,du -hs instead of -sk,250,True,True,2015-06-28T17:53:12Z,2015-06-28T17:53:12Z,0,2,1,1,1,1,2,85869.0
+136,Added commands to get info about hardware,75,True,False,,2015-06-28T17:49:14Z,0,2,1,1,15,2,17,0
+137,Add portuguese translation - README-pt.md,4,True,True,2015-06-28T17:12:47Z,2015-06-28T17:12:47Z,0,2,0,2,452,1,453,11839.0
+128,zh: README-zh.md: Trivial improvements,0,True,True,2015-06-27T00:17:22Z,2015-06-27T00:17:22Z,0,3,5,1,8,8,16,75237.0
+125,zh: Update Chinese translation in introductory paragraph,120,True,False,,2015-06-26T08:14:12Z,0,3,10,1,1,1,2,0
+127,Just Did a spelling correction with License,75,True,True,2015-06-26T05:07:56Z,2015-06-26T05:07:56Z,0,2,1,1,1,1,2,48133.0
+123,zh: Sync with README.md,0,True,True,2015-06-25T03:36:33Z,2015-06-25T03:36:33Z,0,2,1,1,16,11,27,2374.0
+111,zh: Update README-zh.md,10,True,False,,2015-06-24T15:21:30Z,0,3,3,1,1,1,2,0
+117,zh: Use Full-width comma and fix typos,123,True,True,2015-06-24T15:19:04Z,2015-06-24T15:19:04Z,0,3,4,1,82,82,164,27630.0
+90,"taocl ""fortune"" function: avoid dependency on pandoc and xmlstarlet",87,True,False,,2015-06-25T02:33:37Z,0,2,1,1,2,5,7,0
+93,Adding link to Tmux site,48,True,True,2015-06-24T15:27:57Z,2015-06-24T15:27:57Z,0,2,1,1,1,1,2,264756.0
+112,mention lspci,0,True,False,,2015-06-24T15:14:11Z,0,2,1,1,4,0,4,0
+106,Add cowsay,224,True,False,,2015-06-24T15:10:53Z,0,2,1,1,2,0,2,0
+76,Added Python 3 version of simple web server,44,True,True,2015-06-20T06:23:37Z,2015-06-20T06:23:37Z,0,2,1,1,1,1,2,133424.0
+104,"Added ""pv"" to ""Obscure but useful""",1214,True,True,2015-06-24T15:04:28Z,2015-06-24T15:04:28Z,0,2,1,1,2,0,2,201971.0
+70,cmatrix command added to obscure and useful(ish),86,True,False,,2015-06-24T14:56:38Z,0,4,3,1,2,0,2,0
+109,Added lsblk command,66,True,True,2015-06-23T01:49:47Z,2015-06-23T01:49:47Z,0,2,1,1,2,0,2,338.0
+92,remove a duplicator `for`,0,True,True,2015-06-21T07:55:24Z,2015-06-21T07:55:24Z,0,2,1,1,1,1,2,1412.0
+100,Add languages link for Chinese.,0,True,True,2015-06-21T22:41:02Z,2015-06-21T22:41:02Z,0,2,3,1,2,0,2,19580.0
+97,Added a mising *,0,True,True,2015-06-21T16:43:16Z,2015-06-21T16:43:16Z,0,2,1,1,1,1,2,3224.0
+94,Add README-zh.md,22,True,True,2015-06-21T16:48:55Z,2015-06-21T16:48:55Z,0,3,1,1,445,0,445,3914.0
+98,Added pacman in install options.,31,True,True,2015-06-21T16:44:15Z,2015-06-21T16:44:15Z,0,2,1,1,2,2,4,2102.0
+10,netstat is long deprecated on linux. Use ss instead.,0,True,True,2015-06-20T05:56:38Z,2015-06-20T05:56:38Z,0,4,3,1,1,1,2,366798.0
+74,Tmux and screen,182,True,False,,2015-06-20T06:21:04Z,0,2,3,1,2,0,2,0
+40,New commands to the list.,134,True,True,2015-06-20T07:49:31Z,2015-06-20T07:49:31Z,0,2,2,1,10,0,10,320558.0
+80,Add units program,59,True,True,2015-06-20T16:08:42Z,2015-06-20T16:08:42Z,0,4,3,1,1,0,1,103369.0
+65,Add apropos,0,True,False,,2015-06-20T07:19:56Z,0,2,1,1,2,0,2,0
+77,Add equivalent of quick http server with python 3,0,True,False,,2015-06-20T07:13:25Z,0,2,1,1,1,1,2,0
+30,add history shortcuts,50,True,False,,2015-06-20T07:10:41Z,0,2,3,1,9,0,9,0
+39,Add history and bang commands,0,True,False,,2015-06-20T07:10:41Z,0,3,2,1,5,0,5,0
+44,Add tree,72,True,True,2015-06-20T06:50:15Z,2015-06-20T06:50:15Z,0,3,4,1,2,0,2,309543.0
+81,Sorted obscure commands alphabetically.,38,True,False,,2015-06-20T06:54:05Z,0,2,3,1,55,55,110,0
+83,Python confirm,140,True,False,,2015-06-20T06:24:47Z,0,4,4,1,18,2,20,0
+49,Python 3 support for http.server,140,True,False,,2015-06-20T06:24:23Z,0,6,7,1,6,1,7,0
+56,"Disk, sed, netstat -tulpn",346,True,False,,2015-06-20T06:17:11Z,0,2,1,1,8,1,9,0
+72,"Added tmux to ""obscure but useful""",262,True,False,,2015-06-20T06:14:55Z,0,2,0,1,2,0,2,0
+9,"Added a suggestion to add ""set -o vi"" to ~/.bash_rc to enable vim-keybindings in bash",159,True,True,2015-06-20T05:54:57Z,2015-06-20T05:54:57Z,0,3,3,1,2,0,2,366823.0
+50,"Add zcat, zmore, zless, zgrep",0,True,True,2015-06-17T03:08:59Z,2015-06-17T03:09:00Z,0,2,1,1,2,0,2,10130.0
+63,Just pipe straight to sort with -u flag: faster and one less pipe,106,True,False,,2015-06-18T03:07:26Z,0,2,1,1,1,1,2,0
+51,Add 'grep . *' oneliner trick for high-level scan of a directory,41,True,True,2015-06-17T22:27:06Z,2015-06-17T22:27:06Z,0,5,5,1,6,0,6,57643.0
+59,Added the tab key,48,True,False,,2015-06-17T17:42:27Z,0,2,1,1,2,0,2,0
+27,sort has built-in uniq with -u,0,True,False,,2015-06-17T17:10:14Z,0,2,1,1,2,2,4,0
+53,Added a Networking commands section .Added some frequently used networking commands,84,True,False,,2015-06-17T17:03:53Z,0,2,1,1,6,0,6,0
+58,"Added ""ctrl-l"" command that I use everyday",47,True,True,2015-06-17T16:53:16Z,2015-06-17T16:53:16Z,0,2,1,1,2,0,2,924.0
+47,Added ssh options to multiplex channels to the same server,93,True,True,2015-06-17T02:52:09Z,2015-06-17T02:52:09Z,0,2,3,1,4,1,5,26243.0
+48,"Add tailf, zcat, zmore, zless, zgrep",0,True,False,,2015-06-16T23:43:37Z,0,2,2,1,2,0,2,0
+42,"Yum is being deprecated in favor of DNF, add a mention of dnf",111,True,True,2015-06-16T22:48:10Z,2015-06-16T22:48:10Z,0,2,1,1,1,1,2,24219.0
+43,Add ngrep,120,True,True,2015-06-16T18:33:52Z,2015-06-16T18:33:52Z,0,2,1,1,2,1,3,6858.0
+45,Changed incorrect alt command to ctrl,113,True,False,,2015-06-16T18:31:46Z,0,3,3,1,1,1,2,0
+24,Mention the standard movement bindings,230,True,False,,2015-06-16T18:31:46Z,0,3,3,1,1,1,2,0
+46,Added meld,0,True,False,,2015-06-16T17:43:07Z,0,1,1,1,3,0,3,0
+41,Markdown enhancement,0,True,True,2015-06-16T15:32:31Z,2015-06-16T15:32:31Z,0,3,5,1,13,13,26,1374.0
+31,python -m SimpleHTTPServer,34,True,True,2015-06-16T15:30:55Z,2015-06-16T15:30:55Z,0,2,1,1,4,0,4,22778.0
+29,Add missing quotes around program names,0,True,True,2015-06-16T15:24:12Z,2015-06-16T15:24:12Z,0,2,1,1,4,4,8,24764.0
+38,README: mention little-known `less +F`,90,True,True,2015-06-16T15:09:01Z,2015-06-16T15:09:01Z,0,2,1,1,1,1,2,3015.0
+34,"Use 80 as width, not filename",209,True,True,2015-06-16T15:05:04Z,2015-06-16T15:05:04Z,0,2,1,1,1,1,2,10412.0
+33,Fix typo,0,True,True,2015-06-16T15:03:42Z,2015-06-16T15:03:42Z,0,2,1,1,1,1,2,11586.0
+17,easier way to redirect both stderr and stdout,41,True,False,,2015-06-16T11:25:21Z,0,2,1,1,1,1,2,0
+20,Quote patterns for `find` commands instead of backslash-escaping,287,True,True,2015-06-16T06:05:29Z,2015-06-16T06:05:29Z,0,2,1,1,3,3,6,9675.0
+21,Add entry for toe,0,True,True,2015-06-16T05:35:12Z,2015-06-16T05:35:12Z,0,2,1,1,2,0,2,5434.0
+13,Add gpg to Useful list,233,True,True,2015-06-16T02:36:17Z,2015-06-16T02:36:17Z,0,2,1,1,2,0,2,4987.0
+12,Alter wording around CLI usage,177,True,False,,2015-06-16T02:35:30Z,0,1,0,1,1,1,2,0
+11,Don't recommend ForwardAgent=yes,57,True,False,,2015-06-16T02:32:04Z,0,2,1,1,0,1,1,0
+8,Don't recomend StrictHostKeyChecking=no,98,True,False,,2015-06-16T02:32:04Z,0,2,1,1,0,1,1,0
+18,Adding glances,0,True,True,2015-06-16T02:10:06Z,2015-06-16T02:10:06Z,0,2,2,1,4,0,4,290.0
+7,propose grep -i,72,True,True,2015-06-15T23:37:11Z,2015-06-15T23:37:11Z,0,2,1,1,1,1,2,129.0
+3,"Fix typos: q-Z --> ctrl-z, Ctrl-c --> ctrl-c",7,True,True,2015-06-15T22:48:31Z,2015-06-15T22:48:31Z,0,2,1,1,5,5,10,4458.0
+4,"typo, `ab` - benchmarking",0,True,True,2015-06-15T22:44:31Z,2015-06-15T22:44:31Z,0,2,1,1,1,1,2,1415.0

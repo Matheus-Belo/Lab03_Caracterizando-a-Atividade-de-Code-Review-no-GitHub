@@ -1,0 +1,606 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+1248,Add support for Python 3.10 and 3.11,299,True,True,2023-07-10T13:00:18Z,2023-07-10T13:00:18Z,1,4,7,18,95,78,173,51317292.0
+1432,Fix typos in README.md,0,True,True,2024-01-25T19:52:35Z,2024-01-25T19:52:35Z,1,2,1,1,13,13,26,40527.0
+1419,Update LICENSE.md to 2023,55,True,False,,2023-12-06T21:01:17Z,0,0,0,1,1,1,2,0
+1413,"Correct ""pip delete|remove"" -> ""pip uninstall""",146,True,False,,2023-11-09T08:23:17Z,0,1,0,2,25,7,32,0
+1292,#1282 git misspelled,452,True,True,2022-06-13T21:29:15Z,2022-06-13T21:29:15Z,4,4,14,2,5,4,9,3549458.0
+849,--yeah is present (missing from release 3.27) --you,117,True,False,,2023-09-06T02:38:33Z,1,3,1,1,1,1,2,0
+1394,#N/A: Fix a couple of issues after new flake8 release,0,True,True,2023-07-30T20:43:17Z,2023-07-30T20:43:17Z,0,1,0,2,2,2,4,961.0
+1352,Add appimage build,316,True,False,,2023-07-29T18:45:54Z,0,1,0,5,60,0,60,0
+1390,chore: fix typo in test_omnienv_no_such_command.py,17,True,False,,2023-07-12T09:13:49Z,1,2,1,1,2,2,4,0
+1329,feat: Add support for Windows `CMD` and easier setup for Powershell,347,True,True,2023-07-10T13:09:27Z,2023-07-10T13:09:27Z,6,2,3,3,37,3,40,26415798.0
+1386,"feat : Replace 'add' with 'git add',which is a common mistake beginners makes",18,True,False,,2023-07-10T06:09:44Z,0,3,0,5,39,0,39,0
+1384,feat : command add -> git add -A,64,True,False,,2023-07-09T10:14:00Z,0,1,0,1,6,0,6,0
+1383,Update readme about git merge mistake,58,True,False,,2023-07-09T10:04:04Z,0,3,0,4,18,0,18,0
+1361,Add poetry rule,0,True,False,,2023-06-14T00:20:07Z,0,1,0,2,33,0,33,0
+1371,Added basic support for Atuin,665,True,False,,2023-04-08T18:18:31Z,1,2,2,2,61,14,75,0
+1272,added the Code of Conduct,13,True,False,,2023-01-20T05:20:48Z,3,2,0,1,133,0,133,0
+710,Bugfix: brew_update_formula.py,226,True,True,2017-10-15T14:39:54Z,2017-10-15T14:39:54Z,0,2,1,1,2,1,3,237266.0
+1348,fix: add tests folder to .gitignore,103,True,False,,2022-12-22T20:52:50Z,0,3,3,1,1,0,1,0
+1301,Exclude unwanted directories from flake8 and imrpove gitignore,494,True,False,,2022-12-05T08:28:31Z,2,2,0,2,7,0,7,0
+1249,Drop support for EOL Python 3.5,657,True,False,,2022-11-23T21:57:44Z,1,4,8,8,16,15,31,0
+1317,Add terraform 'no command' rule,137,True,True,2022-09-25T19:37:48Z,2022-09-25T19:37:48Z,5,2,4,3,44,0,44,7470597.0
+1028,Fix corrected command not being saved into fish history,21,True,False,,2022-09-18T12:26:45Z,2,6,17,4,12,5,17,0
+1119,Fix quotes problem with shell.split_command,0,True,False,,2022-09-11T03:13:27Z,0,2,1,1,2,2,4,0
+1328,#N/A: Define branches in workflow,0,True,True,2022-09-07T19:33:40Z,2022-09-07T19:33:40Z,0,1,0,1,2,0,2,768.0
+1319,Add arch installation,0,True,True,2022-08-31T18:42:41Z,2022-08-31T18:42:41Z,1,2,0,1,5,0,5,4317264.0
+1326,Refactor fuck to heck,0,True,False,,2022-08-31T18:02:46Z,0,2,2,413,1098,1098,2196,0
+1327,#N/A: Change workflow triggers,0,True,True,2022-08-31T20:55:31Z,2022-08-31T20:55:31Z,0,1,0,1,4,1,5,1079.0
+1253,Add instructions to use in corporate environment,552,True,False,,2022-08-31T18:31:51Z,0,3,5,1,54,0,54,0
+1307,MacOS shutdown sudo support added,167,True,True,2022-05-29T19:40:31Z,2022-05-29T19:40:31Z,3,2,0,2,4,0,4,278159.0
+1309,Make sure to use builtin alias,144,True,False,,2022-08-05T14:59:46Z,0,2,0,1,1,1,2,0
+1302,New rule: fix missing `git clone` when given a URL,660,True,True,2022-07-03T11:22:36Z,2022-07-03T11:22:37Z,20,3,9,3,93,0,93,3476122.0
+1316,fix: Update output for brew_install and cleanup feat: multi suggestions for formulas,1204,True,True,2022-07-02T13:06:00Z,2022-07-02T13:06:00Z,3,2,1,2,51,50,101,262024.0
+1314,Closing bug in brew update formula rule (changed error message),441,True,True,2022-06-28T16:28:38Z,2022-06-28T16:28:38Z,1,2,1,2,2,2,4,436476.0
+1310,#N/A: Lock pyte<=0.8.0 for Python 2,0,True,True,2022-06-11T17:13:03Z,2022-06-11T17:13:03Z,0,1,0,1,3,2,5,241564.0
+1308,Added updatedb (mlocate) to sudo rules,101,True,True,2022-06-05T20:58:32Z,2022-06-05T20:58:32Z,1,2,0,2,3,1,4,627038.0
+1298,Prioritise main/master mix ups,359,True,False,,2022-06-05T19:49:06Z,1,3,1,1,1,1,2,0
+1236,Change readme installation to have WSL section,147,True,False,,2022-05-21T11:45:52Z,1,2,3,1,8,0,8,0
+1235,Change readme more examples to have own section,178,True,False,,2022-05-21T11:45:52Z,1,1,0,1,86,85,171,0
+1251,Add rule git_checkout_master,125,True,False,,2022-05-16T21:36:20Z,3,3,3,3,89,0,89,0
+1293,Tar missed arguments #1259,466,True,False,,2022-05-05T02:24:18Z,0,1,0,3,124,0,124,0
+1287,ls -r to ls -R,251,True,False,,2022-05-05T01:41:47Z,1,2,1,3,30,0,30,0
+1291,Git misspelled,457,True,False,,2022-05-03T19:26:27Z,0,1,0,5,106,0,106,0
+1283,"Add rule: ""ls -r"" -> ""ls -R""",95,True,False,,2022-04-02T20:58:58Z,0,1,0,3,24,0,24,0
+1266,add base for tar rule,104,True,False,,2022-03-30T12:53:37Z,0,1,0,1,44,0,44,0
+1264,add sudo error message of Fedora in patterns,242,True,False,,2022-03-30T12:53:36Z,0,1,0,1,4,1,5,0
+1279,Add pikaur AUR manager to Arch Linux's commands,31,True,True,2022-03-27T20:06:40Z,2022-03-27T20:06:40Z,2,2,0,4,9,3,12,117569.0
+1276,2: Refactor git rm files to remove clones,53,True,False,,2022-03-17T22:42:46Z,0,1,1,4,4,22,26,0
+1275,Support being polite,129,True,False,,2022-03-07T13:35:43Z,0,1,1,5,32,16,48,0
+1270,fix: Add missing comma,27,True,True,2022-01-30T21:34:39Z,2022-01-30T21:34:39Z,1,2,0,1,1,1,2,161877.0
+1267,Updated license date to 2022,0,True,True,2022-01-20T21:01:22Z,2022-01-20T21:01:22Z,1,2,0,1,1,1,2,224203.0
+1216,#1215: Remove redirection to stderr with the ^ character,113,True,True,2021-07-18T13:10:48Z,2021-07-18T13:10:48Z,0,2,4,2,6,3,9,89361.0
+1241,Encapsulate force_command in _get_raw_command,508,True,True,2021-12-19T23:05:48Z,2021-12-19T23:05:48Z,2,2,1,2,3,3,6,5100242.0
+1208,Fix git_hook_bypass priority (#1207),119,True,True,2021-06-21T14:32:35Z,2021-06-21T14:32:35Z,1,3,2,1,1,1,2,551191.0
+1184,Adding devcontainer for easy Python development,371,True,True,2021-07-19T20:47:19Z,2021-07-19T20:47:20Z,9,2,8,3,75,0,75,9010385.0
+1233,"README: Use `--user` with pip, not `sudo pip`",118,True,True,2021-09-05T14:58:35Z,2021-09-05T14:58:35Z,1,2,0,1,1,1,2,4651.0
+1228,#1227: Make `git_support` support output-independent rules,9,True,True,2021-08-17T13:41:54Z,2021-08-17T13:41:54Z,0,1,0,2,4,3,7,54357.0
+1224,#697: Encode expanded script on Python 2,8,True,True,2021-08-17T13:40:56Z,2021-08-17T13:40:57Z,0,2,5,3,12,0,12,1279012.0
+913,Create shoaib.py,86,True,False,,2021-08-08T18:10:47Z,0,3,2,1,16,0,16,0
+977,Add `wrong_hyphen_before_subcommand` rule,268,True,True,2021-08-07T21:26:36Z,2021-08-07T21:26:36Z,8,4,1,3,51,0,51,57479848.0
+1226,Fix outdated link to homebrew for Linux,124,True,True,2021-08-07T11:12:12Z,2021-08-07T11:12:12Z,3,2,0,1,1,2,3,169113.0
+942,Rule for branch dash 0,58,True,True,2021-07-01T21:07:38Z,2021-07-01T21:07:38Z,8,3,9,3,59,0,59,59793220.0
+1223,#579: Ignore commands of len 1 in missing_space_before_subcommand,0,True,True,2021-08-01T20:24:29Z,2021-08-01T20:24:29Z,0,1,0,2,5,4,9,251302.0
+1222,#933: Correctly redefine the function with a cache,0,True,True,2021-08-01T20:07:19Z,2021-08-01T20:07:19Z,0,1,0,1,1,1,2,250776.0
+613,README->Installation: Clarify that the alias is really needed,0,True,False,,2021-07-29T20:13:18Z,1,5,4,1,1,1,2,0
+1221,#618: Fix git_push_without_commits rule,142,True,True,2021-07-29T20:11:34Z,2021-07-29T20:11:34Z,0,1,0,2,17,26,43,83906.0
+1218,#1184: Configure devcontainer shell with recommended way,76,True,True,2021-07-29T20:09:21Z,2021-07-29T20:09:21Z,0,1,0,1,6,1,7,721927.0
+1220,#1188: Remove only leading whitespace chars from script,9,True,True,2021-07-29T20:04:47Z,2021-07-29T20:04:47Z,0,1,0,2,4,2,6,525335.0
+1214,#994: Replace decoding errors with the replacement marker,80,True,True,2021-07-29T19:37:19Z,2021-07-29T19:37:19Z,0,1,0,2,9,1,10,1325969.0
+1213,#N/A: Replace only exact words when expanding a Git alias,0,True,True,2021-07-29T19:36:15Z,2021-07-29T19:36:15Z,0,1,0,2,6,2,8,1378352.0
+1152,Fix docker_login rule,156,True,True,2021-07-29T11:59:28Z,2021-07-29T11:59:28Z,2,2,1,1,2,1,3,18451313.0
+989,#N/A: Use Xenial on TravisCI,52,True,True,2019-11-02T18:03:35Z,2019-11-02T18:03:35Z,0,2,1,1,12,30,42,762276.0
+1025,N/A: Remove deprecated python 3.4 support + fix tests in 2.7,370,True,True,2019-12-16T20:55:19Z,2019-12-16T20:55:20Z,0,1,0,5,9,8,17,2006.0
+1032,#N/A: Fix travis-ci osx build,39,True,True,2020-01-05T22:51:20Z,2020-01-05T22:51:20Z,0,1,0,1,1,0,1,2727.0
+1217,#1215: Initiate settings before printing the alias,0,True,True,2021-07-21T11:09:20Z,2021-07-21T11:09:20Z,0,1,0,2,12,1,13,249481.0
+1211,Fix yield_fixture deprecation,335,True,True,2021-06-29T19:26:13Z,2021-06-29T19:26:13Z,1,2,0,1,1,1,2,154097.0
+1210,Add rule 'rails_migrations_pending',718,True,True,2021-07-06T10:52:54Z,2021-07-06T10:52:55Z,5,2,0,3,61,0,61,729057.0
+1116,Fix pytest warnings,177,True,True,2020-11-03T17:29:28Z,2020-11-03T17:29:28Z,1,3,1,2,5,1,6,9212299.0
+1117,Skip test instead of failing if go executable is not found.,4943,True,True,2020-11-03T17:30:03Z,2020-11-03T17:30:04Z,0,2,1,1,2,0,2,9211417.0
+1131,New Rule: Git commit with no added files,168,True,True,2021-07-15T19:20:09Z,2021-07-15T19:20:09Z,2,3,0,3,56,0,56,26817765.0
+1212,#942: Improve git_branch_0flag rule - with a new name,10,True,True,2021-07-13T13:36:12Z,2021-07-13T13:36:12Z,1,2,0,5,95,59,154,1009595.0
+1133,Match commands with path prefixes in @for_app decorations,1518,True,True,2021-07-07T21:05:55Z,2021-07-07T21:05:55Z,1,2,0,3,6,2,8,24987706.0
+993,#N/A: Inform the correct path to `DEFAULT_RULES`,10,True,True,2019-11-02T18:03:59Z,2019-11-02T18:03:59Z,0,2,1,1,1,1,2,674933.0
+1206,NA: Fix possible changes in files outside of working directory,0,True,True,2021-06-08T20:04:51Z,2021-06-08T20:04:51Z,0,1,0,2,8,0,8,538.0
+1014,trying to add brew cask reinstall,242,True,False,,2021-07-06T21:14:57Z,1,2,6,3,46,0,46,0
+1109,typo,9,True,True,2021-07-06T14:58:44Z,2021-07-06T14:58:44Z,3,4,1,1,1,1,2,32423657.0
+1150,Update README.md,54,True,True,2021-07-01T09:47:13Z,2021-07-01T09:47:13Z,2,2,0,1,1,1,2,16368865.0
+1135,#1123: Replace composer install with composer require in composer_not_command rule,9,True,True,2021-06-30T21:10:06Z,2021-06-30T21:10:06Z,3,2,1,2,24,8,32,23560220.0
+1039,Remove all leading $ not just one,213,True,False,,2021-06-30T20:32:29Z,11,3,4,0,0,0,0,0
+1171,~[Doc] Add Uninstall instructions,196,True,True,2021-06-30T12:20:48Z,2021-06-30T12:20:48Z,2,2,1,1,6,0,6,10260992.0
+1193,Fix grammar and spelling errors,0,True,True,2021-06-29T19:25:02Z,2021-06-29T19:25:02Z,5,3,2,1,13,13,26,5004860.0
+1197,#8 commands with variable definition are not matched,0,True,False,,2021-06-29T19:22:58Z,0,4,0,6,58,2,60,0
+1185,comp_490,283,True,False,,2021-06-29T19:22:21Z,0,4,0,13,174,8,182,0
+1164,Optimised Images,0,True,True,2021-06-23T10:19:47Z,2021-06-23T10:19:47Z,1,3,0,2,0,0,0,12489564.0
+1194,Remove redundant import,0,True,False,,2021-06-21T19:50:45Z,0,2,2,1,0,1,1,0
+1196,Avoid using pkg_resources,329,True,True,2021-06-21T15:06:02Z,2021-06-21T15:06:02Z,1,2,0,2,10,5,15,4033238.0
+846,Some improvements,110,True,True,2018-10-08T20:32:31Z,2018-10-08T20:32:31Z,7,3,3,25,189,37,226,520855.0
+967,removed extra whitespace,632,True,True,2019-10-08T21:47:05Z,2019-10-08T21:47:05Z,0,2,1,1,2,2,4,145470.0
+1165,Add excluded_search_path_prefixes setting - improves perf in WSL,424,True,True,2021-04-21T17:43:21Z,2021-04-21T17:43:21Z,3,3,9,6,29,4,33,6553549.0
+1187,#N/A: Force decorator<5 for Python <= 2.7,235,True,True,2021-04-18T13:48:40Z,2021-04-18T13:48:40Z,0,1,0,1,1,0,1,89567.0
+1088,Contributing edits,23,True,True,2021-04-16T22:24:30Z,2021-04-16T22:24:30Z,4,2,1,1,1,1,2,29639901.0
+1167,Introducing the cd-cs feature,176,True,True,2021-03-22T19:55:45Z,2021-03-22T19:55:45Z,3,3,6,3,33,0,33,3177520.0
+1175,Fix badges in README,208,True,True,2021-03-13T13:24:54Z,2021-03-13T13:24:54Z,0,2,3,1,2,2,4,26576.0
+1174,Updated readme,656,True,True,2021-03-12T23:58:11Z,2021-03-12T23:58:11Z,4,2,6,1,31,0,31,111147.0
+1170,#1117: Mock Popen in go_unknown_command test,49,True,True,2021-03-08T17:56:30Z,2021-03-08T17:56:30Z,1,2,0,1,61,2,63,1194973.0
+1166,Cd cs feature,461,True,False,,2021-02-14T00:54:06Z,0,1,1,0,0,0,0,0
+1100,Globalize pyenv rule ,237,True,True,2021-02-11T11:48:21Z,2021-02-11T11:48:21Z,9,3,11,3,23,16,39,22005072.0
+1138,Conda,37,True,True,2021-02-08T12:04:59Z,2021-02-08T12:04:59Z,2,2,3,3,42,0,42,10595204.0
+1162,Allow multiple alias arguments,661,True,False,,2021-01-28T16:34:24Z,0,2,5,3,49,8,57,0
+1160,Add cache code snippet,168,True,False,,2021-01-25T15:34:16Z,0,1,1,1,25,0,25,0
+1154,Migrate CI pipeline to Github Actions,0,True,True,2021-01-21T13:34:02Z,2021-01-21T13:34:02Z,0,2,0,4,52,79,131,1534271.0
+1151,#1149: Giving a fuck about ModuleNotFoundError,12,True,True,2021-01-19T21:37:05Z,2021-01-19T21:37:06Z,11,2,1,3,77,0,77,1984005.0
+1069,Command status code,0,True,False,,2021-01-15T13:55:27Z,0,1,3,13,87,17,104,0
+1145,#1141: Fix crash on empty history,11,True,True,2020-11-18T09:43:12Z,2020-11-18T09:43:13Z,2,2,3,2,2,0,2,665825.0
+1125,#1113: Do not load excluded rules,0,True,True,2020-11-03T17:27:09Z,2020-11-03T17:27:09Z,0,2,1,3,25,23,48,7266121.0
+1124,#1113: Ignore a rule that fails to load,0,True,True,2020-11-03T17:26:14Z,2020-11-03T17:26:14Z,0,2,1,4,29,10,39,7266094.0
+1140,Rule for python3-command and test case for it,16,True,False,,2020-10-19T19:17:00Z,0,64,0,385,9252,2052,11304,0
+1139,created dictionay. txt file,0,True,False,,2020-10-15T13:12:41Z,0,2,0,1,647,0,647,0
+880,Added korean keyboard layout,201,True,False,,2020-09-08T01:46:33Z,0,3,5,3,76,8,84,0
+950,"Correct ""apt uninstall"" -> ""apt remove""",329,True,True,2019-09-17T18:02:45Z,2019-09-17T18:02:45Z,0,4,4,2,9,2,11,950317.0
+1118,Fix quotes problem with well-placed shlex.quote,0,True,False,,2020-07-20T14:22:41Z,0,1,0,1,1,0,1,0
+981,Add support for switch_lang for Korean.,20,True,True,2019-10-19T13:03:21Z,2019-10-19T13:03:21Z,2,4,4,2,53,7,60,262117.0
+952,Harmless parameter name addition,17,True,False,,2020-07-18T16:45:33Z,0,1,0,1,1,1,2,0
+1091,#509: Fixed correction on windows machine running other shells,8,True,True,2020-07-16T21:56:59Z,2020-07-16T21:56:59Z,13,4,2,2,2,2,4,5704955.0
+1111,#1066 - Fix rule for brew cask,281,True,True,2020-07-16T21:34:41Z,2020-07-16T21:34:41Z,1,3,1,1,3,3,6,806418.0
+1106,"Add rule to remove a doubled-up ""git clone"" in a git clone command.",202,True,True,2020-07-16T21:34:23Z,2020-07-16T21:34:23Z,3,3,1,3,37,0,37,2743833.0
+1097,#1096: Rule: Bypass failed git hook,5,True,True,2020-07-16T21:32:30Z,2020-07-16T21:32:30Z,3,3,9,3,71,0,71,4487866.0
+1094,#N/A: Refactor for better readability,0,True,True,2020-06-14T14:20:41Z,2020-06-14T14:20:41Z,3,3,5,1,77,192,269,2727095.0
+1092,#N/A: Fix formatting,0,True,True,2020-06-10T22:21:45Z,2020-06-10T22:21:45Z,1,3,2,3,187,94,281,2426321.0
+1056,add git-lfs support,24,True,True,2020-06-10T22:20:38Z,2020-06-10T22:20:38Z,6,3,2,3,48,0,48,9265024.0
+1095,Reset colour for Powershell,82,True,False,,2020-05-15T19:08:00Z,0,2,3,1,1,0,1,0
+1090,No newline,0,True,False,,2020-05-11T21:09:51Z,0,1,0,2,259,259,518,0
+1072,#960: Improve pacman_invalid_option rule,112,True,True,2020-04-06T19:46:41Z,2020-04-06T19:46:41Z,0,2,1,2,30,15,45,686911.0
+960,Added pacman invalid option rule,49,True,True,2020-03-28T22:15:21Z,2020-03-28T22:15:21Z,2,2,0,3,38,2,40,15446415.0
+1005,Cleaned formatting a bit and added more Command Aliases (i really lov…,107,True,False,,2020-03-28T18:38:03Z,0,3,2,1,3,4,7,0
+766,Test getting status code,200,True,False,,2020-03-24T11:24:26Z,0,51,4,128,2498,355,2853,0
+1061,Create a new directory when user attempts to cp or mv to a non existent one,0,True,True,2020-03-01T19:04:54Z,2020-03-01T19:04:54Z,1,2,0,3,46,0,46,8112.0
+1062,[WIP]: Edit commands using the default editor,214,True,False,,2020-03-01T18:25:05Z,0,3,1,10,91,17,108,0
+1059,#1047: Fix pip_unknown_command by using a less restrictive regex,9,True,True,2020-03-01T16:40:50Z,2020-03-01T16:40:50Z,1,2,0,2,22,9,31,54362.0
+1022,Allow multiple returns from git_checkout,0,True,True,2020-01-13T22:28:20Z,2020-01-13T22:28:20Z,2,2,2,2,16,10,26,2852537.0
+1033,#N/A: Overwrite links when upgrading Python on MacOS on Travis,0,True,False,,2020-01-05T23:10:57Z,0,1,1,1,1,1,2,0
+1031,Apt-get help is now much more like apt,0,True,True,2020-01-05T22:53:10Z,2020-01-05T22:53:10Z,1,3,2,2,43,2,45,26010.0
+1029,"Fixed grammar on ""how to configure"" message",70,True,True,2019-12-23T16:57:43Z,2019-12-23T16:57:43Z,0,2,1,1,1,1,2,166567.0
+767,Make fish like bash/zsh,104,True,False,,2019-12-23T16:09:13Z,0,2,3,2,36,32,68,0
+892,Add rule for 'bc' command,55,True,False,,2019-12-23T06:35:22Z,1,2,0,3,43,0,43,0
+1017,Fix simple typo: controle -> control,12,True,True,2019-12-16T21:10:46Z,2019-12-16T21:10:46Z,1,3,1,1,1,1,2,1241929.0
+1023,"fix: removed useless redefinition of ""path"" variable",0,True,True,2019-12-16T20:56:13Z,2019-12-16T20:56:13Z,1,3,1,1,1,1,2,184314.0
+1024,Added missing dependencies for py.test to req.txt,153,True,False,,2019-12-16T20:46:21Z,0,2,1,3,8,3,11,0
+966,added rule for drmemory commands missing --,168,True,False,,2019-11-14T19:40:56Z,1,2,0,3,47,0,47,0
+998,Add choco_install rule,111,True,True,2019-11-07T00:10:01Z,2019-11-07T00:10:01Z,3,3,2,3,112,0,112,751514.0
+997,Fix typos in README.md,46,True,True,2019-11-02T18:07:33Z,2019-11-02T18:07:33Z,2,3,2,1,3,3,6,433021.0
+1004,fix: incorrect powershell alias instruction,565,True,True,2019-11-02T18:06:17Z,2019-11-02T18:06:17Z,1,3,1,1,2,2,4,209242.0
+996,Add rule to remove leading shell prompt literal $,283,True,True,2019-11-02T18:04:47Z,2019-11-02T18:04:48Z,2,3,2,3,61,0,61,433448.0
+991,Added .vscode to gitignore for people editing with VSCode.,137,True,False,,2019-10-25T08:28:26Z,1,3,2,1,3,0,3,0
+979,#380 merge `cd_mkdir` and `cd_correction` rules,779,True,False,,2019-10-24T19:10:39Z,0,2,0,4,9,23,32,0
+982,[deprecated] Add Python 3.8 version support,0,True,False,,2019-10-18T12:38:12Z,0,3,2,2,7,4,11,0
+985,#N/A: Add new `git_branch_delete_checked_out` rule,410,True,True,2019-10-22T22:30:18Z,2019-10-22T22:30:18Z,0,2,1,3,49,0,49,179902.0
+976,Issue#965 - added venv instructions to CONTRIBUTING.md,226,True,True,2019-10-22T22:30:56Z,2019-10-22T22:30:56Z,2,3,3,1,2,0,2,958279.0
+984,Update readme for #Instant Mode,51,True,False,,2019-10-22T08:14:41Z,1,2,0,1,2,1,3,0
+983,Add Python 3.8 version support,0,True,True,2019-10-19T13:00:52Z,2019-10-19T13:00:53Z,0,2,1,2,7,4,11,90646.0
+986,Add pyenv to gitignore,178,True,False,,2019-10-21T13:43:38Z,0,2,3,1,3,0,3,0
+968,Support for yum invalid commands.,114,True,True,2019-10-19T13:05:23Z,2019-10-19T13:05:23Z,0,2,1,4,216,0,216,956477.0
+978,Add instructions for virtualenv in CONTRIBUTING.md,10,True,False,,2019-10-15T08:03:12Z,0,2,1,1,10,0,10,0
+963,Add fuck --hard as alternative to fuck --yeah,266,True,True,2019-10-08T21:44:23Z,2019-10-08T21:44:23Z,2,4,2,2,2,2,4,455438.0
+961,Slow command timeout didn’t work,115,True,True,2019-10-08T21:43:20Z,2019-10-08T21:43:20Z,0,2,1,1,3,2,5,570640.0
+944,Change: rules_git_checkout handling branch names with slashes & Remote HEAD.,306,True,True,2019-09-02T17:16:41Z,2019-09-02T17:16:41Z,0,2,1,2,9,2,11,922477.0
+947,Change sudo.py pattern to lowercase,47,True,True,2019-09-02T17:17:49Z,2019-09-02T17:17:49Z,0,2,2,1,1,1,2,378033.0
+934,Fix: rules.git_checkout not working with git 2.22.0,786,True,True,2019-08-19T19:45:55Z,2019-08-19T19:45:55Z,0,2,2,1,2,2,4,2728098.0
+940,Update docker commands.,177,True,True,2019-08-21T18:35:55Z,2019-08-21T18:35:56Z,1,2,2,2,189,7,196,1693974.0
+933,Add: rules/go_unknown_command for misspelled go commands.,219,True,True,2019-08-21T18:34:35Z,2019-08-21T18:34:35Z,1,2,3,3,50,0,50,2912305.0
+938,[.editorconfig] Init,0,True,True,2019-08-19T19:47:16Z,2019-08-19T19:47:16Z,0,2,1,1,11,0,11,1774247.0
+931,Only consider raw command in output,131,True,True,2019-08-19T19:39:15Z,2019-08-19T19:39:15Z,1,3,2,2,16,7,23,3312951.0
+939,Docker update #937,164,True,False,,2019-08-02T04:00:52Z,0,1,1,1,19,6,25,0
+895,Add rule for pip_install permission fix,188,True,True,2019-04-24T16:15:39Z,2019-04-24T16:15:39Z,7,4,6,3,43,0,43,2334415.0
+928,Docker remove container before remove image,18,True,True,2019-07-10T18:34:21Z,2019-07-10T18:34:21Z,5,3,3,3,48,0,48,427747.0
+923,#921: Try printing alias before trying to fix a command,210,True,True,2019-06-26T18:01:39Z,2019-06-26T18:01:39Z,0,2,1,1,5,2,7,1898753.0
+924,Added rules to run terraform init before terraform plan or apply,0,True,True,2019-06-26T18:02:01Z,2019-06-26T18:02:01Z,2,3,2,3,47,0,47,1131217.0
+922,"support nixos command-not-found, closes #912",432,True,True,2019-06-26T18:01:03Z,2019-06-26T18:01:03Z,0,2,1,4,44,0,44,1978890.0
+920,#N/A: Improve how version is fetched for all shells,2,True,True,2019-05-27T16:24:56Z,2019-05-27T16:24:56Z,0,2,1,12,137,23,160,117457.0
+919,#N/A: Add `pyenv_no_such_command` rule,1,True,True,2019-05-27T16:23:46Z,2019-05-27T16:23:46Z,0,2,1,3,86,0,86,117602.0
+918,#N/A: Improve support to Windows in `no_command` rule,66,True,True,2019-05-27T16:23:06Z,2019-05-27T16:23:06Z,0,2,1,2,4,2,6,344153.0
+915,Fix a couple small shellcheck errors,126,True,True,2019-05-22T18:22:10Z,2019-05-22T18:22:10Z,0,2,5,2,5,5,10,315869.0
+917,#902: Use `os.pathsep` to split PATH env var,8,True,True,2019-05-21T18:47:48Z,2019-05-21T18:47:49Z,0,2,1,2,20,2,22,93634.0
+907,Adding yay AUR manager to Arch Linux's commands,232,True,True,2019-05-21T18:49:05Z,2019-05-21T18:49:05Z,0,3,3,4,12,6,18,2196432.0
+900,#899: Support `-y/--yeah` command line args in Fish Shell,0,True,True,2019-04-24T16:17:52Z,2019-04-24T16:17:52Z,0,2,1,2,5,2,7,1716643.0
+905,Pkg should be recommend on freebsd to install,0,True,True,2019-04-24T16:17:02Z,2019-04-24T16:17:02Z,0,2,1,1,1,2,3,73768.0
+894,Docker login,197,True,True,2019-04-03T22:01:14Z,2019-04-03T22:01:15Z,0,2,1,3,50,0,50,543677.0
+886,#N/A: Add rule for `git commit` that reverts previous commit,130,True,True,2019-02-25T22:24:17Z,2019-02-25T22:24:17Z,1,4,1,3,37,0,37,169472.0
+848,Update README.md,164,True,False,,2019-02-10T22:35:07Z,0,2,1,1,2,2,4,0
+874,Comment correction on ui.py,149,True,True,2019-01-14T23:36:06Z,2019-01-14T23:36:06Z,0,2,1,1,1,1,2,136301.0
+877,#N/A: Return an ordered list from set of overridden aliases,107,True,True,2019-01-19T23:24:09Z,2019-01-19T23:24:09Z,1,2,0,2,4,3,7,258845.0
+864,Fix issue #862,378,True,False,,2019-01-14T23:56:10Z,0,2,2,1,19,1,20,0
+872,Fix 2 DeprecationWarning: invlid escape sequence,138,True,True,2019-01-06T14:44:10Z,2019-01-06T14:44:10Z,0,2,1,1,2,2,4,197303.0
+870,#869: Use `fish --version` instead of an interactive shell for info(),108,True,True,2019-01-04T19:54:04Z,2019-01-04T19:54:05Z,1,2,0,2,4,3,7,208224.0
+868,Point out you can use linuxbrew in README,0,True,True,2019-01-04T19:35:28Z,2019-01-04T19:35:28Z,6,3,3,1,3,2,5,770595.0
+688,Update README.md,1,True,False,,2018-12-31T01:31:30Z,0,2,1,1,1,1,2,0
+861,Fix invalid for_app/sudo_support ordering,257,True,True,2018-12-11T00:01:18Z,2018-12-11T00:01:18Z,0,2,1,2,2,2,4,225812.0
+863,Update switch_lang.py fix issue #862,238,True,False,,2018-12-13T10:00:28Z,0,2,2,2,3,3,6,0
+843,Types,0,True,False,,2018-10-08T20:51:08Z,0,2,1,8,60,5,65,0
+856,#855 - Support Ukrainian layout; Fix matching of similar layouts,348,True,True,2018-11-21T18:56:50Z,2018-11-21T18:56:50Z,0,2,1,1,9,1,10,1041890.0
+854,Remove zsh instant mode log with -f,264,True,True,2018-11-02T19:00:56Z,2018-11-02T19:00:57Z,0,2,1,1,1,1,2,253482.0
+830,#367: Support BSD style output in touch rule,268,True,True,2018-07-29T16:18:43Z,2018-07-29T16:18:43Z,0,2,1,2,20,11,31,956153.0
+853,Comply to new flake8 3.6,252,True,True,2018-10-30T19:56:56Z,2018-10-30T19:56:56Z,0,2,1,7,8,7,15,423607.0
+852,update install guide for Linux Mint,55,True,True,2018-10-30T20:49:42Z,2018-10-30T20:49:42Z,0,2,1,1,2,2,4,461063.0
+851,Added Persian letters rule for converting those letters to English,301,True,False,,2018-10-25T12:49:02Z,0,2,2,2,37,0,37,0
+847,Added missing mapping for powershell.,122,True,False,,2018-10-09T21:22:20Z,0,3,2,1,2,1,3,0
+844,Add the pwsh support for thefuck,28,True,True,2018-10-09T21:20:49Z,2018-10-09T21:20:49Z,0,3,2,1,2,1,3,693584.0
+845,Added back-ticks for the consistency,0,True,True,2018-10-08T20:20:18Z,2018-10-08T20:20:18Z,0,2,1,1,1,1,2,521157.0
+841,ISSUE_TEMPLATE.md: sync format of fill-in fields,139,True,True,2018-10-02T18:46:59Z,2018-10-02T18:46:59Z,0,2,1,1,2,2,4,547432.0
+836,Add snapcraft.yaml,300,True,True,2018-10-02T18:46:14Z,2018-10-02T18:46:14Z,0,2,2,1,25,0,25,2166378.0
+834,Added a rule to match az binary sub-command misses,40,True,True,2018-08-15T22:22:25Z,2018-08-15T22:22:25Z,0,2,1,3,62,0,62,91128.0
+833,Add Python 3.7 version support,352,True,True,2018-08-13T22:22:54Z,2018-08-13T22:22:54Z,0,2,1,3,9,4,13,20558.0
+827,Stop parsing language-variable cat output to make cat_dir more reliable.,15,True,True,2018-07-11T21:47:07Z,2018-07-11T21:47:07Z,0,2,1,3,20,5,25,83105.0
+823,Create `cat_dir` rule for replacing `cat` with `ls`,168,True,True,2018-07-09T22:51:43Z,2018-07-09T22:51:43Z,7,4,10,3,40,0,40,220220.0
+826,Add cat dir localization,42,True,False,,2018-07-10T22:42:15Z,1,2,7,3,67,16,83,0
+819,Fix get_key on Windows,377,True,True,2018-07-09T22:46:58Z,2018-07-09T22:46:58Z,0,2,1,1,6,9,15,2414029.0
+820,Avoid masking shell return values in Zsh.app_alias,463,True,True,2018-07-09T22:48:56Z,2018-07-09T22:48:56Z,0,2,1,1,4,2,6,2147242.0
+822,added --yeah as an alternative arg to -y and --yes; updated README.md,154,True,True,2018-07-09T22:50:11Z,2018-07-09T22:50:11Z,0,2,1,2,3,3,6,361400.0
+821,adding zsh's autocorrect notice to README.md,558,True,True,2018-07-09T22:49:20Z,2018-07-09T22:49:20Z,0,2,1,1,1,1,2,962114.0
+818,git_push: Handle command containing force argument,662,True,True,2018-07-09T22:48:09Z,2018-07-09T22:48:09Z,0,3,2,2,6,2,8,2602968.0
+816,Add brew_reinstall rule,68,True,True,2018-05-22T17:25:06Z,2018-05-22T17:25:06Z,0,2,3,3,48,0,48,765.0
+805,fixed powershell coloring Bug #772,275,True,True,2018-05-22T17:03:53Z,2018-05-22T17:03:53Z,0,2,1,1,1,0,1,3167662.0
+810,Add new `long_form_help` rule,309,True,False,,2018-05-22T17:02:46Z,0,2,1,3,50,0,50,0
+814,Fix spelling,0,True,True,2018-05-13T13:28:39Z,2018-05-13T13:28:39Z,1,3,1,1,4,4,8,90166.0
+808,Support aliases with equal sign,117,True,True,2018-05-13T13:29:34Z,2018-05-13T13:29:34Z,0,2,1,3,16,6,22,922013.0
+813,#N/A: Remove `pip` from requirements.txt,126,True,True,2018-05-13T13:28:01Z,2018-05-13T13:28:01Z,0,2,1,1,0,1,1,184653.0
+812,Update README.md to include chromeos install,0,True,True,2018-05-11T09:36:25Z,2018-05-11T09:36:25Z,1,3,2,1,5,0,5,122405.0
+794,Update README.md for clarity and concision,109,True,True,2018-04-01T20:25:10Z,2018-04-01T20:25:10Z,3,4,5,1,53,43,96,873124.0
+803,allow for the mispelling of git and the command,326,True,False,,2018-04-15T23:12:47Z,0,2,0,2,20,0,20,0
+729,Add heroku_multiple_apps rule,11,True,True,2017-11-09T23:42:23Z,2017-11-09T23:42:24Z,1,2,1,3,68,0,68,253709.0
+785,Absolute path feature for cd_correction,231,True,False,,2018-02-23T19:47:50Z,0,3,5,5,81,9,90,0
+787,Added a rule to delete sudo for pacaur.,859,True,True,2018-02-22T21:14:02Z,2018-02-22T21:14:02Z,0,2,1,3,39,1,40,268992.0
+478,Add Powershell as shell,475,True,True,2016-03-19T00:45:26Z,2016-03-19T00:45:26Z,0,3,5,4,61,7,68,285386.0
+608,Update PowerShell alias to handle no history,238,True,True,2017-03-03T12:45:24Z,2017-03-03T12:45:24Z,0,2,1,1,8,5,13,155053.0
+778,Added hebrew the list of keyboard layouts,11,True,True,2018-01-29T07:46:19Z,2018-01-29T07:46:19Z,1,3,2,2,10,4,14,310264.0
+773,Add `git_merge_unrelated` rule for `git merge --allow-unrelated-histories`,307,True,True,2018-01-17T01:03:56Z,2018-01-17T01:03:57Z,1,2,0,3,38,0,38,183157.0
+770,Add installation instructions on FreeBSD,132,True,True,2018-01-10T20:31:39Z,2018-01-10T20:31:39Z,1,3,1,1,6,0,6,169223.0
+759,Fix IndexError when using bitbucket,21,True,True,2018-01-06T22:44:03Z,2018-01-06T22:44:04Z,5,2,0,2,18,1,19,346125.0
+663,Make alias autoconfiguration work in Bash,377,True,False,,2018-01-06T01:33:29Z,0,2,2,4,10,2,12,0
+763,762 git branch quotes,330,True,True,2018-01-05T21:25:08Z,2018-01-05T21:25:09Z,3,3,1,2,18,10,28,169262.0
+764,Offer git commit --amend after previous git commit,68,True,True,2018-01-05T21:24:44Z,2018-01-05T21:24:44Z,3,3,0,3,37,0,37,168047.0
+765,Add rule for ADB unknown commands,49,True,True,2018-01-05T21:20:03Z,2018-01-05T21:20:03Z,4,3,0,3,96,0,96,163540.0
+760,Escape single quote in branch names,21,True,True,2018-01-04T16:40:02Z,2018-01-04T16:40:02Z,15,3,3,2,48,35,83,148916.0
+761,Add apt_upgrade rule,224,True,True,2018-01-03T18:01:10Z,2018-01-03T18:01:10Z,0,2,1,5,57,0,57,9170.0
+757,Move Developing instructions from README to CONTRIBUTING,193,True,True,2018-01-03T18:00:21Z,2018-01-03T18:00:21Z,0,2,1,2,35,31,66,146872.0
+749,Add GitHub Issue template,223,True,True,2018-01-03T17:59:39Z,2018-01-03T17:59:39Z,0,2,1,1,37,0,37,622398.0
+753,Fix fish shell aliasing,21,True,True,2018-01-03T04:14:02Z,2018-01-03T04:14:02Z,1,4,5,2,28,7,35,134145.0
+758,Fix git crash,21,True,False,,2018-01-02T22:19:56Z,0,2,0,2,30,5,35,0
+754,Suggest git checkout -b,169,True,True,2018-01-01T23:30:34Z,2018-01-01T23:30:34Z,0,2,3,2,3,1,4,27226.0
+744,Continue work started in #738,154,True,True,2018-01-02T20:40:01Z,2018-01-02T20:40:01Z,0,3,7,6,6,2,8,1383294.0
+755,Add git merge rule,21,True,True,2018-01-02T16:47:49Z,2018-01-02T16:47:49Z,0,2,2,3,45,0,45,82870.0
+756,README: Use `pip3` in upgrade command,10,True,True,2018-01-02T15:14:11Z,2018-01-02T15:14:11Z,0,1,0,1,1,1,2,51782.0
+747,Drop Python 3.3 Support,90,True,True,2018-01-02T01:18:06Z,2018-01-02T01:18:06Z,0,1,0,6,5,9,14,1030403.0
+751,Don't add duplicate remote/branch name,65,True,True,2018-01-02T00:45:46Z,2018-01-02T00:45:46Z,2,2,1,2,12,4,16,117564.0
+752,Update license year,71,True,True,2018-01-01T17:53:35Z,2018-01-01T17:53:35Z,1,2,2,1,1,1,2,64493.0
+745,git_push: Don't add duplicate remote/branch name,15,True,True,2017-12-27T12:54:53Z,2017-12-27T12:54:53Z,0,1,0,2,6,0,6,560529.0
+746,Use pytest<3.3 to fix Python 3.3 tests,147,True,True,2017-12-21T01:43:01Z,2017-12-21T01:43:01Z,0,1,0,1,1,1,2,1140.0
+732,Add apt_list_upgradable rule,74,True,True,2017-11-16T19:19:45Z,2017-11-16T19:19:45Z,0,2,1,3,88,0,88,180343.0
+733,Fix zsh alias,499,True,True,2017-11-16T19:19:17Z,2017-11-16T19:19:17Z,0,2,1,1,8,6,14,51696.0
+722,git_flag_after_filename: Handle new error message,87,True,True,2017-11-01T13:42:53Z,2017-11-01T13:42:53Z,1,2,1,2,14,4,18,74675.0
+709,#702: fix minor issues with `php_s` rule,444,True,True,2017-10-16T17:10:01Z,2017-10-16T17:10:01Z,0,2,2,2,13,9,22,515362.0
+703,Basic fix for #652,27,True,True,2017-10-15T15:30:29Z,2017-10-15T15:30:29Z,4,3,5,3,52,0,52,857724.0
+702,quick fix for #655,48,True,True,2017-10-10T17:24:39Z,2017-10-10T17:24:39Z,2,3,3,3,34,0,34,434018.0
+705,#N/A: Use curl to download get-pip.py on AppVeyor,66,True,True,2017-10-06T05:55:56Z,2017-10-06T05:55:56Z,0,2,1,1,1,1,2,5757.0
+706,Fix minor issues with git_remote_delete,78,True,True,2017-10-09T16:47:14Z,2017-10-09T16:47:14Z,1,3,1,2,10,6,16,61864.0
+701,fixed #670,98,True,True,2017-10-08T14:26:00Z,2017-10-08T14:26:00Z,0,3,3,3,37,0,37,250803.0
+698,Basic DNF support,429,True,True,2017-10-08T14:19:52Z,2017-10-08T14:19:52Z,0,3,6,4,231,0,231,257414.0
+704,#658: Change configuration code for fish shell,50,True,True,2017-10-08T14:18:59Z,2017-10-08T14:18:59Z,0,3,2,1,1,1,2,242081.0
+599,"Added support for ""not installed"" message in apt_get",228,True,True,2017-01-30T12:06:42Z,2017-01-30T12:06:42Z,0,3,3,2,4,1,5,132436.0
+696,Support parameters in PowerShell,76,True,True,2017-09-27T16:09:47Z,2017-09-27T16:09:47Z,0,2,1,1,1,1,2,61733.0
+693,fixes #692 : multiline PS1 breaking instant mode,360,True,True,2017-09-27T16:09:21Z,2017-09-27T16:09:21Z,0,2,1,1,12,2,14,867040.0
+667,Remove `brew upgrade --all` rule.,48,True,True,2017-09-10T05:56:59Z,2017-09-10T05:56:59Z,0,2,2,3,0,33,33,5730288.0
+689,Unify work with output in instant and classic modes,183,True,True,2017-09-02T08:02:34Z,2017-09-02T08:02:34Z,0,1,0,240,1384,1368,2752,808.0
+684,682 instant fuck mode,0,True,True,2017-08-28T01:35:52Z,2017-08-28T01:35:52Z,0,1,0,24,313,92,405,742.0
+683,simplify fuck-it alias,84,True,False,,2017-08-26T10:11:03Z,0,2,1,1,1,1,2,0
+680,Fix docs for Command type,0,True,True,2017-08-23T06:37:13Z,2017-08-23T06:37:13Z,0,2,1,1,1,1,2,1301.0
+679,678 speedup thefuck,320,True,True,2017-08-21T10:25:33Z,2017-08-21T10:25:33Z,0,1,0,5,117,5,122,1129.0
+676,#662: Autoconfigure when `fuck` was called < 60 seconds ago from the same shell,0,True,True,2017-08-08T15:36:11Z,2017-08-08T15:36:11Z,0,1,0,3,60,28,88,4666.0
+657,Update stderr wording of git_not_command,90,True,True,2017-06-19T21:12:47Z,2017-06-19T21:12:47Z,1,3,2,3,15,9,24,1208505.0
+669,#630 Catching the escaped space in filenames,275,True,True,2017-07-22T18:11:03Z,2017-07-22T18:11:03Z,0,2,1,3,1,3,4,356162.0
+640,fix sudo.py for macport,59,True,True,2017-05-03T08:08:53Z,2017-05-03T08:08:53Z,0,2,1,1,2,1,3,34255.0
+622,Fix heroku_not_command for new stderr format,294,True,True,2017-03-28T12:56:03Z,2017-03-28T12:56:03Z,0,2,1,2,15,26,41,147523.0
+621,add rule for: yarn install [pkg],186,True,False,,2017-03-28T16:37:17Z,0,2,1,3,46,0,46,0
+619,Extend yarn_alias rule to handle package.json scripts,318,True,True,2017-03-23T15:39:11Z,2017-03-23T15:39:11Z,0,2,1,2,4,2,6,67531.0
+617,git_stash_pop: Add only updated files,230,True,True,2017-03-22T11:25:25Z,2017-03-22T11:25:25Z,0,2,1,2,2,2,4,40238.0
+618,Created a rule for trying to push a new repository with no commits.,103,True,True,2017-03-22T13:00:25Z,2017-03-22T13:00:25Z,0,2,2,3,43,0,43,9298.0
+563,"Run flake8 in Travis, fix some errors",0,True,True,2017-03-13T12:39:24Z,2017-03-13T12:39:24Z,8,4,23,60,174,173,347,13725146.0
+602,Add rule for hostscli,52,True,True,2017-03-13T12:54:03Z,2017-03-13T12:54:03Z,0,2,4,4,57,1,58,3123088.0
+573,Fix issue with scrolling when package not found,733,True,True,2017-03-13T12:47:17Z,2017-03-13T12:47:17Z,0,4,4,1,5,2,7,11249831.0
+532,start work on -y,249,True,False,,2017-03-13T12:44:56Z,0,4,20,1,1,0,1,0
+456,Added missing psutil dependency for install command,53,True,False,,2017-03-13T12:44:18Z,0,2,3,1,1,1,2,0
+424,adding dnf install rule,0,True,False,,2017-03-13T12:43:55Z,0,3,2,3,35,0,35,0
+193,Custom fuckups rule -- no command line args,41,True,False,,2017-03-13T12:42:49Z,0,2,4,3,101,0,101,0
+167,custom fuckups with --ifuckedup,197,True,False,,2017-03-13T12:42:20Z,0,3,7,5,149,15,164,0
+144,Change 'Abort' message to the more appropriate 'Pulled out',0,True,False,,2017-03-13T12:42:00Z,0,3,1,2,2,2,4,0
+65,Update rm_dir.py,52,True,False,,2017-03-13T12:41:43Z,0,5,9,3,11,2,13,0
+17,Readme fixes,101,True,False,,2017-03-13T12:41:11Z,0,4,8,1,7,0,7,0
+612,Add `yarn_help` rule,505,True,True,2017-03-13T12:32:13Z,2017-03-13T12:32:13Z,0,3,2,5,84,0,84,239003.0
+609,Add `yarn_command_not_found` rule,85,True,True,2017-03-06T16:32:44Z,2017-03-06T16:32:44Z,0,2,1,3,145,0,145,215504.0
+607,Fix aliased `yarn` commands like `yarn ls`,333,True,True,2017-03-03T12:50:59Z,2017-03-03T12:50:59Z,0,2,2,3,37,0,37,385174.0
+606,Add git_rm_staged rule for removing locally staged changes,140,True,True,2017-03-03T12:52:44Z,2017-03-03T12:52:44Z,0,2,1,3,48,0,48,390842.0
+605,Improve performance of history rule,484,True,True,2017-02-24T12:46:57Z,2017-02-24T12:46:57Z,0,2,1,1,1,1,2,167018.0
+604,add support for colemak style vi bindings,174,True,True,2017-02-08T12:01:28Z,2017-02-08T12:01:28Z,0,3,1,1,3,2,5,3278.0
+598,Add git_add_force rule,316,True,True,2017-01-30T12:02:20Z,2017-01-30T12:02:20Z,0,3,2,3,36,0,36,149678.0
+597,README.md: fix typo in git_stash description,78,True,True,2017-01-30T12:00:43Z,2017-01-30T12:00:43Z,0,3,6,1,1,1,2,213289.0
+596,Add git_tag_force rule,188,True,True,2017-01-30T12:00:20Z,2017-01-30T12:00:20Z,0,3,9,3,32,0,32,213499.0
+582,Fix `git stash pop` with local changes,1115,True,True,2016-12-22T13:02:05Z,2016-12-22T13:02:05Z,0,3,2,3,37,0,37,933344.0
+586,Add Python 3.6 support,155,True,True,2017-01-09T16:38:37Z,2017-01-09T16:38:37Z,0,3,2,3,7,3,10,90161.0
+45,Added requirements and update command,55,True,True,2015-04-19T20:37:15Z,2015-04-19T20:37:15Z,0,3,2,1,13,0,13,34743.0
+580,bash: fix parsing of command substitution,605,True,True,2016-11-30T14:49:47Z,2016-11-30T14:49:47Z,0,3,3,4,32,3,35,305382.0
+578,#577: Use builtin `history` in Fish function,8,True,True,2016-11-22T11:03:06Z,2016-11-22T11:03:06Z,0,4,3,2,7,6,13,381238.0
+570,git: fix `fatal: bad flag '...' after filename`,554,True,True,2016-11-08T22:53:58Z,2016-11-08T22:53:58Z,0,3,5,3,54,0,54,767522.0
+572,Suggest `ls -A` when `ls` has no output,69,True,True,2016-11-01T11:51:05Z,2016-11-01T11:51:05Z,0,3,3,3,23,0,23,64686.0
+571,bash: always honor alter_history setting,243,True,True,2016-10-31T11:56:31Z,2016-10-31T11:56:31Z,0,4,3,1,1,1,2,31093.0
+551,#N/A: Add `git_bisect_usage` rule,0,True,True,2016-10-02T15:20:43Z,2016-10-02T15:20:43Z,0,3,2,3,47,0,47,405476.0
+569,#N/A: Add `git_rebase_merge_dir` rule,0,True,True,2016-10-31T11:55:05Z,2016-10-31T11:55:05Z,0,3,2,3,58,0,58,48185.0
+568,#N/A: Do not fail if formula is already installed,0,True,True,2016-10-30T18:50:02Z,2016-10-30T18:50:02Z,0,3,4,1,1,1,2,79830.0
+567,#N/A: Add `git_rm_local_modifications` rule,0,True,True,2016-10-30T18:51:20Z,2016-10-30T18:51:20Z,0,3,5,3,48,0,48,83126.0
+565,Fix suggestion for `git push -u`,23,True,True,2016-10-08T10:25:07Z,2016-10-08T10:25:07Z,0,3,5,2,7,1,8,148487.0
+564,Use official Python images for Docker tests,290,True,True,2016-10-07T08:38:49Z,2016-10-07T08:38:49Z,0,3,2,5,24,44,68,61374.0
+562,Suggest `foo --help` when `man foo` shows no pages,134,True,True,2016-10-07T08:37:33Z,2016-10-07T08:37:33Z,1,5,11,2,15,2,17,347884.0
+561,Suggest `ag -Q` when relevant,57,True,True,2016-10-07T08:35:34Z,2016-10-07T08:35:34Z,2,4,6,3,37,1,38,360034.0
+550,Stash/pop changed files when running git pull,43,True,True,2016-09-19T22:28:57Z,2016-09-19T22:28:57Z,0,3,4,4,53,1,54,40898.0
+557,Add sudo rule for Aura,292,True,True,2016-10-02T15:21:04Z,2016-10-02T15:21:05Z,0,3,2,1,2,1,3,157508.0
+560,Suggest `git diff --no-index` when relevant,56,True,True,2016-10-03T11:07:46Z,2016-10-03T11:07:46Z,0,3,4,3,44,0,44,25041.0
+556,Suggest `brew link --overwrite --dry-run` when relevant,85,True,True,2016-10-02T15:17:36Z,2016-10-02T15:17:36Z,0,3,2,3,53,0,53,157406.0
+555,Suggest `brew uninstall --force` when relevant,13,True,True,2016-10-02T15:14:54Z,2016-10-02T15:14:54Z,0,3,3,3,45,0,45,236803.0
+559,Fix suggestions for `git push -u origin`,13,True,True,2016-10-02T15:21:53Z,2016-10-02T15:21:53Z,0,3,4,2,21,1,22,155148.0
+552,Custom rule: Remove trailing cedillas,440,True,True,2016-10-02T15:19:49Z,2016-10-02T15:19:49Z,0,4,9,3,25,0,25,278358.0
+554,Add new aws cli rule,74,True,True,2016-10-02T15:14:14Z,2016-10-02T15:14:14Z,0,3,5,3,119,0,119,236958.0
+548,add aliases rule that resolves aliases,572,True,False,,2016-09-15T11:21:26Z,0,3,3,1,37,0,37,0
+545,readme: add -H flag to second sudo pip command,0,True,True,2016-09-06T20:38:17Z,2016-09-06T20:38:17Z,0,3,2,1,1,1,2,16623.0
+540,create new config dirs in $HOME instead of $CWD,155,True,True,2016-08-22T02:45:51Z,2016-08-22T02:45:51Z,0,3,3,1,14,9,23,23895.0
+539,prevent infinity loop while detecting shell,50,True,True,2016-08-21T07:22:36Z,2016-08-21T07:22:36Z,0,3,2,1,1,1,2,96592.0
+538,Preserve args for git_push,623,True,True,2016-08-21T07:20:54Z,2016-08-21T07:20:54Z,0,3,8,2,6,1,7,122794.0
+535,#534: Improve open rule,109,True,True,2016-08-13T12:20:12Z,2016-08-13T12:20:12Z,0,3,2,3,72,40,112,115691.0
+530,#N/A: Use git_branch_exists rule with `checkout` too,51,True,True,2016-07-22T10:11:05Z,2016-07-22T10:11:05Z,0,3,4,2,9,7,16,58241.0
+523,Add semi-colons in powershell alias,246,True,True,2016-06-27T20:15:14Z,2016-06-27T20:15:14Z,0,3,3,1,3,3,6,9746.0
+529,"Added ""contains work"" error for git push",250,True,True,2016-07-07T12:42:11Z,2016-07-07T12:42:11Z,0,3,2,2,30,1,31,10265.0
+527,Add `brew update` to Homebrew commands,127,True,True,2016-06-29T22:46:36Z,2016-06-29T22:46:36Z,0,3,3,1,1,1,2,10417.0
+525,Avoid importing pip,115,True,True,2016-06-29T11:11:26Z,2016-06-29T11:11:26Z,0,3,2,1,8,5,13,22807.0
+517,#N/A: Update cargo_no_command rule to support current Cargo,76,True,True,2016-06-28T12:51:10Z,2016-06-28T12:51:10Z,0,3,3,2,11,4,15,848982.0
+524,Fix functional tests on travis-ci,0,True,True,2016-06-27T21:38:58Z,2016-06-27T21:38:58Z,0,2,1,6,17,17,34,3072.0
+518,Fix a typo,0,True,True,2016-06-27T20:15:41Z,2016-06-27T20:15:41Z,0,3,3,1,1,1,2,373314.0
+521,ui: accept 'q' as quit character,210,True,True,2016-06-27T20:14:16Z,2016-06-27T20:14:16Z,0,3,3,2,8,7,15,208923.0
+513,#N/A: Cleanup shells/fish.py a bit,0,True,True,2016-06-06T03:46:36Z,2016-06-06T03:46:36Z,0,3,2,1,0,4,4,90093.0
+515,Add a new rule `git_rebase_no_changes`.,242,True,True,2016-06-15T15:29:22Z,2016-06-15T15:29:22Z,0,3,2,3,44,0,44,317276.0
+413,Delete NULL bytes from command.script_parts[0],193,True,False,,2016-06-11T02:48:57Z,0,2,2,1,2,1,3,0
+507,#N/A: Assert deprecated warnings are raised,0,True,True,2016-05-16T23:22:34Z,2016-05-16T23:22:34Z,0,3,2,1,6,3,9,98167.0
+506,Switch from pathlib to pathlib2,303,True,True,2016-05-16T23:23:03Z,2016-05-16T23:23:03Z,0,3,2,7,28,8,36,373793.0
+505,#504: Decode binary name if on Python 2,0,True,True,2016-05-12T01:47:57Z,2016-05-12T01:47:57Z,0,3,2,2,25,8,33,33181.0
+494,#N/A Add a new rule `brew_update_formula`,0,True,True,2016-04-21T10:06:11Z,2016-04-21T10:06:11Z,0,3,2,3,43,0,43,31085.0
+500,#495: Alter history only when configured to do so,0,True,True,2016-05-03T10:18:12Z,2016-05-03T10:18:12Z,0,3,4,2,16,4,20,287729.0
+503,#501: Split Ubuntu and OS X installation instructions,0,True,True,2016-05-09T12:14:05Z,2016-05-09T12:14:05Z,0,3,2,1,9,2,11,466674.0
+495,#493: Add `put_to_history` back to Fish,61,True,False,,2016-04-22T00:27:16Z,0,3,3,4,34,0,34,0
+489,Improve readme,0,True,True,2016-04-01T22:44:51Z,2016-04-01T22:44:51Z,0,3,2,1,17,6,23,77644.0
+488,App veyor,195,True,True,2016-03-31T01:44:44Z,2016-03-31T01:44:44Z,0,3,3,4,29,4,33,2424.0
+492,Treat overridden aliases in a better way,118,True,True,2016-04-07T10:09:08Z,2016-04-07T10:09:08Z,0,3,2,2,17,12,29,26994.0
+491,#N/A Add a new rule `git_branch_exists`,0,True,True,2016-04-03T11:08:46Z,2016-04-03T11:08:46Z,0,3,3,3,55,0,55,28621.0
+483,Update install procedure for pip,270,True,True,2016-03-23T03:11:07Z,2016-03-23T03:11:07Z,0,3,2,1,1,1,2,123724.0
+487,#486: Use alternative encoding when sys.stdout.encoding is None,8,True,True,2016-03-23T03:09:36Z,2016-03-23T03:09:36Z,0,3,2,1,3,1,4,28491.0
+481,Fix `git_add` rule,0,True,True,2016-03-19T10:59:22Z,2016-03-19T10:59:22Z,0,3,2,3,27,36,63,33124.0
+485,#484: Use PIPE as stdin when Popening the script,8,True,True,2016-03-21T20:35:18Z,2016-03-21T20:35:18Z,0,3,2,2,2,1,3,2086.0
+477,#N/A: Add new `git_rm_recursive` rule,121,True,True,2016-03-15T01:30:31Z,2016-03-15T01:30:31Z,0,2,1,3,43,0,43,12066.0
+474,#301: Set variables within the alias,8,True,True,2016-03-10T10:25:50Z,2016-03-10T10:25:50Z,0,2,2,6,25,7,32,33981.0
+476,#N/A: Add new `git_help_aliased` rule,0,True,True,2016-03-12T22:24:57Z,2016-03-12T22:24:57Z,0,3,3,3,37,0,37,1778.0
+473,#439 & #447: Remove cache if created with unavailable db,176,True,True,2016-03-09T23:52:33Z,2016-03-09T23:52:33Z,0,2,2,1,2,2,4,166755.0
+472,Rules: git remote add instead of set-url if remote does not exist,0,True,True,2016-03-06T10:33:14Z,2016-03-06T10:33:14Z,0,4,11,3,41,0,41,164579.0
+158,Update sudo.py,90,True,False,,2016-03-05T15:05:04Z,0,2,1,1,2,1,3,0
+471,Add no hard link support for ln,213,True,True,2016-03-03T21:20:48Z,2016-03-03T21:20:48Z,0,3,4,3,71,0,71,101733.0
+447,Changed dbm to anydbm for better not-unix support,575,True,False,,2016-02-15T11:21:37Z,0,3,4,1,5,5,10,0
+462,#N/A Remove fucked up cmd from history regardless of status,70,True,True,2016-02-22T12:48:06Z,2016-02-22T12:48:06Z,0,2,1,1,2,6,8,329309.0
+465,Let bash handle bash’s history,0,True,True,2016-02-22T14:31:59Z,2016-02-22T14:31:59Z,0,2,1,2,11,13,24,1812.0
+461, Add ruby gem error message to sudo patterns,9,True,True,2016-02-18T09:21:54Z,2016-02-18T09:21:54Z,0,2,1,1,10,9,19,129053.0
+458,#439 #447 Except anydbm instead of gdbm for PY2,23,True,True,2016-02-15T11:21:37Z,2016-02-15T11:21:37Z,0,2,1,1,6,5,11,114477.0
+452,Increase coverage,0,True,True,2016-02-01T14:52:09Z,2016-02-01T14:52:09Z,0,3,2,3,43,11,54,1796.0
+450,#449 Fix Fish.how_to_configure(),8,True,True,2016-01-29T09:09:34Z,2016-01-29T09:09:34Z,0,2,1,1,2,1,3,37298.0
+441,Split `shells` module,0,True,True,2016-01-30T21:04:35Z,2016-01-30T21:04:35Z,0,2,2,44,742,673,1415,588249.0
+432,#422: Add `alter_history` settings option,21,True,True,2016-01-13T19:31:19Z,2016-01-13T19:31:19Z,0,1,0,3,19,13,32,358.0
+443,new pattern in sudo rule,134,True,True,2016-01-24T13:45:17Z,2016-01-24T13:45:17Z,0,2,1,1,1,0,1,390.0
+435,#353 Cache Fish aliases too,0,True,True,2016-01-21T15:40:11Z,2016-01-21T15:40:11Z,0,2,1,1,1,0,1,57358.0
+436,Fix cache problem when going from Python 3 to 2,34,True,True,2016-01-22T13:56:08Z,2016-01-22T13:56:08Z,0,2,1,1,8,2,10,43091.0
+427,#425 command had to be re escaped,78,True,True,2016-01-08T13:38:05Z,2016-01-08T13:38:05Z,0,3,2,1,1,1,2,68510.0
+437,Exclude recursively tests packages,0,True,True,2016-01-22T13:56:29Z,2016-01-22T13:56:29Z,0,2,1,1,1,1,2,4027.0
+288,fix(fish.get_aliases): do not include overridden aliases,300,True,True,2015-07-15T03:58:32Z,2015-07-15T03:58:32Z,0,2,1,2,34,7,41,93869.0
+315,Fix git_push_pull and not_match tests,0,True,True,2015-07-26T19:08:09Z,2015-07-26T19:08:09Z,0,2,1,2,11,4,15,59709.0
+389,Fix `rules.touch` tests,147,True,True,2015-10-21T09:50:09Z,2015-10-21T09:50:09Z,0,2,1,2,2,2,4,215993.0
+434,#433: Set env vars right in the aliases,8,True,True,2016-01-17T11:00:23Z,2016-01-17T11:00:23Z,0,3,2,3,17,16,33,40719.0
+431,#428: Don't fail when history is readonly,0,True,True,2016-01-13T19:03:31Z,2016-01-13T19:03:31Z,0,1,0,1,17,14,31,129.0
+430,#429: Add `apt_invalid_operation` rule,0,True,True,2016-01-13T19:12:35Z,2016-01-13T19:12:35Z,0,1,0,3,176,0,176,691.0
+426,Fixing typos,0,True,True,2016-01-08T13:37:23Z,2016-01-08T13:37:23Z,0,2,1,1,3,3,6,79234.0
+423,Add Windows error message support to cd_mkdir rule,122,True,True,2016-01-06T00:34:03Z,2016-01-06T00:34:03Z,0,3,3,1,2,1,3,15930.0
+411,Support non-ascii content in Python 2,323,True,True,2015-11-25T12:41:20Z,2015-11-25T12:41:21Z,0,3,2,15,159,64,223,28780.0
+419,Fix the `dirty_unzip` rule,0,True,True,2015-12-29T21:58:30Z,2015-12-29T21:58:30Z,0,3,2,2,13,5,18,15061.0
+418,sudo sh execute for && in commands - preventing double sudo,116,True,True,2015-12-29T21:57:50Z,2015-12-29T21:57:50Z,0,2,1,2,6,3,9,564443.0
+414,Fix getch on windows,10,True,True,2015-12-10T23:37:28Z,2015-12-10T23:37:28Z,0,2,6,3,16,2,18,875003.0
+408,python2.7 unicode error,0,True,True,2015-11-25T12:41:22Z,2015-11-25T12:41:22Z,0,3,5,2,11,4,15,591744.0
+409,#394 history limit,0,True,True,2015-11-19T03:17:21Z,2015-11-19T03:17:21Z,0,2,2,4,19,14,33,26.0
+394,"add THEFUCK_HISTORY_LIMIT, my machine is so slow",208,True,False,,2015-11-19T01:58:15Z,0,2,6,3,17,4,21,0
+406,Fix cache problem when going from Python 2 to 3,19,True,True,2015-11-18T10:32:24Z,2015-11-18T10:32:24Z,0,2,1,19,75,71,146,237583.0
+407,fix Unicode Encode Error,0,True,False,,2015-11-17T17:35:59Z,0,2,4,2,9,6,15,0
+400,Fix misinterpretation of the disabled flag,993,True,True,2015-11-05T18:19:07Z,2015-11-05T18:19:07Z,0,2,1,1,9,4,13,70427.0
+397,Use --force-with-lease instead of --force for git push,483,True,True,2015-10-30T18:47:51Z,2015-10-30T18:47:51Z,0,3,1,3,5,5,10,12078.0
+390,"add THEFUCK_HISTORY_LIMIT, my machine is so slow",208,True,False,,2015-10-29T02:18:34Z,0,1,1,3,15,4,19,0
+392,Better splitting,425,True,True,2015-10-28T16:14:19Z,2015-10-28T16:14:19Z,0,2,1,28,165,101,266,1378.0
+391,#374 Test python 3.5 with tox,57,True,True,2015-10-28T12:52:45Z,2015-10-28T12:52:45Z,0,2,1,1,1,1,2,1092.0
+385, Add support for the XDG Base Directory Specification #383,325,True,True,2015-10-21T10:13:42Z,2015-10-21T10:13:42Z,0,4,5,3,24,5,29,411880.0
+388,Fix rules.brew_install tests on Mac,96,True,True,2015-10-18T17:48:53Z,2015-10-18T17:48:53Z,0,2,1,1,3,4,7,71936.0
+386,Add a CONTRIBUTING file,202,True,True,2015-10-18T17:49:02Z,2015-10-18T17:49:02Z,0,2,1,1,25,0,25,177435.0
+387,Add `git_two_dashes` rule,0,True,True,2015-10-18T17:50:04Z,2015-10-18T17:50:04Z,0,2,1,3,62,0,62,74850.0
+384,Improve the Fish Shell function making it faster,196,True,True,2015-10-18T17:50:53Z,2015-10-18T17:50:54Z,0,2,1,1,14,13,27,219450.0
+160,Follow the XDG Base Directory Specification,132,True,False,,2015-10-16T15:49:14Z,0,2,1,3,15,5,20,0
+374,Test on python 3.5,163,True,True,2015-10-03T02:23:41Z,2015-10-03T02:23:41Z,0,2,1,1,1,0,1,44573.0
+375,rm -f $eval_script,211,True,True,2015-10-03T02:24:39Z,2015-10-03T02:24:39Z,0,2,3,1,1,1,2,44115.0
+373,"Add j, k key for arrow action at read_actions",144,True,True,2015-09-13T09:38:55Z,2015-09-13T09:38:55Z,0,2,1,1,2,2,4,59741.0
+370,#369 Fix `git_fix_stash` fails when script is just `git`,0,True,True,2015-09-10T12:11:34Z,2015-09-10T12:11:34Z,0,1,0,2,10,2,12,157.0
+367,#355 Add `touch` rule,0,True,True,2015-09-09T07:57:55Z,2015-09-09T07:57:55Z,0,1,0,3,43,0,43,84.0
+366,Improve code structure,0,True,True,2015-09-08T14:53:37Z,2015-09-08T14:53:37Z,0,1,0,20,622,544,1166,8855.0
+365,Fix #363,101,True,True,2015-09-07T20:36:13Z,2015-09-07T20:36:13Z,0,2,1,4,23,8,31,5987.0
+364,Don't pass `settings` explicitly,244,True,True,2015-09-07T16:09:31Z,2015-09-07T16:09:31Z,0,1,0,164,739,670,1409,21956.0
+362,#356 fuck endpoint,222,True,True,2015-09-06T10:43:24Z,2015-09-06T10:43:24Z,0,1,0,9,88,9,97,262.0
+361,#357 Add `exclude_rules` settings option,0,True,True,2015-09-06T09:59:34Z,2015-09-06T09:59:34Z,0,1,0,5,47,16,63,100.0
+359,Use pytest-docker-pexpect,45,True,True,2015-09-05T22:28:37Z,2015-09-05T22:28:37Z,0,1,0,13,198,247,445,115.0
+354,Some README fixes,125,True,True,2015-09-02T06:37:28Z,2015-09-02T06:37:28Z,0,2,1,1,7,7,14,53147.0
+352,Fix slowness problems II,217,True,True,2015-09-02T06:36:48Z,2015-09-02T06:36:48Z,0,3,13,20,117,125,242,560968.0
+348,fix usage. why not,0,True,True,2015-09-01T15:21:21Z,2015-09-01T15:21:21Z,0,3,4,1,1,1,2,582012.0
+351,#35 mvn support,222,True,True,2015-08-27T13:11:13Z,2015-08-27T13:11:13Z,0,2,1,5,110,0,110,82345.0
+342,Issue: 322 Runs vagrant up when required,121,True,True,2015-08-21T15:33:42Z,2015-08-21T15:33:42Z,0,3,1,3,54,0,54,104041.0
+343,hdfs -rm -r /directory and hdfs -mkdir -p /directory/sub support,74,True,True,2015-08-21T15:34:19Z,2015-08-21T15:34:19Z,0,2,1,4,36,14,50,1271.0
+340,Adding rule for trying to search using apt-get,42,True,True,2015-08-25T10:48:41Z,2015-08-25T10:48:41Z,0,4,4,3,35,0,35,475904.0
+324,Add ability to select fixed command from variants,8,True,True,2015-07-31T12:39:57Z,2015-07-31T12:39:57Z,0,1,0,34,654,413,1067,161.0
+345,Fix slowness problems,572,True,True,2015-08-24T08:19:48Z,2015-08-24T08:19:48Z,0,3,2,4,15,12,27,45805.0
+344,Fix typo in alias warning,51,True,True,2015-08-23T13:39:31Z,2015-08-23T13:39:31Z,0,2,1,1,1,1,2,85052.0
+339,Fix #338,85,True,True,2015-08-19T14:19:38Z,2015-08-19T14:19:38Z,0,2,1,8,17,13,30,17914.0
+337,Some cleanup and fixes,103,True,True,2015-08-19T14:19:08Z,2015-08-19T14:19:08Z,0,2,1,31,203,114,317,172146.0
+333,basic support for the hdfs dfs <command> when the command misses the …,53,True,True,2015-08-19T14:16:54Z,2015-08-19T14:16:54Z,0,4,1,3,49,0,49,525857.0
+325,Some adaptations for #324,33,True,True,2015-07-31T21:17:56Z,2015-07-31T21:17:57Z,0,2,1,11,72,38,110,3314.0
+335,Add a new rule for pacman/yaourt and fix the apt_get rule,0,True,True,2015-08-16T00:38:50Z,2015-08-16T00:38:50Z,0,2,1,9,152,57,209,202062.0
+332,#331 Fix bug with empty commands,0,True,True,2015-08-11T13:04:00Z,2015-08-11T13:04:00Z,0,3,2,2,9,1,10,14007.0
+329,Change failed message 'No fuck given' to the more popular 'No fucks g…,6,True,True,2015-08-08T01:45:42Z,2015-08-08T01:45:42Z,0,2,1,2,2,2,4,17198.0
+327,Add one more 'need root' phrase,59,True,True,2015-08-07T15:50:42Z,2015-08-07T15:50:42Z,0,2,1,1,1,0,1,80122.0
+208,better way to get shell,579,True,True,2015-05-20T13:39:08Z,2015-05-20T13:39:08Z,0,2,1,1,4,4,8,182331.0
+236,Git branch list,119,True,True,2015-06-02T03:08:09Z,2015-06-02T03:08:09Z,0,2,1,2,28,0,28,20726.0
+323,#320 Add the `fix_file` rule,59,True,True,2015-07-30T15:05:51Z,2015-07-30T15:05:51Z,0,2,1,3,256,0,256,89453.0
+321,Force the travis image to track the master branch,83,True,True,2015-07-29T12:06:45Z,2015-07-29T12:06:45Z,0,2,1,1,1,1,2,50809.0
+319,Add a new `tsuru_not_command` rule,0,True,True,2015-07-28T13:20:46Z,2015-07-28T13:20:46Z,0,2,1,6,152,12,164,42262.0
+316,Add `tsuru_login` rule,0,True,True,2015-07-26T19:08:51Z,2015-07-26T19:08:51Z,0,2,1,3,49,0,49,57699.0
+313,Add the `dirty_unzip` and `dirty_untar` rules,457,True,True,2015-07-27T14:40:12Z,2015-07-27T14:40:12Z,0,2,1,10,230,27,257,148455.0
+317,fix setup.py version checking,184,True,True,2015-07-26T22:05:25Z,2015-07-26T22:05:25Z,0,2,1,1,5,4,9,13360.0
+310,Make a `sudo` pattern more general,79,True,True,2015-07-24T20:32:12Z,2015-07-24T20:32:12Z,0,2,1,1,1,1,2,21461.0
+312,fix description not appearing on pypi page,4,True,True,2015-07-24T20:32:45Z,2015-07-24T20:32:45Z,0,2,1,1,2,0,2,14276.0
+309,Add the `git_fix_stash` rule,21,True,True,2015-07-23T02:22:18Z,2015-07-23T02:22:18Z,0,2,1,3,72,7,79,17634.0
+307,Force LC_ALL to C,707,True,True,2015-07-21T14:11:16Z,2015-07-21T14:11:16Z,0,2,1,1,1,1,2,1230.0
+299,Add `dnf history` error for the sudo rule,54,True,True,2015-07-21T13:15:08Z,2015-07-21T13:15:08Z,0,2,1,2,2,0,2,22667.0
+306,Support GitHub's hub command,83,True,True,2015-07-21T13:43:25Z,2015-07-21T13:43:25Z,0,2,1,15,39,27,66,107.0
+304,Fix the `git_diff_staged` rule,136,True,True,2015-07-21T13:12:19Z,2015-07-21T13:12:19Z,0,2,1,2,6,3,9,4077.0
+296,Some fixes in README.md,0,True,True,2015-07-20T19:49:36Z,2015-07-20T19:49:36Z,0,2,1,1,22,19,41,2145.0
+294,Change installation procedure,412,True,True,2015-07-20T18:16:55Z,2015-07-20T18:16:55Z,0,2,1,3,45,52,97,22584.0
+295,New git rules,0,True,True,2015-07-20T17:42:02Z,2015-07-20T17:42:02Z,0,2,3,5,104,0,104,2537.0
+293,#292 #290 Use @git_support in all git rules,0,True,True,2015-07-19T22:25:25Z,2015-07-19T22:25:25Z,0,2,1,1,5,0,5,1677.0
+284,Add support for coveralls,164,True,False,,2015-07-19T19:30:32Z,0,2,1,4,14,6,20,0
+292,Add git_branch_delete rule,217,True,True,2015-07-19T18:26:39Z,2015-07-19T18:26:39Z,0,2,1,2,29,0,29,23957.0
+290,Resolve git aliases,299,True,True,2015-07-19T18:29:45Z,2015-07-19T18:29:45Z,0,3,2,15,93,38,131,194962.0
+291,Fix wheel dependencies for Python 2,63,True,True,2015-07-18T14:21:05Z,2015-07-18T14:21:05Z,0,2,1,3,5,5,10,77978.0
+289,improve(rules): add a rule to recursively copy a directory,232,True,False,,2015-07-15T16:35:06Z,0,2,2,3,36,0,36,0
+285,Use `get_closest` in the tmux rule,4,True,True,2015-07-10T12:54:14Z,2015-07-10T12:54:14Z,0,2,1,2,9,3,12,17782.0
+283,Some fixes in REAME.md,0,True,True,2015-07-09T17:13:38Z,2015-07-09T17:13:38Z,0,4,5,1,2,1,3,4287.0
+282,Add systemd's kind of error for the sudo rule,211,True,True,2015-07-09T17:13:17Z,2015-07-09T17:13:17Z,0,2,1,1,2,1,3,6391.0
+272,fix(rules.ls_lah): make sure script starts with ls,8,True,True,2015-07-07T13:28:49Z,2015-07-07T13:28:49Z,0,2,1,2,6,1,7,335325.0
+281,improve(rules): add mercurial (hg) support,26,True,True,2015-07-07T13:36:06Z,2015-07-07T13:36:06Z,0,2,1,2,168,0,168,46559.0
+279,"fixed dependency problem, on python 3.4.0",280,True,True,2015-07-07T13:34:44Z,2015-07-07T13:34:44Z,0,3,2,1,6,1,7,254166.0
+278,Add a sed_unterminated_s rule,0,True,True,2015-07-07T13:30:42Z,2015-07-07T13:30:42Z,0,2,1,4,53,0,53,254621.0
+277,Fix the pacman rule with `sudo`,128,True,True,2015-07-07T13:30:02Z,2015-07-07T13:30:02Z,0,2,1,2,23,11,34,262855.0
+276,Add a tmux rule,89,True,True,2015-07-07T13:29:15Z,2015-07-07T13:29:15Z,0,2,1,3,35,1,36,263346.0
+265,Open,366,True,True,2015-07-07T13:27:33Z,2015-07-07T13:27:33Z,0,2,1,1,16,14,30,954307.0
+267,add python version testing in setup.py,71,True,True,2015-07-07T13:28:28Z,2015-07-07T13:28:28Z,0,2,1,1,13,0,13,558984.0
+275,Update requirements.txt,46,True,False,,2015-07-04T22:14:33Z,0,2,2,1,9,4,13,0
+264,Cleanup,251,True,True,2015-06-26T14:30:14Z,2015-06-26T14:30:14Z,0,2,1,16,102,96,198,8285.0
+263,Add a test.py rule,0,True,True,2015-06-26T14:28:24Z,2015-06-26T14:28:24Z,0,2,1,2,11,0,11,8528.0
+261,Added systemctl rule,0,True,True,2015-06-24T10:50:36Z,2015-06-24T10:50:36Z,0,2,1,3,36,1,37,11595.0
+259,Added Python Compile Rule,0,True,True,2015-06-22T16:19:41Z,2015-06-22T16:19:41Z,0,2,1,3,33,0,33,139851.0
+252,Use an environment variable that keeps the alias name to avoid looping,64,True,True,2015-06-16T10:53:29Z,2015-06-16T10:53:29Z,0,2,1,4,76,24,100,471047.0
+256,fix(main.wait_output): use Process’ children() instead of get_children(),258,True,True,2015-06-16T10:47:30Z,2015-06-16T10:47:30Z,0,2,1,1,1,1,2,79047.0
+257,Fix sudo rule,240,True,True,2015-06-16T10:46:42Z,2015-06-16T10:46:42Z,0,3,2,2,7,0,7,38255.0
+250,change encoding of return statement to utf8,10,True,True,2015-06-06T23:24:04Z,2015-06-06T23:24:04Z,0,2,0,1,1,1,2,17294.0
+249,Add two cargo related rules,237,True,True,2015-06-06T23:09:11Z,2015-06-06T23:09:11Z,0,2,1,4,43,0,43,28544.0
+246,Added mount rule,55,True,True,2015-06-04T17:58:24Z,2015-06-04T17:58:24Z,0,2,1,1,2,1,3,4760.0
+219,fix(shell::Fish): avoid looping when calling `fuck` twice,41,True,True,2015-05-28T15:00:42Z,2015-05-28T15:00:42Z,0,2,2,2,28,4,32,216230.0
+230,add(rule): add the new git_diff_staged rule,0,True,True,2015-06-01T05:10:06Z,2015-06-01T05:10:06Z,0,2,1,3,34,0,34,199664.0
+237,+how to make the command available right away,0,True,True,2015-06-02T03:10:13Z,2015-06-02T03:10:13Z,0,2,1,1,1,0,1,11581.0
+240,Added brew_upgrade rule,195,True,True,2015-06-02T05:46:57Z,2015-06-02T05:46:57Z,0,2,1,3,30,0,30,1122.0
+239,Added quotation_marks rule,42,True,True,2015-06-02T05:46:06Z,2015-06-02T05:46:06Z,0,2,1,3,34,0,34,1240.0
+238,Added go_run rule,37,True,True,2015-06-02T05:44:56Z,2015-06-02T05:44:56Z,0,2,1,3,32,0,32,2639.0
+232,Wrap apt-get rule in sudo_support,368,True,True,2015-05-30T22:20:15Z,2015-05-30T22:20:15Z,0,2,1,1,3,2,5,19622.0
+228,Fix cd command,8,True,True,2015-05-29T01:04:02Z,2015-05-29T01:04:02Z,0,4,4,1,1,1,2,12767.0
+225,Added java rule,116,True,True,2015-05-28T15:03:44Z,2015-05-28T15:03:44Z,0,2,1,3,31,0,31,112157.0
+227,Added a sudo string of Fedora's fedup,135,True,True,2015-05-28T15:02:00Z,2015-05-28T15:02:00Z,0,2,1,1,2,1,3,47594.0
+224,Added javac rule,156,True,True,2015-05-28T15:01:14Z,2015-05-28T15:01:14Z,0,2,1,3,33,0,33,112073.0
+223,Fixing bug with /bin/sh not understanding other shells' keywords,218,True,False,,2015-05-26T23:47:07Z,0,1,2,1,2,1,3,0
+216,Addressed Issue #210,758,True,True,2015-05-23T15:45:52Z,2015-05-23T15:45:53Z,0,2,1,2,49,0,49,773.0
+215,Cache aliases to speed up subsequent calls and add support to Fish functions,24,True,True,2015-05-22T13:55:00Z,2015-05-22T13:55:00Z,0,2,1,2,48,17,65,39322.0
+214,refact(man): do not match if there's no argument to man,153,True,True,2015-05-21T12:42:26Z,2015-05-21T12:42:26Z,0,2,1,2,9,1,10,35045.0
+212,fix(whois): check if there's at least one argument to `whois`,208,True,True,2015-05-20T21:33:22Z,2015-05-20T21:33:22Z,0,2,1,2,5,1,6,16471.0
+211,Add a rule to change man section,0,True,True,2015-05-20T21:32:23Z,2015-05-20T21:32:23Z,0,2,1,3,40,0,40,20053.0
+206,Add support to Fish shell,59,True,True,2015-05-19T09:53:03Z,2015-05-19T09:53:03Z,0,2,1,2,49,1,50,150044.0
+202,Cleanup `pacman` rule,0,True,True,2015-05-19T09:51:26Z,2015-05-19T09:51:26Z,0,3,8,2,23,21,44,236998.0
+205,Adding cd correction rule to the default rules,513,True,True,2015-05-19T09:52:16Z,2015-05-19T09:52:16Z,0,4,4,1,49,0,49,190550.0
+200,Improve shells,857,True,True,2015-05-17T13:25:45Z,2015-05-17T13:25:45Z,0,3,3,16,271,8,279,80394.0
+201,Add test and complete README for the `whois` rule,0,True,True,2015-05-17T13:26:23Z,2015-05-17T13:26:23Z,0,3,1,3,22,1,23,77144.0
+204,Fixed a problem at whois.py,417,True,False,,2015-05-16T21:31:51Z,0,3,2,2,3,2,5,0
+203,ignore tag files,0,True,False,,2015-05-16T18:42:30Z,0,2,2,1,3,0,3,0
+198,fix(pacman): make the entire rule py2-compatible,45,True,True,2015-05-16T09:50:36Z,2015-05-16T09:50:36Z,0,2,1,1,1,1,2,44220.0
+199,Adding rule for forgotten '-r' when grepping folders,456,True,True,2015-05-16T09:51:07Z,2015-05-16T09:51:07Z,0,3,4,2,19,0,19,40936.0
+197,Add a `whois` rule,692,True,True,2015-05-15T17:13:22Z,2015-05-15T17:13:22Z,0,2,1,1,30,0,30,1843.0
+196,Add a `no_such_file` rule,462,True,True,2015-05-15T17:12:43Z,2015-05-15T17:12:43Z,0,3,2,3,48,0,48,3640.0
+192,Fix brew_install rule on Python 3,128,True,True,2015-05-13T20:54:28Z,2015-05-13T20:54:28Z,0,2,1,1,2,3,5,6995.0
+183,fix(brew_unknown_command): make subprocess.check_output return str,61,True,True,2015-05-12T12:20:06Z,2015-05-12T12:20:06Z,0,2,1,1,2,1,3,30329.0
+190,Add TCSH support,80,True,True,2015-05-13T15:04:17Z,2015-05-13T15:04:17Z,0,2,1,2,31,1,32,295.0
+188,Improve the git_stash rule,4,True,True,2015-05-13T09:44:16Z,2015-05-13T09:44:16Z,0,2,1,2,4,3,7,6933.0
+187,Add a git_stash rule,0,True,True,2015-05-12T18:40:59Z,2015-05-12T18:40:59Z,0,5,3,2,8,0,8,3333.0
+185,Fix thefuck-alias to print in app_alias function.,55,True,True,2015-05-12T12:22:43Z,2015-05-12T12:22:43Z,0,2,2,1,1,1,2,12070.0
+177,Fixed grammar in README.txt,126,True,True,2015-05-09T17:30:20Z,2015-05-09T17:30:20Z,0,2,3,1,6,6,12,54.0
+179,Add a `C++11` rule,0,True,True,2015-05-10T07:35:59Z,2015-05-10T07:35:59Z,0,2,1,2,12,0,12,46629.0
+10,Untested: Added --dry as an option.,112,True,False,,2015-05-09T12:13:26Z,0,8,7,2,28,3,31,0
+170,add rule for having no spaces in man commands.,19,True,True,2015-05-07T23:11:48Z,2015-05-07T23:11:48Z,0,2,1,3,24,2,26,15788.0
+123,"Revert ""Fixing fish shell example in README.md""",12,True,True,2015-04-24T16:25:05Z,2015-04-24T16:25:05Z,0,1,0,1,1,1,2,12.0
+171,Add a don't repeat yourself rule,235,True,True,2015-05-08T10:11:41Z,2015-05-08T10:11:41Z,0,2,1,3,30,0,30,37286.0
+166,Add a git_add rule,0,True,True,2015-05-06T11:10:23Z,2015-05-06T11:10:23Z,0,2,1,2,16,0,16,5839.0
+169,Add the git_checkout rule,75,True,True,2015-05-07T23:11:09Z,2015-05-07T23:11:09Z,0,3,2,2,16,0,16,16540.0
+164,Gave all modules priority over no_command,94,True,False,,2015-05-07T11:18:47Z,0,2,1,2,3,3,6,0
+162,docker thefuck,0,True,False,,2015-05-06T16:39:35Z,0,2,2,1,13,0,13,0
+165,rules(pacman): make it compatible with Python 2,39,True,False,,2015-05-06T11:17:58Z,0,2,3,1,21,0,21,0
+159,Add a rule for pacman,222,True,True,2015-05-05T11:30:03Z,2015-05-05T11:30:03Z,0,2,1,2,43,0,43,7512.0
+137,Added dpkg rule,44,True,True,2015-04-28T18:32:41Z,2015-04-28T18:32:41Z,0,3,4,2,4,2,6,71157.0
+130,config.fish: improve documentation on creating Fish functions,70,True,False,,2015-04-27T13:33:35Z,0,5,18,1,10,2,12,0
+156,"Add support for oh-my-zsh's shortcut for ""git push"".",0,True,False,,2015-05-03T11:42:25Z,0,3,3,1,3,3,6,0
+132,Added the --bash-alias command to output the alias,187,True,False,,2015-05-01T05:46:58Z,0,3,7,1,9,0,9,0
+150,Add thefuck-alias for outputting the alias command.,43,True,True,2015-04-30T18:53:22Z,2015-04-30T18:53:22Z,0,2,1,3,12,2,14,492.0
+148,Add more patterns to sudo.py,71,True,True,2015-04-30T17:50:59Z,2015-04-30T17:50:59Z,0,2,2,1,3,1,4,17805.0
+149,Add sudo rule for shutdown command.,68,True,True,2015-04-30T17:57:14Z,2015-04-30T17:57:14Z,0,2,1,1,2,1,3,12682.0
+145,Adds example lines of settings.py in readme.py,154,True,False,,2015-04-29T02:47:54Z,0,2,2,1,8,0,8,0
+146,Improve a logic to get recommended command based on local environment,184,True,True,2015-04-29T06:48:20Z,2015-04-29T06:48:20Z,0,2,1,2,75,9,84,1282.0
+143,add version info to requirements,16,True,True,2015-04-29T02:48:48Z,2015-04-29T02:48:48Z,0,2,1,1,1,1,2,28711.0
+110,Support brew unknown command,152,True,True,2015-04-23T13:04:18Z,2015-04-23T13:04:18Z,0,3,5,5,154,0,154,17754.0
+107,Add a support for pip unknown commands,99,True,True,2015-04-23T13:02:56Z,2015-04-23T13:02:56Z,0,3,2,3,46,6,52,23628.0
+139,Add a support for git command alish as well,93,True,False,,2015-04-29T03:33:25Z,0,2,2,2,4,3,7,0
+140,Add a support for pip install with sudo,284,True,True,2015-04-29T03:02:20Z,2015-04-29T03:02:20Z,0,4,4,2,71,0,71,74900.0
+84,Add tests for cd_parent command.,34,True,True,2015-04-21T20:01:57Z,2015-04-21T20:01:57Z,0,2,1,1,12,0,12,5057.0
+61,fix spelling,131,True,False,,2015-04-21T12:55:47Z,0,2,3,1,7,7,14,0
+138,Adjusted for 3.4,0,True,False,,2015-04-28T03:24:10Z,0,1,0,1,4,2,6,0
+133,Add tip on installing requirements on Ubuntu,198,True,False,,2015-04-27T05:48:48Z,0,2,1,1,6,0,6,0
+134,Fix typo: unoffical -> unofficial,0,True,True,2015-04-27T05:30:14Z,2015-04-27T05:30:14Z,0,3,1,1,1,1,2,21303.0
+117,Fixing fish shell example in README.md,166,True,True,2015-04-24T02:37:27Z,2015-04-24T02:37:27Z,0,4,5,1,1,1,2,14421.0
+118,Adds a fuck for ls that adds -lah,111,True,True,2015-04-25T01:42:56Z,2015-04-25T01:42:56Z,0,2,1,3,21,0,21,90374.0
+120,Added cd_mkdir rule,248,True,True,2015-04-24T16:23:22Z,2015-04-24T16:23:22Z,0,3,2,3,34,0,34,34022.0
+56,Update Readme - Reload the shell,0,True,False,,2015-04-25T01:39:06Z,0,2,1,1,8,0,8,0
+95,Added colorama in requirements.txt,0,True,False,,2015-04-25T01:34:58Z,0,2,1,0,0,0,0,0
+119,conf: initialize a settings file if it doesn't exist (fix #111),34,True,True,2015-04-24T16:22:53Z,2015-04-24T16:22:53Z,0,2,1,3,51,1,52,46508.0
+114,Added rule for fixing Alt+Space character,379,True,True,2015-04-23T16:07:44Z,2015-04-23T16:07:44Z,0,2,1,3,34,0,34,9947.0
+78,"adding a rule to run ""sudo apt-get install""",134,True,True,2015-04-24T03:23:20Z,2015-04-24T03:23:20Z,0,2,5,1,28,0,28,213653.0
+116,Add composer rule,62,True,True,2015-04-23T19:48:22Z,2015-04-23T19:48:23Z,0,2,1,2,64,0,64,15069.0
+112,Using eval for Bash alias,16,True,True,2015-04-23T13:06:23Z,2015-04-23T13:06:23Z,0,2,1,1,2,2,4,13163.0
+109,MacOSX specific message,199,True,True,2015-04-23T13:03:20Z,2015-04-23T13:03:20Z,0,2,1,1,1,0,1,20010.0
+106,New rule: sl -> ls,115,True,True,2015-04-23T13:01:57Z,2015-04-23T13:01:57Z,0,6,6,3,27,0,27,27984.0
+96,Making a confirm before executing fixed command,163,True,False,,2015-04-23T08:05:50Z,0,3,3,1,8,6,14,0
+101,Brew installation note in README,68,True,True,2015-04-22T21:05:25Z,2015-04-22T21:05:25Z,0,2,2,1,6,0,6,118.0
+99,fix rm dir rule to make it case insensitive,141,True,True,2015-04-22T18:20:00Z,2015-04-22T18:20:00Z,0,3,3,2,2,1,3,4341.0
+43,Create rm_root.py,261,True,True,2015-04-22T14:46:14Z,2015-04-22T14:46:14Z,0,4,6,1,8,0,8,297618.0
+79,main: enclose text with single quote in double quotes,622,True,False,,2015-04-22T13:37:51Z,0,2,3,1,1,1,2,0
+93,Used re.sub() instead of .replace(),0,True,False,,2015-04-22T13:33:08Z,0,2,1,1,1,1,2,0
+88,Added sudo rule for Fedora yum's output.,46,True,True,2015-04-22T03:15:24Z,2015-04-22T03:15:24Z,0,2,1,1,2,1,3,6376.0
+86,Add Greek to switch lang,62,True,True,2015-04-21T20:19:23Z,2015-04-21T20:19:23Z,0,2,1,2,9,1,10,897.0
+82,add thing for when known hosts have changed,1072,True,True,2015-04-21T20:11:21Z,2015-04-21T20:11:21Z,0,2,1,2,112,0,112,13831.0
+72,Add 'root privilege' pattern to sudo rule.,0,True,True,2015-04-21T12:23:44Z,2015-04-21T12:23:44Z,0,2,1,1,2,1,3,13955.0
+77,Fix spelling mistake,66,True,True,2015-04-21T14:55:39Z,2015-04-21T14:55:39Z,0,2,1,1,1,1,2,437.0
+73,Added a string which could be thrown by Fedora's new dnf package manager.,49,True,True,2015-04-21T12:21:54Z,2015-04-21T12:21:54Z,0,2,1,1,2,1,3,2254.0
+70,add persian language to switch lang rule,8,True,True,2015-04-21T05:15:53Z,2015-04-21T05:15:53Z,0,2,1,1,1,1,2,138.0
+52,Added rule:cp_omitting_directory,131,True,True,2015-04-20T20:01:01Z,2015-04-20T20:01:01Z,0,3,3,1,10,0,10,39101.0
+36,Improve no_command,854,True,True,2015-04-19T12:51:39Z,2015-04-19T12:51:39Z,0,2,6,2,61,11,72,54594.0
+62,A special case for 'Permission denied' error msg when trying to execute ...,212,True,True,2015-04-20T16:52:35Z,2015-04-20T16:52:35Z,0,3,1,3,23,1,24,7269.0
+60,Update Readme to contain a link to the license,54,True,True,2015-04-20T16:50:09Z,2015-04-20T16:50:09Z,0,2,1,1,1,0,1,8221.0
+64,mkdir -p,200,True,True,2015-04-20T16:49:10Z,2015-04-20T16:49:10Z,0,2,1,2,22,0,22,532.0
+63,"tweet, not twit",18,True,True,2015-04-20T16:48:33Z,2015-04-20T16:48:33Z,0,2,1,1,2,2,4,1696.0
+53,Added rm -rf support,313,True,True,2015-04-20T13:28:56Z,2015-04-20T13:28:56Z,0,2,1,2,22,0,22,10271.0
+49,Add Powershell fuck command to README,50,True,True,2015-04-20T13:27:26Z,2015-04-20T13:27:26Z,0,2,1,1,12,0,12,29674.0
+55,add a rule to run the script you enter by add './' in command's prefix,108,True,True,2015-04-20T13:46:43Z,2015-04-20T13:46:43Z,0,3,2,1,9,0,9,6922.0
+57,Fix typos,0,True,True,2015-04-20T13:33:12Z,2015-04-20T13:33:12Z,0,2,1,1,3,3,6,1754.0
+54,Update README.md,101,True,True,2015-04-20T13:29:32Z,2015-04-20T13:29:32Z,0,2,2,1,1,1,2,8214.0
+46,"sudo rule: add support for ""Operation not permitted"" errors",420,True,True,2015-04-19T15:08:06Z,2015-04-19T15:08:06Z,0,2,1,1,2,1,3,145.0
+44,include LICENSE.md in source distribution,0,True,True,2015-04-19T13:06:24Z,2015-04-19T13:06:24Z,0,2,1,1,1,0,1,29903.0
+42,sudo rule: add support for mtr,92,True,True,2015-04-19T13:07:25Z,2015-04-19T13:07:25Z,0,2,2,1,2,1,3,32915.0
+40,Readme: separate the examples to make them easier to read,96,True,True,2015-04-19T13:08:30Z,2015-04-19T13:08:30Z,0,2,1,1,8,0,8,38190.0
+41,Readme: document cd_parent,0,True,True,2015-04-19T13:04:08Z,2015-04-19T13:04:08Z,0,2,1,1,2,1,3,37759.0
+38,Fixed grammar in comments for easier understanding,0,True,True,2015-04-19T00:16:58Z,2015-04-19T00:16:58Z,0,2,1,1,2,2,4,342.0
+31,"fix fish function, close #29",0,True,True,2015-04-18T19:35:43Z,2015-04-18T19:35:43Z,0,2,1,1,1,1,2,489.0
+22,Упрощённое добавление поиска ошибок для sudo,93,True,False,,2015-04-18T19:34:51Z,0,2,1,1,5,2,7,0
+27,Added WTFPL license,62,True,False,,2015-04-18T19:03:57Z,0,4,4,2,15,1,16,0
+19,Improved installation instructions - easy_install instead of pip,89,True,False,,2015-04-18T19:08:13Z,0,5,5,1,1,1,2,0
+30,make sudo rule work with pacman,0,True,True,2015-04-18T19:21:48Z,2015-04-18T19:21:48Z,0,2,1,1,1,0,1,380.0
+14,add alias for use on mondays,0,True,True,2015-04-18T19:20:00Z,2015-04-18T19:20:00Z,0,5,4,1,2,0,2,71317.0
+18,added support for FreeBSD/PCBSD 'pkg' to sudo rule,31,True,True,2015-04-18T19:09:41Z,2015-04-18T19:09:41Z,0,3,2,1,2,1,3,44604.0
+25,Add a copy of the MIT license,80,True,True,2015-04-18T19:02:37Z,2015-04-18T19:02:37Z,0,4,3,1,22,0,22,12734.0
+11,Added rule for rm -rf /,0,True,False,,2015-04-17T21:31:36Z,0,2,1,1,7,0,7,0
+9,Fixed UnicodeDecodeError,151,True,True,2015-04-17T20:41:50Z,2015-04-17T20:41:50Z,0,2,1,1,2,2,4,267.0
+8,Adds rule for cd.. and .gitignore for vim tmp files,92,True,True,2015-04-17T20:32:04Z,2015-04-17T20:32:05Z,0,2,1,2,17,0,17,504.0
+7,Print out the fucking command before running it,439,True,True,2015-04-17T20:30:26Z,2015-04-17T20:30:26Z,0,2,1,2,6,1,7,880.0

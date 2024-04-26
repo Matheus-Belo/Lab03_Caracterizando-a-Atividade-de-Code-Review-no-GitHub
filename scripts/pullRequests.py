@@ -2,17 +2,30 @@ import csv
 import requests
 import os
 from datetime import datetime, timedelta
+import time
+
+MAX_RETRIES = 2
+WAIT_TIME = 300  # 5 min
+MAX_PRS_TO_WRITE = 101  # Número máximo de PRs a serem escritos no arquivo de saída
 
 def get_token():
-    with open("./scripts/github_token.txt", "r") as token_file:
+    with open("./scripts/token.txt", "r") as token_file:
         return token_file.read().strip()
-    
-def run_query(query, headers):
-    request = requests.post('https://api.github.com/graphql', json={'query': query}, headers=headers)
-    if request.status_code == 200:
-        return request.json()
-    else:
-        raise Exception(f"Query failed to run by returning code of {request.status_code}. {query}")
+
+def run_query_with_retry(query, headers):
+    retries = 0
+    while retries < MAX_RETRIES:
+        try:
+            request = requests.post('https://api.github.com/graphql', json={'query': query}, headers=headers)
+            request.raise_for_status()
+            return request.json()
+        except requests.exceptions.RequestException as e:
+            print(f"Error while making request: {e}")
+            retries += 1
+            print(f"Retrying... Attempt {retries} of {MAX_RETRIES}")
+            time.sleep(WAIT_TIME)
+    print("Max retries reached. Unable to fetch data.")
+    return None
 
 def get_prs_info(repo_url, token):
     _, username, repo_name = repo_url.rstrip('/').split('/')[-3:]
@@ -60,76 +73,116 @@ def get_prs_info(repo_url, token):
     headers = {'Authorization': f'Bearer {token}'}
 
     prs_info = []
-    current_time = datetime.utcnow()
     cursor = ""
-    while len(prs_info) < 100:
-        query = query_template.format(username=username, repo_name=repo_name, cursor= f"after: \"{cursor}\"" if cursor else "")
-        result = run_query(query, headers)
-        prs_data = result.get("data", {}).get("repository", {}).get("pullRequests", {}).get("nodes", [])
-        page_info = result.get("data", {}).get("repository", {}).get("pullRequests", {}).get("pageInfo", {})
-        
+    while True:
+        query = query_template.format(username=username, repo_name=repo_name, cursor=f"after: \"{cursor}\"" if cursor else "")
+        result = run_query_with_retry(query, headers)
+
+        if result is None:
+            return None
+
+        repository_data = result.get("data", {}).get("repository", {})
+        if repository_data is None:
+            return None
+
+        prs_data = repository_data.get("pullRequests", {}).get("nodes")
+        if not prs_data:
+            break
+
+        page_info = repository_data.get("pullRequests", {}).get("pageInfo", {})
         for pr in prs_data:
-            pr_created_at = datetime.strptime(pr['createdAt'], "%Y-%m-%dT%H:%M:%SZ")
-            if 'closedAt' in pr:
-                pr_closed_at = datetime.strptime(pr['closedAt'], "%Y-%m-%dT%H:%M:%SZ")
-                time_diff = pr_closed_at - pr_created_at
-            elif 'mergedAt' in pr:
-                pr_merged_at = datetime.strptime(pr['mergedAt'], "%Y-%m-%dT%H:%M:%SZ")
-                time_diff = pr_merged_at - pr_created_at
-            else:
+            if pr is None:
                 continue
-            
-            if pr['reviews']['totalCount'] != 0 and time_diff >= timedelta(hours=1):
-                pr_info = {
-                    'Number': pr['number'],
-                    'Title': pr['title'],
-                    'Body': len(pr['bodyText']), 
-                    'Closed': pr['closed'],
-                    'Merged': pr['merged'],
-                    'MergedAt': pr.get('mergedAt', ''),
-                    'ClosedAt': pr.get('closedAt', ''),
-                    'ReviewComments': pr['reviews']['totalCount'],
-                    'Participants': pr['participants']['totalCount'],
-                    'Comments': pr['comments']['totalCount'],
-                    'Files': pr['files']['totalCount'], 
-                    'Additions': pr['additions'],
-                    'Deletions': pr['deletions'],
-                    'Modifications': pr['additions'] + pr['deletions'],  
-                    'TimeToAnalysis': (datetime.utcnow() - pr_created_at).total_seconds(), 
-                }
-                prs_info.append(pr_info)
-                
+
+            # Tratar campos vazios ou nulos
+            title = pr.get('title', 'null')
+            bodyText = pr.get('bodyText', 'null')
+            mergedAt = pr.get('mergedAt', None)
+            closedAt = pr.get('closedAt', None)
+
+            # Calcular tempo para mesclar ou fechar, se aplicável
+            time_to_merge_or_close = 0
+            if mergedAt and closedAt:
+                try:
+                    start_time = datetime.strptime(pr.get('createdAt'), "%Y-%m-%dT%H:%M:%SZ")
+                    end_time = datetime.strptime(mergedAt, "%Y-%m-%dT%H:%M:%SZ") if pr.get('merged') else datetime.strptime(closedAt, "%Y-%m-%dT%H:%M:%SZ")
+                    time_to_merge_or_close = (end_time - start_time).total_seconds()
+                except ValueError as e:
+                    print(f"Error calculating time to merge or close for PR {pr.get('number')}: {e}")
+
+            pr_info = {
+                'Number': pr.get('number', ''),
+                'Title': title,
+                'Body': len(bodyText), 
+                'Closed': pr.get('closed', False),
+                'Merged': pr.get('merged', False),
+                'MergedAt': mergedAt,
+                'ClosedAt': closedAt,
+                'ReviewComments': pr.get('reviews', {}).get('totalCount', 0),
+                'Participants': pr.get('participants', {}).get('totalCount', 0),
+                'Comments': pr.get('comments', {}).get('totalCount', 0),
+                'Files': pr.get('files', {}).get('totalCount', 0) if pr.get('files') is not None else 0,
+                'Additions': pr.get('additions', 0),
+                'Deletions': pr.get('deletions', 0),
+                'Modifications': pr.get('additions', 0) + pr.get('deletions', 0),  
+                'TimeToMergeOrClose': time_to_merge_or_close, 
+            }
+            prs_info.append(pr_info)
+
         if not page_info.get("hasNextPage"):
             break
         cursor = page_info["endCursor"]
 
-    return prs_info[:100]  
+    return prs_info
 
-def write_prs_to_csv(repo_name, prs_info):
-    output_dir = './scripts/dataset/prs/'
-    os.makedirs(output_dir, exist_ok=True)
-    output_filename = os.path.join(output_dir, f'{repo_name}_prs.csv')
 
-    with open(output_filename, 'w', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ['Number', 'Title', 'Body', 'Closed', 'Merged', 'MergedAt', 'ClosedAt', 'ReviewComments', 'Participants', 'Comments', 'Files', 'Additions', 'Deletions', 'Modifications', 'TimeToAnalysis']
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        writer.writeheader()
-        for pr in prs_info:
-            writer.writerow(pr)
-
-    print(f'Results written to {output_filename}')
+def write_prs_to_csv(repo_name, prs_info, output_filename):
+    if not os.path.exists(output_filename):  # Check if the file already exists
+        with open(output_filename, 'w', newline='', encoding='utf-8') as csvfile:
+            fieldnames = ['Number', 'Title', 'Body', 'Closed', 'Merged', 'MergedAt', 'ClosedAt', 'ReviewComments', 'Participants', 'Comments', 'Files', 'Additions', 'Deletions', 'Modifications', 'TimeToMergeOrClose']
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()
+            for pr in prs_info:
+                writer.writerow(pr)
+        print(f'Results written to {output_filename}')
+    else:
+        print(f"File '{output_filename}' already exists. Skipping writing results.")
 
 def analyze_repositories(csv_filename, token):
-    with open(csv_filename, 'r', newline='', encoding='utf-8') as csvfile:
-        reader = csv.DictReader(csvfile)
-        for row in reader:
-            repo_name = row['Nome']
-            repo_url = row['url']
+    try:
+        with open(csv_filename, 'r', newline='', encoding='utf-8') as csvfile:
+            reader = csv.DictReader(csvfile)
+            for row in reader:
+                repo_name = row.get('Nome', '')
+                repo_url = row.get('url', '')
 
-            print(f'Analyzing repository: {repo_name}')
+                if not repo_name or not repo_url:
+                    print("Missing repository name or URL.")
+                    continue
 
-            prs_info = get_prs_info(repo_url, token)
-            write_prs_to_csv(repo_name, prs_info)
+                output_filename = f"./scripts/dataset/pullr/{repo_name}_prs.csv"
+                if os.path.exists(output_filename):
+                    print(f"Skipping repository {repo_name}. Results already exist.")
+                    continue
+
+                print(f'Analyzing repository: {repo_name}')
+
+                prs_info = get_prs_info(repo_url, token)
+                if prs_info:
+                    write_prs_to_csv(repo_name, prs_info, output_filename)
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+print("SLEEP")
+time.sleep(10)
 
 token = get_token()
+
+# repo_name = "linux"
+# repo_url = "https://github.com/torvalds/linux"
+# print(f'Analyzing repository: {repo_name}')
+# prs_info = get_prs_info(repo_url, token)
+# if prs_info:
+#     write_prs_to_csv(repo_name, prs_info)
+
 analyze_repositories('./scripts/dataset/repo.csv', token)

@@ -1,0 +1,945 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+1451,Marcado con X,0,True,False,,2024-04-24T01:16:27Z,0,1,1,1,1,1,2,0
+1447,todays tasks,0,True,False,,2024-04-18T17:44:17Z,0,1,1,2,1245,1103,2348,0
+1443,Create SECURITY.md,0,True,False,,2024-04-16T06:04:26Z,0,2,1,1,21,0,21,0
+1445,"Modify README.md ""中文版本"" to ""简体中文"" / modify some translations in Traditional Chinese",393,True,True,2024-04-16T03:36:53Z,2024-04-16T03:36:53Z,0,2,0,17,20,20,40,3895.0
+1444, Update for roadmap,18,True,False,,2024-04-15T14:24:21Z,0,2,1,1,1,1,2,0
+1442,Progress,0,True,False,,2024-04-01T15:14:34Z,0,2,0,1,5,5,10,0
+1441,Update README.md,48,True,False,,2024-03-29T05:54:24Z,0,1,0,1,0,1255,1255,0
+1440,1. subline,0,True,False,,2024-03-28T20:32:08Z,0,1,1,0,0,0,0,0
+1439,HOW TO HIRE MUYERN TRUST HACKER TO CATCH A CHEATER,2521,True,False,,2024-03-14T15:18:35Z,0,2,0,2,1,1957,1958,0
+1437,Prog,0,True,False,,2024-03-11T13:24:09Z,0,1,0,1,24,0,24,0
+1436,docs: Add new resource for practicing system design problems,0,True,True,2024-03-05T15:56:18Z,2024-03-05T15:56:18Z,0,2,0,1,1,0,1,10467.0
+1435,Update README.md to include Codemia as a tool to practice system desi…,197,True,True,2024-03-03T18:44:14Z,2024-03-03T18:44:14Z,0,2,0,1,1,0,1,146535.0
+1433,docs: update Chinese translation for algorithm analysis video URL,0,True,True,2024-02-23T02:37:58Z,2024-02-23T02:37:58Z,0,2,0,1,1,1,2,54708.0
+1432,Progress,0,True,False,,2024-02-15T16:34:12Z,0,1,0,2,2,2,4,0
+1431,Tandai X,108,True,False,,2024-02-15T13:10:13Z,0,1,0,2,2,2,4,0
+1430,Update global translations,221,True,True,2024-02-02T17:58:10Z,2024-02-02T17:58:10Z,0,2,2,16,345,298,643,23310.0
+1420,"Updated README-bn(Typo, Formatting, Linking issue).md ",32,True,True,2024-01-31T16:45:19Z,2024-01-31T16:45:19Z,0,2,3,1,413,413,826,2627856.0
+1428,Update formatting and fix typos in README-bg.md,257,True,True,2024-01-28T18:42:24Z,2024-01-28T18:42:24Z,0,2,1,1,62,64,126,3764.0
+1427,Bbb,0,True,False,,2024-01-28T15:23:19Z,0,1,0,0,0,0,0,0
+1426,Progress,1,True,False,,2024-01-28T15:08:19Z,0,1,1,0,0,0,0,0
+1425,Update README.md,0,True,False,,2024-01-27T17:35:01Z,0,1,0,1,1,1,2,0
+1422,updated from main,0,True,False,,2024-01-10T04:29:53Z,0,2,1,1,1,1,2,0
+1421,"Update review video count, add playlist for algorithm analysis",41,True,True,2024-01-06T19:37:39Z,2024-01-06T19:37:39Z,0,2,1,28,55,55,110,4914.0
+1419,"Updated README-bn(typo, formatting, linking issue).md",56,True,False,,2024-01-01T06:46:30Z,0,1,0,1,414,414,828,0
+1418,"Corrected translations, added punctuation and fixed spelling mistakes.",0,True,True,2023-12-31T01:05:54Z,2023-12-31T01:05:54Z,0,2,1,1,19,19,38,5741.0
+1355,Update README-uk.md,34,True,False,,2023-12-28T23:27:21Z,0,2,1,1,31,33,64,0
+1416,Complete migration of Japanese translation update,149,True,True,2023-12-17T02:57:36Z,2023-12-17T02:57:36Z,0,2,1,1,653,570,1223,54902.0
+1415,Update README-tr.md,42,True,True,2023-12-04T23:12:23Z,2023-12-04T23:12:23Z,0,2,1,1,14,14,28,8930.0
+1411,Update README-vi.md,231,True,True,2023-11-16T03:09:19Z,2023-11-16T03:09:19Z,0,2,1,1,930,827,1757,65748.0
+1409,test forking,38,True,False,,2023-11-04T13:39:14Z,0,1,0,1,1,0,1,0
+1408,End of Japanese translation of topic of study.,151,True,True,2023-11-03T23:50:57Z,2023-11-03T23:50:57Z,0,2,0,2,301,472,773,23055.0
+1406,Japanese translation of tree and sorting section,116,True,True,2023-11-03T15:22:24Z,2023-11-03T15:22:25Z,0,2,0,1,98,80,178,102412.0
+1405,Fixes where listings are not valid,99,True,True,2023-11-01T15:29:21Z,2023-11-01T15:29:21Z,0,2,0,1,3,2,5,8011.0
+1404,Translated to other knowledge items in the research themes section,126,True,True,2023-11-01T15:26:26Z,2023-11-01T15:26:26Z,0,2,0,1,255,266,521,8641.0
+1402,Complete transition of study plan sections,123,True,True,2023-10-30T16:20:09Z,2023-10-30T16:20:10Z,0,2,0,1,227,209,436,12810.0
+1403,Remove trailing spaces at end of text,93,True,True,2023-10-30T16:18:39Z,2023-10-30T16:18:39Z,0,2,2,1,31,31,62,12316.0
+1401,Src/data structures/array,0,True,False,,2023-10-30T04:20:26Z,0,1,0,5,220,26,246,0
+1400,Corrected and updated Japanese translation.,202,True,True,2023-10-29T17:18:59Z,2023-10-29T17:18:59Z,0,2,4,1,52,38,90,56373.0
+1398,Update README.md Grammatically,33,True,True,2023-10-25T15:26:42Z,2023-10-25T15:26:42Z,0,2,1,1,94,94,188,38297.0
+1397,update readme,0,True,False,,2023-10-24T02:03:07Z,0,1,0,29,1111,53274,54385,0
+1396,"Correct translation for Graphs is ""Grafos"" instead of ""Graficos"". Fixed that!",100,True,True,2023-10-24T00:24:02Z,2023-10-24T00:24:02Z,0,2,1,1,5,5,10,2858.0
+1395,Fix french typos in README-fr.md,25,True,True,2023-10-19T14:54:53Z,2023-10-19T14:54:53Z,0,2,1,1,5,5,10,6633.0
+1394,Create CodingInterview.java,7,True,False,,2023-10-16T16:06:49Z,0,3,4,1,99,0,99,0
+1393,update README-cn.md,19,True,True,2023-10-15T06:41:05Z,2023-10-15T06:41:05Z,0,2,0,1,1,0,1,10424.0
+1391,Update .gitignore,0,True,False,,2023-10-02T14:47:37Z,0,2,2,1,4,1,5,0
+1389,Add Hello Interview to mock interview resources,264,True,True,2023-10-02T14:57:51Z,2023-10-02T14:57:51Z,0,2,1,1,1,0,1,225900.0
+1388,feat: Updated README-tr.md,51,True,True,2023-09-29T02:56:02Z,2023-09-29T02:56:02Z,0,2,1,1,1,1,2,20227.0
+1386,cn: make the links clickable,0,True,False,,2023-09-27T15:58:03Z,0,3,2,1,4,4,8,0
+1385,Update README-cn.md 'is trivial' => 微不足道,40,True,True,2023-09-25T15:29:29Z,2023-09-25T15:29:29Z,0,2,1,1,1,1,2,42184.0
+1383,Modify: REAMD.md,0,True,False,,2023-09-10T08:00:14Z,0,1,0,1,2,505,507,0
+1381,Fix french typos,16,True,True,2023-09-04T01:27:28Z,2023-09-04T01:27:28Z,0,2,1,1,19,19,38,15484.0
+1380,completed Harvard CS50 - Asymptotic Notation (video),0,True,False,,2023-09-02T17:50:19Z,0,2,1,1,40,40,80,0
+1379,exemple_file,16,True,False,,2023-08-22T15:13:47Z,0,2,0,1,3,0,3,0
+1378,Create Learn,0,True,False,,2023-08-19T01:12:38Z,0,2,0,1,1,0,1,0
+1376,Update the full Chinese documentation,93,True,True,2023-08-08T15:19:55Z,2023-08-08T15:19:55Z,0,2,1,1,656,653,1309,20528.0
+1367,change site for new languages,0,True,False,,2023-08-06T17:23:08Z,0,2,1,1,1217,1128,2345,0
+1375,Update section of Chinese documents,86,True,True,2023-08-06T17:22:17Z,2023-08-06T17:22:17Z,0,2,1,1,8,7,15,45998.0
+1372,Fixed duplicated bullet point,0,True,True,2023-07-19T02:53:35Z,2023-07-19T02:53:35Z,1,3,1,1,0,1,1,73567.0
+1371,Translation of three chapters ,20,True,False,,2023-07-18T06:20:18Z,0,1,0,1,1253,1193,2446,0
+1368,Preparation for Full Stack Web Developer,161,True,False,,2023-07-12T16:50:24Z,1,3,1,1,1247,1128,2375,0
+1366,add this to me,0,True,False,,2023-07-09T19:54:56Z,0,2,1,1,1,0,1,0
+1365,Updated Readme.md,123,True,True,2023-07-07T02:16:15Z,2023-07-07T02:16:15Z,0,2,1,1,5,5,10,59610.0
+1364,Updated Readme.md for Non-Working Links,185,True,False,,2023-07-06T09:06:01Z,0,2,1,1,1209,1127,2336,0
+1360,"Add review videos for AVL trees, code examples",110,True,True,2023-07-06T02:12:58Z,2023-07-06T02:12:58Z,0,2,10,27,109,55,164,791889.0
+1296,Fixing link.,72,True,True,2023-01-04T20:53:32Z,2023-01-04T20:53:32Z,0,2,1,1,2,2,4,20710.0
+1363,Progress branch merge,0,True,False,,2023-07-03T20:46:06Z,0,1,0,1,1273,1159,2432,0
+1361,Revert 1 main,0,True,False,,2023-06-29T03:42:28Z,0,1,0,28,36,43,79,0
+1357,Update video count for review videos,77,True,True,2023-06-15T02:15:38Z,2023-06-15T02:15:38Z,1,3,0,27,27,27,54,115307.0
+1354,Progress,0,True,False,,2023-05-17T22:53:43Z,0,1,0,1,10,409,419,0
+1352,Added a new resource,249,True,True,2023-05-15T19:01:50Z,2023-05-15T19:01:50Z,1,3,1,1,1,0,1,28026.0
+1349,Merge pull request #1 from jwasham/main,0,True,False,,2023-04-30T08:15:16Z,0,1,0,0,0,0,0,0
+1347,Update README-uz.md,138,True,True,2023-04-25T15:12:30Z,2023-04-25T15:12:30Z,0,2,2,1,8,0,8,17349.0
+1344,Marked X,419,True,False,,2023-04-23T18:10:16Z,0,3,4,1,11,11,22,0
+1342,Add Coding Challenges Newsletter,144,True,False,,2023-04-23T17:40:11Z,0,2,1,1,1,0,1,0
+283,"English ""README.md"" file to the Turkish version",114,True,True,2021-07-31T17:45:10Z,2021-07-31T17:45:10Z,0,6,9,1,2011,38,2049,114729710.0
+1345,Code files,120,True,False,,2023-04-02T20:49:35Z,0,2,1,15,606,0,606,0
+1339,Progress,38,True,False,,2023-03-27T09:55:26Z,0,1,0,1,42,42,84,0
+1336,Update Meetapro link,62,True,True,2023-03-22T15:06:26Z,2023-03-22T15:06:26Z,0,2,0,1,1,1,2,428783.0
+1338,Fix broken link to a Python resource,0,True,True,2023-03-19T18:45:09Z,2023-03-19T18:45:09Z,0,2,1,1,1,1,2,12866.0
+1337,By syed Dayim shah,0,True,False,,2023-03-18T18:13:07Z,0,2,3,2,167,0,167,0
+1335,Add a new mock interview website,138,True,True,2023-03-17T15:08:08Z,2023-03-17T15:08:08Z,0,2,0,1,1,0,1,31405.0
+1297,Marked x,0,True,False,,2023-01-05T18:30:03Z,0,2,1,1,1,1,2,0
+1329,Fixed missing links and translation errors,50,True,True,2023-03-06T16:07:42Z,2023-03-06T16:07:42Z,0,2,5,1,404,300,704,643543.0
+1331,Create readme.txt,0,True,False,,2023-03-05T06:22:20Z,0,1,0,1,1,0,1,0
+1330,Progress,0,True,False,,2023-02-28T02:35:42Z,1,3,1,1,10,10,20,0
+1149,Added Italian to Translations In Progress list,90,True,True,2023-03-01T16:31:00Z,2023-03-01T16:31:00Z,0,2,2,1,1,1,2,24994845.0
+1328,Revise and rewrite the sections given below:,17,True,False,,2023-02-23T03:11:18Z,0,2,2,2,94,97,191,0
+1327,Update translation links,97,True,True,2023-02-20T18:10:13Z,2023-02-20T18:10:13Z,0,2,0,1,1,1,2,29858.0
+1326,Complete Urdu Translation,28,True,True,2023-02-20T04:26:11Z,2023-02-20T04:26:11Z,0,2,1,1,676,729,1405,23077.0
+1319,Update Urdu readme,81,True,False,,2023-02-19T21:54:41Z,0,2,3,0,0,0,0,0
+1325,Minor changes and updates,159,True,True,2023-02-16T01:36:48Z,2023-02-16T01:36:48Z,0,2,1,1,453,394,847,16553.0
+1322,Add short review videos in other languages,291,True,True,2023-02-12T18:54:09Z,2023-02-12T18:54:09Z,0,2,1,28,613,35,648,177724.0
+1321,Contributing.md,66,True,False,,2023-02-10T16:58:04Z,0,2,1,1,47,0,47,0
+1320,Reading update,0,True,False,,2023-02-07T18:58:50Z,0,1,0,1,4,4,8,0
+1318,Correction of Introductory para,117,True,True,2023-02-03T17:01:47Z,2023-02-03T17:01:48Z,0,3,2,1,7,8,15,17385.0
+1316,translate table of contents in Urdu,0,True,True,2023-02-03T01:08:04Z,2023-02-03T01:08:04Z,0,2,1,1,122,125,247,6060.0
+1314,Update README.md,0,True,False,,2023-02-02T16:34:40Z,0,2,0,1,1,1,2,0
+1310,first note,192,True,False,,2023-01-24T16:42:29Z,0,2,0,1,1,1,2,0
+1308,Update README-ru.md,2,True,False,,2023-01-18T13:10:18Z,0,1,0,1,5,5,10,0
+1307,Big-O notation in simple English and arithmetic,36,True,False,,2023-01-17T17:43:40Z,0,2,1,1,1,0,1,0
+1305,Correct book name in README,144,True,True,2023-01-14T18:58:47Z,2023-01-14T18:58:47Z,0,2,1,1,1,1,2,58143.0
+1303,Marked x,0,True,False,,2023-01-11T01:01:41Z,0,2,2,1,1,1,2,0
+1298,Bangla translation,134,True,True,2023-01-10T16:24:13Z,2023-01-10T16:24:14Z,0,2,3,1,92,121,213,260912.0
+1299,Fix Japanese translation,638,True,True,2023-01-10T04:40:22Z,2023-01-10T04:40:22Z,0,2,4,1,52,35,87,150652.0
+1293,add Algorithm book from Jeff Erickson from University of Illionis,123,True,True,2022-12-29T02:46:09Z,2022-12-29T02:46:09Z,0,2,1,1,1,0,1,71919.0
+1292,add NAND to Tetris,67,True,True,2022-12-27T16:32:59Z,2022-12-27T16:32:59Z,2,2,1,1,2,1,3,127553.0
+1279,Progress,0,True,False,,2022-12-20T07:50:14Z,0,2,2,1,133,88,221,0
+1288,Added new linked list resource,135,True,True,2022-12-18T19:09:37Z,2022-12-18T19:09:37Z,1,2,2,1,1,0,1,54989.0
+1287,Progress,23,True,False,,2022-12-17T10:43:27Z,0,1,1,2,5,3,8,0
+1286,Main backup,0,True,False,,2022-12-05T18:47:15Z,0,1,0,13,634,47,681,0
+1285,Bangla translation,104,True,True,2022-12-02T16:28:21Z,2022-12-02T16:28:21Z,0,2,3,1,66,0,66,81237.0
+1267,Replace repeating link,53,True,True,2022-11-30T16:29:46Z,2022-11-30T16:29:47Z,1,2,3,0,0,0,0,1913020.0
+1280,Bangla translation,160,True,True,2022-11-23T02:26:12Z,2022-11-23T02:26:12Z,0,2,3,1,66,122,188,126034.0
+1277,Added Array video link at exact time ,0,True,True,2022-11-18T05:46:22Z,2022-11-18T05:46:22Z,0,2,2,1,1,0,1,199.0
+1273,Added Array video link from Harvard University [CS50],109,True,False,,2022-11-18T05:40:21Z,0,2,2,1,1,0,1,0
+1276,Progress,0,True,False,,2022-11-14T18:36:50Z,0,1,0,1,7,7,14,0
+1274,big o,0,True,False,,2022-11-13T13:40:28Z,0,1,0,1,6,6,12,0
+1272,Bangla translation,147,True,True,2022-11-12T18:28:57Z,2022-11-12T18:28:57Z,0,2,3,1,34,51,85,14183.0
+1271,Bangla translation,112,True,True,2022-11-10T17:27:37Z,2022-11-10T17:27:37Z,0,2,3,1,55,47,102,3488.0
+1268,Link and Name changed,0,True,True,2022-11-09T16:02:36Z,2022-11-09T16:02:36Z,0,2,1,1,1,1,2,22521.0
+1270,Marked x,0,True,False,,2022-11-09T16:02:12Z,0,2,1,1,6,6,12,0
+1263,Marked x,0,True,False,,2022-11-06T15:58:40Z,0,2,2,1,113,89,202,0
+1261,Marcado con X,0,True,False,,2022-11-05T19:11:10Z,0,1,0,1,1,1,2,0
+1259,Bangla translation,95,True,True,2022-11-05T17:44:59Z,2022-11-05T17:44:59Z,0,2,1,1,29,0,29,5702.0
+1255,Progress,0,True,False,,2022-11-01T22:09:34Z,0,1,0,1,1213,1133,2346,0
+1248,Bangla translation,195,True,True,2022-10-28T16:05:55Z,2022-10-28T16:05:55Z,0,2,3,1,80,61,141,168734.0
+1250,Added X to completed,0,True,False,,2022-10-28T16:04:59Z,0,2,1,1,6,3,9,0
+1247,Marked x,0,True,False,,2022-10-26T14:30:12Z,0,1,0,1,1,1,2,0
+1246,Bangla translation,29,True,True,2022-10-22T20:09:36Z,2022-10-22T20:09:36Z,0,2,1,1,4,2,6,105484.0
+1242,Created HTML Cheat Sheet Link,24,True,False,,2022-10-16T12:43:06Z,0,2,1,1,2,0,2,0
+1243,Update README-bn.md,31,True,True,2022-10-16T12:41:22Z,2022-10-16T12:41:22Z,0,2,2,1,10,11,21,17602.0
+1106,Revisar traducción en español.,154,True,True,2022-03-16T16:16:21Z,2022-03-16T16:16:21Z,2,2,3,1,316,352,668,194874.0
+1237,Update link to binary search review,78,True,True,2022-10-06T10:57:39Z,2022-10-06T10:57:39Z,0,2,0,1,1,1,2,32049.0
+1236,Update link for `Translations`,98,True,True,2022-10-06T00:30:24Z,2022-10-06T00:30:24Z,0,2,1,1,19,12,31,6001.0
+1233,git cheat sheet added,0,True,True,2022-10-01T23:56:17Z,2022-10-01T23:56:17Z,0,2,3,1,0,0,0,39299.0
+1234,marked x,0,True,False,,2022-10-02T15:17:57Z,0,1,0,1,1,1,2,0
+1228,Readme fix,0,True,False,,2022-09-21T06:17:03Z,1,3,2,1,7,4,11,0
+1226,Added a new Radix Sort (video) of ucberkely under Sorting from intern…,282,True,True,2022-09-16T14:42:20Z,2022-09-16T14:42:20Z,0,2,1,1,1,0,1,31699.0
+1225,Update README.md,10,True,False,,2022-09-16T05:15:37Z,0,1,0,1,123,99,222,0
+1223,Outdated QuickSort link in QuickSort of Sorting,154,True,True,2022-09-15T01:35:34Z,2022-09-15T01:35:34Z,0,2,1,1,1,1,2,25848.0
+1220,Add links to short review videos,0,True,True,2022-09-14T18:14:53Z,2022-09-14T18:14:53Z,2,3,3,25,47,25,72,407181.0
+1222,add beginner level resource,236,True,False,,2022-09-13T02:12:48Z,0,3,2,1,3,0,3,0
+1221,Removed Heaps False Links,325,True,True,2022-09-12T00:49:48Z,2022-09-12T00:49:48Z,0,2,1,1,0,1,1,35149.0
+1219,Marked x,0,True,False,,2022-09-09T17:49:50Z,0,1,0,1,1197,1118,2315,0
+1217,Added resources for DSA in Java,44,True,True,2022-09-06T15:32:58Z,2022-09-06T15:32:58Z,0,2,1,1,1,0,1,14539.0
+1215,Translated What is it? in Hindi.,41,True,True,2022-09-01T15:16:58Z,2022-09-01T15:16:58Z,0,2,0,1,1,1,2,27803.0
+1216,"Translated ""Required"" to Hindi.",33,True,True,2022-09-01T15:16:47Z,2022-09-01T15:16:47Z,0,2,0,1,1,1,2,27326.0
+268,update id translation,24,True,False,,2022-08-31T20:53:47Z,0,2,1,1,23,23,46,0
+1146,(Work In Progress) Italian Translation,0,True,True,2022-08-31T20:52:56Z,2022-08-31T20:52:56Z,0,2,1,1,2003,0,2003,9536371.0
+1174,French translate,0,True,True,2022-08-31T20:52:10Z,2022-08-31T20:52:10Z,0,2,1,1,62,58,120,3658482.0
+1194,Added few resources to the Repos,0,True,False,,2022-08-31T20:51:50Z,1,2,0,1,3,1,4,0
+1204,update README-ar.md,0,True,True,2022-08-31T20:51:23Z,2022-08-31T20:51:23Z,0,2,2,1,173,154,327,529760.0
+1163,Hebrew language improvements - Update README-he.md,76,True,True,2022-08-31T20:50:45Z,2022-08-31T20:50:45Z,1,3,2,1,39,39,78,4582500.0
+1170,update id translation,50,True,True,2022-08-31T20:49:38Z,2022-08-31T20:49:38Z,0,2,0,1,5,1,6,4317071.0
+1159,Update language improvements README-id.md,120,True,True,2022-08-31T20:49:04Z,2022-08-31T20:49:04Z,0,2,1,1,3,3,6,5319422.0
+1213,Updated README-hi.md,290,True,True,2022-08-31T20:48:33Z,2022-08-31T20:48:33Z,1,2,3,1,1776,1550,3326,70500.0
+1211,Update README-cn.md,0,True,True,2022-08-29T15:19:09Z,2022-08-29T15:19:09Z,0,2,2,1,5,5,10,43190.0
+1212,init,0,True,False,,2022-08-29T10:49:44Z,0,1,0,0,0,0,0,0
+1210,Update README-cn.md,0,True,False,,2022-08-29T02:46:22Z,0,1,0,1,5,5,10,0
+1209,Update Readme-hi.md,0,True,True,2022-08-28T15:14:23Z,2022-08-28T15:14:23Z,0,2,1,1,91,100,191,5854.0
+1207,update process,0,True,False,,2022-08-27T06:23:32Z,0,1,0,1,1,1,2,0
+1206,Progress,0,True,False,,2022-08-26T15:13:57Z,0,1,0,2,31,3,34,0
+1203,Marked x,0,True,False,,2022-08-25T15:07:02Z,0,2,1,2,7,2,9,0
+1201,docs: update new content,0,True,True,2022-08-24T16:16:47Z,2022-08-24T16:16:47Z,0,2,1,1,14,4,18,35101.0
+1202,Update links_checker.yml,15,True,False,,2022-08-24T16:18:24Z,0,2,2,1,1,1,2,0
+1200,Progress,0,True,False,,2022-08-24T06:18:49Z,0,1,0,1,3,3,6,0
+1198,docs: replace inline code with code blocks,0,True,True,2022-08-24T02:32:47Z,2022-08-24T02:32:47Z,5,2,1,1,20,22,42,50821.0
+1199,docs: add video description,0,True,True,2022-08-24T01:48:23Z,2022-08-24T01:48:23Z,3,2,1,1,5,5,10,47358.0
+1197,Steps done X,0,True,False,,2022-08-23T08:05:39Z,0,2,1,1,2,2,4,0
+1195,Fix grammatical error in README.md,0,True,False,,2022-08-20T18:14:53Z,0,2,1,1,80,80,160,0
+1196,Marked x,0,True,False,,2022-08-20T15:42:05Z,0,1,0,1,1,0,1,0
+1193,Progress,0,True,False,,2022-08-18T16:19:43Z,0,2,1,1,2,2,4,0
+1189,Updating README-hi.md With some Hindi words,253,True,True,2022-08-11T03:58:56Z,2022-08-11T03:58:56Z,0,2,1,1,8,8,16,30243.0
+1188,Readme-es patch,138,True,True,2022-08-10T16:30:19Z,2022-08-10T16:30:19Z,0,2,1,1,2,2,4,13153.0
+1187,Made some corrections in README.md,90,True,True,2022-08-09T01:08:52Z,2022-08-09T01:08:52Z,0,2,1,1,5,4,9,29263.0
+1186,Update README.md,19,True,True,2022-08-07T18:08:50Z,2022-08-07T18:08:50Z,0,2,0,1,1,1,2,24519.0
+1185,Added another challenge site,74,True,True,2022-08-03T01:04:42Z,2022-08-03T01:04:42Z,0,2,4,1,2,0,2,26395.0
+1183,Marked X,0,True,False,,2022-07-29T23:44:07Z,0,1,0,1,1,1,2,0
+1182,Marked x,8,True,False,,2022-07-28T07:23:33Z,0,1,0,1,48,67,115,0
+1181,I create machine learning Notes,0,True,False,,2022-07-25T15:01:29Z,0,2,1,1,0,0,0,0
+1179,Updates to README.md for consistency,0,True,False,,2022-07-24T17:33:58Z,0,2,1,1,3,3,6,0
+1177,Added one Useful Link,109,True,True,2022-07-21T15:11:34Z,2022-07-21T15:11:34Z,0,2,1,1,1,0,1,27220.0
+1173,Afrikaans translation,117,True,True,2022-07-21T15:10:23Z,2022-07-21T15:10:23Z,0,2,3,1,594,5,599,108136.0
+1175,fix: Add missing cmd on clone,168,True,True,2022-07-21T01:33:18Z,2022-07-21T01:33:18Z,0,2,1,1,1,0,1,36730.0
+1167,Starting Afrikaans translation,36,True,True,2022-07-19T20:49:43Z,2022-07-19T20:49:43Z,2,2,12,2,1408,0,1408,687918.0
+1172,link proper way written,0,True,True,2022-07-18T03:57:38Z,2022-07-18T03:57:39Z,0,2,1,1,15,15,30,2074.0
+1161,Update links to Topcoder community articles,441,True,True,2022-07-08T00:54:19Z,2022-07-08T00:54:19Z,0,2,1,1,7,7,14,32666.0
+1166,Add Afrikaans Translation,75,True,False,,2022-07-12T21:33:28Z,0,1,1,1,113,89,202,0
+1168,Fix anchor link to Big-O content,0,True,True,2022-07-12T16:34:55Z,2022-07-12T16:34:55Z,0,2,1,1,1,1,2,30734.0
+1165,Add Afrikaans to ReadMe,75,True,False,,2022-07-11T21:38:15Z,0,1,1,1,113,89,202,0
+1010,Update README-he.md,147,True,False,,2022-07-09T20:53:01Z,1,2,1,1,27,23,50,0
+1158,"Revert ""Updated the link of a book""",13,True,False,,2022-07-09T20:49:03Z,0,3,2,1,1,1,2,0
+1162,Marked x,0,True,False,,2022-07-07T16:34:49Z,0,1,0,1,1201,1123,2324,0
+1157,Updated the link of a book,169,True,True,2022-06-29T15:35:06Z,2022-06-29T15:35:06Z,2,2,2,1,1,1,2,99322.0
+1154,Added Core Java Cheat sheet,54,True,True,2022-06-02T15:20:46Z,2022-06-02T15:20:46Z,2,3,7,2,1,1,2,368743.0
+1155,Add Neetcode for Coding Interview Video section,0,True,True,2022-06-14T15:45:29Z,2022-06-14T15:45:29Z,0,3,3,1,5,0,5,19664.0
+1153,"Fix ""Chois"" typo to ""Choisis""",77,True,True,2022-05-29T17:28:15Z,2022-05-29T17:28:15Z,0,1,0,1,1,1,2,43053.0
+1152,Marked Complete : About Array Videos. Marked X,0,True,False,,2022-05-24T18:11:31Z,0,1,0,3,120,1,121,0
+1150,adding one video link related to recursion,130,True,True,2022-05-19T02:20:11Z,2022-05-19T02:20:11Z,0,2,1,1,1,0,1,110445.0
+1148,Progress,0,True,False,,2022-05-15T12:37:39Z,0,1,0,1,1,1,2,0
+1145,Update progress,0,True,False,,2022-05-11T21:20:18Z,0,1,0,1,1,1,2,0
+1144,Marked x,0,True,False,,2022-05-08T15:08:39Z,0,1,0,1,1,1,2,0
+1143,fix broken link,63,True,True,2022-05-02T14:17:00Z,2022-05-02T14:17:00Z,0,2,1,2,25,32,57,28058.0
+1141,fix action error,0,True,True,2022-05-01T18:04:13Z,2022-05-01T18:04:13Z,0,2,5,1,6,7,13,51045.0
+1142,aprender c,0,True,False,,2022-05-01T18:34:45Z,0,1,2,1,1193,1095,2288,0
+1139,Marked X,0,True,False,,2022-04-24T23:49:07Z,0,1,0,1,1,1,2,0
+1138,Marked x,0,True,False,,2022-04-24T11:57:29Z,0,1,0,1,1,1,2,0
+1137,First,0,True,False,,2022-04-24T10:09:55Z,0,1,0,1,1,1,2,0
+1135,Completed Big-O/Complexity,57,True,False,,2022-04-21T12:09:08Z,0,1,0,1,1,1,2,0
+1134,Progress,0,True,False,,2022-04-14T15:15:00Z,0,2,1,2,2,21,23,0
+1133,Dsa progress,0,True,False,,2022-04-11T03:54:58Z,0,1,0,1,1200,1122,2322,0
+1132,Progress,0,True,False,,2022-04-10T16:55:05Z,0,2,1,1,3,1,4,0
+1129,Updated translations and fixed broken links,72,True,True,2022-04-10T16:54:33Z,2022-04-10T16:54:33Z,1,2,1,1,26,26,52,475683.0
+1131,Typo,33,True,True,2022-04-08T15:31:42Z,2022-04-08T15:31:42Z,0,2,0,1,1,1,2,50653.0
+1125,Switch to gender neutral terms,409,True,False,,2022-03-30T22:17:50Z,0,1,0,12,112,112,224,0
+1127,Marked x,0,True,False,,2022-04-01T15:08:13Z,0,2,1,1,1,1,2,0
+1126,Switch to gender neutral terms,308,True,False,,2022-03-30T22:39:37Z,0,3,5,12,112,112,224,0
+1124,Switch to gender neutral terms,308,True,False,,2022-03-30T19:48:09Z,0,1,0,18,2058,2058,4116,0
+1123,Switch to gender neutral terms,220,True,False,,2022-03-30T19:35:27Z,0,1,0,22,6125,6125,12250,0
+1120,Marked x,0,True,False,,2022-03-27T05:14:38Z,0,1,0,1,1,0,1,0
+1119,some algo complexity topics marked x,0,True,False,,2022-03-26T12:57:06Z,0,1,0,2,1539,1458,2997,0
+1118,Marked X,0,True,False,,2022-03-26T00:05:20Z,0,1,0,1,34,34,68,0
+1117,Dris added a messsage,3,True,False,,2022-03-24T23:59:45Z,0,2,1,1,1,0,1,0
+1116,BIG O writing study,0,True,False,,2022-03-23T23:07:55Z,0,1,0,1,1,1,2,0
+1115,Progress,0,True,False,,2022-03-22T11:36:11Z,0,1,0,17,8526,54,8580,0
+1086,Remove broken Emacs link from README-bg.md,113,True,True,2022-02-16T16:31:47Z,2022-02-16T16:31:47Z,0,2,0,1,0,1,1,23455.0
+1111,Update programming-language-resources.md,117,True,True,2022-03-19T18:14:45Z,2022-03-19T18:14:45Z,0,2,1,1,1,0,1,23956.0
+1114,Progress,0,True,False,,2022-03-19T12:32:09Z,0,1,0,1,1202,1125,2327,0
+1113,Progress,0,True,False,,2022-03-19T12:28:05Z,0,1,0,1,1201,1124,2325,0
+1110,marked x,0,True,False,,2022-03-18T03:53:27Z,1,2,0,26,0,48553,48553,0
+1109,resume: add step-by-step guide,242,True,True,2022-03-17T00:20:23Z,2022-03-17T00:20:23Z,0,2,1,1,2,0,2,2049.0
+1108,Added python to backtracking blueprint,37,True,True,2022-03-16T16:13:59Z,2022-03-16T16:13:59Z,0,2,1,1,2,1,3,3919.0
+1107,Backtracking blueprint,133,True,True,2022-03-14T15:57:03Z,2022-03-14T15:57:03Z,0,2,1,1,2,1,3,20412.0
+1105,Progress,0,True,False,,2022-03-13T22:51:00Z,0,2,0,7,644,5,649,0
+1104,https://github.com/19tajamal560/19tajamal560.git,0,True,False,,2022-03-13T19:13:26Z,0,2,1,1,70,0,70,0
+1100,Fixed simple ordering mistake in the Graph section,0,True,True,2022-03-08T17:30:48Z,2022-03-08T17:30:48Z,1,2,3,1,2,2,4,169226.0
+1097,French translation #89 - Pick One Language for the Interview,221,True,True,2022-03-06T19:06:50Z,2022-03-06T19:06:50Z,0,2,2,1,8,8,16,72513.0
+1099,Fix 2 typos in hebrew translation,0,True,True,2022-03-06T19:06:14Z,2022-03-06T19:06:14Z,0,2,1,1,2,2,4,31204.0
+1098,Fix typo in hebrew translation,0,True,False,,2022-03-06T10:20:02Z,0,1,0,1,1,1,2,0
+1093,Update Bulgarian Translation; README-bg.md,304,True,True,2022-02-28T16:52:47Z,2022-02-28T16:52:47Z,0,2,1,1,2,3,5,5002.0
+1091,Updated MIT Links,472,True,True,2022-02-23T17:23:34Z,2022-02-23T17:23:35Z,0,2,3,1,9,9,18,45821.0
+1090,Create Robert’s-Coding-interview-university,0,True,False,,2022-02-21T18:03:24Z,0,2,2,1,1,0,1,0
+1089,Progress,0,True,False,,2022-02-20T14:11:51Z,0,1,0,1,9,9,18,0
+1085,Update mit links,89,True,False,,2022-02-19T03:24:58Z,0,3,2,1,122,103,225,0
+1068,French translation #89 - Interview Process & General Interview Prep Translation,218,True,True,2022-02-15T18:51:59Z,2022-02-15T18:52:00Z,0,2,4,1,29,29,58,409381.0
+1079,Update: Bulgarian translation,278,True,True,2022-02-14T16:51:21Z,2022-02-14T16:51:21Z,0,2,0,1,3,1,4,891.0
+1078,Marked x,0,True,False,,2022-02-14T13:46:56Z,0,1,0,1,1,1,2,0
+1077,Progress,0,True,False,,2022-02-13T14:37:59Z,0,2,0,1,1,1,2,0
+1074,Marked x,0,True,False,,2022-02-13T04:10:29Z,0,2,1,1,1,1,2,0
+1071,"Add ""The Absolute Beginner's Guide to Emacs"" video & notes source",70,True,True,2022-02-12T19:07:10Z,2022-02-12T19:07:11Z,0,2,2,1,2,0,2,22009.0
+1073,Marked x,0,True,False,,2022-02-12T19:06:22Z,0,2,1,1,449,449,898,0
+1072,marked x,0,True,False,,2022-02-12T14:27:57Z,0,1,0,1,32,32,64,0
+1063,Please delete this issue,0,True,False,,2022-02-10T02:03:38Z,0,2,0,1,2,2,4,0
+1048,Translation to Italian in progress,0,True,False,,2022-02-03T08:39:38Z,0,1,0,2,1973,0,1973,0
+190,add first release of Persian translation,0,True,False,,2022-02-02T16:35:36Z,0,2,3,1,1963,0,1963,0
+1058,Progress,0,True,False,,2022-01-31T17:44:09Z,0,1,0,2,5,3,8,0
+1056,Update README.md,32,True,False,,2022-01-30T18:34:42Z,0,2,1,1,1,1,2,0
+1055,Progress,0,True,False,,2022-01-30T08:08:02Z,0,1,0,1,3,3,6,0
+1054,Marked x,0,True,False,,2022-01-29T18:19:47Z,1,3,1,1,4,4,8,0
+1052,added leetcode blueprint for binary search,60,True,True,2022-01-29T01:10:09Z,2022-01-29T01:10:09Z,0,2,2,1,1,0,1,142257.0
+1050,link broken fixed and structure updated,129,True,True,2022-01-25T18:53:23Z,2022-01-25T18:53:23Z,0,2,0,2,874,863,1737,108940.0
+1051,Progress,0,True,False,,2022-01-24T17:06:03Z,0,1,0,1,1,1,2,0
+1049,Marked X,0,True,False,,2022-01-21T01:55:21Z,0,2,1,1,1,0,1,0
+1047,Marked x,0,True,False,,2022-01-11T12:00:38Z,0,1,0,1,1,1,2,0
+1046,Jwasham main,0,True,False,,2022-01-10T12:06:44Z,0,1,1,1,1308,1136,2444,0
+1043,Test,0,True,False,,2022-01-07T15:59:58Z,0,2,0,1,2,1,3,0
+1042,Progress,0,True,False,,2022-01-06T02:10:26Z,0,2,1,1,4,4,8,0
+1036,Pull request for Bulgarian translation,76,True,True,2022-01-05T16:09:56Z,2022-01-05T16:09:56Z,7,3,6,1,1988,0,1988,1373657.0
+1041,"Makred Algorithms, Big O etc",0,True,False,,2022-01-05T13:07:13Z,0,1,0,1,8,8,16,0
+1040,"Finish Algorithms Complexity, Big O etc",0,True,False,,2022-01-04T20:12:41Z,0,1,0,1,8,8,16,0
+964,Progress,0,True,False,,2021-09-14T01:39:52Z,0,2,1,1,1206,1128,2334,0
+1038,Marked x,0,True,False,,2021-12-26T21:11:06Z,0,3,4,1,4,4,8,0
+1035,Add resources for C language,0,True,True,2021-12-19T18:48:04Z,2021-12-19T18:48:05Z,0,2,1,1,2,0,2,50502.0
+1033,Progress,0,True,False,,2021-12-17T15:58:38Z,0,1,0,1,12,10,22,0
+1028,Add github workflow to check links and open issues reporting them,572,True,True,2021-12-11T19:17:30Z,2021-12-11T19:17:30Z,0,2,8,1,85,0,85,503602.0
+1029,Marked x Array for test,8,True,False,,2021-12-09T16:46:40Z,0,2,1,1,2,2,4,0
+1027,Progress,0,True,False,,2021-11-24T16:31:10Z,0,2,1,1,2,2,4,0
+1022,Update translation of korean,189,True,True,2021-11-19T19:41:11Z,2021-11-19T19:41:11Z,2,2,3,2,79,86,165,141330.0
+1021,Added Simplify,111,True,True,2021-11-16T23:35:23Z,2021-11-16T23:35:23Z,0,2,1,1,19,0,19,701.0
+1020,Marked x,143,True,False,,2021-11-15T12:27:06Z,0,1,0,1,1,1,2,0
+1019,Marked x,0,True,False,,2021-11-13T14:52:55Z,0,1,1,1,8,8,16,0
+1018,Marked x,0,True,False,,2021-11-11T13:49:30Z,0,1,0,1,1,1,2,0
+1017,Progress,0,True,False,,2021-11-09T06:52:40Z,0,1,0,39,49161,0,49161,0
+1014,Persian translation added,47,True,True,2021-11-05T15:25:12Z,2021-11-05T15:25:12Z,0,2,4,1,1983,0,1983,161125.0
+1015,Progress,0,True,False,,2021-11-03T23:46:40Z,0,1,0,1,3,2,5,0
+1013,Refines exist translation,40,True,True,2021-11-03T01:27:06Z,2021-11-03T01:27:06Z,0,2,1,1,1266,1228,2494,30284.0
+1012,Refines exist translation,40,True,False,,2021-11-02T16:58:06Z,0,1,0,1,1266,1228,2494,0
+986,test,0,True,False,,2021-10-02T02:54:41Z,0,2,0,1,0,18,18,0
+1009,first attempt to edit the document,100,True,True,2021-10-28T15:18:17Z,2021-10-28T15:18:17Z,0,2,1,1,18,8,26,4520.0
+1008,Adding missing top text,68,True,False,,2021-10-28T14:19:15Z,0,1,0,1,60,0,60,0
+1007,adds solution for anki whitespace to english readme,51,True,True,2021-10-27T15:26:05Z,2021-10-27T15:26:05Z,0,2,2,1,2,0,2,43842.0
+1005,Minor Typo,61,True,True,2021-10-27T02:45:31Z,2021-10-27T02:45:31Z,1,3,1,2,3,1,4,1866.0
+1003,Paras,0,True,False,,2021-10-25T07:53:44Z,0,1,1,0,0,0,0,0
+999,Create 471c87bc537839ctqn,0,True,False,,2021-10-22T18:42:07Z,0,1,0,1,1,0,1,0
+997,Progress,0,True,False,,2021-10-20T11:53:21Z,0,1,0,1,1,1,2,0
+995,updated readme file,49,True,True,2021-10-07T15:10:07Z,2021-10-07T15:10:07Z,0,3,4,1,0,0,0,22282.0
+994,Marked x,0,True,False,,2021-10-06T08:16:29Z,0,1,0,1,1,1,2,0
+993,Marked x,0,True,False,,2021-10-06T07:49:07Z,0,1,0,1,1267,1209,2476,0
+992,Marked x,20,True,False,,2021-10-04T16:24:02Z,0,1,0,1,1,1,2,0
+991,Spell Correction,16,True,True,2021-10-03T19:07:19Z,2021-10-03T19:07:19Z,0,2,1,1,11,11,22,5626.0
+989,Added A Programming Language Resource in Golang.,0,True,True,2021-10-03T17:18:28Z,2021-10-03T17:18:28Z,0,3,0,1,1,0,1,46387.0
+990,Fix Networking: Khan Academy broken link,101,True,True,2021-10-03T17:17:24Z,2021-10-03T17:17:24Z,0,2,1,1,1,1,2,6854.0
+987,Progress,0,True,False,,2021-10-02T08:12:35Z,0,1,0,1,1205,1128,2333,0
+985,marked learn c as x,0,True,False,,2021-10-02T00:56:36Z,0,1,0,1,1,1,2,0
+983,Added Ruby Programming language resources,0,True,True,2021-10-01T17:55:07Z,2021-10-01T17:55:07Z,0,2,2,1,80,72,152,86911.0
+982,New course about Operating Systems,0,True,True,2021-09-30T14:11:06Z,2021-09-30T14:11:06Z,0,2,1,1,1,0,1,3594.0
+981,"Adding a resume template at ""Update Your Resume"" section",90,True,True,2021-09-28T14:49:28Z,2021-09-28T14:49:28Z,0,2,1,1,3,0,3,8028.0
+979,Marked Harvard CS50 - Asymptotic Notation,0,True,False,,2021-09-27T04:08:37Z,0,2,1,1,1,1,2,0
+978,Marked Harvard CS50 - Asymptotic Notation,0,True,False,,2021-09-27T03:58:45Z,0,1,0,1,1,1,2,0
+977,Adding programming resources about Rust programming language,192,True,True,2021-09-26T16:55:31Z,2021-09-26T16:55:31Z,0,2,1,1,8,1,9,17393.0
+974,Marked x,0,True,False,,2021-09-23T15:26:31Z,0,2,1,1,7,7,14,0
+973,Edit the intro section with words of gratitude / RU,37,True,True,2021-09-22T01:59:14Z,2021-09-22T01:59:14Z,0,2,2,1,10,5,15,26280.0
+935,Fix Stanford: Programming Paradigms playlist broken link,127,True,True,2021-07-27T04:11:17Z,2021-07-27T04:11:17Z,1,3,1,21,20,20,40,418.0
+971,Remove Scheduling link from Extra Topics & Resources,110,True,True,2021-09-17T15:30:45Z,2021-09-17T15:30:45Z,0,2,1,1,0,1,1,4968.0
+970,Update README.md,0,True,False,,2021-09-17T11:26:46Z,0,1,1,1,110,94,204,0
+968,Fix some broken links,281,True,True,2021-09-16T02:39:35Z,2021-09-16T02:39:35Z,0,2,1,1,20,20,40,31585.0
+965,Add some Arabic translation,97,True,False,,2021-09-16T01:51:20Z,0,2,5,1,1237,1168,2405,0
+966,Remove OOP link from Extra Topics & Resources,127,True,True,2021-09-15T15:13:53Z,2021-09-15T15:13:53Z,0,2,1,1,0,1,1,35276.0
+963,Adding programming resources,0,True,True,2021-09-08T15:21:37Z,2021-09-08T15:21:37Z,1,3,1,1,2,0,2,64867.0
+962,Progress,0,True,False,,2021-09-04T11:58:58Z,0,1,0,2,3,1,4,0
+960,Add the Project Euler to the list of Challenge sites.,60,True,True,2021-09-03T14:54:50Z,2021-09-03T14:54:50Z,0,2,1,1,1,0,1,73230.0
+959,add missing part of translation,39,True,True,2021-09-02T15:38:53Z,2021-09-02T15:38:53Z,0,2,0,2,9,4,13,216571.0
+958,Some books and other resources added,0,True,False,,2021-08-30T14:34:51Z,0,1,1,1,9,1,10,0
+957,Progress,24,True,False,,2021-08-29T17:16:57Z,0,3,1,2,104,111,215,0
+955,Fix README-ja.md.,205,True,True,2021-08-26T14:55:14Z,2021-08-26T14:55:15Z,0,2,2,1,67,67,134,31342.0
+953,cheat sheet,0,True,False,,2021-08-22T17:20:58Z,0,3,2,4,0,0,0,0
+952,test,0,True,False,,2021-08-20T03:55:17Z,0,1,0,1,1186,1110,2296,0
+949,Fix Tail recursion youtube video broken link,107,True,True,2021-08-17T01:38:11Z,2021-08-17T01:38:11Z,0,2,1,23,22,22,44,428858.0
+951,data science library cheat sheet,0,True,False,,2021-08-17T01:37:09Z,0,2,1,2,0,0,0,0
+950,Kishan added a message,0,True,False,,2021-08-13T17:24:44Z,0,2,1,1,1,1,2,0
+948,Progress,0,True,False,,2021-08-11T15:34:47Z,0,2,2,1,6,6,12,0
+947,Remove unavailable System design exercise,81,True,True,2021-08-11T00:31:30Z,2021-08-11T00:31:30Z,0,2,1,1,0,1,1,11688.0
+945,Progress,0,True,False,,2021-08-09T12:30:59Z,0,1,0,1,2,2,4,0
+944,added a testing.test file,0,True,False,,2021-08-03T17:30:11Z,0,1,0,1,3,0,3,0
+943,watch video - How to Pass the Engineering Interview in 2021,0,True,False,,2021-07-31T18:01:11Z,0,1,0,1,1,1,2,0
+941,marked data structures in python,0,True,False,,2021-07-30T20:25:45Z,0,1,0,1,1,1,2,0
+128,Hebrew translation - continuing ,78,True,False,,2021-07-30T00:29:28Z,0,3,4,2,2102,104,2206,0
+185,Translation: Turkish,28,True,True,2021-07-29T16:02:39Z,2021-07-29T16:02:39Z,1,4,1,1,45,0,45,135670556.0
+167,Greek Translation created,79,True,True,2021-07-29T16:02:02Z,2021-07-29T16:02:02Z,0,3,3,1,652,0,652,138154909.0
+103,typo_fix_hn_trans,67,True,False,,2021-07-29T15:11:02Z,3,6,9,1,37,38,75,0
+938,Add `The Dictionary Even Mightier` talk,301,True,True,2021-07-28T13:30:05Z,2021-07-28T13:30:05Z,0,2,2,1,1,0,1,33633.0
+305,French Translation of parts :  Why to Use it  & How to use it,110,True,True,2021-07-29T00:16:11Z,2021-07-29T00:16:11Z,0,2,1,1,10,21,31,109034046.0
+936,Added x,0,True,False,,2021-07-27T05:41:02Z,0,1,0,1,1,1,2,0
+920,"Bugfix 917, 919 broken links in README-id and README-tw.md",55,True,True,2021-07-19T01:11:15Z,2021-07-19T01:11:15Z,0,3,2,2,20,27,47,355229.0
+928,Progress,0,True,False,,2021-07-23T04:17:45Z,0,1,0,0,0,0,0,0
+927,Marked x,0,True,False,,2021-07-22T19:04:03Z,0,1,0,1,1,1,2,0
+926,Marked x,0,True,False,,2021-07-22T11:28:51Z,0,1,0,1,1,1,2,0
+924,Marked x,0,True,False,,2021-07-21T18:03:10Z,0,1,0,1,1,1,2,0
+923,Update README.md,0,True,False,,2021-07-21T00:36:24Z,0,2,1,1,1,1,2,0
+918,Bugfix 917 broken links in README-id.md,72,True,False,,2021-07-16T09:50:52Z,0,2,3,1,4,7,11,0
+913,Added Discrete Mathematics Course By IIT Ropar on NPTEL Platform,206,True,True,2021-07-13T01:01:45Z,2021-07-13T01:01:45Z,0,2,2,1,1,0,1,39018.0
+915,Bug fix 914,52,True,True,2021-07-13T01:07:39Z,2021-07-13T01:07:39Z,0,2,1,1,1,1,2,35277.0
+911,Marked x,0,True,False,,2021-07-03T14:31:30Z,0,1,0,1,3,3,6,0
+907,Marked x,0,True,False,,2021-06-27T17:19:36Z,0,2,1,1,1,1,2,0
+908,Uzbek translation,123,True,True,2021-06-29T00:50:48Z,2021-06-29T00:50:48Z,0,3,2,2,1958,0,1958,7349.0
+909,Update README-cn.md,23,True,True,2021-06-29T02:39:17Z,2021-06-29T02:39:17Z,0,2,1,1,2,2,4,1608.0
+819,Update README-ar.md,36,True,True,2021-06-29T00:53:12Z,2021-06-29T00:53:12Z,0,3,4,1,732,801,1533,5593759.0
+906,Fix minor typos in main README,55,True,True,2021-06-24T16:12:45Z,2021-06-24T16:12:45Z,0,2,2,1,6,6,12,23202.0
+900,Helpful websites for Career Opportunities,173,True,True,2021-06-24T16:50:52Z,2021-06-24T16:50:52Z,1,2,3,1,5,0,5,390600.0
+902,Task Update,16,True,False,,2021-06-22T00:35:39Z,0,2,1,1,1,1,2,0
+903,Added My Notes folder,0,True,False,,2021-06-21T17:42:35Z,0,1,1,1,1,0,1,0
+899,Marked x,4,True,False,,2021-06-19T08:09:40Z,0,1,0,1,1200,1126,2326,0
+897,Progress,0,True,False,,2021-06-18T16:04:55Z,0,1,1,299,120072,42,120114,0
+894,marked 'x',8,True,False,,2021-06-16T13:18:47Z,1,2,2,1,1,1,2,0
+890,Progress,0,True,False,,2021-06-15T16:19:42Z,0,1,1,22,35891,35891,71782,0
+888,Interview videos 1,0,True,False,,2021-06-15T15:15:05Z,0,1,0,1,6,1,7,0
+887,Fix Discrete Mathematics by Shai Simonson playlist broken link,133,True,True,2021-06-14T15:30:07Z,2021-06-14T15:30:07Z,0,2,1,21,20,20,40,28454.0
+885,Get started,0,True,False,,2021-06-14T04:52:48Z,0,1,0,1,3,3,6,0
+879,Added info about CS Free Resources,133,True,False,,2021-06-14T00:26:02Z,1,2,1,1,4,0,4,0
+882,marked x,0,True,False,,2021-06-14T00:24:38Z,0,2,2,1,4,5,9,0
+877,init,0,True,False,,2021-06-12T14:44:05Z,0,1,0,1,100,109,209,0
+875,📝 Update the intro to be in sync with HEAD,66,True,True,2021-06-09T00:43:04Z,2021-06-09T00:43:04Z,0,2,1,2,71,21,92,27173.0
+874,Progress,0,True,False,,2021-06-06T19:52:45Z,0,1,1,1,4,4,8,0
+873,General Interview questions guide added,133,True,True,2021-06-04T15:20:43Z,2021-06-04T15:20:43Z,0,2,2,1,6,0,6,38453.0
+871,marked first 3 x's,123,True,False,,2021-06-01T15:17:23Z,0,2,1,1,6,6,12,0
+862,docs: updated README.md,63,True,False,,2021-05-30T00:16:34Z,1,3,2,1,3,1,4,0
+860,Marked x,0,True,False,,2021-05-22T19:27:43Z,0,2,1,1,66,66,132,0
+857,Update README-cn.md,0,True,False,,2021-05-20T05:56:23Z,0,1,0,1,1,1,2,0
+856,Marked x,0,True,False,,2021-05-15T03:47:26Z,0,1,0,1,10,10,20,0
+854,progrees update,0,True,False,,2021-05-13T19:26:59Z,0,1,0,1,4,4,8,0
+851,Liberi,0,True,False,,2021-05-11T04:11:07Z,0,1,0,1,15,15,30,0
+847,Progress,0,True,False,,2021-05-09T17:52:40Z,0,2,1,1,2,2,4,0
+842,marked X on How to Pass the Engineering Interview in 2021,0,True,False,,2021-05-07T08:14:09Z,0,1,0,1,1,1,2,0
+839,New Resources Added To Challenge Sites,95,True,True,2021-05-06T15:20:48Z,2021-05-06T15:20:49Z,0,2,1,1,1,0,1,37218.0
+836,Merge pull request #1 from jwasham/main,6,True,False,,2021-05-03T19:33:26Z,0,2,1,0,0,0,0,0
+835,Merge pull request #1 from jwasham/main,6,True,False,,2021-05-03T17:34:35Z,0,1,0,0,0,0,0,0
+833,learn-c,0,True,False,,2021-05-02T18:04:22Z,0,2,1,1,5,5,10,0
+830,Progress,0,True,False,,2021-05-01T17:57:03Z,0,2,1,2,1246,1125,2371,0
+500,Marked X,0,True,False,,2020-03-24T00:32:46Z,0,1,0,1,99,110,209,0
+822,Progress,0,True,False,,2021-04-26T18:18:27Z,0,1,0,1,1182,1148,2330,0
+821,Fix typo,42,True,True,2021-04-25T21:14:15Z,2021-04-25T21:14:15Z,0,2,1,1,1,1,2,326.0
+818,Update README-ar.md,36,True,False,,2021-04-25T07:01:19Z,0,1,0,1,741,809,1550,0
+816,clean up,0,True,False,,2021-04-24T03:28:33Z,0,1,0,1,1196,1148,2344,0
+815,Marked x,0,True,False,,2021-04-24T01:36:25Z,0,2,1,1,2,2,4,0
+810,Fix details tags [Spanish translation],232,True,True,2021-04-23T00:53:18Z,2021-04-23T00:53:18Z,0,2,1,1,32,20,52,21257.0
+803,Merge pull request #1 from jwasham/main,6,True,False,,2021-04-22T00:24:19Z,0,2,1,0,0,0,0,0
+521,[Docs] In Progress: translating in urdu,27,True,True,2021-04-21T14:49:13Z,2021-04-21T14:49:13Z,3,4,3,1,1978,0,1978,30304735.0
+791,Update README.md,83,True,False,,2021-04-20T03:23:29Z,0,1,0,1,1,1,2,0
+788,why use it block translation,0,True,False,,2021-04-18T19:51:37Z,0,2,0,1,1993,0,1993,0
+787,Interview tips,0,True,False,,2021-04-18T19:39:30Z,0,2,0,1,1993,0,1993,0
+781,"""why use it"" block",0,True,False,,2021-04-13T17:35:45Z,0,2,0,1,1993,0,1993,0
+786,Marked X,0,True,False,,2021-04-18T06:58:53Z,0,1,0,1,1,1,2,0
+783,Added information of interview coding platforms,170,True,False,,2021-04-18T02:54:42Z,1,2,1,1,8,0,8,0
+785,Progress,0,True,False,,2021-04-18T02:53:03Z,0,2,1,1,1,1,2,0
+784,Marked x,0,True,False,,2021-04-16T13:24:44Z,0,1,0,1,1,1,2,0
+780,Progress,0,True,False,,2021-04-14T15:42:49Z,0,2,1,1,3,3,6,0
+782,Updated about Coding Interview focused Platforms,195,True,False,,2021-04-14T15:42:29Z,0,2,2,1,6,0,6,0
+773,Nitpick: Github -> GitHub,32,True,True,2021-04-11T01:32:35Z,2021-04-11T01:32:35Z,0,2,0,1,2,2,4,344459.0
+758,Modify broken link in table of content ,82,True,True,2021-04-11T17:25:31Z,2021-04-11T17:25:31Z,0,2,0,1,104,169,273,825235.0
+778,Update Korean.md,178,True,True,2021-04-11T17:24:34Z,2021-04-11T17:24:34Z,0,1,0,1,15,20,35,14294.0
+774,Added information related to ATS Resume,72,True,True,2021-04-11T01:34:58Z,2021-04-11T01:34:58Z,1,2,1,1,2,1,3,332387.0
+777,Marked x,0,True,False,,2021-04-11T00:51:12Z,0,1,0,1,2,2,4,0
+776,Marked X,0,True,False,,2021-04-09T01:14:22Z,0,1,0,1,1,1,2,0
+769,Progress,0,True,False,,2021-04-06T04:13:34Z,0,1,0,1,18,18,36,0
+768,Added Assembly Language Cheat Sheet,0,True,True,2021-04-05T14:15:07Z,2021-04-05T14:15:07Z,0,2,0,1,0,0,0,35852.0
+766,Update README.md,0,True,False,,2021-04-04T21:17:23Z,0,2,1,1,1197,1121,2318,0
+763,Progress,0,True,False,,2021-04-03T10:29:23Z,0,1,0,2,2,1,3,0
+760,Progress,0,True,False,,2021-04-02T15:26:02Z,0,2,1,4,3103,3094,6197,0
+759,Progress,0,True,False,,2021-04-02T10:18:16Z,0,1,0,4,3103,3094,6197,0
+756,Marked X for 1st item (test),0,True,False,,2021-04-01T15:13:10Z,0,2,3,1,1,1,2,0
+757,Add Codeforces under Language-learning sites,8,True,True,2021-04-01T15:12:33Z,2021-04-01T15:12:33Z,0,2,0,1,1,0,1,28645.0
+755,Marked x,0,True,False,,2021-03-29T07:07:41Z,0,1,0,1,1,1,2,0
+754,fix invalid titles in README-ja.md.,21,True,True,2021-03-28T20:37:26Z,2021-03-28T20:37:26Z,0,2,1,1,68,67,135,42166.0
+753,Merge pull request #1 from jwasham/master,4,True,False,,2021-03-28T02:51:24Z,0,1,0,0,0,0,0,0
+752,Progress,8,True,False,,2021-03-27T15:22:45Z,0,3,2,1,1,1,2,0
+750,Update README,0,True,True,2021-03-22T15:09:11Z,2021-03-22T15:09:11Z,0,2,0,1,1,1,2,12304.0
+748,done,0,True,False,,2021-03-15T02:58:30Z,0,1,0,1,1,1,2,0
+747,done,0,True,False,,2021-03-15T02:47:03Z,0,1,0,1,1,1,2,0
+746,Marked x,0,True,False,,2021-03-08T15:41:42Z,0,2,1,1,1,1,2,0
+745,Marked how to use,0,True,False,,2021-03-05T17:05:28Z,0,2,1,1,2,2,4,0
+744,Mark resizable array implementation complete,0,True,False,,2021-03-03T19:56:14Z,0,1,0,1,17,17,34,0
+741,Marked x,0,True,False,,2021-02-21T07:30:51Z,0,1,0,1,3,3,6,0
+740,Progress,23,True,False,,2021-02-17T21:54:23Z,0,1,1,1,6,6,12,0
+739,marked,0,True,False,,2021-02-16T02:05:50Z,1,4,1,1,7,7,14,0
+738,Add Khmer to Translations section,0,True,True,2021-02-14T19:28:41Z,2021-02-14T19:28:41Z,0,2,1,1,16,15,31,31255.0
+736,MARKED CHECKBOX AS X,0,True,False,,2021-02-12T16:25:56Z,0,2,1,1,488,488,976,0
+735,Update README-ar.md,59,True,True,2021-02-10T16:19:41Z,2021-02-10T16:19:41Z,0,2,1,1,5,5,10,30708.0
+734,Fix incorrect references to master branch,674,True,True,2021-02-10T04:06:12Z,2021-02-10T04:06:12Z,0,2,1,21,100,100,200,528.0
+392,完成事项更新,16,True,False,,2021-02-07T01:21:20Z,0,2,1,1,3,3,6,0
+171,ITALIAN translation ,77,True,False,,2021-02-07T01:21:19Z,0,1,0,1,1934,0,1934,0
+141,Translation: Urdu ,25,True,False,,2021-02-07T01:21:19Z,0,3,2,2,2015,1,2016,0
+136,German translation in progress,0,True,False,,2021-02-07T01:21:19Z,0,2,4,1,2000,0,2000,0
+733,Add personal disclaimer.,0,True,False,,2021-02-02T23:19:42Z,0,1,1,1,6,0,6,0
+732,Progress,0,True,False,,2021-02-02T22:24:12Z,0,1,0,1,2,2,4,0
+731,Update progress,0,True,False,,2021-02-01T14:32:31Z,0,1,0,1,4,4,8,0
+722,Merge pull request #1 from jwasham/master,10,True,False,,2021-01-31T02:57:13Z,0,2,1,0,0,0,0,0
+730,Update README.md,0,True,False,,2021-01-30T08:40:45Z,0,1,0,1,487,487,974,0
+313,korean head message translation added,109,True,True,2018-06-09T18:52:03Z,2018-06-09T18:52:03Z,0,2,1,1,10,0,10,7114490.0
+727,Update link with follow up video,92,True,True,2021-01-18T18:14:02Z,2021-01-18T18:14:02Z,0,2,3,1,1,0,1,105594.0
+726,Remove Broken link,25,True,True,2021-01-14T16:15:48Z,2021-01-14T16:15:48Z,0,2,1,1,1,3,4,45069.0
+721,Marked x,0,True,False,,2021-01-09T19:51:36Z,0,2,1,1,1,1,2,0
+723,Add new updated blog for interview preparation.,82,True,True,2021-01-12T03:17:06Z,2021-01-12T03:17:06Z,0,2,1,1,1,1,2,30934.0
+720,Marked x,0,True,False,,2021-01-07T09:54:20Z,0,1,0,1,2,2,4,0
+718,Merge pull request #1 from jwasham/master,20,True,False,,2021-01-05T05:10:51Z,0,1,0,0,0,0,0,0
+717,Remove check marks,0,True,False,,2021-01-04T18:46:03Z,0,2,1,1,658,658,1316,0
+716,Marked x,0,True,False,,2021-01-03T23:16:34Z,0,1,0,1,1,1,2,0
+714,Update Indonesian translation,15,True,True,2021-01-03T04:04:43Z,2021-01-03T04:04:43Z,0,2,0,2,14,3,17,3033.0
+712,Update Indonesian translation,1798,True,True,2021-01-02T18:26:56Z,2021-01-02T18:26:56Z,0,2,4,1,1370,1442,2812,123123.0
+713,Marked X,17,True,False,,2021-01-01T23:55:06Z,0,0,0,1,3,6,9,0
+711,Marked x,0,True,False,,2021-01-01T02:22:59Z,0,2,1,1,4,4,8,0
+311,Translation:  French #chunk4,107,True,True,2020-10-14T15:29:35Z,2020-10-14T15:29:35Z,1,3,2,1,31,31,62,82925803.0
+709,Marked x,0,True,False,,2020-12-30T17:38:35Z,1,3,1,1,1,1,2,0
+379,Update README.md,0,True,True,2020-12-29T21:07:30Z,2020-12-29T21:07:30Z,2,4,2,0,0,0,0,68366134.0
+164,translate the list of contents in Arabic and other words,0,True,True,2017-04-05T03:58:52Z,2017-04-05T03:58:52Z,1,3,2,1,18,18,36,2238652.0
+708,Merge pull request #1 from jwasham/master,15,True,False,,2020-12-29T06:53:31Z,0,1,1,0,0,0,0,0
+706,Update README-ar.md,67,True,True,2020-12-27T18:47:13Z,2020-12-27T18:47:13Z,0,2,1,1,55,32,87,6500.0
+705,CAP Theorem link broken,0,True,True,2020-12-27T03:09:31Z,2020-12-27T03:09:31Z,0,2,1,1,1,1,2,5205.0
+704,Merge pull request #1 from jwasham/master,12,True,False,,2020-12-26T14:04:50Z,0,1,1,0,0,0,0,0
+601,Add code-exercises.com to challenge sites section,273,True,True,2020-09-03T14:56:42Z,2020-09-03T14:56:42Z,0,2,0,1,1,0,1,1501051.0
+699,Fix link to the main article (English) at Spanish translation,250,True,True,2020-12-18T16:35:29Z,2020-12-18T16:35:29Z,0,5,4,1,1,1,2,23684.0
+697,Marked x,2,True,False,,2020-12-18T05:40:09Z,0,1,1,1,1,1,2,0
+696,Merge pull request #1 from jwasham/master,24,True,False,,2020-12-18T03:45:29Z,0,1,0,0,0,0,0,0
+695,Marked x,0,True,False,,2020-12-17T22:57:31Z,0,1,0,1,2,2,4,0
+693,Marked x,0,True,False,,2020-12-17T20:08:56Z,0,1,0,1,1,1,2,0
+691,Adding a link to JavaScript algorithms and data structures repository,345,True,True,2020-12-17T16:49:04Z,2020-12-17T16:49:04Z,0,2,1,1,1,0,1,75897.0
+692,Marked X,0,True,False,,2020-12-17T08:20:40Z,0,1,0,1,1,1,2,0
+690,1,0,True,False,,2020-12-16T16:38:19Z,0,1,0,1,1,1,2,0
+689,links added to C++ in coding-interview-university/programming-language-resources.md,203,True,True,2020-12-13T19:18:38Z,2020-12-13T19:18:38Z,0,2,1,1,11,11,22,42040.0
+688, correct spelling mistake,0,True,True,2020-12-11T16:46:23Z,2020-12-11T16:46:23Z,0,2,1,1,1,1,2,129089.0
+685,finished abc,0,True,False,,2020-11-30T23:50:04Z,0,2,2,1,1,1,2,0
+88,WIP: Initialization of Russian translation. Issue #87.,0,True,True,2020-11-28T18:12:43Z,2020-11-28T18:12:43Z,3,12,9,1,2001,0,2001,124106705.0
+269,Translation : Japanese,26,True,True,2020-11-28T18:10:52Z,2020-11-28T18:10:52Z,0,4,4,1,1983,0,1983,97212993.0
+683,today's progress,0,True,False,,2020-11-28T04:15:39Z,0,1,1,1,2,2,4,0
+679,Removed unavailable archive.org resources,79,True,True,2020-11-24T16:31:25Z,2020-11-24T16:31:25Z,0,2,1,1,0,11,11,16470.0
+674,Adding algorithm implementation link,77,True,True,2020-11-23T16:36:32Z,2020-11-23T16:36:32Z,2,3,2,1,5,0,5,836310.0
+678,Progress,0,True,False,,2020-11-23T08:11:03Z,0,1,0,1,8,8,16,0
+677,marked x,0,True,False,,2020-11-20T17:26:10Z,0,1,0,1,1,1,2,0
+676,Translation: Khmer [Finished],24,True,True,2020-11-19T18:17:42Z,2020-11-19T18:17:42Z,1,3,1,1,1992,0,1992,177246.0
+672,Merge pull request #1 from jwasham/master,23,True,False,,2020-11-12T18:02:26Z,0,2,2,0,0,0,0,0
+671,Marked x,0,True,False,,2020-11-08T06:24:50Z,0,2,0,1,1220,1143,2363,0
+670,Merge pull request #1 from jwasham/master,14,True,False,,2020-11-01T21:55:08Z,0,1,0,0,0,0,0,0
+669,docs: update to latest in Chinese,0,True,True,2020-10-31T18:03:16Z,2020-10-31T18:03:16Z,0,2,1,1,1118,888,2006,89539.0
+668,Mark x - complete ABC - always be coding,0,True,False,,2020-10-31T18:03:07Z,0,2,1,1,2,2,4,0
+666,some general prep,0,True,False,,2020-10-27T02:11:54Z,0,1,0,1,109,120,229,0
+665,Marked x,0,True,False,,2020-10-26T10:43:50Z,0,1,0,1,1,1,2,0
+664,read first article,0,True,False,,2020-10-26T02:27:38Z,0,1,0,1,1,1,2,0
+662,Removed core trees link to all translations,207,True,True,2020-10-25T18:12:13Z,2020-10-25T18:12:13Z,1,3,1,16,0,15,15,142389.0
+663,Update README.md,0,True,False,,2020-10-25T18:12:49Z,0,2,1,1,18,18,36,0
+660,sync,4,True,False,,2020-10-22T11:45:38Z,0,1,0,1,59,59,118,0
+658,Marked X Always Be Coding,20,True,False,,2020-10-17T16:06:54Z,0,2,0,1,1,1,2,0
+656,adding python and java resources,0,True,True,2020-10-15T15:19:02Z,2020-10-15T15:19:02Z,0,2,1,1,2,0,2,33217.0
+651,Added an awesome youtube playlist for leetcode solutions in discussion format.,0,True,False,,2020-10-11T18:52:40Z,0,2,1,1,3,0,3,0
+648,"Updated link to ""CPU是如何执行代码（视频）""",0,True,True,2020-10-07T15:16:14Z,2020-10-07T15:16:14Z,0,2,1,1,1,1,2,41752.0
+647,"Updated link to ""操作系统和系统编程(video)""",0,True,True,2020-10-05T15:02:51Z,2020-10-05T15:02:51Z,0,2,1,1,1,1,2,14103.0
+635,Revision plan schedule using Spaced repetition.,216,True,False,,2020-10-04T17:47:23Z,0,2,2,2,60,0,60,0
+645,Java interview Questions added,265,True,False,,2020-10-04T17:48:18Z,0,2,1,3,0,0,0,0
+640,Improving the consistency of capitalization and punctuation,85,True,True,2020-10-03T19:04:43Z,2020-10-03T19:04:43Z,1,3,4,1,114,114,228,113965.0
+550,Added a Practice Operations link to Bitwise operations section,240,True,True,2020-10-03T19:09:16Z,2020-10-03T19:09:16Z,0,2,1,1,1,0,1,8357710.0
+633,Create python coding essentials file,204,True,True,2020-10-03T19:08:21Z,2020-10-03T19:08:22Z,0,2,1,2,1,0,1,860656.0
+639,Added Behavioral Interview Free course.,351,True,True,2020-10-03T19:06:05Z,2020-10-03T19:06:05Z,0,2,0,1,2,0,2,132020.0
+537,Add assignments,109,True,False,,2020-10-03T19:01:34Z,3,5,1,1,3,0,3,0
+643,Update README.md,165,True,False,,2020-10-03T18:58:22Z,1,3,1,1,1,0,1,0
+638,"new course links for html, css and js",53,True,True,2020-10-03T19:00:10Z,2020-10-03T19:00:10Z,3,4,2,1,3,0,3,210136.0
+644,Create 109. Convert Sorted List to Binary Search Tree,0,True,False,,2020-10-03T18:24:42Z,0,1,0,1,42,0,42,0
+522,"""Always Be Coding"" translates more closely to ""不要停止编程"" than ""永远都要编程""",0,True,True,2020-10-03T01:23:43Z,2020-10-03T01:23:43Z,1,3,0,1,1,1,2,12845222.0
+637,Improved Docs,0,True,False,,2020-10-02T14:45:19Z,1,4,3,1,1,1,2,0
+641,Update README-hi.md,23,True,True,2020-10-02T14:46:08Z,2020-10-02T14:46:08Z,0,2,1,1,27,27,54,10065.0
+642,check 1,0,True,False,,2020-10-02T12:43:39Z,0,1,0,18,1,29077,29078,0
+622,Update README-ptbr.md,45,True,True,2020-09-09T15:10:25Z,2020-09-09T15:10:25Z,0,2,2,1,16,16,32,46007.0
+632,Update README-ko.md,53,True,True,2020-09-22T23:52:44Z,2020-09-22T23:52:44Z,0,2,1,1,407,514,921,62488.0
+628,Update README-es.md,24,True,True,2020-09-22T23:52:18Z,2020-09-22T23:52:18Z,2,5,2,1,1,1,2,547489.0
+631,Merge pull request #1 from jwasham/master,4,True,False,,2020-09-22T23:51:49Z,0,3,3,0,0,0,0,0
+630,Merge pull request #1 from jwasham/master,13,True,False,,2020-09-18T07:47:32Z,2,2,0,0,0,0,0,0
+1,Update 1,15,True,False,,2016-10-05T06:31:02Z,3,2,1,1,661,661,1322,0
+629,Marked prerequisites,0,True,False,,2020-09-16T17:02:40Z,0,1,0,1,6,6,12,0
+621,Finished Reading ABC Coding,0,True,False,,2020-09-16T14:35:13Z,0,2,0,1,1,1,2,0
+623,Update README-ptbr.md,0,True,True,2020-09-13T18:29:19Z,2020-09-13T18:29:19Z,0,2,1,1,10,10,20,6731.0
+619,learned markdown,0,True,False,,2020-09-03T00:39:58Z,0,2,1,1,2,383,385,0
+618,Update README.md,8,True,True,2020-09-01T15:38:28Z,2020-09-01T15:38:28Z,0,2,0,1,18,18,36,16195.0
+603,Marked x for ABC,0,True,False,,2020-08-31T16:19:31Z,0,3,2,1,1,1,2,0
+615,update README-tw,15,True,True,2020-08-31T16:19:01Z,2020-08-31T16:19:01Z,0,2,1,1,1,1,2,36582.0
+617,Added resources for C++ and Python,89,True,True,2020-08-31T16:18:28Z,2020-08-31T16:18:28Z,0,3,2,1,5,2,7,15261.0
+602,Fixes Broken link to Steven Skiena Lecture slides,76,True,True,2020-08-21T17:32:24Z,2020-08-21T17:32:24Z,0,3,3,1,1,1,2,49812.0
+605,Coding interview university,0,True,False,,2020-08-24T15:17:07Z,0,2,1,1,20,0,20,0
+604,Update programming-language-resources.md,40,True,True,2020-08-23T18:37:19Z,2020-08-23T18:37:19Z,0,2,1,1,1,0,1,86138.0
+599,Update README.md,0,True,False,,2020-08-16T08:29:21Z,0,1,0,1,1,1,2,0
+598,did ABC: Always Be Coding,0,True,False,,2020-08-13T19:21:14Z,0,1,0,1,1,1,2,0
+597,Fix some hyperlinks in pt-br readme,0,True,True,2020-08-11T16:12:47Z,2020-08-11T16:12:47Z,0,2,1,1,3,3,6,80335.0
+596,111,0,True,False,,2020-08-09T16:30:46Z,0,1,0,2,3426,1776,5202,0
+595,Progress,0,True,False,,2020-08-08T17:52:40Z,0,1,0,1,5,5,10,0
+593,Update README.md,34,True,False,,2020-08-06T15:13:43Z,0,3,2,1,2,0,2,0
+589,Marked x,0,True,False,,2020-08-06T15:14:06Z,0,1,1,1,5,5,10,0
+587,update,0,True,False,,2020-08-03T23:49:56Z,0,0,0,0,0,0,0,0
+584,Marked x,0,True,False,,2020-08-03T10:52:05Z,0,1,0,1,1,1,2,0
+583,Added more steps to GIT setup to help users new to Git/GitHub,61,True,True,2020-08-03T00:09:13Z,2020-08-03T00:09:14Z,1,3,1,1,9,2,11,2808.0
+580,Marked x,0,True,False,,2020-08-03T00:08:03Z,0,2,1,1,2,2,4,0
+582,Added a few missing steps for setting up git,94,True,False,,2020-08-02T23:11:30Z,0,1,0,1,9,1,10,0
+576,Merge pull request #1 from jwasham/master,10,True,False,,2020-07-24T11:52:48Z,0,1,0,0,0,0,0,0
+575,marked x: abc,0,True,False,,2020-07-23T02:20:05Z,0,1,0,1,1573,1500,3073,0
+563,Merge pull request #1 from jwasham/master,20,True,False,,2020-07-20T03:30:24Z,0,2,2,0,0,0,0,0
+568,Merge pull request #1 from jwasham/master,69,True,False,,2020-07-20T03:30:01Z,0,2,1,2,3,0,3,0
+548,Marked x,0,True,False,,2020-07-12T18:13:42Z,0,2,1,1,1,1,2,0
+564,[Translation] Traditional Chinese,85,True,True,2020-07-12T18:11:18Z,2020-07-12T18:11:19Z,0,2,1,2,1893,1,1894,48621.0
+566,Read ABC: Always Be Coding,68,True,False,,2020-07-12T11:20:08Z,0,1,0,1,1,1,2,0
+565,Update readme,0,True,False,,2020-07-12T05:57:56Z,0,4,0,4,58,57,115,0
+562,fix cdn article,0,True,True,2020-07-10T16:08:56Z,2020-07-10T16:08:56Z,0,2,2,1,1,1,2,26040.0
+561,Update README.md,0,True,False,,2020-07-09T23:15:53Z,0,1,0,1,1,1,2,0
+560,update with original,0,True,False,,2020-07-09T15:28:59Z,0,1,0,1,86,84,170,0
+559,add interviewing.io to list of resources,0,True,True,2020-07-08T02:33:45Z,2020-07-08T02:33:45Z,0,2,1,1,1,0,1,28837.0
+558,Progress,0,True,False,,2020-07-07T18:20:07Z,0,1,1,1,3,3,6,0
+553,Progress,21,True,False,,2020-07-05T00:29:15Z,3,2,1,2,2,1969,1971,0
+552,Merge pull request #1 from jwasham/master,5,True,False,,2020-07-04T18:45:07Z,0,1,0,0,0,0,0,0
+551,Merge pull request #1 from jwasham/master,5,True,False,,2020-07-04T18:42:23Z,0,1,0,0,0,0,0,0
+549,Update README.md,0,True,False,,2020-06-28T18:06:08Z,0,2,1,1,2,2,4,0
+545,ABC: Always Be Coding and Whiteboarding,0,True,False,,2020-06-24T20:52:12Z,0,1,0,1,2,2,4,0
+543,Progress,0,True,False,,2020-06-24T03:42:01Z,0,2,0,1,3,3,6,0
+436,Translation: Spanish,16,True,False,,2020-06-13T22:41:52Z,0,1,0,1,8,6,14,0
+540,merge commit,0,True,False,,2020-06-12T07:52:27Z,0,3,0,2,36,38,74,0
+539,Update coursera link in Series: Trees (video),198,True,True,2020-06-09T15:17:35Z,2020-06-09T15:17:35Z,0,2,1,1,13,13,26,53828.0
+536,progress,0,True,False,,2020-05-31T20:18:58Z,0,1,0,1,1,1,2,0
+527,Update README-hi.md,39,True,True,2020-05-27T01:09:12Z,2020-05-27T01:09:12Z,0,2,2,1,23,24,47,1327054.0
+534,Progress,0,True,False,,2020-05-23T17:24:48Z,0,2,1,1,5,5,10,0
+531,Progress,0,True,False,,2020-05-16T10:16:24Z,0,1,0,1,2,2,4,0
+530,Marked x for ABC,0,True,False,,2020-05-16T08:53:45Z,0,1,0,1,1,1,2,0
+526,Marked x,0,True,False,,2020-05-11T18:49:18Z,0,1,0,1,1,1,2,0
+525,Marked x,0,True,False,,2020-05-09T15:59:15Z,0,1,0,1,1,1,2,0
+518,Marked 1,0,True,False,,2020-05-03T06:54:44Z,0,1,0,1,1,1,2,0
+517,Add MIT Bit Hacks lecture,43,True,True,2020-04-26T17:33:07Z,2020-04-26T17:33:07Z,0,2,1,1,1,0,1,80232.0
+515,progress,8,True,False,,2020-04-21T16:51:55Z,0,1,0,1,8,8,16,0
+514,progress,0,True,False,,2020-04-21T16:51:17Z,0,1,0,1,8,8,16,0
+513,Merge pull request #1 from jwasham/master,18,True,False,,2020-04-19T05:44:43Z,0,1,0,0,0,0,0,0
+512,Merge pull request #1 from jwasham/master,18,True,False,,2020-04-19T05:43:11Z,0,1,0,0,0,0,0,0
+510,Progress,0,True,False,,2020-04-18T14:49:16Z,0,1,0,1,3,3,6,0
+508,Merge pull request #1 from jwasham/master,26,True,False,,2020-04-16T14:51:37Z,0,1,0,0,0,0,0,0
+473,Update README.md,0,True,False,,2020-02-11T03:22:20Z,0,2,1,1,1,1,2,0
+472,Update README.md,0,True,False,,2020-02-11T03:22:37Z,0,2,1,1,1,1,2,0
+471,Update README.md,0,True,False,,2020-02-11T03:22:53Z,0,2,1,1,1,1,2,0
+505,Marked 'Wht is it?',0,True,False,,2020-04-09T16:14:04Z,0,2,1,1,1,1,2,0
+507,Translation: Polish,319,True,True,2020-04-09T16:12:30Z,2020-04-09T16:12:30Z,2,2,2,2,1201,1208,2409,13014.0
+504,Update hash table course link,77,True,True,2020-03-30T16:49:51Z,2020-03-30T16:49:51Z,0,2,1,1,1,1,2,7545.0
+503,update progress,0,True,False,,2020-03-29T13:27:29Z,0,1,0,1,4,4,8,0
+502,Week1.1,0,True,False,,2020-03-29T01:06:55Z,0,2,1,1,2,2,4,0
+496,Marked ABC: Always Be Coding,28,True,False,,2020-03-21T10:30:00Z,0,1,0,1,1,1,2,0
+501,Marked x,0,True,False,,2020-03-24T02:17:32Z,0,1,0,1,1,0,1,0
+497,"Marks ABC, whiteboarding and effective whiteboarding",0,True,False,,2020-03-21T15:19:02Z,0,1,0,1,3,3,6,0
+495,Merge pull request #1 from jwasham/master,17,True,False,,2020-03-13T05:50:47Z,0,0,0,0,0,0,0,0
+494,Merge pull request #1 from jwasham/master,17,True,False,,2020-03-07T18:28:19Z,0,2,0,0,0,0,0,0
+493,Progress,0,True,False,,2020-03-04T11:41:37Z,0,9,0,18,3167,432,3599,0
+492,Progress,0,True,False,,2020-03-04T11:37:17Z,0,1,0,11,771,0,771,0
+490,Removed broken YouTube link,0,True,True,2020-03-03T03:19:44Z,2020-03-03T03:19:44Z,0,2,1,1,0,1,1,114302.0
+491,Arr2,0,True,False,,2020-03-02T06:17:55Z,0,1,0,3,139,20,159,0
+476,Fix markdown syntax typo in korean translation,28,True,True,2020-02-25T05:37:26Z,2020-02-25T05:37:26Z,0,2,1,1,4,4,8,60861.0
+475,Progress,0,True,False,,2020-02-23T14:54:47Z,0,1,1,1,2,2,4,0
+474,Merge pull request #1 from jwasham/master,15,True,False,,2020-02-21T07:51:25Z,0,1,1,0,0,0,0,0
+460,Add files via upload,0,True,False,,2020-02-12T05:49:46Z,0,2,2,1,31,0,31,0
+366,Added Red Black Tree,69,True,False,,2020-02-12T06:02:18Z,0,2,1,1,23,0,23,0
+395,Add Challenge Site,0,True,False,,2020-02-12T06:00:47Z,0,2,1,1,1,0,1,0
+415,Big o order,104,True,False,,2020-02-12T05:59:43Z,0,3,1,1,1,1,2,0
+432,Add a link to Learning how to Learn course on Coursera,113,True,True,2020-02-12T05:58:55Z,2020-02-12T05:58:55Z,0,2,1,1,3,1,4,19569754.0
+461,Add Cracking Fb Interview,226,True,True,2020-02-12T05:54:44Z,2020-02-12T05:54:44Z,0,2,1,1,3,1,4,9950637.0
+456,Recommendations for C++ books,99,True,False,,2020-02-12T05:53:31Z,0,2,1,1,2,0,2,0
+373,Hash Tables Section incorrect link,40,True,False,,2020-02-12T05:53:16Z,4,2,0,1,2,2,4,0
+394,Progress,0,True,False,,2020-02-12T05:52:18Z,0,2,0,1,8,8,16,0
+393,Update README.md,0,True,False,,2020-02-12T05:52:05Z,0,2,0,1,1,1,2,0
+410,Updating Code,0,True,False,,2020-02-12T05:51:42Z,0,3,1,1,69,2,71,0
+452,Update README.md,0,True,False,,2020-02-12T05:50:42Z,0,2,0,1,2,0,2,0
+455,update read.md,0,True,False,,2020-02-12T05:50:25Z,0,2,1,1,1,1,2,0
+470,[Vietnamese Translation] Update dead link,182,True,True,2020-01-29T06:19:40Z,2020-01-29T06:19:40Z,0,2,1,1,1,1,2,76745.0
+469,Completed 2 videos in pre-requisite,0,True,False,,2020-01-24T04:46:41Z,0,4,1,1,7,7,14,0
+467,Initialization of the Bengali Translation File,118,True,True,2020-01-24T04:45:47Z,2020-01-24T04:45:47Z,1,3,1,1,0,0,0,3497724.0
+468,Updating fork,13,True,False,,2019-12-24T07:09:28Z,0,1,0,1,4,4,8,0
+466,Feature/translate additional learning,0,True,False,,2019-11-19T14:08:20Z,0,8,0,1,2001,0,2001,0
+465,Update README.md,0,True,False,,2019-11-15T21:30:34Z,0,1,0,1,1,1,2,0
+464,implemented dynamic array from scratch,50,True,False,,2019-11-10T13:22:22Z,0,1,0,4,98,0,98,0
+463,Learning,0,True,False,,2019-11-01T16:22:05Z,0,1,0,21,1923,27517,29440,0
+462,Add Last Day Revision Doc,103,True,False,,2019-10-20T05:17:32Z,0,2,1,1,2,0,2,0
+458,Added a resource for c++,193,True,True,2019-10-12T19:20:35Z,2019-10-12T19:20:35Z,0,4,3,1,1,0,1,178.0
+453,added data visualization in R cheatsheet,152,True,False,,2019-10-12T18:49:30Z,0,2,1,1,0,0,0,0
+457,Additional resource for B-trees,0,True,True,2019-10-12T18:36:32Z,2019-10-12T18:36:32Z,0,2,1,1,1,0,1,81761.0
+454,[French Translation]Typo correction,20,True,True,2019-10-08T02:12:01Z,2019-10-08T02:12:01Z,0,2,1,1,2,2,4,39962.0
+451,Merge pull request #1 from jwasham/master,11,True,False,,2019-09-24T06:15:14Z,0,1,0,0,0,0,0,0
+434,Translation: German,41,True,True,2019-09-14T20:12:46Z,2019-09-14T20:12:46Z,7,3,5,1,2094,0,2094,5455060.0
+450,My progress,0,True,False,,2019-09-12T06:16:22Z,0,1,1,1,1,1,2,0
+449,Progress,0,True,False,,2019-09-11T20:08:43Z,0,1,0,1,13,13,26,0
+448,ya,3,True,False,,2019-09-06T02:43:31Z,0,2,1,1,2,0,2,0
+446,ajout nouveaux fichiers,0,True,False,,2019-08-22T01:24:19Z,0,1,0,2,17,0,17,0
+445,Fix networking section in table of contents,146,True,True,2019-08-21T16:00:48Z,2019-08-21T16:00:48Z,0,2,1,1,1,1,2,47116.0
+444,fix the Chinese version link,41,True,True,2019-08-20T02:46:18Z,2019-08-20T02:46:18Z,0,2,1,1,1,1,2,1903.0
+442,Fixed broken link for MIT's 6.004 Computation Structures,49,True,True,2019-08-11T18:53:53Z,2019-08-11T18:53:53Z,0,2,1,1,1,1,2,46578.0
+440,docs: remove future google sign img,18,True,True,2019-08-09T03:50:01Z,2019-08-09T03:50:01Z,3,2,2,1,0,6,6,251381.0
+441,Update README.md,0,True,False,,2019-08-09T03:46:59Z,0,2,1,1,3,3,6,0
+438,Marked X,0,True,False,,2019-07-28T10:33:32Z,0,1,0,1,6,6,12,0
+431,Update README.md,41,True,False,,2019-06-28T02:48:34Z,0,2,1,1,1,1,2,0
+430,Remove broken garbage collector youtube link from translations files.,146,True,True,2019-06-27T03:16:39Z,2019-06-27T03:16:40Z,0,2,1,11,0,11,11,48069.0
+428,Merge pull request #1 from jwasham/master,5,True,False,,2019-05-14T18:54:45Z,0,1,0,0,0,0,0,0
+420,Update Progress,0,True,False,,2019-05-13T13:06:45Z,0,2,3,1,12,12,24,0
+425,Remove trailing spaces and unnecessary new lines,26,True,True,2019-05-13T13:06:06Z,2019-05-13T13:06:06Z,0,2,3,1,1,4,5,275736.0
+426,Remove trailing spaces inside codes,26,True,True,2019-05-12T20:38:07Z,2019-05-12T20:38:07Z,0,2,1,1,4,4,8,213002.0
+427,Fix typo,0,True,True,2019-05-12T20:37:34Z,2019-05-12T20:37:34Z,0,2,1,1,1,1,2,211565.0
+424,Fix inconsistent indentation for list items,0,True,True,2019-05-11T16:58:16Z,2019-05-11T16:58:16Z,0,2,1,1,1,1,2,117205.0
+423,Fix syntax error caused by whitespace,30,True,True,2019-05-10T03:11:43Z,2019-05-10T03:11:43Z,0,2,1,1,1,1,2,43219.0
+422,Update translations image link,101,True,True,2019-04-26T02:19:49Z,2019-04-26T02:19:50Z,1,4,1,13,13,13,26,66742.0
+390,Feat/collapsible sections,78,True,True,2018-11-19T00:18:19Z,2018-11-19T00:18:19Z,0,2,1,1,147,7,154,224955.0
+397,Translation : Korean,460,True,True,2019-04-17T02:25:57Z,2019-04-17T02:25:57Z,0,2,4,1,681,657,1338,11773601.0
+421,Merge pull request #1 from jwasham/master,1,True,False,,2019-04-15T07:46:01Z,0,1,0,0,0,0,0,0
+418,Add 2 more video resources for data structures,217,True,True,2019-04-09T02:28:35Z,2019-04-09T02:28:35Z,0,2,1,1,4,0,4,621420.0
+417,fix Endian link #414,15,True,True,2019-03-23T19:33:41Z,2019-03-23T19:33:41Z,0,2,1,1,3,3,6,259.0
+416,Ricardolopes86 patch 1,0,True,False,,2019-03-21T20:22:48Z,0,1,1,1,2,2,4,0
+412, Remove broken link to Garbage Collection-Compilers,105,True,True,2019-02-14T05:25:17Z,2019-02-14T05:25:17Z,0,2,1,1,0,1,1,240990.0
+411,TEST,0,True,False,,2019-02-03T09:22:36Z,0,1,0,1,0,0,0,0
+409,Merge pull request #1 from jwasham/master,7,True,False,,2019-01-30T08:37:58Z,0,1,0,0,0,0,0,0
+408,Add the video identity for some youtube videos,46,True,True,2019-01-30T03:36:19Z,2019-01-30T03:36:19Z,0,2,1,1,15,15,30,67816.0
+406,Fix coursera link,92,True,True,2019-01-19T20:55:14Z,2019-01-19T20:55:14Z,2,2,2,1,3,3,6,318585.0
+407,remove redundant parentheses in README.md,53,True,True,2019-01-18T04:17:37Z,2019-01-18T04:17:37Z,0,2,1,1,1,1,2,115008.0
+405,Fix urls and update repo name,0,True,True,2019-01-12T18:53:54Z,2019-01-12T18:53:54Z,0,2,1,12,94,94,188,1089.0
+402,added a video link to ##Don'feel you aren't smart enough,106,True,True,2018-12-30T20:00:31Z,2018-12-30T20:00:31Z,0,3,3,1,1,0,1,89763.0
+399,progress 1,0,True,False,,2018-12-17T06:12:28Z,0,1,0,1,1,1,2,0
+387,Fixes links to Bit Twiddler to use HTTPS,104,True,True,2018-11-19T00:34:45Z,2018-11-19T00:34:46Z,0,2,1,1,5,5,10,615513.0
+391,Marked x,0,True,False,,2018-11-19T00:16:59Z,0,2,1,1,2,2,4,0
+389,Marked Always Be Coding,0,True,False,,2018-11-16T08:09:41Z,0,2,0,1,1,1,2,0
+388,Changed Spelling - Lern -> Learn,49,True,True,2018-11-13T03:10:03Z,2018-11-13T03:10:03Z,0,2,1,1,1,1,2,30562.0
+381,Update all Lynda.com videos with Archive.org videos,66,True,True,2018-11-03T19:03:55Z,2018-11-03T19:03:55Z,0,2,1,14,169,170,339,169940.0
+382,Moved BFS and DFS (grapht implementation) videos to the Graph section,393,True,True,2018-11-03T17:50:03Z,2018-11-03T17:50:03Z,0,2,1,1,17,15,32,13971.0
+370,Fixes #368 Updated all Sedgewick's links that were broken,143,True,True,2018-10-23T04:29:52Z,2018-10-23T04:29:52Z,0,2,1,1,32,56,88,208225.0
+371,Update programming-language-resources.md,26,True,True,2018-10-23T04:30:47Z,2018-10-23T04:30:47Z,0,2,0,1,1,0,1,150779.0
+377,Update Thai translation and fix some typos,0,True,True,2018-10-31T13:14:56Z,2018-10-31T13:14:56Z,0,2,1,1,21,21,42,258827.0
+378,Marked test,0,True,False,,2018-10-31T13:14:22Z,0,2,1,1,1,1,2,0
+380,Merge pull request #1 from jwasham/master,6,True,False,,2018-10-31T05:55:55Z,0,1,0,0,0,0,0,0
+367,Marked x,0,True,False,,2018-10-18T03:04:32Z,0,1,1,1,13,13,26,0
+376,Create dijkstra,0,True,False,,2018-10-28T03:54:56Z,0,2,1,1,104,0,104,0
+375,link to HLA wikipedia article,97,True,True,2018-10-26T02:38:59Z,2018-10-26T02:38:59Z,0,2,1,1,1,1,2,23004.0
+369,Fixes #368 Fix broken links for Sedgewick and Wayne algorithms lectures.,31,True,True,2018-10-23T04:30:28Z,2018-10-23T04:30:28Z,0,3,2,1,3,3,6,255737.0
+372,Progress,0,True,False,,2018-10-21T20:04:27Z,0,1,0,15,1,25201,25202,0
+356,Fix README-vi.md,132,True,True,2018-10-13T19:00:47Z,2018-10-13T19:00:47Z,0,3,2,1,15,17,32,3575476.0
+365,Issue #325 adds video on CPU processing ,27,True,True,2018-10-09T02:46:47Z,2018-10-09T02:46:47Z,0,2,1,1,1,0,1,101235.0
+363,Adding Challenge sites,0,True,True,2018-10-06T17:40:09Z,2018-10-06T17:40:09Z,0,2,1,1,1,0,1,453737.0
+346,"Add ""What Every Computer Scientist Should Know About Floating-Point Arithmetic""",935,True,False,,2018-10-06T17:39:32Z,0,2,1,1,1,0,1,0
+350,mark x,0,True,False,,2018-10-06T17:36:25Z,0,2,1,1,1,1,2,0
+352,Add link to mock coding resources,0,True,False,,2018-10-06T17:36:01Z,0,2,1,1,1,0,1,0
+353,added TheChernoProject in C++ materials list,32,True,False,,2018-10-06T17:34:40Z,0,2,1,1,2,0,2,0
+359,Create mark down,0,True,False,,2018-10-06T17:33:44Z,0,2,3,1,1,0,1,0
+355,1,0,True,False,,2018-10-06T17:33:09Z,0,2,1,1,6,6,12,0
+364,Translated the updated statement in Korean,70,True,True,2018-10-06T17:31:47Z,2018-10-06T17:31:47Z,0,2,1,1,7,7,14,78935.0
+362,Fixed broken link to queue data structure,0,True,True,2018-09-25T02:55:04Z,2018-09-25T02:55:04Z,0,2,1,1,1,1,2,69027.0
+361,fixed broken links from TopCoder,0,True,True,2018-09-25T02:54:28Z,2018-09-25T02:54:28Z,0,2,1,1,10,10,20,106549.0
+360,[Linked List]Progress,15,True,False,,2018-09-18T12:33:48Z,0,1,0,1,27,25,52,0
+357,Updating progress,0,True,False,,2018-09-09T03:49:24Z,0,1,0,1,4,4,8,0
+354,Removed other langs and updated readme for me,0,True,False,,2018-08-23T01:37:26Z,0,1,1,15,1,25308,25309,0
+289,Turkish translation,49,True,False,,2018-08-02T14:14:03Z,0,1,0,2,386,0,386,0
+351,"adds on X, completed item",0,True,False,,2018-07-01T21:53:45Z,0,1,2,1,1,1,2,0
+347,Fixed error of translation,0,True,True,2018-06-26T04:32:41Z,2018-06-26T04:32:41Z,0,2,1,1,2,2,4,96313.0
+349,Fix typos in README.md,87,True,True,2018-06-26T04:31:48Z,2018-06-26T04:31:48Z,0,2,1,1,2,2,4,41704.0
+343,Update README.md,14,True,True,2018-06-23T17:26:33Z,2018-06-23T17:26:33Z,0,2,1,1,2,2,4,178437.0
+345,Marked x,0,True,False,,2018-06-22T12:39:35Z,0,1,0,1,4,2,6,0
+320,Removing OS generated files,121,True,True,2018-04-19T03:38:00Z,2018-04-19T03:38:00Z,0,2,1,2,10,0,10,555698.0
+319,Moving README-he.md file to translations folder #97,53,True,True,2018-05-10T04:30:39Z,2018-05-10T04:30:39Z,0,2,1,1,0,0,0,2373461.0
+342,Update README.md,0,True,True,2018-06-10T22:01:19Z,2018-06-10T22:01:19Z,0,2,4,1,2,2,4,3007.0
+340,Progress,184,True,False,,2018-06-10T21:59:42Z,0,2,1,1,4,4,8,0
+341,Ci,0,True,False,,2018-06-10T10:16:59Z,0,1,0,38,774,0,774,0
+317,Added more resources,79,True,True,2018-06-09T18:58:57Z,2018-06-09T18:58:57Z,0,2,1,1,12,0,12,5360350.0
+332,Update prerequisite knowledge section,123,True,True,2018-06-09T18:56:20Z,2018-06-09T18:56:20Z,0,2,1,1,4,2,6,1760868.0
+333,Updated Readme.md to better readability,48,True,False,,2018-06-09T18:50:57Z,0,2,1,1,17,16,33,0
+339,1st progress,0,True,False,,2018-06-08T19:27:47Z,0,1,0,1,3,3,6,0
+338,Whiteboarding Content Read,0,True,False,,2018-06-04T16:16:01Z,0,1,0,1,2,2,4,0
+337,Marked x,0,True,False,,2018-06-01T06:10:14Z,0,2,0,1,1,1,2,0
+336,Progress,0,True,False,,2018-05-31T00:39:18Z,0,1,0,1,14,14,28,0
+335,Progress,0,True,False,,2018-05-25T00:47:44Z,0,1,0,2,491,1,492,0
+331,1,1,True,False,,2018-05-14T20:24:09Z,0,1,0,2,13,13,26,0
+329,1. spelling mistake and format,110,True,False,,2018-05-10T04:29:11Z,0,2,2,1,1,2,3,0
+330,Merge pull request #2 from jwasham/master,8,True,False,,2018-05-10T15:37:58Z,0,1,0,0,0,0,0,0
+321,Irem ulutas patch 1,0,True,False,,2018-05-10T04:29:42Z,0,2,2,1,224,0,224,0
+327,Update README.md,21,True,False,,2018-05-05T16:08:19Z,0,1,0,1,4,4,8,0
+326,Update README.md,86,True,False,,2018-05-05T16:02:52Z,0,1,0,1,2,2,4,0
+324,merge,0,True,False,,2018-04-24T07:47:12Z,0,1,1,2,42,35,77,0
+315,Update book list,0,True,True,2018-04-20T02:19:44Z,2018-04-20T02:19:44Z,1,2,1,1,3,2,5,1183646.0
+322,Pull request: Added mycodeschool tutorials link,113,True,False,,2018-04-19T03:37:08Z,0,2,2,1,1,0,1,0
+323,Marked x,0,True,False,,2018-04-17T03:36:09Z,0,1,0,1,1,1,2,0
+314,Remove broken garbage collection youtube link,38,True,True,2018-04-04T03:23:46Z,2018-04-04T03:23:46Z,0,2,1,1,0,1,1,2019.0
+310,Progress,0,True,False,,2018-02-27T10:37:24Z,0,1,0,1,5,5,10,0
+309,Issue-308 Discrete Math CS70 Link updated,35,True,True,2018-02-22T06:07:30Z,2018-02-22T06:07:30Z,0,2,1,1,1,1,2,6326.0
+306,Marked x,0,True,False,,2018-02-17T01:01:19Z,0,1,0,1,1,1,2,0
+304,Marked X,0,True,False,,2018-02-05T17:53:52Z,0,1,0,1,1,1,2,0
+303,First three topics from Interview Process,0,True,False,,2018-01-29T23:25:59Z,0,1,0,1,3,3,6,0
+302,Update README.md,0,True,False,,2018-01-29T18:26:57Z,0,1,0,1,1,1,2,0
+301,Checklist,0,True,False,,2018-01-29T18:24:43Z,0,1,0,0,0,0,0,0
+285,Translated a few lines of the README from English to French,63,True,True,2018-01-28T18:30:04Z,2018-01-28T18:30:04Z,0,2,1,2,3,3,6,3873200.0
+295,Update README according to Translation in progress,98,True,True,2018-01-28T18:29:28Z,2018-01-28T18:29:28Z,0,2,1,1,0,1,1,1557712.0
+291,Marked First X,0,True,False,,2018-01-28T18:29:12Z,0,2,1,1,1,1,2,0
+300,Fixed the error of translation,43,True,True,2018-01-28T18:28:45Z,2018-01-28T18:28:45Z,0,2,1,1,1,1,2,209667.0
+296,Incorrect translation to spanish,86,True,True,2018-01-28T18:28:07Z,2018-01-28T18:28:07Z,0,2,1,1,1,1,2,1115653.0
+299,translated some part of README en-uk,69,True,False,,2018-01-27T15:58:46Z,0,1,1,1,24,24,48,0
+297,test [X],7,True,False,,2018-01-23T19:05:16Z,0,1,0,1,2,2,4,0
+298,Update README.md,0,True,False,,2018-01-20T03:25:16Z,0,1,0,1,4,4,8,0
+287,Create README-my.md,0,True,False,,2018-01-11T04:23:15Z,0,1,0,1,315,0,315,0
+293,Progress,0,True,False,,2018-01-04T17:17:03Z,0,1,0,1,4,4,8,0
+292,ABC,0,True,False,,2018-01-04T17:12:42Z,0,1,0,1,1,1,2,0
+281,Marked x,0,True,False,,2017-12-22T03:30:38Z,0,2,1,1,24,24,48,0
+288,Feature/update vietnamese,184,True,True,2017-12-22T03:29:47Z,2017-12-22T03:29:47Z,1,3,1,1,103,102,205,153424.0
+290,Merge pull request #1 from jwasham/master,24,True,False,,2017-12-21T11:22:24Z,0,1,0,0,0,0,0,0
+284,Update book to newest version.,67,True,True,2017-12-13T04:04:58Z,2017-12-13T04:04:58Z,0,4,2,1,1,1,2,11831.0
+278,Progress,0,True,False,,2017-11-29T01:57:46Z,0,1,0,23,472,11,483,0
+258,Add an awesome article by Aaron Swartz,292,True,True,2017-11-26T22:29:37Z,2017-11-26T22:29:37Z,0,2,1,1,1,0,1,4669026.0
+276,Progress,0,True,False,,2017-11-24T10:33:04Z,0,1,0,26,27653,0,27653,0
+274,learn c,0,True,False,,2017-11-08T10:01:17Z,0,1,0,1,1,1,2,0
+272,Merge pull request #1 from jwasham/master,24,True,False,,2017-11-08T09:27:37Z,0,2,2,0,0,0,0,0
+273,Marked x,39,True,False,,2017-11-08T03:19:16Z,0,2,1,1,1,1,2,0
+270,My progress,0,True,False,,2017-11-06T05:56:02Z,0,1,0,3,254,0,254,0
+267,added new additional section,64,True,False,,2017-10-29T17:34:43Z,0,3,3,1,3,0,3,0
+265,Add more Thai translations,0,True,True,2017-10-29T17:35:57Z,2017-10-29T17:35:57Z,0,2,3,1,84,85,169,208467.0
+264,delete link to deleted German translation,0,True,True,2017-10-25T14:16:47Z,2017-10-25T14:16:47Z,0,2,1,1,0,1,1,109059.0
+261,fixed internal linking,0,True,True,2017-10-14T16:14:57Z,2017-10-14T16:14:57Z,0,2,0,1,1,1,2,129047.0
+263,Small review of the portuguese translation (Brazilian).,13,True,True,2017-10-14T16:13:53Z,2017-10-14T16:13:53Z,0,2,1,1,14,14,28,48997.0
+262,Marked x,0,True,False,,2017-10-14T01:35:39Z,0,1,0,1,1,1,2,0
+115,pt-br translation init,139,True,True,2017-10-11T23:01:16Z,2017-10-11T23:01:16Z,0,4,9,2,1970,1,1971,24283457.0
+232,Translation: Turkish,0,True,False,,2017-10-09T21:35:28Z,0,2,1,1,131,1727,1858,0
+260, Changed is_empty() to empty() in vector functions.,74,True,False,,2017-10-08T22:36:18Z,0,2,2,1,1,1,2,0
+256,marked x,0,True,False,,2017-10-08T22:36:45Z,0,2,1,1,2,2,4,0
+255,Update from original,0,True,False,,2017-09-26T10:11:05Z,0,1,0,1,1,1,2,0
+254,mm,0,True,False,,2017-09-25T17:37:05Z,0,1,0,0,0,0,0,0
+252,Update from original,0,True,False,,2017-09-23T22:22:59Z,0,5,0,5,211,87,298,0
+251,Update from original,0,True,False,,2017-09-23T22:21:29Z,0,5,0,5,211,87,298,0
+250,Moved translation to translations directory,108,True,True,2017-09-19T15:00:13Z,2017-09-19T15:00:13Z,0,2,1,2,1,1,2,36421.0
+249,Lots of Translation changes and edits,20,True,True,2017-09-17T19:31:54Z,2017-09-17T19:31:54Z,0,2,3,1,200,78,278,55377.0
+248,Marked x,0,True,False,,2017-09-15T15:48:46Z,0,2,0,1,1,1,2,0
+247,Progress,0,True,False,,2017-09-15T02:45:39Z,0,1,0,4,5,3623,3628,0
+242,"Added Pramp, a platform to practice interviews",209,True,True,2017-09-13T16:07:59Z,2017-09-13T16:07:59Z,0,2,8,1,8,7,15,1080362.0
+245,big O cheat sheet added,33,True,False,,2017-09-12T06:06:01Z,0,1,0,1,0,0,0,0
+246,added big o cheat sheet,0,True,True,2017-09-12T02:08:18Z,2017-09-12T02:08:18Z,0,4,1,1,0,0,0,111022.0
+244,Fix Incorrect translation,176,True,True,2017-09-09T17:39:16Z,2017-09-09T17:39:16Z,0,2,1,1,1,1,2,116478.0
+236,Update README.md with a simpleprogrammer.com link,0,True,False,,2017-09-04T00:23:54Z,0,2,1,1,1,0,1,0
+165,Updated Ukrainian translation,29,True,False,,2017-08-23T10:08:21Z,2,4,0,1,24,24,48,0
+240,Merge pull request #2 from jwasham/master,17,True,False,,2017-08-22T22:01:03Z,0,1,0,0,0,0,0,0
+238,Progress,0,True,False,,2017-08-20T18:07:08Z,0,2,1,1,4,4,8,0
+234,add 한국어 for Korean to easy to spot,154,True,True,2017-08-20T18:06:04Z,2017-08-20T18:06:04Z,0,2,1,1,1,1,2,2590917.0
+237,Progress,0,True,False,,2017-08-13T19:58:49Z,0,1,0,24,25571,8,25579,0
+235,Progress merge - remove stuff at beginning for EOU,0,True,False,,2017-07-25T08:23:25Z,0,1,0,1,122,428,550,0
+231,Fixed #219,221,True,True,2017-07-16T04:09:49Z,2017-07-16T04:09:49Z,0,2,1,1,22,22,44,343307.0
+233,Fix broken links of UC Berkeley videos,277,True,True,2017-07-18T03:21:40Z,2017-07-18T03:21:40Z,0,3,1,1,3,3,6,141551.0
+230,Fixed issue #229,28,True,False,,2017-07-09T18:23:25Z,0,2,1,1,3,3,6,0
+228,included a  source to learn java,110,True,False,,2017-07-04T16:40:12Z,0,2,2,1,6,0,6,0
+227,arrays complete,0,True,False,,2017-07-04T07:28:16Z,0,1,0,1,18,18,36,0
+226,Progress,0,True,False,,2017-07-02T22:58:23Z,0,1,0,1,1,1,2,0
+225,Progress,0,True,False,,2017-07-02T19:33:48Z,0,1,0,1,4,4,8,0
+224,Fix dynamo paper link.,208,True,True,2017-06-30T02:33:06Z,2017-06-30T02:33:06Z,0,2,1,1,1,1,2,37052.0
+214,[Español] Keeps translation up to date,89,True,True,2017-06-28T02:56:21Z,2017-06-28T02:56:21Z,0,2,2,1,4,5,9,1491591.0
+223,x,0,True,False,,2017-06-27T12:38:09Z,0,1,0,4,1,5700,5701,0
+222,"Test, first commit",0,True,False,,2017-06-25T06:42:53Z,0,1,0,1,1,1,2,0
+221,Update README.md,0,True,False,,2017-06-25T04:24:08Z,0,1,0,1,1,1,2,0
+220,Update README.md,0,True,False,,2017-06-25T03:55:16Z,0,1,0,1,1,1,2,0
+127,Merge pull request #1 from jwasham/master,18,True,False,,2017-06-18T17:27:09Z,0,2,2,0,0,0,0,0
+210,Merge pull request #1 from jwasham/master,5,True,False,,2017-06-18T17:26:35Z,0,2,1,0,0,0,0,0
+218,Marked x,0,True,False,,2017-06-18T17:24:58Z,0,2,2,1,8,8,16,0
+217,Fixed broken anchors and removed duplicate in index,66,True,True,2017-06-11T22:52:39Z,2017-06-11T22:52:39Z,0,2,1,1,4,5,9,4074.0
+216,Changed duplicate resource,243,True,True,2017-06-11T22:51:40Z,2017-06-11T22:51:40Z,0,2,0,1,1,1,2,8364.0
+215,fixed technical term,54,True,True,2017-06-11T22:50:35Z,2017-06-11T22:50:35Z,0,2,0,1,1,1,2,21877.0
+213,added anchor to video series,95,True,True,2017-06-10T17:52:17Z,2017-06-10T17:52:17Z,1,3,1,1,1,1,2,98077.0
+212,fix(gitignore): change js-style comments to shell comments,68,True,True,2017-06-09T04:09:25Z,2017-06-09T04:09:25Z,1,3,1,1,1,1,2,322697.0
+78,[Don't Merge yet] Spanish Translation in progress,536,True,True,2017-05-28T17:00:33Z,2017-05-28T17:00:33Z,12,8,11,2,1923,2020,3943,13729695.0
+206,Progress code,16,True,False,,2017-05-20T19:04:08Z,0,2,1,1,1,1,2,0
+207,Fix broken relative links and change Vietnamese language code,88,True,True,2017-05-20T19:03:00Z,2017-05-20T19:03:00Z,0,2,1,2,10,11,21,45833.0
+208,Watched some videos,0,True,False,,2017-05-20T13:25:24Z,0,1,0,1,10,10,20,0
+205,fix typo: Unxi => Unix,9,True,True,2017-05-16T04:25:15Z,2017-05-16T04:25:15Z,0,2,0,1,1,1,2,6184.0
+204,Added Elements of Programming Interviews companion project (method stubs and test cases),361,True,False,,2017-05-13T03:54:21Z,0,2,2,1,1,0,1,0
+201,Removed google specific parts,69,True,True,2017-05-13T03:55:18Z,2017-05-13T03:55:18Z,0,2,0,1,12,74,86,1010114.0
+203,Add HackerEarth to list of challenge sites,0,True,True,2017-05-06T17:12:25Z,2017-05-06T17:12:25Z,0,2,1,1,1,0,1,9874.0
+200,##영상 자료에 관하여 -> ## 영상 자료에 관하여,0,True,True,2017-04-29T17:48:46Z,2017-04-29T17:48:46Z,0,2,0,1,2,2,4,39331.0
+198,Progress,0,True,False,,2017-04-25T03:52:25Z,0,1,1,1,5,5,10,0
+197,Always be coding and How to get a Job at the big 4,0,True,False,,2017-04-24T14:50:41Z,0,1,0,1,9,9,18,0
+196,Marked x,0,True,False,,2017-04-23T19:05:08Z,0,1,0,1,1,0,1,0
+120,Turkish translation in progress. Issue #90,211,True,False,,2017-04-22T19:21:23Z,0,3,2,1,2031,0,2031,0
+194,pull latest change,0,True,False,,2017-04-21T19:57:24Z,0,1,0,1,71,71,142,0
+193,"Fix typo, चालक (Driver) to चालाक(Genius).",54,True,True,2017-04-20T04:04:39Z,2017-04-20T04:04:39Z,0,2,1,1,2,2,4,116212.0
+189,marked x,0,True,False,,2017-04-20T04:03:24Z,0,2,1,1,1,1,2,0
+192,Follow-up to #181: Add the System Design Primer,1111,True,True,2017-04-20T04:02:31Z,2017-04-20T04:02:31Z,0,2,0,1,2,1,3,277458.0
+191,Add link to Interactive Coding Interview Challenges in Python,307,True,True,2017-04-20T03:35:49Z,2017-04-20T03:35:49Z,0,2,1,1,3,0,3,276357.0
+188,Fix a few broken markdown links,195,True,True,2017-04-15T16:49:24Z,2017-04-15T16:49:24Z,0,2,1,1,3,3,6,173536.0
+187,Finished first task,0,True,False,,2017-04-13T02:22:22Z,0,1,0,1,1,1,2,0
+181,Add the System Design Primer,528,True,True,2017-04-04T03:24:00Z,2017-04-04T03:24:00Z,0,2,1,1,2,1,3,142542.0
+180,Edit Sentences in README,72,True,False,,2017-04-04T03:22:31Z,0,2,1,1,10,13,23,0
+179,"Making Hindi sentences more clear, that makes sense",62,True,True,2017-03-31T04:06:14Z,2017-03-31T04:06:14Z,0,2,1,1,1,1,2,72049.0
+177,Update Ukrainian translation,0,True,True,2017-03-29T03:27:04Z,2017-03-29T03:27:04Z,0,2,2,1,173,260,433,32221.0
+178,read ABC Whiteboarding,0,True,False,,2017-03-28T22:50:00Z,0,2,0,1,2,2,4,0
+176,Update LICENSE.txt,17,True,False,,2017-03-28T01:45:30Z,0,2,0,1,2,2,4,0
+175,Update Contributor name to Vietnamese version,74,True,True,2017-03-24T13:43:44Z,2017-03-24T13:43:44Z,0,2,1,1,1,0,1,12397.0
+173,Add a link to help with Forking a repo,71,True,True,2017-03-19T18:32:36Z,2017-03-19T18:32:36Z,1,4,4,1,20,17,37,13202.0
+168,Thai translation: Fixed typos,102,True,True,2017-03-14T17:00:08Z,2017-03-14T17:00:08Z,1,3,2,1,21,22,43,51603.0
+159,Thai Translation - First pull request,75,True,True,2017-03-12T00:16:34Z,2017-03-12T00:16:34Z,9,3,5,1,1940,0,1940,687476.0
+162,Added a new link in Interview Process section,0,True,True,2017-03-08T18:15:16Z,2017-03-08T18:15:16Z,0,2,1,1,1,0,1,5497.0
+161,Added a python centric interview prep course in README.md,0,True,True,2017-03-08T18:14:09Z,2017-03-08T18:14:09Z,0,2,1,1,2,0,2,52675.0
+158,Visual representation of 15 sorting algorithms ,0,True,True,2017-03-03T17:46:48Z,2017-03-03T17:46:48Z,0,2,1,1,1,0,1,34573.0
+93,Add vietnamese translation,473,True,True,2017-03-07T02:39:25Z,2017-03-07T02:39:25Z,0,5,11,2,1979,26,2005,6142691.0
+160,"Adding ""Design patterns for humans"" link",0,True,True,2017-03-05T18:16:26Z,2017-03-05T18:16:26Z,0,2,1,1,2,0,2,51976.0
+157,Thai translation,0,True,False,,2017-03-03T04:55:46Z,0,1,0,1,1941,0,1941,0
+155,Progress,0,True,False,,2017-02-27T10:42:46Z,0,1,0,1,21,22,43,0
+121,Polish translation (ISSUE #122),173,True,True,2017-02-25T01:18:35Z,2017-02-25T01:18:35Z,0,2,9,1,1978,0,1978,4354620.0
+116,Next piece of translation Hindi,32,True,True,2017-02-23T18:22:12Z,2017-02-23T18:22:12Z,0,4,7,1,436,442,878,4369634.0
+154,Marked x,0,True,False,,2017-02-22T22:18:46Z,0,1,0,1,20,21,41,0
+153,Progress,0,True,False,,2017-02-17T02:27:48Z,0,1,0,3,1,1,2,0
+152,"Fixed link for ""Zero to Hero""  Python video",0,True,True,2017-02-16T18:14:47Z,2017-02-16T18:14:47Z,0,2,1,1,1,1,2,19984.0
+151,Fixed typo in README,0,True,True,2017-02-14T05:56:03Z,2017-02-14T05:56:03Z,0,2,1,1,1,1,2,12700.0
+150,Fixed typo.,53,True,True,2017-02-11T18:56:20Z,2017-02-11T18:56:20Z,0,2,1,1,1,1,2,37580.0
+148,My branch,5,True,False,,2017-02-10T04:18:55Z,0,1,0,1,26,27,53,0
+52,Merge pull request #1 from jwasham/master,10,True,False,,2016-10-20T07:39:34Z,0,1,0,0,0,0,0,0
+147,Merge pull request #1 from jwasham/master,15,True,False,,2017-02-10T02:46:21Z,0,1,0,0,0,0,0,0
+146,Korean: Translate headings,71,True,False,,2017-02-03T20:39:32Z,0,1,0,1,53,53,106,0
+105,Update README-es.md,29,True,False,,2017-01-27T20:00:16Z,0,3,3,1,2,4,6,0
+145,Merge pull request #1 from jwasham/master,14,True,False,,2017-01-27T15:42:45Z,0,1,0,0,0,0,0,0
+144,Merge pull request #1 from jwasham/master,14,True,False,,2017-01-27T15:41:45Z,0,1,0,0,0,0,0,0
+143,Merge pull request #1 from jwasham/master,14,True,False,,2017-01-27T15:41:00Z,0,1,0,0,0,0,0,0
+142,Merge pull request #1 from jwasham/master,14,True,False,,2017-01-24T16:13:09Z,0,1,0,0,0,0,0,0
+139,Update Indonesia translation,51,True,True,2017-01-23T17:31:25Z,2017-01-23T17:31:25Z,0,2,2,1,133,158,291,304924.0
+132,Korean translation in progress,5,True,True,2017-01-23T01:22:15Z,2017-01-23T01:22:15Z,0,4,3,1,128,130,258,1020701.0
+138,Updated lines 1450-1520,0,True,False,,2017-01-18T23:07:53Z,0,1,1,1,15,15,30,0
+129,arabic translation in progress,47,True,True,2017-01-17T21:47:17Z,2017-01-17T21:47:17Z,0,2,4,1,2033,0,2033,621346.0
+111,Renamed Hindi language README file with proper language code,17,True,False,,2017-01-04T05:04:54Z,0,3,1,1,0,0,0,0
+137,Fix typo.,0,True,True,2017-01-17T01:06:12Z,2017-01-17T01:06:12Z,0,2,1,1,1,1,2,5179.0
+100,[WIP] Translation for Bahasa Indonesia,117,True,True,2017-01-14T17:39:58Z,2017-01-14T17:39:58Z,0,4,9,1,2009,0,2009,1292969.0
+84,French translation draft,0,True,True,2017-01-13T22:12:51Z,2017-01-13T22:12:51Z,0,2,4,1,2014,0,2014,1952109.0
+134,German translation in progress,32,True,False,,2017-01-13T21:30:02Z,0,0,0,1,2009,0,2009,0
+133,Personal info removed,0,True,False,,2017-01-13T08:15:39Z,0,1,0,1,2035,0,2035,0
+119,Translation to Korean in progress,24,True,True,2017-01-11T04:05:40Z,2017-01-11T04:05:40Z,0,10,0,1,2056,0,2056,522393.0
+123,started,0,True,False,,2017-01-07T18:18:30Z,1,3,1,1,3,239,242,0
+126,Simplified for me,0,True,False,,2017-01-06T19:02:51Z,0,1,1,7,2,9417,9419,0
+102,Update README-he.md,0,True,True,2017-01-03T17:56:37Z,2017-01-03T17:56:37Z,0,2,1,1,27,27,54,317774.0
+114,Fix four minor typos,137,True,True,2017-01-03T17:49:32Z,2017-01-03T17:49:32Z,0,3,1,2,4,4,8,14701.0
+108,Move translation into dedicated dir,13,True,True,2017-01-03T03:38:38Z,2017-01-03T03:38:38Z,0,5,2,2,11,9,20,47775.0
+112,Small Grammar Issue (Final Review),132,True,True,2017-01-03T03:07:45Z,2017-01-03T03:07:45Z,0,2,1,1,1,1,2,153.0
+110,Translate few more paragraphs,0,True,True,2017-01-02T22:04:46Z,2017-01-02T22:04:46Z,0,2,2,1,19,11,30,9353.0
+107,Update Chinese translation,241,True,True,2017-01-02T17:31:04Z,2017-01-02T17:31:04Z,0,2,0,1,1,1,2,13060.0
+109,Merge pull request #2 from jwasham/master,35,True,False,,2017-01-02T15:35:39Z,0,1,0,0,0,0,0,0
+91,Ukrainian translation (WIP),0,True,True,2017-01-02T05:58:29Z,2017-01-02T05:58:29Z,0,3,1,1,2018,0,2018,758043.0
+95,Include other influential Google papers,360,True,True,2016-12-28T18:07:39Z,2016-12-28T18:07:39Z,0,4,6,1,5,0,5,38224.0
+94,Hindi translation in progress,18,True,True,2016-12-27T04:55:10Z,2016-12-27T04:55:10Z,1,3,0,1,15,15,30,68362.0
+83,Initial Draft of Hindi Translation,51,True,True,2016-12-25T20:03:37Z,2016-12-25T20:03:37Z,2,3,4,2,1678,1,1679,310228.0
+85,Update README.md for issue #82 Hebrew translation,131,True,True,2016-12-22T22:21:40Z,2016-12-22T22:21:40Z,0,2,0,1,2,0,2,6561.0
+86,Create README-he.md,124,True,True,2016-12-22T22:21:26Z,2016-12-22T22:21:26Z,0,2,0,1,2009,0,2009,6100.0
+79,Fix typo,0,True,True,2016-12-21T17:41:14Z,2016-12-21T17:41:14Z,0,2,1,1,1,1,2,15852.0
+77,docs: fix spelling error,41,True,True,2016-12-20T17:41:12Z,2016-12-20T17:41:12Z,0,2,1,1,1,1,2,23731.0
+76,Fix typo,0,True,True,2016-12-20T17:40:47Z,2016-12-20T17:40:47Z,0,2,1,1,1,1,2,27782.0
+75,[Work in Progress] Spanish Translation,291,True,True,2016-12-20T17:40:03Z,2016-12-20T17:40:03Z,0,2,1,2,2022,1,2023,29652.0
+72,Marked x,0,True,False,,2016-12-18T23:15:56Z,0,1,0,1,1,1,2,0
+71,Fix broken link,24,True,True,2016-12-16T21:04:50Z,2016-12-16T21:04:50Z,0,2,1,1,1,1,2,39321.0
+69,Merge pull request #1 from jwasham/master,17,True,False,,2016-12-09T11:55:00Z,0,1,0,0,0,0,0,0
+68,Progress,0,True,False,,2016-12-07T18:14:20Z,0,2,1,1,18,19,37,0
+67,[Doc] Change video link name to double negative form,121,True,True,2016-11-29T06:56:22Z,2016-11-29T06:56:22Z,0,2,0,1,2,2,4,2610.0
+66,[Doc] Correct Harvard typo,21,True,True,2016-11-29T05:42:20Z,2016-11-29T05:42:20Z,0,2,1,1,1,1,2,67.0
+65,Update README.md,34,True,True,2016-11-23T21:33:41Z,2016-11-23T21:33:41Z,2,2,1,1,13,14,27,798.0
+63,Marked x,0,True,False,,2016-11-21T04:31:41Z,0,1,0,1,1,1,2,0
+62,remove array videos,0,True,False,,2016-11-10T08:37:44Z,0,1,0,1,0,4,4,0
+61,_,0,True,False,,2016-11-04T00:56:39Z,0,1,0,1,8,9,17,0
+59,Pull_161102,0,True,False,,2016-11-02T07:55:13Z,0,1,0,1,9,9,18,0
+58,Update README.md,0,True,False,,2016-10-30T19:32:41Z,0,1,0,1,90,90,180,0
+57,"Add video ""How to Work at Google: Prepare for an Engineering Interview""",78,True,True,2016-10-28T16:32:28Z,2016-10-28T16:32:28Z,0,2,1,1,1,0,1,39333.0
+56,Fix some typos,0,True,True,2016-10-25T17:15:11Z,2016-10-25T17:15:11Z,0,2,1,1,3,3,6,257.0
+55,Merge pull request #2 from jwasham/master,0,True,False,,2016-10-24T16:12:59Z,0,1,0,0,0,0,0,0
+53,README.md: fix a typo,0,True,True,2016-10-23T17:36:39Z,2016-10-23T17:36:39Z,0,3,1,1,1,1,2,30729.0
+51,Marked x,4,True,False,,2016-10-19T12:57:41Z,0,1,1,2,0,0,0,0
+50,My branch,0,True,False,,2016-10-19T08:03:56Z,0,1,0,0,0,0,0,0
+49,Merge pull request #1 from jwasham/master,7,True,False,,2016-10-19T06:15:31Z,0,1,0,0,0,0,0,0
+48,Merge pull request #1 from jwasham/master,7,True,False,,2016-10-18T14:01:01Z,0,1,0,0,0,0,0,0
+47,Merge pull request #1 from jwasham/master,21,True,False,,2016-10-18T01:44:21Z,0,1,0,0,0,0,0,0
+44,Added graph theory and discrete mathematics course's links,70,True,True,2016-10-17T16:24:33Z,2016-10-17T16:24:33Z,0,2,1,1,48,44,92,18459.0
+46,Change log,0,True,False,,2016-10-17T13:13:33Z,0,1,1,0,0,0,0,0
+45,Merge pull request #1 from jwasham/master,7,True,False,,2016-10-17T12:32:44Z,0,1,0,0,0,0,0,0
+43,Reset README by unchecking all items,36,True,False,,2016-10-17T06:21:45Z,0,1,0,1,658,658,1316,0
+42,test,0,True,False,,2016-10-17T04:12:50Z,0,2,0,1,0,0,0,0
+38,Add a tutorial on Udemy.,152,True,True,2016-10-16T02:17:14Z,2016-10-16T02:17:14Z,2,2,2,1,3,0,3,36513.0
+41,Fixing typos,151,True,True,2016-10-15T19:16:39Z,2016-10-15T19:16:39Z,0,2,1,1,7,7,14,129.0
+36,Adding free resources.,48,True,True,2016-10-14T16:32:44Z,2016-10-14T16:32:44Z,0,2,2,1,3,1,4,35169.0
+37,.,0,True,False,,2016-10-14T11:02:45Z,0,1,0,1,10,10,20,0
+35,Added instructions to How to use?,149,True,True,2016-10-13T16:28:47Z,2016-10-13T16:28:47Z,0,3,2,1,18,0,18,5019.0
+34,Improve readability of a text chapter,165,True,True,2016-10-13T16:32:37Z,2016-10-13T16:32:37Z,0,2,1,1,9,9,18,36177.0
+31,add Chinese version,80,True,True,2016-10-11T16:46:31Z,2016-10-11T16:46:31Z,0,5,1,2,1656,0,1656,19906.0
+32,fix typo,0,True,True,2016-10-11T16:32:22Z,2016-10-11T16:32:22Z,0,2,0,1,1,1,2,10713.0
+29,Some fixes on Course video playlist,326,True,True,2016-10-10T16:30:19Z,2016-10-10T16:30:19Z,0,2,0,1,7,6,13,34084.0
+28,32 bit floating point video,105,True,True,2016-10-09T18:29:16Z,2016-10-09T18:29:16Z,0,2,1,1,1,1,2,237.0
+27,32 bit floating point,181,True,False,,2016-10-09T18:23:39Z,4,2,3,1,1,1,2,0
+23,Pull request with fixed mis-formatted & Go resources,38,True,True,2016-10-09T03:32:02Z,2016-10-09T03:32:02Z,1,3,1,2,10,1,11,6946.0
+22,Update README.md,0,True,False,,2016-10-08T09:36:20Z,0,1,0,1,1,1,2,0
+20,Adding Java Resources,0,True,True,2016-10-07T20:09:22Z,2016-10-07T20:09:22Z,0,2,0,1,4,2,6,1345.0
+19,Removed x marks and use it for Public forking and better working project and maintain your [X] on a separate branch,280,True,False,,2016-10-07T18:34:37Z,0,2,1,1,658,658,1316,0
+18,Removed [x] and replaced all instances with [ ],72,True,True,2016-10-07T18:31:00Z,2016-10-07T18:31:00Z,0,2,1,1,660,660,1320,841.0
+15,Replaced all the [x] with [ ] on a separate branch,352,True,False,,2016-10-07T18:11:46Z,0,3,3,1,658,658,1316,0
+17,Added Codewars as a code challenge resource,37,True,True,2016-10-07T17:31:56Z,2016-10-07T17:31:56Z,0,2,1,1,1,0,1,8741.0
+16,Fixed a minor typo,0,True,True,2016-10-07T17:30:23Z,2016-10-07T17:30:23Z,0,2,1,1,1,1,2,9028.0
+14,Fixing Last Typos.,81,True,True,2016-10-07T17:29:59Z,2016-10-07T17:29:59Z,0,2,0,1,19,19,38,37543.0
+12,Finishing Readability Improvement.,55,True,True,2016-10-07T03:05:00Z,2016-10-07T03:05:00Z,2,2,2,1,325,376,701,1763.0
+11,Fixing typos.,5,True,True,2016-10-07T01:10:12Z,2016-10-07T01:10:12Z,0,2,0,1,4,4,8,1478.0
+10,Updating Up L1007,77,True,True,2016-10-07T00:09:59Z,2016-10-07T00:09:59Z,0,2,0,1,325,338,663,1496.0
+9,Adding more descriptive links.,115,True,True,2016-10-06T21:25:38Z,2016-10-06T21:25:38Z,1,3,5,1,87,102,189,7239.0
+6,License.md Added,0,True,False,,2016-10-06T21:20:55Z,1,3,1,1,21,0,21,0
+4,Fix marked checkbox with ambiguous Markdown link,727,True,True,2016-10-06T16:42:10Z,2016-10-06T16:42:10Z,0,2,0,1,1,1,2,9240.0
+3,Fixed typo,0,True,True,2016-10-06T16:40:31Z,2016-10-06T16:40:31Z,1,3,0,1,1,1,2,23534.0
+2,inspiration,4,True,False,,2016-10-05T19:25:45Z,0,1,0,1,1,1,2,0

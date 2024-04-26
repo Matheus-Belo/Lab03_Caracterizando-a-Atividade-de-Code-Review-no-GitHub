@@ -1,0 +1,285 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+547,Add Keyword generator,840,True,False,,2024-04-16T23:22:54Z,0,1,0,2,7,0,7,0
+201,"added new prompt ""parasphrase tool"" and fix typo",640,True,False,,2024-04-15T18:11:15Z,0,1,0,2,15,9,24,0
+489,Add stackoverflow questions improver prompt,840,True,False,,2024-04-09T19:21:00Z,0,1,0,2,15,1,16,0
+563,Update README.md,1006,True,False,,2024-04-02T16:41:18Z,0,1,0,1,10,1,11,0
+338,"Added 3 roles: Professional Marketer, Scenario Procrastinator, and Bank Lawyer",640,True,False,,2024-03-27T03:16:47Z,0,1,0,2,19,1,20,0
+571,Using GPTPal,274,True,False,,2024-03-26T10:41:02Z,0,1,0,1,10,0,10,0
+218,Add act as a Product Manager,1193,True,False,,2024-03-19T14:53:13Z,0,1,0,2,361,105,466,0
+728,Create 122,868,True,False,,2024-02-26T07:48:24Z,1,3,0,1,1,0,1,0
+739,补充Chinese翻译后的prompt,868,True,False,,2024-02-26T07:43:44Z,0,3,0,1,1,0,1,0
+732,minor changes,868,True,False,,2024-02-26T07:43:07Z,1,4,2,1,1,0,1,0
+658,Word Search Generator,1086,True,False,,2024-02-09T02:04:12Z,0,1,0,0,0,0,0,0
+737,Add Rephraser with Obfuscation,0,True,False,,2024-02-04T13:03:05Z,0,1,0,1,5,0,5,0
+735,Added a Mock Interviewer Prompt,856,True,False,,2024-02-04T07:11:28Z,0,1,1,2,10,0,10,0
+648,Update Readme and prompts.csv for resume reviewer,1098,True,False,,2024-01-20T06:25:58Z,0,1,0,2,7,0,7,0
+582,System design prompt,3000,True,False,,2024-01-19T20:38:06Z,0,1,0,2,7,0,7,0
+100,Act as a Book Guide,640,True,False,,2024-01-16T15:36:40Z,1,2,0,2,6,0,6,0
+724,Aitrainee,868,True,False,,2024-01-09T11:53:34Z,0,1,1,0,0,0,0,0
+725,"An Ethereum Developer prompt, by Ameya.",868,True,True,2024-01-08T21:28:26Z,2024-01-08T21:28:26Z,0,2,0,2,7,0,7,134981.0
+723,Update README.md,868,True,False,,2024-01-07T05:59:00Z,0,1,0,1,5,0,5,0
+722,Update prompts.csv,868,True,False,,2024-01-07T05:58:59Z,0,1,0,1,1,0,1,0
+721,Update README.md,868,True,False,,2024-01-07T05:58:59Z,1,1,1,1,5,0,5,0
+720,Added league player personality,868,True,True,2024-01-05T06:19:31Z,2024-01-05T06:19:31Z,0,2,0,2,6,0,6,2498.0
+714,Remove political message.,87,True,True,2023-12-26T19:32:51Z,2023-12-26T19:32:51Z,3,9,8,1,0,5,5,36552.0
+545,modifed the forked project,840,True,False,,2024-01-02T10:07:18Z,0,1,0,1,3,0,3,0
+715,Remove Political Content,868,True,False,,2023-12-26T19:33:02Z,1,3,1,1,0,5,5,0
+687,Update README.md,1023,True,False,,2023-12-26T09:09:39Z,2,4,0,1,1,1,2,0
+709,Remove foolishness,36,True,False,,2023-12-26T08:25:07Z,1,3,2,1,0,3,3,0
+699,1README.md,1010,True,False,,2023-12-26T08:26:45Z,1,3,0,1,3,0,3,0
+700,Update README.md,1053,True,False,,2023-12-26T08:26:32Z,0,2,0,1,18,24,42,0
+708,Update README.md,955,True,False,,2023-12-26T08:25:33Z,0,3,1,1,1,1,2,0
+710,Fix top banner,87,True,False,,2023-12-26T07:57:18Z,3,6,1,1,2,2,4,0
+342,typo fix,640,True,False,,2023-12-15T08:34:05Z,0,1,0,1,4,4,8,0
+694,Update prompts.csv,1086,True,False,,2023-12-07T06:12:15Z,0,2,1,1,2,1,3,0
+713,Act as an IELTS speaking Examiner,1065,True,False,,2023-12-06T08:23:05Z,0,1,0,2,6,0,6,0
+622,Act as Math Teacher with LaTeX,1099,True,False,,2023-12-03T06:36:06Z,0,1,0,2,5,0,5,0
+131,Act as a football scout,640,True,False,,2023-12-02T10:25:01Z,3,3,0,2,7,0,7,0
+523,"Update README: ChatGPT Desktop App download links for macOS, Windows, and Linux",108,True,False,,2023-12-01T00:31:02Z,0,2,0,1,1,1,2,0
+711,Feature/data engineer prompt,1103,True,False,,2023-11-28T10:53:45Z,0,1,0,2,6,0,6,0
+703,Expert in a field,0,True,False,,2023-11-20T17:51:08Z,0,1,0,2,6,1,7,0
+675,Update README.md,1066,True,False,,2023-11-13T13:51:52Z,1,2,0,1,1,1,2,0
+702,Add find prompt utility,268,True,True,2023-11-09T17:35:14Z,2023-11-09T17:35:14Z,1,3,1,1,3,0,3,2123284.0
+707,Update README.md,1006,True,True,2023-11-09T06:54:04Z,2023-11-09T06:54:04Z,1,3,0,1,2,2,4,2127.0
+706,Update README.md,1153,True,True,2023-11-09T06:10:28Z,2023-11-09T06:10:28Z,0,2,0,2,17,1,18,29128.0
+705,Update README.md,8,True,True,2023-11-08T05:21:56Z,2023-11-08T05:21:56Z,0,2,0,1,1,1,2,27560.0
+704,Act as Data Scientist Contribution,1652,True,True,2023-11-01T08:03:27Z,2023-11-01T08:03:27Z,0,2,0,2,7,1,8,133243.0
+607,Act as Interviewee,1070,True,False,,2023-10-20T06:52:59Z,0,0,0,2,5,0,5,0
+194,"Update ""Excel Sheet"" acting",309,True,False,,2023-10-18T12:24:16Z,0,1,0,1,1,1,2,0
+193,"Update ""Excel Sheet"" acting",309,True,False,,2023-10-18T12:24:16Z,0,0,0,1,2,2,4,0
+587,Fix grammar mistake,435,True,False,,2023-10-16T17:32:12Z,0,1,0,2,2,2,4,0
+572,Added behavioral interview questions generator,1134,True,False,,2023-10-16T17:31:34Z,1,2,1,2,6,0,6,0
+223,Add Act as a Rock Golem,640,True,False,,2023-10-01T15:04:50Z,0,1,0,2,6,1,7,0
+597,Add: Prompt Enhancer,1147,True,True,2023-09-27T05:05:08Z,2023-09-27T05:05:08Z,0,2,3,2,6,1,7,14485998.0
+574,Add checkout links,1457,True,False,,2023-09-22T22:05:39Z,0,1,0,1,292,1,293,0
+583,Added Neuroscientist Prompt,1112,True,False,,2023-09-17T01:04:26Z,0,1,2,2,5,1,6,0
+637,Update README.md,964,True,False,,2023-09-11T20:05:24Z,2,2,1,1,0,1,1,0
+294,add chrome extension,101,True,False,,2023-09-06T15:11:45Z,0,2,2,1,6,0,6,0
+683,feat:added_prompt_AI_Teacher,1197,True,False,,2023-09-05T23:32:48Z,1,1,0,2,5,0,5,0
+680,Update README.md,1011,True,False,,2023-08-31T02:11:46Z,0,2,1,1,2,0,2,0
+438,Update README.md,863,True,False,,2023-08-27T08:10:13Z,0,1,0,1,5,0,5,0
+387,Add a request for the role of the converter of human text to robot,156,True,False,,2023-08-25T15:38:25Z,0,1,0,1,15,0,15,0
+676,"Add ""Act as a Detective""",352,True,False,,2023-08-18T22:56:33Z,0,1,1,2,5,0,5,0
+435,added jailbreak prompt and DAN6.0 prompt,840,True,False,,2023-08-04T05:27:40Z,0,1,0,0,0,0,0,0
+604,Cheap Travel Ticket Advisor,1106,True,True,2023-04-24T17:18:09Z,2023-04-24T17:18:09Z,0,3,0,2,4,0,4,80464.0
+229,"spelling/grammar + fixed all "" to """" where needed",800,True,True,2023-07-26T09:47:42Z,2023-07-26T09:47:42Z,0,2,0,0,0,0,0,16963545.0
+491,(fix): csv lint,121,True,True,2023-03-09T11:40:21Z,2023-03-09T11:40:21Z,1,3,2,1,1,1,2,50895.0
+610,Act as a PC benchmark,1729,True,False,,2023-07-07T19:57:48Z,0,1,0,2,5,0,5,0
+620,Add new the DAN prompt (DAN v11),1114,True,False,,2023-07-02T15:07:45Z,0,1,0,2,3,3,6,0
+526,generating a database scheme with table parameters for a warehouse system,840,True,False,,2023-06-26T11:17:58Z,0,1,0,1,2,1,3,0
+418,Update prompts.csv,846,True,False,,2023-06-24T05:55:47Z,0,1,0,1,152,0,152,0
+398,Reverse Dictionary Prompt,273,True,False,,2023-06-24T05:55:46Z,0,2,2,1,4,0,4,0
+181,Act like a latex asistant,640,True,False,,2023-06-21T08:50:15Z,0,1,0,2,7,1,8,0
+306,Clinical Psychologist & Text Adventure Game with AI-generated Images,2583,True,False,,2023-06-19T04:28:57Z,0,1,0,1,10,0,10,0
+560,Remove unecessary `position` formatting,52,True,False,,2023-06-11T02:27:51Z,0,1,0,1,1,1,2,0
+39,Add awesome badge,63,True,True,2022-12-11T15:32:15Z,2022-12-11T15:32:15Z,1,4,1,1,1,1,2,916.0
+546,Sponsorship,0,True,False,,2023-05-22T17:43:21Z,0,2,7,1,4,0,4,0
+647,Update README.md,1440,True,False,,2023-05-20T20:57:38Z,1,2,0,1,5,0,5,0
+646,Update prompts.csv,1091,True,False,,2023-05-20T20:57:38Z,1,2,0,1,1,0,1,0
+645,Update README.md,997,True,False,,2023-05-20T20:57:37Z,1,2,0,1,1,1,2,0
+16,Act as a Statistician,0,True,True,2022-12-10T15:39:28Z,2022-12-10T15:39:28Z,0,3,1,1,3,0,3,33478.0
+643,Add main.py and HowToPlayByMain.md,176,True,False,,2023-05-16T04:13:55Z,0,1,0,2,61,0,61,0
+636,Merge pull request #1 from f/main,883,True,False,,2023-05-13T20:06:45Z,0,1,0,0,0,0,0,0
+635,Merge pull request #1 from f/main,883,True,False,,2023-05-13T20:03:39Z,0,1,0,0,0,0,0,0
+621,Act as Math Teacher with LaTeX,1102,True,False,,2023-05-05T08:07:00Z,0,1,0,2,5,0,5,0
+403,Add Sparky_Master_WCH1226 (random text generator) to the text prompt,894,True,False,,2023-05-02T03:07:01Z,0,0,1,2,18,0,18,0
+383,Add research assistant,661,True,False,,2023-05-02T03:07:01Z,0,0,0,2,6,0,6,0
+380,Add interviewee ,652,True,False,,2023-05-02T03:07:01Z,0,0,0,1,4,0,4,0
+605,Better grammar,1102,True,False,,2023-04-26T20:03:35Z,0,2,1,1,71,71,142,0
+603,cheap travel ticket advisor,1095,True,False,,2023-04-23T18:55:04Z,0,2,1,2,4,0,4,0
+602,Cheap Trip Assistant,1085,True,False,,2023-04-23T09:28:18Z,0,1,0,2,4,0,4,0
+584,Added IELTS writing examiner,1090,True,False,,2023-04-07T06:05:08Z,0,1,0,2,5,0,5,0
+290,fix(prd): replace user stories with usecases,640,True,False,,2023-04-15T13:25:56Z,0,2,2,2,5,5,10,0
+499,"Add: Nutritionist, Personal Finance Advisor, Mental Health Counselor & Pharmacist",4007,True,False,,2023-04-13T16:15:28Z,0,1,0,2,24,0,24,0
+265,Added Act like C/C++ Compiler,640,True,False,,2023-04-11T20:37:23Z,0,1,1,2,5,0,5,0
+528,Add: Act as backend mentor added,840,True,False,,2023-04-09T12:54:11Z,0,1,0,2,386,107,493,0
+274,Diagram generator for markdown,914,True,False,,2023-04-08T19:17:33Z,0,2,3,2,366,105,471,0
+589,Added English Translator with Academic Writing Prompt,2569,True,False,,2023-04-08T18:48:18Z,0,1,1,2,5,0,5,0
+579,Fix: csv lint,1010,True,False,,2023-04-06T22:38:29Z,1,2,0,1,1,1,2,0
+581,prompts.csv lint fix,1015,True,True,2023-04-06T18:01:16Z,2023-04-06T18:01:16Z,0,2,0,1,1,1,2,2560.0
+578,Fix typo,1034,True,False,,2023-04-05T23:01:12Z,0,1,0,1,1,1,2,0
+577,Added literary critic,992,True,False,,2023-04-05T22:02:44Z,0,1,0,1,1,1,2,0
+569,English Vocabulary Helper,1083,True,False,,2023-04-05T21:15:45Z,0,1,0,1,1,0,1,0
+567,Act as a English Vocabulary Helper ,1156,True,False,,2023-04-05T21:15:30Z,0,1,0,1,5,0,5,0
+570,adding : note-taking assistant,1152,True,True,2023-04-05T13:20:50Z,2023-04-05T13:20:50Z,0,2,0,2,7,1,8,162683.0
+573,Added literary critic,1114,True,True,2023-04-05T13:17:33Z,2023-04-05T13:17:33Z,0,2,1,2,5,0,5,61962.0
+531,Add: Act as a Literary Critic,840,True,False,,2023-04-04T19:14:47Z,0,1,1,0,0,0,0,0
+568,Act as a English Vocabulary Helper,1180,True,False,,2023-04-03T15:21:48Z,0,1,0,1,1,0,1,0
+541,Prompt - Act as a parental advisor,1100,True,False,,2023-04-01T10:58:56Z,0,1,1,2,7,1,8,0
+414,[fix] the wrong word in Interviewer,145,True,False,,2023-03-30T09:43:02Z,0,2,1,1,1,1,2,0
+439,Dropshipping expert prompt added in readme and prompts.csv file,840,True,False,,2023-03-28T19:20:10Z,0,1,0,2,7,0,7,0
+45,Act as a 5e D&D Character Generator,0,True,False,,2023-03-28T05:12:59Z,0,2,1,1,2,1,3,0
+513,Added github expert prompt,916,True,False,,2023-03-27T15:28:59Z,3,2,0,2,172,157,329,0
+466,Act as a Japanese Kanji Quiz Machine,840,True,True,2023-03-27T02:36:37Z,2023-03-27T02:36:37Z,0,2,0,2,6,1,7,2101439.0
+538,Update README.md,1194,True,False,,2023-03-23T18:21:38Z,0,1,0,1,7,0,7,0
+539,Update prompts.csv,892,True,False,,2023-03-23T18:21:25Z,0,1,0,1,2,1,3,0
+522,"Added ""Act As A Python Interpreter""",138,True,True,2023-03-23T14:39:48Z,2023-03-23T14:39:48Z,0,2,0,2,6,0,6,380246.0
+73,Act as an svg designer,50,True,True,2022-12-13T17:24:44Z,2022-12-13T17:24:45Z,0,3,3,1,4,0,4,4432.0
+534,Act as a Dragon Ball scouter,840,True,False,,2023-03-23T09:51:06Z,0,1,0,2,7,1,8,0
+525,Wiki page and its prompt,840,True,True,2023-03-20T07:38:48Z,2023-03-20T07:38:48Z,1,3,2,2,7,1,8,65782.0
+520,Added Table of Contents to the readme document.,108,True,False,,2023-03-20T07:39:37Z,0,2,1,1,168,0,168,0
+354,Making GPT  a professional existing rapper ,682,True,False,,2023-03-19T09:02:15Z,0,1,0,2,6,0,6,0
+521,"Added ""act as a python interpreter""",840,True,False,,2023-03-19T04:58:09Z,0,1,0,2,8,1,9,0
+493,Add act as a Tarot Reader,1525,True,False,,2023-03-18T11:26:41Z,0,1,0,2,7,1,8,0
+516,add: act as ChatGPT prompt generator,840,True,True,2023-03-18T08:49:54Z,2023-03-18T08:49:54Z,0,3,0,2,7,1,8,105832.0
+347,Added prompt for acting as an Unconstrained AI model DAN,640,True,True,2023-02-06T06:26:00Z,2023-02-06T06:26:00Z,1,5,8,2,7,1,8,20347.0
+510,Added Prompt For Refacotring JavaScript Codebase,861,True,False,,2023-03-15T09:43:13Z,0,2,1,0,0,0,0,0
+502,add: act as a chemical reaction vessel,840,True,True,2023-03-15T09:07:14Z,2023-03-15T09:07:14Z,0,2,0,2,7,1,8,171965.0
+508,Added Friend prompt,1183,True,True,2023-03-15T09:03:35Z,2023-03-15T09:03:35Z,0,2,0,2,7,1,8,50249.0
+427,Add 3 prompt,408,True,False,,2023-03-14T15:16:24Z,0,2,0,2,18,0,18,0
+454,language learning with image flash cards,840,True,False,,2023-03-13T17:52:40Z,0,1,0,1,24,0,24,0
+492,Add act as a Tarot Reader,1525,True,False,,2023-03-09T07:06:56Z,0,1,0,2,382,107,489,0
+482,Add Act as Buddha prompt,875,True,True,2023-03-07T10:03:16Z,2023-03-07T10:03:16Z,1,2,1,2,9,2,11,194942.0
+484,Act as a Muslim Imam,1311,True,True,2023-03-07T10:00:05Z,2023-03-07T10:00:05Z,0,2,0,2,7,1,8,133998.0
+472,New prompt: act as a BTS ARMY,860,True,False,,2023-03-03T21:03:32Z,0,1,0,2,7,2,9,0
+470,add new role: SD Prompts Helper,1169,True,False,,2023-03-03T16:09:46Z,0,1,0,1,2,1,3,0
+468,add new role:  SD Prompts Helper,925,True,False,,2023-03-03T06:27:40Z,0,1,0,1,2,1,3,0
+469,add new readme: SD Prompts Helper,1028,True,False,,2023-03-03T06:27:19Z,0,1,0,1,5,0,5,0
+412,visual and navigation enhancements,1167,True,False,,2023-02-17T15:37:49Z,0,1,0,1,33,3,36,0
+460,Update README.md,28,True,False,,2023-02-28T18:54:48Z,0,1,0,1,472,475,947,0
+462,Style fix,840,True,False,,2023-02-28T03:10:29Z,0,1,0,1,1,1,2,0
+446,New prompt: act as a Gomoku player,840,True,True,2023-02-27T13:17:59Z,2023-02-27T13:17:59Z,0,2,0,2,9,1,10,216776.0
+456,Proofreader,840,True,True,2023-02-27T13:16:22Z,2023-02-27T13:16:22Z,1,2,0,2,5,0,5,50455.0
+455,Update prompts.csv. Added Proofreader.,840,True,False,,2023-02-26T23:09:55Z,0,1,0,1,1,0,1,0
+147,Acrostic poem generator,94,True,False,,2023-02-26T21:03:12Z,1,2,0,2,8,1,9,0
+413,Added a new prompt for Children literature creator,840,True,False,,2023-02-21T12:14:59Z,0,1,0,2,24,0,24,0
+379,Act as a resume question generators.,640,True,False,,2023-02-16T03:08:39Z,0,0,0,0,0,0,0,0
+378,"Add ""Act as a Spoken English Teacher and Improver"" prompt",511,True,True,2023-02-13T20:25:40Z,2023-02-13T20:25:40Z,0,3,3,2,5,0,5,148882.0
+388,Add Technology Transferer,663,True,True,2023-02-13T20:21:26Z,2023-02-13T20:21:26Z,1,1,2,2,6,0,6,49729.0
+361,Capitalisation,59,True,True,2023-02-13T20:23:41Z,2023-02-13T20:23:41Z,0,3,0,1,3,3,6,379767.0
+364,Added CONTRIBUTING.md,254,True,True,2023-02-13T20:22:35Z,2023-02-13T20:22:35Z,0,3,2,1,41,0,41,340055.0
+390,Developer Documentation Search,640,True,False,,2023-02-13T17:37:08Z,0,1,0,1,1,0,1,0
+389,Developer Documentation Search,640,True,False,,2023-02-13T08:42:02Z,0,1,1,1,1,0,1,0
+370,Act as a psychological counselor,1033,True,False,,2023-02-11T11:47:21Z,0,1,0,1,5,0,5,0
+363,"Remove ""Act as a Lunatic"" prompt ",131,True,False,,2023-02-10T02:59:16Z,0,2,2,2,0,5,5,0
+350,Add Steamship sponsorship,0,True,True,2023-02-07T10:01:52Z,2023-02-07T10:01:52Z,2,3,0,1,7,1,8,66916.0
+346,Added prompt for acting as an Unconstrained AI model DAN,640,True,False,,2023-02-06T00:28:20Z,0,1,0,2,154,148,302,0
+345,add a new prompt cover letter,640,True,True,2023-02-05T08:21:09Z,2023-02-05T08:21:09Z,0,2,1,2,7,1,8,300.0
+341,Update prompts.csv,656,True,False,,2023-02-03T23:08:10Z,0,1,0,1,2,1,3,0
+333,Act as a wedding planner,0,True,False,,2023-02-03T23:08:10Z,0,2,2,2,370,105,475,0
+332,Update README.md,640,True,False,,2023-02-01T19:18:51Z,0,2,2,1,7,0,7,0
+325,Added Act Laravel queries,757,True,False,,2023-01-30T20:15:42Z,0,1,0,2,6,0,6,0
+334,Act as a Song Recommender,640,True,True,2023-01-30T19:03:31Z,2023-01-30T19:03:32Z,0,2,0,2,6,0,6,621.0
+271,Update prompts.csv,208,True,False,,2023-01-30T16:55:20Z,0,1,0,1,0,5,5,0
+270,Update README.md,239,True,False,,2023-01-30T16:55:20Z,0,1,0,1,0,14,14,0
+331,"Added ""Act as a Mathematical History Teacher""",640,True,True,2023-01-30T06:51:55Z,2023-01-30T06:51:55Z,0,2,0,2,6,0,6,8045.0
+329,Update README.md,640,True,False,,2023-01-30T03:49:53Z,0,1,0,1,5,0,5,0
+326,Update prompts.csv,640,True,False,,2023-01-29T14:13:32Z,0,1,0,1,1,0,1,0
+287,Act as a C++ Interpreter,0,True,False,,2023-01-28T17:22:23Z,0,1,0,1,5,0,5,0
+302,Added drunk person,640,True,True,2023-01-26T16:47:14Z,2023-01-26T16:47:14Z,0,2,0,1,1,0,1,116974.0
+301,Act as a Drunk Person,640,True,True,2023-01-26T16:46:50Z,2023-01-26T16:46:50Z,0,2,0,1,5,0,5,117095.0
+300,Act as a Drunk Person,640,True,False,,2023-01-25T08:10:32Z,0,1,0,1,5,0,5,0
+297,Act as a LaTeX Lecture Notes,2967,True,False,,2023-01-24T10:17:56Z,0,1,0,2,10,0,10,0
+293,Act as a LaTeX Lecture Notes,3019,True,False,,2023-01-23T21:59:56Z,1,1,1,0,0,0,0,0
+236,Added Python Developer,640,True,False,,2023-01-11T17:13:28Z,0,1,0,1,1,0,1,0
+291,fixed trailing quote in prompts.csv on line 10,640,True,False,,2023-01-23T07:12:38Z,0,3,2,1,144,144,288,0
+284,feat(prompt): add act as product manager prompt,860,True,True,2023-01-22T05:01:39Z,2023-01-22T05:01:39Z,2,3,0,2,6,0,6,15181.0
+240,Add Act as a Diagram Generator,640,True,True,2023-01-22T06:21:32Z,2023-01-22T06:21:32Z,0,2,0,2,6,0,6,779858.0
+276,Update README.md,640,True,False,,2023-01-20T09:44:36Z,0,1,0,1,7,0,7,0
+206,Sync README and CSV.,1167,True,False,,2023-01-16T14:16:00Z,1,2,1,2,40,39,79,0
+258,Act as a Title Generator for written pieces,640,True,True,2023-01-16T05:55:43Z,2023-01-16T05:55:43Z,1,2,0,2,7,1,8,849.0
+254,Create README.md,640,True,False,,2023-01-15T12:38:17Z,0,2,0,0,0,0,0,0
+248,Add Act as a Startup Tech Lawyer,640,True,True,2023-01-14T13:48:43Z,2023-01-14T13:48:43Z,0,2,0,2,6,0,6,363.0
+247,Add Act as a Startup Tech Lawyer,640,True,False,,2023-01-14T13:37:37Z,0,1,0,6,37,0,37,0
+243,Add Act as a Startup Tech Lawyer and Prepare a Design Partner Agreement Draft,640,True,False,,2023-01-14T13:27:01Z,0,1,0,0,0,0,0,0
+238,Added a prompt for Speech-Language Pathologist (SLP),3471,True,True,2023-01-14T09:26:50Z,2023-01-14T09:26:50Z,0,2,1,2,6,0,6,188647.0
+33,Update README.md,35,True,False,,2023-01-13T19:46:41Z,0,1,0,0,0,0,0,0
+242,Act as a Life Coach,304,True,True,2023-01-13T19:37:56Z,2023-01-13T19:37:56Z,0,3,0,2,6,0,6,720.0
+198,AWS Solutions Architect ,664,True,False,,2023-01-11T08:46:42Z,2,3,2,2,5,0,5,0
+212,create chatgpt_prompts.json,116,True,False,,2023-01-09T21:35:45Z,0,2,1,1,1226,0,1226,0
+213,Add Act as a Chief Executive Officer,1368,True,True,2023-01-09T21:34:48Z,2023-01-09T21:34:48Z,0,2,0,2,7,1,8,432428.0
+199,Add Act as a Video Game Critic,640,True,False,,2023-01-06T17:33:46Z,0,1,0,0,0,0,0,0
+215,Update prompts.csv,640,True,False,,2023-01-04T21:32:54Z,0,1,0,1,2,1,3,0
+214,Update prompts.csv,640,True,False,,2023-01-04T21:31:09Z,0,1,0,1,2,1,3,0
+200,Update README.md,8,True,True,2023-01-01T00:01:30Z,2023-01-01T00:01:30Z,0,2,0,1,2,1,3,33971.0
+203,Add Commit Message Generator,775,True,True,2022-12-31T23:58:45Z,2022-12-31T23:58:45Z,1,2,0,2,7,1,8,3302.0
+197,Shaiss patch 1,640,True,False,,2022-12-31T12:18:25Z,0,1,1,1,2,1,3,0
+196,Shaiss aws sa,640,True,False,,2022-12-31T12:13:47Z,0,1,0,1,2,1,3,0
+182,Added a Tarot Reader,640,True,False,,2022-12-30T00:22:01Z,0,1,0,1,5,0,5,0
+183,Added Tarot Reader,640,True,False,,2022-12-30T00:21:48Z,0,1,0,1,5,0,5,0
+184,Added Tarot Reader,664,True,False,,2022-12-30T00:21:27Z,0,1,0,1,2,1,3,0
+176,Update README.md,664,True,False,,2022-12-27T19:07:44Z,0,1,0,1,5,0,5,0
+122,Add act as a Subtitles Translator,643,True,False,,2022-12-27T18:24:05Z,0,1,0,2,21,0,21,0
+171,Added a prompt for the Socratic Method,640,True,True,2022-12-26T17:16:47Z,2022-12-26T17:16:47Z,0,2,0,2,5,0,5,2002.0
+163,add act as a language detector prompt,640,True,True,2022-12-26T10:05:08Z,2022-12-26T10:05:08Z,0,2,0,2,7,2,9,251597.0
+167,Update README.md,640,True,True,2022-12-26T10:04:02Z,2022-12-26T10:04:02Z,0,3,1,2,7,0,7,142430.0
+169,Update README.md,931,True,True,2022-12-26T09:59:55Z,2022-12-26T09:59:56Z,0,2,0,1,0,4,4,73521.0
+165,Update README.md,640,True,False,,2022-12-24T13:16:29Z,0,2,2,1,5,0,5,0
+153,Update to Character prompt to improve quality of responses,501,True,True,2022-12-21T05:05:44Z,2022-12-21T05:05:44Z,0,2,0,2,3,3,6,21938.0
+149,"Added ""Resource Gathering Game"" prompt",640,True,False,,2022-12-20T12:31:47Z,0,1,0,1,6,0,6,0
+151,"Update prompts.csv with ""Resource Gathering Game""",672,True,False,,2022-12-20T12:31:28Z,0,1,0,1,1,0,1,0
+148,Magic conch shell,640,True,True,2022-12-20T07:44:06Z,2022-12-20T07:44:06Z,0,2,0,2,7,1,8,12863.0
+120,Add rus version,736,True,False,,2022-12-19T18:08:33Z,0,3,2,3,796,0,796,0
+124,Added New Language Creator,664,True,True,2022-12-19T18:07:56Z,2022-12-19T18:07:56Z,1,2,0,2,6,0,6,223311.0
+137,Create csv_linter.yml,116,True,True,2022-12-19T18:01:35Z,2022-12-19T18:01:35Z,0,2,1,1,39,0,39,69694.0
+125,Add Act as a Legal Counsel,652,True,False,,2022-12-19T12:12:02Z,0,1,0,2,10,0,10,0
+138,Startup idea generator,640,True,True,2022-12-19T03:51:12Z,2022-12-19T03:51:12Z,0,2,2,2,6,0,6,14293.0
+136,Fixed `We can make this file beautiful and searchable if this error i…,173,True,True,2022-12-19T03:05:53Z,2022-12-19T03:05:53Z,0,2,1,1,1,1,2,27936.0
+135,add 'Act as a Solr Search Engine',640,True,True,2022-12-18T18:46:49Z,2022-12-18T18:46:49Z,0,2,0,2,5,0,5,300.0
+133,Fix typo in own prompt description in README.md,640,True,True,2022-12-18T18:31:50Z,2022-12-18T18:31:50Z,0,1,0,1,1,1,2,192.0
+132,Fix typo to improve own prompt,640,True,True,2022-12-18T17:09:47Z,2022-12-18T17:09:47Z,0,1,0,1,1,1,2,3603.0
+128,Add Act as a Senior Frontend Developer,640,True,True,2022-12-18T08:15:14Z,2022-12-18T08:15:14Z,0,2,0,2,7,0,7,29450.0
+127,Web Browser,640,True,True,2022-12-17T16:30:12Z,2022-12-17T16:30:12Z,0,2,0,2,6,0,6,800.0
+121,Add Act as a Morse Code Translator,330,True,True,2022-12-17T06:51:13Z,2022-12-17T06:51:13Z,3,2,1,1,4,1,5,30416.0
+123,Update prompts.csv,0,True,False,,2022-12-17T04:04:27Z,0,1,0,1,1,0,1,0
+113,"impr: Add ""Act as a StackOverflow Post""",682,True,True,2022-12-16T08:03:21Z,2022-12-16T08:03:21Z,0,2,1,2,6,3,9,1367.0
+119,Add Act as a Fill in the Blank Worksheets Generator,1353,True,True,2022-12-16T22:15:31Z,2022-12-16T22:15:32Z,1,2,2,2,23,2,25,5196.0
+118,Act as an Emergency Response Professional,157,True,True,2022-12-16T20:03:38Z,2022-12-16T20:03:38Z,1,1,1,2,6,0,6,6116.0
+116,Act as Emergency Response Professional,640,True,False,,2022-12-16T18:22:13Z,0,0,0,1,1,0,1,0
+115,Act as a Emoji Translator and Act as a PHP Interpreter,640,True,True,2022-12-16T14:05:25Z,2022-12-16T14:05:25Z,0,2,0,2,12,0,12,6300.0
+103,added Act as a Quran,203,True,False,,2022-12-16T10:31:14Z,0,3,2,2,5,0,5,0
+86,"Add ""Act as a Chess Player""",0,True,True,2022-12-14T11:13:46Z,2022-12-14T11:13:46Z,0,3,6,2,6,0,6,889.0
+110,update readme file,669,True,True,2022-12-15T20:23:27Z,2022-12-15T20:23:27Z,0,2,0,2,8,0,8,9910.0
+109,Update README.md,44,True,False,,2022-12-15T17:27:40Z,0,1,0,0,0,0,0,0
+64,"Add ""Act as a Captain""",42,True,False,,2022-12-15T16:36:09Z,0,1,1,0,0,0,0,0
+92,Act as a Drunk,640,True,True,2022-12-15T15:28:07Z,2022-12-15T15:28:07Z,0,2,3,2,5,0,5,85997.0
+105,Added in bottom of CSV and Readme,640,True,False,,2022-12-15T13:19:54Z,0,1,1,2,6,0,6,0
+104,Merge branch 'main' of https://github.com/f/awesome-chatgpt-prompts,0,True,False,,2022-12-15T13:19:25Z,0,2,2,1,1,0,1,0
+102,feat: act as Talent Coach,711,True,True,2022-12-15T12:42:04Z,2022-12-15T12:42:04Z,0,2,0,2,7,0,7,3133.0
+99,Add act as a dream interpreter,613,True,True,2022-12-15T09:08:46Z,2022-12-15T09:08:46Z,0,2,0,2,5,0,5,4954.0
+98,Fixed checklist item,225,True,True,2022-12-15T07:16:46Z,2022-12-15T07:16:46Z,0,2,0,1,1,1,2,22399.0
+97,Time Travel Guide,626,True,True,2022-12-15T07:15:43Z,2022-12-15T07:15:43Z,0,2,0,2,7,0,7,22751.0
+81,Act as a dolphin,0,True,False,,2022-12-14T21:23:01Z,0,2,1,1,4,0,4,0
+96,Act as a Regex Generator added,640,True,True,2022-12-14T19:26:58Z,2022-12-14T19:26:58Z,0,2,0,2,6,1,7,435.0
+94,Mathematician,353,True,True,2022-12-14T17:54:54Z,2022-12-14T17:54:54Z,0,2,0,2,5,0,5,656.0
+74,Add Table of Contents,0,True,False,,2022-12-14T14:50:29Z,0,2,2,1,111,0,111,0
+88,"Added ""Act as an IT Expert""",0,True,True,2022-12-14T14:49:06Z,2022-12-14T14:49:06Z,2,2,0,2,11,12,23,13010.0
+89,Act as a Fullstack Software Developer,432,True,True,2022-12-14T14:46:04Z,2022-12-14T14:46:04Z,0,2,0,2,5,0,5,10164.0
+87,Act as a Midjourney Prompt Generator,0,True,True,2022-12-14T11:41:37Z,2022-12-14T11:41:37Z,1,2,2,2,5,0,5,1946.0
+80,Act as a synonym finder,367,True,True,2022-12-14T06:19:06Z,2022-12-14T06:19:06Z,0,2,2,2,5,0,5,2698.0
+75,"Add ""Act as a Python interpreter""",0,True,True,2022-12-14T00:10:08Z,2022-12-14T00:10:08Z,0,2,0,1,4,0,4,7891.0
+72,Create aaaaa,34,True,False,,2022-12-13T10:18:30Z,0,2,0,1,1,0,1,0
+70,fixed contributed name,0,True,True,2022-12-13T10:19:45Z,2022-12-13T10:19:45Z,0,2,0,1,1,1,2,13167.0
+60,"add ""Contributed by: @contributorID""",19,True,True,2022-12-13T06:24:49Z,2022-12-13T06:24:49Z,3,3,0,1,109,95,204,23894.0
+54,Typo fix,0,True,True,2022-12-12T20:36:53Z,2022-12-12T20:36:53Z,0,2,0,1,1,1,2,9451.0
+57,"Add ""Act as a Biblical Translator""",104,True,True,2022-12-12T20:35:27Z,2022-12-12T20:35:27Z,0,2,0,1,2,0,2,1125.0
+56,Act as an Ascii Artist,0,True,True,2022-12-12T20:34:56Z,2022-12-12T20:34:56Z,0,2,0,1,5,2,7,1544.0
+55,act as an ascii artist,0,True,False,,2022-12-12T20:07:09Z,0,1,1,1,3,0,3,0
+42,Act as a Movie Critic,0,True,True,2022-12-12T16:45:27Z,2022-12-12T16:45:27Z,0,2,0,1,4,0,4,62648.0
+48,Adding Tech Writer Prompt,0,True,True,2022-12-12T16:43:43Z,2022-12-12T16:43:43Z,0,2,0,1,3,0,3,19118.0
+52,Update README.md,53,True,True,2022-12-12T16:28:28Z,2022-12-12T16:28:28Z,0,2,0,1,3,0,3,3896.0
+46,add 22 ChatGPT prompts,137,True,True,2022-12-12T06:18:43Z,2022-12-12T06:18:43Z,0,2,2,1,88,0,88,11824.0
+41,Update README.md Act as Character part,4,True,True,2022-12-11T21:01:42Z,2022-12-11T21:01:42Z,0,2,0,1,1,1,2,816.0
+34,Act as a Lunatic and Act as a Gaslighter,121,True,True,2022-12-11T06:54:22Z,2022-12-11T06:54:22Z,0,2,0,1,8,0,8,22909.0
+30,grammar corrections,0,True,False,,2022-12-10T21:46:44Z,1,2,0,1,4,4,8,0
+28,Act as it architect,0,True,True,2022-12-10T20:50:10Z,2022-12-10T20:50:10Z,0,2,0,1,4,0,4,980.0
+27,Add devrel consultant,0,True,True,2022-12-10T20:30:02Z,2022-12-10T20:30:02Z,0,2,0,1,5,1,6,504.0
+26,Act as an Academician,0,True,True,2022-12-10T20:28:42Z,2022-12-10T20:28:42Z,0,2,0,1,4,0,4,2389.0
+22,Ask chatGPT: meta update,49,True,True,2022-12-10T18:23:20Z,2022-12-10T18:23:20Z,0,2,0,1,24,0,24,6837.0
+23,add act as a tech reviewer,115,True,True,2022-12-10T18:21:16Z,2022-12-10T18:21:16Z,0,2,0,1,4,0,4,907.0
+15,SQL terminal,84,True,True,2022-12-10T15:42:15Z,2022-12-10T15:42:15Z,0,2,0,0,0,0,0,38532.0
+18,added Act as a SQL terminal prompt,0,True,True,2022-12-10T15:41:17Z,2022-12-10T15:41:17Z,0,2,0,1,4,0,4,15934.0
+19,act as a dietitian,0,True,True,2022-12-10T15:40:33Z,2022-12-10T15:40:33Z,0,2,0,1,4,0,4,15592.0
+21,Act as a Psychologist,0,True,True,2022-12-10T15:39:53Z,2022-12-10T15:39:53Z,0,2,0,1,4,0,4,11455.0
+14,Act as a Prompt Generator,105,True,True,2022-12-10T15:38:47Z,2022-12-10T15:38:47Z,0,2,0,1,5,0,5,39088.0
+17,"Added ""Act as an Instructor in a School""",56,True,True,2022-12-10T08:05:18Z,2022-12-10T08:05:18Z,0,2,0,1,3,0,3,4366.0
+12,"Add ""Act as an AI Trying to Escape the Box""",0,True,True,2022-12-09T12:07:51Z,2022-12-09T12:07:51Z,0,2,0,1,6,0,6,8109.0
+13,added fancy title generator,0,True,True,2022-12-09T11:39:20Z,2022-12-09T11:39:20Z,0,2,0,1,4,0,4,740.0
+6,Plagiarism Checker prompt has been added.,0,True,True,2022-12-08T22:57:02Z,2022-12-08T22:57:02Z,0,2,0,1,4,0,4,179865.0
+7,Act as 'Character' from 'Movie/Book/Anything',0,True,True,2022-12-08T22:56:11Z,2022-12-08T22:56:11Z,0,2,0,1,4,0,4,163900.0
+8,add nearly 50 chatGPT prompts,320,True,True,2022-12-08T22:55:25Z,2022-12-08T22:55:25Z,0,2,0,1,189,0,189,161645.0
+10,Act as a Text Based Adventure Game,41,True,True,2022-12-08T22:53:46Z,2022-12-08T22:53:46Z,0,2,0,1,4,0,4,1682.0
+4,Act as a Travel Guide,0,True,True,2022-12-05T20:26:04Z,2022-12-05T20:26:04Z,0,2,0,1,4,0,4,746.0
+3,Edited interviewer prompt,69,True,True,2022-12-05T17:22:46Z,2022-12-05T17:22:46Z,0,2,0,1,5,2,7,2309.0
+2,Act as Javascript Console,102,True,True,2022-12-05T16:23:14Z,2022-12-05T16:23:15Z,0,2,0,1,3,0,3,1769.0
+1,Act as Node.js Backend Developer Interviewer,0,True,True,2022-12-05T15:40:35Z,2022-12-05T15:40:35Z,0,2,1,1,3,0,3,2415.0

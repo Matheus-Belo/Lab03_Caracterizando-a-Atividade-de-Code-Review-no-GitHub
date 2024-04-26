@@ -1,0 +1,143 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+131,Add toddmotto's public-apis list,64,True,False,,2023-10-03T19:37:37Z,1,3,0,1,1,0,1,0
+8,Add a section for Design Patterns.,70,True,False,,2017-09-23T10:43:11Z,0,3,3,1,4,0,4,0
+180,Updated Readme.md #UX/Usability,82,True,False,,2023-03-04T14:24:23Z,0,0,0,1,1,0,1,0
+179,"Add more resources on Engineering Philosophy, Practices and Career.",0,True,True,2022-11-23T11:06:04Z,2022-11-23T11:06:05Z,1,4,1,1,4,0,4,18902113.0
+171,Added 3 new sites into the `Coding Practice Site`,66,True,False,,2023-01-20T05:37:55Z,0,1,0,1,3,0,3,0
+177,Fix broken link for Professor Frisby's Mostly Adequate Guide to Functional Programming,176,True,True,2022-11-23T11:05:19Z,2022-11-23T11:05:19Z,0,3,1,1,1,1,2,28063384.0
+168,Updated SEO link,15,True,True,2022-11-23T11:04:48Z,2022-11-23T11:04:48Z,1,4,1,1,1,1,2,38005505.0
+174,"fix a dead link for ""no silver bullet"" document",0,True,True,2022-11-23T11:03:08Z,2022-11-23T11:03:08Z,0,2,0,1,1,1,2,28687515.0
+190,Fixed broken owasp top 10 link,0,True,True,2022-11-23T11:02:17Z,2022-11-23T11:02:17Z,0,2,0,1,1,1,2,12087386.0
+193,"add Algorithms, Paper",58,True,True,2022-11-23T11:01:38Z,2022-11-23T11:01:38Z,0,2,0,1,4,0,4,11914958.0
+196,Fix broken link,157,True,True,2022-11-23T11:01:01Z,2022-11-23T11:01:01Z,0,2,0,1,1,1,2,10423988.0
+198,Add new book for starting with algoritms and distributed systems,131,True,True,2022-11-23T11:00:16Z,2022-11-23T11:00:16Z,0,2,1,1,2,0,2,8794749.0
+199,"Add ""Introduction to Algorithms"" book",728,True,True,2022-11-23T10:59:42Z,2022-11-23T10:59:42Z,0,2,0,1,1,0,1,6295950.0
+200,Fix broken link,61,True,True,2022-11-23T10:59:11Z,2022-11-23T10:59:11Z,0,2,0,1,1,1,2,3694563.0
+203,fix: changed broken freecodecamp's link,0,True,True,2022-11-23T10:58:29Z,2022-11-23T10:58:29Z,0,2,0,1,1,1,2,749802.0
+202,Add link to computer science roadmap,37,True,True,2022-11-23T10:58:01Z,2022-11-23T10:58:01Z,0,2,0,1,1,0,1,1371667.0
+160,"added website, uri, for programming practice",94,True,False,,2022-11-22T14:10:23Z,1,2,0,1,41,11,52,0
+189,fix wrong seo link,0,True,False,,2022-10-11T12:20:02Z,0,1,1,1,1,1,2,0
+146,Adding devdocs,487,True,False,,2022-08-27T20:00:16Z,1,4,1,1,5,3,8,0
+184,update SEO link,0,True,False,,2022-07-02T10:54:54Z,0,1,0,1,1,1,2,0
+183,SEO - Link Fix,159,True,False,,2022-05-27T21:08:22Z,0,1,1,1,1,1,2,0
+172,Fix SEO broken URL,0,True,False,,2021-12-22T21:10:16Z,0,2,1,1,1,1,2,0
+164,Added the book 'Code Complete' under Practices category,83,True,True,2021-04-19T13:50:27Z,2021-04-19T13:50:27Z,1,3,0,1,1,0,1,13986409.0
+159,Added Abstract API,0,True,True,2021-04-19T13:49:37Z,2021-04-19T13:49:37Z,1,3,2,1,1,0,1,18718260.0
+165,fix distributed section dead link,132,True,True,2021-04-19T13:48:45Z,2021-04-19T13:48:45Z,1,3,1,1,1,1,2,3474641.0
+157,Update README.md,0,True,False,,2020-07-24T23:04:03Z,0,1,0,1,2,0,2,0
+156,Added All The Little Things,0,True,True,2020-07-20T16:52:52Z,2020-07-20T16:52:52Z,0,1,0,1,1,0,1,8.0
+155,Using a Webpage,0,True,False,,2020-07-05T15:55:23Z,0,1,1,1,1,0,1,0
+154,Add Codility to Coding Practice Sites,0,True,True,2020-07-01T12:59:26Z,2020-07-01T12:59:26Z,0,2,1,1,1,0,1,21654.0
+99,Adding Documentaries,0,True,False,,2020-07-01T12:58:34Z,0,3,1,1,7,0,7,0
+107,"Few links for RegEx, Designers and UX",0,True,False,,2020-07-01T12:58:16Z,1,4,0,1,6,0,6,0
+116,adding some link for hackers,48,True,False,,2020-07-01T12:58:00Z,0,3,1,1,11,7,18,0
+136,Merge pull request #1 from mtdvio/master,6,True,False,,2020-07-01T12:57:43Z,0,2,1,0,0,0,0,0
+117,Added pramp.com in career section,4,True,True,2020-03-15T05:19:38Z,2020-03-15T05:19:38Z,0,3,3,1,1,0,1,70484125.0
+148,"Add ""Free software, free society"", a TED talk by Richard Stallman",0,True,False,,2020-03-14T10:16:46Z,0,2,1,1,1,0,1,0
+144,Add a more comprehensive Git tutorial for beginners,370,True,True,2020-03-11T11:21:52Z,2020-03-11T11:21:53Z,0,2,1,1,1,1,2,26184921.0
+92,"Add ""How open source licenses work and how to add them to your projects"" to list",338,True,True,2020-03-11T10:52:11Z,2020-03-11T10:52:11Z,3,4,3,1,8,7,15,75601633.0
+84,add Fun category with video 'wat',110,True,False,,2020-03-11T10:43:31Z,0,4,2,1,3,0,3,0
+74,add best-resume-ever,0,True,False,,2020-03-10T21:14:02Z,1,5,3,1,1,0,1,0
+152,Update CS61B link to latest course website,76,True,True,2020-03-10T15:07:37Z,2020-03-10T15:07:37Z,0,2,1,1,1,1,2,3520.0
+145,Add link to other awesome list,107,True,False,,2019-11-15T09:01:28Z,0,1,0,1,1,0,1,0
+150,Merge pull request #1 from mtdvio/master,15,True,False,,2019-11-07T03:06:13Z,0,2,0,0,0,0,0,0
+143,Change CodeFights to CodeSignal,82,True,True,2019-04-24T14:44:15Z,2019-04-24T14:44:15Z,0,2,1,1,1,1,2,175559.0
+140,Fix username in the github link,0,True,True,2019-02-25T11:34:57Z,2019-02-25T11:34:57Z,0,2,0,1,1,1,2,624969.0
+135,Added an article on How to Get a Tech Job Abroad Faster,55,True,True,2019-01-31T09:14:06Z,2019-01-31T09:14:06Z,0,2,1,1,1,0,1,6299780.0
+139,Added CV Compiler for the new 'Resume' section,0,True,True,2019-01-31T09:13:01Z,2019-01-31T09:13:01Z,0,2,1,1,2,0,2,36058.0
+134,Add At Coder programming contest ,290,True,True,2018-12-05T21:19:43Z,2018-12-05T21:19:43Z,0,2,1,1,1,0,1,1488022.0
+132,Add Google SRE Handbook,0,True,True,2018-12-05T21:09:18Z,2018-12-05T21:09:18Z,1,3,2,1,1,0,1,3528271.0
+130,Added Firecode to coding practice sites,108,True,True,2018-12-05T21:08:01Z,2018-12-05T21:08:01Z,0,2,1,1,1,0,1,5237122.0
+137,"Added Hashing, Encryption and Encoding",89,True,True,2018-12-05T21:07:38Z,2018-12-05T21:07:38Z,0,2,1,1,1,0,1,896608.0
+124,Update README.md,70,True,True,2018-09-19T15:42:21Z,2018-09-19T15:42:21Z,0,2,1,1,1,0,1,10816651.0
+128,Fix broken link to uCoder,0,True,True,2018-09-19T15:59:13Z,2018-09-19T15:59:13Z,0,2,1,1,1,1,2,1814817.0
+127,Added Cake Interview link at the bottom of Coding Practice Sites,186,True,True,2018-09-19T15:58:28Z,2018-09-19T15:58:28Z,0,2,1,1,1,1,2,6853202.0
+125,Added Article Under Engineering Philosophy,68,True,True,2018-09-19T15:55:33Z,2018-09-19T15:55:33Z,0,2,1,1,1,0,1,9684797.0
+113,Adding programming sites,46,True,True,2018-04-10T12:20:31Z,2018-04-10T12:20:31Z,0,2,3,1,1,0,1,11710172.0
+121,Fixed 404 link to 'Pomodoro For Programmers' article,0,True,True,2018-04-10T12:19:03Z,2018-04-10T12:19:04Z,0,2,1,1,1,1,2,1271454.0
+122,Switched to HTTPS links where it's possible,54,True,True,2018-04-10T12:18:41Z,2018-04-10T12:18:42Z,0,2,1,1,15,15,30,1270498.0
+120,"Added Link to ""The Long, Painful History of Time""",0,True,False,,2018-02-16T19:33:09Z,0,1,0,1,1,0,1,0
+108,Add Coding Practice Site CodeCombat,53,True,True,2018-01-17T15:43:09Z,2018-01-17T15:43:09Z,0,2,1,1,1,0,1,6636311.0
+96,Add `repl.it` to `Services`,68,True,True,2018-01-17T15:54:29Z,2018-01-17T15:54:29Z,0,2,2,1,1,0,1,7715381.0
+103,"Add links ""How javascript works""",91,True,True,2018-01-17T15:52:38Z,2018-01-17T15:52:38Z,2,3,3,1,1,0,1,7115952.0
+102,Open Source section and Intro to Git and Github,0,True,True,2018-01-17T15:49:06Z,2018-01-17T15:49:06Z,0,3,3,1,3,0,3,7242120.0
+104,Add templates-and-concerns,96,True,False,,2018-01-17T15:47:08Z,0,2,1,1,1,0,1,0
+105,add lintcode.com,49,True,True,2018-01-17T15:44:48Z,2018-01-17T15:44:48Z,1,3,1,1,1,0,1,6775361.0
+112,Add new website to look for more information,0,True,True,2018-01-17T15:43:41Z,2018-01-17T15:43:41Z,0,2,1,1,1,0,1,5548947.0
+118,Added Coderbyte link.,45,True,True,2018-01-17T15:42:44Z,2018-01-17T15:42:44Z,0,3,2,1,1,0,1,317190.0
+110,Added Agner's optimization manuals,0,True,False,,2018-01-17T15:41:08Z,0,2,1,1,1,0,1,0
+114,Add Falsehoods Programmers Believe About Time blog post,105,True,False,,2018-01-17T15:37:29Z,0,2,1,1,8,7,15,0
+119,Updating URL to carta.,0,True,True,2018-01-17T15:35:34Z,2018-01-17T15:35:34Z,0,2,1,1,1,1,2,61751.0
+115,"Update wording in CONTRIBUTING.md, closes #93",65,True,True,2018-01-17T15:34:40Z,2018-01-17T15:34:40Z,0,4,1,1,19,19,38,3629106.0
+77,Added Code Complete book,103,True,False,,2017-11-01T21:59:45Z,1,4,3,1,2,1,3,0
+87,Create LICENSE,150,True,False,,2017-10-25T18:18:16Z,0,4,7,1,8,0,8,0
+82,Add ASCII and UTF-8,125,True,True,2017-10-25T18:02:46Z,2017-10-25T18:02:46Z,0,2,1,1,2,0,2,1194726.0
+97,"Add ""Open Source"" section",0,True,False,,2017-10-25T20:03:04Z,0,2,3,1,3,0,3,0
+88,fix spelling error,43,True,True,2017-10-25T18:18:49Z,2017-10-25T18:18:49Z,1,3,1,1,1,1,2,814931.0
+95,Add What you should know as a founder of a software company,76,True,True,2017-10-25T18:29:45Z,2017-10-25T18:29:45Z,0,2,1,1,1,0,1,529177.0
+91,Add some great recomendations about crypto,174,True,True,2017-10-25T18:20:15Z,2017-10-25T18:20:15Z,0,2,2,1,2,0,2,675112.0
+86,add inventing-on-principle video,92,True,True,2017-10-25T18:06:38Z,2017-10-25T18:06:38Z,0,2,1,1,2,0,2,996600.0
+85,add future-of-programming video,111,True,True,2017-10-25T18:05:32Z,2017-10-25T18:05:32Z,0,2,1,1,1,0,1,996592.0
+75,Historical Paper by Dijkstra,131,True,True,2017-10-25T17:57:51Z,2017-10-25T17:57:51Z,0,3,1,1,1,0,1,1672938.0
+100,Stackoverflow -> Stack Overflow,68,True,True,2017-10-25T17:51:01Z,2017-10-25T17:51:01Z,0,2,1,1,1,1,2,144633.0
+72,adding some problem solving resources,22,True,True,2017-10-25T17:47:00Z,2017-10-25T17:47:00Z,0,2,4,1,4,0,4,2076629.0
+101,Revert back to original,0,True,False,,2017-10-24T05:52:05Z,0,1,0,0,0,0,0,0
+89,sad,0,True,False,,2017-10-16T12:09:47Z,0,1,0,3,7,0,7,0
+78,Create UX/Usability section ,100,True,True,2017-10-13T17:40:36Z,2017-10-13T17:40:36Z,3,3,3,1,2,0,2,543932.0
+83,Add legal,47,True,True,2017-10-13T17:39:56Z,2017-10-13T17:39:56Z,0,3,1,1,2,0,2,124054.0
+79,Add Teach Yourself Programming in Ten Years,45,True,True,2017-10-13T17:39:02Z,2017-10-13T17:39:02Z,2,3,2,1,2,0,2,540134.0
+80,Fix markdown link,0,True,True,2017-10-08T15:02:33Z,2017-10-08T15:02:33Z,0,2,1,1,1,1,2,70349.0
+76,Added the book Clean Code,131,True,True,2017-10-06T11:29:26Z,2017-10-06T11:29:26Z,0,2,1,1,1,0,1,197.0
+73,Remove redundant .git suffix,83,True,True,2017-10-05T10:14:55Z,2017-10-05T10:14:55Z,0,2,1,1,1,1,2,21473.0
+70,proof theory book for discrete math,106,True,True,2017-10-03T14:04:09Z,2017-10-03T14:04:09Z,1,3,1,1,1,0,1,457143.0
+66,Interview Heading and Content added.,0,True,False,,2017-10-03T14:08:54Z,0,2,1,1,3,0,3,0
+68,Add Awesome Remote Job,44,True,True,2017-10-03T14:08:19Z,2017-10-03T14:08:19Z,0,2,1,1,1,0,1,695908.0
+69,Add Tech Interview Handbook,29,True,True,2017-10-03T14:05:06Z,2017-10-03T14:05:06Z,0,4,3,1,1,0,1,639844.0
+71,Added CodeComplete2 book into practice section,75,True,False,,2017-10-03T13:58:34Z,0,2,1,1,1,0,1,0
+67,Slight typo in CONTRIBUTING.md,23,True,True,2017-09-28T11:47:04Z,2017-09-28T11:47:04Z,1,3,1,1,1,1,2,276959.0
+17,Add string match algorithm,0,True,False,,2017-09-23T10:43:23Z,0,2,1,1,1,0,1,0
+64,Add algos visualization resource,328,True,True,2017-09-23T10:38:40Z,2017-09-23T10:38:40Z,0,2,1,1,1,0,1,72982.0
+61,Add LeetCode into Coding Practiсe section,213,True,True,2017-09-23T10:36:22Z,2017-09-23T10:36:22Z,0,2,1,1,1,0,1,82282.0
+63,"Add InterviewBit into Practice Section (corrected, on master branch)",276,True,True,2017-09-23T10:35:13Z,2017-09-23T10:35:13Z,0,2,1,1,1,0,1,81497.0
+65,Sep 22,0,True,False,,2017-09-22T18:08:14Z,0,1,0,0,0,0,0,0
+62,Add InterviewBit into Coding Practiсe section,275,True,False,,2017-09-22T11:54:24Z,0,1,1,1,3,0,3,0
+49,adding some data structures implementation resources,103,True,True,2017-09-22T10:58:32Z,2017-09-22T10:58:32Z,0,2,3,1,2,0,2,401927.0
+54,Add Microservices architecture,0,True,False,,2017-09-21T12:28:21Z,0,1,0,1,1,0,1,0
+58,add project euler to this list of programming sites,367,True,True,2017-09-20T11:40:08Z,2017-09-20T11:40:08Z,0,2,1,1,1,0,1,55976.0
+53,Added the Systems Design Primer to Architecture,89,True,True,2017-09-20T11:38:54Z,2017-09-20T11:38:54Z,0,2,1,1,1,0,1,157730.0
+44,update Coding Practice Sites,0,True,True,2017-09-19T12:43:27Z,2017-09-19T12:43:27Z,0,2,1,1,1,1,2,242190.0
+50,New Coding practice site + small style fix,142,True,True,2017-09-19T12:36:58Z,2017-09-19T12:36:58Z,0,3,3,2,3,2,5,125117.0
+52,Add CodeFights to practice sites,0,True,True,2017-09-19T12:35:14Z,2017-09-19T12:35:14Z,0,3,2,1,1,0,1,81029.0
+55,Remove unnecessary ?v=1 from URL.,0,True,True,2017-09-19T12:34:34Z,2017-09-19T12:34:34Z,0,2,1,1,1,1,2,20352.0
+51,Update README.md,61,True,True,2017-09-18T12:36:35Z,2017-09-18T12:36:35Z,1,2,1,1,1,1,2,18590.0
+45,Merge pull request #1 from mr-mig/master,6,True,False,,2017-09-18T12:38:51Z,0,2,2,0,0,0,0,0
+48,Added a link to The Clean Architecture,0,True,False,,2017-09-17T14:40:43Z,0,1,0,1,6,0,6,0
+47,Add Microservices architecture,0,True,False,,2017-09-17T14:40:52Z,0,2,1,1,8,0,8,0
+37,Add What Every Programmer Should Know About Memory,193,True,True,2017-09-16T16:16:12Z,2017-09-16T16:16:12Z,1,2,3,1,1,0,1,153690.0
+38,Added a link to The mythical 10x programmer and The Debugging Mindset,81,True,True,2017-09-16T10:30:49Z,2017-09-16T10:30:49Z,0,2,2,1,2,0,2,99381.0
+43,Add coding practice site,0,True,True,2017-09-16T16:04:33Z,2017-09-16T16:04:33Z,0,2,1,1,1,0,1,100.0
+41,Added a new section with links to various Coding Sites,0,True,True,2017-09-16T15:43:20Z,2017-09-16T15:43:20Z,0,2,2,1,15,9,24,2119.0
+30,"Add Hyperpolyglot, learnxinyminutes",569,True,True,2017-09-16T11:40:03Z,2017-09-16T11:40:03Z,0,3,5,1,4,0,4,513654.0
+9,Added recently published companion to Soft Skills,55,True,True,2017-09-16T11:38:24Z,2017-09-16T11:38:24Z,0,4,5,1,1,0,1,931885.0
+28,Create Spanish Translation,282,True,False,,2017-09-16T11:37:41Z,0,2,4,1,136,0,136,0
+27,Set theme jekyll-theme-cayman,0,True,False,,2017-09-16T11:34:54Z,0,1,1,1,1,0,1,0
+32,Add book How to Count under Numbers section,167,True,True,2017-09-16T11:34:17Z,2017-09-16T11:34:17Z,0,2,1,1,1,0,1,400945.0
+34,Added Data Structure section,0,True,True,2017-09-16T11:33:38Z,2017-09-16T11:33:38Z,0,2,1,1,3,0,3,272930.0
+33,Add Regex tutorial.,60,True,True,2017-09-16T11:31:38Z,2017-09-16T11:31:38Z,0,2,1,1,1,0,1,329570.0
+36,Added websites developers should visit.,113,True,False,,2017-09-16T10:37:26Z,0,2,1,1,9,0,9,0
+40,Cracking the Coding Interview book link updated to latest edition,94,True,True,2017-09-16T10:15:47Z,2017-09-16T10:15:47Z,0,2,1,1,1,1,2,56939.0
+35,Added a link to What Every Computer Scientist Should Know About Floating-Point Arithmetic,73,True,True,2017-09-14T10:25:03Z,2017-09-14T10:25:04Z,0,2,1,1,2,0,2,71706.0
+31,Add Learn Anything,0,True,True,2017-09-10T17:28:48Z,2017-09-10T17:28:48Z,0,2,1,1,1,0,1,16109.0
+29,Update README.md,0,True,False,,2017-09-09T06:53:33Z,0,2,1,1,2,0,2,0
+23,Fix Stackoverflow link,0,True,True,2017-09-07T15:57:54Z,2017-09-07T15:57:54Z,1,3,1,1,1,1,2,53363.0
+15,Fixed formatting for a link,0,True,True,2017-09-06T17:01:37Z,2017-09-06T17:01:37Z,0,2,0,1,1,1,2,20833.0
+13,Add Addresses section,0,True,True,2017-09-06T17:00:45Z,2017-09-06T17:00:46Z,0,2,4,1,3,0,3,48636.0
+16,"Deleted space, so this links in Markdown",0,True,True,2017-09-06T17:00:11Z,2017-09-06T17:00:11Z,0,2,0,1,1,1,2,17264.0
+10,Programming Paradigms Paper,122,True,True,2017-09-06T16:59:47Z,2017-09-06T16:59:47Z,0,2,2,1,1,0,1,76135.0
+11,Enhancement: Secure Programming HOWTO,178,True,True,2017-09-06T09:57:58Z,2017-09-06T09:57:58Z,0,2,1,1,1,0,1,45488.0
+7,Added The Ten Rules of a Zen Programmer,55,True,True,2017-09-05T20:44:08Z,2017-09-05T20:44:08Z,0,2,1,1,1,0,1,23515.0
+6,README.md: add 'Falsehoods Programmers Believe About Phone Numbers',0,True,True,2017-09-05T14:04:29Z,2017-09-05T14:04:29Z,0,2,1,1,1,0,1,92.0
+5,README.md: add 'Falsehoods programmers believe about time and time zones',0,True,True,2017-09-05T14:03:46Z,2017-09-05T14:03:46Z,0,2,1,1,1,0,1,208.0
+4,Add RegExper tool link in the RegExp section,38,True,False,,2017-09-05T12:43:13Z,0,2,1,1,1,0,1,0
+3,Visual presentations of sorting algorithms,94,True,True,2017-09-05T11:28:15Z,2017-09-05T11:28:15Z,0,2,1,1,1,0,1,1996.0
+2,Fix typo,27,True,True,2017-09-04T20:25:17Z,2017-09-04T20:25:17Z,0,2,1,1,1,1,2,4809.0

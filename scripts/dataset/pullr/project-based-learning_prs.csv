@@ -1,0 +1,330 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+430,Python / Data Science: Data Science Learning Paths,757,True,False,,2024-04-12T11:30:16Z,0,1,0,1,7,1,8,0
+491,Removed Error Link from Javascript project - pure-javascript-building-a-real-world-application-from-scratch,544,True,False,,2024-03-18T14:25:29Z,0,2,2,1,0,1,1,0
+477,Added Pandas Tutorial in Python,458,True,False,,2024-03-10T19:11:15Z,0,1,0,1,3,0,3,0
+529,Update README.md - Add: Building the Flappy Bird A.I. without LIBRARIES,702,True,False,,2024-03-04T19:05:59Z,0,1,0,1,1,0,1,0
+346,PR for solving issues #259 and #140 ,1631,True,False,,2024-03-03T05:59:21Z,0,1,0,1,176,106,282,0
+526,Newbranch,458,True,False,,2024-02-25T06:02:10Z,0,1,0,2,8,1,9,0
+527,README.md from cloned project committed!,458,True,False,,2024-02-25T06:01:21Z,0,1,0,1,5,1,6,0
+487,Update CONTRIBUTING.md,441,True,False,,2024-02-06T07:45:12Z,0,1,0,1,11,11,22,0
+464,Changing the url for the adventure presentation,726,True,False,,2024-01-23T13:05:45Z,0,1,0,1,1,1,2,0
+511,Update README.md | Create a Neural Network in JavaScript,497,True,False,,2024-01-17T19:53:16Z,0,1,0,1,1,0,1,0
+510,Update README.md | Pure Javascript OCR for more than 100 Languages,507,True,False,,2024-01-17T19:53:15Z,0,1,0,1,1,0,1,0
+505,Add Back To Top link in README.md,886,True,False,,2023-12-28T18:36:26Z,0,1,0,1,4,0,4,0
+488,test,458,True,False,,2023-12-11T13:09:39Z,0,1,0,1,1,0,1,0
+481,Add Spotify-Clone tutorial,458,True,False,,2023-12-03T08:33:47Z,0,1,0,1,1,0,1,0
+445,url change,127,True,False,,2023-07-30T10:46:54Z,0,0,0,1,1,1,2,0
+362,Added two .net MAUI projects on the C# section,0,True,False,,2022-08-25T15:51:59Z,0,2,1,1,2,0,2,0
+451,Updated README.md and fixed issue #344,778,True,False,,2023-09-16T05:07:35Z,0,1,0,1,1,1,2,0
+426,Removed Broken Links,560,True,False,,2023-08-17T07:48:11Z,0,1,0,1,0,4,4,0
+384,Added 2 resources,901,True,False,,2023-08-15T06:10:12Z,1,2,0,1,2,0,2,0
+323,added new stalebot exemptlabels,65,True,True,2021-09-02T08:20:53Z,2021-09-02T08:20:53Z,0,2,1,1,4,0,4,316131.0
+432,Create pull_request.ask,458,True,False,,2023-07-31T08:05:47Z,0,1,0,1,1,0,1,0
+441,Update README.md,458,True,False,,2023-06-30T05:02:50Z,0,1,0,1,1,0,1,0
+437,Update README.md,458,True,False,,2023-06-06T19:06:24Z,0,1,0,1,2,0,2,0
+434,Imdb movie scraper,0,True,False,,2023-05-28T06:31:58Z,0,1,0,2,54,0,54,0
+425,Removed Broken Links,554,True,False,,2023-04-09T14:01:33Z,0,1,0,1,0,4,4,0
+372,Delete a WRONG and EXISTED item.,691,True,False,,2023-03-26T13:46:00Z,0,2,4,1,0,6,6,0
+419,"Add ""Write a game boy emulator in Ocaml""",62,True,True,2023-03-21T10:24:21Z,2023-03-21T10:24:21Z,0,2,1,1,1,0,1,179.0
+395,Add files via upload,458,True,False,,2023-03-20T22:44:29Z,0,2,0,1,55,0,55,0
+397,nabeel added a message,458,True,False,,2023-03-20T22:44:14Z,0,2,1,1,2,0,2,0
+403,Add a new c/c++ project,482,True,True,2023-03-20T22:43:15Z,2023-03-20T22:43:15Z,0,2,1,1,1,0,1,3742135.0
+407,Add Python Course by Angela yu,709,True,False,,2023-03-20T22:42:08Z,0,2,2,1,1,0,1,0
+408,Added Flutter Netflix Clone Tutorial,38,True,True,2023-03-20T22:41:39Z,2023-03-20T22:41:39Z,0,3,1,1,1,0,1,2393801.0
+411,commit,458,True,False,,2023-03-20T22:40:42Z,0,2,0,1,1,1,2,0
+413,Update README.md,274,True,False,,2023-03-20T22:40:29Z,0,2,1,1,3,0,3,0
+415,Update README.md,278,True,False,,2023-03-20T22:39:52Z,0,2,1,1,1,0,1,0
+416,Add fullstackopen to web development,171,True,False,,2023-03-20T22:39:15Z,0,2,1,1,1,0,1,0
+364,Adding Flutter Tutorials,707,True,True,2022-08-28T05:18:14Z,2022-08-28T05:18:14Z,1,3,2,1,18,1,19,4884778.0
+398,Added a social media django tutorial under python web applications,551,True,False,,2023-03-06T19:59:13Z,0,1,0,1,1,0,1,0
+392,Added multimedia playlist and player for Python,607,True,False,,2023-01-16T11:53:40Z,0,1,0,1,4,0,4,0
+358,Add Solidity oracle project,700,True,False,,2022-12-25T09:32:45Z,0,1,0,1,5,0,5,0
+357,Update Cryptocurrency Trading Bot tutorial,790,True,False,,2022-11-21T04:33:54Z,0,2,1,1,1,1,2,0
+367,Add additional resources for project based learning,286,True,False,,2022-08-26T09:12:11Z,0,2,1,1,8,1,9,0
+376,📦 Add link check action ,898,True,False,,2022-08-26T07:58:48Z,0,2,2,1,14,0,14,0
+359,Add a tutorial for distributed training,1526,True,False,,2022-08-25T16:11:33Z,0,2,1,1,1,1,2,0
+377,Updated the readme file,458,True,False,,2022-08-25T16:07:08Z,0,2,2,1,1,0,1,0
+371,Added Realtime Chat app tutorial for django,560,True,True,2022-08-25T16:00:54Z,2022-08-25T16:00:54Z,0,2,1,1,8,0,8,2852247.0
+373,Youtube Channels Section,148,True,False,,2022-08-25T15:57:28Z,0,2,1,1,8,0,8,0
+366,Created Tutorial for personal assistant bot,537,True,False,,2022-08-25T15:55:00Z,0,2,1,1,1,1,2,0
+363,Updated Java security project reference.,1043,True,True,2022-08-25T15:53:05Z,2022-08-25T15:53:05Z,0,2,1,1,1,1,2,4871945.0
+368,Create blank.yml,458,True,False,,2022-07-18T20:01:36Z,1,1,0,1,36,0,36,0
+361,New c++ game tutorial link added,529,True,False,,2022-06-24T23:52:30Z,0,1,0,1,1,0,1,0
+144,Added some courses and projects for Solidity smart contract language,1116,True,False,,2022-01-28T10:58:13Z,0,2,2,1,10,0,10,0
+355,Adding BlueJ,579,True,False,,2022-04-29T15:29:47Z,0,2,1,1,1,0,1,0
+348,Added Solidity resources,746,True,False,,2022-04-26T12:42:24Z,0,2,1,1,4,0,4,0
+354,Added resources to learn blockchain and web3,566,True,False,,2022-04-26T12:41:45Z,0,2,1,1,10,0,10,0
+352,Added Tutorial's on Unity under C#,1006,True,False,,2022-04-26T12:39:50Z,0,2,1,1,12,0,12,0
+349,Removed multiple dead links,543,True,True,2022-04-13T14:04:02Z,2022-04-13T14:04:02Z,0,2,3,1,5,13,18,3532759.0
+331,Added Arduino tutorials under C/C++ topic in README.md (Issue #94),954,True,False,,2022-04-12T09:29:38Z,1,3,4,1,14,0,14,0
+345,Update to README.md to include a new sub tutorial for python Selenium Webdriver for auto form filling,1658,True,False,,2022-04-12T09:27:39Z,1,3,1,1,1,0,1,0
+351,Removed a dead link,910,True,True,2022-04-05T13:53:39Z,2022-04-05T13:53:39Z,0,2,1,1,0,1,1,2106457.0
+327,added new Go project - REST API masterclass,547,True,True,2022-01-28T11:06:53Z,2022-01-28T11:06:53Z,0,2,1,1,1,0,1,12927454.0
+325,added new Go project - bittorrent client,547,True,True,2022-01-28T11:02:11Z,2022-01-28T11:02:11Z,0,1,0,1,1,0,1,13111294.0
+242,Inclusion of Julia Programming Language and Evolutionary Algorithms ,1385,True,False,,2022-01-28T10:58:26Z,0,2,1,1,29,0,29,0
+311,Update README.md,591,True,False,,2022-01-28T10:56:20Z,1,3,1,1,4,0,4,0
+230,Added 4 projects,663,True,False,,2022-01-28T10:55:59Z,0,2,1,1,4,0,4,0
+159,Add The WebDev Coach's Timestamp Microservice Node tutorial,510,True,False,,2022-01-28T10:55:42Z,0,2,1,1,6,0,6,0
+148,Reordered the table of contents match to the presented contents in README.md,715,True,False,,2022-01-28T10:55:09Z,0,2,1,1,7,7,14,0
+343,JavaScript TDD Todo List App added ,487,True,True,2022-01-27T22:13:29Z,2022-01-27T22:13:29Z,0,2,1,1,1,0,1,30359.0
+341,testing github first time,458,True,False,,2022-01-15T09:26:48Z,0,3,1,2,11,0,11,0
+334,[Remove]: Removed discontinued course link,660,True,False,,2021-12-28T12:59:34Z,0,2,1,1,0,1,1,0
+335,refactor: remove tutorials which shut down,564,True,True,2021-12-28T12:58:47Z,2021-12-28T12:58:47Z,0,3,2,1,0,2,2,7584383.0
+336,Added tutorial for fake news detector using python & ml,1004,True,True,2021-12-28T12:58:20Z,2021-12-28T12:58:20Z,0,2,0,1,1,0,1,6226264.0
+337,added JavaScript project,458,True,True,2021-12-28T12:57:48Z,2021-12-28T12:57:48Z,0,2,0,1,1,0,1,6040439.0
+27,Update README.md,0,True,False,,2021-12-28T12:48:04Z,0,3,3,1,3,0,3,0
+299,Go:build k-v database,403,True,False,,2021-12-28T05:23:07Z,0,3,3,1,1,0,1,0
+298,Update README.md,566,True,True,2021-08-25T20:55:19Z,2021-08-25T20:55:19Z,0,2,1,1,0,1,1,7982839.0
+326,added Go project - TCP Chat,547,True,True,2021-09-14T20:02:16Z,2021-09-14T20:02:16Z,0,1,0,1,1,0,1,1211793.0
+333,Fix typo,64,True,True,2021-09-14T12:10:14Z,2021-09-14T12:10:14Z,0,2,0,1,1,1,2,3900.0
+328,updated LICENSE.md,100,True,True,2021-09-07T18:24:52Z,2021-09-07T18:24:53Z,0,2,0,1,1,1,2,597429.0
+330,Added Arduino tutorials under C/C++ topic in README.md (Issue #94),458,True,False,,2021-09-07T15:09:53Z,0,1,0,1,14,0,14,0
+324,Go category cleanup after bad merge,48,True,True,2021-08-31T17:04:38Z,2021-08-31T17:04:38Z,0,1,0,1,6,15,21,173492.0
+321,prepare config for stalebot,119,True,True,2021-08-27T19:06:46Z,2021-08-27T19:06:46Z,1,2,0,1,17,0,17,31240.0
+322,Removed broken link,802,True,True,2021-08-29T16:07:38Z,2021-08-29T16:07:38Z,0,2,1,1,1,3,4,2575.0
+319,"Add ""Computer Graphics from Scratch"" book",62,True,False,,2021-08-27T08:56:00Z,0,2,4,1,5,0,5,0
+316,"Add ""Crafting Interpreters"" book",115,True,False,,2021-08-27T08:14:01Z,0,3,3,1,2,0,2,0
+318,"Add ""Let's write a compiler"" tutorial series",70,True,True,2021-08-27T19:57:48Z,2021-08-27T19:57:48Z,1,2,0,1,9,1,10,87842.0
+317,"Add ""Let's build a compiler"" tutorial",55,True,False,,2021-08-28T09:17:30Z,0,3,3,1,5,0,5,0
+141,Update README.md,643,True,True,2021-08-28T05:42:32Z,2021-08-28T05:42:32Z,1,2,0,1,1,1,2,88750720.0
+315,DRAFT: updating CONTRIBUTING.md to be more clear for contributors,755,True,False,,2021-08-27T10:20:45Z,0,1,0,1,12,2,14,0
+320,prepare config for stalebot,35,True,False,,2021-08-27T10:20:36Z,0,1,0,2,29,2,31,0
+280,Added CodeCrafters to additional resources,551,True,True,2021-08-26T08:18:20Z,2021-08-26T08:18:20Z,0,2,2,1,1,0,1,17872364.0
+249,add rust single page application tutorial,278,True,True,2021-08-27T09:37:35Z,2021-08-27T09:37:35Z,0,2,1,1,2,1,3,31013731.0
+164,Add Building a Todo App with Angular CLI,635,True,False,,2021-08-27T09:36:51Z,0,2,1,1,7,0,7,0
+256,NEW Datascience Project,1030,True,True,2021-08-27T09:19:53Z,2021-08-27T09:19:53Z,0,2,1,1,1,0,1,28496436.0
+277,Added React Phone E-Commerce Project,719,True,True,2021-08-27T09:13:23Z,2021-08-27T09:13:23Z,0,2,1,1,1,0,1,18537101.0
+268,add build your own x to additional resources,458,True,False,,2021-08-27T09:08:16Z,0,2,1,1,1,0,1,0
+275,Added a python A.I. voice assistant tutorial,755,True,True,2021-08-27T09:06:43Z,2021-08-27T09:06:43Z,0,2,1,1,1,0,1,20695605.0
+132,Added a link to learn game development using python tool Pygame,0,True,False,,2021-08-27T08:46:31Z,0,3,3,1,1,0,1,0
+160,Add Building a Github App,802,True,True,2021-08-27T08:43:10Z,2021-08-27T08:43:10Z,0,2,0,1,1,0,1,77418522.0
+240,Added Resources for Web Dev & ML,507,True,False,,2021-08-27T08:41:13Z,1,3,3,1,21,0,21,0
+204,Add Python type checking guide with a project,875,True,False,,2021-08-27T08:40:06Z,0,2,2,1,1,0,1,0
+293,"Add ""REST servers in Go"" tutorials",107,True,True,2021-08-25T20:57:08Z,2021-08-25T20:57:09Z,0,2,2,1,8,0,8,9507712.0
+300,Add a tutorial about writing an NES emulator,76,True,True,2021-08-16T08:12:51Z,2021-08-16T08:12:51Z,0,2,1,1,1,0,1,5833546.0
+175,add WebGL month,0,True,False,,2021-08-26T11:06:43Z,0,4,3,1,1,0,1,0
+292,"Added ""Quick Start with the ABP Framework""",71,True,False,,2021-08-26T12:56:36Z,0,2,1,1,4,0,4,0
+23,"Added resources for php, and javascript",0,True,False,,2021-08-26T10:08:58Z,0,4,3,1,6,0,6,0
+122,Update README.md,17,True,False,,2021-08-26T12:43:46Z,0,2,1,1,1,1,2,0
+255,Added car parking management system under C++,643,True,False,,2021-08-26T10:37:06Z,0,2,1,1,1,0,1,0
+173, add a tutorial 'Build Android app with Rust',673,True,False,,2021-08-26T10:31:29Z,0,2,2,1,2,0,2,0
+260,Update README.md,484,True,False,,2021-08-26T10:20:07Z,0,2,1,1,1,0,1,0
+180,Added link to MongoDB with Python Crash Course,458,True,False,,2021-08-26T10:17:03Z,0,2,1,1,1,0,1,0
+153,Added Create React Messaging feature with Chatkit ,458,True,False,,2021-08-26T10:10:50Z,0,2,1,1,1,0,1,0
+157,Added DL Tutorials,458,True,False,,2021-08-26T10:10:12Z,0,2,1,1,8,17,25,0
+177,Added new tutorials in Python,458,True,False,,2021-08-26T10:08:34Z,1,3,1,1,4,0,4,0
+314,Web application: How to build yor own Uber-for-X app,564,True,True,2021-08-26T09:34:17Z,2021-08-26T09:34:17Z,0,2,4,1,3,0,3,10421.0
+199,API automation Tutorial added,458,True,False,,2021-08-26T08:52:12Z,0,2,1,1,1,0,1,0
+44,"all three links are about Rails, not Ruby",0,True,False,,2021-08-26T08:46:44Z,0,2,1,1,2,2,4,0
+188,Add Google Apps Script tutorial for beginners.,990,True,False,,2021-08-26T08:46:12Z,0,2,1,1,6,0,6,0
+192,Added new HTML & CSS tutorials,336,True,False,,2021-08-26T08:44:22Z,0,2,1,1,3,0,3,0
+86,Added a JavaScript source,43,True,False,,2021-08-26T08:40:51Z,0,1,1,1,1,0,1,0
+109,Added Julia in honor of it reaching version 1.0,92,True,False,,2021-08-26T08:39:21Z,0,2,1,1,7,0,7,0
+171,docs: Adds NodeJS and Data Science tutorials,1167,True,False,,2021-08-26T08:38:17Z,0,2,2,1,6,1,7,0
+202,add javascript password generator tutorial,645,True,False,,2021-08-26T08:36:55Z,0,2,2,1,1,0,1,0
+186,Let's Build Game with C++,573,True,False,,2021-08-26T08:36:39Z,1,3,1,1,1,0,1,0
+150,Added tutorial for AngularJS,721,True,False,,2021-08-26T08:25:11Z,0,2,1,1,1,0,1,0
+102,Add two Django Tutorials,64,True,False,,2021-08-26T08:23:03Z,0,2,1,1,2,0,2,0
+197,Added udemy.com,505,True,True,2021-08-26T08:21:36Z,2021-08-26T08:21:36Z,0,2,0,1,1,0,1,57673763.0
+236,create Restaurant management system,591,True,False,,2021-08-26T08:21:00Z,0,2,1,1,343,0,343,0
+179,Data Plotting,622,True,False,,2021-08-26T08:19:34Z,0,2,1,1,1,0,1,0
+194,Add tutorials about html/css section,682,True,False,,2021-08-26T08:14:48Z,0,2,1,1,12,0,12,0
+198,Pytest tutoriual added,514,True,False,,2021-08-26T08:13:53Z,0,3,2,1,1,0,1,0
+210,Update README.md,524,True,False,,2021-08-26T08:13:27Z,0,3,2,1,1,0,1,0
+232,Chagning the link for web development tutorial by axtasie,618,True,True,2021-08-26T08:12:21Z,2021-08-26T08:12:21Z,0,2,1,1,1,1,2,43626206.0
+151,Add 'Operating systems development for dummies',1175,True,False,,2021-08-26T08:09:59Z,0,2,1,1,1,0,1,0
+196,add tutorial in c/c++ section,565,True,False,,2021-08-26T08:05:58Z,2,5,4,1,1,0,1,0
+189,Updated tutorial for Building a container from scratch in Liz Rice,831,True,True,2021-08-26T08:00:00Z,2021-08-26T08:00:00Z,0,3,0,1,9,0,9,58654219.0
+193,Create factorial using recurssion,127,True,False,,2021-08-26T07:57:59Z,1,3,1,1,21,0,21,0
+286,Update README.md,992,True,True,2021-08-25T23:02:42Z,2021-08-25T23:02:42Z,0,2,1,1,1,0,1,14664302.0
+237,add some resource golang tutorial,489,True,True,2021-08-25T23:01:10Z,2021-08-25T23:01:10Z,1,3,0,1,8,0,8,40493247.0
+190,Updated Medium clone using React.js and Node.js URL,658,True,True,2021-08-25T22:29:05Z,2021-08-25T22:29:05Z,0,2,0,1,1,1,2,58357889.0
+170,Added web scraping with Beautiful Soup,610,True,False,,2021-08-25T22:25:14Z,0,2,1,1,1,0,1,0
+154,Add Python Roguelike Tutorial,458,True,False,,2021-08-25T22:24:35Z,0,2,1,1,1,0,1,0
+195,Add Java Tutorial for beginners: Learn in 7 Days,561,True,False,,2021-08-25T22:23:36Z,0,2,1,1,1,0,1,0
+200,API automation using Java,500,True,False,,2021-08-25T22:20:57Z,0,2,1,1,1,0,1,0
+248,Added tutorial for Eyes following cursor (CSS),569,True,False,,2021-08-25T22:17:10Z,1,3,1,1,1,0,1,0
+136,Update CONTRIBUTING.md,0,True,False,,2021-08-25T22:02:38Z,0,2,0,1,1,0,1,0
+127,Added tutorial for CSS Grid,0,True,False,,2021-08-25T22:00:08Z,0,2,1,1,1,1,2,0
+42,A good Django resource,43,True,False,,2021-08-25T21:58:26Z,0,2,1,1,1,0,1,0
+48,Django Tutorial,35,True,False,,2021-08-25T21:57:23Z,0,2,1,1,1,0,1,0
+250,fixed links under Golang,600,True,False,,2021-08-25T21:38:26Z,0,2,2,1,7,7,14,0
+253,The link for Learn Unsupervised Learning with Python seems to be broken,614,True,True,2021-08-25T21:29:51Z,2021-08-25T21:29:51Z,0,2,1,1,0,1,1,28791885.0
+238,Update README.md,701,True,True,2021-08-25T21:29:17Z,2021-08-25T21:29:17Z,0,2,1,1,1,0,1,39699016.0
+257,Added TicTacToe game using VanillaJs,98,True,True,2021-08-25T21:26:42Z,2021-08-25T21:26:42Z,0,2,2,1,1,0,1,28357545.0
+261,Change links,751,True,False,,2021-08-25T21:25:47Z,0,4,4,1,7,7,14,0
+263,jeiwan.cc is now jeiwan.net so urls fixed,831,True,False,,2021-08-25T21:25:12Z,0,2,2,1,7,7,14,0
+264,Added Integration of Splash Screen In Android App,745,True,False,,2021-08-25T21:23:26Z,0,2,1,1,1,0,1,0
+258,Removing broken link,54,True,True,2021-08-25T21:23:09Z,2021-08-25T21:23:09Z,1,3,1,1,0,1,1,28356564.0
+269,Add Mask detection using PyTorch Lightning to the deep learning category,534,True,True,2021-08-25T21:19:10Z,2021-08-25T21:19:10Z,0,3,3,1,1,0,1,24054733.0
+270,added link jpeg decoder using python,458,True,False,,2021-08-25T21:18:43Z,1,3,1,1,1,0,1,0
+272,Add Vue tutorial to build peer to peer app,523,True,True,2021-08-25T21:18:26Z,2021-08-25T21:18:26Z,0,2,1,1,1,0,1,21641234.0
+278,snake game,124,True,True,2021-08-25T21:15:25Z,2021-08-25T21:15:25Z,0,2,1,1,2,0,2,18165348.0
+271,Add Python Django Web Application,920,True,True,2021-08-25T21:01:14Z,2021-08-25T21:01:14Z,0,2,2,1,3,0,3,22346299.0
+279,Added Ruby Git project,648,True,True,2021-08-25T21:00:37Z,2021-08-25T21:00:37Z,0,2,1,1,1,0,1,18118015.0
+288,Replaced link in React,82,True,True,2021-08-25T21:00:00Z,2021-08-25T21:00:00Z,0,2,1,1,1,1,2,14272096.0
+289,Add Flutter tutorial from AppBrewery,831,True,False,,2021-08-25T20:59:23Z,0,2,1,1,4,0,4,0
+291,Added Build a custom google maps theme to Javascript section,359,True,False,,2021-08-25T20:58:56Z,0,2,1,1,1,0,1,0
+303,Add Python Resource,516,True,False,,2021-08-25T20:55:01Z,0,2,1,1,1,0,1,0
+306,Adds 2 React.js video tutorials,631,True,False,,2021-08-25T20:54:45Z,0,2,1,1,2,0,2,0
+266,Update README.md,458,True,False,,2021-08-25T20:54:12Z,0,2,1,1,2,2,4,0
+313,added gitter badge,458,True,True,2021-08-25T20:37:06Z,2021-08-25T20:37:06Z,0,2,0,1,1,0,1,126143.0
+312,Fixed broken link,661,True,True,2021-08-23T17:10:35Z,2021-08-23T17:10:35Z,1,2,0,1,1,1,2,319404.0
+267,Fix the link of the Haskell's compiler project,805,True,False,,2021-08-21T15:48:12Z,0,2,1,1,1,1,2,0
+284,Update Go blockchain project links,492,True,False,,2021-08-16T14:07:52Z,0,2,3,1,7,7,14,0
+308,Add a tutorial series about making a FPS,117,True,True,2021-08-16T07:50:29Z,2021-08-16T07:50:29Z,0,2,2,1,1,0,1,206292.0
+305,Add Rust project: Learning to Fly,0,True,True,2021-08-16T07:49:14Z,2021-08-16T07:49:14Z,1,2,0,1,5,0,5,2158730.0
+247,Added Awesome Android Kotlin Apps to Kotlin Category,888,True,True,2021-08-16T07:35:06Z,2021-08-16T07:35:06Z,0,2,0,0,0,0,0,30380419.0
+307,"Added ""Let's build a URL shortener in Go - with Gin & Redis""",625,True,True,2021-08-16T07:35:01Z,2021-08-16T07:35:01Z,1,2,0,1,5,0,5,1110813.0
+302,Add a tutorial about writing a Tetris game,60,True,True,2021-07-07T21:47:27Z,2021-07-07T21:47:27Z,1,2,0,1,1,0,1,1841381.0
+290,Switch domain jeiwan.cc to jeiwan.net,92,True,True,2021-07-07T21:48:29Z,2021-07-07T21:48:29Z,1,3,0,1,7,7,14,9371807.0
+301,Thatswhatshesaid,168,True,False,,2021-06-10T23:01:08Z,0,1,0,5,124,0,124,0
+252,Add tutorial for Jira clone application (Angular),1235,True,False,,2021-03-26T01:08:47Z,0,1,0,1,6,0,6,0
+281,Go article manager,0,True,False,,2021-02-01T18:43:23Z,0,1,0,15,498,0,498,0
+176,Add VueJS tutorial,570,True,False,,2020-12-10T17:48:06Z,0,2,2,1,1,0,1,0
+203,Add one link in Rails section and one in Javascript section,637,True,False,,2020-11-23T16:01:51Z,1,2,0,1,2,0,2,0
+262,Create Commit changes,458,True,False,,2020-10-07T06:06:09Z,0,1,0,1,1,0,1,0
+254,Merge all changes to my fork,458,True,False,,2020-09-28T01:48:26Z,0,1,0,0,0,0,0,0
+245,Replaced 'How to Write an Emulator (CHIP-8 Interpreter)' ,780,True,True,2020-08-22T22:14:22Z,2020-08-22T22:14:22Z,1,2,0,1,1,1,2,1637091.0
+246,Updated date to the license from 2017 to 2020,708,True,True,2020-08-22T22:13:26Z,2020-08-22T22:13:26Z,0,2,0,1,1,1,2,121976.0
+234,added link for face detector using opencv,474,True,True,2020-08-03T08:58:25Z,2020-08-03T08:58:25Z,1,2,0,1,1,0,1,7670892.0
+201,Add prototyping with Clojure book,103,True,True,2020-08-03T08:56:53Z,2020-08-03T08:56:53Z,1,2,0,1,1,0,1,23996620.0
+243,Merge pull request #1 from tuvtran/master,471,True,False,,2020-07-26T11:16:46Z,0,1,0,0,0,0,0,0
+239,Added byterun,458,True,True,2020-07-22T06:56:34Z,2020-07-22T06:56:34Z,3,2,1,1,1,0,1,3287820.0
+235,Updated Broken Link,488,True,True,2020-06-19T06:25:38Z,2020-06-19T06:25:38Z,1,2,1,1,1,1,2,3585846.0
+233,Removed not working link,483,True,False,,2020-05-08T18:22:36Z,0,2,2,1,0,1,1,0
+231,Add new Go tutorial,78,True,False,,2020-04-15T13:50:56Z,0,1,0,1,1,0,1,0
+205,Add 'Build your own Redis' under Ruby,659,True,True,2020-02-23T02:46:07Z,2020-02-23T02:46:07Z,2,3,1,1,6,0,6,6942970.0
+206,Some Scala projects added,582,True,True,2020-02-19T18:17:00Z,2020-02-19T18:17:00Z,1,1,0,1,5,0,5,4790421.0
+178,Add Memory Allocator in C tutorial,458,True,True,2020-02-18T19:18:45Z,2020-02-18T19:18:45Z,1,2,0,1,1,0,1,12611116.0
+209,Added React Native Application with Redux Thunk,458,True,True,2020-02-14T19:04:53Z,2020-02-14T19:04:53Z,1,2,1,1,2,0,2,637543.0
+208,Added Todoist clone under React category,783,True,True,2020-02-05T23:21:13Z,2020-02-05T23:21:13Z,1,2,2,1,1,0,1,1967672.0
+182,Add F# Section,596,True,True,2019-10-14T15:15:07Z,2019-10-14T15:15:07Z,1,2,0,1,5,0,5,686636.0
+187,Added Sol - An MQTT broker from scratch tutorial,703,True,True,2019-10-14T15:13:26Z,2019-10-14T15:13:26Z,1,2,0,1,9,0,9,65301.0
+183,update Angular tutorial to new version and add part 2 link,855,True,True,2019-10-12T02:07:44Z,2019-10-12T02:07:44Z,1,3,0,1,3,1,4,162821.0
+184,Added beginner-friendly Ruby tutorial,182,True,True,2019-10-11T20:17:48Z,2019-10-11T20:17:48Z,1,2,0,1,1,0,1,135136.0
+185,add Elixir project,594,True,True,2019-10-11T20:17:07Z,2019-10-11T20:17:07Z,0,2,0,1,1,0,1,7463.0
+181,Added a LSTM RNN Taylor Swift Lyrics Generator,574,True,True,2019-10-11T20:16:48Z,2019-10-11T20:16:48Z,0,2,0,1,1,0,1,535069.0
+174,Added new tutorials in Python,716,True,False,,2019-07-16T08:59:57Z,0,1,0,1,4,0,4,0
+168,Add some new projects,593,True,True,2019-06-05T19:53:11Z,2019-06-05T19:53:11Z,0,2,0,1,3,0,3,3129785.0
+162,Reorder table of contents,707,True,False,,2019-05-20T19:25:49Z,0,1,0,1,1,1,2,0
+163,Add tutorial about how to write your own git,100,True,True,2019-04-22T23:32:20Z,2019-04-22T23:32:20Z,0,2,0,1,1,0,1,2265240.0
+167,Fix OS tutorial in Rust,48,True,True,2019-04-22T23:36:36Z,2019-04-22T23:36:36Z,0,1,1,1,1,1,2,26.0
+165,Merge pull request #1 from tuvtran/master,484,True,False,,2019-04-22T14:00:42Z,0,1,0,0,0,0,0,0
+91,"Add part 5 of the ""Space Invaders"" tutorial.",0,True,True,2018-07-08T18:22:35Z,2018-07-08T18:22:35Z,0,2,0,1,1,0,1,681379.0
+92,Add tutorial about writing a debugger in Python,67,True,True,2018-07-09T19:26:26Z,2018-07-09T19:26:26Z,0,2,0,1,3,0,3,769241.0
+83,Add tutorial about creating a compile-time game,0,True,True,2018-07-08T18:22:49Z,2018-07-08T18:22:49Z,0,2,1,1,1,0,1,3629605.0
+161,Merge pull request #1 from tuvtran/master,466,True,False,,2019-03-16T06:14:07Z,0,1,0,0,0,0,0,0
+158,Updates C tutorials,848,True,True,2019-03-03T22:49:42Z,2019-03-03T22:49:42Z,0,2,0,1,1,1,2,114100.0
+128,Add awesome_bot to validate links via .travis.yml #113,13,True,True,2019-02-19T15:55:55Z,2019-02-19T15:55:55Z,0,4,2,1,4,0,4,10512075.0
+155,Add The WebDev Coach's Random Quote Machine React tutorial,504,True,True,2019-02-19T15:53:21Z,2019-02-19T15:53:21Z,0,2,0,1,8,0,8,2049878.0
+156,Tiny* 3D graphics projects,632,True,True,2019-02-19T15:52:50Z,2019-02-19T15:52:50Z,0,2,0,1,5,0,5,165964.0
+152,Update README.md : Fix typo in markdown link,674,True,True,2019-01-12T15:33:31Z,2019-01-12T15:33:31Z,0,2,0,1,1,1,2,75252.0
+149,README: typo fix,517,True,True,2018-12-30T18:39:31Z,2018-12-30T18:39:31Z,0,2,0,1,1,1,2,966765.0
+147,Added Deep Learning and Image Analysis Tutorials,458,True,True,2018-12-30T18:39:09Z,2018-12-30T18:39:09Z,0,2,1,1,7,0,7,1298140.0
+146,Removed Build CMS Ruby on Rails as url broken,778,True,True,2018-12-03T10:05:35Z,2018-12-03T10:05:35Z,0,2,0,1,0,1,1,248030.0
+129,Remove duplicate links,100,True,True,2018-10-28T03:37:49Z,2018-10-28T03:37:49Z,0,2,0,1,0,2,2,603607.0
+145,Merge pull request #1 from tuvtran/master,499,True,False,,2018-11-18T13:29:58Z,0,1,0,0,0,0,0,0
+134,Indentation in Documentation,0,True,False,,2018-11-09T14:27:35Z,0,2,1,1,74,74,148,0
+139,add Github Template Files that will enable Contributors Communicate Better,81,True,True,2018-11-03T20:49:10Z,2018-11-03T20:49:10Z,0,2,2,3,76,0,76,136380.0
+135,added point 18 in contribution guidline,0,True,True,2018-11-03T20:50:32Z,2018-11-03T20:50:32Z,0,2,0,1,1,0,1,345549.0
+137,Added Image Processing and Machine Learning Tutorials,0,True,True,2018-11-03T20:50:19Z,2018-11-03T20:50:19Z,0,2,0,1,18,11,29,174285.0
+131,Update README.md,78,True,True,2018-10-28T03:40:58Z,2018-10-28T03:40:58Z,1,2,0,1,1,0,1,216143.0
+130,added project-based-learning,10,True,False,,2018-10-25T01:52:45Z,0,1,1,1,1,0,1,0
+119,Add Hack Club Workshops to additional resources,263,True,True,2018-10-07T08:02:58Z,2018-10-07T08:02:58Z,1,2,0,1,1,0,1,278194.0
+120,Add Enlight.nyc,763,True,True,2018-10-07T08:03:43Z,2018-10-07T08:03:43Z,0,2,0,1,1,0,1,278001.0
+126,Found a Vue Tutorial that helped me a lot,0,True,True,2018-10-20T06:18:58Z,2018-10-20T06:18:58Z,0,2,0,1,1,0,1,118649.0
+125,Added Deep Learning tutorials,0,True,True,2018-10-20T06:17:39Z,2018-10-20T06:17:39Z,0,3,1,1,16,12,28,140945.0
+123,Add new tutorial in golang,0,True,True,2018-10-13T20:58:52Z,2018-10-13T20:58:52Z,0,2,0,1,1,0,1,430559.0
+124,"Removed duplicate entries from ""Additional Resources""",0,True,True,2018-10-13T20:58:35Z,2018-10-13T20:58:35Z,0,2,0,1,2,11,13,250760.0
+121,Added Deep Learning tutorials,0,True,True,2018-10-07T08:04:44Z,2018-10-07T08:04:44Z,0,2,1,1,382,367,749,267465.0
+118,Spellchecked README.md,45,True,True,2018-10-02T06:39:44Z,2018-10-02T06:39:44Z,0,2,0,1,1,1,2,205741.0
+108,Add The Ruby on Rails Tutorial,48,True,True,2018-09-28T09:07:49Z,2018-09-28T09:07:49Z,0,2,0,1,1,0,1,2774918.0
+114,Added OpenCV and Deep Learning Tutorials,0,True,True,2018-09-25T03:53:39Z,2018-09-25T03:53:39Z,0,2,0,1,4,0,4,380763.0
+115,"Add ""Building the CoreWiki"" (C#)",271,True,True,2018-09-25T03:53:15Z,2018-09-25T03:53:15Z,0,2,0,1,1,0,1,332658.0
+116,Add a C tutorial about creating an os,76,True,True,2018-09-25T03:52:30Z,2018-09-25T03:52:30Z,1,2,0,1,1,0,1,245674.0
+112,Added deep-learning tutorials,0,True,True,2018-09-18T05:22:36Z,2018-09-18T05:22:37Z,0,2,0,1,7,0,7,650830.0
+111,Removed unavailable link,24,True,True,2018-09-09T07:01:46Z,2018-09-09T07:01:46Z,0,2,0,1,0,1,1,453090.0
+110,Add Erlang Tutorial,27,True,True,2018-09-09T07:01:29Z,2018-09-09T07:01:29Z,1,2,0,1,5,0,5,860866.0
+107,Added ML tutorial,0,True,True,2018-08-17T19:11:00Z,2018-08-17T19:11:00Z,0,2,1,1,1,0,1,1557662.0
+105,Python programming projects for advanced beginners,228,True,True,2018-07-30T06:07:43Z,2018-07-30T06:07:43Z,0,2,0,1,2,0,2,144425.0
+106,"Added Machine Learning, Django and OpenCV tutorials",0,True,True,2018-07-30T06:07:00Z,2018-07-30T06:07:00Z,0,2,0,1,6,0,6,83783.0
+104,Added Web Dev tutorials,0,True,True,2018-07-27T14:54:34Z,2018-07-27T14:54:34Z,0,2,0,1,4,0,4,10879.0
+95,VueJS - blog tutorial,43,True,True,2018-07-26T18:12:44Z,2018-07-26T18:12:44Z,0,2,1,1,4,0,4,1431867.0
+101,Delete JIT tutorial (C++) and add video tags,144,True,True,2018-07-26T18:10:47Z,2018-07-26T18:10:47Z,0,2,0,1,12,13,25,203965.0
+100,Added basic Neural Net and Web Dev tutorials,0,True,True,2018-07-21T18:16:04Z,2018-07-21T18:16:04Z,0,2,0,1,5,0,5,224467.0
+87,"Added Django, ML, blockchain and Image Processing tutorials",0,True,False,,2018-07-19T03:29:36Z,0,2,5,1,309,293,602,0
+99,Added OpenCV tutorials,0,True,True,2018-07-19T03:44:33Z,2018-07-19T03:44:33Z,0,2,0,1,6,0,6,54.0
+96,Added 3 new links.,95,True,True,2018-07-19T03:42:02Z,2018-07-19T03:42:02Z,0,2,0,1,4,0,4,572686.0
+98,Added a tutorial on making ToDo App with Angular 5. Also updated descriptions of some Angular links.,100,True,True,2018-07-19T03:41:37Z,2018-07-19T03:41:37Z,0,2,0,1,5,2,7,223474.0
+97,Added a todo app project in Angular 5,0,True,False,,2018-07-16T13:19:02Z,0,1,1,1,1,0,1,0
+75,Add tutorial about writing concurrent servers.,201,True,True,2018-06-14T15:34:39Z,2018-06-14T15:34:39Z,1,2,2,1,17,6,23,3130502.0
+88,"Add ""Writing a Linux Debugger"" tutorial series.",0,True,True,2018-06-14T15:27:13Z,2018-06-14T15:27:13Z,1,2,0,1,11,0,11,519682.0
+89,Add multi-tenant app with Laravel project,0,True,True,2018-06-14T15:33:10Z,2018-06-14T15:33:11Z,0,2,0,1,11,0,11,336841.0
+80,Add tutorial about writing a Space Invaders game,80,True,True,2018-05-27T23:16:29Z,2018-05-27T23:16:29Z,0,2,0,1,5,0,5,18597.0
+81,Add Tetris tutorial,57,True,True,2018-05-27T23:17:54Z,2018-05-27T23:17:54Z,1,2,0,1,1,0,1,18620.0
+82,Add a matrix multiplication tutorial,94,True,True,2018-05-30T04:11:35Z,2018-05-30T04:11:35Z,1,2,0,1,1,0,1,209008.0
+84,"Added Python ""Build a RESTful API with Flask – The TDD Way""",0,True,True,2018-06-03T19:33:21Z,2018-06-03T19:33:21Z,1,1,0,1,1,0,1,517782.0
+85,Added Angular and React tutorials,0,True,True,2018-06-03T19:32:58Z,2018-06-03T19:32:58Z,1,2,1,1,5,1,6,453865.0
+78,Update README.md,65,True,True,2018-05-30T04:10:27Z,2018-05-30T04:10:27Z,0,2,0,1,1,1,2,449061.0
+79,"Added React,Hapi and R tutorials",0,True,True,2018-05-27T23:16:00Z,2018-05-27T23:16:00Z,1,2,1,1,5,0,5,228404.0
+77,Added Machine Learning and Javascript tutorials,0,True,True,2018-05-24T19:47:44Z,2018-05-24T19:47:44Z,1,2,1,1,6,0,6,130664.0
+76,"Added Object Detection, Sentiment Analysis, Scraping, HTML and D3.js Tutorials",0,True,True,2018-05-13T19:21:57Z,2018-05-13T19:21:57Z,0,2,1,1,15,4,19,214747.0
+67,Add Handmade Hero tutorial.,175,True,True,2018-04-27T17:25:36Z,2018-04-27T17:25:36Z,1,2,0,1,2,1,3,615446.0
+49,Added a 10 days JavaScript basics tutorial,0,True,False,,2018-05-04T18:57:38Z,0,3,1,1,1,0,1,0
+74,Added ML and DL tutorials,0,True,True,2018-05-03T06:08:35Z,2018-05-03T06:08:35Z,0,2,3,1,3,0,3,214908.0
+73,"Added React,Web Scraping and AI Tutorials",0,True,True,2018-04-30T10:33:04Z,2018-04-30T10:33:04Z,1,2,0,1,6,0,6,104023.0
+72,Added Deep Learning and Machine Learning Tutorials,0,True,True,2018-04-26T21:39:59Z,2018-04-26T21:39:59Z,1,2,0,1,6,0,6,103516.0
+71,"Added HTML/CSS topic,React,Python and R tutorials",0,True,True,2018-04-24T18:59:37Z,2018-04-24T18:59:37Z,1,2,1,1,10,0,10,212872.0
+70,Vue.js Application Tutorial – Creating a Simple Budgeting App with Vue,0,True,True,2018-04-22T00:50:01Z,2018-04-22T00:50:01Z,1,2,0,1,1,0,1,21562.0
+69,"Added React,Node and Deep Learning Tutorials",0,True,True,2018-04-21T18:36:37Z,2018-04-21T18:36:37Z,1,2,0,1,3,0,3,31404.0
+68,Sort README.md Table of Contents,56,True,True,2018-04-20T20:10:30Z,2018-04-20T20:10:30Z,0,2,2,1,6,6,12,19276.0
+66,"Added JS,Flask,Python Tutorials and Restructured Django Tutorials",0,True,True,2018-04-21T07:14:53Z,2018-04-21T07:14:53Z,0,2,1,1,16,2,18,88920.0
+62,Add tutorial about creating Breakout game clone,248,True,True,2018-04-20T04:16:50Z,2018-04-20T04:16:50Z,0,2,0,1,18,1,19,54609.0
+65,"Added Machine Learning,Go Tutorials and Restructured Topics List",0,True,True,2018-04-20T06:09:20Z,2018-04-20T06:09:20Z,0,2,0,1,5,0,5,169.0
+64,Restructured for Node.js separate topic and Added Node.js and D3.js tutorials ,0,True,True,2018-04-20T05:35:35Z,2018-04-20T05:35:35Z,0,2,3,1,31,21,52,986.0
+60,Restructured for separate Node.js topic ,0,True,False,,2018-04-20T05:23:52Z,0,2,2,1,10,4,14,0
+61,"Javascript: ""Vue 2 + Firebase Authentication App""",104,True,True,2018-04-20T04:17:17Z,2018-04-20T04:17:17Z,1,1,0,1,4,0,4,79614.0
+54,Add Rust tutorial about writing a chat service.,94,True,True,2018-04-16T23:02:05Z,2018-04-16T23:02:05Z,0,2,0,1,3,0,3,62868.0
+53,Add BYTEPATH tutorial,204,True,True,2018-04-16T23:01:24Z,2018-04-16T23:01:24Z,0,2,0,1,23,0,23,63605.0
+59,Add: Building a JIRA integration with Clojure & Atlassian Connect,0,True,True,2018-04-17T18:48:19Z,2018-04-17T18:48:19Z,0,1,0,1,1,0,1,1433.0
+58,Added Django and Node.js tutorials,0,True,True,2018-04-17T16:00:10Z,2018-04-17T16:00:10Z,0,2,2,1,4,1,5,1283.0
+56,"Javascript: ""How to write your own Virtual DOM""",0,True,True,2018-04-17T15:36:03Z,2018-04-17T15:36:03Z,1,1,0,1,1,0,1,41219.0
+55,Added Node.js Bot Twitter Tutorial ,0,True,True,2018-04-16T23:00:52Z,2018-04-16T23:00:52Z,0,2,0,1,1,0,1,58493.0
+52,"Add ""BYTEPATH: Creation of a Complete Game with Lua and LÖVE""",217,True,False,,2018-04-16T04:37:57Z,0,1,0,1,23,0,23,0
+51,"Added ""Building a Spell-Checker in Clojure""",0,True,True,2018-03-02T13:46:19Z,2018-03-02T13:46:19Z,0,2,0,1,1,0,1,284434.0
+45,Added Python Deep Learning,108,True,True,2017-10-25T18:22:17Z,2017-10-25T18:22:17Z,0,2,0,1,2,0,2,18011.0
+43,Write an Sqlite Clone from Scratch in C,0,True,True,2017-10-09T19:19:23Z,2017-10-09T19:19:23Z,0,2,0,1,1,0,1,565635.0
+41,Python tutorial - build a tweet bot,0,True,True,2017-09-25T05:04:52Z,2017-09-25T05:04:52Z,0,2,0,1,1,0,1,1723512.0
+40,Add write a hash table in C tutorial,0,True,True,2017-08-24T22:06:54Z,2017-08-24T22:06:54Z,0,2,1,1,2,1,3,15672.0
+39,Adding elixir section + build a chat app tutorial,0,True,True,2017-07-14T13:55:40Z,2017-07-14T13:55:40Z,0,2,0,1,4,0,4,25943.0
+38,Added Goodheads.io to Additional Resources,0,True,True,2017-07-14T00:41:40Z,2017-07-14T00:41:40Z,1,2,0,1,1,0,1,54277.0
+37,Added Thinkster.io to Additional Resources,0,True,True,2017-07-13T03:41:54Z,2017-07-13T03:41:54Z,1,2,0,1,1,0,1,13685.0
+36,Build A Support Ticket Application With AdonisJs,0,True,True,2017-07-11T14:07:37Z,2017-07-11T14:07:37Z,1,2,0,1,4,0,4,36694.0
+35,Build a Live Code-reloader Library for C++,0,True,True,2017-07-11T03:05:30Z,2017-07-11T03:05:30Z,0,2,0,1,1,0,1,187.0
+34,Build Realtime Chat App With Laravel and Vuejs,0,True,True,2017-06-30T22:13:39Z,2017-06-30T22:13:39Z,0,2,0,1,1,0,1,84387.0
+31,Added 'Hacking With Swift' online tutorial,0,True,True,2017-06-26T00:59:26Z,2017-06-26T00:59:26Z,0,2,0,1,4,0,4,2890480.0
+33,Build a web application with Django and AngularJS,0,True,True,2017-06-26T00:58:44Z,2017-06-26T00:58:44Z,0,2,0,1,1,0,1,3425.0
+32,Updated Python Bot Telegram tutorials,39,True,True,2017-06-13T14:04:33Z,2017-06-13T14:04:33Z,0,2,0,1,3,1,4,37416.0
+3,Add PHP tutorial,109,True,False,,2017-05-23T15:30:13Z,0,3,5,1,4,0,4,0
+30,corrected typo in README.md,0,True,True,2017-05-22T14:23:22Z,2017-05-22T14:23:22Z,0,2,0,1,1,1,2,128126.0
+29,url rollback-javascript desktop application,56,True,True,2017-05-22T14:24:21Z,2017-05-22T14:24:21Z,0,2,0,1,1,1,2,262875.0
+17,Updated link in README.md,67,True,False,,2017-05-15T02:39:29Z,0,2,2,1,1,1,2,0
+25,Adds JavaScript tutorial to build small 30 things,0,True,True,2017-05-11T22:02:44Z,2017-05-11T22:02:44Z,0,2,0,1,2,0,2,28667.0
+24,Adding SilverStripe example in,169,True,True,2017-05-11T22:01:49Z,2017-05-11T22:01:49Z,0,2,0,1,2,1,3,29508.0
+26,add javascript30.com course,0,True,False,,2017-05-11T16:43:52Z,0,1,1,1,3,0,3,0
+20,Added Clojure Twitter Bot Tutorial,0,True,True,2017-05-11T05:45:46Z,2017-05-11T05:45:46Z,0,2,0,1,4,0,4,24439.0
+21,Added Out-Of-Date section to Haskell,0,True,True,2017-05-11T05:45:09Z,2017-05-11T05:45:09Z,0,2,0,1,2,1,3,10098.0
+19,"add PHP tutorial series ""Make your own blog""",0,True,True,2017-05-11T05:44:24Z,2017-05-11T05:44:24Z,0,2,0,1,1,0,1,82004.0
+16,React music player part 3 - fixed broken link,35,True,True,2017-05-08T21:27:51Z,2017-05-08T21:27:51Z,0,2,0,1,1,1,2,43536.0
+15,add haskell project write-you-a-scheme-v2,204,True,True,2017-05-08T06:39:15Z,2017-05-08T06:39:15Z,0,2,1,1,1,0,1,250.0
+13,Added Telegram bot creation tutorial,73,True,True,2017-05-06T22:55:18Z,2017-05-06T22:55:18Z,0,2,0,1,1,0,1,23653.0
+14,Update R tutorial link,125,True,True,2017-05-06T22:54:44Z,2017-05-06T22:54:44Z,0,2,0,1,1,1,2,21703.0
+11,Added Laravel Blog Tutorial,0,True,True,2017-05-05T22:14:55Z,2017-05-05T22:14:55Z,0,2,2,1,4,0,4,85599.0
+12,Added Mobile Application Dev. With React Native,48,True,True,2017-05-05T22:14:28Z,2017-05-05T22:14:28Z,0,2,0,1,8,0,8,57357.0
+9,add angular2+ hacker news tutorial,172,True,True,2017-05-02T20:07:06Z,2017-05-02T20:07:06Z,0,3,1,1,3,0,3,12639.0
+8,"Grouping Python tutorials by theme (ie. WebApps, Scraping, Bots and so on)",0,True,True,2017-05-02T01:35:53Z,2017-05-02T01:35:53Z,0,2,0,1,10,6,16,2135.0
+6,Fix typo in JavaScript section,1,True,True,2017-05-01T14:33:20Z,2017-05-01T14:33:20Z,0,2,0,1,1,1,2,1586.0
+4,Added Best Full Stack Redux Tutorial :tada:,0,True,True,2017-05-01T12:38:33Z,2017-05-01T12:38:33Z,0,2,0,1,1,0,1,15441.0
+1,Create a blog webapp in Django,0,True,True,2017-04-28T23:26:38Z,2017-04-28T23:26:38Z,0,2,4,1,1,0,1,10807.0
+2,Add more go tutorials,79,True,True,2017-04-28T20:34:02Z,2017-04-28T20:34:02Z,0,2,0,1,2,0,2,115.0

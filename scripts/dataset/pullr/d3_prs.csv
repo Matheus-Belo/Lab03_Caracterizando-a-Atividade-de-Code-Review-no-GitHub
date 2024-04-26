@@ -1,0 +1,1164 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+3845,Added a Github link to the DefinitelyTyped,110,True,True,2024-04-25T14:42:03Z,2024-04-25T14:42:03Z,1,2,0,1,1,1,2,1510.0
+3844,docs: fix typo in polygonCentroid example,70,True,True,2024-04-25T13:42:29Z,2024-04-25T13:42:29Z,1,2,0,1,1,1,2,32045.0
+3834,fix: monorepo,0,True,False,,2024-03-25T10:46:38Z,0,1,0,36,5259,2154,7413,0
+3804,documentation for schemeObservable10,71,True,True,2024-03-12T21:20:10Z,2024-03-12T21:20:10Z,0,2,0,5,832,675,1507,8837425.0
+3803,Documentation for d3-geo#281,31,True,True,2024-03-12T21:17:10Z,2024-03-12T21:17:11Z,1,2,0,1,1,1,2,9783411.0
+3816,Fix svg syntax for JSX code samples in getting-started with React,135,True,True,2024-01-29T16:31:44Z,2024-01-29T16:31:44Z,1,2,0,1,4,4,8,19912.0
+3808,Remove defunct newsletter signup link from footer,0,True,True,2023-12-14T22:17:48Z,2023-12-14T22:17:48Z,1,3,0,1,0,1,1,3207.0
+3477,Add a configuration file of GitHub Action for ESLint,415,True,False,,2021-06-11T17:50:21Z,1,2,0,5,948,6,954,0
+3801,"Remove mastodon link, change twitter to x",0,True,True,2023-11-07T22:50:47Z,2023-11-07T22:50:47Z,1,2,0,1,1,2,3,907.0
+3796,Update value.md,39,True,True,2023-11-03T15:11:27Z,2023-11-03T15:11:28Z,1,2,0,1,1,1,2,2720.0
+3780,Edit sentence to fix potential typo and for consistency,461,True,True,2023-10-30T14:43:06Z,2023-10-30T14:43:06Z,0,3,1,1,1,1,2,1646098.0
+3785,scaleTime example,100,True,True,2023-10-23T16:33:40Z,2023-10-23T16:33:40Z,1,2,0,1,1,1,2,10546.0
+3782,always have exactly two/three elements,0,True,True,2023-10-15T07:17:56Z,2023-10-15T07:17:56Z,4,3,0,2,3,3,6,134487.0
+3781,Update Slack invite links,120,True,True,2023-10-12T23:19:58Z,2023-10-12T23:19:58Z,1,2,0,3,4,4,8,4944.0
+3779,Fix small typo,0,True,True,2023-10-11T13:04:02Z,2023-10-11T13:04:02Z,1,2,0,1,1,1,2,476.0
+3776,"restructure README, redirect API",5,True,True,2023-10-06T16:59:53Z,2023-10-06T16:59:53Z,1,2,0,3,3,1537,1540,4520.0
+3773,single module,101,True,True,2023-10-05T19:25:29Z,2023-10-05T19:25:29Z,1,2,1,1,16,0,16,9727.0
+3774,remove newsletter link for now,0,True,True,2023-10-05T19:12:59Z,2023-10-05T19:12:59Z,1,2,0,1,0,2,2,8432.0
+3765,Create SECURITY.md,23,True,False,,2023-09-14T19:40:50Z,0,2,1,1,21,0,21,0
+3758,fix link to example,0,True,True,2023-08-23T15:46:12Z,2023-08-23T15:46:12Z,2,2,0,1,2,2,4,4506.0
+3755,add mutation warnings,12,True,True,2023-08-21T21:05:07Z,2023-08-21T21:05:07Z,1,3,0,2,20,2,22,5429.0
+3745,docs: warn about impure `force` functions,12,True,False,,2023-08-21T19:34:50Z,0,2,5,2,8,0,8,0
+3752,Revise the force simulation document,127,True,False,,2023-08-21T18:59:05Z,0,3,1,1,2,0,2,0
+3750,Fix d3-time example,109,True,True,2023-08-21T18:09:14Z,2023-08-21T18:09:14Z,1,2,1,1,3,3,6,1059541.0
+3754,fork intent on the gallery,106,True,False,,2023-08-21T17:12:16Z,0,1,0,1,7,1,8,0
+3747,fix broken link,0,True,True,2023-08-08T14:06:07Z,2023-08-08T14:06:07Z,0,2,0,1,1,1,2,1970.0
+3698,a few links to notebooks that have been refreshed,26,True,True,2023-07-29T16:44:37Z,2023-07-29T16:44:37Z,1,2,2,18,25,25,50,2107880.0
+3746,rel=external,107,True,True,2023-07-29T17:08:38Z,2023-07-29T17:08:38Z,0,1,0,2,442,439,881,106.0
+3695,remove line hash,0,True,True,2023-06-25T15:02:26Z,2023-06-25T15:02:26Z,1,2,0,1,1,1,2,17802.0
+3694,Update README.md,0,True,False,,2023-06-21T15:34:00Z,0,2,0,1,1,1,2,0
+3680,an intro for axis,118,True,True,2023-06-16T20:41:47Z,2023-06-16T20:41:47Z,2,2,4,2,81,30,111,137248.0
+3682,link to the chord example ,74,True,True,2023-06-16T12:55:26Z,2023-06-16T12:55:26Z,0,1,0,1,1,1,2,91.0
+3670,example chord,185,True,True,2023-06-15T18:43:45Z,2023-06-15T18:43:45Z,1,2,3,2,83,6,89,340739.0
+3669,add color,71,True,True,2023-06-15T18:02:34Z,2023-06-15T18:02:34Z,1,2,1,3,67,24,91,338428.0
+3681,variety of,24,True,True,2023-06-15T06:58:48Z,2023-06-15T06:58:48Z,1,2,0,1,1,1,2,1407.0
+3679,Simplify the quotes for readability,67,True,False,,2023-06-15T06:40:50Z,1,2,1,1,3,3,6,0
+3678,fixes radio button alignment on Safari,30,True,True,2023-06-14T16:43:16Z,2023-06-14T16:43:16Z,1,2,0,1,1,0,1,247.0
+3673,test documentation links,253,True,True,2023-06-13T16:57:29Z,2023-06-13T16:57:29Z,1,2,0,5,155,79,234,112851.0
+3677,avoid rotation jumpiness,0,True,True,2023-06-13T16:33:02Z,2023-06-13T16:33:02Z,1,2,2,1,14,7,21,8577.0
+3676,State a general principle for which d3 modules compete with React,479,True,True,2023-06-12T19:35:50Z,2023-06-12T19:35:50Z,3,3,0,1,1,1,2,15916.0
+3672,fix textStroke,14,True,True,2023-06-12T13:36:51Z,2023-06-12T13:36:51Z,1,2,0,2,2,2,4,19455.0
+3668,use a comma before the conjunction separating the final item.,21,True,False,,2023-06-11T21:15:02Z,0,2,0,1,1,1,2,0
+3671,upgrade vitepress to beta.2,30,True,True,2023-06-11T20:16:52Z,2023-06-11T20:16:52Z,0,2,1,2,49,41,90,100.0
+3667,stop-gap css for maps in dark mode,189,True,False,,2023-06-09T16:56:47Z,0,2,1,5,18,16,34,0
+3666,two more anchors… hopefully the last,0,True,True,2023-06-09T16:08:58Z,2023-06-09T16:08:58Z,2,2,0,2,4,4,8,4522.0
+3662,more anchor fixes & restructure API/geo,0,True,True,2023-06-09T14:22:35Z,2023-06-09T14:22:35Z,1,2,0,10,61,79,140,25610.0
+3660,fix broken anchors,0,True,True,2023-06-09T02:36:35Z,2023-06-09T02:36:35Z,2,3,0,46,247,287,534,32824.0
+3661,Fixing broken links in docs,100,True,True,2023-06-08T21:21:39Z,2023-06-08T21:21:39Z,2,2,0,15,19,19,38,6013.0
+3654,vitepress docs,12,True,True,2023-06-08T01:30:48Z,2023-06-08T01:30:48Z,3,4,2,139,19342,136,19478,1902612.0
+3659,"Add short ""D3 in React"" section",490,True,True,2023-06-08T00:22:04Z,2023-06-08T00:22:04Z,5,2,0,1,48,0,48,4138.0
+3576,Repair package.json compatibility issues with react-native-cli,260,True,False,,2022-07-09T15:33:45Z,0,2,1,1,5,2,7,0
+3573,Test,4,True,False,,2022-05-19T19:37:12Z,0,2,0,7,27,5,32,0
+3563,First commit on my branch,19,True,False,,2022-04-08T11:11:15Z,0,1,0,6,391,0,391,0
+3562,Updated API Reference Link in README.md,150,True,True,2022-03-29T00:49:12Z,2022-03-29T00:49:12Z,0,2,1,1,1,1,2,1989.0
+3548,Update API.md,0,True,False,,2021-11-28T15:19:24Z,0,2,0,1,2,2,4,0
+598,Ordinal scale inversion,268,True,False,,2012-03-21T18:47:50Z,0,8,10,3,14,4,18,0
+3540,Update importing style from namespace to named,75,True,False,,2021-10-10T14:57:36Z,0,2,2,1,4,4,8,0
+3511,node import,27,True,False,,2021-07-04T17:17:33Z,0,2,1,1,10,2,12,0
+3521,Update Dependencies ,62,True,False,,2021-07-30T11:07:37Z,0,2,1,3,71,45,116,0
+3506,Adopt type: module.,77,True,True,2021-06-11T17:50:19Z,2021-06-11T17:50:21Z,0,2,1,16,1406,682,2088,92.0
+3454,Use @rollup/plugin-node-resolve instead of rollup-plugin-node-resolve,88,True,False,,2021-06-11T17:50:21Z,1,2,0,3,62,29,91,0
+3366,Support esm on node with conditional exports,1000,True,False,,2021-06-11T17:50:21Z,0,4,6,2,15,0,15,0
+3495,Fix broken markdown for link,0,True,True,2021-05-13T16:38:42Z,2021-05-13T16:38:42Z,0,2,0,1,1,1,2,5828.0
+3483,Update year in LICENSE,0,True,False,,2021-04-03T14:15:02Z,0,2,0,1,1,1,2,0
+3476,fix a typo in API.md,0,True,True,2021-03-15T23:00:22Z,2021-03-15T23:00:22Z,0,2,1,1,1,1,2,1230.0
+3463,Update LICENSE year,0,True,False,,2021-02-07T20:10:30Z,0,1,0,1,1,1,2,0
+3440,Add missing periods in v6 docs sentences,141,True,False,,2020-08-27T15:37:17Z,0,2,1,1,4,4,8,0
+3438,Six,437,True,True,2020-08-26T21:34:57Z,2020-08-26T21:34:57Z,3,3,3,7,1751,1623,3374,2609395.0
+3439,Remove Bower support.,0,True,True,2020-08-26T20:38:10Z,2020-08-26T20:38:10Z,1,2,0,2,4,1,5,249050.0
+3432,Update LICENCE year to 2020,0,True,False,,2020-06-05T04:39:29Z,0,2,0,1,1,1,2,0
+1299,Add xExtent and yExtent to d3.behavior.zoom (fixes #1084),651,True,False,,2015-10-21T19:51:45Z,0,15,20,1,46,5,51,0
+3363,Create SECU.HAMDOOOK.RITY.md,0,True,False,,2020-01-22T09:16:17Z,0,2,1,1,32,0,32,0
+3420,Update year in license,31,True,False,,2020-03-15T16:40:19Z,0,2,0,1,1,1,2,0
+3419,Update year to present in license,110,True,False,,2020-03-15T15:53:39Z,0,2,0,1,1,1,2,0
+3362,Delete yarn.lockGgjd,0,True,False,,2020-01-22T08:04:12Z,0,1,0,1,0,769,769,0
+3360,Update year to 2020 in License.,15,True,False,,2020-01-18T20:38:12Z,0,3,2,1,1,1,2,0
+3349,Update README.md,0,True,False,,2019-10-03T21:26:36Z,0,2,0,1,1,0,1,0
+3348,Remove beta from observablehq.com links,94,True,True,2019-09-25T05:15:43Z,2019-09-25T05:15:43Z,2,3,0,1,3,3,6,23429.0
+3343,Optimised images in repository,267,True,False,,2019-08-30T15:00:16Z,0,3,1,2,0,0,0,0
+3339,fix: fix d3-scale-chromatic images URLs in CHANGES.md,0,True,False,,2019-08-12T10:14:47Z,0,1,1,1,10,10,20,0
+3332,- Provide prebuilt ESM distributions for out-of-the-box browser use,439,True,False,,2019-08-01T15:32:10Z,0,3,2,2,20,7,27,0
+3331,- Ignore `package-lock.json`,0,True,False,,2019-08-01T15:08:48Z,0,2,1,1,1,0,1,0
+3319,improve docs on modules,0,True,False,,2019-08-01T15:08:11Z,1,5,4,1,5,1,6,0
+3318,"NPM command was not visible enough , so quoted it.",106,True,False,,2019-08-01T15:03:11Z,1,3,1,1,7,1,8,0
+3317,CI using Azure Pipelines from Microsoft,3221,True,False,,2019-08-01T15:02:27Z,2,4,3,6,160,4,164,0
+202,Add hierarchical edge bundling layout.,125,True,False,,2011-06-24T03:54:47Z,0,3,17,19,720,13,733,0
+3328,Add sideEffects: false to package.json.,110,True,False,,2019-01-19T16:20:53Z,0,4,11,1,1,0,1,0
+2222,Make named colors case-insensitive,123,True,False,,2015-02-07T16:29:33Z,0,2,1,7,23,7,30,0
+1055,Allow custom coordinate space while dragging,553,True,False,,2013-02-06T17:39:20Z,0,5,5,1,9,3,12,0
+3330,first commit,5,True,False,,2019-02-22T23:01:47Z,0,1,0,1,1,0,1,0
+3297,Updated the information about editing the wiki page.,210,True,False,,2019-01-19T16:26:50Z,3,6,2,4,4,6,10,0
+3298,API.md: radialLine must be lineRadial,138,True,True,2019-01-19T16:22:11Z,2019-01-19T16:22:11Z,2,4,0,1,11,8,19,21703087.0
+3327, Update year to 2019 in License.,0,True,False,,2019-01-08T18:49:57Z,0,2,0,1,1,1,2,0
+2216,Fix multiple drag behaviours on single element,342,True,False,,2016-10-20T17:53:33Z,0,5,7,1,2,2,4,0
+3316,Fixed typo on pow scale anchor link,0,True,False,,2018-11-23T17:22:53Z,0,3,4,1,1,1,2,0
+3304,test,4,True,False,,2018-11-01T11:04:24Z,0,1,0,1,0,57,57,0
+3302,Environment,3,True,False,,2018-10-29T15:14:52Z,0,4,1,7,23,16,39,0
+3301,fix typo: preceeding -> preceding,0,True,True,2018-08-29T20:05:38Z,2018-08-29T20:05:38Z,0,2,0,1,1,1,2,12982.0
+3300,更新,2,True,False,,2018-08-13T01:17:13Z,0,1,0,1,7,7,14,0
+3299,Update License to cover 2018,0,True,False,,2018-06-21T19:47:45Z,0,3,1,1,1,1,2,0
+3296,Set missing links for d3-contour,26,True,True,2018-05-03T13:18:18Z,2018-05-03T13:18:18Z,0,2,0,1,11,10,21,16532.0
+3288,Update LICENSE year to 2018,109,True,False,,2018-03-28T22:07:37Z,0,2,0,1,1,1,2,0
+1354,Accept function for selection append and insert.,1007,True,True,2013-07-01T18:12:59Z,2013-07-01T18:12:59Z,0,3,2,9,54,66,120,87863.0
+3283,Format Promise in CHANGES.md to be consistent,0,True,False,,2018-03-23T00:56:30Z,0,2,2,1,3,2,5,0
+3272,Add CodeTriage badge to d3/d3,1605,True,False,,2018-03-05T21:11:55Z,0,2,0,1,3,0,3,0
+3259,[update] license year,0,True,False,,2018-02-01T23:00:27Z,0,2,0,1,1,1,2,0
+3190,Update desc of color.toString to match v4 functionality,452,True,True,2018-01-18T19:48:05Z,2018-01-18T19:48:05Z,0,2,1,1,1,1,2,328.0
+3172,Update LICENSE year to 2018,0,True,False,,2018-01-03T16:59:32Z,0,3,1,1,1,1,2,0
+3170,Update license year,71,True,False,,2018-01-01T19:10:53Z,0,2,1,1,1,1,2,0
+3167,master,0,True,False,,2017-12-11T04:28:53Z,0,2,0,3,114,101,215,0
+2403,Pointer events for the drag behavior.,1590,True,False,,2016-10-20T17:53:33Z,0,5,5,4,44,15,59,0
+3153,Bringing an update to my fork,0,True,False,,2017-10-16T10:32:37Z,0,1,0,0,0,0,0,0
+3114,Adding some missing descriptions...,185,True,True,2017-10-02T17:09:00Z,2017-10-02T17:09:00Z,8,6,1,1,23,22,45,7512599.0
+3149,jjoo,9,True,False,,2017-10-01T21:50:56Z,0,21,0,486,2836,46053,48889,0
+3148,Fix stream invalidation on precision change.,0,True,False,,2017-10-01T18:13:37Z,0,2,0,4,28,18,46,0
+2115,Remove function declaration inside conditional.,423,True,False,,2014-11-14T20:56:51Z,0,2,2,3,4,4,8,0
+2101,Shorten.,89,True,False,,2014-11-14T20:57:25Z,0,2,2,3,3,3,6,0
+2086,Remove references to undefined.,136,True,False,,2014-11-14T20:59:25Z,0,2,3,7,35,17,52,0
+1912,"Add getters for transition.{attr,style,text}.",26,True,False,,2016-05-14T16:30:50Z,0,2,7,8,133,42,175,0
+1855,"Remove all listeners with selection.on(""*"", null).",233,True,False,,2016-10-20T17:53:41Z,0,4,7,4,49,24,73,0
+1819,Add voronoi.topology.,0,True,False,,2016-01-16T00:18:56Z,0,5,13,3,120,16,136,0
+1813,Better fix for d3.geo.conicConformal.,257,True,False,,2016-10-20T17:53:41Z,0,2,4,4,26,21,47,0
+1688,Add d3.geo.path.distance.,155,True,False,,2016-10-20T17:53:32Z,0,2,0,4,62,5,67,0
+1197,Fix Firefox time interval bug for Europe/London.,799,True,False,,2016-05-14T16:45:22Z,0,3,31,9,225,67,292,0
+3139,Checkpoint.,0,True,False,,2017-09-06T00:26:08Z,0,2,0,8,327,162,489,0
+3120,Update README.md,8,True,False,,2017-07-20T02:22:15Z,0,2,0,1,3,0,3,0
+2151,Implemented ISO 8601 %V directive in time format,460,True,False,,2016-10-20T17:53:33Z,0,4,5,8,125,7,132,0
+3103,Testing,0,True,False,,2017-05-31T06:05:49Z,0,1,0,1,3,0,3,0
+3101,Update .travis.yml,0,True,False,,2017-05-12T15:15:10Z,0,2,0,1,1,0,1,0
+3092,Merge remote-tracking branch 'd3/master',0,True,False,,2017-04-05T22:48:24Z,0,2,0,0,0,0,0,0
+3085,Update year to 2017 in License,88,True,True,2017-03-22T15:38:04Z,2017-03-22T15:38:04Z,0,2,0,1,1,1,2,2542.0
+3082,i add some change,16,True,False,,2017-03-20T17:52:26Z,0,1,0,1,2,1,3,0
+3077,Update copyright year.,7,True,False,,2017-03-15T13:53:21Z,0,2,0,1,1,1,2,0
+1921,Always expose D3 onto the environment global,558,True,True,2014-07-12T06:02:22Z,2014-07-12T06:02:22Z,0,4,4,1,2,2,4,1524013.0
+3066,fixed inconsistent subheading levels (### or ####),0,True,True,2017-02-15T22:32:51Z,2017-02-15T22:32:51Z,0,2,2,1,9,9,18,274.0
+3063,Attempt at zoom.translateExtent.,156,True,False,,2017-02-03T22:27:02Z,0,3,2,3,31,14,45,0
+3057,"CHANGES.md --> link v3, v4 tickSizeInner & tickSizeOuter syntax",228,True,False,,2017-01-26T21:07:34Z,0,2,1,1,3,0,3,0
+3056,Missing semicolon,40,True,True,2017-01-26T18:02:36Z,2017-01-26T18:02:36Z,0,2,0,1,1,1,2,38.0
+3051,Update README.md,7,True,False,,2017-01-15T21:43:38Z,0,2,0,1,1,1,2,0
+3047,Update LICENSE,21,True,False,,2017-01-03T17:18:31Z,0,2,0,1,1,1,2,0
+3046,Update license years,0,True,False,,2016-12-31T15:49:43Z,0,2,0,1,1,1,2,0
+3033,Fix monotone,0,True,False,,2016-12-05T17:45:55Z,0,2,0,3,114,101,215,0
+3026,Correct typos in d3-axis documentation,99,True,True,2016-11-22T17:11:08Z,2016-11-22T17:11:08Z,0,2,0,1,2,2,4,51301.0
+3024,Create inicio.html,0,True,False,,2016-11-18T00:21:59Z,0,2,0,1,178,0,178,0
+3019,fixed wye decription,0,True,True,2016-11-04T14:56:38Z,2016-11-04T14:56:39Z,0,2,4,1,1,1,2,1276.0
+2443,octree and 3d force-directed graph layout,303,True,False,,2016-10-20T17:53:34Z,0,4,4,8,1252,5,1257,0
+3012,Add CDNJS version badge in readme,88,True,False,,2016-10-21T15:41:46Z,0,2,2,1,1,1,2,0
+1343,Implement inertial drag,496,True,False,,2016-10-20T17:53:31Z,0,5,7,3,179,17,196,0
+2169,Decouple rotation from clipping.,138,True,False,,2016-10-20T17:53:41Z,0,2,2,7,471,484,955,0
+1973,Translocation graph,626,True,False,,2016-10-20T17:53:41Z,0,2,1,5,298,2,300,0
+1811,%V directive and tests for issue #1782,58,True,False,,2016-10-20T17:53:40Z,0,3,2,5,59,7,66,0
+1732,add text wrapping routine,223,True,False,,2016-10-20T17:53:40Z,0,2,0,1,154,0,154,0
+1669,Replaced division with multiplication,31,True,False,,2016-10-20T17:53:40Z,0,3,2,1,1,1,2,0
+818,Update chord.js to support negative matrix values,243,True,False,,2016-10-20T17:53:40Z,0,2,0,1,2,2,4,0
+617,Added ability to specify chords with explicit relationships instead of a matrix.,897,True,False,,2016-10-20T17:53:40Z,0,3,4,1,162,61,223,0
+469,add option to arrange axis labels automatically,710,True,False,,2016-10-20T17:53:40Z,0,4,2,2,98,18,116,0
+448,initial implementation of variable width line,484,True,False,,2016-10-20T17:53:40Z,0,3,1,3,151,0,151,0
+2605,Add a property for a custom zoom factor to the zoom behavior.,217,True,False,,2016-10-20T17:53:35Z,0,2,3,1,11,4,15,0
+2571,Flextree,422,True,False,,2016-10-20T17:53:35Z,0,4,8,4,929,324,1253,0
+2547,Pointer (and MSPointer) events for the zoom behavior.,59,True,False,,2016-10-20T17:53:35Z,0,4,5,3,268,15,283,0
+2238,Skip creating half edges when we don't have a second vertex,527,True,False,,2016-10-20T17:53:33Z,0,3,3,1,10,7,17,0
+2177,adding multiple rollups to nest function w/ tests,284,True,False,,2016-10-20T17:53:33Z,0,2,2,2,39,6,45,0
+2159,Add possibility to pause transition,446,True,False,,2016-10-20T17:53:33Z,0,2,0,5,86,11,97,0
+2125,Create chinese translation for d3-csv.txt,81,True,False,,2016-10-20T17:53:32Z,0,2,1,1,136,0,136,0
+2082,Add d3.product for arrays,958,True,False,,2016-10-20T17:53:32Z,0,3,1,5,70,5,75,0
+1618,"Add children(), ancestor() and parent() methods to d3.selection",3793,True,False,,2016-10-20T17:53:32Z,0,3,6,9,169,5,174,0
+1598,Allow min/max to be used as high order functions,288,True,False,,2016-10-20T17:53:32Z,0,2,3,4,14,2,16,0
+1568,Tangent space projection,159,True,False,,2016-10-20T17:53:32Z,0,2,1,2,26,1,27,0
+1441,MSPointerDown & MSGestureChange for zoom behavior.,140,True,False,,2016-10-20T17:53:32Z,0,2,2,1,32,1,33,0
+1262,Include an API for SVG transform attributes,458,True,False,,2016-10-20T17:53:31Z,0,7,8,3,112,0,112,0
+1093,Layered layout,953,True,False,,2016-10-20T17:53:31Z,0,2,0,5,210,4,214,0
+1091,add .count() to count all children leaves.,169,True,False,,2016-10-20T17:53:31Z,0,2,0,2,29,3,32,0
+1003,Use (nw|ne|se|sw)-resize for intercardinal brush cursors,189,True,False,,2016-10-20T17:53:31Z,0,2,3,1,4,4,8,0
+886,code coverage test,197,True,False,,2016-10-20T17:53:30Z,0,2,1,2,200,189,389,0
+802,method to set the global frame function,0,True,False,,2016-10-20T17:53:30Z,0,2,7,1,5,0,5,0
+631,Chordratio & new chord SVG,304,True,False,,2016-10-20T17:53:30Z,0,2,2,6,581,10,591,0
+2993,Graphics pipeline,0,True,False,,2016-10-02T03:15:10Z,0,2,0,35,2086,2388,4474,0
+2984,Native map,0,True,False,,2016-09-28T17:40:38Z,0,2,1,5,24978,8813,33791,0
+2977,Fixed typo in API reference,63,True,True,2016-09-19T20:43:03Z,2016-09-19T20:43:03Z,0,2,0,1,1,1,2,77.0
+2973,Cross platform npm build modifications.,234,True,False,,2016-09-19T16:11:15Z,0,1,0,2,27,1,28,0
+2968,Merge pull request #1 from d3/master,5,True,False,,2016-09-06T19:02:40Z,0,1,0,0,0,0,0,0
+2961,Updated npmcdn.com links to unpkg.com,119,True,True,2016-08-30T19:25:48Z,2016-08-30T19:25:48Z,0,2,1,2,4,4,8,9427.0
+1255,Redesigned d3.geo.albersUsa.,530,True,True,2013-05-20T17:31:41Z,2013-05-20T17:31:41Z,0,4,20,11,240,193,433,82281.0
+2130,Add packaging for Meteor.js.,788,True,True,2015-02-08T17:21:12Z,2015-02-08T17:21:12Z,0,8,55,3,41,1,42,6514270.0
+2920,Minor typo correction.,0,True,True,2016-07-26T20:30:38Z,2016-07-26T20:30:38Z,0,2,1,1,1,1,2,63338.0
+2916,Fixed description typo in API reference.,45,True,True,2016-07-23T11:33:25Z,2016-07-23T11:33:25Z,0,2,1,1,2,2,4,45.0
+2909,a few typos and clarifications in the changes doc,387,True,True,2016-07-18T18:55:22Z,2016-07-18T18:55:22Z,0,2,1,1,6,6,12,6396.0
+2816,Added en_IN locale,43,True,False,,2016-07-14T19:39:26Z,0,2,1,1,16,0,16,0
+2786,Added Czech locale,0,True,False,,2016-07-14T19:37:36Z,0,2,1,2,136,0,136,0
+2759,Better ticks for subsecond domains.,105,True,False,,2016-07-14T19:35:21Z,0,2,1,3,3,5,8,0
+2693,added uk_UA locale,40,True,False,,2016-07-14T19:29:08Z,0,3,4,2,136,0,136,0
+495,Add new '%s' format to d3.time.format for the ordinal date suffix.,202,True,False,,2016-07-14T19:21:50Z,0,6,11,5,52,2,54,0
+517,Support HSV colors,220,True,False,,2016-07-14T19:21:20Z,0,2,3,12,388,12,400,0
+2905,fixed link typo in API reference,0,True,True,2016-07-13T23:44:59Z,2016-07-13T23:44:59Z,0,2,0,1,1,1,2,1336.0
+2886,es6 import.,52,True,False,,2016-07-05T09:45:01Z,0,1,1,1,3,1,4,0
+2883,Remove sentence fragment,74,True,True,2016-07-01T13:59:51Z,2016-07-01T13:59:52Z,0,2,0,1,1,1,2,14883.0
+2473,Feat/pack layout padding,1232,True,False,,2016-06-28T21:23:50Z,0,2,2,4,112,71,183,0
+2871,Update my fork,0,True,False,,2016-06-27T19:25:54Z,0,1,0,0,0,0,0,0
+2870,Updates,0,True,False,,2016-06-27T18:32:29Z,0,1,1,0,0,0,0,0
+2869,Fixed incorrect links in API.md,0,True,True,2016-06-27T18:28:46Z,2016-06-27T18:28:46Z,0,2,1,1,57,57,114,370.0
+2867,D3 slider,47,True,False,,2016-06-27T16:25:35Z,0,3,4,1,211,0,211,0
+2845,Add link to first mention of d3.map,69,True,True,2016-06-13T18:40:06Z,2016-06-13T18:40:06Z,0,2,0,1,1,1,2,162.0
+2843,Test,36,True,False,,2016-06-13T18:30:13Z,0,2,0,9,328,162,490,0
+2844,to be inspect -> to be inspected,213,True,True,2016-06-13T18:29:42Z,2016-06-13T18:29:42Z,0,2,0,1,1,1,2,228.0
+2639,Adds support for domainSegmented() on quantitative scales.,832,True,False,,2016-04-06T21:01:09Z,0,2,5,8,113,4,117,0
+2616,Suitably zealous click canceling.,130,True,False,,2015-11-12T14:05:54Z,0,3,12,4,6,7,13,0
+2019,Add xExtent and yExtent to d3.behavior.zoom (fixes #1084),760,True,False,,2016-05-25T21:31:01Z,0,18,25,1,46,4,50,0
+1087,Attempt at zoom.translateExtent.,156,True,False,,2013-05-28T23:38:15Z,0,1,1,3,31,14,45,0
+2102,"Use .attr() instead of .style() for axis label's ""text-anchor"" assignment.",495,True,False,,2016-05-08T15:38:43Z,0,5,5,4,9,9,18,0
+2550,Only prevent default on mousewheel event when trying to zoom within the scaleExtent,11,True,False,,2016-01-30T00:23:54Z,0,2,3,3,15,9,24,0
+2444,replaced utf8 greek letter with ascii names,703,True,False,,2016-05-14T16:43:39Z,0,2,1,63,870,870,1740,0
+440,Make the voronoi implementation extensible.,956,True,False,,2016-05-14T16:34:07Z,0,4,11,1,10,1,11,0
+1557,Optimized array push() used in many files,13,True,False,,2016-05-14T16:36:45Z,0,3,4,13,111,75,186,0
+786,Adding y1 to default stackOut,119,True,False,,2016-05-14T16:35:09Z,0,2,2,1,1,0,1,0
+2490,add d3.time.milliseconds to support millisecond resolution ticks,317,True,False,,2016-05-14T16:32:37Z,0,2,2,3,243,0,243,0
+1891,re-did hierarchy to have flare.json based tests.,124,True,False,,2016-05-14T16:32:04Z,0,2,1,1,13,5,18,0
+2747,"Fire ""dragend"" on ""touchcancel""",295,True,False,,2016-05-14T16:28:12Z,0,2,1,1,6,2,8,0
+574,d3.layout.hierarchy: Allow internal nodes to have value,453,True,False,,2016-05-13T21:38:08Z,0,6,13,3,22,8,30,0
+2821,添加map百度,19,True,False,,2016-05-10T15:46:24Z,0,2,0,1,40,0,40,0
+2784,"Possible fix for #2025, handle zero-area polygons better",242,True,True,2016-05-05T00:30:20Z,2016-05-05T00:30:20Z,0,3,16,1,1,1,2,2946418.0
+2548,Fix drag behavior on for <svg:use> elements,827,True,True,2016-02-11T20:03:20Z,2016-02-11T20:03:20Z,0,3,11,3,7,7,14,13425471.0
+2818,Merge remote-tracking branch 'mbostock/master',33,True,False,,2016-04-30T14:55:59Z,0,2,0,0,0,0,0,0
+2218,Add verbose documentation to the circle pack layout.,283,True,False,,2016-04-26T23:27:11Z,0,2,1,1,79,8,87,0
+2237,Extend svg.arc.padAngle parameters.,1860,True,False,,2016-04-26T23:22:24Z,0,2,3,3,91,60,151,0
+2414,"Pass group index (""j"") to custom tween functions",462,True,False,,2016-04-26T23:20:45Z,0,2,1,6,29,20,49,0
+2795,Improve regex logic in d3_time,45,True,False,,2016-04-26T23:17:17Z,0,2,3,3,31,57,88,0
+759,Add cubic polynomial splines,436,True,False,,2016-04-26T20:33:18Z,0,5,23,4,78,8,86,0
+766,Fix for WebKit bad CTM when zoom != 1,892,True,False,,2016-04-26T21:06:55Z,0,3,3,3,102,40,142,0
+2803,Bug in safari if use as define module,187,True,False,,2016-04-26T20:15:33Z,0,2,2,1,1,1,2,0
+2730,Section for non-technical readers,696,True,False,,2016-04-26T20:22:30Z,0,4,1,1,9,0,9,0
+2732,Non-developer README contribution,410,True,False,,2016-04-26T20:20:19Z,0,2,1,1,2,1,3,0
+1991,"Quadtree, delete node",294,True,False,,2016-04-26T20:17:46Z,0,2,1,1,29,4,33,0
+2798,More comprehensive workaround for IE9.,0,True,False,,2016-04-26T20:16:02Z,0,2,1,9,51,54,105,0
+2812,Add d3.create and selection.adopt.,0,True,False,,2016-04-26T19:10:45Z,0,2,1,7,27,5,32,0
+2804,chinese locale,131,True,True,2016-04-20T14:19:57Z,2016-04-20T14:19:57Z,0,3,2,2,123,3,126,8203.0
+2379,Added ability to specify additional size for hierarchical parents,317,True,False,,2015-10-21T18:20:04Z,0,4,6,5,56,18,74,0
+2668,Tree with only one branch overlays the objects.,70,True,False,,2016-04-06T21:43:02Z,0,3,5,1,9,5,14,0
+2686,Improve performance of d3_selectionPrototype.attr,477,True,False,,2016-04-06T21:00:15Z,0,2,10,1,5,5,10,0
+671,Force alpha tweaks,46,True,False,,2014-10-15T04:58:18Z,0,3,3,1,15,1,16,0
+2782,function as single argument for selection.attr,382,True,False,,2016-03-31T16:09:31Z,0,2,1,1,6,0,6,0
+1938,Fixed Shift key blocking scroll wheel zoom,534,True,False,,2016-03-17T16:26:02Z,0,2,4,1,1,1,2,0
+2769,Centroidal voronoi,135,True,False,,2016-03-16T17:40:44Z,0,3,1,11,1413,49,1462,0
+2760,Include more metadata in bower.json; fixes #1707.,0,True,False,,2016-03-07T21:16:16Z,0,1,2,2,33,2,35,0
+2746,minor performance improvement to transition#attr,271,True,False,,2016-02-22T15:04:03Z,0,2,2,1,2,1,3,0
+2744,Variable update,221,True,False,,2016-02-20T15:44:28Z,0,3,4,5,222,222,444,0
+2723,selection.style: Allow map generating functions as a single argument,297,True,False,,2016-01-27T22:41:33Z,0,2,1,2,22,1,23,0
+2708,Fix browserify key in package.json,469,True,True,2016-01-11T23:37:16Z,2016-01-11T23:37:17Z,0,3,6,1,1,1,2,4000.0
+2391,For people that are using d3 with web components.,286,True,False,,2016-01-20T17:39:10Z,0,2,1,1,8,0,8,0
+2706,Add support for Html Imports for use with web components and polymer,0,True,False,,2016-01-20T17:35:58Z,0,2,1,3,3,1,4,0
+2714,Capitalize lines 100-103,61,True,False,,2016-01-20T17:35:09Z,0,2,1,1,4,4,8,0
+2715,Avoid global leak of d3 when AMD is used,490,True,False,,2016-01-20T17:29:00Z,0,2,1,1,1,1,2,0
+2429,Add column function to dsv.parse,789,True,False,,2016-01-06T05:01:13Z,0,2,1,2,20,2,22,0
+2699,Updated copyright to 2016,0,True,False,,2016-01-02T16:53:38Z,0,2,0,1,1,1,2,0
+2700,Updated year in licence,0,True,False,,2016-01-02T16:53:31Z,0,2,0,1,1,1,2,0
+2695,Platlets,249,True,False,,2015-12-30T16:49:57Z,0,2,5,1,114,0,114,0
+2516,fix bug of monotone curve in local extremum,188,True,False,,2015-11-30T03:04:49Z,0,2,1,1,15,0,15,0
+2552,Check if NaN,74,True,False,,2015-10-21T17:26:53Z,0,2,1,2,13,7,20,0
+2679,"Adding ""firstTick"" method to the axis function",641,True,False,,2015-12-14T21:13:19Z,0,1,1,4,55,11,66,0
+2675,Remove trailing 0 error from chord group value,191,True,True,2015-12-14T19:17:06Z,2015-12-14T19:17:06Z,0,2,1,1,1,1,2,296718.0
+2655,3.5.10,0,True,True,2015-11-30T02:40:19Z,2015-11-30T02:40:19Z,0,1,0,3,3,3,6,380227.0
+2650,Fix #2646 tree root handle one child,481,True,False,,2015-11-28T05:56:01Z,0,2,2,1,1,1,2,0
+2022,Zoom behavior with custom scaling,1125,True,False,,2015-12-05T00:07:28Z,0,2,6,3,52,18,70,0
+1799,Pointer events for the drag behavior.,0,True,False,,2015-12-03T17:32:17Z,0,2,6,3,54,33,87,0
+2658,npm ignore the `src` dir`,41,True,False,,2015-11-30T02:29:33Z,0,2,1,1,1,0,1,0
+2654,Fix bug in force in which simulation did not stop if alpha was set to…,6,True,False,,2015-11-25T17:01:06Z,0,2,2,1,4,1,5,0
+2649,Merge pull request #1 from mbostock/master,14,True,False,,2015-11-23T19:13:59Z,0,1,1,0,0,0,0,0
+2614,Fix #2613 - avoid Firefox hoisting bug.,110,True,True,2015-11-10T16:34:40Z,2015-11-10T16:34:40Z,0,1,0,3,143,139,282,2232.0
+2638,3.5.9,0,True,True,2015-11-16T16:02:57Z,2015-11-16T16:02:57Z,0,1,0,6,29,29,58,352639.0
+2591,3.5.7,0,True,True,2015-11-10T03:58:11Z,2015-11-10T03:58:11Z,0,6,0,100,1075,895,1970,1582148.0
+2608,fix collections `forEach` method to follow JS spec,158,True,False,,2015-11-06T04:11:59Z,0,2,3,11,40,29,69,0
+2128,Zoom behavior: clip scale to scaleExtent,361,True,False,,2015-11-02T18:23:48Z,0,2,1,3,5,4,9,0
+2600,Cancel pre-empted transitions synchronously.,288,True,True,2015-10-25T22:20:05Z,2015-10-25T22:20:05Z,0,1,2,7,128,72,200,2026.0
+2091,layout/force: handle case of zero weight on both linked nodes,297,True,False,,2015-10-26T03:46:57Z,0,2,2,3,7,7,14,0
+2420,Layout.pie: Division by zero when sum(values) is 0,39,True,False,,2015-10-26T03:22:37Z,0,2,1,1,2,1,3,0
+2599,Added Hungarian locale,40,True,True,2015-10-26T03:10:53Z,2015-10-26T03:10:53Z,0,2,1,2,136,0,136,106623.0
+2377,transition.remove() fix,624,True,False,,2015-10-25T22:20:28Z,0,2,3,9,40,13,53,0
+2598,Fix for null node in selection.data.,370,True,True,2015-10-24T15:57:54Z,2015-10-24T15:57:54Z,0,1,0,2,42,6,48,86.0
+2194,Fixed NaN path issue on rounded corners for animated arcs (arcTween),211,True,False,,2015-10-22T21:06:35Z,0,5,3,1,1,0,1,0
+2228,Simpler no-global for CommonJS.,66,True,False,,2015-10-22T20:35:33Z,0,2,1,5,5,15,20,0
+2376,Fix `d3.selectAll(HTMLCollection)`,454,True,False,,2015-10-22T20:29:27Z,0,2,1,4,7,3,10,0
+2209,IE8 fix: filter __proto__ from for..in loops,818,True,False,,2015-10-22T05:28:35Z,0,3,7,3,40,18,58,0
+2416,Make transitions and d3.timer more robust,1800,True,False,,2015-10-21T21:59:19Z,0,2,3,2,24,4,28,0
+1964,Array min&max,88,True,False,,2015-10-21T20:00:25Z,0,3,3,6,45,19,64,0
+2090,Optimize d3.keys,456,True,False,,2015-10-21T19:40:24Z,0,4,3,4,49,11,60,0
+2121,add Japanese translation.,0,True,False,,2015-10-21T19:19:24Z,0,2,1,6,48,32,80,0
+2150,Fix clearTimeout usage,344,True,False,,2015-10-21T19:16:53Z,0,2,2,3,16,6,22,0
+2362,Create de-CH.js,24,True,False,,2015-10-21T18:51:52Z,0,2,1,1,15,0,15,0
+2383,Created Korean locale (ko-KR),0,True,True,2015-10-21T18:44:02Z,2015-10-21T18:44:02Z,0,2,1,1,16,0,16,17068558.0
+2389,Refactor interpolators from svg/line to svg/interpolator,195,True,False,,2015-10-21T18:37:32Z,0,2,1,5,377,346,723,0
+2397,added proposed tickFormat issue fix,624,True,False,,2015-10-21T18:33:31Z,0,2,2,1,2,1,3,0
+2480,Modify `%Z` time format specifier to parse any ISO timezone format,318,True,False,,2015-10-21T18:02:54Z,0,2,1,3,36,3,39,0
+2481,Flexible class additional ,63,True,False,,2015-10-21T17:57:06Z,0,2,3,2,20,0,20,0
+2526,make fractional steps more predictable,161,True,False,,2015-10-21T17:53:33Z,0,2,3,1,3,2,5,0
+2528,Create sv-SE.js - Swedish locale,32,True,True,2015-10-21T17:51:23Z,2015-10-21T17:51:23Z,0,2,1,1,16,0,16,5272724.0
+2530,Generic getter-setter property.,0,True,False,,2015-10-21T17:43:27Z,0,2,1,4,37,65,102,0
+2536,Add margin parameter to pack layout,280,True,False,,2015-10-21T17:35:49Z,0,2,1,3,65,4,69,0
+2537,Add missing import,138,True,False,,2015-10-21T17:32:44Z,0,2,2,1,1,0,1,0
+2555,Uglify Preserve Comments,68,True,False,,2015-10-21T17:22:34Z,0,2,1,1,1,1,2,0
+2559,add Japan locale file.,0,True,True,2015-10-21T17:09:30Z,2015-10-21T17:09:30Z,0,2,0,1,16,0,16,2861514.0
+2567,make d3.map / d3.set more like ES6 Map / Set,61,True,False,,2015-10-21T17:08:11Z,0,2,2,2,5,0,5,0
+2225,Demote JSDOM to development dependency.,610,True,False,,2015-02-07T16:34:10Z,0,4,8,22,261,201,462,0
+2568,make more like ES6 Set,75,True,False,,2015-10-01T15:01:10Z,0,1,1,1,7,0,7,0
+2405,Add Pointer Events support to d3.zoom,56,True,False,,2015-09-07T12:32:59Z,0,2,2,3,228,16,244,0
+2511,Setting attributes using a function.,680,True,False,,2015-08-06T11:58:37Z,0,2,2,2,20,0,20,0
+1652,Allow multiple locales.,1028,True,False,,2014-01-10T00:40:01Z,0,7,16,32,7215,7049,14264,0
+2504,Rotate as stream,0,True,False,,2015-07-28T13:09:19Z,0,2,0,7,535,486,1021,0
+2464,Remove moot `version` property from bower.json,22,True,False,,2015-07-04T02:59:23Z,0,2,1,1,0,1,1,0
+2360,Ignore case when detecting colors for interpolation.,12,True,True,2015-07-04T03:03:47Z,2015-07-04T03:03:47Z,0,2,2,5,19,8,27,8566052.0
+2351,Fix combined mousewheel/drag gesture.,482,True,True,2015-07-04T03:03:47Z,2015-07-04T03:03:47Z,0,3,4,3,6,8,14,8773336.0
+2436,bower.json: remove moot `version` field,22,True,True,2015-07-04T03:03:48Z,2015-07-04T03:03:48Z,0,3,0,1,0,1,1,4492427.0
+2440,update license attribute,110,True,True,2015-05-19T14:40:12Z,2015-05-19T14:40:12Z,0,2,0,1,1,6,7,15414.0
+277,Multi-value map support.,304,True,False,,2012-08-09T01:09:57Z,0,9,24,15,512,208,720,0
+2418,Add parens for d3_Map.,294,True,False,,2015-05-06T17:23:21Z,0,2,1,1,1,1,2,0
+2412,D3 grouping chart,0,True,False,,2015-05-04T10:36:53Z,0,2,1,4,186,0,186,0
+2381,Removed bold for D3,33,True,False,,2015-04-09T18:26:32Z,0,2,1,1,1,1,2,0
+2234,Changed subject of last sentence to be D3.,674,True,True,2015-04-06T22:28:16Z,2015-04-06T22:28:16Z,0,4,5,1,1,1,2,4573424.0
+2264,Added automatically generated change log file,979,True,False,,2015-03-31T20:57:54Z,0,2,1,1,5111,0,5111,0
+2356,Remove attribute when the value x is NaN,352,True,False,,2015-03-26T12:54:51Z,0,2,3,1,1,1,2,0
+2357,Be nicer to minifiers that do not handle + ++ correctly,44,True,False,,2015-03-26T12:23:24Z,0,2,1,1,1,1,2,0
+2266,Update attr.js,58,True,False,,2015-03-20T19:12:34Z,0,2,1,1,2,1,3,0
+2170,Fix quadtree find with accessors,151,True,False,,2015-02-07T16:40:15Z,0,2,1,4,12,4,16,0
+204,Micro-optimisation: remove arguments check.,482,True,False,,2011-10-28T22:28:20Z,0,3,6,3,3,3,6,0
+2233,Update README.md with serial comma,254,True,True,2015-02-12T03:10:24Z,2015-02-12T03:10:24Z,0,5,5,1,1,1,2,72600.0
+2227,3.5.4,412,True,True,2015-02-07T20:31:44Z,2015-02-07T20:31:44Z,0,5,0,29,308,220,528,14543.0
+2148,Delete .travis.yml since Travis CI isn't enabled anyway,0,True,True,2015-02-07T18:56:17Z,2015-02-07T18:56:17Z,0,2,0,1,0,3,3,5168118.0
+2154,Add Italian locale,0,True,False,,2015-02-07T16:47:04Z,0,3,2,1,16,0,16,0
+2152,Added it-IT locale,0,True,True,2015-02-07T16:46:43Z,2015-02-07T16:46:43Z,0,2,1,1,16,0,16,5033710.0
+2193,add Dutch locale,0,True,True,2015-02-07T16:43:36Z,2015-02-07T16:43:36Z,0,3,4,1,16,0,16,2100883.0
+2167,Use createElement if namespaceURI is undefined.,271,True,False,,2015-02-07T16:42:00Z,0,1,1,3,27,12,39,0
+2178,Update Copyright Year,0,True,False,,2015-02-07T16:38:26Z,0,2,1,1,1,1,2,0
+2210,Add rebeccapurple color. Fixes #2208.,26,True,False,,2015-02-07T16:36:34Z,0,2,1,3,7,5,12,0
+2221,Updated year in license,0,True,False,,2015-02-07T16:35:26Z,0,2,1,1,1,1,2,0
+2223,Fix #1491: d3.transition() broken in IE9.,504,True,False,,2015-02-07T06:57:15Z,0,3,2,4,19,15,34,0
+1250,enable configuration of a different window object,1365,True,False,,2015-02-07T06:55:19Z,0,5,21,7,23,16,39,0
+2188,Add note about purpose of GitHub issues to CONTRIBUTING.md.,100,True,True,2015-01-26T09:15:18Z,2015-01-26T09:15:18Z,0,1,0,1,3,1,4,1155241.0
+2171,Simplify some `conf` and `md` files.,341,True,False,,2015-01-19T18:30:21Z,0,1,0,6,6,15,21,0
+2145,3.5.2,0,True,True,2014-12-09T18:12:37Z,2014-12-09T18:12:27Z,0,1,0,4,33,6,39,79942.0
+1901,Add quadtree.find.,0,True,False,,2014-11-14T21:15:06Z,0,2,4,4,117,16,133,0
+1896,Add ordinal rangeRoundPoints. Fixes #1760.,0,True,False,,2014-11-14T20:59:55Z,0,1,1,4,108,13,121,0
+1983,"Add transition ""interrupt"" event.",0,True,False,,2014-11-14T20:59:50Z,0,2,2,5,27,25,52,0
+2084,Named transitions.,16,True,False,,2014-11-14T20:59:29Z,0,3,4,16,126,107,233,0
+2087,Fix extra stroke when drawing points.,143,True,False,,2014-11-14T20:59:22Z,0,2,2,3,3,3,6,0
+2089,Fix #2031 - Create a map from an array.,613,True,False,,2014-11-14T20:57:31Z,0,1,1,4,37,10,47,0
+2116,Allow garbage collection of inherited transition.,705,True,False,,2014-11-14T20:56:41Z,0,1,1,4,14,8,22,0
+2045,Allow ease/duration to be set in tween factory.,482,True,False,,2014-12-06T21:48:02Z,0,2,10,3,10,5,15,0
+2118,3.5,1281,True,True,2014-12-06T22:29:29Z,2014-12-06T22:29:28Z,0,6,0,57,1248,430,1678,1906401.0
+1523,d3.index,525,True,False,,2014-12-06T21:35:46Z,0,3,4,5,36,4,40,0
+2134,FIX bower shouldn't download certain files #2104,45,True,False,,2014-12-06T21:26:49Z,0,2,2,1,3,1,4,0
+2129,Update the description,75,True,False,,2014-12-06T21:31:44Z,0,2,1,1,1,1,2,0
+2136,BUGFIX: fix strict mode syntax error,17,True,False,,2014-12-04T21:40:11Z,0,2,3,1,1,1,2,0
+1132,Implemented d3.svg.arc.cornerRadius ,525,True,False,,2014-11-17T19:12:57Z,0,6,10,4,242,43,285,0
+1516,Added `padding` to `d3.layout.pie`,366,True,False,,2014-11-17T19:12:23Z,0,9,20,2,119,3,122,0
+2122,Replace padding with padAngle.,106,True,True,2014-11-17T19:02:26Z,2014-11-17T19:02:26Z,0,1,1,4,71,33,104,40725.0
+2120,Partial implementation of arc.cornerRadius.,196,True,True,2014-11-17T06:09:36Z,2014-11-17T06:09:36Z,0,1,0,4,115,43,158,23953.0
+1866,d3.shuffle a subset of an array and tests for d3.shuffle.,324,True,False,,2014-11-15T22:36:05Z,0,2,2,4,49,7,56,0
+1961,"Add d3.shuffle(array[, i0[, i1]]).",787,True,False,,2014-11-14T22:14:50Z,0,5,9,4,63,9,72,0
+1749,control of d3.svg.arc sweep direction,466,True,False,,2014-11-15T17:00:58Z,0,3,3,4,61,18,79,0
+1073,Added Variance and Corrected Standard Deviation to core array functions,440,True,False,,2014-11-14T21:32:11Z,0,13,24,7,152,4,156,0
+2001,"Add Canadian locales (en-CA, fr-CA)",0,True,False,,2014-11-14T20:59:46Z,0,2,1,2,32,0,32,0
+2070,Added Polish locale file,0,True,False,,2014-11-14T20:59:37Z,0,2,1,1,16,0,16,0
+2080,Added compose as a dependency of rotation.,201,True,False,,2014-11-14T20:59:34Z,0,3,2,3,15,14,29,0
+1028,Allow type conversion in dsv.parse,1280,True,False,,2013-03-02T21:50:48Z,0,4,8,5,70,14,84,0
+2098,Update .gitignore,7,True,False,,2014-10-31T10:47:25Z,0,2,0,1,1,1,2,0
+1930,#1036 bug fix for IE9 as it throws an exception instead of ignoring the ...,83,True,False,,2014-07-12T04:48:15Z,0,2,2,2,11,7,18,0
+2077,Add better handling for returning undefined.,341,True,False,,2014-10-23T17:29:15Z,0,3,3,1,12,9,21,0
+2085,Use zero-padded day of the month in DE+FR,122,True,True,2014-10-23T17:25:17Z,2014-10-23T17:25:17Z,0,2,1,2,2,2,4,1002.0
+2011,Fixes Bug 2010 - d3.dsv.parseRows dropping falsy values,15,True,False,,2014-10-17T05:43:08Z,0,2,1,1,1,1,2,0
+1638,Don’t output points at exactly -180° when clipping.,1833,True,False,,2013-11-18T16:56:13Z,0,2,1,5,48,35,83,0
+2073,Consolidate duplicate code.,25,True,False,,2014-10-17T06:06:41Z,0,1,1,3,38,99,137,0
+2065,"Optimize d3.{map,set}.",445,True,False,,2014-10-17T05:19:27Z,0,3,6,8,179,68,247,0
+2074,"Optimize d3.map, d3.set and selection.data.",147,True,False,,2014-10-17T06:06:37Z,0,2,2,9,149,100,249,0
+2057,Fix #2039: improve [un]interpolateNumber precision.,1475,True,False,,2014-10-17T06:07:00Z,0,2,13,8,28,25,53,0
+1943,Fix reported center.,0,True,True,2014-07-17T22:58:51Z,2014-07-17T22:58:52Z,0,2,1,4,12,5,17,63379.0
+2068,"Fix coercion in d3.{mean,median}. Fix d3.format(""-"").",29,True,False,,2014-10-17T06:06:44Z,0,2,2,12,100,25,125,0
+2063,Fix d3.lab(d3.hcl(…)).,241,True,False,,2014-10-17T06:06:47Z,0,2,2,7,262,260,522,0
+2059,"Fix #2010 - check for nully, not falsey.",0,True,False,,2014-10-17T06:06:53Z,0,2,2,5,31,3,34,0
+2000,Fix group formatting and padding.,344,True,False,,2014-10-17T06:07:03Z,0,2,2,4,71,23,94,0
+2060,Prevent leak of d3 global in node.,12,True,False,,2014-10-17T06:06:51Z,0,2,2,2,26,16,42,0
+1969,d3.svg.axis: avoid setting invalid transform attr.,469,True,False,,2014-10-17T06:07:06Z,0,2,9,3,19,17,36,0
+2058,Fix d3.layout.stack for empty input array.,12,True,False,,2014-10-17T06:06:56Z,0,2,2,3,6,4,10,0
+2075,3.4.13,0,True,True,2014-10-17T11:55:37Z,2014-10-17T11:55:37Z,0,3,0,38,677,464,1141,20950.0
+2064,"Optimize selection.data(values, key)",319,True,False,,2014-10-17T05:19:31Z,0,3,7,4,51,19,70,0
+1672,Play nicer with browserify,525,True,False,,2014-01-09T21:57:24Z,0,3,5,6,7,11,18,0
+1957,Adding Hebrew and Macedonian Locales,98,True,False,,2014-10-10T17:11:11Z,0,2,1,2,32,0,32,0
+1979,Add french locale,39,True,True,2014-10-10T17:05:49Z,2014-10-10T17:05:48Z,0,2,1,1,16,0,16,5051628.0
+1976,Add german locale,47,True,True,2014-10-10T17:05:48Z,2014-10-10T17:05:48Z,0,3,3,1,16,0,16,5123832.0
+2052,"remove ""this === window"" assumption",0,True,False,,2014-10-10T16:48:58Z,0,3,3,1,1,1,2,0
+2056,Repair fix-format branch relative to master,602,True,False,,2014-10-10T08:43:54Z,0,3,3,4,69,21,90,0
+2054,Don’t set infinite transforms. Fixes #1968.,59,True,False,,2014-10-09T16:05:56Z,0,2,3,3,14,6,20,0
+1965,Replace substring with slice.,326,True,False,,2014-10-08T14:49:17Z,0,2,2,14,80,80,160,0
+2014,Workaround for Chrome touchmove issue 412723.,12,True,False,,2014-10-08T15:04:44Z,0,2,2,3,8,3,11,0
+1956,Fix InvalidStateError for non-text local files.,998,True,False,,2014-10-08T14:48:15Z,0,2,2,3,18,7,25,0
+2041,Fix #2040: parsing time zone offsets.,249,True,False,,2014-10-08T14:47:02Z,0,2,2,4,7,5,12,0
+1947,Fix a few imports.,0,True,False,,2014-10-08T14:58:44Z,0,2,2,11,49,58,107,0
+2046,Fix #2043: selection.enter.size.,0,True,False,,2014-10-08T14:45:53Z,0,2,2,4,8,4,12,0
+2053,Staging branch for 3.4.12.,0,True,True,2014-10-08T15:24:57Z,2014-10-08T15:24:57Z,0,2,0,34,168,160,328,2613.0
+2042,Update to JSDom 1.0.0,45,True,False,,2014-10-08T14:45:01Z,0,3,4,5,11,11,22,0
+2044,include .each in enter selection prototype,23,True,False,,2014-10-03T21:13:44Z,0,2,5,3,3,1,4,0
+1173,Allow setting the type of constraint to use when dragging a brush,938,True,False,,2013-05-30T18:38:22Z,0,2,15,4,41,6,47,0
+2003,Append/insert elements while setting class name and id in one call,945,True,False,,2014-09-24T03:41:26Z,0,6,19,6,91,9,100,0
+1997,pullreq fixing #1994 + #1995 + tolerant format behaviour; includes test cases to prevent regressing,1982,True,False,,2014-08-28T14:42:26Z,0,2,5,4,116,18,134,0
+1999,"Fix format specifier ""n"" when used with 0-padding.",0,True,False,,2014-08-28T14:45:57Z,0,1,1,4,15,7,22,0
+1974,Fix #1972: ignore 'comma' for exponent notation.,221,True,False,,2014-08-28T14:44:00Z,0,2,3,2,22,0,22,0
+1993,fixed bug with adding multiple events to object,55,True,False,,2014-08-27T15:11:54Z,0,2,1,3,3,3,6,0
+1967,node.__transition__ is undefined,208,True,False,,2014-08-06T20:23:01Z,0,2,2,1,3,2,5,0
+1966,Selection.parent,637,True,False,,2014-08-06T17:53:49Z,0,2,1,6,48,3,51,0
+1954,Catch responseText errors when responseType !== 'text' || '',245,True,False,,2014-07-29T13:50:20Z,0,2,1,1,2,1,3,0
+1910,d3.csv: support strict Content-Security-Policy.,325,True,False,,2014-07-02T23:31:25Z,0,2,5,5,155,90,245,0
+30,Added convex hull,250,True,True,2010-11-23T07:59:08Z,2010-11-23T15:59:08Z,0,2,2,6,311,11,322,27088.0
+38,Update examples index,66,True,False,,2011-01-12T19:11:48Z,0,2,1,1,2,0,2,0
+31,Small fixes to convex hull,80,True,True,2010-12-06T23:36:41Z,2010-12-07T07:36:41Z,0,2,1,3,31,41,72,9553.0
+53,Fix scroll events in Firefox (issue #52),0,True,True,2011-02-16T17:54:22Z,2011-02-16T17:54:22Z,0,1,0,4,62,55,117,15772.0
+41,Fix for lack of `event` object in FF 3.6,0,True,True,2011-01-28T18:28:10Z,2011-01-28T18:28:10Z,0,1,1,1,1,1,2,70102.0
+64,Date scales.,172,True,False,,2011-06-11T18:18:35Z,0,2,3,3,12,4,16,0
+63,Polar stereographic projection,352,True,True,2011-05-30T16:31:44Z,2011-05-30T16:31:44Z,0,2,9,7,248,1,249,7672662.0
+69,Update closure compiler,0,True,True,2011-03-12T16:30:00Z,2011-03-13T00:30:00Z,0,2,3,5,42,53,95,17741.0
+68,d3.call min bug,561,True,True,2011-03-12T16:30:00Z,2011-03-13T00:30:00Z,0,2,3,6,18,5,23,18103.0
+75,Fix voronoi example for IE9,128,True,True,2011-03-15T16:27:34Z,2011-03-15T23:27:34Z,0,2,1,1,1,0,1,9945.0
+70,Fix CSV parsing of \r\n and \r,0,True,True,2011-03-18T00:54:34Z,2011-03-18T00:54:34Z,0,2,4,6,48,8,56,447018.0
+89,API ref examples,298,True,True,2011-03-27T19:43:00Z,2011-03-27T19:43:00Z,0,3,5,1,59,3,62,147207.0
+93,Default filename `index.html` for examples server.,98,True,True,2011-03-30T10:00:20Z,2011-03-30T10:00:20Z,0,2,1,1,5,5,10,1440.0
+105,Fix for tick text not updating in bullet chart.,120,True,False,,2011-04-09T21:01:49Z,0,2,3,3,7,1,8,0
+95,Replace Tornado with SimpleHTTPServer in docs,72,True,True,2011-03-30T16:07:37Z,2011-03-30T16:07:37Z,0,2,0,1,6,12,18,4206.0
+106,Remove broken links from examples index.,0,True,True,2011-04-09T21:14:47Z,2011-04-09T21:14:47Z,0,2,0,1,0,2,2,213.0
+112,Docs for d3.scale and d3.interpolate,183,True,True,2011-04-12T03:35:50Z,2011-04-12T03:35:50Z,0,2,2,1,93,4,97,15753.0
+113,Add support for appending/inserting #text nodes.,122,True,False,,2011-04-13T19:30:03Z,0,2,4,7,78,6,84,0
+117,"Replace ""=="" with strict equality checks ""==="".",294,True,True,2011-05-07T23:52:28Z,2011-05-07T23:52:28Z,0,4,3,32,162,160,322,2033792.0
+124,Add Q-Q plot.,207,True,True,2011-05-01T04:19:19Z,2011-05-01T04:19:19Z,0,2,1,8,714,1,715,490158.0
+123,Small tweak.  Looks like d3_functor was replaced with d3.functor,75,True,True,2011-04-25T05:11:39Z,2011-04-25T05:11:39Z,0,2,1,2,4,4,8,35774.0
+129,Add polar clock example.,0,True,True,2011-04-30T20:20:19Z,2011-04-30T20:20:19Z,0,2,0,3,109,0,109,75191.0
+132,Add doctype to all examples for consistency.,0,True,True,2011-05-03T01:50:06Z,2011-05-03T01:50:06Z,0,2,1,20,20,0,20,95616.0
+135,"Use ""Object.keys"" if available.",253,True,True,2011-05-07T23:52:29Z,2011-05-07T23:52:29Z,0,3,6,6,24,6,30,385806.0
+133,Add monotone interpolation for lines and areas.,37,True,True,2011-05-07T23:52:29Z,2011-05-07T23:52:29Z,0,2,4,4,78,8,86,488080.0
+141,Propagate data changes to event listeners.,126,True,True,2011-05-07T23:52:29Z,2011-05-07T23:52:29Z,0,2,1,3,8,6,14,194219.0
+140,Polylinear scales.  Fixes #61.,304,True,True,2011-05-09T02:54:59Z,2011-05-09T02:54:59Z,0,2,4,10,183,60,243,303682.0
+144,Add touch support to `d3.svg.mouse`.,315,True,True,2011-05-12T18:56:45Z,2011-05-12T18:56:45Z,0,2,5,5,49,26,75,162609.0
+150,Additional types for d3.format.,191,True,True,2011-05-22T00:29:40Z,2011-05-22T00:29:40Z,0,2,6,9,396,24,420,187443.0
+159,Add d3.zip.,99,True,True,2011-05-30T16:26:41Z,2011-05-30T16:26:41Z,0,2,5,6,69,2,71,287297.0
+157,Configurable treemap layout,0,True,False,,2011-05-30T16:29:07Z,0,2,1,3,21,5,26,0
+163,Fixes for d3.min and d3.max.,18,True,True,2011-05-30T16:26:41Z,2011-05-30T16:26:41Z,0,2,1,9,98,18,116,27611.0
+164,Better mousewheel precision.,58,True,True,2011-05-30T16:26:41Z,2011-05-30T16:26:41Z,0,2,0,3,51,27,78,26118.0
+172,heart d3 symbol,165,True,False,,2011-10-28T22:46:24Z,0,3,4,1,19,1,20,0
+171,Add reusable axis helper for charts.,226,True,False,,2011-06-04T23:53:42Z,0,2,3,10,376,336,712,0
+177,Add d3.scale.linear().nice().,124,True,True,2011-06-11T19:45:09Z,2011-06-11T19:45:09Z,0,2,5,13,187,2,189,421685.0
+182,Simplify subclassing of hierarchy layout.,178,True,True,2011-06-11T19:45:09Z,2011-06-11T19:45:09Z,0,1,0,9,170,73,243,4317.0
+181,Tweens are now optional.,216,True,True,2011-06-11T19:45:09Z,2011-06-11T19:45:09Z,0,1,0,3,12,12,24,5422.0
+180,.debug(),277,True,False,,2011-06-08T06:29:43Z,0,2,2,7,380,22,402,0
+189,"Add ""boid"" flocking: d3.ai.boid().",718,True,True,2011-06-12T21:07:37Z,2011-06-12T21:07:37Z,0,2,3,8,238,477,715,6431.0
+200,Couple of tweaks to reset gravity.,223,True,True,2011-06-17T04:13:10Z,2011-06-17T04:13:10Z,0,2,0,1,9,2,11,107390.0
+195,fix minor errors,509,True,False,,2011-06-14T00:25:17Z,0,2,1,7,10,10,20,0
+193,Semicolon needed after modules,268,True,True,2011-06-14T00:38:36Z,2011-06-14T00:38:36Z,0,2,1,1,1,1,2,5756.0
+201,d3.svg.area: evaluate x-accessor once per element.,135,True,False,,2011-06-24T03:54:53Z,0,2,4,5,41,10,51,0
+209,Removing trailing commas inside object,114,True,True,2011-07-02T15:49:33Z,2011-07-02T15:49:33Z,0,2,1,2,2,2,4,405082.0
+215,zoom bug: function and var with same name,211,True,True,2011-07-09T05:45:11Z,2011-07-09T05:45:11Z,0,2,1,1,7,7,14,135371.0
+218,Adding two examples in dot/,172,True,False,,2011-08-22T23:38:47Z,0,2,1,2,232,0,232,0
+220,allow access of original data when computing arcs in pie layout,0,True,True,2011-07-17T03:45:50Z,2011-07-17T03:45:50Z,0,2,1,1,1,0,1,431401.0
+226,Minor optimisation.,43,True,True,2011-07-17T03:45:50Z,2011-07-17T03:45:50Z,0,2,1,3,4,4,8,62853.0
+232,Time Scale Refinements,255,True,False,,2011-08-01T00:35:13Z,0,2,3,2,44,3,47,0
+240,Missing comma,0,True,True,2011-08-15T23:34:44Z,2011-08-15T23:34:44Z,0,2,2,1,1,1,2,1101152.0
+255,Fix example index layout for Opera.,59,True,True,2011-08-19T18:06:05Z,2011-08-19T18:06:05Z,0,2,1,1,1,0,1,24413.0
+254,Don't trigger mousemove on mouseup in force layout.,71,True,True,2011-08-19T18:03:29Z,2011-08-19T18:03:29Z,0,2,1,3,7,9,16,27257.0
+260,Add d3.behavior.drag.,307,True,True,2011-08-23T19:54:34Z,2011-08-23T19:54:34Z,0,2,8,14,269,175,444,87596.0
+258,Add missing semicolon.,0,True,True,2011-08-22T21:09:18Z,2011-08-22T21:09:18Z,0,2,0,2,2,2,4,199786.0
+256,Fix for empty children with tree layout.,0,True,True,2011-08-19T18:03:29Z,2011-08-19T18:03:29Z,0,1,0,3,3,3,6,3143.0
+261,"""psuedo"" -> ""pseudo"".",0,True,True,2011-08-22T21:09:18Z,2011-08-22T21:09:18Z,0,2,3,3,11,11,22,2629.0
+262,Prevent click events on drag in zoom behaviour.,164,True,True,2011-08-22T21:09:18Z,2011-08-22T21:09:18Z,0,2,0,4,44,7,51,1192.0
+264,D3 all target for installation,118,True,True,2011-08-23T20:10:29Z,2011-08-23T20:10:29Z,0,2,2,10,24,9,33,14370.0
+263,Auto-update version number in package.json.,0,True,True,2011-09-18T03:36:02Z,2011-09-18T03:36:02Z,0,2,2,3,39,5,44,2211825.0
+267,Remove invalid octal constants.,198,True,False,,2011-08-24T17:16:58Z,0,2,4,5,34,34,68,0
+269,Fix negatively-sized rectangles in treemap.,19,True,True,2011-08-27T00:01:29Z,2011-08-27T00:01:29Z,0,2,2,4,35,5,40,22325.0
+276,Add d3.geo.greatcircle.,387,True,True,2011-08-29T18:58:54Z,2011-08-29T18:58:54Z,0,2,4,5,226,1,227,96573.0
+275,Style,272,True,False,,2011-08-28T23:37:16Z,0,2,3,7,223,138,361,0
+271,"Add invert to mercator, albers and azimuthal.",20,True,True,2011-08-29T18:58:53Z,2011-08-29T18:58:53Z,0,2,2,8,280,9,289,196330.0
+280,Reverse subpath direction for annulus.,9,True,True,2011-09-01T00:51:43Z,2011-09-01T00:51:43Z,0,2,1,4,10,10,20,44677.0
+278,Fix width/height of treemap-svg example.,238,True,True,2011-08-29T15:46:58Z,2011-08-29T15:46:58Z,0,2,0,1,2,2,4,18056.0
+282,Handle zero-valued nodes in d3.layout.pack.,44,True,True,2011-09-18T03:36:03Z,2011-09-18T03:36:03Z,0,2,3,4,91,27,118,1356104.0
+287,Treat nodes with empty children arrays as leaves.,116,True,True,2011-09-18T03:36:03Z,2011-09-18T03:36:03Z,0,2,7,8,138,22,160,878846.0
+293,Adding chargeMultiplier to individual points in d3.layout.force,172,True,True,2011-09-18T03:36:03Z,2011-09-18T03:36:03Z,0,2,7,1,24,13,37,290125.0
+298,Modified d3.csv to include an optional parameter allowing you to specify ,175,True,False,,2011-09-16T20:43:27Z,0,1,1,1,11,9,20,0
+295,add equirectangular projection,73,True,True,2011-09-18T03:36:03Z,2011-09-18T03:36:03Z,0,2,1,1,26,0,26,206757.0
+300,Update tests for d3.layout.pack.,88,True,True,2011-09-20T05:22:47Z,2011-09-20T05:22:47Z,0,2,1,1,20,5,25,146128.0
+305,Add si prefix format,593,True,True,2011-10-11T04:41:21Z,2011-10-11T04:41:21Z,0,2,1,4,130,10,140,1740418.0
+304,fix sigfig ('r') formatting with precision using zero as input,153,True,True,2011-09-27T22:00:50Z,2011-09-27T22:00:50Z,0,2,1,2,2,0,2,603651.0
+309,Fix a bug when charge forces are zero.,70,True,True,2011-09-27T22:00:50Z,2011-09-27T22:00:50Z,0,1,0,3,3,1,4,516195.0
+316,prototypal inheritance between hierarchical objects causes infinite recursive loops due to prototype chain,1670,True,False,,2011-09-26T22:56:31Z,0,2,1,8,63,63,126,0
+315,Minor cleanup of force-cluster example.,127,True,True,2011-09-27T22:00:51Z,2011-09-27T22:00:51Z,0,2,0,1,6,8,14,121064.0
+314,Add Bonne geographic projection.,165,True,True,2011-09-27T22:00:51Z,2011-09-27T22:00:51Z,0,2,7,6,340,1,341,165619.0
+321,shp2GeoJSON,490,True,False,,2011-10-28T22:23:49Z,0,2,1,3,430,0,430,0
+318,Add support for non-zero latitude origin to Bonne.,667,True,False,,2012-10-05T22:30:00Z,0,2,22,22,899,460,1359,0
+322,Support space-separated classes in classed operator.,11,True,True,2011-10-07T19:38:39Z,2011-10-07T19:38:40Z,0,2,1,4,53,4,57,723964.0
+325,Add test for transition.selectAll and NodeLists.,30,True,True,2011-09-30T16:00:55Z,2011-09-30T16:00:55Z,0,2,1,1,4,0,4,243.0
+328,make Makefile GNU make v3.82 compatible,481,True,True,2011-10-06T15:45:49Z,2011-10-06T15:45:49Z,0,2,3,1,13,16,29,243241.0
+327,fix bug that causes chord layout to break in Opera,185,True,False,,2011-10-29T00:07:39Z,0,2,7,1,2,1,3,0
+335,Fix tests in Linux.,489,True,True,2011-10-08T16:45:47Z,2011-10-08T16:45:47Z,0,2,2,6,7,6,13,13167.0
+334,Add d3.mean.,53,True,True,2011-10-11T04:41:23Z,2011-10-11T04:41:23Z,0,2,2,5,62,2,64,286790.0
+336,Add tests for d3.geom.polygon and fix centroid bug.,663,True,True,2011-10-11T04:41:23Z,2011-10-11T04:41:23Z,0,2,1,4,60,3,63,214510.0
+343,Tiny prettification of the calendar examples,281,True,False,,2011-10-29T00:07:10Z,0,3,3,19,272,60,332,0
+339,"Update UglifyJS, JSDOM and Vows.",166,True,True,2011-10-20T01:02:03Z,2011-10-20T01:02:03Z,0,2,1,10,15,15,30,570061.0
+353,Allow event.changedTouches to be used instead of event.touches.,136,True,False,,2011-10-29T17:50:28Z,0,2,3,4,16,14,30,0
+352,Fix typo.,0,True,True,2011-10-24T18:43:04Z,2011-10-24T18:43:04Z,0,2,0,1,1,1,2,288.0
+363,Use single loop for d3.extent.,111,True,True,2011-11-04T00:04:02Z,2011-11-04T00:04:02Z,0,2,1,4,41,6,47,25187.0
+359,Remove stray global in brush example.,0,True,True,2011-11-02T16:18:57Z,2011-11-02T16:18:57Z,0,2,0,1,1,1,2,10567.0
+366,Make axes reorderable in parallel coords example.,112,True,False,,2012-06-19T15:53:32Z,0,2,1,1,39,3,42,0
+365,Fix minor bug in exponent notation interpolation.,34,True,False,,2011-11-05T01:16:32Z,0,2,2,4,8,4,12,0
+371,Update JSDOM and Vows versions (Node.js v0.6.x compatibility).,226,True,True,2011-11-09T19:29:27Z,2011-11-09T19:29:27Z,0,2,0,5,11,11,22,369.0
+378,"Fix d3.transform for scale(1,-1) and scale(-1,1).",76,True,False,,2011-11-16T22:28:06Z,0,2,8,3,22,6,28,0
+374,Script to build html index,195,True,False,,2011-12-30T18:42:23Z,0,2,3,1,25,0,25,0
+398,Add GeometryCollection support to d3.geo.bounds,88,True,False,,2011-12-09T01:56:15Z,0,2,2,4,15,2,17,0
+388,Remove redundant namespaces from examples and d3.svg.*.,69,True,True,2011-11-30T05:58:47Z,2011-11-30T05:58:47Z,0,2,2,102,518,518,1036,543693.0
+407,"Update dependencies and use ""devDependencies"".",317,True,True,2011-12-30T20:01:34Z,2011-12-30T20:01:34Z,0,2,2,2,15,7,22,1494647.0
+410,Fix d3.svg.axis path and d3.scale.ordinal().rangeExtent() for explicit ordinal range.,0,True,True,2011-12-30T20:01:36Z,2011-12-30T20:01:36Z,0,2,1,5,12,4,16,1420352.0
+415,bugfix for the calendar display (e.g. http://mbostock.github.com/d3/ex/calendar.html),602,True,True,2011-12-27T18:09:46Z,2011-12-27T18:09:46Z,0,3,6,2,8,4,12,125722.0
+422,Fix #403 - big chords.,0,True,True,2011-12-30T20:01:36Z,2011-12-30T20:01:36Z,0,1,0,3,9,9,18,3475.0
+417,fix for calendar example,128,True,True,2011-12-27T18:09:46Z,2011-12-27T18:09:46Z,0,2,0,1,1,1,2,34596.0
+425,Fix log na n,0,True,True,2012-01-17T21:09:45Z,2012-01-17T21:09:45Z,0,1,0,6,52,8,60,1368562.0
+442,Dragrect example and linechart example,262,True,False,,2012-01-17T05:47:55Z,0,2,1,7,955,0,955,0
+441,Simplification to spline example.,0,True,True,2012-01-13T17:13:41Z,2012-01-13T17:13:41Z,0,2,0,1,1,4,5,14171.0
+456,IE comma parse error,131,True,True,2012-01-26T19:19:18Z,2012-01-26T19:19:18Z,0,2,3,3,5,5,10,253950.0
+447,Fix polylinear descending domains or ranges.,11,True,True,2012-01-26T19:19:17Z,2012-01-26T19:19:17Z,0,1,1,12,281,5389,5670,684515.0
+458,Fixed force layout .drag / .px and .py errors,630,True,False,,2012-02-14T17:38:51Z,0,2,6,1,13,10,23,0
+468,Fix treemap overhang problem.,288,True,True,2012-01-26T19:19:19Z,2012-01-26T19:19:19Z,0,2,1,4,17,35,52,92315.0
+479,Fix multiyear time scale,0,True,True,2012-02-02T04:09:33Z,2012-02-02T04:09:33Z,0,1,0,7,161,32,193,282112.0
+477,Allow event firing to be chained.,831,True,True,2012-02-02T04:09:32Z,2012-02-02T04:09:32Z,0,2,3,4,24,13,37,294911.0
+482,Fix polygon.centroid for open polygons.,105,True,True,2012-02-02T04:09:33Z,2012-02-02T04:09:33Z,0,1,0,4,51,25,76,261852.0
+494,IEEE 754 range() error,323,True,True,2012-02-18T21:10:20Z,2012-02-18T21:10:20Z,0,2,4,4,44,6,50,946518.0
+502,Define behavior for mismatched domain & range.,0,True,True,2012-02-18T21:10:21Z,2012-02-18T21:10:21Z,0,1,0,5,14,6,20,395900.0
+497,Minor tweaks.,100,True,True,2012-02-18T21:10:21Z,2012-02-18T21:10:21Z,0,2,1,14,23,31,54,732097.0
+496,Add index.js for easier usage within Node.,121,True,True,2012-02-18T21:10:20Z,2012-02-18T21:10:20Z,0,2,1,2,27,1,28,791897.0
+503,Continuous integration tracking with Travis,1694,True,False,,2012-02-17T16:44:46Z,0,2,1,6,229,3,232,0
+511,Initial touch support for d3.svg.brush.,151,True,False,,2012-02-17T16:41:12Z,0,2,5,8,289,117,406,0
+519,Generalize gravity to a field in force layout,455,True,False,,2012-03-15T15:30:29Z,0,2,2,1,17,6,23,0
+526,Add note about running the tests,0,True,True,2012-03-15T15:28:22Z,2012-03-15T15:28:22Z,0,2,0,1,4,0,4,1955875.0
+524,Don't block click events entirely on touch devices.,69,True,False,,2012-02-21T16:26:40Z,0,2,1,3,4,6,10,0
+567,"JS doesn't like ""%"" as the first char in a property name, this probably ...",58,True,False,,2012-02-23T16:28:31Z,0,2,2,1,1,0,1,0
+527,Improve readability,54,True,False,,2012-02-25T07:37:18Z,0,2,2,4,60,50,110,0
+572,Add selection.multiply.,236,True,False,,2012-02-26T23:59:40Z,0,1,1,9,71,58,129,0
+580,added stream chart example,183,True,True,2012-03-17T23:19:44Z,2012-03-17T23:19:44Z,0,1,0,0,0,0,0,1297326.0
+577,Fixes #576: leap year bug in d3.time.format.,78,True,True,2012-03-02T00:30:52Z,2012-03-02T00:30:52Z,0,1,0,21,180,235,415,104498.0
+585,fix typo on path,163,True,True,2012-03-07T01:41:14Z,2012-03-07T01:41:14Z,0,2,1,1,1,1,2,7425.0
+589,Added sizzle to dependencies and index.js,286,True,False,,2012-03-30T05:08:48Z,0,2,2,2,5,2,7,0
+588,"added missing ""<p>"" tags to examples/albers/albers.html",97,True,False,,2012-03-15T15:26:18Z,0,2,4,1,2,2,4,0
+593,Fix background rect brush events for IE9.,134,True,False,,2012-03-30T05:08:40Z,0,2,12,3,6,2,8,0
+597,"In d3.behavior.drag, the initial mousedown event should be cancelled",348,True,False,,2012-03-30T05:11:54Z,0,2,4,2,2,1,3,0
+604,Fix #434: chord groups returned in wrong order.,0,True,False,,2012-03-30T05:08:15Z,0,1,1,3,5,5,10,0
+602,histogram: deal with the degenerate domain without throwing an exception.,546,True,False,,2012-03-30T05:08:19Z,0,2,2,2,8,2,10,0
+605,Fix a bug when interpolating exponent notation.,55,True,False,,2012-03-30T05:08:11Z,0,1,1,4,12,5,17,0
+608,Remove a couple of stray globals.,0,True,False,,2012-04-03T15:49:07Z,0,2,2,4,10,10,20,0
+614,Minor simplification to number regex.,117,True,True,2012-04-15T21:13:09Z,2012-04-15T21:13:09Z,0,2,0,3,3,3,6,8630.0
+612,Pull request for #565,25,True,True,2012-04-15T21:31:07Z,2012-04-15T21:31:07Z,0,2,6,78,880,713,1593,847558.0
+615,Update jsdom to v0.2.14.,37,True,True,2012-04-15T21:13:09Z,2012-04-15T21:13:09Z,0,2,0,4,2,7,9,7925.0
+624,Bootstrap d3 build without need for pre-compiled d3.v2.js and package.json,2371,True,True,2012-04-26T17:03:41Z,2012-04-26T17:03:41Z,0,2,4,2,2,6,8,41840.0
+623,Fix another rounding bug with SI-format.,68,True,True,2012-05-16T16:57:47Z,2012-05-16T16:57:47Z,0,1,0,5,11,10,21,1769906.0
+618,Fix d3.svg.brush for IE9.,532,True,False,,2012-06-19T16:14:43Z,0,2,2,3,6,2,8,0
+629,Add browserify compatibility,244,True,True,2012-05-01T15:50:35Z,2012-05-01T15:50:35Z,0,2,0,2,3,0,3,4074.0
+635,force.js sourcecode readability improvement,352,True,False,,2012-05-07T06:10:30Z,0,5,1,12,9484,26,9510,0
+636,making force.start() just a wee bit more readable.,560,True,False,,2012-05-08T20:03:51Z,0,2,1,1,8,7,15,0
+639,Add nest.mapValues as an alias for rollup.,0,True,False,,2012-06-28T18:50:59Z,0,1,0,5,17,22,39,0
+644,"Fix dangling globals in d3.layout.{hierarchy,pie}.",47,True,True,2012-05-16T16:57:47Z,2012-05-16T16:57:47Z,0,2,1,5,12,8,20,461124.0
+642,"""Bundle"" interpolation for single-element arrays.",204,True,True,2012-06-14T16:35:16Z,2012-06-14T16:35:16Z,0,2,3,4,38,30,68,3094046.0
+641,Update src/package.js for browserify.,0,True,False,,2012-05-09T20:37:45Z,0,2,2,2,2,1,3,0
+676,Fix for Issue #675,143,True,False,,2012-06-24T17:03:38Z,0,2,2,1,1,3,4,0
+662,d3.time.format.iso.parse returns null for invalid date,100,True,True,2012-06-14T16:35:17Z,2012-06-14T16:35:17Z,0,2,2,4,9,6,15,1169972.0
+682,Fix bug with unexpected transition inheritance.,795,True,True,2012-06-24T18:03:37Z,2012-06-24T18:03:37Z,0,1,0,7,58,64,122,5001.0
+683,Fix classed whitespace,0,True,True,2012-06-24T18:03:38Z,2012-06-24T18:03:38Z,0,2,0,4,8,12,20,3617.0
+685,Add padding to d3.layout.pack.,498,True,False,,2012-08-09T01:09:51Z,0,1,1,5,80,64,144,0
+689,Use shortest path for hue in d3.interpolateHsl.,11,True,True,2012-07-03T01:09:14Z,2012-07-03T01:09:14Z,0,1,0,9,22,20,42,347106.0
+686,Faster d3.geo.path implementation.,129,True,True,2012-07-03T01:09:13Z,2012-07-03T01:09:13Z,0,1,0,3,64,86,150,366399.0
+692,"Custom d3.svg.{area,line} interpolators.",131,True,False,,2012-08-09T01:09:43Z,0,1,1,5,59,54,113,0
+690,Add support for outer padding on rangeBands.,96,True,False,,2012-08-09T01:09:46Z,0,1,1,4,48,28,76,0
+696,Fix circle clip,0,True,True,2012-07-03T01:09:14Z,2012-07-03T01:09:14Z,0,3,5,5,192,105,297,24660.0
+695,Fix #691: remove incorrect last interpolation step.,372,True,False,,2012-07-02T19:23:16Z,0,2,7,4,52,8,60,0
+694,Add X-Requested-With to XMLHttpRequest's header,107,True,False,,2012-07-01T21:32:28Z,0,2,1,3,2,4,6,0
+701,Don't interpret double-pan as double-tap.,324,True,False,,2012-07-31T02:47:52Z,0,2,2,3,20,14,34,0
+699,Linear closed interpolation,0,True,False,,2012-07-31T07:30:48Z,0,1,1,4,17,17,34,0
+698,Faster linear interpolation.,0,True,False,,2012-07-31T02:47:56Z,0,1,1,3,6,16,22,0
+713,Beautify,0,True,False,,2012-07-31T02:44:37Z,0,1,1,3,6581,9179,15760,0
+712,Fix time full year,0,True,False,,2012-07-31T02:47:44Z,0,2,1,12,50,25,75,0
+719,Minor optimisation and Chrome bug workaround.,341,True,False,,2012-07-31T02:47:17Z,0,2,4,4,16,11,27,0
+721,Fix #720: d3.time.dayOfYear floating-point error.,0,True,False,,2012-07-31T02:47:09Z,0,2,2,4,25,3,28,0
+729,Minor optimisation for d3.layout.pack.,42,True,False,,2012-07-31T02:46:54Z,0,2,2,4,16,16,32,0
+728,Add transition.filter. Fixes #726.,37,True,False,,2012-07-31T02:47:02Z,0,2,6,6,128,4,132,0
+731,Monotone_cubic_interpolation is implemented slightly incorrectly,886,True,False,,2012-08-10T01:47:15Z,0,2,10,3,10,8,18,0
+733,2.9.7,0,True,False,,2012-07-31T22:01:44Z,0,3,2,34,10316,12493,22809,0
+736,Add support for interpolating null transform lists.,160,True,False,,2012-07-31T21:47:42Z,0,2,3,8,182,99,281,0
+735,Fix typo in comments: coallesce → coalesce.,0,True,True,2012-07-31T20:17:29Z,2012-07-31T20:17:29Z,0,2,0,1,5,5,10,33149.0
+738,d3.timer: use high resolution timer if available.,331,True,False,,2012-10-29T15:44:07Z,0,2,3,5,27,14,41,0
+737,d3.bisect: support very large arrays.,0,True,True,2012-07-31T20:30:57Z,2012-07-31T20:30:57Z,0,2,0,4,71,5,76,26916.0
+741,Fix rotate transforms with non-zero origin.,495,True,False,,2012-08-01T21:30:28Z,0,2,2,3,28,22,50,0
+739,Fix nice implementation for time scales.,71,True,False,,2012-08-01T21:31:10Z,0,1,1,8,40,24,64,0
+748,"Custom interpolators for transition.{attr, style}.",11,True,False,,2012-08-09T01:09:30Z,0,1,1,9,41,195,236,0
+757,Updates to XHR API,23,True,False,,2012-09-18T22:57:56Z,0,2,2,13,280,73,353,0
+760,Add d3.interpolateStringMissing.,438,True,False,,2012-08-11T17:31:16Z,0,2,2,3,130,108,238,0
+758,Issue with DOM Leaks and with visulizations using the packtree layout parents having only one child are obscured.  ,460,True,False,,2012-08-10T16:19:27Z,0,2,5,3,33,0,33,0
+761,Add en_GB locale for d3.time.format.,78,True,True,2012-08-12T15:56:03Z,2012-08-12T15:56:03Z,0,2,0,1,14,0,14,11595.0
+765,d3.geo.path.centroid: support all GeoJSON types.,0,True,False,,2012-10-06T00:16:46Z,0,2,4,4,352,36,388,0
+770,d3.format: support align and non-decimal formats.,148,True,False,,2012-10-29T16:35:07Z,0,2,1,4,151,40,191,0
+767,Add d3.geo.path.bounds.,87,True,False,,2012-10-29T16:07:07Z,0,2,1,6,212,151,363,0
+774,d3.nest: minor optimisation.,0,True,True,2012-09-04T02:20:03Z,2012-09-04T02:20:03Z,0,2,0,3,7,7,14,1571915.0
+772,Fix #771 for singleton ordinal domains.,0,True,True,2012-09-04T02:20:03Z,2012-09-04T02:20:03Z,0,1,0,4,11,6,17,1576364.0
+780,"Fix use of ""dx"" in examples.",266,True,True,2012-09-04T02:20:04Z,2012-09-04T02:20:04Z,0,2,6,3,3,6,9,1227217.0
+776,IE9 and CORS (Cross-Origin Resource Sharing),331,True,False,,2012-11-30T18:30:52Z,0,2,1,1,19,11,30,0
+782,Minor simplifications.,83,True,True,2012-09-04T02:20:04Z,2012-09-04T02:20:04Z,0,2,0,5,5,5,10,1177803.0
+781,"Fix use of ""dx"" in ""tree"" example.",9,True,False,,2012-09-04T02:23:04Z,0,2,1,1,1,2,3,0
+790,Empty default enter() and exit() for all selections (previously undefined),181,True,False,,2013-01-23T20:32:29Z,0,2,2,1,1,0,1,0
+794,force cluster example: fixed minor hull error ('hulls' --> 'hullset') + ...,396,True,False,,2013-01-23T20:19:01Z,0,2,1,1,51,10,61,0
+792,Multitouch dragging!,0,True,True,2012-09-04T02:20:04Z,2012-09-04T02:20:04Z,0,1,0,5,75,66,141,280908.0
+799,export force.drag instance so user can access it by calling force.drag()...,773,True,False,,2013-02-06T17:47:05Z,0,2,2,1,5,3,8,0
+801,Simplify a few arguments.length checks.,0,True,False,,2012-10-29T15:50:42Z,0,2,1,7,26,24,50,0
+817,Small patch to allow the user to specify the center of gravity in the force directed graph,233,True,False,,2013-01-23T20:05:56Z,0,2,1,1,9,3,12,0
+821,"Add projection.{line,polygon} support to d3.geo.path.",240,True,True,2012-09-25T16:59:26Z,2012-09-25T16:59:26Z,0,2,4,3,105,106,211,113252.0
+820,d3.geo.projection,0,True,False,,2012-10-05T23:38:04Z,0,2,4,40,2325,1359,3684,0
+823,"Interpolate polygon cuts correctly, and resample.",8,True,True,2012-09-26T14:58:33Z,2012-09-26T14:58:33Z,0,2,2,5,176,76,252,23938.0
+822,Add antemeridian cutting for all projections.,581,True,True,2012-09-25T22:29:32Z,2012-09-25T22:29:32Z,0,2,1,7,114,33,147,4080.0
+827,Automatically interpolate d3.lab instances.,0,True,False,,2012-09-28T22:49:21Z,0,2,7,4,6,3,9,0
+826,Only attempt to resample if distance < δ.,279,True,True,2012-09-28T15:53:49Z,2012-09-28T15:53:49Z,0,2,2,3,14,12,26,21581.0
+828,Add d3_Color base class.,0,True,False,,2012-09-28T23:17:13Z,0,2,2,12,86,55,141,0
+837,"Add extra ring if polygon ""surrounds"" clip circle.",837,True,True,2012-10-03T21:53:26Z,2012-10-03T21:53:26Z,0,2,0,3,82,20,102,1476.0
+839,Better resampling for non-linear distortions.,1092,True,True,2012-10-05T06:20:56Z,2012-10-05T06:20:56Z,0,2,2,3,19,10,29,72211.0
+847,"Reinstate d3.geo.path().{area,centroid}.",0,True,True,2012-10-06T00:15:14Z,2012-10-06T00:15:14Z,0,2,0,4,208,62,270,1085.0
+855,Improve zooming and panning,246,True,False,,2012-10-15T15:18:16Z,0,2,3,1,11,3,14,0
+849,Add Query Language for JSON feature.,174,True,False,,2012-10-07T16:03:56Z,0,2,2,5,437,1,438,0
+870,Fix drawing of [Multi]Point geometries.,0,True,True,2012-10-25T17:38:23Z,2012-10-25T17:38:23Z,0,2,0,5,70,6,76,375.0
+856,Swedish translations,42,True,False,,2012-10-29T17:19:59Z,0,2,1,1,10,0,10,0
+871,Scale.ticks returns a single value for a degenerate domain.,143,True,False,,2013-01-23T19:55:40Z,0,2,4,8,14,3,17,0
+890,Fix d3.geo.circle error.,36,True,True,2012-11-13T17:07:33Z,2012-11-13T17:07:33Z,0,2,0,5,17,27,44,12340.0
+889,More explicit touch event checking.,455,True,False,,2012-11-12T21:52:25Z,0,2,2,3,14,13,27,0
+897,Restore resampling distortion check.,126,True,False,,2012-11-15T16:07:11Z,0,1,1,3,16,7,23,0
+896,Fix resampling along antemeridian and some more d3.geo.circle cases.,15,True,True,2012-11-15T00:31:02Z,2012-11-15T00:31:02Z,0,2,4,7,112,36,148,45570.0
+893,Fix another bug in d3.geo.circle.,44,True,True,2012-11-13T23:51:38Z,2012-11-13T23:51:38Z,0,2,0,3,13,17,30,3525.0
+899,"Fix longitudes outside [-180°, 180°].",35,True,True,2012-11-15T23:40:07Z,2012-11-15T23:40:07Z,0,2,0,3,21,6,27,492.0
+898,Fix resampling interpolation along antemeridian.,49,True,True,2012-11-15T23:07:29Z,2012-11-15T23:07:29Z,0,2,0,4,16,16,32,25140.0
+901,Update src/geo/azimuthal.js,205,True,False,,2012-11-16T23:52:43Z,0,2,3,1,13,11,24,0
+900,Add a couple of d3.geo.projection tests for recent fixes.,0,True,True,2012-11-16T10:07:53Z,2012-11-16T10:07:53Z,0,2,0,1,9,1,10,344.0
+902,Reuse sin/cos values during resampling recursion.,0,True,True,2012-11-18T18:22:27Z,2012-11-18T18:22:27Z,0,2,0,3,30,25,55,8809.0
+904,Simplify d3.geo.circle.,0,True,True,2012-11-18T20:20:14Z,2012-11-18T20:20:14Z,0,2,0,3,13,54,67,686.0
+903,d3.layout.hierarchy: treat -ve values as zeroes.,108,True,False,,2012-12-21T17:19:11Z,0,2,3,4,13,7,20,0
+913,Fix d3.geo.circle Polygon.,31,True,False,,2012-11-20T18:14:59Z,0,1,1,3,3,1,4,0
+908,Fix polygon clipping.,133,True,True,2012-11-20T04:57:08Z,2012-11-20T04:57:08Z,0,2,1,5,208,97,305,56590.0
+916,Improve Polygon clipping.,583,True,True,2012-11-21T01:12:45Z,2012-11-21T01:12:45Z,0,2,4,6,189,136,325,10075.0
+914,Improve Polygon clipping.,339,True,False,,2012-11-20T22:23:55Z,0,2,2,4,107,96,203,0
+917,Major clipping improvements.,0,True,True,2012-11-28T23:30:51Z,2012-11-28T23:30:51Z,0,2,2,8,428,259,687,653302.0
+942,"Define a new ""Sphere"" GeoJSON type.",0,True,True,2012-12-05T20:07:05Z,2012-12-05T20:07:05Z,0,2,0,9,142,37,179,4220.0
+949,s/º/°/g,0,True,True,2012-12-08T16:26:39Z,2012-12-08T16:26:39Z,0,2,0,2,5,5,10,5790.0
+956,Refactor cutting/clipping into separate files.,49,True,True,2012-12-11T16:51:55Z,2012-12-11T16:51:55Z,0,2,0,7,708,674,1382,14989.0
+955,More accurate winding order check.,94,True,True,2012-12-10T23:29:07Z,2012-12-10T23:29:07Z,0,2,0,7,94,92,186,850.0
+953,d3.geo.area: fix holes.,0,True,True,2012-12-10T16:41:01Z,2012-12-10T16:41:01Z,0,2,0,4,62,5,67,16657.0
+957,Refactor d3.geo.projection to be more data-driven.,0,True,True,2012-12-12T05:04:47Z,2012-12-12T05:04:47Z,0,2,0,13,708,664,1372,26268.0
+959,More d3.geo refactoring.,0,True,True,2012-12-12T15:30:17Z,2012-12-12T15:30:18Z,0,2,0,15,232,234,466,23461.0
+963,Type coercion fixes for d3.geo.path.pointRadius.,0,True,True,2012-12-13T20:50:39Z,2012-12-13T20:50:39Z,0,2,0,6,14,10,24,5184.0
+965,Improve locale parsing in Linux.,203,True,True,2012-12-15T17:53:34Z,2012-12-15T17:53:34Z,0,2,0,1,8,7,15,10052.0
+964,"Resample between first and last ring points, and another distortion fix.",88,True,True,2012-12-14T17:03:16Z,2012-12-14T17:03:16Z,0,2,0,5,110,41,151,14120.0
+968,Optimise d3.geo.clip area calculation.,151,True,True,2012-12-17T16:38:25Z,2012-12-17T16:38:25Z,0,2,1,4,63,55,118,20464.0
+967,Force layout using forces instead of dx/dy,1004,True,False,,2013-01-23T19:13:23Z,0,2,2,2,75,21,96,0
+970,Fix CCW polygon detection issue.,538,True,False,,2012-12-18T00:51:47Z,0,2,0,5,47,29,76,0
+971,Fix CCW polygon detection issue.,0,True,True,2012-12-18T02:47:51Z,2012-12-18T02:47:51Z,0,2,0,5,40,11,51,6310.0
+977,Fix treemap slice-dice mode.,183,True,True,2012-12-28T17:20:03Z,2012-12-28T17:20:04Z,0,2,0,4,18,3,21,311814.0
+972,Handle spheres in fallback stream.,251,True,False,,2012-12-19T04:23:00Z,0,2,4,6,34,15,49,0
+983,Fix d3.geo.circle.origin.,169,True,True,2013-01-01T23:53:30Z,2013-01-01T23:53:31Z,0,2,0,4,8,3,11,297840.0
+981,"In d3v3, geo.bounds stopped working for GeometryCollection within Feature",404,True,True,2012-12-28T17:20:04Z,2012-12-28T17:20:04Z,0,2,0,4,32,9,41,527.0
+979,d3.geo.centroid: fix handling of mixed geometries.,0,True,True,2012-12-28T17:20:04Z,2012-12-28T17:20:04Z,0,2,4,4,51,26,77,101998.0
+994,RE: Issue 993 - fix to polygon area and centroid,125,True,True,2013-01-07T13:54:29Z,2013-01-07T13:54:29Z,0,2,5,0,0,0,0,38804.0
+992,Allow projection.invert to return null.,35,True,True,2013-01-11T00:43:19Z,2013-01-11T00:43:19Z,0,2,1,5,26,5,31,514530.0
+990,Fix locale generation on Linux.,79,True,True,2013-01-04T22:35:03Z,2013-01-04T22:35:03Z,0,2,0,1,1,1,2,207.0
+996,README.md: Point hyperlinks at github explicitly,232,True,True,2013-01-11T00:43:20Z,2013-01-11T00:43:20Z,0,2,1,1,2,2,4,296795.0
+998,Fix for duplicate keys.,294,True,False,,2013-01-08T23:34:10Z,0,2,1,4,23,33,56,0
+1007,Fix big with constant greatArc target.,136,True,True,2013-01-15T18:01:43Z,2013-01-15T18:01:43Z,0,1,0,4,37,17,54,169077.0
+1013,Optimise d3.geo.area.,454,True,False,,2013-02-06T19:01:06Z,0,2,1,5,63,50,113,0
+1020,Move tick class to the g element. Fixes #1016.,0,True,False,,2013-02-06T19:01:01Z,0,1,1,4,21,28,49,0
+1023,fix a typo,112,True,False,,2013-01-23T22:02:36Z,0,2,2,1,1,1,2,0
+1031,Ability to append via function,97,True,False,,2013-06-30T17:51:12Z,0,2,2,4,32,20,52,0
+1045,Fix rounded formatting for 9×10ⁿ.,12,True,False,,2013-02-01T18:15:37Z,0,2,4,4,10,3,13,0
+1049,Fix a couple of edge cases.,125,True,True,2013-02-01T18:08:57Z,2013-02-01T18:08:57Z,0,2,0,4,5,3,8,4158.0
+1046,Fix rounded format specifier; fixes #1042.,0,True,False,,2013-02-06T19:00:53Z,0,2,1,6,36,20,56,0
+1051,Avoid Prototype’s broken array.filter.,214,True,False,,2013-02-06T19:00:42Z,0,1,1,3,8,8,16,0
+1058,Inject global d3 var,502,True,False,,2013-02-06T16:56:14Z,0,2,2,1,4,6,10,0
+1061,Capture globals,0,True,False,,2013-02-06T19:00:36Z,0,2,5,24,80,82,162,0
+1063,Sort null nodes at the end.,311,True,False,,2013-02-06T19:00:20Z,0,2,1,4,30,9,39,0
+1062,Fix force drag,0,True,False,,2013-02-06T19:00:32Z,0,2,1,4,159,61,220,0
+1067,Rebind returns target when the source returns itself,337,True,True,2013-03-03T17:11:49Z,2013-03-03T17:11:49Z,0,2,3,1,1,1,2,2084464.0
+1065,3.0.6,0,True,True,2013-02-06T19:05:11Z,2013-02-06T19:05:10Z,0,4,0,41,422,299,721,332.0
+1064,Fix for invalid axis.orient. Fixes #905.,0,True,False,,2013-02-06T19:00:16Z,0,1,1,4,25,8,33,0
+1077,add colorbrewer global name,65,True,True,2013-02-14T19:30:35Z,2013-02-14T19:30:35Z,0,2,1,1,1,1,2,699.0
+1086,Fixes one closure compiler warning,29,True,False,,2013-02-19T22:11:59Z,0,2,0,1,1,1,2,0
+1096,Add d3.geo.albersUsa.invert.,108,True,False,,2013-03-06T04:55:26Z,0,2,4,5,105,10,115,0
+1104,Add d3.geo.length,0,True,False,,2013-03-06T04:55:15Z,0,2,2,5,119,4,123,0
+1097,Expose projection.rotation.,76,True,False,,2013-03-06T04:55:22Z,0,2,4,4,47,2,49,0
+1106,Accept an array of objects in dsv.format,421,True,False,,2013-03-07T15:55:08Z,0,2,1,5,63,7,70,0
+1107,Allow row conversion function for d3.dsv.parse.,17,True,False,,2013-03-06T04:54:18Z,0,2,5,4,81,17,98,0
+1110,bar-1 tutorial: add rule class,44,True,True,2013-03-03T03:38:24Z,2013-03-03T03:38:24Z,0,2,0,1,1,0,1,1509.0
+1109,Internalize quadtree node boundaries,93,True,False,,2013-03-19T17:15:43Z,0,1,0,1,28,29,57,0
+1113,"Use setAttribute(""class"") instead of className.",12,True,False,,2013-03-21T04:54:53Z,0,1,1,3,14,28,42,0
+1111,Fix closed rings generated by clipping.,665,True,True,2013-03-03T17:11:50Z,2013-03-03T17:11:50Z,0,2,0,3,26,10,36,20047.0
+1121,Improve projection.clipExtent.,259,True,True,2013-03-06T17:11:44Z,2013-03-06T17:11:45Z,0,2,2,6,413,318,731,29189.0
+1136,Fix for running `make clean && make -j all`.,111,True,True,2013-03-11T23:00:08Z,2013-03-11T23:00:08Z,0,2,0,1,2,2,4,218.0
+1135,Add rotation.invert.,12,True,True,2013-03-11T22:33:54Z,2013-03-11T22:33:54Z,0,2,0,4,23,7,30,2543.0
+1126,Detect polygons surrounding clip extent.,112,True,True,2013-03-07T23:07:41Z,2013-03-07T23:07:41Z,0,2,1,4,34,21,55,42.0
+1141,Fix small-circle clipping of lines.,206,True,True,2013-03-13T17:57:43Z,2013-03-13T17:57:43Z,0,2,0,6,188,47,235,542.0
+1144,projection.clipExtent: handle infinite coordinates.,40,True,False,,2013-03-14T21:45:01Z,0,1,3,4,148,136,284,0
+1161,Fix #1160; remove redundant closing point.,0,True,True,2013-03-24T23:51:28Z,2013-03-24T23:51:28Z,0,1,0,3,5,5,10,407.0
+1166,Updated package.json to include d3's license,123,True,True,2013-04-03T17:55:19Z,2013-04-03T17:55:19Z,0,2,0,1,7,1,8,644503.0
+1165,adding step-middle as interpolation method,216,True,False,,2013-05-30T18:45:24Z,0,2,4,2,17,0,17,0
+1174,selection.insert() now accepts before argument as function,83,True,False,,2013-03-29T18:20:52Z,0,2,1,1,2,2,4,0
+1181,Fix interpolate,0,True,True,2013-04-07T02:29:25Z,2013-04-07T02:29:25Z,0,1,0,15,203,110,313,553267.0
+1182,Add missing import,0,True,True,2013-04-02T20:56:07Z,2013-04-02T20:56:07Z,0,2,0,1,1,0,1,146.0
+1192,Travis tests,77,True,True,2013-04-11T16:21:38Z,2013-04-11T16:21:38Z,0,3,3,3,3,3,6,6408.0
+1189,Optimize tick function in Force layout,373,True,False,,2013-04-11T14:29:10Z,0,2,1,1,7,0,7,0
+1186,Ignore null geometries.,0,True,True,2013-04-07T02:29:25Z,2013-04-07T02:29:25Z,0,1,0,4,12,6,18,167865.0
+1200,Support scale.nice(step) with a custom stepsize,0,True,False,,2013-04-19T20:36:58Z,0,2,1,5,23,9,32,0
+1193,Enforce minimum sample interval for resampling.,737,True,False,,2013-05-30T18:34:59Z,0,2,8,4,69,28,97,0
+1208,Fix #749 for getting and removing tweens.,0,True,False,,2013-05-28T23:37:35Z,0,1,0,6,99,34,133,0
+1206,Remove duplicate code.,0,True,True,2013-04-30T23:12:01Z,2013-04-30T23:12:01Z,0,1,0,3,9,20,29,968930.0
+1221,Fix select,0,True,True,2013-04-30T23:12:01Z,2013-04-30T23:12:01Z,0,1,0,7,69,33,102,4886.0
+1225,Improved Windows support for 'npm test',277,True,False,,2013-05-02T20:29:35Z,0,2,1,1,1,1,2,0
+1222,Convex hull,0,True,True,2013-04-30T23:12:01Z,2013-04-30T23:12:01Z,0,1,0,4,37,49,86,2453.0
+1228,Fix projection.clipExtent regression.,131,True,False,,2013-05-15T23:12:02Z,0,2,2,5,51,3,54,0
+1239,require('d3') on serverside does not initialize global object's window or document properties.,304,True,False,,2013-05-09T17:55:37Z,0,2,2,1,0,9,9,0
+1236,Fix time tests by adding Date to sandbox.,426,True,True,2013-05-15T23:05:25Z,2013-05-15T23:05:25Z,0,2,1,1,2,2,4,648684.0
+1242,Preserve domains exactly.,301,True,False,,2013-05-15T23:12:16Z,0,1,1,6,84,62,146,0
+1248,"Fix #1247 - more robust interpolation, again.",442,True,False,,2013-05-15T23:12:10Z,0,1,1,4,34,28,62,0
+1259,Accept string as log scale tickFormat.,162,True,False,,2013-05-30T18:31:30Z,0,1,1,4,14,4,18,0
+1266,Fix dangling global in projection.clipExtent.,0,True,True,2013-05-28T23:00:05Z,2013-05-28T23:00:05Z,0,2,6,5,42,8,50,363432.0
+1265,Fix dangling global in projection.clipExtent.,0,True,False,,2013-05-24T18:02:45Z,0,1,0,3,7,7,14,0
+1276,Fix xhr race condition,0,True,True,2013-05-28T23:00:06Z,2013-05-28T23:00:06Z,0,2,0,18,271,254,525,506.0
+1275,Fix timer queue,9,True,True,2013-05-28T23:00:05Z,2013-05-28T23:00:05Z,0,1,0,7,87,111,198,7654.0
+1274,Initialize points array when using custom x() or y() functions,201,True,False,,2013-05-29T17:53:08Z,0,3,5,2,22,2,24,0
+1272,Expose access to request.responseType in xhr,731,True,False,,2013-05-30T22:14:22Z,0,2,2,3,28,5,33,0
+1279,Format years correctly when negative. Fixes #1254.,0,True,False,,2013-05-30T18:31:43Z,0,1,1,4,12,10,22,0
+1282,Cache projection stream in d3.geo.path.,308,True,False,,2013-05-30T18:31:58Z,0,2,17,5,774,718,1492,0
+1281,Fix crash in voronoi.links with custom accessors.,0,True,False,,2013-05-30T18:31:52Z,0,2,1,4,36,23,59,0
+1280,Update UglifyJS to 2.3.6.,107,True,False,,2013-05-30T18:31:48Z,0,2,2,2,6,6,12,0
+1286,"Area-weighted centroids, and centroids for zero-extent features.",0,True,True,2013-06-02T09:53:54Z,2013-06-02T09:53:54Z,0,1,1,10,291,191,482,154563.0
+1284,Fix #1198; don’t prevent default on touchstart.,0,True,False,,2013-05-30T18:32:02Z,0,1,1,3,1,3,4,0
+1290,Add graticule.multipoint.,120,True,False,,2013-06-02T16:04:00Z,0,2,1,3,29,5,34,0
+1294,Use relative error for intersections. Fixes #1075.,0,True,True,2013-06-04T18:38:37Z,2013-06-04T18:38:37Z,0,2,0,3,3,3,6,251.0
+1307,Fix winding order detection for degenerate zero-area polygons.,29,True,False,,2013-06-11T19:26:09Z,0,1,0,5,10,10,20,0
+1316,brush.clamp: return null if there are no scales.,99,True,True,2013-06-19T17:55:31Z,2013-06-19T17:55:31Z,0,2,1,4,8,5,13,463361.0
+1312,Add pinch-to-zoom support for Android.,0,True,True,2013-06-19T17:55:31Z,2013-06-19T17:55:31Z,0,2,0,3,25,6,31,500214.0
+1318,Fix transition.selectAll with null nodes.,0,True,True,2013-06-19T17:55:31Z,2013-06-19T17:55:31Z,0,1,0,3,3,3,6,429326.0
+1328,add transition.size,11,True,False,,2013-06-20T15:53:17Z,0,1,1,3,7,5,12,0
+1324,Fixes for non-orderable values.,0,True,True,2013-06-19T17:55:31Z,2013-06-19T17:55:31Z,0,2,7,13,44,19,63,87727.0
+1333,Optional accessor function for dsv.format[Rows].,355,True,False,,2013-06-21T16:05:50Z,0,2,2,5,62,24,86,0
+1331,Add transition.size.,30,True,True,2013-06-26T15:03:20Z,2013-06-26T15:03:20Z,0,1,0,7,93,6,99,515462.0
+1339,Adds tests for d3.svg.diagonal,119,True,True,2013-06-26T15:04:35Z,2013-06-26T15:04:35Z,0,2,0,1,62,0,62,145003.0
+1338,rename components.json to bower.json,54,True,False,,2013-06-27T19:28:21Z,0,2,2,1,0,0,0,0
+1340,"Use angular, not projected, distance for sampling threshold.",12,True,True,2013-06-26T15:03:21Z,2013-06-26T15:03:21Z,0,2,0,3,26,42,68,85127.0
+1346,Add currency support to d3.format. Fixes #777.,331,True,True,2013-07-06T03:09:17Z,2013-07-06T03:09:17Z,0,1,0,8,51,23,74,622080.0
+1348,Adding component(1) support,0,True,True,2013-06-29T16:24:59Z,2013-06-29T16:24:59Z,0,2,7,2,44,0,44,38201.0
+1347,Limit transform interpolation to transition.attr.,548,True,True,2013-07-01T18:12:59Z,2013-07-01T18:12:59Z,0,2,1,14,130,142,272,243043.0
+1358,"By default, enter-insert before updating sibling.",397,True,True,2013-07-06T03:09:18Z,2013-07-06T03:09:18Z,0,1,1,11,86,17,103,298671.0
+1356,Use linear segments for basis interpolation ends.,411,True,True,2013-07-06T03:09:18Z,2013-07-06T03:09:18Z,0,1,0,4,13,23,36,353843.0
+1366,Fix #1364 - construct transition.event lazily.,0,True,True,2013-07-06T03:09:18Z,2013-07-06T03:09:18Z,0,1,0,4,12,13,25,120792.0
+1365,Fix #1363 - inherit transition.time.,0,True,True,2013-07-06T03:14:14Z,2013-07-06T03:14:14Z,0,2,1,4,12,14,26,122348.0
+1368,Fix axis for scales that don’t define ticks.,682,True,True,2013-07-06T03:09:18Z,2013-07-06T03:09:18Z,0,1,0,7,138,64,202,34408.0
+1387,Better precision for log scales.,0,True,True,2013-07-12T00:22:39Z,2013-07-12T00:22:39Z,0,1,0,4,88,102,190,12765.0
+1390,rgb.brighter 0 values not being incremented.,98,True,False,,2013-07-12T16:36:03Z,0,2,1,1,3,3,6,0
+1393,Suggested modification to selection.data,1260,True,False,,2013-11-20T16:17:34Z,0,2,0,2,33,9,42,0
+1392,"""number random number"" -> ""random number""",0,True,True,2013-07-13T00:19:45Z,2013-07-13T00:19:45Z,0,1,0,1,1,1,2,161.0
+1403,Fix panning for native Android 4.1 browser.,490,True,False,,2013-07-18T20:32:44Z,0,2,4,3,10,11,21,0
+1409,Revert color interpolation.,0,True,True,2013-07-19T03:32:18Z,2013-07-19T03:32:18Z,0,1,0,19,448,467,915,1334.0
+1408,Fix #1407 - transition.filter crashes on empty.,123,True,True,2013-07-19T03:32:18Z,2013-07-19T03:32:18Z,0,1,0,4,14,18,32,9233.0
+1421,Fix #1420 - regression with degenerate log ticks.,129,True,True,2013-08-01T14:41:28Z,2013-08-01T14:41:28Z,0,1,0,4,19,11,30,678422.0
+1414,Fix #1413 - d3.map copy constructor.,0,True,True,2013-08-01T14:41:27Z,2013-08-01T14:41:27Z,0,1,0,4,16,5,21,942342.0
+1427,Optimized set.js,55,True,True,2013-08-01T14:41:28Z,2013-08-01T14:41:28Z,0,2,1,1,3,2,5,238199.0
+1423,Optimizations,23,True,True,2013-08-01T14:41:28Z,2013-08-01T14:41:28Z,0,3,1,6,9,10,19,664677.0
+1428,Optimized array.js,55,True,True,2013-08-01T14:41:29Z,2013-08-01T14:41:29Z,0,2,4,1,2,2,4,238182.0
+1432,Fix #1431 - sort with null nodes.,0,True,True,2013-08-01T14:41:29Z,2013-08-01T14:41:29Z,0,1,0,2,7,7,14,74447.0
+1454,Fix #1453 - spurious interpolate when clean.,429,True,False,,2013-08-13T09:20:38Z,0,2,2,3,12,8,20,0
+1466,Fix clipExtent intersection sorting.,344,True,False,,2013-08-17T01:10:14Z,0,1,0,3,7,7,14,0
+1461,Zoom Transitions,2084,True,False,,2013-08-15T00:30:36Z,0,1,2,3,126,55,181,0
+1460,Fix brush rounding.,637,True,False,,2013-08-14T20:14:40Z,0,2,3,3,5,5,10,0
+1484,Fix #1483; time parsing with padding modifier.,0,True,False,,2013-08-23T21:19:32Z,0,2,2,4,11,4,15,0
+1489,Remove component.json to avoid bower warnings,363,True,False,,2013-08-25T18:15:44Z,0,1,1,1,0,22,22,0
+1508,Fix d3.mouse touch fallback for HTML targets.,0,True,True,2013-09-05T19:27:06Z,2013-09-05T19:27:06Z,0,2,1,3,3,3,6,1966.0
+1509,Remove dead code.,236,True,True,2013-09-19T03:56:00Z,2013-09-19T03:56:00Z,0,2,2,3,1,4,5,1146459.0
+1527,Fix point-in-polygon for multiple polar rings.,707,True,True,2013-09-19T03:56:00Z,2013-09-19T03:56:00Z,0,2,2,4,44,19,63,189924.0
+1539,Zoom behavior: Enable/disable mouse-wheel zoom at runtime,259,True,False,,2013-09-23T17:35:11Z,0,2,3,3,19,5,24,0
+1538,New Voronoi implementation based on gorhill/Javascript-Voronoi.,376,True,False,,2013-10-09T15:14:00Z,0,2,1,35,1736,1123,2859,0
+1546,Fix zero-duration transitions.,0,True,False,,2013-09-26T21:28:30Z,0,1,1,3,9,9,18,0
+1543,Perform winding order check on unrotated polygons.,555,True,False,,2013-09-25T19:53:50Z,0,2,6,20,109,105,214,0
+1542,Fix clipExtent bug.,326,True,False,,2013-09-25T19:53:36Z,0,2,2,5,76,26,102,0
+1553,Strict mode: function inside if,126,True,False,,2013-12-03T23:14:33Z,0,2,1,1,5,3,8,0
+1549,Fix clipping bug for complex polygons.,1264,True,True,2013-09-26T16:07:28Z,2013-09-26T16:07:28Z,0,2,0,8,34,39,73,860.0
+1562,Less confusing intialization of node positions.,12,True,False,,2013-10-09T15:14:15Z,0,1,1,3,16,23,39,0
+1559,Preserve polygon exterior/interior ring ordering.,366,True,False,,2013-10-09T15:14:07Z,0,2,3,10,292,224,516,0
+1572,Use the owner document to create new elements.,135,True,False,,2013-10-09T15:16:14Z,0,1,1,3,6,6,12,0
+1585,Voronoi fixes.,0,True,True,2013-10-14T15:58:32Z,2013-10-14T15:58:32Z,0,1,0,3,27,19,46,215348.0
+1586,Minor optimisation for projection.precision(0).,228,True,True,2013-10-25T22:40:08Z,2013-10-25T22:40:08Z,0,3,15,7,106,60,166,867275.0
+1614,"Set context of callback to data, up one level",479,True,False,,2013-11-01T03:59:22Z,0,2,1,1,4,4,8,0
+1632,add jspm package.json config,252,True,True,2013-11-19T16:37:39Z,2013-11-19T16:37:39Z,0,2,2,1,5,0,5,366755.0
+1656,Add d3.random.bates; fix d3.random.irwinHall.,187,True,True,2013-12-14T00:09:52Z,2013-12-14T00:09:52Z,0,1,0,3,16,4,20,798745.0
+1665,Fix #1664 - empty classed string.,77,True,True,2013-12-14T00:09:55Z,2013-12-14T00:09:55Z,0,1,0,4,28,9,37,715.0
+1683,Axis scale,0,True,False,,2014-01-03T12:46:34Z,0,3,0,3,21,22,43,0
+1694,Fix browserify reference.,86,True,True,2014-01-10T22:24:11Z,2014-01-10T22:24:11Z,0,1,1,1,1,1,2,244.0
+1743,Extended projection.scale to accept arrays,112,True,False,,2014-02-14T16:08:22Z,0,3,6,2,27,8,35,0
+1795,Get d3.behavior.drag working in Win8,351,True,False,,2014-03-20T19:11:05Z,0,2,2,3,29,9,38,0
+1569,Use `\0` instead of `\x00`,314,True,False,,2013-10-08T14:04:58Z,0,3,3,1,15,15,30,0
+219,Shameless self promotion: add linked treemap to User Gallery page,142,True,True,2011-07-17T03:48:07Z,2011-07-17T03:48:07Z,0,2,0,2,12,0,12,459991.0
+1759,Better ticks for subsecond domains.,105,True,False,,2014-03-01T19:25:51Z,0,1,1,3,3,5,8,0
+999,Fix duplicate keys,294,True,True,2013-01-11T00:43:20Z,2013-01-11T00:43:20Z,0,2,0,5,60,36,96,176969.0
+520,Builtin properties map,0,True,True,2012-02-21T05:35:58Z,2012-02-21T05:35:58Z,0,2,6,13,111,56,167,33641.0
+1580,Remove the children array for childless nodes.,268,True,True,2013-10-14T15:58:32Z,2013-10-14T15:58:32Z,0,2,1,4,21,11,32,278053.0
+1531,Fix crash in ticks for empty d3.time.scale domain.,134,True,True,2013-09-19T03:56:00Z,2013-09-19T03:56:00Z,0,1,1,4,11,3,14,530.0
+1758,pass in extra arguments to time.format.multi predicate functions,426,True,False,,2014-03-01T19:32:44Z,0,2,6,2,14,1,15,0
+198,Add d3.sum.,69,True,True,2011-06-17T04:13:09Z,2011-06-17T04:13:09Z,0,2,1,10,122,36,158,127446.0
+1763,Support custom interpolation functions.,638,True,False,,2014-03-24T03:08:54Z,0,1,2,26,249,304,553,0
+1040,"Return ambiguous, rather than undefined, centroid.",52,True,False,,2013-05-30T18:48:55Z,0,1,1,4,95,74,169,0
+744,selection.enter.insertInOrder,169,True,False,,2013-07-02T16:12:10Z,0,5,12,5,193,3,196,0
+227,Fix retrieval of width/height for horizon chart.,0,True,True,2011-07-17T03:45:50Z,2011-07-17T03:45:50Z,0,2,6,3,5,5,10,37661.0
+56,Fix d3_array for older browsers,316,True,True,2011-02-19T20:43:01Z,2011-02-19T20:43:01Z,0,2,11,3,19,4,23,93255.0
+1934,Fix #1933 - set zoom center on zoomstart.,254,True,True,2014-07-12T06:02:22Z,2014-07-12T06:02:22Z,0,1,0,3,12,23,35,437054.0
+1898,added custom gravity function support to the force layout.,0,True,False,,2014-07-12T05:42:27Z,0,2,1,1,12,2,14,0
+679,initial implementation of chernoff faces,306,True,False,,2012-06-24T16:41:08Z,0,2,2,4,354,5,359,0
+1932,"use .keyName() to rename the ""key"" property in the result of d3.nest() when using .entries()",497,True,False,,2014-07-12T04:53:10Z,0,2,1,4,57,11,68,0
+1928,Added locale for spanish,0,True,True,2014-07-12T04:48:40Z,2014-07-12T04:48:40Z,0,3,1,1,16,0,16,931092.0
+1223,Fix null transform attribute warning in Firefox.,519,True,False,,2013-05-15T23:12:05Z,0,2,2,3,9,5,14,0
+465,Always give width/height attribute to background rect from brush component,322,True,False,,2012-01-26T19:14:50Z,0,2,5,3,5,1,6,0
+1487,3.3.1,0,True,True,2013-08-23T21:24:07Z,2013-08-23T21:24:04Z,0,2,0,11,31,20,51,300.0
+918,d3.geo.projection benchmarks and performance improvement.,90,True,True,2012-11-21T17:47:02Z,2012-11-21T17:47:02Z,0,2,3,6,202,138,340,7777.0
+1289,Use user-select: none instead of preventDefault for drag/zoom.,149,True,True,2013-06-12T23:07:54Z,2013-06-12T23:07:54Z,0,3,17,10,77,34,111,1039831.0
+1707,"update bower: keywords, author, repository, and description.",96,True,False,,2014-01-23T23:50:13Z,0,2,1,1,16,0,16,0
+1027,Add qualitative schemes to colorbrewer.js and colorbrewer.css,449,True,True,2013-03-07T15:56:58Z,2013-03-07T15:56:58Z,0,2,0,2,432,0,432,1873.0
+338,Better handling of empty domains for nice scales.,20,True,True,2011-10-12T01:02:40Z,2011-10-12T01:02:40Z,0,2,1,7,20,6,26,60484.0
+111,Add cluster (dendogram) layout.,164,True,True,2011-04-14T07:02:27Z,2011-04-14T07:02:27Z,0,2,10,12,690,2,692,247293.0
+507,"Add ""resume"" and ""stop"" events to the force-directed layout",240,True,False,,2012-02-23T01:59:38Z,0,2,13,3,29,5,34,0
+1102,Add d3.geo.length.,10,True,False,,2013-03-01T22:15:06Z,0,2,6,4,80,4,84,0
+302,Add d3.behavior.select for brush+filter.,409,True,False,,2011-11-04T19:10:43Z,0,2,19,5,198,48,246,0
+268,Remove some stray globals in d3.behavior.*.,0,True,True,2011-08-24T21:13:39Z,2011-08-24T21:13:39Z,0,2,1,4,8,4,12,13461.0
+1646,d3.random tests (see issue #539),86,True,True,2014-01-09T23:24:42Z,2014-01-09T23:24:42Z,0,2,2,2,127,20,147,4110136.0
+411,Treat undefined like null when setting html/text.,119,True,True,2011-12-30T20:01:36Z,2011-12-30T20:01:36Z,0,2,4,6,46,13,59,1300580.0
+678,Fix #661; d3.interpolateTransform for rotate.,0,True,True,2012-06-24T18:03:37Z,2012-06-24T18:03:37Z,0,1,1,4,132,3,135,235656.0
+312,Less zealous click cancelling.,546,True,True,2011-09-27T22:00:50Z,2011-09-27T22:00:50Z,0,2,6,4,26,10,36,428976.0
+166,Add d3.vector module and d3.vector.interpolate.,0,True,False,,2011-10-28T23:00:57Z,0,2,13,26,1006,23,1029,0
+423,More multi-value map support.,91,True,False,,2012-06-19T15:55:14Z,0,5,16,16,455,50,505,0
+814,Xhr2,1611,True,False,,2012-09-19T22:46:26Z,0,2,8,1,23,5,28,0
+521,Expose d3_selection_enterPrototype for better extensibility,805,True,False,,2012-02-22T06:12:28Z,0,3,3,1,3,0,3,0
+1780,Prefer interpolateNumber when coercible to number.,140,True,False,,2014-03-23T21:24:53Z,0,2,2,4,8,7,15,0
+687,Add d3.tsv for tab-separated values.,148,True,False,,2012-08-09T01:09:48Z,0,2,1,14,406,253,659,0
+1353,Allow pack.radius to be specified as constant.,0,True,True,2013-07-01T18:12:59Z,2013-07-01T18:12:59Z,0,1,0,4,36,9,45,90577.0
+1666,Fixes nice() for sub-second scales,478,True,True,2013-12-16T17:25:55Z,2013-12-16T17:25:55Z,0,2,1,2,11,0,11,52939.0
+508,Add PivotGraph (rollup) layout example.,334,True,True,2012-02-16T16:43:19Z,2012-02-16T16:43:19Z,0,2,0,1,236,0,236,27287.0
+331,Fix transitioning styles to null (removal).,135,True,True,2011-10-07T19:38:41Z,2011-10-07T19:38:41Z,0,2,5,7,96,34,130,165656.0
+1351,Remove axis.tickSubdivide. Fixes #1115.,24,True,False,,2013-08-13T21:22:50Z,0,1,1,4,172,182,354,0
+515,V2.8.0,26,True,True,2012-02-25T03:20:06Z,2012-02-25T03:20:06Z,0,6,0,120,4410,2376,6786,453070.0
+1892,Use Element.matches if available,133,True,True,2014-06-30T17:17:52Z,2014-06-30T17:17:52Z,0,2,1,1,1,1,2,2879191.0
+1615,Filter function did not get parent group index,583,True,True,2013-11-19T17:22:13Z,2013-11-19T17:22:13Z,0,2,0,4,6,6,12,1287353.0
+1014,Export d3_identity function on d3 object,256,True,False,,2013-01-22T18:15:01Z,0,3,2,4,31,4,35,0
+126,Add d3.timer.immediate() for immediate transitions.,617,True,True,2011-05-07T23:52:28Z,2011-05-07T23:52:28Z,0,2,4,7,37,7,44,864608.0
+462,Basic array bisect accessor implementation,786,True,False,,2012-02-22T06:01:33Z,0,2,5,4,142,30,172,0
+1499,Fix spurious touchmove without touchstart.,574,True,False,,2013-08-30T22:36:21Z,0,1,1,3,15,11,26,0
+1436,Update bar-2.markdown,61,True,True,2013-08-05T00:14:37Z,2013-08-05T00:14:37Z,0,2,0,1,1,1,2,5852.0
+1502,fix voronoi degenerate check (alternate),130,True,False,,2013-09-02T18:37:52Z,0,2,2,1,1,1,2,0
+1477,d3.geo.circle: ensure coincident start/end points.,153,True,False,,2013-08-23T21:19:42Z,0,2,2,2,7,3,10,0
+1252,Allow call() on selections following enter(),271,True,False,,2013-05-30T18:31:25Z,0,2,3,1,1,0,1,0
+1227,Windows support for 'npm test' while referencing local vows version,32,True,False,,2013-05-14T20:26:03Z,0,2,4,1,1,1,2,0
+819,dsv.parse asynchronous when no arguments,1471,True,False,,2012-10-31T01:28:00Z,0,3,4,1,16,11,27,0
+514,Time enhancements,0,True,False,,2012-02-19T21:31:08Z,0,1,1,30,1267,551,1818,0
+1298,Add pinch-to-zoom support for Android.,0,True,False,,2013-06-13T22:52:43Z,0,4,6,3,27,8,35,0
+1382,Fix #1373 - suppress touchstart on drag.,473,True,True,2013-07-12T00:22:39Z,2013-07-12T00:22:39Z,0,1,1,6,223,196,419,115842.0
+1306,Fix winding order detection for degenerate zero-area polygons.,29,True,False,,2013-06-11T04:24:41Z,0,7,1,57,2525,1239,3764,0
+634,Fix size comparison for circle packing layout.,0,True,False,,2012-05-16T16:37:44Z,0,3,4,3,64,12,76,0
+763,Update to UglifyJS v1.3.3.,103,True,True,2012-09-04T02:20:02Z,2012-09-04T02:20:02Z,0,2,0,4,6016,6016,12032,1912716.0
+1183,fix component support,683,True,True,2013-04-03T17:46:44Z,2013-04-03T17:46:44Z,0,2,12,2,6,2,8,11046.0
+952,Add d3.geo.area.,383,True,True,2012-12-09T22:44:15Z,2012-12-09T22:44:15Z,0,2,6,5,235,4,239,6673.0
+905,"Revert to ""bottom"" orientation when invalid orientation is specified.",171,True,False,,2013-02-06T18:25:50Z,0,2,2,1,6,0,6,0
+581,Use a subpath for closed area interpolation.,580,True,False,,2012-03-19T22:49:46Z,0,2,2,4,14,8,22,0
+326,allow to specify custom tick positions,113,True,False,,2012-02-22T06:43:07Z,0,2,9,2,56,2,58,0
+1426,add beforesend event to xhr. fixes #1397,0,True,False,,2013-08-10T03:50:45Z,0,1,1,3,8,6,14,0
+943,Take into account clipping when computing areas and centroids.,131,True,True,2012-12-06T17:14:08Z,2012-12-06T17:14:08Z,0,2,3,6,211,233,444,74099.0
+1069,Add d3.set,128,True,False,,2013-03-06T04:56:39Z,0,3,8,5,206,4,210,0
+234,Fix handling of zero-sized nodes.,269,True,True,2011-07-31T23:15:09Z,2011-07-31T23:15:09Z,0,2,1,3,5,3,8,366669.0
+883,Italian time formats,0,True,False,,2012-11-18T18:26:40Z,0,2,1,1,14,0,14,0
+1074,Allow d3.map to be used with d3.nest’s map.,334,True,False,,2013-03-06T04:56:24Z,0,1,1,4,74,41,115,0
+1345,Fix clip for closed polygons.,670,True,True,2013-07-01T18:12:59Z,2013-07-01T18:12:59Z,0,2,4,10,224,139,363,337321.0
+1764,"Define ""d3"", not an anonymous module.",208,True,False,,2014-03-05T01:06:36Z,0,3,7,1,1,1,2,0
+1650,include d3 shim config for jspm,61,True,True,2013-12-03T16:23:31Z,2013-12-03T16:23:31Z,0,2,1,1,8,1,9,705356.0
+756,2.10.0,541,True,True,2012-08-10T03:12:30Z,2012-08-10T03:12:30Z,0,8,3,67,1928,900,2828,93844.0
+798,force layout: properly UNSET the .fixed bits: user may be using further ...,608,True,False,,2013-02-06T17:48:41Z,0,2,5,1,2,2,4,0
+1429,Update d3.js,57,True,False,,2013-07-30T23:52:29Z,0,2,1,1,9,3,12,0
+1636,Avoid flipping longitude near ±π.,386,True,False,,2013-11-21T23:00:17Z,0,2,2,4,4,4,8,0
+938,Xhr function callback,535,True,False,,2012-12-04T17:29:43Z,0,2,5,3,28,22,50,0
+1244,restoring original children in d3.layout.hierarchy,119,True,False,,2013-05-14T20:36:22Z,0,2,1,1,3,1,4,0
+125,Add spline editor example.,390,True,True,2011-04-30T23:51:45Z,2011-04-30T23:51:45Z,0,2,4,6,234,93,327,302967.0
+1863,Fix #1850 - multiple touchstart targets.,0,True,True,2014-05-19T04:43:28Z,2014-05-19T04:43:28Z,0,3,0,3,15,6,21,1030186.0
+1876,Non-recursive tree layout.,0,True,True,2014-05-19T04:43:28Z,2014-05-19T04:43:28Z,0,2,3,7,470,471,941,80125.0
+1922,"Support instanceof d3.{color,rgb,…}",139,True,True,2014-06-30T17:17:58Z,2014-06-30T17:17:58Z,0,1,1,8,87,144,231,495170.0
+127,Add animated merge sort example.,450,True,True,2011-04-30T22:59:30Z,2011-04-30T22:59:30Z,0,2,3,3,129,0,129,117308.0
+457,Expose force.tick. Fixes #419.,0,True,False,,2012-02-22T07:18:25Z,0,1,1,3,7,7,14,0
+1122,d3.dsv support for files without headers,501,True,False,,2013-03-06T18:01:52Z,0,2,1,1,7,8,15,0
+940,Fix path.centroid for polygons with holes.,149,True,True,2012-12-04T21:45:14Z,2012-12-04T21:45:14Z,0,2,0,4,41,5,46,2776.0
+1571,Added an optional child accessor for hierarchial layouts #1570,0,True,False,,2013-10-08T23:46:36Z,0,2,1,3,4,4,8,0
+1926,selection.classed: coerce name to string.,12,True,True,2014-06-30T17:17:58Z,2014-06-30T17:17:58Z,0,2,0,4,12,3,15,23716.0
+1925,"Revert ""Remove workaround for WebKit bug 44083.""",41,True,True,2014-06-30T17:17:58Z,2014-06-30T17:17:58Z,0,2,0,3,39,7,46,262593.0
+1884,Add spm support,394,True,True,2014-06-30T17:17:52Z,2014-06-30T17:17:52Z,0,2,0,2,7,0,7,3393870.0
+1105,Allow before function for selection.insert.,192,True,False,,2013-03-06T04:55:11Z,0,1,1,4,21,13,34,0
+225,"eliminate ""this.parentNode is null"" errors",76,True,True,2011-07-17T03:45:50Z,2011-07-17T03:45:50Z,0,2,1,1,1,1,2,186701.0
+1210,Add quadtree.extent. Fixes #1207.,0,True,False,,2013-05-30T18:31:15Z,0,1,1,4,22,16,38,0
+1654,Arbitrary transverse projections.,790,True,True,2013-12-14T00:09:52Z,2013-12-14T00:09:52Z,0,2,2,3,33,18,51,878535.0
+1678,Use browserified index.js for bower,543,True,False,,2014-01-09T21:57:48Z,0,2,3,2,4,6,10,0
+1807,Cleaning the global scope,54,True,False,,2014-03-24T03:00:28Z,0,2,1,1,30,28,58,0
+1803,Winding order fixes.,27,True,False,,2014-03-23T03:25:45Z,0,1,1,3,16,31,47,0
+1808,Consistent SI-prefix for ticks. Fixes #1746.,231,True,False,,2014-03-24T05:40:12Z,0,1,1,7,94,45,139,0
+1854,Create fragapaannatfordon.aspx,0,True,False,,2014-04-22T21:10:42Z,0,2,1,1,1430,0,1430,0
+1834,"The quantile scale should ignore null, too.",0,True,True,2014-04-14T03:56:08Z,2014-04-14T03:56:08Z,0,1,0,4,9,10,19,478313.0
+1867,create D3 project,0,True,False,,2014-05-11T20:25:10Z,0,2,0,1,38,0,38,0
+1359,Color interpolators return color instances.,463,True,True,2013-07-06T03:09:18Z,2013-07-06T03:09:18Z,0,1,0,21,261,170,431,209556.0
+1882,Use strict comparisons for `null`,39,True,False,,2014-05-21T04:10:56Z,0,2,2,1,29,29,58,0
+1137,Removing named listeners.,154,True,False,,2013-03-13T12:17:14Z,0,2,9,6,78,11,89,0
+640,Add support for self-loops to d3.layout.bundle.,306,True,False,,2012-05-16T18:47:39Z,0,2,12,6,105,36,141,0
+368,"Dispatch ""dragstart"" on mousemove.",380,True,False,,2011-11-23T00:19:55Z,0,3,4,3,6,4,10,0
+155,Add reusable impact chart.,71,True,False,,2011-10-28T22:45:30Z,0,2,4,7,463,1,464,0
+1352,Add zoom.center. Fixes #616.,0,True,False,,2013-08-13T21:22:33Z,0,1,1,3,22,8,30,0
+1398,Remove symmetric Math.log.,294,True,True,2013-07-19T03:32:17Z,2013-07-19T03:32:17Z,0,1,0,3,3,3,6,207557.0
+609,Line defined usage example,272,True,True,2012-04-04T17:45:17Z,2012-04-04T17:45:17Z,0,2,0,5,262,0,262,10470.0
+656,Fix race condition in transition tests.,243,True,True,2012-06-19T16:16:04Z,2012-06-19T16:16:04Z,0,2,1,1,13,9,22,1993016.0
+1060,Exposes the dragmove function on force layout for easier overriding.,83,True,False,,2013-02-06T16:52:15Z,0,2,4,3,5,5,10,0
+649,passing object into .attr(),550,True,False,,2012-05-20T20:09:12Z,0,2,1,1,18,3,21,0
+110,Add circle-packing layout.,450,True,True,2011-04-14T07:02:26Z,2011-04-14T07:02:26Z,0,2,2,9,758,1,759,251858.0
+109,Clamping for numeric scales,280,True,True,2011-04-14T07:02:26Z,2011-04-14T07:02:26Z,0,2,4,11,79,6,85,292584.0
+292,Add a ticks function to chart.bullet,409,True,False,,2011-10-28T22:25:35Z,0,3,6,8,51,14,65,0
+301,Fix sort due to lack of NodeList.prototype.sort.,491,True,True,2011-09-27T15:47:38Z,2011-09-27T15:47:38Z,0,2,6,3,4,4,8,717125.0
+1801,Fix quadtree tests that check the children of a node,441,True,True,2014-03-22T14:35:26Z,2014-03-22T14:35:26Z,0,2,0,1,12,12,24,34757.0
+1169,multi touch zoom for android,332,True,False,,2013-06-07T21:11:03Z,0,5,10,1,17,0,17,0
+355,Hi! I cleaned up your code for you!,975,True,False,,2011-10-28T20:19:58Z,0,2,0,6,163,163,326,0
+809,jamjs integration,145,True,True,2012-09-18T03:46:37Z,2012-09-18T03:46:37Z,0,3,12,2,12,0,12,22714.0
+1603,Use [] instead of charAt,80,True,False,,2013-10-30T23:35:54Z,0,3,2,3,9,9,18,0
+1779,Add date interpolation and tests,328,True,False,,2014-03-23T21:25:08Z,0,2,9,5,47,13,60,0
+1044,jsdom globals deleted when loading as node module,321,True,False,,2013-01-31T20:58:16Z,0,4,8,1,5,2,7,0
+838,Fixed bug in treemap layout where treemap.children() would be ignored.,201,True,False,,2012-10-04T03:21:59Z,0,2,1,3,6,6,12,0
+184,Instantiating enter affects update.,453,True,False,,2011-08-22T23:36:31Z,0,2,6,3,12,8,20,0
+1756,Workaround for lack of symmetry in Math.sin (Chrome 33 bug).,357,True,True,2014-02-27T15:50:49Z,2014-02-27T15:50:49Z,0,2,1,4,16,12,28,54999.0
+409,d3.layout.pie: return arcs in original data order.,11,True,True,2011-12-30T20:01:35Z,2011-12-30T20:01:35Z,0,2,1,4,37,15,52,1492005.0
+1738,add domain() when layout.stack,141,True,False,,2014-03-18T04:19:47Z,0,2,1,1,7,1,8,0
+1829,Huge d3.interpolateString optimization: use guaranteed O(n) instead of O(n^2) algorithm.,2414,True,False,,2014-04-06T05:58:05Z,0,2,5,1,35,32,67,0
+1767,d3.bisector takes a comparator rather than an accessor.,675,True,False,,2014-03-23T21:25:24Z,0,2,3,8,173,32,205,0
+725,"Interpolate ""same type"" transforms in isolation.",498,True,False,,2012-07-31T02:45:16Z,0,2,14,5,207,103,310,0
+811,Xhr post,254,True,False,,2012-09-18T22:55:52Z,0,2,2,6,48,14,62,0
+1377,Remove redundant Sizzle.uniqueSort call,120,True,False,,2014-03-01T19:31:27Z,0,2,6,3,4,6,10,0
+1629,[CI] Testing node versions up to 10.22.,30,True,False,,2014-03-01T19:26:29Z,0,2,1,1,25,1,26,0
+1735,Locale currency suffix overwritten by SI-prefix,81,True,True,2014-02-18T16:39:57Z,2014-02-18T16:39:57Z,0,2,6,2,9,2,11,594217.0
+810,Reset zoom drift vector for new translate/scale.,111,True,False,,2012-10-29T15:46:08Z,0,2,3,3,30,2,32,0
+373,Origin support for drag behavior.,78,True,True,2011-11-23T21:06:44Z,2011-11-23T21:06:44Z,0,3,7,10,193,82,275,1115263.0
+1119,Scale log base,0,True,False,,2013-03-06T04:52:05Z,0,1,1,5,128,78,206,0
+1257,Define rangeBand in context of rangePoints.,125,True,True,2013-05-20T17:31:41Z,2013-05-20T17:31:41Z,0,1,0,4,15,15,30,255.0
+789,Fix for a leap year bug,82,True,False,,2012-09-04T02:23:21Z,0,2,4,4,7,3,10,0
+1370,Fix localized decimal point.,0,True,True,2013-07-12T00:22:38Z,2013-07-12T00:22:38Z,0,2,1,3,31,25,56,440764.0
+1602,Prefer selectstart to user-select.,236,True,True,2013-10-25T22:40:08Z,2013-10-25T22:40:08Z,0,2,0,3,20,15,35,2620.0
+575,Fix brush extent drift,0,True,True,2012-03-02T00:30:51Z,2012-03-02T00:30:51Z,0,1,0,6,231,93,324,165611.0
+1804,Clamp latitude for conic conformal projection.,200,True,False,,2014-03-23T21:21:40Z,0,1,2,3,10,3,13,0
+995,Added check for headless run (tests),262,True,False,,2013-01-23T18:58:53Z,0,2,1,1,4,1,5,0
+730,Fixes custom timezone tests for Node.js 0.8.x.,292,True,False,,2012-07-31T20:29:47Z,0,2,7,3,18,31,49,0
+1513,Truncate non-integers for integer format.,181,True,False,,2013-09-12T17:11:51Z,0,2,5,4,10,7,17,0
+1590,Fix automatic tick format precision.,0,True,True,2013-10-25T22:40:08Z,2013-10-25T22:40:08Z,0,2,0,59,2471,4925,7396,714488.0
+454,A fix for Issue 210 concerning inaccurate results from .round(),79,True,True,2012-01-26T19:19:18Z,2012-01-26T19:19:18Z,0,2,1,1,2,3,5,318078.0
+505,Add constrained centre zoom example.,23,True,True,2012-02-15T00:43:47Z,2012-02-15T00:43:48Z,0,2,2,1,73,0,73,3395.0
+1775,Add zh-CN for localization,0,True,True,2014-03-13T15:07:42Z,2014-03-13T15:07:42Z,0,2,1,1,16,0,16,4212.0
+984,fix zoom behavior for Android,133,True,False,,2013-06-07T21:09:55Z,0,3,2,1,8,0,8,0
+167,Updated data operator to better handle a join function which returns iden,916,True,False,,2012-06-19T15:56:53Z,0,2,2,1,11,6,17,0
+1175,Fix for #1005 - fix click suppression after dragend in cases where click doesn't fire.,782,True,True,2013-04-07T02:29:25Z,2013-04-07T02:29:25Z,0,2,4,3,18,13,31,700668.0
+1350,Replace axis.tickSubdivide with axis.minorTicks. Fixes #1115.,1611,True,False,,2013-08-10T17:34:47Z,0,2,6,3,68,90,158,0
+173,Radar chart.,520,True,False,,2011-10-28T22:44:52Z,0,2,20,18,839,339,1178,0
+231,Improve IE9 compatibility,473,True,False,,2011-08-29T19:01:39Z,0,7,24,5,49,7,56,0
+1573,3.3.7,57,True,True,2013-10-10T23:53:11Z,2013-10-10T23:53:11Z,0,2,1,51,2171,1439,3610,117576.0
+1567,Workaround IE9 insertBefore bug. Fixes #1566.,0,True,False,,2013-10-09T15:14:18Z,0,2,2,3,3,3,6,0
+491,"Make the ""auto-scaling"" time formats use 24-hour hours",142,True,False,,2012-02-11T19:58:44Z,0,3,2,1,2,2,4,0
+379,d3.transform fixes.,324,True,True,2011-11-16T21:45:43Z,2011-11-16T21:45:43Z,0,2,1,4,115,12,127,1570.0
+324,Another test for empty children arrays.,42,True,True,2011-09-30T16:02:11Z,2011-09-30T16:02:11Z,0,2,0,1,22,2,24,29819.0
+1723,Fix outdated copyright year (update to 2014),190,True,False,,2014-02-18T16:14:31Z,0,3,1,1,1,1,2,0
+510,Prevent next tick when force.stop is called.,278,True,True,2012-02-18T21:10:21Z,2012-02-18T21:10:21Z,0,2,1,3,7,7,14,202074.0
+1657,Use `inDelta` not `equals` for double comparisons in polygon area test,257,True,True,2013-12-05T16:18:23Z,2013-12-05T16:18:23Z,0,2,0,1,3,3,6,29411.0
+1781,Add pt-BR for localization.,66,True,True,2014-03-17T15:10:35Z,2014-03-17T15:10:35Z,0,2,1,2,136,0,136,7066.0
+504,Add zoom translate extent example (mercator).,31,True,False,,2012-02-14T20:48:25Z,0,2,1,1,7,1,8,0
+1800,Add ca-ES for localization,38,True,True,2014-03-24T03:24:32Z,2014-03-24T03:24:32Z,0,2,1,2,136,0,136,195140.0
+1843,Optimise d3.mean.,785,True,True,2014-04-14T03:56:08Z,2014-04-14T03:56:08Z,0,2,0,4,11,15,26,225906.0
+1709,d3.weightedMean,128,True,False,,2014-01-25T14:36:37Z,0,1,1,3,68,0,68,0
+1612,modify stack layout to work with series of unequal lengths,71,True,False,,2014-03-18T04:32:02Z,0,2,1,1,3,1,4,0
+1211,"Add {cluster,tree}.nodeSize. Fixes #317.",0,True,False,,2013-05-30T19:20:02Z,0,1,1,4,56,18,74,0
+289,"Add gnomonic, equidistant and equalarea modes to azimuthal projection.",108,True,True,2011-09-27T22:00:49Z,2011-09-27T22:00:49Z,0,2,34,14,607,117,724,1505255.0
+1251,Added bower.json package management file.,0,True,False,,2013-06-27T18:33:46Z,0,4,5,3,27,1,28,0
+1916,Close ++d3_event_dragId in parentheses,30,True,False,,2014-06-19T18:42:46Z,0,2,1,1,2,2,4,0
+160,Remove extraneous parentheses from `new` operator.,88,True,True,2011-05-30T16:26:41Z,2011-05-30T16:26:41Z,0,2,2,6,8,8,16,266318.0
+86,Replace Google's compiler with UglifyJS,241,True,True,2011-04-05T17:34:45Z,2011-04-05T17:34:45Z,0,2,1,96,5114,635,5749,975486.0
+1856,Correct instances of '+ +' and '+ -' to protect from minification errors...,526,True,False,,2014-04-25T19:09:52Z,0,2,1,6,22,22,44,0
+208,Patch to make JS minification work,261,True,True,2011-06-26T04:18:48Z,2011-06-26T04:18:48Z,0,2,2,1,1,1,2,13194.0
+244,Fix division by zero in partition,186,True,True,2011-08-15T23:46:43Z,2011-08-15T23:46:43Z,0,2,0,3,5,3,8,399124.0
+702,Add Google Spreadsheet support to D3,1952,True,False,,2012-07-30T16:09:30Z,0,3,4,1,49,0,49,0
+797,"Add ""*/*"" to Accept header.",90,True,False,,2012-09-18T23:06:58Z,0,2,2,4,4,4,8,0
+217,Add variable link distance to force layout.,245,True,True,2011-07-09T05:45:11Z,2011-07-09T05:45:11Z,0,2,16,12,271,15,286,34972.0
+684,Don't transition label positioning attributes.,228,True,True,2012-07-03T01:09:13Z,2012-07-03T01:09:13Z,0,1,0,3,54,36,90,622383.0
+1404,Fix #1402 - transition callback order.,198,True,True,2013-07-19T03:32:17Z,2013-07-19T03:32:17Z,0,1,0,4,51,47,98,37438.0
+1231,d3.geo.bounds: antimeridian and inflection points.,1381,True,False,,2013-05-15T23:12:00Z,0,2,2,7,486,111,597,0
+1083,Add polyfill for mouseenter and mouseleave.,11,True,False,,2013-03-06T04:56:04Z,0,1,1,3,85,41,126,0
+408,Handle single node in d3.layout.cluster.,111,True,True,2011-12-30T20:01:35Z,2011-12-30T20:01:35Z,0,2,1,5,13,3,16,1494629.0
+1798,"Combined d3.behavior.drag touch improvements (Win8 pointers, multiple touchmove)",106,True,False,,2014-03-20T19:52:52Z,0,2,1,6,131,99,230,0
+1744,Return empty string instead of null for empty paths.,107,True,False,,2014-03-01T19:23:20Z,0,2,3,8,13,13,26,0
+1310,Fixes d3_time_interval to return regular time intervals,480,True,False,,2013-06-11T21:08:26Z,0,2,8,10,11,37,48,0
+1116,First stab at d3.geo.clipView.,316,True,False,,2013-03-06T04:53:58Z,0,2,6,4,261,4,265,0
+1405,Remove mouse listeners from intended target.,20,True,True,2013-07-19T03:32:18Z,2013-07-19T03:32:18Z,0,2,6,3,16,18,34,30187.0
+222,Handle zero and negative values gracefully in treemap layout,11,True,True,2011-07-17T03:45:50Z,2011-07-17T03:45:50Z,0,2,1,3,11,7,18,382197.0
+1237,Fix d3.svg.brush IE bug,222,True,False,,2013-05-08T15:30:55Z,0,2,1,2,20,8,28,0
+139,Add `brighter` and `darker` to d3.rgb().,153,True,True,2011-05-07T23:52:29Z,2011-05-07T23:52:29Z,0,2,4,7,166,6,172,216601.0
+288,Update science.js to 1.7.0: fix science.stats.kde.,0,True,True,2011-09-09T22:41:35Z,2011-09-09T22:41:35Z,0,2,0,6,805,3,808,129.0
+601,d3.xhr: treat req.status === 0 as error.,62,True,False,,2012-03-30T05:08:25Z,0,2,2,3,11,5,16,0
+659,Always display powers-of-ten tick labels.,196,True,False,,2012-06-19T15:49:59Z,0,1,1,4,22,6,28,0
+1047,Increase biasing for Firefox's mousewheel events.,352,True,False,,2013-02-01T16:38:47Z,0,2,1,1,1,1,2,0
+107,Add Reingold-Tilford tree layout.,133,True,True,2011-04-11T02:20:11Z,2011-04-11T02:20:11Z,0,2,2,9,799,1,800,39484.0
+846,3.0,92,True,True,2012-12-21T17:19:03Z,2012-12-21T17:19:03Z,0,2,4,213,2031,28576,30607,6630489.0
+330,add geotranslate method to projections and tests,453,True,False,,2012-10-06T00:18:34Z,0,3,19,10,198,22,220,0
+1120,3.1.0,0,True,True,2013-03-21T22:56:01Z,2013-03-21T22:56:01Z,0,4,2,470,17607,14614,32221,1361090.0
+1455,Add brush transitions.,21,True,False,,2013-08-13T21:20:48Z,0,1,2,9,312,145,457,0
+153,Add reusable horizon chart.,74,True,True,2011-05-30T16:26:39Z,2011-05-30T16:26:40Z,0,2,4,9,488,80,568,802703.0
+1574,Fix linear scale tick format precision for non-fixed-point formats,416,True,False,,2013-10-17T16:12:41Z,0,2,3,3,41,4,45,0
+223,Prevent RangeError in force layout on Safari.,619,True,True,2011-07-17T03:45:50Z,2011-07-17T03:45:50Z,0,2,1,3,17,5,22,239530.0
+1486,Remove major class from axis ticks.,82,True,False,,2013-08-23T21:19:03Z,0,1,0,3,4,4,8,0
+175,Scatter plot.,157,True,False,,2011-10-28T22:44:42Z,0,2,6,9,389,210,599,0
+829,2.11,0,True,False,,2012-10-05T23:30:34Z,0,3,0,16,211,107,318,0
+707,d3.time parsing: convert 2-digit years according to POSIX.,129,True,False,,2012-07-17T21:00:41Z,0,2,4,4,18,18,36,0
+1418,Avoid binding multiple touch listeners for zoom.,710,True,True,2013-08-01T14:41:28Z,2013-08-01T14:41:28Z,0,2,9,3,84,53,137,762102.0
+1507,"If present, use changedTouches[0] for d3.mouse.",349,True,True,2013-09-05T18:21:52Z,2013-09-05T18:21:52Z,0,1,0,4,12,29,41,2880.0
+1498,Support simultaneous zooming on multiple targets.,274,True,True,2013-09-05T18:21:52Z,2013-09-05T18:21:52Z,0,2,5,3,77,44,121,504430.0
+229,Add support for padding to treemap layout.,567,True,True,2011-07-20T23:16:30Z,2011-07-20T23:16:30Z,0,2,6,9,270,25,295,95876.0
+1512,Round step value in d3_scale_linearTickRange to fixed precision to prevent rounding issues on Windows Phone devices,1099,True,False,,2013-09-12T17:09:15Z,0,3,5,1,5,1,6,0
+1576,Defer first tick to end of timer frame.,303,True,True,2013-10-10T15:14:29Z,2013-10-10T15:14:29Z,0,2,1,5,25,34,59,55568.0
+308,Better log ticks.,288,True,True,2011-09-27T22:00:50Z,2011-09-27T22:00:50Z,0,2,0,4,64,21,85,516200.0
+1264,"If xhr.response errors, callback with error.",297,True,True,2013-05-28T23:00:05Z,2013-05-28T23:00:05Z,0,3,0,4,42,10,52,514693.0
+1150,"Refactor d3.geom.{voronoi,quadtree}.",602,True,True,2013-03-19T17:12:28Z,2013-03-19T17:12:29Z,0,4,8,9,2849,2707,5556,21229.0
+1880,Fix hierarchy.revalue.,293,True,True,2014-05-19T18:26:19Z,2014-05-19T18:26:19Z,0,2,2,4,32,11,43,1394.0
+648,add start and end parent != undefined in d3_layout_bundlePath while,303,True,False,,2012-06-19T16:10:07Z,0,2,2,1,2,2,4,0
+1792,Better multitouch.,472,True,False,,2014-03-23T21:27:03Z,0,1,3,7,194,183,377,0
+116,Boxplot chart,25,True,True,2011-04-14T07:02:27Z,2011-04-14T07:02:27Z,0,2,8,15,687,29,716,43315.0
+873,Fix d3.behavior.drag for Android/Chrome multitouch.,180,True,True,2012-12-06T17:15:13Z,2012-12-06T17:15:13Z,0,2,0,3,14,14,28,3168341.0
+800,"force layout: charge and friction are now functors, which allow for prod...",922,True,False,,2013-01-23T20:16:35Z,0,2,1,1,22,18,40,0
+1391,Use d3.rgb for categorical scales.,183,True,False,,2013-07-19T03:10:54Z,0,1,2,5,344,338,682,0
+212,Updated json symlinks for cartogram/choropleth examples,132,True,True,2011-07-04T16:44:18Z,2011-07-04T16:44:18Z,0,2,1,3,3,3,6,34433.0
+146,Add touch support to d3.behavior.zoom.,114,True,True,2011-07-10T04:01:09Z,2011-07-10T04:01:09Z,0,2,3,3,163,7,170,4976968.0
+1705,add _site,0,True,True,2014-01-21T16:10:09Z,2014-01-21T16:10:09Z,0,2,0,1,1,0,1,47895.0
+242,zindex selection method that handles SVG,686,True,False,,2011-08-05T23:14:55Z,0,2,3,1,13,0,13,0
+573,Inheritance for transition.each.,435,True,True,2012-03-02T00:30:51Z,2012-03-02T00:30:51Z,0,2,4,6,82,64,146,347501.0
+783,d3.dsv: make it easier to support streams.,409,True,False,,2012-10-06T13:20:07Z,0,2,9,3,6,6,12,0
+101,Bullet Chart,191,True,False,,2011-04-09T20:12:22Z,0,2,34,1,14,5,19,0
+1448,Fix #1410 - add selection.interrupt.,117,True,False,,2013-08-13T21:21:49Z,0,1,1,7,75,22,97,0
+764,Add support for parsing weekdays and week numbers.,47,True,False,,2013-06-08T19:20:42Z,0,3,5,4,167,42,209,0
+319,Cylindrical projections.,53,True,False,,2011-10-13T11:09:59Z,0,2,4,9,312,170,482,0
+1278,Fix d3.geo.bounds for null geometries.,256,True,False,,2013-05-30T18:31:39Z,0,2,1,4,74,36,110,0
+290,Add innerRadius and outerRadius to pie layout,521,True,False,,2011-09-18T01:26:06Z,0,2,2,4,92,7,99,0
+962,More d3.geo refactoring.,0,True,True,2012-12-13T17:35:12Z,2012-12-13T17:35:12Z,0,2,2,17,514,578,1092,14355.0
+1249,3.1.7,0,True,True,2013-05-15T23:15:07Z,2013-05-15T23:15:07Z,0,2,0,22,666,209,875,196.0
+1277,Partial fix for #1196 and d3.time.day in BST.,200,True,False,,2013-05-30T18:31:34Z,0,2,2,3,3,3,6,0
+933,Disabling zoom on right click,69,True,False,,2014-04-09T17:21:02Z,0,5,10,3,9,2,11,0
+1438,Fix #1437 - add identity projection.,149,True,False,,2013-08-13T21:22:27Z,0,2,3,4,36,2,38,0
+1449,Fix #1435 - use ten ticks by default.,211,True,False,,2013-08-13T21:21:16Z,0,1,1,6,37,19,56,0
+1690,3.4,0,True,True,2014-01-10T17:08:48Z,2014-01-10T17:08:48Z,0,3,0,52,7540,7253,14793,59406.0
+424,Optimise selection.order.,487,True,True,2012-01-17T21:09:45Z,2012-01-17T21:09:45Z,0,2,1,3,3,3,6,1508124.0
+813,More flexible XHR framework.,361,True,False,,2012-09-28T23:17:34Z,0,4,26,16,211,107,318,0
+433,"Add d3.behavior.{mouse, touches}: supports both SVG and HTML.",169,True,False,,2012-02-20T01:15:30Z,0,2,21,21,250,115,365,0
+1246,Add semicolon delimiter to d3.csv2,274,True,False,,2013-05-30T19:19:08Z,0,3,4,4,220,0,220,0
+833,Inherit hue or saturation when interpolating to or from a monochrome color.,623,True,False,,2013-04-19T17:28:22Z,0,2,11,4,36,9,45,0
+606,2.9.0,0,True,True,2012-04-15T21:45:08Z,2012-04-15T21:45:08Z,0,3,0,82,891,722,1613,1442248.0
+1451,Add zoomstart and zoomend events. Fixes #1422.,0,True,False,,2013-08-13T21:21:01Z,0,1,1,3,66,21,87,0
+1081,Fix d3.geo.interpolate for coincident points.,129,True,True,2013-03-03T17:11:49Z,2013-03-03T17:11:49Z,0,2,1,6,47,13,60,1137861.0
+313,Npm doesn't necessarily install dependencies under d3/node_modules,225,True,True,2011-09-27T22:00:51Z,2011-09-27T22:00:51Z,0,2,1,2,5,4,9,256102.0
+706,Fix d3.geo.circle clipping.,1293,True,False,,2012-10-05T22:28:14Z,0,2,6,15,1091,207,1298,0
+1450,Fix #1397 - add beforesend event to d3.xhr.,0,True,False,,2013-08-13T21:21:07Z,0,1,1,5,44,12,56,0
+1721,update copyright year,0,True,True,2014-02-18T16:14:25Z,2014-02-18T16:14:25Z,0,2,0,1,1,1,2,1318208.0
+1840,Fix #1839 - sign of parsed timezone offset.,0,True,True,2014-04-14T03:56:08Z,2014-04-14T03:56:08Z,0,2,1,6,11,9,20,274317.0
+1874,Add Finnish locale,996,True,False,,2014-05-19T04:37:33Z,0,3,4,2,136,0,136,0
+1043,d3.geo.distance: accuracy for small distances.,0,True,True,2013-02-06T17:36:38Z,2013-02-06T17:36:38Z,0,2,5,4,13,6,19,533250.0
+143,Add kernel density estimation.,261,True,True,2011-07-10T04:01:09Z,2011-07-10T04:01:09Z,0,3,10,16,277,28,305,5287537.0
+836,projection.clipAngle.,1284,True,True,2012-10-02T16:33:21Z,2012-10-02T16:33:21Z,0,2,2,5,709,308,1017,21543.0
+743,2.9.8,0,True,False,,2012-08-09T01:09:36Z,0,3,1,13,142,80,222,0
+844,Transition reselection.,2303,True,False,,2012-10-05T23:37:59Z,0,3,3,29,356,276,632,0
+178,Add d3.svg.superformula.,374,True,False,,2011-06-11T20:17:08Z,0,2,8,7,357,134,491,0
+1639,Faster and cleaner convex hull,520,True,False,,2014-01-10T00:45:45Z,0,2,5,6,135,175,310,0
+1147,Making pie layout work properly when a function is specified for startAngle,110,True,False,,2013-03-21T04:34:42Z,0,2,2,3,3,3,6,0
+506,Decorative brush resizers + touch support.,671,True,False,,2012-02-19T21:31:11Z,0,2,1,8,297,117,414,0
+1261,Add argument to d3.xhr. fixes #1260.,285,True,False,,2013-05-28T22:52:18Z,0,2,6,5,36,7,43,0
+1708,Include more metadata in bower.json; fixes #1707.,0,True,False,,2014-03-18T04:09:18Z,0,1,1,2,33,2,35,0
+961,Allow function as argument for append,274,True,False,,2012-12-12T23:09:21Z,0,1,1,1,5,9,14,0
+1547,3.3.6,0,True,True,2013-09-26T21:43:00Z,2013-09-26T21:43:01Z,0,2,0,25,223,179,402,92976.0
+1480,Limit charge distance.,0,True,False,,2014-01-10T00:46:38Z,0,1,1,3,45,27,72,0
+596,"Sorting NaNs with d3.{ascending,descending}.",279,True,False,,2012-03-30T04:44:41Z,0,2,1,8,40,28,68,0
+1622,Fix transform for ordinal→quantitative scales.,246,True,False,,2013-11-21T23:01:58Z,0,3,4,3,21,22,43,0
+803,"d3.layout.hierarchical advertised .links() and .nodes() APIs in the documentation, but doesn't have it in the code.",283,True,False,,2013-01-23T20:10:12Z,0,9,1,59,33512,7463,40975,0
+1205,"Allow hue, chroma or saturation to be undefined.",622,True,True,2013-04-30T23:12:01Z,2013-04-30T23:12:01Z,0,1,0,12,171,32,203,971034.0
+148,Add touch support to various examples,358,True,False,,2011-10-28T22:49:36Z,0,2,3,5,83,32,115,0
+1677,Make jsdom an optional dependency,207,True,False,,2014-01-09T20:25:42Z,0,2,7,1,1,1,2,0
+518,Fix bugs relating to inheritance of built-in object prototype properties.,278,True,False,,2012-02-21T04:06:16Z,0,2,17,12,91,36,127,0
+570,update to latest jsdom,325,True,True,2012-02-25T07:37:07Z,2012-02-25T07:37:07Z,0,2,0,1,1,1,2,8490.0
+1138,"d3.{unique,distinct} method(s)",393,True,False,,2013-06-24T16:25:37Z,0,3,5,2,5,0,5,0
+1001,"Added d3.svg.transform, a way to construct SVG transform specifications",764,True,False,,2013-01-09T18:03:04Z,0,2,1,5,208,4,212,0
+1050,Fix wheel events; fixes #1048 #1047.,462,True,False,,2013-02-06T19:00:46Z,0,1,1,3,21,54,75,0
+1762,3.4.4,51,True,True,2014-03-25T14:43:16Z,2014-03-25T14:43:16Z,0,4,0,30,513,299,812,2056663.0
+1725,100% to 125% faster #rgb/#rrggbb string parsing across all platforms.,46,True,False,,2014-03-01T19:26:12Z,0,2,3,1,12,12,24,0
+716,Pass nested selection group index to event listeners,267,True,False,,2012-07-31T02:47:27Z,0,2,2,3,11,9,20,0
+1322,"Stop event propagation for {brush,drag,zoom}.",306,True,False,,2013-06-25T16:30:08Z,0,3,18,5,32,11,43,0
+1458,3.3 “Haleakalā”,1406,True,True,2013-08-22T04:09:55Z,2013-08-22T04:09:55Z,0,2,7,63,1771,1092,2863,715834.0
+1108,Add d3.layout.voronoi.,61,True,False,,2013-03-06T04:54:05Z,0,1,1,5,189,2,191,0
+1495,Support parsing timezone offsets.,136,True,True,2013-09-05T18:21:52Z,2013-09-05T18:21:52Z,0,2,0,5,46,14,60,724695.0
+154,Add touch support to force layout.,142,True,True,2011-07-10T04:01:10Z,2011-07-10T04:01:10Z,0,2,3,9,170,102,272,4092902.0
+1229,Tweak version generation.,170,True,True,2013-05-07T18:49:28Z,2013-05-07T18:49:28Z,0,2,9,6,18,13,31,240986.0
+887,d3.geo.circle: generate GeoJSON Polygon.,236,True,True,2012-11-11T17:25:54Z,2012-11-11T17:25:54Z,0,3,4,4,82,41,123,69985.0
+1869,Convert d3.layout.tree to stack-based.,129,True,False,,2014-05-18T06:30:05Z,0,2,3,3,151,91,242,0
+579,additional colour space for d3,197,True,False,,2012-06-28T23:30:39Z,0,3,15,8,369,4,373,0
+745,Added capability to wrap d3 as an AMD module.,120,True,False,,2014-01-14T17:32:07Z,0,7,11,5,6922,5,6927,0
+724,New option for args to selection.append,110,True,False,,2012-07-24T01:55:15Z,0,2,1,1,17,11,28,0
+1582,"Rename d3_svg_line{X,Y} to d3_geom_point{X,Y}.",70,True,True,2013-10-14T15:58:32Z,2013-10-14T15:58:32Z,0,2,1,24,306,289,595,261942.0
+1378,Preserve user provided extent when resizing,684,True,False,,2013-08-24T05:50:16Z,0,2,3,1,38,15,53,0
+416,New pluck function to easily obtain an array of values from common properties,694,True,False,,2011-12-30T18:25:20Z,0,2,1,3,30,0,30,0
+1653,"Implement {map,set}.{size,empty}. Fixes #1648.",0,True,False,,2014-01-10T00:39:44Z,0,1,3,6,226,97,323,0
+1010,Add major & minor extent and step to graticule.,12,True,False,,2013-03-06T04:56:47Z,0,2,5,13,290,128,418,0
+660,Don't use document.createElementNS() unless there's a namespace URI,359,True,False,,2012-06-19T16:08:56Z,0,2,8,4,16,10,26,0
+848,Add tests and fixes for d3.geo.path().centroid.,20,True,True,2012-10-06T14:11:17Z,2012-10-06T14:11:17Z,0,2,0,4,198,42,240,17595.0
+877,"Add slice-dice, slice, and dice treemap modes.",15,True,False,,2012-11-11T17:28:49Z,0,2,0,3,23,9,32,0
+203,Linear and log ticks: support descending domains.,34,True,False,,2011-06-24T03:54:41Z,0,2,6,10,94,18,112,0
+762,Automate d3.time.format and d3.format locale generation.,612,True,False,,2012-10-29T16:23:23Z,0,2,18,11,99,69,168,0
+523,Builtin properties,0,True,True,2012-02-21T16:25:45Z,2012-02-21T16:25:45Z,0,2,1,24,300,193,493,36898.0
+947,Add d3.geo.centroid.,90,True,False,,2012-12-10T03:42:10Z,0,2,5,5,266,4,270,0
+270,Fix KDE example.,60,True,True,2011-08-27T00:01:29Z,2011-08-27T00:01:29Z,0,2,0,1,1,1,2,12492.0
+131,Add histogram layout.,146,True,True,2011-05-22T00:29:37Z,2011-05-22T00:29:37Z,0,2,7,16,713,69,782,1732637.0
+481,Minimize d3.interpolateTransform.,11,True,True,2012-02-02T04:09:33Z,2012-02-02T04:09:33Z,0,1,0,3,98,4,102,261888.0
+1474,Better time.nice and time.ticks. Fixes #1434.,0,True,True,2013-08-21T19:11:56Z,2013-08-21T19:11:56Z,0,1,0,16,254,284,538,124.0
+1824,Don’t generate empty polygons during clipping.,144,True,True,2014-04-08T04:43:53Z,2014-04-08T04:43:53Z,0,2,1,4,29,16,45,313845.0
+1699,adds composer.json closes #1674,0,True,True,2014-01-16T17:57:14Z,2014-01-16T17:57:14Z,0,2,0,1,19,0,19,123613.0
+734,Complex arguments for selection.insert/append,384,True,False,,2012-07-31T05:59:46Z,0,2,3,8,182,52,234,0
+658,API inconsistency when using Sizzle causing defect in IE9,360,True,True,2012-06-19T16:16:05Z,2012-06-19T16:16:05Z,0,5,6,1,1,1,2,1822099.0
+616,Add flag to zoom behavior to control zooming origin.,732,True,False,,2013-06-30T16:54:27Z,0,2,5,1,3,3,6,0
+134,Fix classed operator for SVG elements.  Fixes #78.,256,True,True,2011-05-07T23:52:29Z,2011-05-07T23:52:29Z,0,2,6,3,38,12,50,390358.0
+1201,Add scale.quantize.invert,1114,True,False,,2013-05-30T19:16:15Z,0,3,22,2,31,0,31,0
+1057,Allow non-DOM usage within Web Workers.,12,True,False,,2013-02-06T17:16:36Z,0,3,3,6,23,19,42,0
+179,.attr( map ) and .attr( function() {return map} ),139,True,False,,2011-08-28T23:37:56Z,0,3,19,3,88,26,114,0
+1326,"Restore preventDefault, but use tabindex to focus the parent element.",724,True,False,,2013-06-25T15:43:56Z,0,2,3,5,28,55,83,0
+592,Add X-Requested-With: XMLHttpRequest header to xhr,438,True,False,,2012-03-30T05:08:44Z,0,5,15,3,5,3,8,0
+1717,Fix for singleton ordinal domains,666,True,False,,2014-03-23T21:39:50Z,0,2,2,2,10,1,11,0
+1873,removing .js extension from the 'main' property,0,True,True,2014-05-19T03:52:11Z,2014-05-19T03:52:11Z,0,2,0,1,1,1,2,455385.0
+1071,Allow insert before dom element,181,True,False,,2013-03-02T18:34:17Z,0,2,1,1,9,3,12,0
+1256,add nest.each function,509,True,False,,2014-03-01T19:38:26Z,0,2,3,1,10,0,10,0
+1271,"Allow calling Selection.append( function(datum, index){...} )",128,True,False,,2013-06-30T17:51:24Z,0,2,3,1,25,9,34,0
+1649,"Implement .size(), .empty() for d3.{set,map}",13,True,False,,2013-12-03T17:02:58Z,0,2,1,6,205,20,225,0
+1501,fix voronoi degenerate polygon check,225,True,False,,2013-09-02T18:37:31Z,0,2,4,1,1,1,2,0
+1894,define(d3) breaks source code transformers,409,True,False,,2014-06-12T12:35:01Z,0,2,3,3,5,3,8,0
+311,Append should accept raw nodes (listed as 'todo?' in selection-append.js),452,True,False,,2011-10-28T23:33:32Z,0,2,5,4,36,8,44,0
+1072,Allow passing class names as functions to `classed()`,1377,True,False,,2013-02-15T15:35:15Z,0,2,2,4,74,12,86,0
+1537,The JS comment suggested by makc is added in the snippet.,57,True,False,,2013-10-02T15:44:43Z,0,1,0,1,2,1,3,0
+142,Allow bound data to be cleared or inspected.,321,True,False,,2012-02-21T21:32:15Z,0,3,3,6,189,104,293,0
+753,Allow static localization of d3.time.format.,166,True,False,,2012-08-09T01:09:22Z,0,2,5,8,67,96,163,0
+488,Rewrite of d3.behavior.zoom.,1511,True,False,,2012-02-19T21:31:15Z,0,2,2,7,506,538,1044,0
+1905,Avoid 'unsafe-eval' code to comply with C-S-P,127,True,False,,2014-06-12T11:14:18Z,0,2,4,1,7,3,10,0
+732,Selection append support for naked nodes and functions,257,True,False,,2013-06-30T17:51:44Z,0,4,18,4,150,22,172,0
+1140,"Support for {selection,dispatch}.on("".foo"", null).",75,True,True,2013-03-13T15:53:08Z,2013-03-13T15:53:08Z,0,2,2,6,96,11,107,12983.0
+1341,Generalize suppression of undesired default behaviors when dragging.,12,True,False,,2013-06-26T01:01:15Z,0,2,5,8,78,103,181,0
+476,Don't use getComputedStyle to fetch current styles.,1014,True,False,,2012-01-29T18:55:27Z,0,2,2,4,5,7,12,0
+183,Add LAB color space support.,0,True,False,,2011-10-28T22:44:02Z,0,3,7,11,1243,0,1243,0
+594,Line defined,0,True,False,,2012-03-30T05:08:35Z,0,5,6,17,292,220,512,0
+1830,Optimize d3.interpolateString.,0,True,True,2014-04-08T04:43:53Z,2014-04-08T04:43:53Z,0,1,0,5,105,131,236,169023.0
+1530,Use the scale as the tick key function.,537,True,True,2013-09-19T03:56:00Z,2013-09-19T03:56:00Z,0,2,1,4,5,5,10,2701.0
+74,"Workaround for no xhr.overrideMimeType in IE, including IE9",0,True,True,2011-03-15T16:27:35Z,2011-03-15T23:27:35Z,0,2,2,1,1,1,2,11855.0
+857,Making scaling of pack layout optional.,825,True,False,,2013-06-12T20:25:40Z,0,2,3,1,11,4,15,0
+1011,Add area-weighted geographic polygon centroids.,147,True,False,,2013-06-01T21:03:39Z,0,7,4,45,1649,1054,2703,0
+632,Fix d3.xhr for local URIs.,392,True,True,2012-06-19T16:16:04Z,2012-06-19T16:16:04Z,0,3,2,3,5,5,10,4005627.0
+1285,3.2,25,True,True,2013-06-13T22:52:26Z,2013-06-13T22:52:26Z,0,1,4,15,187,138,325,1225286.0
+169,Add reusable Mekko chart.,76,True,False,,2011-10-28T22:45:03Z,0,4,8,7,584,117,701,0
+1689,Support AMD/RequireJS.,301,True,False,,2014-01-10T00:39:23Z,0,3,6,12,43,28,71,0
+345,Configurable extents for d3.behavior.zoom.,236,True,False,,2011-11-04T20:40:20Z,0,6,14,44,2132,392,2524,0
+1651,I18n (internationalization and localization) at runtime,1467,True,False,,2013-11-29T16:26:08Z,0,2,1,3,60,7,67,0

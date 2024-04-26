@@ -1,0 +1,1987 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+3019,Meta tweaks,180,True,True,2024-04-10T03:36:31Z,2024-04-10T03:36:31Z,0,2,0,1,2,2,4,1234.0
+2999,Add LiDAR Place Recognition,7234,True,False,,2024-04-09T05:01:39Z,1,4,6,2,6,3,9,0
+2978,Add OpenTofu,6946,True,True,2024-04-03T16:25:01Z,2024-04-03T16:25:01Z,0,5,15,1,1,0,1,3640694.0
+3009,Add Univer to Front-End Development list,7147,True,False,,2024-04-02T06:52:34Z,0,1,0,1,1,0,1,0
+3004,Fix Google Cloud name next to Firebase,56,True,True,2024-03-25T17:16:12Z,2024-03-25T17:16:12Z,0,2,0,1,1,1,2,15392.0
+2079,Add Low Code,8084,True,True,2022-01-24T07:52:42Z,2022-01-24T07:52:42Z,4,8,19,1,1,0,1,8441579.0
+2989,Stock control supervisors,7147,True,False,,2024-03-08T05:19:42Z,0,2,0,80,2089,2407,4496,0
+2980,fixbug,7147,True,False,,2024-02-22T07:57:37Z,0,3,0,1,1,0,1,0
+2977,Add Buddy.Works,7809,True,False,,2024-02-21T11:22:50Z,0,2,0,1,1,0,1,0
+2976,add toit language,7147,True,False,,2024-02-20T19:10:22Z,0,2,1,1,1,0,1,0
+2970,Adding Awesome Farcaster Frames,7147,True,False,,2024-02-19T22:31:56Z,1,3,1,1,1,0,1,0
+2973,Update .editorconfig,7147,True,False,,2024-02-16T13:44:57Z,0,2,0,1,1,1,2,0
+2585,Add Kustomize,6593,True,True,2024-02-13T21:32:40Z,2024-02-13T21:32:40Z,7,8,16,1,1,0,1,26745557.0
+2888,Add QGis,7262,True,False,,2024-02-14T09:22:14Z,2,5,4,1,1,0,1,0
+2878,Update readme.md - Add LLM WebUIs,7251,True,False,,2024-02-14T09:21:35Z,1,4,2,1,1,0,1,0
+2874,Add Deliberative Prompting,7239,True,False,,2024-02-14T09:21:21Z,0,3,2,1,1,0,1,0
+2843,Add Processing,7390,True,False,,2024-02-14T09:15:30Z,0,4,5,1,1,1,2,0
+2837,Add AI Collection,7498,True,False,,2024-02-14T08:37:31Z,2,8,9,1,1,0,1,0
+2813,Add RTL,7419,True,False,,2024-02-14T08:17:41Z,1,3,4,1,1,0,1,0
+2810,Add Spring Boot,6963,True,False,,2024-02-14T08:14:53Z,2,8,6,1,1,0,1,0
+2804,Add parenting,7043,True,False,,2024-02-14T08:14:29Z,1,6,5,1,1,0,1,0
+2753,Add Microsoft Sentinel,3587,True,False,,2024-02-14T08:12:46Z,4,7,9,1,1,0,1,0
+2744,Add HarperDB,7112,True,False,,2024-02-14T08:10:24Z,0,4,5,1,1,0,1,0
+2736,Add Stock Trading,3444,True,True,2024-02-14T08:09:43Z,2024-02-14T08:09:43Z,3,6,8,1,1,0,1,16930436.0
+2731,Add Frontend GIS,7063,True,True,2024-02-14T08:00:31Z,2024-02-14T08:00:31Z,0,6,9,1,1,0,1,17241179.0
+2690,Add Bluetooth Low Energy,7097,True,True,2024-02-14T07:53:55Z,2024-02-14T07:53:55Z,1,5,10,1,1,0,1,20463998.0
+2658,Add Feature Flag Management,7524,True,False,,2024-02-14T07:47:03Z,1,5,5,1,1,0,1,0
+2647,Add E-Ink,7246,True,False,,2024-02-14T07:46:21Z,2,12,13,1,1,0,1,0
+2858,Add Open Source Heroes - Awesome,7373,True,True,2023-11-14T19:49:32Z,2023-11-14T19:49:32Z,0,2,1,1,1,0,1,4353.0
+2622,Add Uno Platform,6921,True,True,2024-02-13T21:51:16Z,2024-02-13T21:51:16Z,1,6,12,1,1,0,1,23879290.0
+2565,Add Computational Intelligence in Sports,7610,True,False,,2024-02-13T21:23:48Z,4,5,12,1,1,0,1,0
+2560,Add GitHub Organizations,6954,True,False,,2024-02-13T21:22:48Z,11,9,16,1,1,0,1,0
+2803,Add Astrophotography,7440,True,True,2024-02-13T21:14:38Z,2024-02-13T21:14:38Z,0,2,4,1,1,0,1,11290609.0
+2969,First bulk push,7147,True,False,,2024-02-13T15:29:54Z,0,1,0,2,27,879,906,0
+2924,Add STEM Academy,7301,True,False,,2024-01-10T01:35:59Z,2,4,4,1,1,0,1,0
+2569,Add Control Theory,6975,True,False,,2023-10-14T15:30:37Z,3,7,8,1,1,0,1,0
+2506,Add Babylon.js,6959,True,False,,2023-10-14T18:50:18Z,2,5,23,1,1,0,1,0
+2763,Add Generative AI Companies,7506,True,False,,2024-01-19T11:25:46Z,1,8,11,1,1,0,1,0
+2912,Add Product Management Zh,7230,True,False,,2023-12-20T02:11:08Z,1,3,1,1,1,0,1,0
+2938,Add STEM Academy,7301,True,False,,2024-01-12T07:31:36Z,0,1,2,1,1,0,1,0
+2937,Add STEM Academy ,7301,True,False,,2024-01-12T07:07:53Z,0,1,2,1,1,0,1,0
+2842,Update readme.md,7147,True,False,,2023-10-29T14:07:42Z,1,3,1,1,3,3,6,0
+2846,Link to maintained successor for PHP,85,True,False,,2024-01-04T13:05:33Z,2,6,7,1,1,1,2,0
+2920,Added PusPC,7242,True,False,,2023-12-30T13:11:31Z,0,2,1,1,1,0,1,0
+2917,add Prometheus Alerts - Alerting rules for Prometheus setup (placed just after Prometheus),7051,True,False,,2023-12-27T00:32:57Z,0,2,1,1,1,0,1,0
+2692,add official docker awesome-compose,6950,True,False,,2023-12-25T17:59:48Z,5,10,6,0,0,0,0,0
+2834,Update contributing.md,1368,True,True,2023-10-26T11:42:33Z,2023-10-26T11:42:33Z,1,4,1,1,1,1,2,4856.0
+1851,auto awesome-lint any list added to the readme in a PR,1535,True,False,,2021-03-08T23:23:47Z,2,4,5,1,43,0,43,0
+2822,Add Reference cheat sheet,7132,True,False,,2023-10-21T03:55:39Z,0,1,0,1,1,0,1,0
+2835,Minor Grammatical and Typographical Improvements in files,333,True,True,2023-10-26T14:59:56Z,2023-10-26T14:59:56Z,1,3,3,4,9,9,18,3528.0
+2739,Update link to Awesome Mastodon,7475,True,True,2023-10-07T04:11:37Z,2023-10-07T04:11:37Z,0,3,7,1,1,1,2,5347540.0
+2655,Add TON (The Open Network),7866,True,False,,2023-06-21T10:45:09Z,2,3,4,1,1,0,1,0
+2642,Add Apache Kafka,7039,True,False,,2023-07-18T12:09:04Z,1,5,14,1,1,1,2,0
+2567,Add ADS-B list,7390,True,True,2023-06-21T11:03:22Z,2023-06-21T11:03:22Z,0,4,9,1,1,0,1,7136789.0
+2509,Add Game Production,7059,True,True,2023-06-21T10:32:17Z,2023-06-21T10:32:17Z,1,5,8,1,1,0,1,11971630.0
+2620,Add Biological Image Analysis,7362,True,True,2023-10-14T16:20:57Z,2023-10-14T16:20:57Z,1,4,5,1,1,0,1,13472291.0
+2389,Add Complexity,6806,True,True,2023-10-17T08:34:03Z,2023-10-17T08:34:03Z,5,4,14,1,1,0,1,33760622.0
+2894,Add PocketBase,7472,True,False,,2023-12-06T05:55:01Z,0,1,0,1,1,0,1,0
+2866,Create devcontainer.json,7147,True,False,,2023-11-21T12:44:19Z,0,2,0,1,5,0,5,0
+2852,Update readme.md,51,True,False,,2023-11-17T08:35:51Z,0,3,1,1,1,0,1,0
+2862,Alphabetically ordering content menu,7293,True,False,,2023-11-17T08:35:29Z,0,2,1,1,472,472,944,0
+2794,Install meshmap workflow,6963,True,False,,2023-09-30T14:25:51Z,1,3,2,1,34,0,34,0
+2715,Add Neuromorphic,7637,True,False,,2023-11-07T18:02:22Z,1,5,6,1,1,0,1,0
+2614,Add Mojo,0,True,False,,2023-05-09T19:10:03Z,0,1,0,1,1,0,1,0
+2615,Add Mojo,0,True,False,,2023-06-23T14:09:18Z,2,4,3,1,1,0,1,0
+2836,Add Flatpak,7115,True,False,,2023-10-26T16:03:33Z,0,2,1,1,1,0,1,0
+2827,Add Spoken Language Identification,0,True,False,,2023-10-24T10:48:08Z,0,2,2,1,1,0,1,0
+2823,Update readme.md,7141,True,False,,2023-10-21T13:22:34Z,0,2,0,1,1,127,128,0
+2482,Add Game Engine Development,6895,True,True,2023-06-22T11:10:11Z,2023-06-22T11:10:11Z,7,11,12,1,1,0,1,14111715.0
+2780,Add Processing langage ,7098,True,False,,2023-10-14T21:46:41Z,1,4,16,0,0,0,0,0
+2734,Add Prompt Injection,7153,True,True,2023-10-14T18:57:02Z,2023-10-14T18:57:02Z,2,5,5,1,1,0,1,6550101.0
+2391,Add Slack apps for developers,7152,True,False,,2023-10-14T18:49:38Z,10,8,14,1,1,0,1,0
+2799,"Move Esolangs into ""Programming Languages"" section",37,True,True,2023-10-14T18:48:28Z,2023-10-14T18:48:28Z,0,2,0,1,1,1,2,987777.0
+2737,Add Astrophysics Simulation Codes,6970,True,False,,2023-10-14T18:03:10Z,0,6,6,1,1,0,1,0
+2608,Add Monolith Architecture,7085,True,False,,2023-10-14T16:02:50Z,0,3,6,1,1,0,1,0
+2640,Add High Performance Computing,6996,True,True,2023-10-14T15:58:54Z,2023-10-14T15:58:54Z,1,6,11,1,1,0,1,12274163.0
+2618,Add new link for attacks against AI,7043,True,False,,2023-10-14T15:45:48Z,0,6,6,1,1,0,1,0
+2601,Add Pest,7247,True,True,2023-10-14T15:35:29Z,2023-10-14T15:35:29Z,2,3,5,1,1,0,1,14894815.0
+1568,Add Storybook,5404,True,True,2019-05-21T09:37:38Z,2019-05-21T09:37:38Z,0,3,9,1,1,0,1,87084.0
+2743,Add Steam Deck,6994,True,True,2023-09-24T17:54:29Z,2023-09-24T17:54:29Z,2,7,8,1,1,0,1,3911058.0
+2515,Add Data Pipeline,7396,True,False,,2023-09-24T17:58:06Z,0,5,7,1,1,0,1,0
+2513,Add Minestom,7035,True,False,,2023-09-24T17:56:49Z,1,4,11,1,1,0,1,0
+2512,Add AI Collection,7250,True,False,,2023-09-24T17:56:06Z,5,6,16,1,1,0,1,0
+2790,Add Discord,7223,True,False,,2023-09-24T14:55:37Z,0,2,2,1,1,0,1,0
+2751,Add Autonomous AI Agents,13909,True,False,,2023-09-18T12:42:42Z,0,5,4,1,1,0,1,0
+2524,Add Processing,7098,True,False,,2023-09-13T14:04:01Z,3,6,12,1,1,0,1,0
+2781,Add LinDB,6963,True,False,,2023-09-15T08:30:36Z,0,2,1,1,1,0,1,0
+2762,Add Generative AI Companies,7506,True,False,,2023-08-30T11:41:20Z,0,1,1,1,1,0,1,0
+2742,Add Integrated Development Environment,7060,True,False,,2023-08-10T22:17:45Z,0,4,4,1,1,0,1,0
+2383,Add GitHub Wiki,6901,True,True,2023-04-23T19:46:20Z,2023-04-23T19:46:20Z,6,7,16,1,1,0,1,18931271.0
+2463,Add Certificates,7172,True,True,2023-04-23T18:36:05Z,2023-04-23T18:36:05Z,6,6,11,1,1,0,1,10127523.0
+2448,Add GameMaker,6949,True,True,2023-04-23T17:55:21Z,2023-04-23T17:55:21Z,1,5,12,1,1,0,1,11566007.0
+2719,Add AI-By-Bharat,7049,True,False,,2023-07-24T01:30:47Z,0,3,3,1,1,0,1,0
+2718,Update readme.md,6963,True,False,,2023-07-15T11:53:05Z,0,2,0,1,1,39,40,0
+2695,Add Neuromorphic,7637,True,False,,2023-07-12T17:29:06Z,1,6,13,1,1,4,5,0
+2714,Create Morena,8960,True,False,,2023-07-07T18:33:59Z,1,3,0,1,30,0,30,0
+2710,add SwiftyEdit to CMS section,6979,True,False,,2023-07-05T09:17:21Z,0,2,1,1,1,0,1,0
+2503,Add Friday Night Funkin' Resources,6776,True,False,,2023-06-30T13:17:29Z,6,7,18,1,1,0,1,0
+2686,Add Awesome Cosmos,6994,True,True,2023-06-21T10:07:48Z,2023-06-21T10:07:48Z,0,2,2,1,1,0,1,69907.0
+2694,Add Erlang and Elixir descriptions,399,True,False,,2023-06-23T13:49:44Z,0,1,0,1,2,2,4,0
+2691,Add Tech Radars,7044,True,False,,2023-06-22T19:05:46Z,0,1,0,1,1,0,1,0
+2517,Add Nexa,6838,True,False,,2023-06-21T10:43:59Z,0,5,9,1,1,0,1,0
+2689,add Repo Reviews,6987,True,False,,2023-06-21T13:27:54Z,0,1,1,1,1,0,1,0
+2454,Add Suricata,7395,True,True,2023-06-21T10:01:47Z,2023-06-21T10:01:47Z,3,4,11,1,1,0,1,16282420.0
+2539,Added Awesome Books Summaries,6901,True,False,,2023-06-21T10:46:51Z,3,7,4,1,1,0,1,0
+2626,Add Substreams,6431,True,False,,2023-06-21T10:45:33Z,0,3,3,1,1,0,1,0
+2535,Add Klaytn,7210,True,False,,2023-06-21T10:43:38Z,0,3,4,1,1,0,1,0
+2498,Add Security Card Games,7188,True,True,2023-06-21T10:16:28Z,2023-06-21T10:16:28Z,5,7,11,1,1,0,1,12755701.0
+2453,Add STEAM,6956,True,True,2023-06-20T23:06:40Z,2023-06-20T23:06:40Z,4,6,11,1,1,0,1,16325649.0
+2687,Create Blog Website,7014,True,False,,2023-06-20T20:32:40Z,0,2,0,1,104,0,104,0
+2449,Add Awesome ChatGPT Prompts,7221,True,False,,2023-06-20T13:20:40Z,5,9,8,1,1,0,1,0
+2442,Add Nim,6818,True,False,,2023-06-20T13:20:17Z,2,9,7,1,1,0,1,0
+2435,Add DeSci,7116,True,False,,2023-06-20T13:19:47Z,12,8,25,1,2,0,2,0
+2431,Add Knowledge Distillation for Object Detection,7039,True,False,,2023-06-20T13:19:21Z,1,5,6,1,1,0,1,0
+2420,Add Qwik,6857,True,False,,2023-06-20T13:18:24Z,8,4,5,1,1,0,1,0
+2400,Add flying-fpv,7526,True,True,2023-06-20T13:12:57Z,2023-06-20T13:12:57Z,3,6,11,1,1,0,1,22575909.0
+2287,Add Memgraph,6920,True,False,,2023-06-20T13:04:27Z,6,6,18,1,1,0,1,0
+2316,Add Cosmos SDK,7018,True,False,,2023-06-20T13:05:28Z,5,9,14,1,1,0,1,0
+2666,Add Amazon Redshift,6933,True,False,,2023-06-06T20:27:04Z,0,2,1,1,1,0,1,0
+2571,Add Tiny JS,5933,True,True,2023-05-19T10:35:17Z,2023-05-19T10:35:17Z,7,7,7,1,1,0,1,4052030.0
+2593,Add Game AI DevTools,7075,True,False,,2023-05-06T03:25:55Z,4,7,6,1,1,0,1,0
+2650,Add The Open Network,399,True,False,,2023-05-29T09:01:53Z,0,1,0,1,1,0,1,0
+2551,style: use check box list for PR template,130,True,True,2023-03-13T07:17:38Z,2023-03-13T07:17:38Z,0,2,0,1,32,32,64,127372.0
+2635,Add Persian,7003,True,False,,2023-05-22T00:59:21Z,0,1,0,1,1,0,1,0
+2612,Add Game AI DevTools,7075,True,False,,2023-05-21T03:16:22Z,2,7,4,1,1,0,1,0
+2631,Add Awesome lists about all kind of AI,6933,True,False,,2023-05-18T10:36:52Z,0,2,1,1,5,0,5,0
+2630,added Safurai coding tool,0,True,False,,2023-05-18T08:23:28Z,0,2,0,1,1,0,1,0
+2628,[Pull Request] Add drip project.,6926,True,False,,2023-05-17T10:53:33Z,0,2,2,1,1,0,1,0
+2625,Add Substreams,6431,True,False,,2023-05-14T07:11:03Z,0,2,3,1,1,0,1,0
+2619,Add Digital Footprint Check,6933,True,False,,2023-05-11T07:38:55Z,0,2,2,1,1,0,1,0
+1269,Add flat badges to gh-pages branch,16,True,True,2018-04-09T08:55:04Z,2018-04-09T08:55:04Z,3,7,3,2,2,0,2,79233.0
+2610,Mojo programming language,43,True,False,,2023-05-06T06:58:26Z,0,2,1,1,1,0,1,0
+2424,Add Read the Docs,8301,True,True,2023-05-08T19:32:00Z,2023-05-08T19:32:00Z,10,8,21,1,1,0,1,15988576.0
+2550,Add Quarto,7049,True,True,2023-04-24T19:43:58Z,2023-04-24T19:43:58Z,3,6,15,1,1,0,1,3801436.0
+2502,Add Monolith Architecture,149,True,False,,2023-05-01T21:36:12Z,3,8,11,0,0,0,0,0
+2546,Remove dead link,62,True,True,2023-03-10T19:28:07Z,2023-03-10T19:28:07Z,1,3,0,1,0,1,1,13646.0
+2433,Add Hackathon,3248,True,True,2023-04-23T08:31:52Z,2023-04-23T08:31:52Z,3,6,11,1,1,0,1,13195785.0
+2470,Add DevOps,6847,True,False,,2023-04-23T18:01:34Z,4,10,9,1,1,0,1,0
+2478,Add Qubes Operating System,7047,True,False,,2023-04-23T17:50:27Z,0,8,10,1,1,0,1,0
+2477,Add awesome-qubes-os ,7477,True,False,,2023-04-23T17:48:53Z,1,4,13,1,1,0,1,0
+2418,Add BitShares,541,True,False,,2023-04-23T08:36:46Z,3,6,3,1,1,0,1,0
+2370,Add Bigtable,331,True,False,,2023-04-23T08:15:57Z,3,5,8,1,1,0,1,0
+2598,Add Android apps and libraries list in readme.md,6991,True,False,,2023-04-22T04:10:43Z,0,1,1,1,1,1,2,0
+2552,Update readme.md,6901,True,False,,2023-03-12T10:34:50Z,0,1,1,1,1,0,1,0
+2417,Add Awesome Ecommerce,6802,True,False,,2023-03-09T16:57:11Z,2,6,10,1,1,0,1,0
+2543,Alphabetized readme.md sections but not sub sections,6941,True,False,,2023-03-09T02:11:07Z,0,2,1,1,502,498,1000,0
+2525,Add Internet Computer,7270,True,False,,2023-03-07T17:15:08Z,2,4,5,1,1,0,1,0
+2038,Add VLC,6039,True,True,2021-07-28T12:16:14Z,2021-07-28T12:16:14Z,2,4,10,1,1,0,1,2436901.0
+2422,Add Back to top button,6844,True,False,,2023-02-07T10:51:10Z,2,4,2,1,26,0,26,0
+2530,Add Public APIs,7127,True,False,,2023-02-23T17:06:09Z,0,2,1,1,1,0,1,0
+2501,Add Locust,6819,True,False,,2023-02-14T15:06:07Z,1,4,5,1,1,0,1,0
+2526,Add Bencher,322,True,False,,2023-02-14T03:51:21Z,0,3,1,1,1,0,1,0
+2445,Add Generative AI,7396,True,True,2023-02-11T17:08:46Z,2023-02-11T17:08:46Z,3,5,10,1,1,0,1,6218525.0
+2327,Add ZeroNet,6952,True,True,2023-02-12T06:39:27Z,2023-02-12T06:39:27Z,3,8,19,1,1,0,1,18107805.0
+2394,Add Digital Humanities,6911,True,True,2023-02-11T06:57:35Z,2023-02-11T06:57:35Z,4,6,7,1,1,0,1,12163248.0
+2288,feat: add Developer Experience list,7539,True,False,,2023-02-11T07:03:16Z,3,6,11,1,1,0,1,0
+1966,Add Bots,6769,True,False,,2023-02-11T06:45:18Z,4,9,8,1,2,1,3,0
+2521,Add asp.net,6911,True,False,,2023-02-10T08:47:51Z,0,2,1,1,1,0,1,0
+2520,added Asp.net,6798,True,False,,2023-02-09T20:01:41Z,0,1,1,1,2,0,2,0
+2390,Add ICP,675,True,False,,2023-02-09T18:12:21Z,3,7,8,1,1,0,1,0
+2314,Add Quantitative Finance,7124,True,False,,2023-02-06T17:32:11Z,2,6,9,1,2,0,2,0
+2290,add Awesome.Tools,6760,True,False,,2023-02-06T17:31:50Z,2,4,2,1,1,0,1,0
+2274,Add iOS Security,6798,True,False,,2023-02-06T17:31:28Z,1,6,7,1,1,0,1,0
+2265,Add Apple Security,7191,True,False,,2023-02-06T17:20:25Z,3,4,7,1,1,0,1,0
+2397,Add Horizon UI - Trendiest admin template for React,6752,True,False,,2023-02-06T17:18:46Z,1,5,3,1,1,0,1,0
+2511,Add Data Pipeline,7676,True,False,,2023-02-06T12:06:49Z,0,2,5,1,1,0,1,0
+2510,Add Data Pipeline,7418,True,False,,2023-02-05T14:34:37Z,0,1,2,1,1,0,1,0
+2405,Add ComputerCraft,6827,True,True,2023-02-03T14:12:48Z,2023-02-03T14:12:48Z,2,4,18,1,1,0,1,10164744.0
+2386,Add Password Cracking,6869,True,True,2022-12-26T12:24:46Z,2022-12-26T12:24:46Z,9,9,12,1,1,0,1,8380280.0
+605,Add Bookmarklets,35,True,False,,2016-05-13T07:52:34Z,0,4,5,1,1,0,1,0
+2481,ClickHouse added to databases,6765,True,False,,2023-01-15T19:23:55Z,0,2,1,1,1,0,1,0
+2487,Delete readme.md,6765,True,False,,2023-01-15T10:02:11Z,0,1,0,1,0,917,917,0
+1962,Run `awesome-lint` on new additions,1644,True,True,2021-04-19T09:59:15Z,2021-04-19T09:59:15Z,5,3,3,2,36,0,36,3580580.0
+2330,put links in the correct category,0,True,True,2022-07-20T11:13:25Z,2022-07-20T11:13:25Z,1,3,0,1,2,2,4,68639.0
+2468,Create devcontainer.json,6765,True,False,,2023-01-01T23:28:04Z,0,2,0,1,5,0,5,0
+2465,Add awesome carbon repo,135,True,False,,2022-12-28T09:30:17Z,1,3,3,1,1,0,1,0
+2462,Add Certificates,348,True,False,,2022-12-27T13:17:39Z,0,4,4,1,1,0,1,0
+2459,Update link to Awesome Web Components,710,True,True,2022-12-21T21:03:29Z,2022-12-21T21:03:29Z,0,2,0,1,1,1,2,178828.0
+2426,Add Supabase,6431,True,True,2022-12-17T17:27:19Z,2022-12-17T17:27:19Z,5,7,8,1,1,0,1,3468332.0
+2325,Add Engineering Strategy,7012,True,True,2022-12-16T23:29:47Z,2022-12-16T23:29:47Z,9,6,22,1,1,0,1,13346561.0
+2300,React - Framework -> Library,97,True,True,2022-06-26T19:50:44Z,2022-06-26T19:50:44Z,1,3,0,1,2,2,4,173.0
+2382,Add Master CSS,6917,True,True,2022-12-07T13:45:05Z,2022-12-07T13:45:05Z,2,6,12,1,1,0,1,7116676.0
+2451,Update readme.md,6805,True,False,,2022-12-13T10:03:29Z,0,3,1,1,0,14,14,0
+2428,Add Digital Marketing,6960,True,False,,2022-12-02T16:22:34Z,1,3,3,1,1,1,2,0
+2436,feat: add awesome GitHub Blocks,280,True,False,,2022-11-22T07:31:06Z,0,2,1,1,1,0,1,0
+2331,Add CSS Resources,290,True,False,,2022-11-20T12:58:46Z,3,5,10,1,1,0,1,0
+2372,Add Learn Gamedev,7077,True,True,2022-11-20T13:16:04Z,2022-11-20T13:16:04Z,0,3,5,1,1,0,1,5902271.0
+2302,Add Move,7281,True,True,2022-11-19T20:45:58Z,2022-11-19T20:45:58Z,2,6,6,1,1,0,1,12453641.0
+2289,Add Hydrogen,7193,True,True,2022-11-19T20:26:56Z,2022-11-19T20:26:56Z,0,4,10,1,1,0,1,13048775.0
+2285,Add Scapy,6949,True,True,2022-11-19T20:16:15Z,2022-11-19T20:16:15Z,1,7,11,1,1,0,1,13229344.0
+2278,Add ZkEVM,6945,True,False,,2022-11-19T20:13:01Z,2,7,8,1,1,0,1,0
+2275,Add Computational Geometry,7193,True,True,2022-11-19T20:10:08Z,2022-11-19T20:10:08Z,2,6,7,1,1,0,1,14826810.0
+2169,Add Clubhouse,6738,True,False,,2022-11-19T20:02:49Z,9,11,19,1,1,0,1,0
+2430,Add Privacy Computing,6800,True,False,,2022-11-15T14:31:31Z,0,2,4,1,1,0,1,0
+2427,Add Anti-Censorship,6893,True,False,,2022-11-08T06:11:23Z,0,2,4,1,1,0,1,0
+2425,add rust books repository,6765,True,False,,2022-11-07T04:05:10Z,0,1,0,1,1,0,1,0
+2159,docs: add awesome list template,310,True,False,,2022-11-04T23:56:36Z,0,3,5,2,14,0,14,0
+2171,Add Open Source Games,6824,True,True,2022-09-27T08:50:45Z,2022-09-27T08:50:45Z,2,5,14,1,1,1,2,20170374.0
+2007,Add Software Architecture,6692,True,False,,2021-07-28T00:18:55Z,4,4,13,1,1,0,1,0
+1410,Add Shopify,179,True,False,,2019-04-08T11:46:12Z,1,4,9,1,1,0,1,0
+2410,Add Flatpak,6765,True,False,,2022-10-24T10:05:06Z,0,4,5,1,1,0,1,0
+2407,Add Django,7126,True,False,,2022-10-12T16:36:44Z,0,2,1,1,1,0,1,0
+1928,Add Startpage,6708,True,False,,2021-06-05T10:25:49Z,4,5,12,1,1,0,1,0
+2402,Meta tweaks,6765,True,False,,2022-10-02T15:50:35Z,0,2,0,1,25,72,97,0
+2329,Added nyquist/awesome-networking,6892,True,False,,2022-07-18T21:11:46Z,0,2,3,1,1,0,1,0
+2155,Add Digital Humanities,6862,True,False,,2022-09-23T12:08:35Z,1,6,16,0,0,0,0,0
+2385,Rename Higher Education,212,True,True,2022-09-22T11:22:20Z,2022-09-22T11:22:20Z,0,2,3,1,10,10,20,245272.0
+2258,add smart contract security,85,True,False,,2022-06-05T11:10:56Z,1,5,4,1,2,0,2,0
+2270,Add Laravel Awesome,6765,True,False,,2022-09-21T12:37:02Z,2,6,3,1,1,0,1,0
+2380,Fix #2379,0,True,False,,2022-09-21T09:38:56Z,0,2,1,1,1,0,1,0
+2373,Add Processing,6965,True,False,,2022-09-20T21:37:40Z,4,3,0,0,0,0,0,0
+2381,Add Master CSS,0,True,False,,2022-09-16T04:47:30Z,0,1,0,1,1,0,1,0
+2335,Add GraphQL Security,6964,True,False,,2022-07-31T13:56:55Z,1,4,8,1,1,0,1,0
+2367,Add Django resources,6768,True,False,,2022-09-06T08:02:57Z,0,2,1,1,1,0,1,0
+2336,Add Whatsup,6921,True,False,,2022-07-25T14:52:49Z,2,5,4,1,1,0,1,0
+2363,Add Remix,6777,True,False,,2022-08-25T13:12:36Z,1,2,2,1,1,0,1,0
+2292,Add Snapcraft,6799,True,False,,2022-06-23T23:40:08Z,2,5,1,1,1,0,1,0
+2301,Add Memory Forensics,7049,True,False,,2022-06-28T07:27:37Z,1,2,0,1,1,0,1,0
+2332,Add Spring,6863,True,False,,2022-08-05T16:40:52Z,0,3,4,1,1,0,1,0
+2320,Add AGI & CoCoSci,14870,True,True,2022-07-23T10:37:54Z,2022-07-23T10:37:54Z,1,4,10,1,1,0,1,1193195.0
+2099,Add AGI & CoCoSci,8102,True,False,,2022-07-20T13:11:50Z,1,4,19,1,1,0,1,0
+2322,Django added to Back-End Development,6765,True,False,,2022-07-12T11:29:44Z,0,1,0,1,1,0,1,0
+2317,Add AI Audio Startups,102,True,False,,2022-07-12T00:15:44Z,0,3,3,1,1,0,1,0
+2313,Add Quantitative Finance,7114,True,False,,2022-07-05T23:58:55Z,0,3,1,1,1,0,1,0
+2025,Add MDBootstrap,6808,True,True,2021-07-04T12:30:29Z,2021-07-04T12:30:29Z,0,5,6,1,1,0,1,3187650.0
+2262,Add SmollCSS,6778,True,False,,2022-05-15T15:39:17Z,0,2,1,1,1,0,1,0
+2291,"Added: Remix, Snapcraft awesome GitHub repository",6803,True,False,,2022-06-22T17:12:50Z,0,3,1,1,2,0,2,0
+2282,Add Cloud Security,6765,True,False,,2022-06-16T03:02:42Z,0,1,0,1,1,0,1,0
+2202,Add SNMP,6734,True,True,2022-06-13T07:38:12Z,2022-06-13T07:38:13Z,3,5,13,1,1,0,1,8464603.0
+2252,Remove Social Media Share Links,83,True,True,2022-05-02T12:24:10Z,2022-05-02T12:24:10Z,0,2,0,1,0,1,1,4629.0
+2266,Add Open Hardware,7002,True,True,2022-06-05T11:14:54Z,2022-06-05T11:14:54Z,5,5,6,1,1,0,1,1393963.0
+2267,Add Plone,6957,True,True,2022-06-05T11:24:05Z,2022-06-05T11:24:06Z,1,4,5,1,1,0,1,1370473.0
+2249,Add TDengine,6760,True,True,2022-06-05T11:02:13Z,2022-06-05T11:02:13Z,0,3,3,1,1,0,1,3488771.0
+2268,Add Cyber Security University,6895,True,True,2022-06-09T14:29:01Z,2022-06-09T14:29:02Z,4,3,7,1,1,0,1,1592727.0
+2184,Add Malware Persistence,7852,True,True,2022-06-05T10:04:53Z,2022-06-05T10:04:53Z,3,3,6,1,1,0,1,9507807.0
+2215,Add OpenStreetMap,7181,True,True,2022-06-05T10:51:34Z,2022-06-05T10:51:34Z,2,7,11,1,1,0,1,6815062.0
+2257,Add Computational Biology,7282,True,True,2022-06-05T11:07:30Z,2022-06-05T11:07:31Z,2,6,7,1,1,0,1,2291849.0
+2217,Add Fiber,6901,True,True,2022-06-05T10:55:45Z,2022-06-05T10:55:45Z,3,7,7,1,1,0,1,6133803.0
+2213,Add EVM Security,6897,True,True,2022-06-05T10:48:00Z,2022-06-05T10:48:00Z,0,5,9,1,1,0,1,6892910.0
+2212,ArcGIS Developer,7230,True,True,2022-06-05T10:32:24Z,2022-06-05T10:32:24Z,0,4,6,1,1,0,1,7041081.0
+2193,Add Development Containers (#2190),6981,True,False,,2022-06-05T10:11:38Z,3,5,4,1,4,0,4,0
+2189,Add Photonics,6858,True,False,,2022-06-05T10:10:08Z,1,5,7,1,1,0,1,0
+2170,Add ExtJS,6967,True,False,,2022-06-02T14:10:01Z,5,7,7,1,1,0,1,0
+2161,Add Capacitor,6874,True,True,2022-06-02T13:53:53Z,2022-06-02T13:53:53Z,0,4,13,1,1,0,1,11237062.0
+2160,Add Conversational AI,6972,True,True,2022-06-02T12:24:33Z,2022-06-02T12:24:33Z,0,4,7,1,1,0,1,11286019.0
+2084,Add Directus,6976,True,True,2022-06-02T11:29:49Z,2022-06-02T11:29:49Z,3,8,12,1,1,0,1,19421518.0
+2153,Add Zig,6764,True,True,2022-06-02T11:33:32Z,2022-06-02T11:33:32Z,1,5,9,1,1,0,1,11971151.0
+2050,Add OSS Docs,6925,True,False,,2022-06-02T11:19:30Z,6,7,17,1,1,0,1,0
+2023,Add Audit Algorithms,6611,True,True,2022-06-02T11:14:48Z,2022-06-02T11:14:48Z,2,5,14,1,1,0,1,32154776.0
+2263,add beautify github profile,6765,True,False,,2022-05-17T10:57:34Z,0,3,2,1,1,0,1,0
+2261,Development,6765,True,False,,2022-05-13T06:37:40Z,0,2,0,2,2,0,2,0
+2245,add awesome MLOps,0,True,False,,2022-04-22T00:02:51Z,0,2,1,1,1,0,1,0
+2243,add reference to #2242 in pull_request_template.md,119,True,True,2022-04-20T14:51:48Z,2022-04-20T14:51:48Z,0,2,0,1,1,1,2,2607.0
+2216,Add Authorization,6780,True,False,,2022-04-04T04:11:18Z,0,4,6,1,1,0,1,0
+2223,Update link to Ansible,7120,True,True,2022-04-01T06:34:13Z,2022-04-01T06:34:14Z,2,4,1,1,1,1,2,33690.0
+2222,Switch to gender neutral terms,308,True,False,,2022-03-30T19:48:14Z,0,1,0,2,4,4,8,0
+2221,Switch to gender neutral terms,220,True,False,,2022-03-30T19:35:23Z,0,1,0,3,6,6,12,0
+2219,"Remove contexture, repository no longer exists",44,True,True,2022-03-30T09:11:43Z,2022-03-30T09:11:43Z,0,2,0,1,0,1,1,290782.0
+2214,Add MCPi,6718,True,False,,2022-03-18T13:32:53Z,1,3,2,1,1,0,1,0
+2067,Add Slim,6919,True,True,2022-02-27T08:48:06Z,2022-02-27T08:48:06Z,1,4,8,1,1,0,1,12397363.0
+2055,Add Arduino,6762,True,False,,2022-02-27T08:38:19Z,3,5,7,1,1,0,1,0
+2106,Add Motoko,7109,True,False,,2022-02-27T08:37:55Z,0,3,7,1,3,0,3,0
+2035,Add Fetch,6574,True,False,,2022-02-27T08:37:42Z,5,12,23,1,1,0,1,0
+2158,"Add 'MathWorks Excellence in Innovation project list' for students and faculty looking for project ideas with industry relevance for their capstone, senior design class or Master thesis. https://github.com/mathworks/MathWorks-Excellence-in-Innovation",6794,True,False,,2022-02-27T08:35:55Z,0,2,2,1,25,0,25,0
+2188,Remove list `RubyMotion`,6717,True,True,2022-02-17T05:07:07Z,2022-02-17T05:07:08Z,2,3,1,1,0,1,1,3768.0
+2186,add photonics ,4648,True,False,,2022-02-17T06:44:58Z,1,4,6,1,1,0,1,0
+2181,Update info about `lit`,6895,True,True,2022-02-14T15:45:30Z,2022-02-14T15:45:30Z,1,3,0,1,1,1,2,14935.0
+2180,Update redirected links,7434,True,True,2022-02-14T15:44:27Z,2022-02-14T15:44:27Z,0,2,2,1,11,11,22,32431.0
+2165,Add Algorand,7155,True,True,2022-02-13T11:37:09Z,2022-02-13T11:37:09Z,1,4,13,1,1,0,1,1689039.0
+2151,Add Executable Packing,6852,True,True,2022-02-13T11:12:27Z,2022-02-13T11:12:27Z,1,4,13,1,1,0,1,2639323.0
+2174,Add 'Awesome Azure Architecture' list.,7292,True,False,,2022-02-09T08:07:23Z,0,2,1,1,1,0,1,0
+2133,Add Open Source Games,6812,True,False,,2022-02-05T21:59:30Z,1,8,16,1,1,1,2,0
+1475,Improve Node.js description,1760,True,True,2018-12-12T22:21:24Z,2018-12-12T22:21:24Z,0,2,0,1,1,1,2,122017.0
+1476,Improve Flutter description,1561,True,True,2018-12-15T02:18:55Z,2018-12-15T02:18:55Z,0,2,0,1,1,1,2,87124.0
+2164,Add Devops,6894,True,False,,2022-01-24T13:25:41Z,0,1,0,1,1,0,1,0
+2136,Add Esports,13875,True,True,2022-01-23T14:22:44Z,2022-01-23T14:22:44Z,2,3,5,1,1,0,1,2151084.0
+2076,Add Gatling,6784,True,True,2022-01-23T11:19:55Z,2022-01-23T11:19:55Z,2,5,6,1,1,0,1,8696370.0
+2101,Add  Awesome black friday & Cyber Monday deals List,7049,True,False,,2022-01-23T11:05:01Z,0,5,4,1,3,0,3,0
+2157,Update readme.md,0,True,False,,2022-01-21T04:07:06Z,0,1,0,1,1,0,1,0
+2111,Add Node-RED,6992,True,True,2022-01-17T18:18:23Z,2022-01-17T18:18:23Z,1,7,9,1,1,0,1,4190116.0
+2154,"synths-diy, eurorack-diy, selfhosted added",0,True,False,,2022-01-17T16:16:12Z,0,3,3,1,3,0,3,0
+2150,Add Peregrine,0,True,False,,2022-01-15T05:31:30Z,0,3,2,1,2,0,2,0
+1393,Add Racket,134,True,False,,2019-02-26T08:57:52Z,2,5,6,1,1,0,1,0
+2144,Add vnstat,6621,True,False,,2022-01-06T21:49:32Z,0,2,1,1,2,0,2,0
+2135,Add Video Object Segmentation,7041,True,False,,2021-12-29T11:24:59Z,0,2,1,1,2,2,4,0
+2132,Add Open Source Games - Changing owner,6793,True,False,,2021-12-26T03:00:53Z,0,1,1,1,1,1,2,0
+2131,Alphabetize All Lists.,7105,True,False,,2021-12-26T00:29:55Z,0,2,2,1,736,722,1458,0
+2124,Add SVGView,6778,True,False,,2021-12-21T13:17:28Z,0,2,1,1,1,0,1,0
+2122,Added Gradient Generator Javascript,179,True,False,,2021-12-19T11:12:21Z,0,2,1,1,1,0,1,0
+1856,Add Privacy Papers for Visual Data,5802,True,False,,2021-01-09T19:20:17Z,3,4,9,1,1,0,1,0
+2105,Add Graphics Programming,409,True,False,,2021-11-24T11:32:35Z,0,2,2,1,1,0,1,0
+2053,Add Neovim,95,True,True,2021-11-26T04:57:42Z,2021-11-26T04:57:42Z,0,3,10,1,1,0,1,6799638.0
+2045,Add AppImage,7,True,True,2021-09-19T08:45:45Z,2021-09-19T08:45:45Z,2,4,10,1,1,0,1,2940275.0
+2059,Add Effector,6755,True,False,,2021-11-24T10:35:19Z,2,4,9,1,1,0,1,0
+1997,Add Nim,7163,True,False,,2021-11-24T10:33:12Z,0,5,10,1,1,0,1,0
+2100,Add ETL,6749,True,False,,2021-11-17T15:48:48Z,0,1,0,1,1,0,1,0
+2096,[Gaming] - Game accessibility guidelines,6720,True,False,,2021-11-15T10:29:00Z,0,2,1,1,8,0,8,0
+2088,Add Express,0,True,False,,2021-10-29T15:17:24Z,0,2,1,1,1,0,1,0
+2087,Add Peregrine language,0,True,False,,2021-10-29T15:16:53Z,0,2,1,1,3,0,3,0
+2086,add Mips Assembly Repository (High To Low),6720,True,False,,2021-10-29T08:59:09Z,0,2,1,1,1,0,1,0
+2083,Use absolute links in pull request template,161,True,True,2021-10-20T16:54:58Z,2021-10-20T16:54:58Z,0,2,0,1,3,3,6,1843.0
+2082,test,6720,True,False,,2021-10-20T16:13:57Z,0,1,0,1,1,1,2,0
+2054,Add Integration,7073,True,True,2021-09-22T11:14:56Z,2021-09-22T11:14:56Z,3,2,2,1,1,0,1,1099944.0
+2077,Adding BerylDB,6737,True,False,,2021-10-15T17:55:18Z,0,2,1,1,2,1,3,0
+2075,add awesome-ml-character,6939,True,False,,2021-10-14T17:56:42Z,0,2,0,1,1,0,1,0
+2065,Add XRPL,6712,True,False,,2021-10-03T06:36:13Z,0,2,1,1,1,0,1,0
+2066,Update webpack,66,True,False,,2021-10-03T06:27:19Z,0,1,0,1,1,1,2,0
+2064,Update .editorconfig,6720,True,False,,2021-10-02T05:26:21Z,0,2,0,1,1,1,2,0
+2063,Add SvelteKit,0,True,False,,2021-09-27T13:58:24Z,0,2,2,1,2,1,3,0
+2062,Added telegram bots,6737,True,False,,2021-09-27T12:04:38Z,0,2,2,1,1,0,1,0
+2061,Added telegram bots,24,True,False,,2021-09-27T11:27:10Z,0,2,2,1,1,0,1,0
+2060,Add Django,240,True,False,,2021-09-24T14:29:47Z,0,2,9,1,1,0,1,0
+2058,Added Awesome-Ricing,6714,True,False,,2021-09-18T13:09:50Z,0,2,2,1,1,0,1,0
+2021,Add Maps,6527,True,False,,2021-09-17T15:54:40Z,0,4,9,1,1,0,1,0
+2011,Add Version Managers,6949,True,False,,2021-09-17T15:54:20Z,2,4,13,1,1,0,1,0
+2010,Add Developer Experience,7137,True,False,,2021-09-17T15:54:06Z,0,4,11,1,1,0,1,0
+1965,Add Supabase,6555,True,False,,2021-09-17T15:48:53Z,4,7,11,1,1,0,1,0
+2052,Add WebXR,6396,True,True,2021-09-17T08:44:10Z,2021-09-17T08:44:11Z,0,2,4,1,1,0,1,1128308.0
+2051,Remove macOS Command Line,6820,True,True,2021-08-31T22:21:51Z,2021-08-31T22:21:51Z,0,2,3,2,1,2,3,57753.0
+2048,Add awesome-vrchat and awesome-metaverse,6934,True,False,,2021-08-23T21:44:34Z,0,2,2,1,3,0,3,0
+2047,Add Awesome Wildfire,6829,True,False,,2021-08-19T21:18:40Z,0,2,4,1,9,3,12,0
+1936,Update link to Godot list,6521,True,True,2021-08-16T17:56:53Z,2021-08-16T17:56:53Z,2,7,10,1,1,1,2,17746347.0
+2044,Add Bootstrap 5 CheatSheet,906,True,False,,2021-08-03T15:43:41Z,1,4,1,1,1,0,1,0
+1987,Update link to Grakn,171,True,True,2021-07-29T13:20:51Z,2021-07-29T13:20:51Z,0,3,4,1,1,1,2,8455064.0
+1953,Add Scriptable,6731,True,True,2021-07-29T11:58:23Z,2021-07-29T11:58:23Z,1,3,18,1,1,0,1,13640542.0
+2039,Add Stacks,6837,True,True,2021-07-29T11:27:55Z,2021-07-29T11:27:55Z,0,3,12,1,1,0,1,2398138.0
+1794,Lint with awesome-lint via GitHub Actions,50,True,False,,2021-07-28T10:48:03Z,2,10,16,1,15,0,15,0
+2042,Add OSS Docs,6645,True,False,,2021-07-28T08:36:33Z,0,3,3,1,1,0,1,0
+2034,Add Internships,6643,True,True,2021-07-28T00:06:23Z,2021-07-28T00:06:23Z,0,4,11,1,1,0,1,3078673.0
+1926,Add Billing,7114,True,True,2021-07-27T12:24:44Z,2021-07-27T12:24:44Z,1,5,10,1,1,0,1,18139368.0
+2019,Add Privacy,6321,True,False,,2021-07-27T12:31:35Z,2,3,6,1,1,0,1,0
+2020,Add Network Automation to Network section,6545,True,False,,2021-07-27T12:30:50Z,0,5,5,1,1,0,1,0
+1942,Add Awesome .Net Core Education,6645,True,False,,2021-07-27T12:28:34Z,2,3,20,1,1,0,1,0
+1952,Add JavaScript CLIs,182,True,False,,2021-07-27T12:28:56Z,1,3,10,1,1,0,1,0
+1950,Add Developer Advocacy,6590,True,False,,2021-07-27T12:25:52Z,0,8,6,1,1,0,1,0
+1981,Add Projen,1119,True,False,,2021-07-27T12:19:45Z,1,4,2,1,1,0,1,0
+1964,Add GPT-3,6734,True,False,,2021-07-27T12:07:33Z,0,5,4,1,1,0,1,0
+1963,Add Artificial Humour,6595,True,False,,2021-07-27T12:07:04Z,1,3,8,1,1,0,1,0
+1959,Add Reconnaissance and Footprinting,6601,True,False,,2021-07-27T12:06:15Z,1,4,8,1,1,0,1,0
+1954,Add Full-Text Search,270,True,False,,2021-07-27T12:05:39Z,0,4,10,1,1,0,1,0
+1896,Add Project Questions,6528,True,False,,2021-07-27T12:01:47Z,0,6,8,1,2,0,2,0
+1960,Add Theoretical Computer Science,6767,True,True,2021-07-07T13:52:21Z,2021-07-07T13:52:22Z,2,3,20,1,1,0,1,10732859.0
+1939,Add Google Play Apps,6773,True,False,,2021-07-06T10:34:24Z,0,6,11,1,1,0,1,0
+2001,Add MLOps to Machine Learning,6537,True,False,,2021-07-06T10:20:04Z,1,6,6,1,1,0,1,0
+2012,Add Zabbix iten on the list,6493,True,False,,2021-07-06T10:15:24Z,2,4,7,1,27,0,27,0
+1951,Add Tesla,195,True,False,,2021-07-06T09:52:31Z,0,4,9,1,1,0,1,0
+2037,Add Track Awesome List,6802,True,True,2021-07-05T16:49:56Z,2021-07-05T16:49:57Z,0,4,7,1,1,0,1,528799.0
+2024,Add Golem,6868,True,True,2021-07-05T16:46:15Z,2021-07-05T16:46:15Z,4,3,4,1,1,0,1,3386572.0
+2033,Add Authentication & Authorization,6697,True,False,,2021-06-23T19:59:04Z,0,3,5,1,1,0,1,0
+2032,Add Django,6721,True,False,,2021-06-15T16:58:03Z,0,1,0,1,1,0,1,0
+1859,Add Egocentric Vision,6151,True,False,,2021-06-06T22:50:10Z,1,7,21,1,1,0,1,0
+2031,Add moldy to the Miscellaneous field,6526,True,False,,2021-06-05T21:49:51Z,0,2,1,1,1,0,1,0
+2013,Add Urban & Regional Planning,7665,True,True,2021-06-05T12:22:25Z,2021-06-05T12:22:26Z,5,3,8,1,1,0,1,1856378.0
+1823,Add Knative,6137,True,False,,2021-06-04T19:18:40Z,0,6,14,1,1,0,1,0
+1983,Add Web Effect,6470,True,False,,2021-06-04T19:11:06Z,2,4,2,1,1,0,1,0
+1974,Add Jai language awesome document,6470,True,False,,2021-06-03T20:28:32Z,2,5,7,1,1,0,1,0
+1892,Add Awesome minimalist frameworks,6626,True,False,,2021-06-03T19:59:50Z,0,5,9,1,1,0,1,0
+2026,switch awesome-c's repository,151,True,False,,2021-06-01T20:06:03Z,0,1,6,1,1,1,2,0
+2028,Fix CI (GitHub actions) test failing,214,True,True,2021-06-01T19:07:57Z,2021-06-01T19:07:57Z,0,2,2,1,2,2,4,5516.0
+2003,Fix git diff command in repo linter,268,True,True,2021-05-02T18:20:26Z,2021-05-02T18:20:26Z,0,2,1,1,1,1,2,2726.0
+1970,Add vite,217,True,False,,2021-05-28T12:50:19Z,3,6,5,1,1,0,1,0
+1985,Add Audit Algorithms,6512,True,False,,2021-05-26T07:17:20Z,0,4,7,1,1,0,1,0
+2022,Add Neovim to editors,6532,True,False,,2021-05-26T06:21:47Z,0,2,1,1,1,0,1,0
+2018,alphabetized all lists and headers,497,True,False,,2021-05-20T06:47:15Z,0,4,4,1,607,607,1214,0
+2017,Add Rome,6866,True,False,,2021-05-19T10:04:21Z,0,2,2,1,1,0,1,0
+2006,Add Inertia.js,5906,True,True,2021-05-17T17:24:31Z,2021-05-17T17:24:31Z,0,3,7,1,1,0,1,895127.0
+2014,BDelete .editorconfig,6470,True,False,,2021-05-17T05:51:30Z,0,3,2,1,0,8,8,0
+2002,Awesome R blogs - unicorn,6580,True,False,,2021-05-02T15:41:02Z,0,2,2,1,1,0,1,0
+1980,Add XAI,6903,True,True,2021-05-12T07:57:23Z,2021-05-12T07:57:23Z,2,3,13,1,1,0,1,3167401.0
+2009,Add Developer Experience,6578,True,False,,2021-05-08T08:39:21Z,0,1,0,1,1,0,1,0
+1941,Add Awesome .Net Async ,6672,True,False,,2021-05-07T11:11:54Z,0,3,5,1,1,0,1,0
+2005,Remove Chalice,112,True,True,2021-05-03T18:44:04Z,2021-05-03T18:44:04Z,0,1,0,1,0,1,1,801.0
+1990,Add Cassandra,6678,True,True,2021-05-02T11:06:51Z,2021-05-02T11:06:51Z,0,2,7,1,1,0,1,756618.0
+2000,Added Awesome Privacy,6592,True,False,,2021-04-30T09:14:58Z,0,1,0,1,1,0,1,0
+1999,docs: added Contributor Over Time,82,True,False,,2021-04-27T15:23:45Z,0,2,1,1,4,0,4,0
+1873,Add QR Code,3321,True,True,2021-02-26T10:35:36Z,2021-02-26T10:35:36Z,4,8,19,1,1,0,1,12939798.0
+1922,Add Awesome Protocols,6519,True,False,,2021-04-24T18:24:21Z,1,3,7,1,1,0,1,0
+1878,Add Android Learning Resources,6385,True,True,2021-04-19T09:24:22Z,2021-04-19T09:24:22Z,0,4,12,0,0,0,0,16669982.0
+1984,Add Chalice,6741,True,True,2021-04-19T09:23:48Z,2021-04-19T09:23:48Z,0,2,15,1,1,0,1,588590.0
+1867,Add Tasker,394,True,False,,2020-11-20T05:27:48Z,1,5,9,1,1,0,1,0
+1949,Introduce Auto Checking of URLs,302,True,False,,2021-04-12T14:32:47Z,1,3,1,1,39,0,39,0
+1979,Add XAI,6726,True,False,,2021-04-05T16:06:40Z,0,2,2,1,1,0,1,0
+1947,Add Popular Reddit Channels,6606,True,False,,2021-04-05T15:55:31Z,1,4,8,1,1,0,1,0
+1973,Add Nix,6904,True,True,2021-04-02T19:51:59Z,2021-04-02T19:51:59Z,4,3,6,1,1,0,1,541153.0
+1234,Add Mutation Testing,198,True,False,,2019-06-19T15:45:17Z,3,5,15,1,1,0,1,0
+1344,Add Japanese Language,3057,True,False,,2019-04-08T11:44:52Z,2,6,10,1,1,0,1,0
+1795,Add Audiovisual,340,True,True,2020-06-27T20:03:01Z,2020-06-27T20:03:01Z,2,3,5,1,1,0,1,1084246.0
+1969,Add Awesome Viewer to Related section,6550,True,True,2021-03-19T07:05:00Z,2021-03-19T07:05:01Z,0,2,0,1,1,0,1,43921.0
+1961,Add Python in Learning,6550,True,False,,2021-03-18T13:08:25Z,0,5,23,1,1,0,1,0
+1967,Add Bigtable,6655,True,False,,2021-03-11T16:33:33Z,0,2,0,1,1,0,1,0
+1938,Add Grakn,6700,True,True,2021-03-10T07:40:17Z,2021-03-10T07:40:17Z,0,2,15,1,1,0,1,3787971.0
+1921,Add Quality Assurance Roadmap,497,True,True,2021-03-10T08:33:26Z,2021-03-10T08:33:26Z,2,3,18,1,1,0,1,7329664.0
+1907,Add Translations,6813,True,True,2021-03-09T16:29:50Z,2021-03-09T16:29:50Z,5,5,24,1,1,0,1,9778206.0
+1872,Add Headless CMS,5920,True,False,,2021-03-07T12:19:22Z,0,3,9,1,1,0,1,0
+1916,Add IAM,5775,True,True,2021-03-07T14:33:18Z,2021-03-07T14:33:18Z,4,2,11,1,1,0,1,7771829.0
+1863,Add Flash Briefings,5832,True,False,,2021-03-07T12:51:48Z,0,6,8,1,1,0,1,0
+1946,Add BioHacking,6669,True,False,,2021-03-07T12:37:21Z,0,3,2,1,1,0,1,0
+1931,Typescript,6463,True,False,,2021-03-07T12:36:10Z,0,4,5,1,1,0,1,0
+1944,Added Biohacking list in Security,6548,True,False,,2021-03-07T12:26:55Z,0,3,2,1,1,0,1,0
+1912,Add Awesome-autism,6527,True,False,,2021-03-07T12:19:49Z,0,5,5,1,1,0,1,0
+1914,Add Developer-First Products,7471,True,True,2021-03-07T12:03:41Z,2021-03-07T12:03:41Z,1,3,8,1,1,0,1,8360389.0
+1935,Add JAX,7182,True,True,2021-03-07T11:42:18Z,2021-03-07T11:42:18Z,0,3,8,1,1,0,1,3740904.0
+1958,Add awesome-raylib!,6557,True,False,,2021-02-26T13:17:56Z,0,1,0,1,1,0,1,0
+476,Add JavaScript Network Layer,80,True,False,,2016-01-29T01:18:24Z,0,2,4,1,1,0,1,0
+1945,Added awesome-sales to readme,6470,True,False,,2021-02-06T06:13:11Z,0,1,0,1,1,0,1,0
+1917,Add DOS,7104,True,True,2021-01-31T09:42:20Z,2021-01-31T09:42:20Z,1,4,8,1,1,0,1,4543712.0
+1943,- add awesome-svelte-components,70,True,False,,2021-02-03T23:03:43Z,0,1,0,1,1,0,1,0
+1940,Add cyber,6724,True,False,,2021-01-27T14:02:38Z,0,3,3,1,1,0,1,0
+1937,Add Android(Mobile) Apps,6606,True,False,,2021-01-24T13:47:15Z,0,2,1,1,1,0,1,0
+1932,Add JavaScript Data Science,6760,True,False,,2021-01-23T22:40:04Z,2,4,5,1,1,0,1,0
+1933,Add Games of Coding,6811,True,True,2021-01-18T07:42:46Z,2021-01-18T07:42:46Z,0,2,6,1,1,0,1,329148.0
+1876,Add Design Systems,7032,True,True,2021-01-17T09:55:34Z,2021-01-17T09:55:34Z,3,7,16,1,1,0,1,9227021.0
+1915,Add Games of Coding,6811,True,False,,2021-01-14T11:32:43Z,3,3,8,1,1,0,1,0
+1886,Add Veganism,7012,True,True,2021-01-12T07:47:36Z,2021-01-12T07:47:36Z,5,7,13,1,1,0,1,6899780.0
+1930,Add Bolt CMS,6686,True,False,,2021-01-12T06:34:05Z,0,3,2,1,1,0,1,0
+1817,Add Hive,5914,True,False,,2021-01-10T10:33:12Z,6,3,15,1,1,0,1,0
+1929,Add Hive,6546,True,False,,2021-01-10T19:45:10Z,0,2,2,1,1,0,1,0
+1862,Add Biological Visualizations,6202,True,True,2021-01-10T10:38:21Z,2021-01-10T10:38:21Z,0,2,7,1,1,0,1,10938642.0
+1905,Add Robotic Tooling,7352,True,True,2021-01-10T10:37:12Z,2021-01-10T10:37:12Z,0,3,7,1,1,0,1,4814161.0
+1879,Add Silverstripe CMS,6047,True,True,2021-01-10T10:35:26Z,2021-01-10T10:35:26Z,3,5,14,1,1,0,1,8009681.0
+1868,Add YouTubers,6809,True,True,2021-01-09T19:27:32Z,2021-01-09T19:27:32Z,3,5,6,1,1,0,1,9168278.0
+1838,Add Real World RL,6022,True,False,,2021-01-09T19:05:07Z,1,5,11,1,1,0,1,0
+1827,Add CDK,311,True,True,2021-01-07T07:53:40Z,2021-01-07T07:53:40Z,1,4,12,1,1,0,1,14765867.0
+1927,Add Prometheus-exporters,6484,True,False,,2020-12-30T10:17:05Z,0,2,1,1,1,0,1,0
+1924,Add list,6551,True,False,,2020-12-22T20:08:55Z,0,1,0,1,1,0,1,0
+1908,Add LIDAR,7078,True,True,2020-12-22T06:06:05Z,2020-12-22T06:06:05Z,1,3,8,1,1,0,1,3079263.0
+1923,Add Charts.css,6427,True,False,,2020-12-20T12:33:33Z,0,2,0,1,1,0,1,0
+1895,Add Creative Technology,6549,True,True,2020-12-20T09:54:29Z,2020-12-20T09:54:29Z,0,4,7,1,2,0,2,3863482.0
+1898,Add Svelte,6532,True,True,2020-12-19T17:39:17Z,2020-12-19T17:39:17Z,0,5,16,1,1,0,1,3390388.0
+1812,Add Web Monetization,5994,True,True,2020-12-19T17:35:22Z,2020-12-19T17:35:22Z,6,4,21,1,1,0,1,15195614.0
+1902,Add Tiny,524,True,True,2020-12-18T07:16:39Z,2020-12-18T07:16:39Z,0,3,3,0,0,0,0,2870946.0
+1919,Update Flask,167,True,True,2020-12-18T07:16:08Z,2020-12-18T07:16:08Z,0,3,5,1,1,1,2,458983.0
+1869,Add Substrate,1158,True,True,2020-11-20T10:57:53Z,2020-11-20T10:57:53Z,4,4,7,1,1,0,1,4817678.0
+1800,Add FastAPI,356,True,True,2020-07-03T19:25:11Z,2020-07-03T19:25:11Z,1,4,17,1,1,0,1,1579255.0
+1913,Correct links to two Awesome lists whose username had changed,255,True,True,2020-11-28T04:33:33Z,2020-11-28T04:33:33Z,1,4,1,1,2,2,4,1240.0
+1861,Add Production Machine Learning,619,True,False,,2020-11-28T06:20:20Z,3,6,24,1,1,0,1,0
+1904,Change link from sysadmin repo to sysadmin forum,867,True,False,,2020-11-22T13:16:24Z,0,4,6,1,1,1,2,0
+1848,add web effect,5908,True,False,,2020-11-23T12:50:47Z,2,8,6,1,1,0,1,0
+1911,Add Appcircle,6587,True,False,,2020-11-23T07:06:49Z,0,2,1,1,2,0,2,0
+1894,Awesome ZigLang,6545,True,False,,2020-11-20T19:30:44Z,0,6,6,1,1,0,1,0
+1865,Add TensorFlow Lite,6046,True,True,2020-11-20T11:16:10Z,2020-11-20T11:16:10Z,1,6,24,1,1,0,1,6024715.0
+1909,Add concent 、FFCreator and  awesome-state,29,True,False,,2020-11-18T10:07:01Z,0,2,2,1,3,0,3,0
+1906,add spring boot url.,6659,True,False,,2020-11-16T08:18:00Z,0,2,1,1,1,0,1,0
+1901,Add Android Apps,6777,True,False,,2020-11-14T23:38:18Z,0,4,6,1,1,0,1,0
+1900,Update readme.md,6458,True,False,,2020-11-14T01:13:27Z,1,3,0,1,2,0,2,0
+1727,Add Contexture,860,True,True,2020-03-09T13:43:45Z,2020-03-09T13:43:46Z,2,3,10,1,1,0,1,124727.0
+1866,Add TALL Stack,391,True,True,2020-11-03T13:27:04Z,2020-11-03T13:27:04Z,2,5,12,1,1,0,1,4123306.0
+1890,Add Home Assistant Francophone,6772,True,False,,2020-11-02T17:29:15Z,0,3,7,1,1,0,1,0
+1857,Add Ansible,6103,True,True,2020-11-02T00:45:45Z,2020-11-02T00:45:45Z,3,5,17,1,1,0,1,5626598.0
+1891,Add Sustainable Technology,7224,True,True,2020-11-02T00:41:55Z,2020-11-02T00:41:55Z,0,3,4,1,1,0,1,53515.0
+1871,Add CHIP-8,6123,True,True,2020-10-31T10:30:39Z,2020-10-31T10:30:39Z,1,2,6,1,1,0,1,2855963.0
+1803,Add Chess,6072,True,False,,2020-10-29T23:53:14Z,6,8,14,1,1,1,2,0
+1802,Add Astronomy,5785,True,False,,2020-10-29T23:51:31Z,9,7,9,1,1,0,1,0
+1816,Update pull request template link to use `main` branch,123,True,True,2020-10-29T23:50:26Z,2020-10-29T23:50:26Z,3,5,0,1,1,1,2,10152774.0
+1884,Add Credit Modeling,3493,True,True,2020-10-29T23:47:06Z,2020-10-29T23:47:06Z,0,2,4,1,1,0,1,1028388.0
+1887,Add Engineering Team Management,7593,True,True,2020-10-29T14:31:36Z,2020-10-29T14:31:37Z,1,3,16,1,1,0,1,398492.0
+1889,Fix link,161,True,True,2020-10-29T15:11:18Z,2020-10-29T15:11:18Z,0,2,1,1,1,1,2,541.0
+1882,Add R Learning,6853,True,True,2020-10-28T21:50:42Z,2020-10-28T21:50:42Z,0,3,13,1,2,1,3,1321699.0
+1888,Added icons-font-customization,6665,True,False,,2020-10-27T02:45:03Z,0,3,3,1,1,0,1,0
+1885,Add Deepnote,6845,True,False,,2020-10-19T12:18:31Z,0,1,0,1,1,0,1,0
+1850,Add Social Enterprise,5964,True,True,2020-10-13T20:33:40Z,2020-10-13T20:33:40Z,0,3,8,1,1,0,1,4997603.0
+1837,Add R Learning Resources,615,True,False,,2020-10-13T19:36:48Z,8,5,15,1,2,1,3,0
+1860,Sync PR template with ToC rules about silenced sections,68,True,True,2020-10-12T16:11:55Z,2020-10-12T16:11:55Z,8,2,4,1,5,1,6,3283768.0
+1853,To be deleted,8,True,False,,2020-08-21T16:20:37Z,0,1,0,1,1,0,1,0
+1877,Update readme.md,5916,True,False,,2020-10-02T21:07:07Z,0,2,0,1,1,1,2,0
+1875,Add Awesome Python Chemistry,255,True,False,,2020-10-02T12:31:09Z,0,2,2,1,1,0,1,0
+1874,Update readme.md,5916,True,False,,2020-10-01T10:15:42Z,0,2,1,1,6,6,12,0
+1640,‎‎‎‎,0,True,False,,2020-01-07T18:27:01Z,1,7,11,1,1,0,1,0
+1797,Add Topological Data Analysis,5915,True,False,,2020-09-30T13:58:02Z,1,6,12,1,1,0,1,0
+1807,Add Illustrations,6951,True,False,,2020-09-30T13:14:09Z,0,3,4,1,2,0,2,0
+1852,Add r-shiny to Front-End Development,6348,True,False,,2020-09-30T00:50:16Z,0,3,3,1,1,0,1,0
+1839,Add Concepts,5952,True,False,,2020-09-30T00:49:22Z,1,3,2,1,1,0,1,0
+1835,Add Formal Languages and Compilers,200,True,False,,2020-09-30T00:33:29Z,2,5,3,1,1,0,1,0
+1821,Add Cloud Native,6115,True,False,,2020-09-30T00:30:29Z,3,5,6,1,1,0,1,0
+1864,Update readme.md,5904,True,False,,2020-09-10T16:37:25Z,0,3,4,1,1,0,1,0
+1813,Add Discord Communities,7075,True,True,2020-09-02T11:29:26Z,2020-09-02T11:29:26Z,2,3,13,1,1,0,1,5715196.0
+1858,Inital commit,5904,True,False,,2020-08-29T09:52:32Z,0,2,0,3,65,1,66,0
+1855,Remove Assembler,90,True,True,2020-08-27T12:38:04Z,2020-08-27T12:38:04Z,0,2,0,1,0,1,1,1347.0
+1826,Add Outsourcing,492,True,False,,2020-08-25T17:08:33Z,1,2,1,1,1,0,1,0
+1214,Add Monorepo,3197,True,False,,2019-06-08T08:51:25Z,5,3,5,1,20,0,20,0
+1829,Add AI in Finance,214,True,True,2020-08-21T09:09:16Z,2020-08-21T09:09:17Z,4,4,16,1,1,0,1,2745109.0
+1836,add awesome web effect,5929,True,False,,2020-08-15T12:17:07Z,0,2,1,1,1,0,1,0
+1846,Adding Flash Briefings,5927,True,False,,2020-08-12T13:26:53Z,0,2,2,1,1,0,1,0
+1845,Adding Flash Briefings,5927,True,False,,2020-08-11T20:34:22Z,0,1,1,1,1,0,1,0
+1844,Add CryptoCRIT to Decentralised projects,5893,True,False,,2020-08-11T18:03:54Z,0,2,4,1,1,0,1,0
+1843,Add Jitsi,5902,True,False,,2020-08-11T18:18:07Z,0,2,1,1,2,0,2,0
+1841,Added tsParticles,226,True,False,,2020-08-09T17:41:46Z,0,2,1,1,1,0,1,0
+1834,add BalmJS,167,True,False,,2020-07-24T07:36:32Z,0,4,3,1,2,0,2,0
+1822,Add Github Profile Readme,5949,True,False,,2020-07-13T15:44:56Z,0,2,1,1,1,0,1,0
+1833,Add Linkedin Learning under Learn,5877,True,False,,2020-07-22T16:40:13Z,0,2,1,1,1,0,1,0
+1832,Add Developer Dictionary,5878,True,False,,2020-07-22T09:58:14Z,0,3,2,1,2,0,2,0
+1831,Add Cambio por el clima,6083,True,False,,2020-07-21T09:43:11Z,0,2,1,1,1,1,2,0
+1830,Add Development Stats For Github profile readme,6077,True,False,,2020-07-21T09:12:11Z,0,2,1,1,1,0,1,0
+1824,Add Financial AI,5899,True,False,,2020-07-20T13:46:12Z,0,2,1,1,1,0,1,0
+1784,Add Reversing,5812,True,False,,2020-06-15T05:48:11Z,2,4,2,1,1,0,1,0
+1825,Add Outsourcing,418,True,False,,2020-07-17T19:03:51Z,0,2,2,1,1,0,1,0
+1799,Add WP-CLI,6207,True,True,2020-06-27T10:38:31Z,2020-06-27T10:38:31Z,0,3,7,1,1,0,1,1031368.0
+1820,Add Cirq,5963,True,False,,2020-07-10T06:45:38Z,0,2,1,1,1,0,1,0
+1815,feat: action lint double link in readme,0,True,False,,2020-07-05T20:14:57Z,0,2,5,1,17,0,17,0
+1808,Add Translations,5921,True,False,,2020-07-07T21:05:28Z,1,3,5,1,1,0,1,0
+1804,Add SQL,5599,True,False,,2020-07-07T21:04:07Z,4,6,8,1,1,0,1,0
+1818,Merge pull request #1 from sindresorhus/main,5901,True,False,,2020-07-05T12:06:42Z,0,1,1,0,0,0,0,0
+1811,Add DevSecOps,631,True,True,2020-07-03T19:15:24Z,2020-07-03T19:15:24Z,2,4,5,1,1,0,1,821001.0
+1814,Merge pull request #1 from sindresorhus/main,5901,True,False,,2020-07-02T05:23:45Z,0,1,0,0,0,0,0,0
+1805,Add Flame,95,True,True,2020-06-27T10:59:12Z,2020-06-27T10:59:13Z,1,2,3,1,1,0,1,969556.0
+1809,Add Software Engineering for Machine Learning,6345,True,True,2020-06-27T11:44:49Z,2020-06-27T11:44:49Z,0,2,3,1,1,0,1,407933.0
+1798,Add Scientific Writing,5900,True,True,2020-06-20T16:09:39Z,2020-06-20T16:09:39Z,0,4,5,1,1,0,1,461122.0
+1796,Add Building Blocks for Web Apps,363,True,True,2020-06-20T07:39:16Z,2020-06-20T07:39:17Z,0,3,10,1,1,0,1,434801.0
+1801,Awesome astronomy,6025,True,False,,2020-06-15T13:09:40Z,0,1,1,1,1,0,1,0
+1660,Add Web Browsers,5982,True,False,,2020-06-15T05:48:00Z,2,8,13,1,1,0,1,0
+1675,lint awesome with awesome-lint as an Action,245,True,False,,2020-06-15T05:48:01Z,2,4,1,1,20,0,20,0
+1682,Add Computer Vision Models,5782,True,False,,2020-06-15T05:48:02Z,3,5,9,1,1,0,1,0
+1696,Lint with awesome-lint via GitHub Actions,42,True,False,,2020-06-15T05:48:03Z,2,3,3,1,15,0,15,0
+1699,Add Figma,5782,True,False,,2020-06-15T05:48:03Z,0,5,5,1,1,0,1,0
+1700,Add Scientific Writing,5865,True,False,,2020-06-15T05:48:04Z,4,6,15,1,1,0,1,0
+1703,Add Topological Data Analysis,5826,True,False,,2020-06-15T05:48:04Z,1,5,7,1,1,0,1,0
+1720,Add Technical Debt,5995,True,False,,2020-06-15T05:48:05Z,2,7,7,1,1,0,1,0
+1722,Add Software Engineering for Machine Learning,6258,True,False,,2020-06-15T05:48:05Z,2,5,18,1,1,0,1,0
+1735,Add Awesome Micro-Frontends to frontend section,5856,True,False,,2020-06-15T05:48:06Z,1,4,6,1,2,0,2,0
+1738,Add Awesome List of OSS Maintainers Tools to miscellaneous section,6014,True,False,,2020-06-15T05:48:06Z,1,5,10,1,1,0,1,0
+1749,Add Unikernels,5841,True,False,,2020-06-15T05:48:07Z,2,4,6,1,1,0,1,0
+1753,Add Software running on old hardware,6164,True,False,,2020-06-15T05:48:07Z,0,4,9,1,1,0,1,0
+1757,Add Coronavirus,5689,True,False,,2020-06-15T05:48:08Z,0,5,8,1,1,0,1,0
+1758,Add Panda3D,5693,True,False,,2020-06-15T05:48:08Z,0,4,6,1,1,0,1,0
+1760,Add DevSecOps,631,True,False,,2020-06-15T05:48:09Z,3,5,7,1,1,0,1,0
+1762,Add Malaysia,5764,True,False,,2020-06-15T05:48:09Z,0,6,7,1,1,0,1,0
+1770,Add WP-CLI,6150,True,False,,2020-06-15T05:48:10Z,5,7,5,1,1,0,1,0
+1775,Add Audiovisual,5773,True,False,,2020-06-15T05:48:10Z,2,5,11,1,1,0,1,0
+1782,Add Video Summarization,5687,True,False,,2020-06-15T05:48:11Z,0,4,7,1,1,0,1,0
+1783,Add SQL,5445,True,False,,2020-06-15T05:48:11Z,2,5,7,1,1,0,1,0
+1785,Add Flame,403,True,False,,2020-06-15T05:48:12Z,1,4,5,1,1,0,1,0
+1786,Add Astronomy,5869,True,False,,2020-06-15T05:48:12Z,2,4,5,1,1,0,1,0
+1787,Add Solidity,304,True,False,,2020-06-15T05:48:13Z,1,3,2,1,1,0,1,0
+1788,Add Knowledge Graphs,5843,True,False,,2020-06-15T05:48:13Z,2,5,5,1,1,0,1,0
+1789,Add Building Blocks for Web Apps,326,True,False,,2020-06-15T05:48:14Z,1,3,6,1,1,0,1,0
+1790,Add FastAPI,356,True,False,,2020-06-15T05:48:14Z,0,2,6,1,1,0,1,0
+1791,Add Chess,5916,True,False,,2020-06-15T05:48:14Z,0,2,3,1,1,1,2,0
+1792,Add Neumorphism,5664,True,False,,2020-06-15T05:48:15Z,0,3,3,1,1,0,1,0
+1647,Add Vala,5311,True,True,2019-11-22T17:41:38Z,2019-11-22T17:41:38Z,0,6,10,1,1,0,1,2231846.0
+1692,Add Ponyfills,217,True,True,2020-06-05T14:41:09Z,2020-06-05T14:41:09Z,3,4,19,1,1,0,1,11099456.0
+1766,Add TensorFlow.js,5729,True,True,2020-06-03T07:17:59Z,2020-06-03T07:17:59Z,0,3,9,1,1,0,1,2209456.0
+1725,Add Awesome Azure Learning,5720,True,False,,2020-06-02T11:42:02Z,1,9,12,1,1,0,1,0
+1747,Add Sitecore,5666,True,True,2020-06-01T18:18:23Z,2020-06-01T18:18:23Z,6,5,22,1,1,0,1,5670146.0
+1767,Add Ctf cheatsheet,5760,True,False,,2020-06-01T16:54:52Z,2,5,14,1,1,0,1,0
+1756,Add Playwright,6090,True,True,2020-05-30T17:35:29Z,2020-05-30T17:35:29Z,0,3,6,1,1,0,1,4345671.0
+1701,Add StimulusJS,5903,True,False,,2020-05-30T17:33:46Z,1,5,9,1,1,0,1,0
+1694,Add Real Time Communications,5899,True,True,2020-05-30T17:09:11Z,2020-05-30T17:09:11Z,1,4,7,1,1,0,1,9829859.0
+1769,Add Hyperledger Fabric,5792,True,False,,2020-05-29T09:20:50Z,1,7,7,1,1,0,1,0
+1729,Add Awesome CLI,5721,True,True,2020-03-09T07:33:50Z,2020-03-09T07:33:51Z,0,3,1,1,1,0,1,40309.0
+1781,add Spotify Awesome,5664,True,False,,2020-05-27T02:00:15Z,0,1,0,1,3,0,3,0
+1777,Add the description for Julia language,39,True,True,2020-05-22T13:47:41Z,2020-05-22T13:47:41Z,0,2,0,1,1,1,2,58002.0
+1776,Add MicroPython,417,True,True,2020-05-17T09:02:35Z,2020-05-17T09:02:35Z,0,2,5,1,1,0,1,52115.0
+1774,Add Deno,274,True,True,2020-05-15T17:10:36Z,2020-05-15T17:10:36Z,0,2,2,1,1,0,1,44192.0
+1771,Update renamed users and repos,307,True,True,2020-05-13T06:33:54Z,2020-05-13T06:33:54Z,0,2,0,1,14,14,28,8664.0
+1531,Add Deno (awesome-deno) to list of platforms,3801,True,False,,2019-02-26T17:37:25Z,0,3,5,1,1,1,2,0
+1768,Move `Plotters` list to Hardware section,68,True,True,2020-05-12T05:08:45Z,2020-05-12T05:08:45Z,0,2,0,1,1,1,2,4107.0
+1293,Shorten the Laravel Education link,284,True,True,2018-05-05T11:25:00Z,2018-05-05T11:25:00Z,0,2,0,1,1,1,2,55278.0
+1290,Update outdated links,22,True,True,2018-05-02T04:09:39Z,2018-05-02T04:09:39Z,0,2,0,1,19,29,48,8229.0
+1684,Add V,5813,True,True,2020-04-27T09:55:29Z,2020-04-27T09:55:29Z,7,9,26,1,1,0,1,9160784.0
+1761,Add EHTML framework,395,True,False,,2020-04-25T11:21:43Z,0,2,1,1,1,0,1,0
+1754,Add Waves,295,True,True,2020-04-21T16:42:00Z,2020-04-21T16:42:00Z,0,2,4,1,1,0,1,1115476.0
+1213,Added natural sciences section with 2 items,3022,True,False,,2018-07-20T11:48:48Z,2,3,3,1,6,1,7,0
+1746,Add Docker Compose,6020,True,False,,2020-04-16T15:39:06Z,0,3,4,1,1,0,1,0
+1622,Add fast.ai,5097,True,False,,2020-04-12T09:54:13Z,1,10,15,1,1,0,1,0
+1730,Add Awesome Coronavirus,5664,True,False,,2020-03-11T15:16:52Z,0,2,1,1,1,1,2,0
+1423,Fix typo in `contributing.md`,40,True,True,2018-10-17T05:06:56Z,2018-10-17T05:06:56Z,0,2,0,1,1,1,2,11103.0
+1751,Add Blender,6000,True,False,,2020-04-03T18:10:29Z,0,3,4,1,1,0,1,0
+1752,Add Just Delete Me.,1168,True,False,,2020-04-05T13:50:01Z,0,2,2,1,1,0,1,0
+1679,Add Database Tools,5599,True,True,2020-04-05T10:01:29Z,2020-04-05T10:01:29Z,2,7,15,1,1,0,1,8164657.0
+1750,Add Gitea,0,True,False,,2020-04-01T11:47:57Z,0,2,1,1,1,0,1,0
+1745,Add Game Remakes,5814,True,True,2020-03-30T13:06:35Z,2020-03-30T13:06:35Z,0,3,4,1,1,0,1,339336.0
+1704,Add Web Archiving,5899,True,True,2020-03-27T07:25:07Z,2020-03-27T07:25:07Z,1,3,6,1,1,0,1,2648729.0
+1744,Added Gatsby,6624,True,False,,2020-03-26T13:57:03Z,0,2,1,1,2,0,2,0
+1743,Edit `awesome-icons` list description,84,True,False,,2020-03-26T11:35:03Z,0,2,1,1,1,1,2,0
+1676,Add Material-UI,5832,True,True,2020-03-22T07:15:31Z,2020-03-22T07:15:31Z,4,8,17,1,1,0,1,7379401.0
+1733,Add Firebird SQL server to databases.,77,True,False,,2020-03-14T06:29:40Z,0,2,1,1,1,0,1,0
+1732,Add Firebird database server to databases.,65,True,False,,2020-03-12T19:35:06Z,0,1,0,1,1,0,1,0
+1666,Add Awesome Mechatroincs List,11503,True,False,,2020-03-12T18:22:04Z,2,7,7,1,1,0,1,0
+1731,Create Testing section,293,True,True,2020-03-12T03:19:16Z,2020-03-12T03:19:16Z,0,2,0,1,11,7,18,34552.0
+1644,Add Machine Learning Interpretability,5345,True,False,,2020-03-12T03:19:51Z,0,7,10,1,1,0,1,0
+773,Add JMeter,1356,True,True,2017-01-09T17:23:01Z,2017-01-09T17:23:01Z,0,3,8,1,2,1,3,9084341.0
+1721,Add k6,165,True,True,2020-03-09T11:23:06Z,2020-03-09T11:23:06Z,0,4,13,1,1,0,1,766356.0
+1728,Add Awesome CLI To Related Section,5779,True,False,,2020-03-08T20:14:32Z,0,2,2,3,1,0,1,0
+1724,Add StumbleUponAwesome,235,True,True,2020-03-05T08:51:05Z,2020-03-05T08:51:05Z,0,2,0,1,1,0,1,57392.0
+1723,Mardown Update | theme: jekyll-theme-hacker,5664,True,False,,2020-03-04T11:48:37Z,0,2,1,1,1,0,1,0
+1688,Add Yew,6084,True,True,2020-02-16T13:35:32Z,2020-02-16T13:35:32Z,2,5,14,1,1,0,1,2205973.0
+1697,Add Coq,6654,True,True,2020-02-12T18:05:26Z,2020-02-12T18:05:26Z,0,2,3,1,1,0,1,190562.0
+1687,Add Browser Automation,5935,True,False,,2020-02-11T22:53:59Z,0,4,14,1,1,0,1,0
+1693,Adding Avalonia UI,5664,True,False,,2020-02-01T20:46:02Z,0,3,2,1,1,0,1,0
+1689,Add ESP,553,True,True,2020-02-01T05:53:31Z,2020-02-01T05:53:31Z,2,3,4,1,1,0,1,865222.0
+1690,Move event-related lists to the new Events section,0,True,True,2020-01-29T08:51:20Z,2020-01-29T08:51:20Z,2,4,0,1,2,2,4,566142.0
+1691,Merge pull request,5664,True,False,,2020-01-25T16:26:09Z,0,2,0,0,0,0,0,0
+1677,Add Web Animation,6269,True,True,2020-01-21T06:16:31Z,2020-01-21T06:16:32Z,5,6,8,1,1,0,1,2021993.0
+1683,Add Corda,408,True,True,2020-01-21T06:13:19Z,2020-01-21T06:13:19Z,4,6,5,1,1,0,1,949664.0
+1653,Add Creative Tech Events,5611,True,True,2020-01-21T06:09:33Z,2020-01-21T06:09:33Z,6,6,18,1,5,0,5,6356614.0
+1681,Add Common Lisp Learning,5770,True,True,2020-01-21T06:03:12Z,2020-01-21T06:03:12Z,2,4,7,1,2,1,3,1240201.0
+1685,PATCH: adding silverstripe,5664,True,False,,2020-01-15T01:27:20Z,0,1,0,1,1,0,1,0
+1513,Added Browser Automation,3647,True,False,,2019-04-08T11:53:34Z,0,4,8,1,1,0,1,0
+1669,Add Web Performance Budget,5782,True,True,2019-12-24T13:22:56Z,2019-12-24T13:22:56Z,4,3,12,1,1,0,1,1764034.0
+1674,Add Satellite imagery datasets,5757,True,False,,2019-12-23T16:00:57Z,0,2,1,1,1,0,1,0
+1656,Add Natural Language Generation,5364,True,True,2019-12-22T22:40:54Z,2019-12-22T22:40:54Z,3,3,10,1,1,0,1,3599723.0
+1628,Add Splunk,5169,True,True,2019-12-22T22:36:59Z,2019-12-22T22:36:59Z,2,4,16,1,1,0,1,6388266.0
+1671,Add GitHub Actions,336,True,True,2019-12-16T14:10:02Z,2019-12-16T14:10:02Z,0,2,2,1,1,0,1,744852.0
+1600,Add Awesome Biomarkers List,588,True,False,,2019-12-16T14:02:07Z,1,4,10,1,1,0,1,0
+1664,Added bash in programing languages category,5655,True,False,,2019-12-16T14:00:40Z,0,2,3,1,1,0,1,0
+1655,Add Hacker Laws,729,True,False,,2019-12-16T13:57:25Z,3,6,3,1,1,1,2,0
+1657,Add sentence embeddings in NLP section,0,True,False,,2019-12-16T13:56:24Z,1,3,3,1,1,0,1,0
+1670,Add Seed RS,5924,True,True,2019-12-12T19:48:08Z,2019-12-12T19:48:08Z,0,2,4,1,1,0,1,719668.0
+1672,Add awesome controls,5875,True,False,,2019-12-10T15:36:27Z,0,1,2,1,1,0,1,0
+1668,Add Lucid KV,101,True,False,,2019-11-28T02:34:04Z,0,2,2,1,1,0,1,0
+1620,Add Biomedical Information Extraction,5141,True,True,2019-11-26T15:21:11Z,2019-11-26T15:21:11Z,0,3,8,1,1,0,1,4916795.0
+1662,Add Naming,6127,True,True,2019-11-26T14:28:53Z,2019-11-26T14:28:53Z,0,2,4,1,1,0,1,252374.0
+1665,Added neo.mjs,93,True,False,,2019-11-26T02:29:56Z,0,3,1,1,1,0,1,0
+1663,Update readme.md,160,True,False,,2019-11-24T01:22:15Z,0,2,1,1,1,0,1,0
+1643,Add Blaze,5968,True,False,,2019-11-22T18:44:44Z,1,5,7,1,1,0,1,0
+1635,Add CI and Software Quality,219,True,False,,2019-11-22T18:43:02Z,1,5,6,1,2,0,2,0
+1582,Add Open Source Jobs,5189,True,False,,2019-11-22T18:34:03Z,0,5,9,1,1,0,1,0
+1623,Add Wardley Maps,5286,True,True,2019-11-22T17:45:22Z,2019-11-22T17:45:22Z,1,6,14,1,1,0,1,4398767.0
+1652,Add Earth,5363,True,True,2019-11-22T08:39:33Z,2019-11-22T08:39:33Z,3,3,10,1,1,0,1,1442477.0
+1630,Add Arch-based Projects,10708,True,True,2019-11-18T03:50:20Z,2019-11-18T03:50:20Z,3,4,9,1,1,0,1,3139864.0
+1609,Add Qlik,632,True,True,2019-11-16T08:12:58Z,2019-11-16T08:12:58Z,5,9,17,1,1,0,1,6921191.0
+1637,Add Digital History,5574,True,True,2019-11-16T08:06:39Z,2019-11-16T08:06:39Z,8,4,7,1,1,0,1,2200380.0
+1639,Add Python Typing,4454,True,True,2019-11-16T07:47:37Z,2019-11-16T07:47:38Z,2,2,7,1,1,0,1,1966101.0
+1651,Add Italy Events,5308,True,True,2019-11-16T07:44:51Z,2019-11-16T07:44:51Z,1,3,4,1,1,0,1,1107662.0
+1627,Add WordPress-Gatsby,5319,True,True,2019-11-14T08:04:04Z,2019-11-14T08:04:04Z,7,4,11,1,1,0,1,3094675.0
+1654,Add Tailwind CSS,5283,True,True,2019-11-12T12:09:53Z,2019-11-12T12:09:53Z,3,3,11,1,1,0,1,328889.0
+1649,Add PlayCanvas,5352,True,True,2019-11-12T12:06:19Z,2019-11-12T12:06:19Z,1,4,8,1,1,0,1,1285667.0
+1642,Add Machine Learning for Cyber Security,5364,True,False,,2019-10-28T07:21:41Z,0,3,4,1,1,0,1,0
+1650,Add Concurrent React,5286,True,False,,2019-11-01T16:13:08Z,0,3,2,1,1,0,1,0
+1641,Add Mermaid,1830,True,False,,2019-10-28T06:40:41Z,0,6,6,1,1,1,2,0
+1648,Add FSharp,5280,True,False,,2019-10-29T01:55:44Z,1,3,5,1,1,0,1,0
+1638,Add Tefter awesome feed under the related section,5375,True,False,,2019-10-28T06:33:50Z,2,4,5,1,1,1,2,0
+1636,Add wordpress CMS,5361,True,False,,2019-10-28T06:24:54Z,1,4,4,1,1,0,1,0
+1591,Add Imba,365,True,True,2019-10-27T17:36:18Z,2019-10-27T17:36:18Z,0,4,18,1,1,0,1,7842249.0
+1634,Create a website using Docsify 🚀,735,True,False,,2019-10-17T15:11:55Z,0,2,1,2,23,0,23,0
+1633,Added DAML in Decentralized Systems,5443,True,False,,2019-10-17T07:22:14Z,0,2,1,1,1,0,1,0
+1632,Scratch 3.0 and micro:bit,5520,True,False,,2019-10-16T01:26:30Z,0,3,1,1,1,1,2,0
+1629,Pre-fill new issue with template,284,True,False,,2019-10-11T08:31:38Z,0,2,2,3,3,3,6,0
+1626,Sorted Miscellaneous section,75,True,False,,2019-10-09T11:17:48Z,0,2,3,1,99,98,197,0
+1624,Add Start Testing,3403,True,False,,2019-10-03T10:29:44Z,0,2,3,1,1,0,1,0
+1621,Add Awesome Board Games,5215,True,False,,2019-10-01T14:37:10Z,0,2,2,1,1,0,1,0
+1610,Add Python Data Science,6020,True,True,2019-09-26T05:16:58Z,2019-09-26T05:16:58Z,3,5,11,1,1,0,1,2265202.0
+1579,Update Ember,236,True,True,2019-09-28T17:15:42Z,2019-09-28T17:15:42Z,0,5,15,1,1,1,2,7807900.0
+1612,Add Web Performance Metrics,5236,True,True,2019-09-28T17:12:42Z,2019-09-28T17:12:42Z,4,6,9,1,1,0,1,2314508.0
+1614,Add Actions on Google,5186,True,True,2019-09-26T05:13:26Z,2019-09-26T05:13:26Z,1,3,14,1,1,0,1,1213944.0
+1613,Add Advertising,5213,True,True,2019-09-26T05:10:50Z,2019-09-26T05:10:50Z,4,5,8,1,1,0,1,1341822.0
+1615,Add Clean Tech,5123,True,True,2019-09-26T05:01:40Z,2019-09-26T05:01:41Z,3,4,5,1,1,0,1,1009300.0
+1595,Add Cytodata,6133,True,True,2019-09-26T04:53:30Z,2019-09-26T04:53:30Z,3,4,7,1,1,0,1,5063911.0
+1611,Add GDPR,5337,True,True,2019-09-26T04:51:38Z,2019-09-26T04:51:38Z,4,5,10,1,1,0,1,2214206.0
+1573,Add Haxe Game Development,4836,True,True,2019-09-25T17:30:54Z,2019-09-25T17:30:54Z,5,6,14,1,1,0,1,10388214.0
+1616,Add description to some entries,60,True,True,2019-09-23T09:43:24Z,2019-09-23T09:43:24Z,6,3,9,1,10,10,20,504557.0
+1589,Add Git Hooks,5717,True,True,2019-09-22T18:26:04Z,2019-09-22T18:26:04Z,0,5,12,1,1,0,1,4928664.0
+1605,Add Image coloring,5439,True,False,,2019-09-22T18:24:25Z,0,5,5,1,1,0,1,0
+1608,Add Embedded and IoT Security,5239,True,True,2019-09-22T18:15:17Z,2019-09-22T18:15:17Z,0,3,7,1,1,0,1,2264022.0
+1394,Add awesome-lint and CI to lint new awesome lists,916,True,False,,2019-09-22T18:11:52Z,2,4,6,5,542,0,542,0
+1505,Add Azure Pipelines for CI using awesome-lint,2707,True,False,,2019-09-22T18:09:54Z,0,3,7,6,4275,0,4275,0
+1606,Add Tech Talks,341,True,False,,2019-09-22T18:05:23Z,1,6,4,1,1,1,2,0
+1618,"Delete ""Awesome - Recursion illustrated.""",103,True,False,,2019-09-18T04:44:33Z,0,2,1,1,0,1,1,0
+1596,Add Libra,5304,True,False,,2019-09-11T01:28:01Z,0,5,4,1,1,0,1,0
+1607,Add Medium (https://github.com/medium-isp),5125,True,False,,2019-08-21T08:02:56Z,0,0,0,1,1,0,1,0
+1601,Add libGDX,5276,True,True,2019-08-18T20:13:14Z,2019-08-18T20:13:14Z,0,4,8,1,1,0,1,702808.0
+1320,Add Perl 6,2924,True,False,,2019-06-19T15:44:46Z,3,3,10,1,1,0,1,0
+1592,Add IRC,5248,True,True,2019-08-18T19:33:00Z,2019-08-18T19:33:00Z,0,3,7,1,1,0,1,1761142.0
+1585,Add Computational Neuroscience,7068,True,True,2019-08-18T19:26:47Z,2019-08-18T19:26:47Z,7,5,13,1,8,0,8,2719654.0
+1599,Add dhall-lang,5192,True,False,,2019-08-06T05:46:05Z,0,2,1,1,1,0,1,0
+1590,Add Cloudflare,239,True,True,2019-08-03T14:14:03Z,2019-08-03T14:14:03Z,0,4,10,1,1,0,1,575886.0
+1594,Update Tools of the Trade description,79,True,True,2019-07-30T23:51:40Z,2019-07-30T23:51:40Z,0,3,2,1,1,1,2,131101.0
+1593,Update URLs from GitHub username changes,50,True,True,2019-07-30T23:50:39Z,2019-07-30T23:50:39Z,1,3,0,1,10,10,20,133237.0
+1584,Add OSINT and YARA,5943,True,False,,2019-07-12T16:21:28Z,0,2,3,1,9,6,15,0
+1577,Add Blazor,5369,True,True,2019-07-31T19:43:37Z,2019-07-31T19:43:37Z,1,5,21,1,1,0,1,4076084.0
+1597,Add Yocto Project,5266,True,False,,2019-07-31T14:49:37Z,0,2,2,1,1,0,1,0
+1490,Add Db2,4180,True,False,,2019-07-26T22:05:19Z,3,4,14,1,1,0,1,0
+1588,Add Apache Cassandra and Elassandra databases,5221,True,False,,2019-07-25T08:37:32Z,0,1,0,1,2,0,2,0
+1586,Add Mithril,4861,True,False,,2019-07-22T09:48:45Z,0,1,0,1,1,1,2,0
+1583,Add Kotlin/Native repo,5195,True,False,,2019-07-10T12:49:11Z,0,2,1,1,1,0,1,0
+1310,Add Podcasts,3098,True,False,,2019-07-07T14:31:00Z,0,6,14,1,1,0,1,0
+1580,Add eBPF,502,True,True,2019-07-04T16:44:33Z,2019-07-04T16:44:33Z,0,2,3,1,1,0,1,19012.0
+1538,Add iOS and Mac OS Security,3505,True,False,,2019-07-04T17:05:28Z,0,7,14,1,1,0,1,0
+1545,Add Linux Apps,3413,True,False,,2019-06-29T15:31:13Z,0,5,9,1,1,0,1,0
+1563,Add Cloud Native,4332,True,False,,2019-06-19T15:45:09Z,1,5,4,1,1,0,1,0
+1336,Add Database Tools,2990,True,False,,2019-06-19T15:45:02Z,3,4,11,1,1,0,1,0
+1524,Add serverless-security,3510,True,False,,2019-06-19T15:44:37Z,0,3,7,1,1,0,1,0
+1408,Add MicroPython,3337,True,False,,2019-06-19T15:44:29Z,0,3,12,1,1,0,1,0
+1480,Adding awesome-flights list,263,True,False,,2019-06-19T15:44:18Z,1,2,10,1,2,1,3,0
+1566,New list: Energy Efficiency for Mobile Apps,4980,True,False,,2019-06-19T15:28:09Z,1,3,1,1,1,1,2,0
+1432,Add GitHub Actions,652,True,False,,2019-06-19T15:27:29Z,3,3,8,1,1,0,1,0
+1168,Add WebAssembly,2999,True,False,,2019-06-19T15:26:47Z,2,2,10,1,1,0,1,0
+1576,Add Stacks,4861,True,True,2019-06-19T15:25:28Z,2019-06-19T15:25:28Z,0,3,7,1,1,0,1,748199.0
+1578,Add Django,4963,True,False,,2019-06-19T15:24:13Z,0,2,1,1,1,0,1,0
+1527,Delphi list was renamed to Pascal,3407,True,True,2019-06-10T08:46:35Z,2019-06-10T08:46:35Z,5,2,0,1,1,1,2,9681925.0
+1301,Add Algorithms Education,2935,True,True,2019-06-15T07:27:25Z,2019-06-15T07:27:25Z,0,3,27,1,1,0,1,34201771.0
+1547,Add Game Datasets,6932,True,True,2019-06-15T06:59:09Z,2019-06-15T06:59:09Z,6,3,12,1,1,0,1,8075446.0
+1494,Add Fuzzing,3485,True,True,2019-06-10T08:34:40Z,2019-06-10T08:34:41Z,7,4,22,1,1,0,1,13240281.0
+1456,Add Connectivity Data and Reports,3753,True,True,2019-06-09T15:02:20Z,2019-06-09T15:02:20Z,3,3,9,1,1,0,1,18397302.0
+1542,Add Django,3854,True,False,,2019-06-08T08:56:30Z,1,4,8,1,1,0,1,0
+1557,Add WYSIWYG,3393,True,False,,2019-06-08T08:55:50Z,2,4,5,1,1,0,1,0
+1559,Add Flash Briefings,6885,True,False,,2019-06-08T08:55:39Z,3,4,1,1,1,0,1,0
+1541,Add Flow,3597,True,False,,2019-06-08T08:53:16Z,0,5,6,1,1,0,1,0
+1528,Add HiC,4132,True,False,,2019-06-08T08:53:03Z,2,2,7,1,1,1,2,0
+1434,Add IT Films,3539,True,False,,2019-06-08T08:52:03Z,7,4,24,1,1,0,1,0
+1330,Add GitHub Alternatives,126,True,False,,2019-06-08T08:51:36Z,1,5,25,1,20,0,20,0
+1305,Add Awesome IOCs,3077,True,False,,2019-06-08T08:50:24Z,1,5,20,1,24,95,119,0
+1164,Add Reproducible Research,3026,True,False,,2019-06-08T08:49:52Z,3,3,10,1,2,2,4,0
+1097,Add Python in Education,2999,True,False,,2019-06-08T08:49:36Z,2,2,7,1,1,0,1,0
+1389,Add ActivityPub,3338,True,False,,2019-06-08T08:48:41Z,3,4,10,1,1,0,1,0
+1574,add Awesome Embedded Linux,4954,True,False,,2019-06-04T08:08:41Z,0,3,3,1,1,0,1,0
+1322,Add descriptions to entries,2888,True,False,,2019-05-29T19:19:07Z,0,4,6,1,90,0,90,0
+1178,Add Scala Native,2936,True,True,2019-05-30T02:51:55Z,2019-05-30T02:51:55Z,3,3,15,1,1,0,1,44436444.0
+1447,Added awesome graph embedding papers list.,3624,True,False,,2019-05-30T09:40:46Z,6,3,17,1,1,0,1,0
+1226,Add Quantum Computing,3203,True,True,2019-05-30T04:35:18Z,2019-05-30T04:35:18Z,2,5,15,1,1,0,1,39670624.0
+1277,Add NEM Projects,3072,True,False,,2019-05-30T02:41:33Z,1,2,4,1,1,0,1,0
+1311,Add engineering-team-principles of List,2953,True,False,,2019-05-29T19:20:09Z,2,2,8,1,1,0,1,0
+1498,Add Git Hooks,399,True,False,,2019-05-29T19:15:45Z,6,4,17,1,1,1,2,0
+1461,Add CSV,3628,True,True,2019-05-29T19:13:29Z,2019-05-29T19:13:29Z,5,4,17,1,1,0,1,16730369.0
+1571,Add gRPC,97,True,False,,2019-05-27T05:16:22Z,0,3,2,1,1,0,1,0
+1556,Add Project Management,3608,True,True,2019-05-26T06:10:32Z,2019-05-26T06:10:32Z,7,4,9,1,1,0,1,2766439.0
+1567,Add descriptions,111,True,True,2019-05-24T07:29:10Z,2019-05-24T07:29:10Z,5,4,6,1,10,10,20,433124.0
+1317,Add Roslyn,340,True,True,2019-05-13T04:43:19Z,2019-05-13T04:43:19Z,3,3,19,1,1,0,1,30194508.0
+1569,Merge pull request #1 from sindresorhus/master,4765,True,False,,2019-05-21T06:39:25Z,0,1,0,0,0,0,0,0
+1558,Add Adafruit IO,3510,True,True,2019-05-20T18:28:40Z,2019-05-20T18:28:41Z,0,3,7,1,1,0,1,2087886.0
+1501,Add Icons,567,True,True,2019-05-17T07:49:09Z,2019-05-17T07:49:09Z,0,3,13,1,1,0,1,10544347.0
+1564,add ArangoDB in README.md,4795,True,False,,2019-05-16T20:20:06Z,0,2,1,1,1,0,1,0
+1554,Add Pinned Gists,3633,True,True,2019-05-14T09:16:55Z,2019-05-14T09:16:55Z,0,3,8,1,1,0,1,2283202.0
+1560,Add React Hooks,215,True,True,2019-05-14T09:11:40Z,2019-05-14T09:11:40Z,3,3,5,1,1,0,1,1020164.0
+1562,Add Chinese Programming Terms,3624,True,False,,2019-05-13T05:03:16Z,0,2,1,1,1,0,1,0
+1561,Added JavaScript Beginners,3479,True,False,,2019-05-13T05:01:33Z,0,3,1,1,1,0,1,0
+1366,Add Penetration Testing,3525,True,False,,2019-05-13T04:55:31Z,6,8,19,1,1,0,1,0
+1499,Add Roadmaps,206,True,True,2019-05-13T04:26:00Z,2019-05-13T04:26:00Z,3,6,21,1,1,0,1,10364655.0
+1286,Add Cheminformatics,124,True,True,2019-05-09T06:09:00Z,2019-05-09T06:09:00Z,0,3,17,1,1,0,1,32250242.0
+1276,Add KDE,2951,True,True,2019-05-09T08:04:21Z,2019-05-09T08:04:21Z,3,4,11,1,1,0,1,33084796.0
+1503,Add Software Architecture,410,True,True,2019-05-09T08:17:11Z,2019-05-09T08:17:11Z,7,4,15,1,1,0,1,9754647.0
+1553,Adding Command Line Windows Repository.,3441,True,False,,2019-05-09T08:14:49Z,0,4,4,1,1,0,1,0
+1491,Add Prisma,3654,True,True,2019-05-09T07:45:08Z,2019-05-09T07:45:09Z,4,5,17,1,1,0,1,10534543.0
+1124,Add Online IDEs,3556,True,False,,2019-05-09T07:41:59Z,3,5,13,1,1,0,1,0
+1278,Add Empirical Software Engineering,3034,True,True,2019-05-09T07:29:29Z,2019-05-09T07:29:29Z,3,3,15,1,1,0,1,32739466.0
+1331,Add Design Patterns,3228,True,False,,2019-05-09T07:12:41Z,2,5,19,1,1,0,1,0
+1537,Add Product Design,3698,True,True,2019-05-09T07:05:07Z,2019-05-09T07:05:07Z,5,3,8,1,1,0,1,6181705.0
+1548,Add list of awesome browser containers,3574,True,False,,2019-05-09T06:51:48Z,0,3,8,1,1,0,1,0
+1544,Add Programming Language Specific Awesome Security Resources,3868,True,False,,2019-05-09T06:30:24Z,0,3,2,1,10,0,10,0
+1257,Add Blazor,281,True,False,,2019-04-08T11:41:37Z,0,3,11,1,1,0,1,0
+1555,Add link to matrix.org,90,True,False,,2019-04-18T13:08:48Z,0,2,1,1,1,0,1,0
+1304,Add Unique ID to misc category,86,True,False,,2019-04-08T11:51:27Z,0,3,9,1,1,0,1,0
+1466,Add Nest,3575,True,False,,2019-04-08T11:48:10Z,1,4,10,1,1,1,2,0
+1308,Added link to awesome-complexity list,3222,True,False,,2019-04-08T11:43:55Z,1,3,6,1,1,0,1,0
+1195,Add Explorables,3331,True,False,,2019-04-08T11:40:37Z,2,3,10,1,1,0,1,0
+1387,Add Cybersecurity Blue Team,3946,True,True,2019-04-08T09:41:07Z,2019-04-08T09:41:07Z,3,4,8,1,1,0,1,19665385.0
+1549,Add Cross-Platform Node.js,3634,True,True,2019-04-08T13:16:50Z,2019-04-08T13:16:50Z,0,2,0,1,1,0,1,269211.0
+1519,Added WebAuthn list,3548,True,False,,2019-04-08T11:49:06Z,1,3,6,1,1,1,2,0
+1533,Add awesome-proxy,3514,True,False,,2019-04-08T11:53:25Z,0,4,4,1,1,0,1,0
+1091,Add Investing,3005,True,False,,2019-04-08T11:53:08Z,1,4,8,1,1,1,2,0
+1485,Add PyTorch,3407,True,False,,2019-04-08T11:51:57Z,3,3,11,1,1,0,1,0
+1093,Added list of landing page resources to business category,3072,True,False,,2019-04-08T11:50:42Z,0,4,8,1,1,0,1,0
+1535, Add Starcounter,3264,True,False,,2019-04-08T11:50:28Z,0,2,4,1,1,0,1,0
+1374,Add French,3375,True,False,,2019-04-08T11:49:27Z,1,4,19,1,1,0,1,0
+1483,Add React Hooks,209,True,False,,2019-04-08T11:48:33Z,1,4,9,1,1,0,1,0
+1426,Add React Design Systems,3596,True,False,,2019-04-08T11:47:17Z,3,4,8,1,1,0,1,0
+1422,Add Artificial General Intelligence,3777,True,False,,2019-04-08T11:47:01Z,2,2,6,1,1,0,1,0
+1375,Add Scheme,3882,True,False,,2019-04-08T11:45:58Z,1,4,10,1,1,0,1,0
+1367,Add new a section for related lists to this awesome list #1338,135,True,False,,2019-04-08T11:45:48Z,1,3,3,1,4,0,4,0
+1364,Add Authentication & Authorization,3561,True,False,,2019-04-08T11:45:26Z,10,7,12,1,1,0,1,0
+1358,Add Materials Informatics,2943,True,False,,2019-04-08T11:45:16Z,2,4,8,1,7,1,8,0
+1340,Update Deep learning research for EHR,3374,True,False,,2019-04-08T11:45:05Z,3,6,15,1,1,1,2,0
+1362,Add Windows Subsystem for Linux,3161,True,False,,2019-04-08T11:44:43Z,1,3,10,1,1,0,1,0
+1339,Add macOS Admin Tools,2995,True,False,,2019-04-08T11:44:26Z,1,3,10,1,1,0,1,0
+1335,Add Bitcoin Cash ,3088,True,False,,2019-04-08T11:44:05Z,1,4,8,1,1,0,1,0
+1284,Add Open Science Resources,3832,True,False,,2019-04-08T11:43:37Z,1,4,8,1,1,1,2,0
+1285,Add Open Computational Neuroscience Resources,3965,True,False,,2019-04-08T11:43:02Z,1,3,9,1,1,0,1,0
+1264,added Blockchain Books and Development Documentations.,2910,True,False,,2019-04-08T11:42:08Z,0,3,10,1,7,4,11,0
+1247,Add Typography,3126,True,False,,2019-04-08T11:41:59Z,1,7,20,1,1,0,1,0
+1253,Add CTO Resources,2955,True,False,,2019-04-08T11:41:46Z,1,3,5,1,2,0,2,0
+1241,add Hyperledger Fabric,3049,True,False,,2019-04-08T11:41:30Z,1,2,5,1,1,0,1,0
+1232,Add Steem,3376,True,False,,2019-04-08T11:41:22Z,1,3,10,1,1,0,1,0
+1223,Add in curated list of blockchain-related academic papers.,2903,True,False,,2019-04-08T11:41:14Z,2,3,5,1,1,0,1,0
+1224,Add Smart Contracts,2906,True,False,,2019-04-08T11:41:06Z,0,3,7,1,1,0,1,0
+1218,Add SailfishOS,3056,True,False,,2019-04-08T11:40:56Z,2,3,4,1,1,0,1,0
+1211,Add Biomarker and Blood Tests to Awesome,3030,True,False,,2019-04-08T11:40:48Z,0,3,6,1,1,0,1,0
+1149,Add Language Engineering,3497,True,False,,2019-04-08T11:40:25Z,0,3,7,1,1,1,2,0
+1127,Add micro:bit,3010,True,False,,2019-04-08T11:40:14Z,2,3,6,1,1,0,1,0
+1174,Add UNIX,3309,True,False,,2019-04-08T11:39:12Z,1,5,9,1,1,0,1,0
+1245,Add Computer Networking,2944,True,False,,2019-04-08T11:38:58Z,3,3,4,1,1,0,1,0
+1346,Add Awesome CFP (Call For Papers),3155,True,False,,2018-08-05T19:06:33Z,2,6,5,1,1,1,2,0
+1550,Platforms / Azure Cloud / Use Case Cheat Sheet,3757,True,False,,2019-04-05T11:09:48Z,0,1,0,1,2,0,2,0
+1546,Add awesome image captioning list.,3464,True,False,,2019-03-18T12:12:39Z,0,2,3,1,1,0,1,0
+1543,Add Programming Language Specific Awesome Security Resources,3868,True,False,,2019-03-10T08:31:19Z,0,2,0,1,10,0,10,0
+1049,Add Livecoding,2903,True,False,,2019-03-08T02:57:41Z,1,2,12,1,1,0,1,0
+1540,Add Awesome Search to the Related section,52,True,True,2019-03-05T06:59:21Z,2019-03-05T06:59:21Z,0,2,0,1,1,0,1,12612.0
+1488,Add Imba Language,3535,True,False,,2019-02-26T16:09:15Z,0,4,8,1,1,1,2,0
+1157,Add Starcounter,3238,True,False,,2019-02-26T09:27:12Z,0,4,12,1,29,0,29,0
+1536,Add Plotters,3713,True,True,2019-03-04T05:58:20Z,2019-03-04T05:58:20Z,1,4,8,1,1,0,1,488303.0
+1316,Add Agriculture,3241,True,True,2019-03-03T15:18:36Z,2019-03-03T15:18:36Z,1,2,14,1,1,0,1,24356253.0
+1530,Add Amazon Sellers,3446,True,True,2019-03-03T14:11:29Z,2019-03-03T14:11:29Z,0,2,12,1,1,0,1,808286.0
+1370,Add EOSIO,3345,True,True,2019-03-03T14:04:46Z,2019-03-03T14:04:46Z,4,3,15,1,1,0,1,18227336.0
+1152,Add Robot Operating System 2.0,2981,True,True,2019-03-03T13:33:33Z,2019-03-03T13:33:33Z,2,4,36,1,1,0,1,39804179.0
+1328,Add Scientific Computing,204,True,True,2019-03-03T11:32:29Z,2019-03-03T11:32:29Z,8,5,9,1,1,0,1,23246710.0
+1171,Add Q#,3046,True,True,2019-02-26T04:39:17Z,2019-02-26T04:39:17Z,0,3,12,1,1,0,1,36822876.0
+1292,Add MLonCode,3466,True,False,,2019-02-26T07:06:31Z,0,6,14,1,1,0,1,0
+1539,Update link to PICO-8 list,3407,True,True,2019-02-27T13:57:11Z,2019-02-27T13:57:11Z,0,2,0,1,1,1,2,6122.0
+1074,Add CSS Frameworks,3232,True,True,2019-02-27T05:47:32Z,2019-02-27T05:47:32Z,0,5,14,1,1,0,1,44396890.0
+1514,Added ML with Python,3806,True,False,,2019-02-27T05:51:23Z,2,4,10,1,1,0,1,0
+1142,Add Dash,3024,True,True,2019-02-27T05:42:19Z,2019-02-27T05:42:19Z,1,5,16,1,1,0,1,39815836.0
+1318,Add NoSQL Guides,3436,True,True,2019-02-26T07:33:09Z,2019-02-26T07:33:09Z,1,3,4,1,1,0,1,23550778.0
+1385,Add Question Answering,3892,True,True,2019-02-26T16:55:23Z,2019-02-26T16:55:23Z,6,4,14,1,1,0,1,16302687.0
+1413,Add Board Games,3922,True,True,2019-02-26T10:42:03Z,2019-02-26T10:42:03Z,4,4,8,1,1,0,1,12158921.0
+1369,Add Minecraft,3380,True,True,2019-02-26T19:02:44Z,2019-02-26T19:02:44Z,6,7,18,1,1,0,1,17949271.0
+1532,Add Game Networking,3627,True,True,2019-02-26T18:14:45Z,2019-02-26T18:14:45Z,2,2,9,1,1,0,1,258707.0
+1067,Add Product Design,3042,True,False,,2019-02-26T05:18:33Z,0,4,7,1,1,0,1,0
+1520,Add Prometheus Alerts,2842,True,False,,2019-02-26T17:35:43Z,1,2,9,1,1,0,1,0
+1332,Add CSS Learning,3240,True,True,2019-02-26T16:51:25Z,2019-02-26T16:51:25Z,4,3,7,1,1,0,1,22477730.0
+1523, Added Awesome Deep Vision List,3406,True,False,,2019-02-26T16:44:32Z,1,4,5,1,1,0,1,0
+1502,Added Zero Knowledge Proofs,0,True,False,,2019-02-26T16:18:55Z,0,2,2,1,1,0,1,0
+1497,Add Django,251,True,False,,2019-02-26T16:10:51Z,0,3,7,1,1,0,1,0
+1489,add Corona SDK to ## Gaming,3471,True,False,,2019-02-26T16:08:03Z,1,4,5,1,1,0,1,0
+1487,Add Awesome LoRa & LoRaWAN,3405,True,False,,2019-02-26T15:55:10Z,0,3,4,1,1,1,2,0
+1479,Update readme.md - added awesome-sysadmin is a collection of sysadmins daily handy tools,3488,True,False,,2019-02-26T15:45:54Z,0,2,2,1,1,1,2,0
+1465,added in decentralized systems section,3832,True,False,,2019-02-26T15:37:37Z,0,2,4,1,1,0,1,0
+1469,Add Shopware,3514,True,False,,2019-02-26T15:24:54Z,0,4,6,1,1,0,1,0
+1462,Add Svelte,3375,True,False,,2019-02-26T15:22:49Z,1,4,4,1,1,0,1,0
+1448,Add Universal Rendering,345,True,False,,2019-02-26T15:16:30Z,1,4,4,1,1,0,1,0
+1454,Add 30 Seconds of Code,3773,True,True,2019-02-26T14:59:13Z,2019-02-26T14:59:14Z,1,4,7,1,1,0,1,9613193.0
+1431,Add NativeScript,3630,True,False,,2019-02-26T14:51:12Z,1,7,7,1,1,0,1,0
+1460,add jPHP lang,28,True,False,,2019-02-26T14:50:28Z,0,2,2,1,1,0,1,0
+1444,Add badge and servicemesh,3407,True,False,,2019-02-26T14:49:59Z,0,2,2,1,2,0,2,0
+1451,"Add ""Movies for Hackers"" awesome list",104,True,False,,2019-02-26T04:57:13Z,1,7,8,1,1,0,1,0
+1406,Add XMPP,3307,True,False,,2019-02-26T10:18:02Z,0,2,8,1,1,1,2,0
+1407,Update readme.md,3375,True,False,,2019-02-26T10:13:08Z,0,3,2,1,1,1,2,0
+1345,Add nginx-security list,195,True,False,,2019-02-26T08:38:58Z,2,5,5,1,1,0,1,0
+1302,Add Video Channels,3037,True,False,,2019-02-26T07:03:37Z,0,4,11,1,10,9,19,0
+1289,Add swag-for-dev list,2909,True,False,,2019-02-26T06:53:02Z,0,3,8,1,1,0,1,0
+1230,Add Awesome Campus Ambassador,3298,True,False,,2019-02-26T06:26:00Z,0,3,5,1,1,0,1,0
+1215,Add the list I made for the Stellar decentralized network,229,True,False,,2019-02-26T06:16:24Z,0,2,6,1,1,0,1,0
+1161,Add Physics,150,True,False,,2019-02-26T05:56:54Z,0,4,5,1,1,0,1,0
+1096,Add Nim to programming languages,130,True,False,,2019-02-26T05:31:05Z,1,6,13,1,1,0,1,0
+1106,Add Agile Software Development,3028,True,False,,2019-02-26T05:27:55Z,1,4,4,1,10,9,19,0
+1069,Added R-Shiny to the Front-End Development secion.,3294,True,False,,2019-02-26T05:24:17Z,6,5,7,1,2,0,2,0
+1083,Adding a Curated List of Awesome Cisco Exploitation Resources,2904,True,False,,2019-02-26T05:23:33Z,0,3,4,1,1,1,2,0
+1090,Add Amazon Web Services Alternatives,240,True,False,,2019-02-26T05:22:10Z,1,4,5,1,1,0,1,0
+1334,added elasticsearch.,3180,True,False,,2019-02-26T05:03:30Z,0,5,9,1,1,0,1,0
+1449,Add Awesome Infosec,271,True,False,,2019-02-26T04:57:51Z,0,4,4,1,1,0,1,0
+1440,add name list of learn 'Javascript Fundamentals and Algorithms ',3386,True,False,,2019-02-26T04:48:05Z,0,2,3,1,1,0,1,0
+1154,Add Tailwind CSS,2940,True,False,,2019-02-26T04:43:12Z,1,6,12,1,1,0,1,0
+1249,Added max214878/awesome-overwatch,3000,True,False,,2019-02-26T04:41:12Z,0,1,5,1,1,0,1,0
+1534,Update readme.md,3566,True,False,,2019-02-25T17:00:04Z,0,1,0,1,1,0,1,0
+1436,Remove RichardLitt/awesome-conferences,156,True,True,2018-10-27T11:51:27Z,2018-10-27T11:51:27Z,0,2,0,1,0,1,1,11951.0
+1414,Add Game Networking,3543,True,False,,2019-02-05T00:25:42Z,0,3,12,1,1,0,1,0
+1529,Add Related section,11,True,True,2019-02-22T14:28:36Z,2019-02-22T14:28:37Z,4,2,1,1,6,0,6,82056.0
+1517,Awesome-Delphi list evolved to Awesome-Pascal,3407,True,False,,2019-02-18T07:22:40Z,2,2,2,1,1,1,2,0
+1430,Add Blockchain AI,6974,True,True,2019-02-22T05:46:50Z,2019-02-22T05:46:50Z,0,2,10,1,1,0,1,10480455.0
+1512,Add Bitcoin Payment Processors,3455,True,True,2019-02-22T07:50:42Z,2019-02-22T07:50:42Z,3,2,5,1,1,0,1,2426562.0
+1515,Add Firebase,394,True,True,2019-02-22T06:54:03Z,2019-02-22T06:54:03Z,1,4,8,1,1,0,1,1981452.0
+1493,Add IBM Cloud,3941,True,True,2019-02-22T06:06:18Z,2019-02-22T06:06:18Z,0,3,8,1,1,0,1,3923999.0
+1446,Add Cerebro,3528,True,False,,2019-02-22T05:51:36Z,2,4,6,1,1,0,1,0
+1428,Add Mental Health,3572,True,True,2019-02-22T05:01:43Z,2019-02-22T05:01:43Z,0,5,7,1,1,0,1,10653766.0
+1415,Add Food,3416,True,True,2019-02-21T13:52:13Z,2019-02-21T13:52:13Z,0,4,11,1,1,0,1,11593107.0
+1522,Update Podcasts list URL,477,True,True,2019-02-16T18:10:51Z,2019-02-16T18:10:51Z,0,2,0,1,1,1,2,149752.0
+1518,Remove Styleguides,250,True,True,2019-02-16T18:09:34Z,2019-02-16T18:09:34Z,0,2,0,1,0,1,1,889579.0
+1482,Add Ada/SPARK,3520,True,True,2019-02-16T18:04:13Z,2019-02-16T18:04:13Z,4,2,3,1,1,0,1,5068235.0
+1521,q,3407,True,False,,2019-02-13T14:04:37Z,0,2,0,2,13,0,13,0
+1420,Add Nuxt.js,3485,True,False,,2019-02-08T22:48:27Z,3,6,13,1,1,0,1,0
+1139,Add Discord,2946,True,False,,2019-02-01T14:08:10Z,0,5,16,1,1,1,2,0
+1425,Added an awesome Git list,3514,True,False,,2019-01-26T08:07:47Z,0,3,4,1,1,0,1,0
+1437,Added network automation awesome list,3586,True,False,,2019-01-26T07:40:07Z,0,4,6,1,1,0,1,0
+1452,Add Ethereum,3772,True,True,2019-01-26T10:37:09Z,2019-01-26T10:37:09Z,1,6,13,1,1,0,1,7428776.0
+1429,Add Ethereum,3734,True,False,,2019-01-26T10:39:42Z,0,6,10,1,1,0,1,0
+1396,Add alternative flat badge,87,True,True,2019-01-26T09:58:40Z,2019-01-26T09:58:40Z,0,2,8,2,3,0,3,11628456.0
+1297,Add Mobile Web Development,3004,True,True,2019-01-26T08:55:12Z,2019-01-26T08:55:12Z,3,3,10,1,1,0,1,22337682.0
+1341,Add Parasite,2892,True,True,2019-01-26T08:12:26Z,2019-01-26T08:12:26Z,2,5,13,1,1,0,1,18733983.0
+1424,added Clojure web framework Luminus,3407,True,False,,2019-01-26T08:06:59Z,1,4,4,1,1,0,1,0
+1511,Fix MySQL list URL,166,True,True,2019-01-25T06:48:25Z,2019-01-25T06:48:25Z,0,2,0,1,1,1,2,4527.0
+1379,Add EOSIO,3776,True,False,,2019-01-25T01:23:52Z,3,2,3,1,1,0,1,0
+1486,Added awesome-ethereum,3529,True,False,,2019-01-23T12:08:30Z,0,4,3,1,1,0,1,0
+1508,update Readme.md,3429,True,False,,2019-01-22T18:33:26Z,0,3,1,1,3,0,3,0
+1507,Update URLs for lists that have moved,0,True,True,2019-01-21T16:10:37Z,2019-01-21T16:10:37Z,0,2,0,1,9,9,18,10308.0
+1457,Add Mechanical Keyboard,6887,True,False,,2019-01-20T18:33:24Z,0,4,4,1,1,0,1,0
+1472,Added Serverless Development Awesome List,3423,True,False,,2019-01-20T18:25:04Z,0,4,4,1,1,1,2,0
+1471,Add JAMstack,4122,True,True,2019-01-20T17:53:11Z,2019-01-20T17:53:11Z,0,4,4,1,1,0,1,4249409.0
+1492,Update Humane Technology list URL,238,True,True,2019-01-15T11:26:22Z,2019-01-15T11:26:22Z,0,2,0,1,1,1,2,687720.0
+1500,Update Umbraco list URL,146,True,True,2019-01-15T11:20:21Z,2019-01-15T11:20:21Z,0,2,0,1,1,1,2,68825.0
+1467,Add Git Hooks,378,True,False,,2019-01-11T00:33:44Z,0,3,4,1,1,0,1,0
+1477,Remove rosarior/awesome-django (dead link),144,True,True,2018-12-29T15:57:24Z,2018-12-29T15:57:24Z,0,3,3,1,0,1,1,1143248.0
+1274,Add Awesome Emulators & Simulators,3000,True,False,,2019-01-03T07:46:47Z,0,3,2,1,1,0,1,0
+1484,updates django awesome list,57,True,False,,2018-12-29T15:57:24Z,0,1,1,1,1,1,2,0
+1468,add ring language,3407,True,False,,2018-11-30T17:37:42Z,0,4,3,1,1,0,1,0
+1463,Update,3407,True,False,,2018-11-19T15:53:03Z,0,1,0,0,0,0,0,0
+1450,Add Awesome Network Analysis,178,True,False,,2018-11-01T06:17:57Z,0,3,1,1,2,0,2,0
+1300,Add awesome-etherum,3063,True,False,,2018-11-01T06:06:12Z,0,6,6,1,1,0,1,0
+1443,"Add codesandbox, goalkicker books",3436,True,False,,2018-10-31T18:00:33Z,0,2,1,1,2,0,2,0
+1442,Remove `A-Frame VR`,61,True,True,2018-10-30T16:20:08Z,2018-10-30T16:20:08Z,0,3,2,1,0,1,1,10484.0
+1421,Added text on line 302,3421,True,False,,2018-10-29T18:58:07Z,0,3,6,1,2,2,4,0
+1433,Added GrandNode to the list of CMS,3407,True,False,,2018-10-26T10:09:48Z,0,1,0,1,1,0,1,0
+1390,Add Home Assistant,6475,True,True,2018-10-16T17:52:03Z,2018-10-16T17:52:03Z,2,4,13,1,1,0,1,3794120.0
+1412,Add container security awesome list,3393,True,False,,2018-10-16T03:24:18Z,0,3,2,1,1,1,2,0
+1417,Add Twig,3392,True,False,,2018-10-15T09:51:09Z,1,3,3,1,1,0,1,0
+1416,Add Python Data Science,3323,True,False,,2018-10-10T09:39:48Z,0,1,0,1,1,0,1,0
+1405,Add kong,3322,True,False,,2018-10-08T06:24:33Z,0,3,2,1,1,0,1,0
+1068,Add awesome-docs-with-static-site-generators to the list,3045,True,False,,2018-10-09T04:43:15Z,0,3,5,1,1,0,1,0
+1240,Add Game Networking,3060,True,False,,2018-10-08T19:51:30Z,3,4,11,1,1,0,1,0
+1319,Add Software Patreons,2997,True,True,2018-10-08T06:16:29Z,2018-10-08T06:16:30Z,1,3,10,1,1,0,1,11204715.0
+1411,Add information about distributed systems,3621,True,False,,2018-10-05T19:11:34Z,0,2,2,1,6,0,6,0
+1409,Add list of design patterns,3422,True,False,,2018-10-04T18:02:25Z,0,3,2,1,1,0,1,0
+1357,Add lit-html,3028,True,True,2018-09-18T17:41:59Z,2018-09-18T17:41:59Z,1,4,10,1,1,0,1,5220197.0
+1155,Add Speakers,3163,True,True,2018-10-01T07:47:42Z,2018-10-01T07:47:42Z,4,3,8,1,1,0,1,26048670.0
+1401,Add Flutter,3515,True,True,2018-10-01T06:25:06Z,2018-10-01T06:25:06Z,2,4,5,1,1,0,1,980396.0
+1125,Add H2O,3829,True,True,2018-09-29T20:48:33Z,2018-09-29T20:48:33Z,1,3,14,1,1,0,1,28494476.0
+1217,Add XMPP,2926,True,False,,2018-09-30T22:38:55Z,0,3,6,1,1,0,1,0
+1260,Add macOS Open Source Apps,3063,True,True,2018-09-29T20:20:47Z,2018-09-29T20:20:47Z,0,3,11,1,1,0,1,15751810.0
+1402,Update readme.md,3355,True,False,,2018-09-23T09:23:59Z,0,2,2,1,1,0,1,0
+1267,Add Flutter,3043,True,False,,2018-09-22T13:07:09Z,0,5,14,1,1,0,1,0
+1399,Adding reference to Awesome Flutter inside Platforms section,60,True,False,,2018-09-18T05:28:20Z,0,1,1,1,1,1,2,0
+1378,Add Swoft,442,True,False,,2018-09-21T08:12:25Z,5,4,7,1,1,0,1,0
+1321,Adding Awesome Bots list,2928,True,False,,2018-09-19T10:04:37Z,0,4,5,1,1,0,1,0
+1053,Add DigitalOcean,2820,True,True,2018-09-18T18:06:28Z,2018-09-18T18:06:28Z,1,3,6,1,1,0,1,31497329.0
+1079,Adding cryptoaustralia/awesome-privacy-conferences,3167,True,False,,2018-09-18T19:52:32Z,1,4,3,1,1,1,2,0
+1383,Add Phaser,38,True,False,,2018-09-18T19:51:36Z,0,4,3,1,1,1,2,0
+1384,Add awesome list of time series databases to readme,3353,True,False,,2018-09-18T19:48:01Z,2,3,1,1,1,0,1,0
+1352,Add Scalability as new category,3183,True,False,,2018-09-18T19:42:43Z,1,3,2,1,6,0,6,0
+1347,Added collection of awesome open-source apps made with Phoenix Framework ,2920,True,False,,2018-09-18T19:42:03Z,1,4,3,1,1,0,1,0
+1254,add cloud-native,2899,True,False,,2018-09-18T19:36:39Z,1,4,4,1,4,0,4,0
+1246,Add cheatsheets List to learn,3032,True,False,,2018-09-18T19:35:35Z,1,3,3,1,1,0,1,0
+1233,Added Awesome Ethereum,3099,True,False,,2018-09-18T19:33:02Z,0,2,3,1,1,0,1,0
+1228,Add Hugo,2986,True,False,,2018-09-18T19:32:22Z,0,4,4,1,1,0,1,0
+1220,Add I2P (anonymous overlay mix-network),3120,True,False,,2018-09-18T19:31:05Z,0,3,3,1,1,0,1,0
+1219,Add Decentralized Exchange list,2999,True,False,,2018-09-18T19:30:34Z,0,3,3,1,1,0,1,0
+1199,Awesome GeoSpatial,2969,True,False,,2018-09-18T19:29:19Z,0,2,3,1,1,1,2,0
+1187,Add Fuzzing,2877,True,False,,2018-09-18T19:27:58Z,0,3,7,1,1,0,1,0
+1169,Update readme.md add ring language ,2899,True,False,,2018-09-18T19:27:16Z,0,2,3,1,1,0,1,0
+1181,Add Prolog,2945,True,False,,2018-09-18T19:27:05Z,0,2,3,1,1,1,2,0
+1265,Add Coding Style Conventions and Standards,3067,True,False,,2018-09-18T19:22:09Z,0,3,3,1,1,0,1,0
+1100,Add Nuxt.js,2718,True,False,,2018-09-18T19:13:12Z,1,3,7,1,1,0,1,0
+1117,Add Chaos Engineering,3008,True,False,,2018-09-18T19:12:23Z,1,2,5,1,1,0,1,0
+1107,Add Network Automation,3072,True,False,,2018-09-18T19:11:59Z,0,2,7,1,1,0,1,0
+1166,Add Twitter Bots,3298,True,False,,2018-09-18T18:58:33Z,0,3,7,1,1,0,1,0
+983,Add OSINT,2797,True,False,,2018-09-18T18:56:27Z,0,3,9,1,1,0,1,0
+1013,Add Penetration Testing,2809,True,False,,2018-09-18T18:43:12Z,1,7,19,1,1,0,1,0
+1042,Add Authentication & Authorization,2989,True,False,,2018-09-18T18:42:21Z,1,4,11,1,1,0,1,0
+1185,awesome-threat-detection added under Security,2916,True,False,,2018-09-18T18:41:56Z,0,2,3,1,1,0,1,0
+1175,Add InfernoJS,2851,True,False,,2018-09-18T18:41:44Z,0,2,3,1,1,0,1,0
+1192,Object Capabilities and Capability-based Security,298,True,False,,2018-09-18T18:39:58Z,0,3,5,1,1,1,2,0
+1179,Add awesome-django-rest-framework list,2923,True,False,,2018-09-18T18:39:24Z,0,2,3,1,1,0,1,0
+1159,Adding `Pair Programming` to `Work` section,2891,True,False,,2018-09-18T18:38:34Z,0,4,7,1,1,0,1,0
+1086,Add Yii 2,2872,True,False,,2018-09-18T18:30:38Z,1,4,13,1,1,0,1,0
+1202,Awesome Flash,3008,True,False,,2018-09-18T18:29:45Z,0,2,2,1,1,0,1,0
+1392,Update Awesome Game Boy Development list link,126,True,True,2018-09-18T05:23:12Z,2018-09-18T05:23:12Z,0,2,0,1,1,1,2,734290.0
+1373,Add Flutter,3323,True,False,,2018-09-18T05:28:46Z,2,5,2,1,1,0,1,0
+1400,Adding Brackets Editor,3323,True,False,,2018-09-17T16:23:56Z,0,2,1,1,1,0,1,0
+1398,Merge pull request #1 from sindresorhus/master,3343,True,False,,2018-09-16T10:00:51Z,0,1,0,0,0,0,0,0
+1395,Add Anchor,7,True,False,,2018-09-14T17:25:59Z,1,2,3,1,1,0,1,0
+1084,Add Cryptography Papers,3473,True,True,2018-08-17T21:31:17Z,2018-08-17T21:31:17Z,3,2,7,1,1,0,1,27249909.0
+1129,Add FIRST Robotics Competition,1647,True,True,2018-08-27T06:20:25Z,2018-08-27T06:20:25Z,1,3,15,1,1,0,1,25154016.0
+1239,Add Humane Technology,3041,True,True,2018-08-27T06:24:41Z,2018-08-27T06:24:41Z,1,4,9,1,1,0,1,15012337.0
+1386,Merge pull request #1 from sindresorhus/master,3332,True,False,,2018-08-23T08:49:37Z,0,1,0,0,0,0,0,0
+1229,Add YARA,2989,True,False,,2018-08-17T22:19:39Z,1,4,4,1,1,0,1,0
+1314,Add FFmpeg,3186,True,True,2018-08-16T13:36:03Z,2018-08-16T13:36:03Z,0,2,10,1,1,0,1,7186993.0
+1377,Added October to CMS category,3323,True,False,,2018-08-16T00:49:19Z,2,3,4,1,1,1,2,0
+1380,+Phaser,164,True,False,,2018-08-15T06:32:16Z,1,2,2,1,1,0,1,0
+1371,Added awesome-musicdsp,3439,True,False,,2018-08-12T17:17:13Z,0,2,1,1,1,0,1,0
+1160,Add Jupyter,3334,True,True,2018-08-10T11:14:21Z,2018-08-10T11:14:21Z,0,3,13,1,1,0,1,20982134.0
+1376,Update outdated link,135,True,True,2018-08-09T18:31:54Z,2018-08-09T18:31:54Z,0,2,0,1,1,1,2,8138.0
+1177,Add Calculators,3005,True,True,2018-07-28T20:22:55Z,2018-07-28T20:22:55Z,0,3,9,1,1,0,1,18171227.0
+1270,Add Open Source Maintainers,3066,True,True,2018-07-28T19:12:14Z,2018-07-28T19:12:14Z,0,4,7,1,1,0,1,9246796.0
+1327,Add CircuitPython,3584,True,True,2018-08-03T04:42:40Z,2018-08-03T04:42:40Z,0,4,18,1,1,0,1,4959910.0
+1356,"Add ""One Person Games"" - Games made by single developers.",3006,True,False,,2018-08-02T10:01:36Z,1,4,4,1,1,0,1,0
+1368,Added Start Up in ## Work,3597,True,False,,2018-08-02T08:21:00Z,0,3,3,1,1,0,1,0
+1180,Adding Free Courses,2889,True,False,,2018-08-01T13:29:39Z,0,5,5,1,1,1,2,0
+1351,Add awesome-rxswift,2948,True,False,,2018-07-31T07:05:20Z,1,3,1,1,1,0,1,0
+1291,Add Amazon Alexa,2956,True,True,2018-07-28T18:51:09Z,2018-07-28T18:51:09Z,0,2,8,1,1,0,1,7548606.0
+1173,Add Awesome Mental Health list to Miscellaneous category,195,True,False,,2018-07-30T14:20:22Z,0,2,2,1,1,0,1,0
+1188,Add Regular Expressions,2964,True,False,,2018-07-29T02:25:42Z,2,5,12,1,1,0,1,0
+1313,Add Vapor,4313,True,True,2018-07-29T15:01:55Z,2018-07-29T15:01:55Z,0,2,5,1,1,0,1,5646147.0
+1052,Add macOS Apps,2792,True,False,,2018-07-29T07:19:46Z,0,3,7,1,1,0,1,0
+1248,Add RealWorld,2950,True,False,,2018-07-29T06:13:32Z,0,2,3,1,1,1,2,0
+1080,Add JSON Web Tokens,2903,True,False,,2018-07-29T05:55:51Z,2,2,6,1,1,0,1,0
+1350,Add Captcha,2945,True,True,2018-07-29T05:37:14Z,2018-07-29T05:37:14Z,2,4,7,1,1,0,1,1808830.0
+1238,Add Code Review,3077,True,True,2018-07-29T05:21:40Z,2018-07-29T05:21:40Z,1,3,8,1,1,0,1,12533300.0
+1298,Include PR template in Contributing guidelines,3257,True,False,,2018-07-28T19:41:51Z,0,2,1,1,2,2,4,0
+217,Add workflow engines list to Miscellaneous,42,True,False,,2015-06-30T15:35:13Z,0,3,4,1,1,0,1,0
+1114,adding interview prep to readme.md,2847,True,False,,2018-03-09T11:43:52Z,0,4,3,1,1,0,1,0
+1275,Add react-bootstrap-components,3102,True,False,,2018-06-25T01:25:03Z,1,3,3,1,1,0,1,0
+1182,Add Awesome UI list,2951,True,False,,2018-07-28T19:16:50Z,0,2,5,1,1,0,1,0
+1113,Add Web Storage to Front-end Development section,2903,True,False,,2018-07-28T19:06:28Z,1,3,7,1,1,0,1,0
+1329,Add Awesome Git & ZSH - Categorize Dev Env Section - Pare Git Section,877,True,False,,2018-07-28T18:32:01Z,0,2,1,1,20,16,36,0
+1353,Add DevExtreme Reactive,2958,True,False,,2018-07-28T18:28:25Z,0,2,1,1,1,0,1,0
+1076,Add Styled-Components,3264,True,False,,2018-07-28T18:18:34Z,1,2,3,1,1,0,1,0
+1071,Add Bootstrap,2993,True,False,,2018-07-28T18:17:40Z,1,3,8,1,1,0,1,0
+1095,Add Flux,3046,True,False,,2018-07-28T18:14:37Z,0,3,6,1,1,0,1,0
+1098,Add Telegram,148,True,False,,2018-07-28T18:12:01Z,1,3,10,1,1,0,1,0
+1115,Add Tech for Good,3349,True,False,,2018-07-28T18:11:13Z,2,2,3,1,1,0,1,0
+1259,Add ExtJS in front-end lists,3144,True,False,,2018-07-28T17:55:39Z,0,2,2,1,1,0,1,0
+1262,"Add awesome-overwatch, updated",2964,True,False,,2018-07-28T17:55:09Z,0,1,2,1,1,0,1,0
+1231,Add Awesome Tailwindcss,2929,True,False,,2018-07-28T17:50:25Z,0,5,5,1,1,0,1,0
+1207,Add awesome-cheatsheets,2976,True,False,,2018-07-28T17:49:10Z,0,3,2,1,1,0,1,0
+1186,Add microbit list,3172,True,False,,2018-07-28T17:48:29Z,0,3,4,1,1,0,1,0
+1092,Added Awesome Mobile Conferences by @amobconf,3314,True,False,,2018-07-28T17:48:08Z,0,3,1,1,1,0,1,0
+1342,Add awesome-acg,3148,True,False,,2018-07-28T17:37:52Z,0,2,2,1,1,0,1,0
+1325,Add awesome-captcha,2943,True,False,,2018-07-08T07:00:10Z,1,2,5,1,1,0,1,0
+1349,Update readme.md,2965,True,False,,2018-07-06T05:03:27Z,0,2,2,1,2,2,4,0
+1348,add list of lists of awesome things,2945,True,False,,2018-07-05T05:49:01Z,0,2,1,1,1,0,1,0
+1343,Append `#readme` to all awesome list links,64,True,True,2018-07-05T05:47:34Z,2018-07-05T05:47:34Z,1,4,4,2,421,421,842,905658.0
+1307,Proposal to add awesome-db-tools,2973,True,False,,2018-05-19T19:10:00Z,0,2,3,1,1,0,1,0
+1333,Added Neutrino to Platforms,3097,True,False,,2018-06-12T12:56:37Z,0,2,2,1,1,0,1,0
+1326,Add CircuitPython Awesome list to Python Group,6234,True,False,,2018-06-06T18:39:35Z,0,2,1,1,1,0,1,0
+1294,Add CircuitPython awesome list,3279,True,False,,2018-06-06T15:22:17Z,0,2,4,1,1,0,1,0
+1315,Add link to Awesome Helm repository,3235,True,False,,2018-05-25T17:24:19Z,0,1,1,1,1,1,2,0
+1303,Update title casing website in contributing.md,73,True,True,2018-05-23T03:15:33Z,2018-05-23T03:15:33Z,0,2,0,1,1,1,2,623974.0
+1309,"Order ""Programming Languages"" alphabetically",0,True,False,,2018-05-21T08:29:15Z,0,2,2,1,40,41,81,0
+1143,Add Cisco Spark,2962,True,False,,2018-05-15T08:24:39Z,2,3,6,1,1,0,1,0
+1296,Add Minetest in game category,49,True,False,,2018-05-09T13:28:21Z,0,2,1,1,1,0,1,0
+1295,Add web cache,2996,True,False,,2018-05-08T07:07:42Z,0,2,1,1,4,1,5,0
+1280,[WIP] Add Mozilla,3766,True,False,,2018-04-28T08:36:32Z,0,2,1,1,1,0,1,0
+1279,Rename list Continuous Delivery,183,True,True,2018-04-26T19:16:44Z,2018-04-26T19:16:44Z,0,2,0,1,1,1,2,33685.0
+1222,Add NEM Projects to Decentralized Systems,2949,True,False,,2018-04-23T07:02:48Z,0,2,3,1,1,0,1,0
+1273,Google's flutter added,82,True,False,,2018-04-21T03:50:32Z,0,3,1,1,1,0,1,0
+1272,Change the haskell list,350,True,False,,2018-04-16T08:45:45Z,0,2,2,1,1,1,2,0
+1271,Add AdonisJS,2985,True,False,,2018-04-16T08:49:18Z,0,2,1,1,1,0,1,0
+1268,Offer the option to use flat badges,403,True,True,2018-04-16T08:41:56Z,2018-04-16T08:41:56Z,0,2,3,3,10,4,14,687147.0
+1128,Add Hololens,2922,True,False,,2018-04-08T10:35:00Z,0,3,6,1,1,1,2,0
+1141,Add Guitar,2882,True,False,,2018-04-08T10:34:32Z,0,3,3,1,1,0,1,0
+1021,Add React VR,2870,True,False,,2018-04-08T10:33:29Z,0,4,8,1,1,0,1,0
+1099,Add Design Systems,321,True,False,,2018-04-08T10:32:43Z,0,3,3,1,1,1,2,0
+1108,Add Awesome Hacking Resources,2981,True,False,,2018-04-08T10:31:23Z,0,2,2,1,1,0,1,0
+1082,Add web caching,3182,True,False,,2018-04-08T10:28:21Z,1,4,11,1,1,0,1,0
+1089,Add You Don't Know X,3051,True,False,,2018-04-08T10:26:39Z,2,2,2,1,1,1,2,0
+1059,Added Awesome list for comptuter science teachers (educators),2960,True,False,,2018-04-08T10:24:38Z,0,3,5,1,1,0,1,0
+1062,Added Ethereum and linked to corresponding list,2951,True,False,,2018-04-08T10:24:02Z,0,2,3,1,1,0,1,0
+1038,Add Small Dev Shops,3011,True,False,,2018-04-08T10:19:38Z,0,2,5,1,1,0,1,0
+1016,Add Privacy,2966,True,False,,2018-04-08T10:18:49Z,3,2,5,1,1,0,1,0
+1054,Add Mithril,2903,True,False,,2018-04-08T10:17:20Z,1,12,2,5,69,14,83,0
+1261,Update readme.md,3099,True,False,,2018-04-01T15:28:50Z,0,2,1,1,1,0,1,0
+1252,Remove dead Effective Altruism link,40,True,True,2018-03-22T14:22:49Z,2018-03-22T14:22:50Z,0,2,0,1,0,1,1,76031.0
+1235,Fix Broken Link to Effective Altruism,171,True,False,,2018-03-22T14:22:50Z,0,4,5,1,1,1,2,0
+1242,Add Computer Networking,2927,True,False,,2018-03-12T12:01:23Z,0,2,2,1,1,0,1,0
+1243,Merge pull request #1 from sindresorhus/master,2908,True,False,,2018-03-10T08:17:13Z,0,2,0,0,0,0,0,0
+1237,add awesome Rainbond,3164,True,False,,2018-03-06T15:20:43Z,0,2,1,1,1,0,1,0
+1094,Add Smart Contracts,2906,True,False,,2017-11-04T08:57:53Z,0,2,3,1,1,0,1,0
+1194,Functional cryptocurrencies list,258,True,False,,2018-02-19T07:28:52Z,0,2,1,1,1,0,1,0
+1189,Add XMPP,2950,True,False,,2018-02-19T13:47:39Z,0,2,6,1,1,0,1,0
+1205,Add Stellar Lumens to the awesome list,2899,True,False,,2018-02-19T07:58:20Z,0,2,1,1,1,0,1,0
+1190,"Add Scalability, Availability, and Stability Design Patterns in Back-end Development.",3073,True,False,,2018-02-19T07:17:04Z,0,2,1,1,1,0,1,0
+1212,Added Quasar Framework,2936,True,False,,2018-02-19T07:12:07Z,0,2,1,1,1,0,1,0
+1216,Add Quasar Framework to Frontend Frameworks,27,True,False,,2018-02-19T07:00:24Z,0,2,1,1,1,0,1,0
+1200,"Scalability, Availability, and Stability Back-end Design Patterns",3476,True,False,,2018-02-04T02:55:40Z,0,2,4,1,1,1,2,0
+1191,Update Transit list URL,98,True,True,2018-02-04T02:47:15Z,2018-02-04T02:47:15Z,1,3,0,1,1,1,2,976176.0
+915,Add Home Media Center,2109,True,False,,2017-04-20T10:03:30Z,1,3,3,1,1,0,1,0
+1197,Add myself,2930,True,False,,2018-01-27T07:38:59Z,0,2,1,1,1,0,1,0
+1167,added OpenHikingMaps/awesome-hiking,2899,True,False,,2018-01-22T20:35:35Z,0,2,3,1,2,1,3,0
+1183,Add AngularJS,2935,True,False,,2018-01-20T22:04:13Z,0,2,4,1,2,1,3,0
+1162,Add awesome audio QR projects to Miscellaneous,2944,True,False,,2018-01-20T21:59:54Z,0,3,4,1,1,0,1,0
+1073,Add awesome-openapi3 to the Miscellaneous section,3020,True,False,,2018-01-13T10:26:55Z,0,2,1,1,1,0,1,0
+1158,Offer a second generator in awesome/create-list.md,356,True,False,,2017-12-09T12:57:15Z,0,3,2,1,1,1,2,0
+1163,Fix PostCSS description,96,True,True,2017-12-16T00:26:28Z,2017-12-16T00:26:28Z,0,2,0,1,1,1,2,19804.0
+978,Add Terraform,2743,True,True,2017-12-10T22:15:49Z,2017-12-10T22:15:49Z,1,3,15,1,1,0,1,16842955.0
+1156,Update URL of the `Free Software Testing Books` list,2899,True,True,2017-12-09T12:54:27Z,2017-12-09T12:54:27Z,0,2,0,1,1,1,2,279349.0
+1112,Add Awesome Oracle APEX (Application Express) list,3108,True,False,,2017-12-04T03:24:22Z,0,2,1,1,1,0,1,0
+1150,added network automation,2935,True,False,,2017-12-01T13:24:39Z,0,1,1,1,1,0,1,0
+1145,Add Meta tags,3048,True,False,,2017-11-26T13:28:51Z,0,2,1,1,1,0,1,0
+1133,add descriptions for awesome-selfhosted/sysadmin,148,True,False,,2017-11-26T01:16:17Z,0,2,1,1,2,2,4,0
+1144,Add Meta tag collection,3048,True,False,,2017-11-23T18:31:01Z,0,1,0,1,3,3,6,0
+984,Add Ledger,2671,True,True,2017-08-10T23:12:21Z,2017-08-10T23:12:21Z,0,2,2,1,1,0,1,5811251.0
+985,Add Eta,2655,True,True,2017-08-10T23:13:38Z,2017-08-10T23:13:38Z,0,2,3,1,1,0,1,5729499.0
+1137,Corrected Decentralized Systems,2899,True,False,,2017-11-19T10:58:22Z,0,2,1,1,8,4,12,0
+1136,Adding web-components library slim.js,0,True,False,,2017-11-19T08:10:55Z,0,2,1,1,1,0,1,0
+1135,Add decentralized awesomes.,2899,True,False,,2017-11-19T06:25:39Z,0,2,2,1,8,4,12,0
+1134,Sort Lines Alphabetically   ,2899,True,False,,2017-11-18T14:02:45Z,0,2,1,1,296,289,585,0
+1132,Add Awesome-Twitter-Bots Repo,2899,True,False,,2017-11-16T18:40:08Z,0,2,3,1,1,0,1,0
+1130,Add Bridge.NET,134,True,False,,2017-11-16T18:42:43Z,0,2,2,1,1,0,1,0
+1087,Add Diversity,2940,True,True,2017-11-16T18:34:24Z,2017-11-16T18:34:24Z,2,3,9,1,1,0,1,3277071.0
+1131,Correct link to Angular list,2921,True,True,2017-11-15T03:02:10Z,2017-11-15T03:02:10Z,0,3,1,1,1,1,2,93217.0
+1041,Add Polymer 2,3059,True,False,,2017-11-14T12:37:48Z,0,3,8,1,1,0,1,0
+798,Add FRC,1092,True,False,,2017-01-05T21:20:32Z,1,2,3,1,1,0,1,0
+1126,Adding FreeCourses,174,True,False,,2017-11-06T20:17:46Z,0,2,1,1,1,1,2,0
+1103,Add vulcanjs to Front-end Development list,2850,True,False,,2017-11-04T08:54:59Z,0,2,1,1,1,0,1,0
+1047,Add Idris,287,True,True,2017-10-30T08:40:05Z,2017-10-30T08:40:05Z,0,2,11,1,1,0,1,3930263.0
+1119,Adding Hashgraph to Decentralized Systems,2918,True,False,,2017-11-03T15:52:47Z,0,2,1,1,1,0,1,0
+1070,Add inspectIT,3112,True,True,2017-11-02T13:27:13Z,2017-11-02T13:27:14Z,1,2,6,1,1,0,1,3027800.0
+1121,Add descriptions for entries,314,True,True,2017-11-02T12:47:20Z,2017-11-02T12:47:21Z,4,2,1,1,10,10,20,177244.0
+1123,Merge pull request #1 from sindresorhus/master,2858,True,False,,2017-11-01T23:04:36Z,0,1,0,0,0,0,0,0
+1122,Re-enable dynamic Code Sponsor link,0,True,True,2017-11-01T06:58:35Z,2017-11-01T06:58:35Z,0,2,1,1,3,5,8,34567.0
+1120,Added SiriDB to databases,2878,True,False,,2017-10-31T07:43:22Z,0,1,0,1,1,0,1,0
+1116,Add Theravada,3229,True,True,2017-10-30T09:13:58Z,2017-10-30T09:13:58Z,0,2,3,1,1,0,1,26700.0
+1018,Add Visual Regression Testing,2710,True,True,2017-10-30T08:16:19Z,2017-10-30T08:16:19Z,1,2,12,1,1,0,1,8001289.0
+1102,Add some descriptions,2940,True,True,2017-10-30T08:09:15Z,2017-10-30T08:09:15Z,3,3,1,1,11,11,22,720422.0
+951,Add Grid Layout,2706,True,False,,2017-10-30T07:45:07Z,0,4,9,1,1,0,1,0
+1111,Replace Code Sponsor banner with a less obtrusive one,143,True,True,2017-10-28T03:59:58Z,2017-10-28T03:59:58Z,0,2,0,1,7,10,17,174197.0
+1058,Add Hyperapp,2879,True,True,2017-10-27T04:32:58Z,2017-10-27T04:32:58Z,5,5,11,1,1,0,1,3148160.0
+1110,Added Awesome-Hacking-Resources,2882,True,False,,2017-10-26T08:39:01Z,0,3,2,1,1,0,1,0
+1105,Added ##Editors/Brackets,2850,True,False,,2017-10-24T05:10:52Z,0,2,1,1,1,0,1,0
+1056,Add Genetic Algorithm to Big Data,3066,True,False,,2017-10-21T13:42:06Z,0,2,1,1,1,0,1,0
+1064,Add Mobile Web Specialist,2944,True,False,,2017-10-11T10:48:45Z,0,2,1,1,1,0,1,0
+1045,Add Design Principles,333,True,True,2017-10-11T10:18:01Z,2017-10-11T10:18:01Z,1,2,3,1,1,0,1,2939389.0
+1085,Adding the awesome list of Graphic Novels,2916,True,False,,2017-10-11T10:01:25Z,0,1,1,1,1,0,1,0
+1037,Add HBase,2784,True,True,2017-10-11T06:59:27Z,2017-10-11T06:59:27Z,1,2,3,1,1,0,1,3764265.0
+1034,Add Mastodon,2992,True,True,2017-10-11T06:57:06Z,2017-10-11T06:57:06Z,0,2,4,1,1,0,1,4127610.0
+1029,Add Data Science Tutorials,3095,True,True,2017-10-11T06:52:55Z,2017-10-11T06:52:55Z,0,2,3,1,1,0,1,4366117.0
+1028,Add Open Source Supporters,3106,True,True,2017-10-11T06:48:44Z,2017-10-11T06:48:44Z,0,3,5,1,1,0,1,4532690.0
+954,Add Deep Learning Education,3886,True,True,2017-10-11T06:34:39Z,2017-10-11T06:34:39Z,0,4,17,1,1,0,1,13492277.0
+1043,Add PHP Must Watch Talks,2783,True,False,,2017-10-09T10:55:29Z,0,2,3,1,1,0,1,0
+1066,add three.js of Front-End Development,98,True,False,,2017-10-05T17:34:27Z,0,3,1,1,1,0,1,0
+1078,Added link to codesdk/awesome-mac-environment,2850,True,False,,2017-10-05T08:09:17Z,0,2,2,1,1,0,1,0
+583,Add Bug Bounty & Responsible Security Disclosure,170,True,False,,2017-10-05T07:35:55Z,0,5,18,1,1,0,1,0
+1081,Minor grammar enhancements to awesome.md,143,True,True,2017-10-05T07:15:04Z,2017-10-05T07:15:04Z,1,2,1,1,3,3,6,45309.0
+1077,Fix spelling,20,True,True,2017-10-03T17:11:08Z,2017-10-03T17:11:08Z,0,2,0,1,1,1,2,23220.0
+1075,Added scotch.io,197,True,False,,2017-10-02T18:20:24Z,0,3,1,1,1,0,1,0
+1025,Add GNOME,2923,True,True,2017-10-02T16:52:02Z,2017-10-02T16:52:02Z,2,5,6,1,1,0,1,3976243.0
+608,Add Bootstrap Templates,433,True,False,,2016-05-13T07:52:15Z,0,3,3,1,1,0,1,0
+1046,Core ML Models,2874,True,True,2017-09-25T19:11:43Z,2017-09-25T19:11:43Z,1,2,6,1,1,0,1,1304088.0
+32,Added Awesome-Bootstrap for Bootstrap Themes,86,True,False,,2014-09-10T20:18:09Z,0,3,4,1,1,0,1,0
+1044,Added descriptions to Text Editors and some languages.,2785,True,False,,2017-09-23T21:32:38Z,4,3,2,1,22,20,42,0
+1055,Added Etherium ,2785,True,False,,2017-09-20T15:18:40Z,0,3,2,1,1,0,1,0
+1061,Update readme.md,2856,True,False,,2017-09-22T20:47:18Z,0,2,1,1,1,1,2,0
+1032,Add list of linux software,2826,True,False,,2017-09-22T08:28:15Z,0,4,5,1,1,0,1,0
+1033,Crypto Currency Tools & Algorithms,95,True,True,2017-09-22T08:19:43Z,2017-09-22T08:19:43Z,2,2,10,1,1,0,1,2618528.0
+1060,Fix link for AS3 language,161,True,True,2017-09-22T06:54:28Z,2017-09-22T06:54:28Z,0,2,0,1,1,1,2,1022.0
+1050,Ubuntu based OS Awesome list,2803,True,False,,2017-09-19T14:08:07Z,0,3,2,0,0,0,0,0
+1004,Add Elasticsearch,55,True,False,,2017-09-11T18:31:13Z,0,3,3,1,1,0,1,0
+981,Add Flutter,2781,True,False,,2017-09-11T18:28:38Z,0,3,10,1,9,1,10,0
+1022,Add Action Recognition,2860,True,False,,2017-09-11T18:32:50Z,0,2,4,1,1,0,1,0
+1020,Add Hexo,2950,True,False,,2017-09-11T18:32:30Z,0,3,4,1,10,1,11,0
+1007,Add Decentralized P2P,5519,True,False,,2017-09-11T18:31:43Z,0,2,3,1,1,0,1,0
+994,Add Token Sale,188,True,False,,2017-09-11T18:30:48Z,0,2,2,1,1,0,1,0
+991,Add Compilers,2833,True,False,,2017-09-11T18:30:03Z,0,2,4,1,1,0,1,0
+971,Add Joomla!,3102,True,False,,2017-09-11T18:28:09Z,1,2,5,1,1,0,1,0
+949,Add Quantum Machine Learning,2868,True,False,,2017-09-11T18:27:09Z,0,3,6,1,1,1,2,0
+896,Add Metrics,2106,True,False,,2017-09-11T18:26:46Z,2,4,12,1,1,0,1,0
+882,Add Write-Ups and POCs,2010,True,False,,2017-09-11T18:25:55Z,4,5,12,1,2,0,2,0
+1039,Merge pull request #1 from sindresorhus/master,2794,True,False,,2017-08-31T16:44:05Z,0,2,0,0,0,0,0,0
+803,Add Awesome Loopback,1253,True,False,,2016-10-20T09:28:14Z,0,2,1,1,1,1,2,0
+1030,Add Claudia,3143,True,False,,2017-08-21T20:37:02Z,0,1,0,1,1,0,1,0
+1027,Add Uncopyright,3076,True,True,2017-08-20T00:10:51Z,2017-08-20T00:10:51Z,0,2,3,1,1,0,1,177734.0
+1024,Added the Blockstack Platform,3986,True,False,,2017-08-17T17:53:00Z,0,3,1,1,1,0,1,0
+1023,Add awesome for RxSwift,0,True,False,,2017-08-17T07:49:06Z,0,1,0,1,1,0,1,0
+1019,Adds Idris awesome list,128,True,False,,2017-08-07T17:03:38Z,0,2,2,1,9,2,11,0
+967,Add Non-Financial Blockchain,2732,True,True,2017-08-07T16:53:51Z,2017-08-07T16:53:51Z,0,3,5,1,6,2,8,6821871.0
+976,Add Pixel Art,2678,True,True,2017-08-07T16:41:01Z,2017-08-07T16:41:01Z,0,4,11,1,1,0,1,6066840.0
+982,Add Homematic,2773,True,True,2017-07-31T10:38:30Z,2017-07-31T10:38:30Z,0,3,4,1,1,0,1,5078442.0
+1015,Add Prometheus,2754,True,True,2017-07-27T13:07:25Z,2017-07-27T13:07:25Z,1,3,3,1,1,0,1,89933.0
+1017,Self-promotion,152,True,True,2017-07-28T20:46:37Z,2017-07-28T20:46:37Z,1,4,5,1,7,0,7,8.0
+969,Add Gideros,2808,True,True,2017-07-27T14:41:21Z,2017-07-27T14:41:21Z,0,3,9,1,1,0,1,5550100.0
+1002,Add description to CakePHP and Laravel entries,21,True,True,2017-07-22T21:51:19Z,2017-07-22T21:51:19Z,0,2,6,1,2,2,4,1052149.0
+990,Add Craft CMS,2959,True,True,2017-07-24T19:59:04Z,2017-07-24T19:59:04Z,1,3,8,1,1,0,1,2765606.0
+1009,Add ActionScript 3,630,True,True,2017-07-23T11:01:38Z,2017-07-23T11:01:38Z,0,3,16,1,1,0,1,514468.0
+1001,Add Leading and Managing,2992,True,True,2017-07-23T11:20:03Z,2017-07-23T11:20:03Z,0,3,8,1,1,0,1,1101320.0
+1014,Add Next.js,2672,True,True,2017-07-22T21:19:17Z,2017-07-22T21:19:17Z,0,3,3,1,1,0,1,48044.0
+1012,Add Lockpicking,2831,True,True,2017-07-22T23:51:52Z,2017-07-22T23:51:52Z,2,2,6,1,1,0,1,323089.0
+1000,Add Ad-Free,2840,True,True,2017-07-22T15:24:02Z,2017-07-22T15:24:02Z,0,2,2,1,1,0,1,1096185.0
+934,Add Esolangs,3021,True,True,2017-07-22T21:32:52Z,2017-07-22T21:32:52Z,2,3,17,1,1,0,1,9206759.0
+992,Add Indie,2810,True,True,2017-07-22T21:10:29Z,2017-07-22T21:10:29Z,1,2,3,1,1,0,1,2288458.0
+974,Add Effective Altruism,3200,True,True,2017-07-22T15:00:50Z,2017-07-22T15:00:50Z,0,4,9,1,1,0,1,4898965.0
+988,Add Next.js,2652,True,False,,2017-07-18T11:43:30Z,1,14,11,2,14,2,16,0
+1011,Update README URLs based on HTTP redirects,1467,True,True,2017-07-20T10:17:32Z,2017-07-20T10:17:32Z,0,2,4,1,17,17,34,150986.0
+841,added awesome-pentest,1959,True,False,,2016-12-10T11:46:42Z,0,3,3,1,1,0,1,0
+1010,Adding monitoring category and tool suggestion,2900,True,False,,2017-07-18T10:48:58Z,0,2,1,1,5,0,5,0
+998,Add Smart TV,2722,True,True,2017-07-15T17:12:46Z,2017-07-15T17:12:46Z,1,2,10,1,1,0,1,790338.0
+911,Add Terminals Are Sexy,2154,True,True,2017-07-07T11:21:24Z,2017-07-07T11:21:24Z,1,3,8,1,1,0,1,9739246.0
+965,Add RubyMotion,2893,True,True,2017-07-07T14:02:06Z,2017-07-07T14:02:06Z,1,2,8,1,1,0,1,4287436.0
+996,Add Machine Learning with Ruby,2702,True,True,2017-07-07T11:27:13Z,2017-07-07T11:27:13Z,0,2,4,1,1,0,1,683001.0
+964,Add One-Person-Games list,2869,True,False,,2017-07-07T10:48:35Z,0,2,1,1,1,0,1,0
+999,Add Squeezer,2941,True,False,,2017-07-07T10:09:23Z,0,2,2,1,1,0,1,0
+962,Add Neuroscience,3003,True,True,2017-07-07T09:10:42Z,2017-07-07T09:10:42Z,3,4,10,1,1,0,1,4456849.0
+995,Add name conflicts,2794,True,False,,2017-07-06T21:29:06Z,0,2,2,1,1,0,1,0
+930,Add Python Scientific Audio,2761,True,True,2017-07-06T21:37:56Z,2017-07-06T21:37:56Z,0,2,9,1,1,0,1,7981783.0
+952,Add awesome-explorables list,3041,True,False,,2017-07-06T21:40:41Z,0,2,1,1,1,0,1,0
+936,Remove Endangered Languages list,991,True,True,2017-07-06T20:21:27Z,2017-07-06T20:21:27Z,0,3,3,1,0,1,1,6984516.0
+944,Add npm scripts,2752,True,True,2017-07-06T20:24:12Z,2017-07-06T20:24:12Z,0,3,16,1,1,0,1,6296861.0
+924,Add Sentiment Analysis,2256,True,False,,2017-07-06T19:54:09Z,2,3,4,1,1,0,1,0
+899,Add Digital Nomads,2010,True,False,,2017-07-06T19:51:23Z,0,4,8,1,1,0,1,0
+956,Added descriptions,21,True,False,,2017-07-06T14:49:05Z,6,3,0,2,10,10,20,0
+997,Add description to Node.js entry,21,True,True,2017-07-01T22:13:17Z,2017-07-01T22:13:17Z,0,2,0,1,1,1,2,85627.0
+987,Add description to Atom entry,21,True,True,2017-06-07T21:29:05Z,2017-06-07T21:29:05Z,0,4,2,1,1,1,2,212.0
+993,Added Token Sale,188,True,False,,2017-06-27T02:07:20Z,0,1,0,1,1,1,2,0
+989,"Add Backend as a Service (""BaaS"")",868,True,False,,2017-06-19T10:42:28Z,0,2,3,1,1,1,2,0
+903,Add IT Quotes,2122,True,True,2017-06-18T17:07:58Z,2017-06-18T17:07:58Z,2,3,10,1,1,0,1,8557270.0
+966,Add TikZ,2937,True,True,2017-06-15T14:01:20Z,2017-06-15T14:01:20Z,0,2,1,1,1,0,1,2290173.0
+948,Add awesome-generative-art,2735,True,False,,2017-06-15T13:57:54Z,0,2,3,1,1,0,1,0
+986,Adding a resource on leadership and management,2880,True,False,,2017-06-07T14:59:22Z,0,2,1,1,1,0,1,0
+980,Adding Websockets,2016,True,False,,2017-06-02T18:19:27Z,0,2,1,1,1,0,1,0
+780,Add International Image Interoperability Framework,1603,True,False,,2017-06-02T18:15:03Z,1,3,12,1,1,0,1,0
+972,Add awesome-flink,22,True,False,,2017-05-26T17:22:52Z,0,3,2,1,1,0,1,0
+973,Update from master,2668,True,False,,2017-05-26T14:27:51Z,0,1,1,0,0,0,0,0
+970,Add link to awesome-brazil-data,163,True,False,,2017-05-25T17:42:54Z,0,3,4,1,1,0,1,0
+945,Add Magento 2,3107,True,True,2017-05-25T09:17:55Z,2017-05-25T09:17:55Z,0,2,2,1,1,0,1,2428280.0
+895,Add Apache Spark,2066,True,False,,2017-05-18T16:42:14Z,3,5,9,1,1,0,1,0
+968,"Primer cambio , de prueba.",2711,True,False,,2017-05-22T06:51:26Z,0,1,0,1,1,1,2,0
+918,Add TikZ,2265,True,False,,2017-05-19T16:34:54Z,0,4,14,1,1,0,1,0
+950,Add Spinners,2678,True,False,,2017-05-18T07:01:59Z,0,3,3,1,1,0,1,0
+925,Add Healthcare,2166,True,True,2017-05-16T07:16:57Z,2017-05-16T07:16:57Z,1,4,14,1,1,0,1,3909079.0
+963,Awesome Weekly is on Product Hunt,151,True,True,2017-05-17T06:30:54Z,2017-05-17T06:30:54Z,0,1,0,1,1,0,1,11.0
+960,Add Squeezer Framework,2934,True,False,,2017-05-16T07:13:17Z,0,2,2,1,1,1,2,0
+901,Add WebSockets,2016,True,False,,2017-05-16T07:43:32Z,0,3,2,1,1,0,1,0
+900,Add Create React App,2087,True,False,,2017-05-16T07:43:15Z,2,3,5,1,1,0,1,0
+931,"Add ""Startup Resources""",203,True,False,,2017-05-16T07:14:52Z,0,3,1,1,1,0,1,0
+932,"Add ""Startup Accelerators & Incubators"" lists",350,True,False,,2017-05-16T07:14:35Z,0,3,4,1,2,0,2,0
+933,"Add ""Co-Working Spaces""",177,True,False,,2017-05-16T07:14:17Z,0,3,1,1,1,0,1,0
+946,Add Doctrine Awesome active repo and detail for Neo4j,99,True,False,,2017-05-16T07:05:31Z,0,2,2,1,2,1,3,0
+955,Adding XOOPS CMS,2700,True,False,,2017-05-08T21:32:17Z,0,2,3,1,1,0,1,0
+959,awesome-rust is now at rust-unofficial,2668,True,True,2017-05-11T18:10:41Z,2017-05-11T18:10:41Z,0,2,0,1,1,1,2,149.0
+957,Adding Google Dart Flutter.io to Front-End,3196,True,False,,2017-05-10T20:17:00Z,0,2,1,1,1,0,1,0
+953,Add Data Wrangling to the Misc Section,2820,True,False,,2017-05-08T21:38:26Z,0,2,1,1,1,1,2,0
+916,Add Progressive Enhancement,2465,True,True,2017-05-02T18:01:10Z,2017-05-02T18:01:10Z,4,3,15,1,1,0,1,3568201.0
+923,Add Events in the Netherlands,2097,True,True,2017-04-30T10:12:20Z,2017-04-30T10:12:20Z,1,3,5,1,1,0,1,2680326.0
+947,Add Awesome Hexo,2950,True,False,,2017-04-27T18:22:15Z,0,1,0,1,1,0,1,0
+943,Add git hooks resources,2911,True,False,,2017-04-24T17:56:14Z,0,2,4,1,1,0,1,0
+942,Add Laravel Podcasts,2685,True,False,,2017-04-24T17:57:13Z,0,2,1,1,1,0,1,0
+941,Add Preact,2647,True,True,2017-04-24T08:34:57Z,2017-04-24T08:34:57Z,0,2,3,1,1,0,1,9664.0
+898,Add Web Security,2043,True,True,2017-04-23T14:59:55Z,2017-04-23T14:59:55Z,1,4,10,1,1,0,1,4266964.0
+902,Add Construct 2,2062,True,True,2017-04-22T12:40:35Z,2017-04-22T12:40:35Z,0,3,9,1,1,0,1,3888899.0
+914,Add Dev Fun,2063,True,True,2017-04-21T10:28:09Z,2017-04-21T10:28:09Z,4,4,8,1,1,0,1,2718872.0
+940,Add IT Quotes List,2756,True,False,,2017-04-21T04:07:51Z,0,2,1,1,1,0,1,0
+921,Add JavaFX,1965,True,False,,2017-04-20T10:13:48Z,0,3,7,1,1,0,1,0
+859,Add WebExtensions,2151,True,False,,2017-04-20T02:50:36Z,1,4,6,1,1,0,1,0
+894,Add WebGL,2250,True,True,2017-04-20T02:51:08Z,2017-04-20T02:51:08Z,0,3,4,1,1,0,1,4551159.0
+938,Added prettier in Javascript,2747,True,False,,2017-04-19T18:32:28Z,0,3,1,1,1,0,1,0
+939,Add Awesome F#,2644,True,False,,2017-04-19T17:24:56Z,0,2,1,1,1,0,1,0
+887,Add CouchDB,2048,True,True,2017-04-19T06:31:45Z,2017-04-19T06:31:45Z,0,3,7,1,1,0,1,5528949.0
+935,Fix incorrect dash used,0,True,True,2017-04-16T18:42:01Z,2017-04-16T18:42:01Z,0,2,0,1,1,1,2,620589.0
+919,Use correct names for both versions,2214,True,True,2017-03-23T19:52:06Z,2017-03-23T19:52:06Z,1,4,7,1,2,2,4,413.0
+913,Add NextJS awesome list,2119,True,False,,2017-04-01T14:30:30Z,0,3,2,1,1,0,1,0
+881,Add Laravel Voyager List,330,True,False,,2017-04-01T08:11:29Z,0,2,4,1,1,0,1,0
+808,Add PostgreSQL,1299,True,True,2017-04-01T05:08:47Z,2017-04-01T05:08:47Z,0,5,12,1,1,0,1,13592958.0
+917,Add TypeScript Projects,2042,True,False,,2017-03-31T10:29:51Z,0,4,3,1,1,0,1,0
+858,Add Linters,2079,True,False,,2017-03-30T14:10:56Z,0,3,7,1,2,1,3,0
+920,"Added ""Awesome R Blogs on the web"" to the miscellaneous section",225,True,False,,2017-03-27T17:44:03Z,0,1,1,1,1,0,1,0
+912,Remove duplicated entry of Web Design list.,0,True,True,2017-03-17T15:45:11Z,2017-03-17T15:45:11Z,0,2,3,1,0,2,2,3953.0
+910,Add Android Tools,1961,True,False,,2017-03-15T17:27:20Z,0,2,1,1,1,1,2,0
+844,Add Markdown,2111,True,True,2017-03-15T04:14:36Z,2017-03-15T04:14:36Z,0,4,8,1,3,0,3,7798666.0
+909,Add Framer,2066,True,True,2017-03-14T19:34:54Z,2017-03-14T19:34:54Z,0,2,4,1,1,0,1,7149.0
+892,Add OSX Hardening,2069,True,False,,2017-03-14T19:20:59Z,0,3,3,1,1,0,1,0
+885,Add Deep Learning Papers,66,True,True,2017-03-14T19:18:37Z,2017-03-14T19:18:37Z,0,3,2,1,1,0,1,2500828.0
+845,Add Less,2356,True,True,2017-03-14T18:05:53Z,2017-03-14T18:05:53Z,1,3,5,1,1,0,1,7710105.0
+904,Add Solr / Elastic to the Database category.,2345,True,False,,2017-03-14T13:05:59Z,0,2,1,1,2,1,3,0
+907,Add JavaScript Style Guide,1957,True,False,,2017-03-14T13:04:48Z,0,2,1,1,2,1,3,0
+906,Added esoteric programming languages,1975,True,False,,2017-03-14T12:35:42Z,0,2,1,1,1,0,1,0
+905,Add IT Quotes List,2122,True,False,,2017-03-12T09:30:43Z,0,2,1,1,1,0,1,0
+792,Add Construct 2,1229,True,False,,2016-10-13T09:03:59Z,0,2,2,1,1,0,1,0
+810,Add Free Software,1426,True,True,2017-03-07T11:54:31Z,2017-03-07T11:54:31Z,2,5,6,1,1,0,1,11287465.0
+857,Add WebSockets,2025,True,False,,2017-03-07T14:34:21Z,3,4,5,1,4,1,5,0
+847,Add a link to Yeoman generator for awesome lists,2126,True,True,2017-03-07T11:38:05Z,2017-03-07T11:38:06Z,0,3,10,1,1,1,2,6667183.0
+863,Add Zend Framework,2030,True,False,,2017-03-07T11:56:25Z,0,2,3,1,1,0,1,0
+856,Add Amazon Echo,174,True,False,,2017-03-07T11:55:34Z,0,2,3,1,1,0,1,0
+849,Add Summernote,2357,True,False,,2017-03-07T11:55:05Z,0,2,3,1,1,0,1,0
+800,Add English Resources,1174,True,False,,2017-03-07T11:51:14Z,0,4,12,1,1,0,1,0
+869,Add Testing,2105,True,True,2017-03-07T11:43:03Z,2017-03-07T11:43:03Z,0,2,4,1,1,0,1,3962152.0
+893,Add: Robot Framework,2033,True,False,,2017-03-06T18:49:35Z,0,3,2,1,1,1,2,0
+878,Add No-Login Web Apps,2387,True,True,2017-02-20T09:39:06Z,2017-02-20T09:39:06Z,2,3,5,1,1,0,1,1825603.0
+766,Add WebTorrent Clones,1069,True,False,,2016-10-05T19:30:25Z,0,2,1,1,1,1,2,0
+852,Add Website Screenshots,2129,True,False,,2017-02-20T06:32:10Z,1,2,7,1,2,0,2,0
+890,Add Grid to Front-End Development,2026,True,False,,2017-02-19T16:58:59Z,0,2,1,1,1,0,1,0
+871,"Create Business, Work and Networking sections",219,True,True,2017-02-18T20:30:03Z,2017-02-18T20:30:03Z,2,2,1,1,29,14,43,2452890.0
+888,Added Pentest Cheat Sheets,2004,True,False,,2017-02-18T12:21:40Z,0,2,1,1,1,0,1,0
+889,Emoji Section added,2218,True,False,,2017-02-17T18:40:29Z,0,2,2,1,5,0,5,0
+886,add touchbar,2141,True,False,,2017-02-16T18:59:23Z,0,3,2,1,1,0,1,0
+884,"Add ""Deep learning papers""",2082,True,False,,2017-02-13T20:36:02Z,0,1,0,1,1,0,1,0
+853,Add PhD,2108,True,False,,2017-02-13T18:19:24Z,0,3,5,1,1,0,1,0
+866,Add AdonisJS,2079,True,False,,2017-02-13T18:09:45Z,1,2,4,1,1,0,1,0
+883,restQL-core - microservice query language,2388,True,False,,2017-02-11T13:18:17Z,0,2,1,1,1,1,2,0
+879,Add Nuxt.js,2020,True,False,,2017-02-06T13:41:32Z,0,3,3,1,1,0,1,0
+880,Add metrics in Big Data,2191,True,False,,2017-02-05T21:40:40Z,0,2,1,1,1,0,1,0
+877,Rename jQuery and Dojo repositories locations,2051,True,True,2017-01-29T10:41:12Z,2017-01-29T10:41:12Z,0,2,1,1,2,2,4,211.0
+876,Add awesome of android learner,2052,True,False,,2017-01-28T19:10:42Z,0,2,1,1,1,1,2,0
+875,Update Webpack,2128,True,True,2017-01-27T17:21:20Z,2017-01-27T17:21:20Z,0,2,1,1,1,1,2,33664.0
+874,Add Creative Portfolio Websites,2017,True,False,,2017-01-27T17:24:18Z,0,2,1,1,1,0,1,0
+864,Add Creative Coding,2096,True,True,2017-01-23T08:38:29Z,2017-01-23T08:38:29Z,0,2,6,1,1,0,1,627613.0
+870,Add forensics,43,True,False,,2017-01-22T21:41:22Z,0,4,3,1,1,0,1,0
+843,Add JavaScript Learning,2290,True,True,2017-01-20T14:50:53Z,2017-01-20T14:50:53Z,0,2,4,1,1,0,1,3220385.0
+868,Add Hardware category,48,True,True,2017-01-19T18:01:48Z,2017-01-19T18:01:48Z,0,2,2,1,10,4,14,6165.0
+865,Add Electronics,2034,True,True,2017-01-19T17:57:45Z,2017-01-19T17:57:45Z,0,2,5,1,1,0,1,251513.0
+867,Add Protractor,2075,True,False,,2017-01-19T09:20:08Z,0,3,1,1,1,0,1,0
+851,Add Qt,2165,True,True,2017-01-18T16:04:48Z,2017-01-18T16:04:48Z,1,2,8,1,1,0,1,2139650.0
+788,Add AdonisJS,1248,True,False,,2016-10-10T12:14:30Z,0,2,1,1,1,0,1,0
+812,Add Java 8,1216,True,False,,2017-01-17T10:15:50Z,0,5,10,1,1,0,1,0
+842,Add Front-End design elements,2014,True,False,,2017-01-16T16:23:13Z,2,3,9,1,2,1,3,0
+861,Added list of awesome graphic novels,2070,True,False,,2017-01-16T16:15:33Z,0,2,1,1,1,0,1,0
+804,Add Elixir Books,1149,True,True,2017-01-16T14:28:50Z,2017-01-16T14:28:51Z,0,3,4,1,1,0,1,7586496.0
+836,Add Persian NLP,2019,True,False,,2017-01-16T09:43:01Z,0,4,4,1,1,0,1,0
+862,Add Semicolonless-js,2019,True,False,,2017-01-16T05:28:08Z,0,2,2,1,1,0,1,0
+834,Add Information Retrieval,2654,True,True,2017-01-10T08:59:50Z,2017-01-10T08:59:50Z,7,3,14,1,1,0,1,3442989.0
+249,Fix typo/punctuation,0,True,True,2015-07-29T10:23:30Z,2015-07-29T10:23:30Z,1,2,0,1,3,3,6,24150.0
+846,Add Python Asyncio,2031,True,True,2017-01-10T12:17:46Z,2017-01-10T12:17:46Z,3,2,2,1,1,0,1,2068051.0
+855,Add stylelint,2104,True,False,,2017-01-10T08:31:41Z,0,2,1,1,1,0,1,0
+860,Add PostgreSQL,131,True,False,,2017-01-08T19:57:22Z,0,1,1,1,1,0,1,0
+829,Add Firebase,1987,True,False,,2017-01-05T21:23:17Z,0,4,3,1,1,1,2,0
+806,Add Blockchain,1193,True,False,,2017-01-05T21:21:30Z,1,3,2,1,1,0,1,0
+854,Add a link to Awesome Postgres under Databases,1988,True,False,,2017-01-01T10:54:02Z,0,1,1,1,1,0,1,0
+848,Add github on-demand training to dev environments ,2168,True,False,,2016-12-20T18:16:28Z,0,2,2,1,1,0,1,0
+761,Add Ant Design,1387,True,True,2016-12-17T10:41:53Z,2016-12-17T10:41:53Z,2,5,18,1,1,0,1,8400982.0
+830,Add NLP with Ruby,2182,True,True,2016-12-17T10:56:01Z,2016-12-17T10:56:01Z,2,2,4,1,1,0,1,1683458.0
+821,Add SaltStack,1614,True,True,2016-12-17T10:43:18Z,2016-12-17T10:43:18Z,2,3,10,1,1,0,1,2935769.0
+802,Add HDL,1234,True,False,,2016-12-12T14:52:11Z,0,3,3,1,1,0,1,0
+840,Add new category DevOps and new awesome list Monitoring.,2244,True,False,,2016-12-09T17:30:15Z,0,2,2,1,4,0,4,0
+838,Add awesome-stylus,0,True,False,,2016-12-09T10:07:25Z,0,2,1,1,1,1,2,0
+839,Add MobX Awesome list,21,True,False,,2016-12-09T10:06:21Z,0,2,1,1,1,0,1,0
+837,Add Tech Events,2112,True,False,,2016-12-06T12:05:35Z,0,2,1,1,8,0,8,0
+827,Add Information Retrieval and Web Search,2654,True,False,,2016-11-20T19:37:20Z,0,2,3,1,1,0,1,0
+833,New in Development Environment - vcs tools list link,2204,True,False,,2016-11-30T11:23:44Z,0,3,5,1,1,0,1,0
+832,Add Ant Design,1998,True,False,,2016-11-29T12:56:01Z,0,1,0,1,1,0,1,0
+755,Add Quora,1467,True,False,,2016-11-29T10:26:27Z,2,3,5,1,1,0,1,0
+831,Update amount of days before submitting a list,169,True,True,2016-11-28T13:04:10Z,2016-11-28T13:04:10Z,0,2,1,1,1,1,2,1821.0
+820,Add PowerShell,1735,True,True,2016-11-26T06:00:31Z,2016-11-26T06:00:31Z,0,2,7,1,1,0,1,1161152.0
+826,Add Web Design,2006,True,True,2016-11-24T19:17:18Z,2016-11-24T19:17:18Z,0,3,6,1,1,0,1,366498.0
+814,Add Sass,1367,True,True,2016-11-20T06:43:26Z,2016-11-20T06:43:26Z,1,2,7,1,1,0,1,1896142.0
+828,Add Python Asyncio list,2031,True,False,,2016-11-21T09:54:12Z,0,2,2,1,1,0,1,0
+818,Add Drupal,1183,True,True,2016-11-20T06:42:53Z,2016-11-20T06:42:53Z,1,2,3,1,1,0,1,856312.0
+819,"Add ""Data Science - Use Cases""",1289,True,False,,2016-11-18T10:31:43Z,0,2,1,1,1,0,1,0
+825,Added Licence file (public domain),1321,True,False,,2016-11-18T04:19:34Z,0,5,5,1,24,0,24,0
+823,Add Awesome Free Services List,1382,True,False,,2016-11-15T15:52:35Z,0,3,4,1,1,0,1,0
+822,Added UBC FOSS to miscellaneous,1372,True,False,,2016-11-14T10:23:10Z,0,2,1,1,1,1,2,0
+762,Add Educational Games,1064,True,True,2016-11-09T11:56:19Z,2016-11-09T11:56:19Z,6,3,9,1,1,0,1,5021093.0
+817,Add Chatbots,1121,True,False,,2016-11-08T16:19:52Z,0,2,4,1,1,0,1,0
+816,Add Browserify,1183,True,True,2016-11-07T09:54:11Z,2016-11-07T09:54:11Z,1,2,3,1,1,0,1,417820.0
+769,Add Textpattern,1260,True,True,2016-11-04T02:44:46Z,2016-11-04T02:44:46Z,1,3,7,1,1,0,1,3831039.0
+811,Add Alfred Workflows,1017,True,True,2016-11-03T18:57:50Z,2016-11-03T18:57:50Z,7,2,9,1,1,0,1,583029.0
+760,Add Quantified Self,1352,True,True,2016-11-03T17:13:43Z,2016-11-03T17:13:43Z,3,3,8,1,1,0,1,4631864.0
+815,alphabetizes each section and the lists of each section,42,True,False,,2016-10-30T16:09:47Z,0,3,2,1,343,342,685,0
+813,Added Python Books link.,1163,True,False,,2016-10-30T16:12:33Z,0,2,1,1,1,0,1,0
+809,Add Weex,0,True,False,,2016-10-26T20:35:46Z,0,2,1,1,1,0,1,0
+807,Added awesome-cpus list,1189,True,False,,2016-10-26T09:03:18Z,0,3,2,1,1,0,1,0
+805,add awesome-pull-requests,1606,True,False,,2016-10-22T20:02:23Z,0,2,1,1,1,0,1,0
+783,Add PowerShell,1199,True,False,,2016-10-20T19:25:58Z,1,2,3,1,1,0,1,0
+789,Add Elixir Books,1127,True,False,,2016-10-20T18:50:19Z,0,3,10,1,1,0,1,0
+796,Add WM,2028,True,False,,2016-10-20T18:19:11Z,0,2,2,1,1,0,1,0
+787,Add CMS,1721,True,False,,2016-10-20T18:24:53Z,0,2,1,1,1,0,1,0
+786,Add Telegram,1176,True,False,,2016-10-20T18:20:16Z,0,3,2,1,1,0,1,0
+791,Add Brackets,1176,True,False,,2016-10-18T04:39:48Z,0,2,1,1,1,0,1,0
+793,Add Liquid,1456,True,False,,2016-10-18T04:34:39Z,0,2,1,1,1,0,1,0
+778,Add Domain-Driven Design,1482,True,True,2016-10-18T04:26:22Z,2016-10-18T04:26:22Z,2,2,3,1,1,0,1,1502429.0
+799,"add a description to ""Git Add-ons""",1361,True,True,2016-10-17T04:22:20Z,2016-10-17T04:22:20Z,2,2,0,1,1,1,2,10975.0
+797,Update readme.md,1218,True,False,,2016-10-16T11:26:25Z,0,2,1,1,1,1,2,0
+781,Add Browser Extensions and Apps,1377,True,False,,2016-10-06T06:55:56Z,2,4,5,1,1,0,1,0
+795,Move `Doctrine` item,1359,True,False,,2016-10-14T02:53:31Z,0,2,1,1,1,1,2,0
+794,Move `Doctrine` item,1342,True,False,,2016-10-13T15:36:59Z,0,1,0,1,1,1,2,0
+790,Merge pull request #1 from sindresorhus/master,1207,True,False,,2016-10-12T14:50:56Z,0,1,0,0,0,0,0,0
+445,Update readme.md,24,True,False,,2015-12-14T10:56:54Z,0,3,6,1,1,0,1,0
+441,Add Peer-to-peer,14,True,False,,2015-12-11T12:40:43Z,0,4,6,1,1,0,1,0
+775,Add npm Scripts,1189,True,False,,2016-10-06T05:10:09Z,0,3,6,1,1,0,1,0
+779,Add CMake,1043,True,True,2016-10-10T11:33:47Z,2016-10-10T11:33:47Z,0,3,8,1,1,0,1,799111.0
+782,Add Frege,1077,True,True,2016-10-08T06:17:43Z,2016-10-08T06:17:43Z,3,2,5,1,1,0,1,377307.0
+770,Add Raspberry Pi,1290,True,True,2016-10-08T09:32:42Z,2016-10-08T09:32:42Z,2,7,15,1,1,0,1,1458668.0
+785,Update Awesome Hyperterm to Awesome Hyper,356,True,True,2016-10-06T13:44:30Z,2016-10-06T13:44:30Z,0,2,1,1,1,1,2,1790.0
+777,Add Wagtail,1375,True,True,2016-10-06T09:37:06Z,2016-10-06T09:37:06Z,1,2,2,1,1,0,1,502331.0
+774,Add Falsehood,1428,True,True,2016-10-06T04:58:46Z,2016-10-06T04:58:46Z,0,2,3,1,1,0,1,584615.0
+751,Add Webpack,1462,True,True,2016-10-06T03:23:53Z,2016-10-06T03:23:53Z,0,4,8,1,1,0,1,3668613.0
+776,Pluralize title of CMS section,261,True,True,2016-10-01T09:56:25Z,2016-10-01T09:56:25Z,2,2,2,1,2,2,4,72510.0
+771,Update link to macOS screensavers,0,True,True,2016-09-22T14:29:40Z,2016-09-22T14:29:40Z,0,2,0,1,1,1,2,181.0
+768,Add Zeit Now,1128,True,False,,2016-09-19T02:44:51Z,0,2,1,1,1,0,1,0
+763,"grammar nazi, doing rounds",1190,True,False,,2016-09-15T03:43:20Z,0,2,1,1,1,1,2,0
+764,add awesome-powershell,1180,True,False,,2016-09-16T08:55:05Z,0,4,8,1,1,0,1,0
+765,Add Awesome AdonisJS,1263,True,False,,2016-09-16T12:11:02Z,0,2,1,1,1,0,1,0
+759,Add Deep Natural Language Processing (NLP),1243,True,False,,2016-09-12T13:46:55Z,0,2,1,1,1,0,1,0
+756,Add Game Boy Development,1297,True,True,2016-09-10T19:38:27Z,2016-09-10T19:38:27Z,0,2,5,1,1,0,1,630474.0
+758,"Correct the spelling of ""Mac OS"".",434,True,False,,2016-09-09T04:55:44Z,0,3,2,1,3,3,6,0
+744,Propose a list for 3D reconstruction from images,1067,True,False,,2016-08-18T12:48:18Z,0,2,4,1,1,0,1,0
+738,"Awesome Persian NLP/IR, Tools And Resources",1498,True,False,,2016-08-10T02:11:02Z,0,4,10,1,1,0,1,0
+746,Add Unicode,1474,True,True,2016-08-29T23:36:58Z,2016-08-29T23:36:58Z,0,3,8,1,2,1,3,887179.0
+741,Add ChatOps,1308,True,True,2016-08-30T00:28:48Z,2016-08-30T00:28:48Z,0,3,5,1,1,0,1,1227926.0
+727,Add Vehicle Security and Car Hacking,1744,True,True,2016-08-29T23:34:49Z,2016-08-29T23:34:49Z,0,3,6,1,1,0,1,2743501.0
+750,Add Citizen Science,1544,True,True,2016-08-29T14:02:44Z,2016-08-29T14:02:44Z,0,3,7,1,1,0,1,505625.0
+754,"misc ""fil2var""",0,True,False,,2016-08-28T21:41:05Z,0,2,1,1,1,0,1,0
+726,Add .NET Core,1314,True,True,2016-08-28T11:35:38Z,2016-08-28T11:35:38Z,0,3,14,1,1,0,1,2693364.0
+753,Add Programming for Kids,1362,True,True,2016-08-27T09:52:24Z,2016-08-27T09:52:24Z,0,2,2,1,1,0,1,28625.0
+742,Add Redux,1102,True,True,2016-08-26T21:41:44Z,2016-08-26T21:41:44Z,0,2,6,1,1,0,1,944531.0
+735,Add HyperTerm,1471,True,True,2016-08-26T21:34:47Z,2016-08-26T21:34:47Z,0,2,7,1,2,1,3,1572319.0
+747,Add Appium,1436,True,True,2016-08-26T21:37:11Z,2016-08-26T21:37:11Z,0,2,3,1,1,0,1,596241.0
+749,Merge pull request #1 from sindresorhus/master,1187,True,False,,2016-08-21T15:10:30Z,0,1,0,0,0,0,0,0
+729,List of Front-End grid solutions,1282,True,False,,2016-08-18T10:44:36Z,0,3,6,1,1,0,1,0
+743,List of Front-End grid solutions,1287,True,False,,2016-08-18T08:59:00Z,0,2,1,1,1,0,1,0
+740,"Changed ""awesome-cryptography"" link",1638,True,True,2016-08-13T15:28:50Z,2016-08-13T15:28:50Z,0,3,4,1,1,1,2,101171.0
+737,"Awesome Persian NLP/IR, Tools And Resources",1498,True,False,,2016-08-09T21:41:53Z,0,2,2,1,1,0,1,0
+739,"Awesome Persian NLP/IR, Tools And Resources",1498,True,False,,2016-08-10T13:52:26Z,0,2,1,1,1,0,1,0
+716,"Awesome Persian NLP/IR, Tools And Resources",1142,True,False,,2016-07-15T20:32:45Z,0,1,0,1,1,0,1,0
+734,fix typo,0,True,True,2016-08-08T13:19:35Z,2016-08-08T13:19:35Z,0,2,0,1,1,1,2,245.0
+724,Add choo,1258,True,True,2016-08-08T13:08:20Z,2016-08-08T13:08:20Z,0,3,9,1,1,0,1,1111950.0
+733,updated pull request template for proper wording,49,True,True,2016-08-08T01:20:21Z,2016-08-08T01:20:21Z,0,2,0,1,1,1,2,25184.0
+730,Add Pokémon,1391,True,True,2016-08-06T21:03:49Z,2016-08-06T21:03:49Z,0,3,6,1,1,0,1,235723.0
+728,Adding Awesome Cinema to the list,1378,True,False,,2016-08-06T20:30:31Z,0,2,1,1,1,0,1,0
+672,Add Userscripts,192,True,True,2016-08-05T22:03:40Z,2016-08-05T22:03:40Z,0,3,8,1,1,0,1,5812753.0
+701,Add DTrace,1393,True,True,2016-08-05T20:53:17Z,2016-08-05T20:53:17Z,0,2,13,1,2,1,3,3196144.0
+725,add naming convention for new lists,612,True,True,2016-07-31T22:28:29Z,2016-07-31T22:28:29Z,0,2,2,1,1,1,2,333288.0
+723,Change forwarding urls - no more 301,394,True,True,2016-07-26T15:16:12Z,2016-07-26T15:16:12Z,0,2,1,1,12,12,24,38076.0
+722,Add awesome-monitoring project about monitoring tools.,1328,True,False,,2016-07-25T10:52:31Z,0,2,1,1,1,0,1,0
+721,Added windows command line,1151,True,False,,2016-07-24T14:00:56Z,0,2,2,1,1,0,1,0
+720,Add a list of MacOS-cn,1149,True,False,,2016-07-21T10:52:15Z,0,2,3,1,1,0,1,0
+695,Add Grid,824,True,False,,2016-07-20T13:38:56Z,0,4,7,1,1,0,1,0
+719,Created new category for Relay/GraphQL and Falcor Netflix / RESTless …,1816,True,False,,2016-07-18T21:05:44Z,0,2,1,1,7,2,9,0
+37,Adding an awesome weekly newsletter list,0,True,False,,2014-09-20T20:18:09Z,0,4,3,1,1,0,1,0
+711,Add Awesome Web Apps,1061,True,False,,2016-07-10T19:38:29Z,0,2,2,1,1,0,1,0
+700,Add Vert.x,869,True,True,2016-07-16T18:54:48Z,2016-07-16T18:54:48Z,0,3,9,1,1,0,1,1764966.0
+715,Add a list of ASCII games,1006,True,False,,2016-07-15T22:06:48Z,0,3,3,1,1,0,1,0
+712,Add Progressive Web Apps,1424,True,True,2016-07-10T19:46:53Z,2016-07-10T19:46:53Z,0,3,4,1,1,0,1,34341.0
+710,Add Empathy in Engineering,1160,True,False,,2016-07-10T19:26:35Z,0,2,3,1,1,0,1,0
+706,Add Service Workers,1335,True,False,,2016-07-09T16:37:57Z,0,3,4,1,1,0,1,0
+707,Adds Libre Hosters,1291,True,False,,2016-07-09T16:35:08Z,0,2,1,1,1,0,1,0
+708,Added awesome-annotation,1061,True,False,,2016-07-09T15:10:54Z,0,2,2,1,1,0,1,0
+98,add awesome-markdown,20,True,False,,2015-03-04T17:38:10Z,0,4,3,1,1,0,1,0
+134,Add coding entertainment,79,True,False,,2015-05-18T16:10:41Z,0,3,2,1,1,0,1,0
+630,Add Subreddits,18,True,False,,2016-04-23T21:25:05Z,0,2,6,1,1,0,1,0
+704,Add Site Reliability Engineering,1245,True,False,,2016-07-07T10:38:21Z,0,2,5,1,1,0,1,0
+705,fix a typo for the product ColdFusion,1131,True,True,2016-07-06T10:33:48Z,2016-07-06T10:33:48Z,0,2,7,1,1,1,2,48369.0
+698,Add React Components,630,True,False,,2016-07-04T22:53:50Z,0,4,7,1,1,0,1,0
+702,Add awesome windows command line,1181,True,False,,2016-06-30T16:14:32Z,0,1,0,1,1,0,1,0
+696,Add awesome-cheatsheet,730,True,False,,2016-06-23T10:09:47Z,0,2,2,1,1,0,1,0
+694,Add Apache Wicket,900,True,True,2016-06-21T10:14:36Z,2016-06-21T10:14:36Z,0,2,1,1,1,0,1,194027.0
+668,Add Draft.js,158,True,False,,2016-06-18T01:27:56Z,0,4,8,1,1,0,1,0
+688,Add Virtual Reality (VR) list.,610,True,False,,2016-06-15T22:37:12Z,0,4,5,1,1,1,2,0
+636,Add Fish,173,True,True,2016-06-18T21:08:26Z,2016-06-18T21:08:26Z,0,2,11,1,1,0,1,4362539.0
+629,Add Serverless,0,True,False,,2016-06-18T18:12:08Z,0,4,13,1,57,39,96,0
+692,Add Bots,681,True,True,2016-06-18T11:06:12Z,2016-06-18T11:06:12Z,0,2,4,1,1,0,1,90056.0
+691,Add AMQP 1.0,673,True,False,,2016-06-17T10:21:44Z,0,3,2,1,1,0,1,0
+689,Add Firebase,625,True,False,,2016-06-16T10:01:42Z,0,2,1,1,1,1,2,0
+690,Add Android Complete Reference,647,True,False,,2016-06-16T09:48:39Z,0,5,10,1,1,0,1,0
+686,Add Steam,710,True,True,2016-06-09T22:58:04Z,2016-06-09T22:58:04Z,0,2,0,1,1,0,1,1473.0
+684,Changed Awesome Windows URL,218,True,True,2016-06-09T15:41:08Z,2016-06-09T15:41:08Z,0,3,3,1,1,1,2,11909.0
+682,Update readme.md,607,True,False,,2016-06-08T15:03:34Z,0,3,3,1,1,1,2,0
+681,Added SharePoint to CMS section,641,True,False,,2016-06-06T18:20:21Z,0,4,4,1,1,0,1,0
+667,Add TinkerPop,45,True,False,,2016-06-06T18:06:55Z,0,2,5,1,1,0,1,0
+665,Add Colorful,198,True,False,,2016-06-06T16:12:38Z,0,2,3,1,1,0,1,0
+679,Add Deep Learning Papers,1124,True,False,,2016-06-04T00:01:44Z,0,3,2,1,1,0,1,0
+680,adding elixir books repository,613,True,False,,2016-06-03T23:59:44Z,0,3,3,1,1,0,1,0
+678,Add: Facebook Messenger Platform in Platforms section.,610,True,False,,2016-06-03T09:11:39Z,0,2,1,1,1,0,1,0
+676,Improve PR template,343,True,True,2016-06-01T08:13:28Z,2016-06-01T08:13:28Z,0,2,1,1,3,3,6,59047.0
+666,Add Serverless Framework,94,True,True,2016-06-01T06:41:43Z,2016-06-01T06:41:43Z,0,2,5,1,1,0,1,604331.0
+673,put JSON lists together,168,True,False,,2016-06-01T06:49:46Z,0,2,2,1,2,2,4,0
+675,Add Web Scraper,732,True,False,,2016-06-01T06:46:37Z,0,3,3,1,1,1,2,0
+674,added JS scraping,727,True,False,,2016-06-01T06:44:06Z,0,3,1,1,1,0,1,0
+614,Add Bioinformatics,139,True,True,2016-05-31T09:48:49Z,2016-05-31T09:48:49Z,0,2,8,1,1,0,1,4155583.0
+585,LaTeX,247,True,False,,2016-03-20T16:12:31Z,0,3,3,1,1,0,1,0
+670,Add pull request template,61,True,True,2016-05-31T09:52:08Z,2016-05-31T09:52:08Z,0,3,3,1,19,0,19,259832.0
+646,Add GitHub Issue & PR Templates,0,True,False,,2016-05-31T09:49:11Z,0,2,1,1,1,0,1,0
+564,add awesome-draft-js,143,True,False,,2016-03-08T06:30:39Z,0,2,1,1,1,0,1,0
+669,Add Awesome Ideas,51,True,False,,2016-05-28T10:21:20Z,0,3,3,1,1,0,1,0
+510,Add Serverless,119,True,False,,2016-01-27T17:34:23Z,0,2,2,1,1,0,1,0
+664,Add NativeScript,33,True,False,,2016-05-25T05:20:38Z,0,2,2,1,1,0,1,0
+641,Add Electric Guitar Specifications,207,True,True,2016-05-24T06:31:26Z,2016-05-24T06:31:26Z,0,2,4,1,1,0,1,1945511.0
+662,"Kaggle solutions, code and techniques",58,True,False,,2016-05-22T08:59:58Z,0,2,1,1,1,0,1,0
+652,Add Broadcasting,0,True,False,,2016-05-22T08:48:23Z,0,3,4,1,1,1,2,0
+660,Add PostCSS,121,True,True,2016-05-21T09:59:45Z,2016-05-21T09:59:45Z,0,3,9,1,1,0,1,268629.0
+659,Add JavaScript Observables,316,True,True,2016-05-18T06:15:24Z,2016-05-18T06:15:24Z,0,1,0,1,1,0,1,45.0
+612,Add JavaScript Functional Programming,162,True,False,,2016-05-13T06:43:40Z,0,3,9,1,2,0,2,0
+658,Add Apache Spark,46,True,False,,2016-05-17T22:20:44Z,0,2,2,1,1,0,1,0
+655,Add Funny Markov,379,True,True,2016-05-16T17:28:12Z,2016-05-16T17:28:12Z,0,2,2,1,1,0,1,66169.0
+657,Add mining software repositories list,120,True,False,,2016-05-16T16:31:15Z,0,2,1,1,1,0,1,0
+561,Add Hubot,38,True,False,,2016-03-05T18:05:42Z,0,3,2,1,1,0,1,0
+656,Add Hubot,36,True,False,,2016-05-16T16:07:38Z,0,2,2,1,2,0,2,0
+654,[UPDATED #2] falcorjs - one model everywhere,769,True,False,,2016-05-15T08:33:51Z,0,2,2,1,3,0,3,0
+651,Add RethinkDB,39,True,True,2016-05-13T10:09:18Z,2016-05-13T10:09:18Z,0,2,1,1,1,0,1,306357.0
+653,Add Composer,0,True,True,2016-05-13T09:42:37Z,2016-05-13T09:42:37Z,0,2,5,1,1,0,1,56202.0
+649,Add Awesome Front Only link,171,True,False,,2016-05-13T06:40:17Z,0,2,2,1,1,0,1,0
+618,Add Penetration Testing,0,True,False,,2016-05-13T07:57:32Z,0,2,2,1,1,0,1,0
+648,Add Awesome SEO link,65,True,False,,2016-05-13T07:01:38Z,0,3,2,1,1,0,1,0
+647,Add Grid to Front End Development,41,True,False,,2016-05-13T06:35:59Z,0,2,1,1,1,0,1,0
+644,Add Web Agencies Under Miscellaneous,92,True,False,,2016-05-08T07:15:08Z,0,4,8,1,1,0,1,0
+645,[UPDATED] falcorjs - one model everywhere,471,True,False,,2016-05-08T11:58:58Z,0,2,2,1,3,0,3,0
+468,Added MATLAB list,0,True,False,,2016-01-04T18:17:27Z,0,3,5,1,1,0,1,0
+613,Add Wicket,76,True,False,,2016-05-03T08:59:33Z,0,3,3,1,2,0,2,0
+603,add brunch list,0,True,False,,2016-05-03T08:41:53Z,0,3,7,1,2,0,2,0
+627,Add OpenResty,45,True,False,,2016-05-03T10:15:19Z,0,2,12,1,1,0,1,0
+642,Added Test Automation repository on the Miscellaneous section.,0,True,False,,2016-05-03T08:54:13Z,0,3,4,1,1,0,1,0
+637,Add awesome OSX UI/UX libraries,136,True,False,,2016-05-01T19:06:49Z,0,2,2,1,1,0,1,0
+639,"added ""Products by Women"", ""Startups""",0,True,False,,2016-05-01T19:09:42Z,0,2,1,1,2,0,2,0
+610,Add Python Books,98,True,False,,2016-04-24T03:13:29Z,0,2,4,1,1,0,1,0
+640,falcorjs - one model everywhere,220,True,False,,2016-04-30T17:06:13Z,0,2,2,1,3,0,3,0
+638,Add Colorful,69,True,False,,2016-04-29T20:47:42Z,0,2,1,1,1,0,1,0
+635,Delete dublicate LaTeX link,67,True,True,2016-04-27T05:41:11Z,2016-04-27T05:41:11Z,0,3,1,1,0,1,1,8772.0
+634,Remove duplicate entry,0,True,False,,2016-04-27T05:41:11Z,0,1,0,1,0,1,1,0
+615,Add Economics,51,True,False,,2016-04-26T09:11:39Z,0,5,17,1,2,0,2,0
+631,Add Azk,108,True,False,,2016-04-24T09:23:56Z,0,2,2,1,1,1,2,0
+632,Adding the awesome javascript katas repository,65,True,False,,2016-04-24T15:45:53Z,0,2,2,1,2,0,2,0
+576,Add Book Authoring,0,True,False,,2016-04-23T21:31:14Z,0,2,6,1,1,0,1,0
+625,"Added the ""CL and NLP with Ruby"" list.",289,True,False,,2016-04-22T14:14:45Z,0,2,2,1,1,0,1,0
+591,Add Audio Visualization,83,True,False,,2016-04-21T12:33:13Z,0,3,11,1,1,1,2,0
+609,Add Network Analysis,194,True,False,,2016-04-21T13:01:24Z,0,2,2,1,1,1,2,0
+611,Add TensorFlow,0,True,True,2016-04-21T13:18:34Z,2016-04-21T13:18:34Z,0,2,7,1,1,0,1,793590.0
+626,"Add an '.md' file which attaches repo info (stars, pushed at)",450,True,False,,2016-04-19T08:01:28Z,0,3,5,1,413,0,413,0
+619,Add Standards,0,True,False,,2016-04-17T12:06:15Z,0,2,2,1,1,0,1,0
+624,adding economics,51,True,False,,2016-04-17T15:58:24Z,0,2,1,1,1,0,1,0
+620,Adding Free Paid Software List,103,True,False,,2016-04-17T12:04:03Z,0,3,4,1,1,0,1,0
+616,Add ESLint,47,True,False,,2016-04-17T11:27:28Z,0,3,2,1,2,0,2,0
+622,Update readme.md,10,True,False,,2016-04-16T15:17:36Z,0,2,1,1,1,0,1,0
+596,Add TensorFlow,34,True,False,,2016-04-12T08:44:30Z,0,4,10,1,1,0,1,0
+617,Added A collaborative curated list of amazingly awesome OpenBSD pledge(2) resources and other awesome things.,0,True,False,,2016-04-14T14:10:23Z,0,2,2,1,1,1,2,0
+606,"Adding synthetic biology and genetic engineering,",437,True,False,,2016-04-12T16:27:52Z,0,2,3,1,1,1,2,0
+589,Add Lumen,98,True,True,2016-04-12T16:19:42Z,2016-04-12T16:19:42Z,0,2,2,1,1,0,1,1432162.0
+594,Add Awesome Python Decorator list,275,True,False,,2016-04-10T18:01:43Z,0,4,5,1,1,0,1,0
+588,Add awesome-chef,97,True,False,,2016-04-10T17:59:25Z,0,2,4,1,1,0,1,0
+607,"Adding a PHP framework, PyroCMS",106,True,False,,2016-04-10T17:53:19Z,0,4,4,1,1,0,1,0
+604,add awsome-blockchain from Blockchain-DC,122,True,False,,2016-04-08T15:58:08Z,0,2,1,1,1,0,1,0
+602,adding awesome-startup,0,True,False,,2016-04-06T18:52:17Z,0,2,1,1,1,0,1,0
+601,add awesome sqlite in database section,220,True,False,,2016-04-05T07:42:10Z,0,2,2,1,1,0,1,0
+600,RiotJS front-end library,24,True,False,,2016-04-02T19:46:10Z,0,2,2,1,1,0,1,0
+599,Added RiotJS Front-end library (a simple yet full-featured alternative to React),0,True,False,,2016-04-02T18:41:15Z,0,2,1,1,1,0,1,0
+534,Add Windows Exploitation,0,True,False,,2016-04-02T17:43:51Z,0,3,7,1,1,0,1,0
+597,Adding All In One Security,51,True,False,,2016-04-02T17:43:28Z,0,2,1,1,1,0,1,0
+598,Merge pull request #1 from sindresorhus/master,22,True,False,,2016-04-02T09:51:31Z,0,1,0,0,0,0,0,0
+595,"Added awesome-tech-conferences, a calendar of technical conferences",120,True,False,,2016-03-31T20:37:02Z,0,2,1,1,1,0,1,0
+593,Add Heroku,0,True,False,,2016-03-29T07:17:09Z,0,2,2,1,1,0,1,0
+590,Add awesome-tdd,65,True,False,,2016-03-29T10:01:04Z,0,2,2,1,1,0,1,0
+573,add awesome-sec-talks that consists of various useful security talks,79,True,False,,2016-03-28T07:29:48Z,0,4,4,1,1,0,1,0
+574,add awesome Ruby-on-Rails-Learning-Resources,43,True,False,,2016-03-25T14:45:08Z,0,2,4,1,1,0,1,0
+587,Add RxJava,51,True,False,,2016-03-22T10:22:14Z,0,2,2,1,1,0,1,0
+586,Add Ionic 2,90,True,False,,2016-03-20T16:03:05Z,0,2,1,1,1,0,1,0
+584,Added awesome-deployment,0,True,False,,2016-03-18T07:28:37Z,0,1,0,1,1,1,2,0
+571,Added awesome-deployment,0,True,False,,2016-03-17T20:32:32Z,0,2,1,1,1,1,2,0
+579,add awesome cheatsheet ,74,True,False,,2016-03-17T09:14:28Z,0,2,3,1,1,0,1,0
+582,Include Awesome Service Worker,280,True,False,,2016-03-17T09:04:31Z,0,2,2,1,2,1,3,0
+580,Update git cheat sheet link title,47,True,False,,2016-03-16T16:52:16Z,0,2,1,1,1,1,2,0
+581,DOC: Fixed minor but glaring grammar error,177,True,True,2016-03-15T18:01:59Z,2016-03-15T18:01:59Z,0,3,1,1,1,1,2,601.0
+577,Add Awesome-Ethereum,0,True,False,,2016-03-15T14:50:33Z,0,2,1,1,1,0,1,0
+578,Add Vulkan,70,True,False,,2016-03-15T14:38:27Z,0,1,0,1,1,1,2,0
+575, add maintained fork of awesome-pentest that consists of various useful penetration testing resources,254,True,False,,2016-03-13T23:59:24Z,0,3,5,1,1,0,1,0
+572,add awesome-pentest that consists of various useful penetration testing resources,73,True,False,,2016-03-13T07:26:00Z,0,2,1,1,1,0,1,0
+570,Added ChromeDevTools' awesome list,0,True,False,,2016-03-11T15:38:14Z,0,2,1,1,1,0,1,0
+567,Add jQuery Tips,0,True,False,,2016-03-10T13:27:47Z,0,2,2,1,1,0,1,0
+566,Added Awesome List to Nim programming language,0,True,False,,2016-03-10T07:24:01Z,0,2,2,1,1,0,1,0
+568,Add GitHub Badges,0,True,False,,2016-03-10T07:21:57Z,0,2,1,1,1,0,1,0
+562,Add Reference-Tools,51,True,False,,2016-03-06T23:59:46Z,0,1,0,1,1,1,2,0
+565,Add MongoDB,206,True,True,2016-03-09T08:17:29Z,2016-03-09T08:17:29Z,0,2,2,1,1,0,1,46902.0
+553,Update readme.md,30,True,False,,2016-03-09T08:18:21Z,0,2,1,1,1,1,2,0
+272,add IoT,0,True,False,,2015-08-15T18:44:28Z,0,4,7,1,1,1,2,0
+563,Add Reference Tools,51,True,False,,2016-03-07T05:41:00Z,0,2,2,1,1,1,2,0
+560,Add Charting,45,True,False,,2016-03-05T03:00:54Z,0,2,1,1,1,0,1,0
+529,Add Symfony Education,0,True,False,,2016-03-04T10:46:50Z,0,6,19,1,1,0,1,0
+559,Moved resources under appropriate cateorgies,166,True,True,2016-03-04T16:11:19Z,2016-03-04T16:11:19Z,0,2,1,1,2,2,4,14406.0
+558,Add Alfred Workflows,53,True,False,,2016-03-04T11:09:47Z,0,2,2,1,1,0,1,0
+551,Add PICO-8,159,True,False,,2016-03-04T10:49:41Z,0,1,0,1,1,0,1,0
+528,Add Competitive Programming,1108,True,False,,2016-03-04T10:59:49Z,0,5,15,1,1,0,1,0
+541,Add Icons,58,True,False,,2016-03-04T10:40:44Z,0,3,3,1,1,1,2,0
+543,Add Lipsum,0,True,False,,2016-03-04T10:40:16Z,0,2,2,1,1,0,1,0
+557,Added new category: Open Source - Generic,71,True,False,,2016-03-04T10:39:00Z,0,3,3,1,7,4,11,0
+555,add awesome-github-chinese,9,True,False,,2016-03-03T19:45:38Z,0,2,2,1,1,0,1,0
+554,Add collection on conversational UIs,0,True,False,,2016-03-02T08:14:12Z,0,2,1,1,1,1,2,0
+552,Added awesome-deployment,0,True,False,,2016-02-28T12:26:44Z,0,2,2,1,1,0,1,0
+549,Minor edit,134,True,True,2016-02-27T05:29:40Z,2016-02-27T05:29:40Z,0,2,0,1,1,1,2,648.0
+547,Add Micro npm Packages,81,True,False,,2016-02-26T17:25:18Z,0,2,0,1,1,0,1,0
+535,Add NodeCG,80,True,False,,2016-02-25T18:06:02Z,0,2,3,1,1,0,1,0
+546,Add Editors/Brackets,243,True,False,,2016-02-25T17:58:46Z,0,2,1,1,1,0,1,0
+545,add ionic framework awesome,0,True,False,,2016-02-24T08:18:09Z,0,2,1,1,1,0,1,0
+539,Add CSS Protips,110,True,False,,2016-02-23T10:07:24Z,0,3,1,1,1,0,1,0
+542,Use SVG version of CC0 icon,0,True,True,2016-02-20T05:07:41Z,2016-02-20T05:07:41Z,0,2,0,1,1,1,2,36054.0
+540,update logo in README to use production rawgit url,390,True,True,2016-02-19T20:32:56Z,2016-02-19T20:32:56Z,0,2,1,1,1,1,2,10362.0
+531,Add Aurelia,0,True,False,,2016-02-18T16:34:22Z,0,2,3,1,1,0,1,0
+438,Add Relay,212,True,False,,2015-12-08T11:15:38Z,0,2,5,1,1,0,1,0
+536,Add link to awesome-vulkan,31,True,True,2016-02-17T07:13:57Z,2016-02-17T07:13:57Z,0,4,9,1,1,1,2,16517.0
+524,Add Phoenix,66,True,False,,2016-02-10T01:55:04Z,0,3,2,1,1,0,1,0
+538,Fixed spelling,28,True,True,2016-02-17T17:40:59Z,2016-02-17T17:40:59Z,0,2,0,1,1,1,2,1204.0
+533,Merge pull request #1 from sindresorhus/master,22,True,False,,2016-02-15T23:33:20Z,0,1,0,0,0,0,0,0
+523,Add Visual Studio Code,0,True,False,,2016-02-15T06:16:24Z,0,3,2,1,1,0,1,0
+530,Add Streaming,114,True,False,,2016-02-14T17:18:43Z,0,2,5,1,1,0,1,0
+497,Add Text Editing,0,True,False,,2016-02-13T17:07:37Z,0,3,6,1,1,0,1,0
+532,Adding tips repository to rails category,443,True,False,,2016-02-13T11:02:10Z,0,2,1,1,1,0,1,0
+475,add aurelia into awesome list,0,True,False,,2016-01-11T12:41:08Z,0,2,2,1,1,0,1,0
+527,Add Crossfit,55,True,False,,2016-02-11T08:59:15Z,0,3,3,1,1,0,1,0
+526,Add Software-Defined Networking,0,True,False,,2016-02-10T11:46:41Z,0,2,3,1,1,0,1,0
+525,Added Awesome developers repository,108,True,False,,2016-02-10T01:52:36Z,0,2,1,1,1,1,2,0
+522,Add SSH,107,True,False,,2016-02-08T03:38:11Z,0,2,1,1,1,1,2,0
+503,Add PostgreSQL,0,True,False,,2016-02-08T09:53:49Z,0,3,4,1,1,1,2,0
+521,Add Computer History,295,True,True,2016-02-07T05:14:51Z,2016-02-07T05:14:51Z,0,2,2,1,1,0,1,34766.0
+276,Add Kotlin,33,True,False,,2016-02-07T04:43:12Z,0,5,14,1,1,0,1,0
+520,Add Caddy,29,True,False,,2016-02-04T16:13:10Z,0,2,1,1,1,0,1,0
+519,Neo4j - repository migrated to another organization,78,True,True,2016-02-04T11:48:25Z,2016-02-04T11:48:25Z,0,2,0,1,1,1,2,2823.0
+507,Add OKR,65,True,False,,2016-02-03T23:34:58Z,0,3,5,1,1,0,1,0
+518,Add Refinery CMS,47,True,False,,2016-02-03T09:45:29Z,0,1,0,1,7,1,8,0
+514,Add Swift Playgrounds,137,True,False,,2016-02-01T06:46:27Z,0,3,3,1,1,0,1,0
+515,Added job listings repo,88,True,False,,2016-01-30T22:39:42Z,0,2,1,1,1,0,1,0
+513,Insert WP Snippets,27,True,False,,2016-01-29T21:29:05Z,0,2,1,1,1,0,1,0
+511,Add Marionette.js,0,True,False,,2016-01-29T21:28:11Z,0,2,2,1,1,0,1,0
+512,Awesome badges,0,True,False,,2016-01-28T22:58:01Z,0,2,1,1,1,0,1,0
+505,Add Vorpal,343,True,False,,2016-01-27T21:51:01Z,0,3,5,1,1,0,1,0
+502,Add 3D-printing list,44,True,False,,2016-01-25T20:09:37Z,0,4,3,1,1,0,1,0
+509,Add Marionette.State,63,True,False,,2016-01-27T14:04:07Z,0,2,1,1,1,0,1,0
+506,Add Vue.js,36,True,False,,2016-01-27T14:00:04Z,0,3,2,1,1,0,1,0
+508,Add data journalism,35,True,False,,2016-01-26T19:38:18Z,0,2,1,1,1,0,1,0
+428,Awesome Robotics,38,True,False,,2015-11-26T20:28:41Z,0,2,4,1,1,0,1,0
+500,[ADD] List of regex (regular expressions) ready to use,0,True,False,,2016-01-23T12:12:36Z,0,2,2,1,1,0,1,0
+499,Add Motion UI Design,379,True,False,,2016-01-23T16:55:47Z,0,3,7,1,1,0,1,0
+498,add rails free ruby,0,True,False,,2016-01-21T16:41:12Z,0,2,1,1,1,1,2,0
+419,Add Awesome Refinery CMS,0,True,False,,2015-11-25T07:37:45Z,0,3,5,1,1,0,1,0
+494,Move GitHub related lists under GitHub,0,True,True,2016-01-18T22:37:22Z,2016-01-18T22:37:22Z,0,2,5,1,3,3,6,214.0
+487,Add `For Girls`,316,True,False,,2016-01-20T13:51:24Z,0,4,8,1,1,0,1,0
+482,Add Stockfree to awesome resources list,0,True,False,,2016-01-18T12:53:24Z,0,2,4,1,1,0,1,0
+496,Add LÖVE,0,True,False,,2016-01-19T21:03:30Z,0,5,8,1,1,0,1,0
+495,Move CSS related lists under CSS,0,True,True,2016-01-18T22:36:37Z,2016-01-18T22:36:37Z,0,2,0,1,4,4,8,124.0
+450,Add Static Analysis & Code Quality,0,True,False,,2016-01-18T20:02:43Z,0,2,5,1,1,0,1,0
+492,Add JavaScript Tips,36,True,True,2016-01-18T20:05:39Z,2016-01-18T20:05:39Z,0,2,2,1,1,0,1,4044.0
+489,Add Hacking Spots,50,True,False,,2016-01-18T20:12:04Z,0,1,0,1,1,0,1,0
+490,Add Laravel Education,80,True,True,2016-01-18T20:06:56Z,2016-01-18T20:06:56Z,0,2,0,1,1,0,1,94069.0
+493,Move Linux Containers under Linux,0,True,True,2016-01-18T19:09:48Z,2016-01-18T19:09:48Z,0,2,0,1,1,1,2,169.0
+488,Replace 'Vim Awesome' with 'Vim Galore',275,True,True,2016-01-18T13:33:34Z,2016-01-18T13:33:34Z,0,3,1,1,1,1,2,71814.0
+469,Add Doctrine,0,True,False,,2016-01-18T12:31:11Z,0,2,3,1,1,0,1,0
+483,Add MQTT,43,True,True,2016-01-18T12:27:52Z,2016-01-18T12:27:52Z,0,2,2,1,1,0,1,71063.0
+491,Add Cycle.js,55,True,False,,2016-01-18T11:59:17Z,0,2,2,1,1,0,1,0
+486,Move Slack communities under Slack,0,True,True,2016-01-17T22:53:30Z,2016-01-17T22:53:30Z,0,2,0,1,1,1,2,19603.0
+484,Justify CTF acronym,0,True,True,2016-01-17T22:03:56Z,2016-01-17T22:03:56Z,0,2,0,1,1,1,2,17206.0
+485,Move standard style and must watch talks under JavaScript,0,True,True,2016-01-17T22:03:27Z,2016-01-17T22:03:27Z,0,2,0,1,2,2,4,16643.0
+466,Add JavaScript Design Patterns list,215,True,False,,2016-01-03T02:26:26Z,0,3,5,1,1,0,1,0
+457,added Youtube Channels about Programming,0,True,False,,2015-12-28T12:06:53Z,0,2,6,1,1,1,2,0
+480,Add A-Frame VR,95,True,False,,2016-01-15T22:38:37Z,0,2,4,1,1,0,1,0
+481,Add a Gitter chat badge to readme.md,371,True,False,,2016-01-15T22:53:24Z,0,1,0,1,2,0,2,0
+478,Add a travis config to check the links in readme.md,240,True,False,,2016-01-13T17:01:42Z,0,2,2,1,7,0,7,0
+474,Add actionhero.js,76,True,False,,2016-01-09T11:41:10Z,0,2,2,1,1,0,1,0
+473,Add Robotics,0,True,False,,2016-01-08T16:39:25Z,0,3,3,1,1,0,1,0
+472,Added the Java 8-specific Awesome list,96,True,False,,2016-01-07T23:21:28Z,0,2,4,1,1,0,1,0
+471,Added the Java 8-specific Awesome list,0,True,False,,2016-01-07T21:57:04Z,0,1,1,1,1,0,1,0
+467,Add TAP,43,True,True,2016-01-03T02:32:27Z,2016-01-03T02:32:27Z,0,1,0,1,1,0,1,20.0
+459,Add Swift Education,0,True,False,,2015-12-29T23:45:43Z,0,2,4,1,1,0,1,0
+462,Add Math,39,True,False,,2016-01-01T20:30:40Z,0,2,3,1,1,0,1,0
+465,Add Tools for Activism,226,True,False,,2016-01-01T16:27:03Z,0,1,0,1,1,0,1,0
+463,"Add Tools for Activism, digital tools for activists",211,True,False,,2016-01-01T01:35:39Z,0,2,3,1,1,1,2,0
+464,Add Katas,13,True,False,,2015-12-31T10:51:31Z,0,1,0,1,1,0,1,0
+460,Awesome igloo of little inuit,27,True,False,,2015-12-29T23:43:56Z,0,2,1,1,1,0,1,0
+461,Awesome Brackets,46,True,False,,2015-12-29T23:29:01Z,0,2,2,1,1,0,1,0
+453,Add Ripple,77,True,False,,2015-12-29T19:19:45Z,0,2,4,1,1,0,1,0
+458,Add Static Website Services,0,True,True,2015-12-28T11:55:50Z,2015-12-28T11:55:51Z,0,2,1,1,1,0,1,20857.0
+408,Add Services for Static Websites,156,True,False,,2015-12-04T20:33:33Z,0,2,6,1,1,0,1,0
+379,Add CLI Apps,0,True,False,,2015-12-26T16:14:45Z,0,2,7,1,1,0,1,0
+456,Add Startup,45,True,False,,2015-12-25T23:41:24Z,0,2,2,1,1,0,1,0
+455,Grails added,0,True,False,,2015-12-25T17:45:15Z,0,2,1,1,1,0,1,0
+454,Removes awesome blogs,362,True,True,2015-12-25T15:52:41Z,2015-12-25T15:52:41Z,0,2,0,1,0,1,1,83079.0
+452,Add Code Review,93,True,False,,2015-12-22T16:18:51Z,0,2,2,1,1,0,1,0
+451,Add Music,102,True,False,,2015-12-20T23:05:01Z,0,2,6,1,1,0,1,0
+449,Add WebRTC,0,True,False,,2015-12-19T11:13:08Z,0,2,3,1,1,0,1,0
+448,Add Programming Interviews,134,True,False,,2015-12-19T11:06:32Z,0,2,3,1,1,0,1,0
+430,Add awesome interview questions repository,0,True,False,,2015-11-30T04:19:25Z,0,2,2,1,1,0,1,0
+447,aframe vr,0,True,False,,2015-12-17T00:08:28Z,0,2,1,1,1,0,1,0
+299,Update readme.md,35,True,False,,2015-08-30T02:36:35Z,0,3,3,1,1,1,2,0
+446,Update readme.md,51,True,False,,2015-12-14T11:00:23Z,0,2,2,1,1,0,1,0
+442,Add Spanish NLP,21,True,False,,2015-12-11T20:35:38Z,0,4,6,1,1,0,1,0
+434,Created a link which points to automagical ToC generators.,141,True,False,,2015-12-11T12:01:09Z,0,1,0,1,1,1,2,0
+420,Adding incident response list to security category ,52,True,False,,2015-12-10T11:06:22Z,0,2,6,1,1,0,1,0
+443,Add awesome-minecraft to the list,58,True,False,,2015-12-10T00:37:13Z,0,4,5,1,1,0,1,0
+422,Add Bluetooth Beacons,40,True,False,,2015-12-09T14:03:13Z,0,2,5,1,1,1,2,0
+440,The reference to awesome-pyramid moved,0,True,True,2015-12-08T19:48:05Z,2015-12-08T19:48:05Z,0,2,0,1,1,1,2,84.0
+439,Add Bluetooth Beacon links,44,True,False,,2015-12-08T15:23:41Z,0,2,1,1,1,0,1,0
+437,Added An Idea List,268,True,False,,2015-12-08T12:07:32Z,0,2,1,1,1,0,1,0
+433,Add Awesome PEP8,39,True,False,,2015-12-04T20:35:32Z,0,2,4,1,1,0,1,0
+436,Insert Snippets for WordPress,0,True,False,,2015-12-06T19:54:03Z,0,3,2,1,1,0,1,0
+426,Add `Machine Learning Tutorials`,830,True,False,,2015-12-04T20:43:43Z,0,2,1,1,1,0,1,0
+368,Add Competitive Coding,134,True,False,,2015-12-04T18:28:41Z,0,2,9,1,1,1,2,0
+429,Add Chess,50,True,False,,2015-12-04T17:35:19Z,0,2,5,1,1,1,2,0
+431,add rubymotion link,0,True,False,,2015-11-30T02:32:34Z,0,2,3,1,1,0,1,0
+432,Update readme.md,25,True,False,,2015-11-30T04:11:30Z,0,2,2,1,1,0,1,0
+389,Add Functional Programming,0,True,False,,2015-11-23T16:02:14Z,0,2,6,1,1,1,2,0
+423,Add Unity,0,True,False,,2015-11-23T14:57:40Z,0,3,5,1,1,0,1,0
+425,Add Fuse,44,True,False,,2015-11-23T10:16:01Z,0,3,8,1,1,1,2,0
+421,Add awesome-postgres,61,True,False,,2015-11-19T07:51:50Z,0,2,2,1,1,0,1,0
+392,Add Stock Resources,123,True,False,,2015-11-18T17:46:22Z,0,3,4,1,1,0,1,0
+416,Added Roguelike List,106,True,False,,2015-11-17T12:31:49Z,0,2,3,1,1,0,1,0
+417,Alphabetize programming languages for readability,159,True,False,,2015-11-18T06:17:05Z,0,2,1,1,28,28,56,0
+385,Add WordPress to Miscellaneous,230,True,False,,2015-10-30T02:47:33Z,0,4,6,1,1,0,1,0
+415,adding comands git,42,True,False,,2015-11-15T12:21:52Z,0,2,2,1,1,0,1,0
+387,added WordPress awesome list under Platforms.,0,True,False,,2015-11-14T13:21:45Z,0,4,4,1,1,0,1,0
+412,Add link in Learn: Dive into Machine Learning,412,True,False,,2015-11-12T10:21:11Z,0,3,5,1,1,0,1,0
+407,Awesome Mac Screensavers,168,True,False,,2015-11-12T17:08:20Z,0,2,7,1,1,0,1,0
+413,Add Beginners-Friendly Projects,158,True,False,,2015-11-12T12:49:18Z,0,2,1,1,1,0,1,0
+402,Add Awesome COBOL,0,True,False,,2015-11-12T11:19:10Z,0,4,7,1,1,0,1,0
+401,add MATLAB,56,True,False,,2015-11-12T11:06:27Z,0,3,2,1,1,0,1,0
+411,fix redirect,54,True,True,2015-11-11T17:40:13Z,2015-11-11T17:40:13Z,0,2,0,1,1,1,2,683.0
+406,Add Awesome Command Line Apps,123,True,False,,2015-11-08T08:11:39Z,0,3,10,1,1,0,1,0
+404,Added Awesome Functional Programming to the CS Category,0,True,False,,2015-11-07T08:06:08Z,0,2,7,1,1,0,1,0
+405,Developer environment should be development env.,313,True,True,2015-11-07T08:05:19Z,2015-11-07T08:05:19Z,0,2,0,1,2,2,4,35510.0
+400,added curated list of matlab,67,True,False,,2015-11-05T07:45:20Z,0,2,1,1,2,2,4,0
+403,Update redirects,54,True,True,2015-11-05T06:13:59Z,2015-11-05T06:13:59Z,0,2,0,1,1,1,2,520.0
+397,Add Awesome PICO-8 list,0,True,False,,2015-11-04T14:33:11Z,0,3,3,1,1,0,1,0
+399,add awesome-matlab curated list.,86,True,False,,2015-11-04T13:27:13Z,0,2,2,1,3,2,5,0
+398,added titan db,0,True,False,,2015-11-04T12:49:38Z,0,2,1,1,2,1,3,0
+374,Add Kubernetes,0,True,False,,2015-11-04T06:06:43Z,0,2,6,1,1,0,1,0
+396,"Adds one line to the ""Adding to this list"" section",404,True,True,2015-11-03T14:41:41Z,2015-11-03T14:41:41Z,0,2,2,1,1,0,1,498.0
+395,"Add Stock Resources (photos, videos, illustration, fonts) list to Miscellaneous",87,True,False,,2015-11-03T14:29:37Z,0,2,2,1,1,0,1,0
+394,Add IPFS,68,True,False,,2015-11-03T13:17:44Z,0,2,2,1,1,0,1,0
+393,Alphabetized Programming List in readme.md,55,True,False,,2015-11-03T06:46:07Z,0,2,1,1,28,29,57,0
+390,Add section on how to update a pull request,454,True,True,2015-11-01T15:54:33Z,2015-11-01T15:54:33Z,0,2,0,1,13,1,14,1879.0
+388,Added awesome-grunt list,0,True,False,,2015-10-31T16:46:03Z,0,2,1,1,1,0,1,0
+386,add Kendo UI,0,True,False,,2015-10-30T16:42:05Z,0,3,5,1,1,0,1,0
+363,add Linux Containers,60,True,False,,2015-10-30T02:30:44Z,0,2,9,1,1,0,1,0
+357,Added awesome slim list,23,True,False,,2015-10-17T18:42:09Z,0,2,4,1,1,0,1,0
+384,Added Riot JS to Frontend Technologies,0,True,False,,2015-10-29T08:37:42Z,0,2,1,1,1,0,1,0
+383,Awesome Ambient Noises,75,True,False,,2015-10-28T09:55:18Z,0,2,1,1,1,1,2,0
+382,add Umbraco,20,True,False,,2015-10-27T12:21:05Z,0,3,5,1,1,0,1,0
+373,Add Editor Brackets,0,True,False,,2015-10-23T16:50:15Z,0,2,1,1,1,0,1,0
+372,Add awesome-gyazo,38,True,False,,2015-10-27T19:20:07Z,0,3,5,1,1,0,1,0
+341,Add awesome windows,0,True,False,,2015-10-27T18:37:15Z,0,3,3,1,1,0,1,0
+380,Add Beginners-friendly repositories list,302,True,False,,2015-10-26T11:11:35Z,0,2,3,1,1,0,1,0
+381,add AWS,36,True,False,,2015-10-26T11:19:25Z,0,1,0,1,1,0,1,0
+378,add Coding resources,186,True,False,,2015-10-25T06:51:16Z,0,3,2,1,1,0,1,0
+377,Changed link for title-casing resource,279,True,True,2015-10-25T06:47:32Z,2015-10-25T06:47:32Z,0,2,1,1,1,1,2,25214.0
+375,add Coding resources,100,True,False,,2015-10-24T23:51:26Z,0,2,1,1,1,0,1,0
+376,Add Offline-First list,127,True,False,,2015-10-24T14:17:56Z,0,2,2,1,1,0,1,0
+366,"Add ""Coding Style Conventions and Standards"" to ""Miscellaneous""",0,True,False,,2015-10-22T01:59:15Z,0,3,6,1,1,0,1,0
+371,Add Open Source Documents,54,True,False,,2015-10-23T17:08:37Z,0,2,3,1,1,0,1,0
+369,Update Redirects,0,True,True,2015-10-23T14:48:39Z,2015-10-23T14:48:39Z,0,2,2,1,8,8,16,57186.0
+309,Add awesome-gyazo,0,True,False,,2015-10-23T09:42:22Z,0,1,1,1,1,0,1,0
+364,Add Unicode Code Points,262,True,False,,2015-10-21T15:59:48Z,0,4,5,1,1,0,1,0
+370,Added awesome competitive coding,121,True,False,,2015-10-23T05:06:44Z,0,1,1,1,1,0,1,0
+367,Added Internet of Things,284,True,True,2015-10-22T13:45:38Z,2015-10-22T13:45:38Z,0,2,1,1,1,0,1,2061.0
+362,add 'Strings' to 'Resources',85,True,False,,2015-10-20T11:07:07Z,0,2,3,1,1,1,2,0
+342,Added Open Source Society under CS section,0,True,False,,2015-10-19T10:00:49Z,0,5,7,1,1,0,1,0
+361,Added the awesome-webaudio list thing,0,True,False,,2015-10-19T09:53:10Z,0,1,0,1,1,0,1,0
+356,Add CodeIgniter PHP Framework,0,True,False,,2015-10-18T11:13:02Z,0,2,3,1,1,0,1,0
+359,alphabetised misc list,153,True,False,,2015-10-18T11:42:10Z,0,2,1,1,42,42,84,0
+358,Add redis list,22,True,False,,2015-10-17T18:52:47Z,0,3,3,1,1,0,1,0
+354,Added list of awesome coding resources,61,True,False,,2015-10-15T08:25:08Z,0,4,3,1,1,0,1,0
+353,Added clarification,20,True,True,2015-10-15T13:10:37Z,2015-10-15T13:10:37Z,0,3,0,1,2,2,4,76429.0
+355,Add Odoo awesome links,108,True,False,,2015-10-15T09:11:47Z,0,2,3,1,1,0,1,0
+329,Add Awesome OS X Command Line,96,True,False,,2015-10-13T20:34:04Z,0,2,6,1,1,0,1,0
+343,Add `Awesome Icons`,39,True,False,,2015-10-13T20:38:27Z,0,3,4,1,1,1,2,0
+352,Update awesome.md,0,True,False,,2015-10-13T20:36:54Z,0,2,0,1,1,0,1,0
+351,Add `Awesome Kids`,200,True,False,,2015-10-11T06:49:45Z,0,2,3,1,1,0,1,0
+350,added awesome cookbooks repository link,0,True,False,,2015-10-11T05:20:14Z,0,2,1,1,1,0,1,0
+348,Update readme.md,173,True,False,,2015-10-09T14:45:12Z,0,2,2,1,1,0,1,0
+345,Added awesome-videos to the learn category,0,True,False,,2015-10-08T08:08:32Z,0,2,1,1,1,0,1,0
+347,Add awesome-neo4j list.,96,True,True,2015-10-08T08:07:26Z,2015-10-08T08:07:26Z,0,2,0,1,1,0,1,2256.0
+344,feat: include Angular 2,0,True,False,,2015-10-07T20:19:10Z,0,2,2,1,1,0,1,0
+346,Add awesome-clojurescript,0,True,True,2015-10-07T16:56:57Z,2015-10-07T16:56:57Z,0,2,1,1,1,0,1,34070.0
+324,Add awesome-promises,262,True,False,,2015-09-20T06:04:16Z,0,3,3,1,1,0,1,0
+333,List with books about R programming language,99,True,False,,2015-09-29T07:07:41Z,0,2,1,1,1,0,1,0
+339,Add Neo4j awesome list,0,True,False,,2015-09-28T08:36:24Z,0,2,2,1,1,0,1,0
+338,change GIF & OpenSourcePhotoGraphy link,161,True,True,2015-09-26T13:08:48Z,2015-09-26T13:08:48Z,0,2,0,1,2,2,4,11492.0
+337,Add Neo4j awesome list,52,True,False,,2015-09-25T13:21:57Z,0,1,0,1,1,0,1,0
+336,Added Awesome Salesforce,123,True,False,,2015-09-25T06:29:41Z,0,2,1,1,1,1,2,0
+335,Update readme.md,43,True,False,,2015-09-25T04:04:33Z,0,2,3,1,1,0,1,0
+313,Added beatiful docs page.,127,True,False,,2015-09-24T19:22:03Z,0,3,4,1,1,0,1,0
+334,use https for License to ensure others do too,0,True,True,2015-09-24T17:05:32Z,2015-09-24T17:05:32Z,0,3,3,1,1,1,2,18818.0
+332,Typo: our > your,0,True,True,2015-09-23T19:36:57Z,2015-09-23T19:36:57Z,0,2,1,1,1,1,2,194.0
+331,Add Awesome Github to the Miscellaneous category,57,True,False,,2015-09-23T18:58:06Z,0,2,4,1,1,0,1,0
+328,add a list of awesome anime to the entertainment section,0,True,False,,2015-09-23T07:20:27Z,0,2,2,1,1,0,1,0
+330,Awesome jQuery,220,True,True,2015-09-23T06:50:53Z,2015-09-23T06:50:53Z,0,2,1,1,1,0,1,16303.0
+327,feat: awesome-angular2,0,True,False,,2015-09-22T10:15:29Z,0,2,2,1,1,0,1,0
+302,added GEDCOM (genealogical data de-facto-standard),0,True,False,,2015-09-20T16:39:29Z,0,2,2,1,1,0,1,0
+306,Add Technicals Interview,126,True,False,,2015-09-20T16:39:09Z,0,5,7,1,1,0,1,0
+326,Adding Awesome Windows,0,True,False,,2015-09-20T13:52:51Z,0,2,2,1,1,0,1,0
+325,Add Awesome mobile to Learn.,44,True,False,,2015-09-20T09:00:39Z,0,3,2,1,1,1,2,0
+322,Add Coffeescript,131,True,False,,2015-09-17T11:48:48Z,0,1,0,1,1,0,1,0
+321,Added awesome-microservices,0,True,True,2015-09-17T06:33:22Z,2015-09-17T06:33:22Z,0,2,1,1,1,0,1,208.0
+320,Added rails gem on back-end development section,0,True,True,2015-09-16T04:55:30Z,2015-09-16T04:55:30Z,0,2,0,1,1,0,1,11340.0
+318,Added link to Go hardware list,85,True,False,,2015-09-15T14:08:17Z,0,3,8,1,1,0,1,0
+319,Added Brackets into Editors section,0,True,False,,2015-09-15T12:18:13Z,0,2,1,1,1,0,1,0
+316,Added JSON Datasets again to fix merge-conflict,0,True,True,2015-09-14T14:40:40Z,2015-09-14T14:40:40Z,0,2,2,1,1,0,1,799.0
+314,Added JSON Datasets to Miscellaneous,0,True,False,,2015-09-14T14:23:33Z,0,3,7,1,1,0,1,0
+315,Add awesome share links,45,True,True,2015-09-13T16:14:06Z,2015-09-13T16:14:06Z,0,3,7,1,1,0,1,17148.0
+312,Awesome OS X,0,True,True,2015-09-11T07:49:01Z,2015-09-11T07:49:01Z,0,5,3,1,1,0,1,43095.0
+286,Add WordPress,0,True,False,,2015-09-08T03:08:32Z,0,3,3,1,1,0,1,0
+311,Add data visualization,76,True,True,2015-09-09T10:27:39Z,2015-09-09T10:27:39Z,0,2,0,1,1,0,1,47931.0
+305,Added Georgian Talks,152,True,False,,2015-09-08T06:08:09Z,0,2,2,1,1,0,1,0
+310,Add Niche Job Boards,203,True,True,2015-09-08T08:13:25Z,2015-09-08T08:13:25Z,0,2,1,1,1,0,1,3430.0
+308,Add Awesome mobile to Learn.,24,True,False,,2015-09-08T01:31:46Z,0,2,3,1,1,1,2,0
+307,Added awesome-mac to the awesome list,101,True,False,,2015-09-06T16:51:52Z,0,3,7,1,1,0,1,0
+303,Added a awesome list for Doing Research:,38,True,True,2015-09-05T07:38:52Z,2015-09-05T07:38:52Z,0,2,1,1,1,0,1,45823.0
+268,"awesome-jvm, languages, tools and other resources for the JVM",109,True,False,,2015-09-04T19:18:42Z,0,3,8,1,1,0,1,0
+301,Add Awesome AutoIt,0,True,True,2015-09-04T08:54:59Z,2015-09-04T08:54:59Z,0,2,0,1,1,0,1,67383.0
+278,Add Emails,38,True,True,2015-09-03T03:02:27Z,2015-09-03T03:02:27Z,0,2,3,1,1,0,1,1303489.0
+290,Add Awesome Git Addons,56,True,False,,2015-09-01T09:53:34Z,0,3,9,1,1,0,1,0
+300,Add awesome-community to Miscellaneous section,249,True,False,,2015-08-31T22:36:36Z,0,2,2,1,1,0,1,0
+265,add awesome-github,72,True,False,,2015-08-15T18:47:20Z,0,3,4,1,2,1,3,0
+297,Added awesome-watchos,87,True,True,2015-08-28T06:43:44Z,2015-08-28T06:43:44Z,0,2,2,1,1,0,1,15454.0
+296,Add awesome-transit,194,True,True,2015-08-28T06:42:29Z,2015-08-28T06:42:29Z,0,3,4,1,1,1,2,43473.0
+295,proposing addition of Node CMS Frameworks,55,True,False,,2015-08-27T07:19:07Z,0,2,2,1,9,0,9,0
+293,Add Git Tips,140,True,True,2015-08-26T14:25:07Z,2015-08-26T14:25:08Z,0,3,4,1,1,0,1,27097.0
+292,Adding Falcor!,90,True,False,,2015-08-26T10:09:17Z,0,2,1,1,1,0,1,0
+294,Add retro-games,104,True,False,,2015-08-26T10:05:06Z,0,2,2,1,1,0,1,0
+284,Attempt at separating out creating list vs contributing a list #266,18,True,True,2015-08-25T11:25:59Z,2015-08-25T11:25:59Z,0,2,6,3,17,4,21,315338.0
+285,Add SAS,0,True,False,,2015-08-25T11:43:22Z,0,2,1,1,1,0,1,0
+287,Add Data Visualization,0,True,False,,2015-08-24T16:09:54Z,0,1,0,1,1,0,1,0
+288,Add gists,0,True,False,,2015-08-24T16:09:31Z,0,1,0,1,1,0,1,0
+283,Add Anwar - A VIM plugin setup tool,0,True,False,,2015-08-21T19:03:17Z,0,2,2,1,1,0,1,0
+282,Update readme.md,0,True,False,,2015-08-21T15:40:25Z,0,1,0,1,1,0,1,0
+281,Close #269. How to submit to an awesome list,90,True,False,,2015-08-21T06:54:35Z,0,2,1,1,13,0,13,0
+280,add awesome-android-tools,0,True,False,,2015-08-20T07:18:22Z,0,2,2,1,1,0,1,0
+279,add awesome hosts,0,True,False,,2015-08-20T05:57:31Z,0,3,3,1,1,0,1,0
+275,Added Scifi to Science Fiction tag to help fast search,0,True,False,,2015-08-19T02:59:35Z,0,1,0,1,1,1,2,0
+277,Add Emails,0,True,False,,2015-08-19T00:56:50Z,0,1,0,1,1,0,1,0
+274,add awesome-graphql,31,True,True,2015-08-16T09:29:42Z,2015-08-16T09:29:42Z,0,2,2,1,1,0,1,2534.0
+273,Add awesome-cl,224,True,True,2015-08-16T03:49:22Z,2015-08-16T03:49:22Z,0,2,3,1,1,0,1,30566.0
+271,add awesome-productivity,117,True,False,,2015-08-15T18:11:10Z,0,2,2,1,1,0,1,0
+270,Add awesome-osx,113,True,False,,2015-08-13T19:26:05Z,0,2,1,1,1,0,1,0
+264,Add awesome-canvas,0,True,True,2015-08-13T08:59:19Z,2015-08-13T08:59:19Z,0,2,6,1,1,0,1,205795.0
+267,adding eclipse,101,True,False,,2015-08-13T08:30:52Z,0,2,1,1,1,1,2,0
+263,"Add ""Awesome Standard""",42,True,True,2015-08-11T13:04:20Z,2015-08-11T13:04:20Z,0,3,5,1,1,0,1,53200.0
+260,Added Awesome Email Newsletters List,0,True,True,2015-08-11T09:16:31Z,2015-08-11T09:16:31Z,0,2,6,1,1,0,1,332942.0
+262,Add Awesome-Cobol in the awesome list,0,True,False,,2015-08-11T07:04:37Z,0,2,1,1,1,0,1,0
+261,adds awesome-ama-answers,60,True,True,2015-08-10T05:44:22Z,2015-08-10T05:44:22Z,0,2,2,1,1,0,1,659.0
+259,"Adds Table of Content to... well, Table of Content",318,True,False,,2015-08-07T05:36:02Z,0,2,1,1,2,1,3,0
+257,Add Icon Font,46,True,False,,2015-08-05T08:50:43Z,0,3,2,1,1,0,1,0
+256,Update readme with new address of git cheat sheet,0,True,True,2015-08-03T11:30:16Z,2015-08-03T11:30:16Z,0,2,2,1,1,1,2,76.0
+255,add Information Security,0,True,False,,2015-08-02T21:54:35Z,0,3,2,1,1,0,1,0
+250,Added Salesforce.com Awesome List Page,166,True,False,,2015-07-29T10:11:52Z,0,2,2,1,1,0,1,0
+252,Added queues.io,141,True,False,,2015-07-29T14:01:28Z,0,2,1,1,1,0,1,0
+251,"fixed ""gramar"" typo",27,True,False,,2015-07-29T07:39:07Z,0,2,2,1,1,1,2,0
+248,Add Rails Companies,0,True,False,,2015-07-27T15:59:27Z,0,2,1,1,1,0,1,0
+239,Add `TypeScript`,98,True,False,,2015-07-25T21:03:41Z,0,3,3,1,1,0,1,0
+246,Add awesome-newsletters,59,True,False,,2015-07-25T19:32:51Z,0,2,1,1,1,1,2,0
+245,Motivation,24,True,False,,2015-07-24T18:33:28Z,0,2,2,1,1,0,1,0
+244,Add data visualization tools,40,True,False,,2015-07-24T15:31:37Z,0,2,5,1,1,0,1,0
+243,Add NW.js & awesome-nw (besides Electron) ;),35,True,False,,2015-07-23T14:53:11Z,0,3,3,1,1,0,1,0
+240,Add awesome-influxdb to Databases section,0,True,True,2015-07-23T14:35:46Z,2015-07-23T14:35:46Z,0,4,8,1,1,0,1,294121.0
+242,Add awesome-opengl list,41,True,True,2015-07-23T14:09:46Z,2015-07-23T14:09:46Z,0,2,1,1,1,0,1,18609.0
+238,Fix spelling,0,True,False,,2015-07-19T18:53:08Z,0,4,4,1,1,1,2,0
+237,Add GIF,11,True,True,2015-07-20T00:40:15Z,2015-07-20T00:40:15Z,0,2,4,1,1,0,1,33660.0
+241,Add awesome-OpenSourcePhotography,118,True,True,2015-07-20T15:51:12Z,2015-07-20T15:51:12Z,0,3,2,1,1,0,1,6650.0
+235,Adds link to awesome-vcs,126,True,False,,2015-07-17T11:23:45Z,0,2,1,1,1,0,1,0
+234,reordered list alphabetically,58,True,False,,2015-07-17T07:36:56Z,0,2,1,1,110,110,220,0
+233,add framer,0,True,False,,2015-07-16T19:40:40Z,0,2,1,1,1,0,1,0
+58,Rename 'web development' to 'front end development',93,True,True,2014-12-17T17:51:13Z,2014-12-17T17:51:13Z,0,2,1,1,1,1,2,168922.0
+231,added awesome-dropwizard to back-end development,50,True,True,2015-07-14T17:02:20Z,2015-07-14T17:02:20Z,0,2,1,1,1,0,1,599.0
+212,awesome manifesto,79,True,False,,2015-07-09T13:07:19Z,0,6,7,2,45,0,45,0
+225,Added awesome-speaking,0,True,True,2015-07-07T17:53:45Z,2015-07-07T17:53:45Z,0,3,7,1,1,0,1,33160.0
+226,Added SamyPesse's greatest book about making operating system in C++,0,True,False,,2015-07-07T19:22:13Z,0,3,3,1,1,0,1,0
+224,Fix Meteor awesome link (moved to this location),0,True,True,2015-07-04T04:50:53Z,2015-07-04T04:50:53Z,0,2,1,1,1,1,2,6167.0
+208,Add Crystal programming language,92,True,True,2015-06-27T12:02:34Z,2015-06-27T12:02:34Z,0,3,7,1,1,0,1,101904.0
+223,Awesome Collaborators,50,True,False,,2015-07-03T15:34:59Z,0,2,2,1,1,1,2,0
+221,"add ruby events (conferences, meetups, etc.)",220,True,False,,2015-07-03T00:38:07Z,0,3,4,1,1,0,1,0
+210,Add UI Styleguides,225,True,False,,2015-07-02T05:42:35Z,0,4,6,1,1,0,1,0
+220,Add cycle.js list.,27,True,False,,2015-07-01T15:23:19Z,0,2,1,1,1,0,1,0
+218,Adds awesome D3 to Front-end Development,45,True,False,,2015-06-30T15:37:15Z,0,3,2,1,1,0,1,0
+215,Add Gulp,97,True,True,2015-06-30T15:34:10Z,2015-06-30T15:34:10Z,0,3,7,1,1,0,1,93141.0
+214,Added awesome Appcelerator Titanium list,65,True,False,,2015-06-29T10:47:30Z,0,5,9,1,1,0,1,0
+211,Add FOSS Production Apps,295,True,True,2015-06-27T15:44:46Z,2015-06-27T15:44:46Z,0,2,5,1,1,0,1,14544.0
+209,Add UI Styleguides,110,True,False,,2015-06-26T17:23:27Z,0,2,1,1,1,0,1,0
+202,merge n1trux/awesome-awesomeness,69,True,False,,2015-06-24T09:24:39Z,0,2,1,1,14,0,14,0
+205,Data Engineering,44,True,False,,2015-06-24T09:12:29Z,0,1,0,1,1,0,1,0
+204,add `engineering-blogs`,62,True,False,,2015-06-24T08:44:12Z,0,2,1,1,1,0,1,0
+201,order everything alphabetically,216,True,False,,2015-06-23T10:23:43Z,0,2,5,1,145,144,289,0
+197,Added linux,24,True,False,,2015-06-22T12:33:18Z,0,3,5,1,1,1,2,0
+198,Added awesome-linux to the Platforms category (fixes #188),0,True,True,2015-06-23T00:05:22Z,2015-06-23T00:05:22Z,0,2,0,1,1,1,2,142.0
+194,awesome-sysadmin liked here is no longer maintained. But there's an alternative,84,True,True,2015-06-17T17:14:30Z,2015-06-17T17:14:30Z,0,3,2,1,1,1,2,1122.0
+196,Added Xamarin,0,True,True,2015-06-18T21:06:19Z,2015-06-18T21:06:19Z,0,2,1,1,1,0,1,1610.0
+195,Remove duplicate platforms link from TOC,12,True,False,,2015-06-18T08:26:10Z,0,2,2,1,0,1,1,0
+192,FluidApp resources,61,True,False,,2015-06-17T23:57:39Z,0,2,2,1,1,0,1,0
+193,Awesome Deep Vision,63,True,True,2015-06-17T17:21:48Z,2015-06-17T17:21:48Z,0,2,1,1,1,0,1,1732.0
+191,Added link to PlacesToPostYourStartup repo,0,True,True,2015-06-16T23:29:45Z,2015-06-16T23:29:45Z,0,2,2,1,1,0,1,31224.0
+190,added Codeface text editor font list to Resources links,136,True,True,2015-06-16T09:38:36Z,2015-06-16T09:38:36Z,0,3,5,1,1,0,1,25895.0
+189,Moved Git Cheat Sheet to the Developer Environment section (fixes #187),0,True,True,2015-06-12T18:12:48Z,2015-06-12T18:12:48Z,0,2,0,1,1,1,2,92.0
+182,Deep Learning / Neural Networks,0,True,False,,2015-06-08T16:28:38Z,0,2,2,1,1,0,1,0
+185,Add Application Security list to Security list,91,True,True,2015-06-08T10:23:53Z,2015-06-08T10:23:53Z,0,2,0,1,1,0,1,29598.0
+186,Added Mind Expanding Books under the Books category,0,True,True,2015-06-08T11:46:13Z,2015-06-08T11:46:13Z,0,2,0,1,1,0,1,1303.0
+183,Updated editors list,63,True,False,,2015-06-07T11:06:51Z,0,2,1,1,2,0,2,0
+181,+awesome-open-company,0,True,False,,2015-06-06T12:05:00Z,0,1,0,1,1,0,1,0
+180,"Link to list of open source games, engines, libraries and more",70,True,False,,2015-06-05T15:06:26Z,0,2,3,1,1,0,1,0
+179,awesome-atom to the list of editors,119,True,True,2015-06-03T15:04:42Z,2015-06-03T15:04:42Z,0,2,4,1,1,1,2,3999.0
+163,Master,15,True,False,,2015-06-03T09:30:20Z,0,2,3,1,1,0,1,0
+171,Update readme.md,27,True,False,,2015-06-03T09:29:08Z,0,2,4,1,1,0,1,0
+178,Update readme.md,71,True,False,,2015-06-03T11:10:47Z,0,2,1,1,1,1,2,0
+172,Add Godot,76,True,False,,2015-06-03T09:23:56Z,0,2,1,1,1,0,1,0
+176,Added awesome-blogs to the list,239,True,True,2015-06-03T09:09:45Z,2015-06-03T09:09:45Z,0,2,1,1,1,0,1,26934.0
+173,"Added a link to ""Web Typography""",47,True,True,2015-06-01T21:43:12Z,2015-06-01T21:43:12Z,0,2,2,1,1,0,1,20292.0
+170,Add link to awesome-geojson,0,True,True,2015-05-31T18:39:53Z,2015-05-31T18:39:53Z,0,3,3,1,1,0,1,223.0
+174,Added Phalcon,0,True,False,,2015-06-01T21:34:24Z,0,2,1,1,1,0,1,0
+175,Added list with tools for bitcoin developers,0,True,True,2015-06-01T20:37:05Z,2015-06-01T20:37:05Z,0,2,3,1,1,0,1,1897.0
+168,add mysql,0,True,False,,2015-06-01T09:55:57Z,0,2,2,1,1,0,1,0
+169,Add Awesome-flexbox,0,True,False,,2015-05-31T17:38:51Z,0,2,4,1,1,1,2,0
+165,Added must-watch CSS,0,True,False,,2015-05-29T22:42:50Z,0,2,5,1,1,0,1,0
+161,add awesome Polymer link,0,True,True,2015-05-27T10:45:10Z,2015-05-27T10:45:10Z,0,2,5,1,1,0,1,69385.0
+156,Add awesome-slack,0,True,True,2015-05-24T17:44:56Z,2015-05-24T17:44:56Z,0,2,4,1,1,0,1,261.0
+166,Sort the subsections,66,True,False,,2015-05-30T00:59:26Z,0,2,1,1,101,101,202,0
+159,Add entry for awesome-zsh-plugins,68,True,False,,2015-05-26T18:12:22Z,0,2,3,1,1,0,1,0
+158,A list of awesome IDEs,58,True,False,,2015-05-26T12:49:20Z,0,2,2,1,15,0,15,0
+164,Add a link to my remote job boards list,198,True,False,,2015-05-29T13:14:34Z,0,2,1,1,1,0,1,0
+162,Adding Materialize CSS framework to Misc,83,True,False,,2015-05-27T10:45:48Z,0,2,2,1,1,0,1,0
+160,Add FOSS-for-Dev,53,True,False,,2015-05-27T10:48:52Z,0,2,2,1,1,1,2,0
+142,Adds a link to @cv awesome-geek-podcasts,40,True,False,,2015-05-24T23:56:05Z,0,2,4,1,1,0,1,0
+155,Added Miscellaneous,0,True,False,,2015-05-23T22:39:50Z,0,2,1,1,1,0,1,0
+141,Add Awesome Sketch list,107,True,True,2015-05-20T18:42:11Z,2015-05-20T18:42:11Z,0,2,2,1,1,0,1,3313.0
+154,Todayclassfeauture,51,True,False,,2015-05-22T23:23:40Z,0,2,1,1,1,0,1,0
+150,Adding alphabetical rule.,204,True,False,,2015-05-22T13:43:41Z,0,2,1,2,98,97,195,0
+152,emoji added,59,True,False,,2015-05-22T13:43:14Z,0,2,1,1,1,0,1,0
+145,"Rename file to README.md, update README.md",15,True,False,,2015-05-21T08:37:11Z,0,2,1,2,184,0,184,0
+116,added web components awesome list,76,True,False,,2015-05-05T16:38:21Z,0,3,4,1,2,1,3,0
+148,Adding Web Components list.,0,True,False,,2015-05-21T19:50:24Z,0,2,1,1,2,1,3,0
+146,Add Elm,43,True,True,2015-05-21T10:40:19Z,2015-05-21T10:40:19Z,0,2,2,1,1,0,1,271.0
+144,Adds Podcasts,0,True,False,,2015-05-21T07:41:37Z,0,1,1,1,12,0,12,0
+140,Added tools & apps list to Frontend dev section,68,True,False,,2015-05-20T12:39:07Z,0,2,1,1,1,0,1,0
+139,"Add ""Maintenance Modules""",0,True,True,2015-05-19T21:51:42Z,2015-05-19T21:51:42Z,0,2,0,1,1,1,2,48.0
+135,"Added Rails to ""Back-end development""",0,True,True,2015-05-18T19:21:33Z,2015-05-18T19:21:33Z,0,3,3,1,1,0,1,3316.0
+136,adds BEM resources page,108,True,True,2015-05-19T12:14:19Z,2015-05-19T12:14:19Z,0,2,2,1,1,0,1,9131.0
+137,Added awesome-delphi,0,True,True,2015-05-19T14:22:44Z,2015-05-19T14:22:44Z,0,2,1,1,1,0,1,849.0
+133,add Awesome Gists by @vsouza,60,True,False,,2015-05-18T14:53:40Z,0,2,2,1,1,0,1,0
+132,added meteor-awesome,17,True,True,2015-05-18T10:27:20Z,2015-05-18T10:27:20Z,0,2,0,1,1,0,1,2611.0
+131,Scalable CSS,0,True,True,2015-05-17T18:58:37Z,2015-05-17T18:58:37Z,0,2,0,1,1,0,1,704.0
+127,Changed link to Awesome Laravel,143,True,True,2015-05-16T07:39:03Z,2015-05-16T07:39:03Z,0,2,1,1,1,1,2,261.0
+126,homework,14,True,False,,2015-05-15T18:47:17Z,0,2,1,2,1,1,2,0
+125,Added Growth Hacking Awseom list,0,True,False,,2015-05-14T22:39:32Z,0,2,1,1,1,0,1,0
+124,Add Pyramid framework,0,True,True,2015-05-13T17:22:37Z,2015-05-13T17:22:37Z,0,2,1,1,1,0,1,23339.0
+123,Added Malware Analysis,0,True,True,2015-05-11T21:50:31Z,2015-05-11T21:50:31Z,0,2,0,1,1,0,1,2802.0
+122,Added Awesome-REST,0,True,True,2015-05-11T15:35:44Z,2015-05-11T15:35:44Z,0,2,0,1,1,0,1,9130.0
+121,Added Awesome Material,0,True,True,2015-05-10T19:41:03Z,2015-05-10T19:41:04Z,0,2,0,1,1,0,1,9308.0
+120,Adding Flask,95,True,True,2015-05-10T19:39:40Z,2015-05-10T19:39:40Z,0,3,1,1,1,0,1,18184.0
+119,Add GoBooks,0,True,True,2015-05-06T12:21:42Z,2015-05-06T12:21:42Z,0,2,0,1,1,0,1,60.0
+117,Added android-ui and ios-ui,0,True,True,2015-05-05T15:04:30Z,2015-05-05T15:04:30Z,0,2,0,1,2,0,2,1104.0
+115,"Added android-ui, ios-ui and bootstrap",0,True,False,,2015-05-05T14:48:08Z,0,2,1,1,3,0,3,0
+113,Added the discount for student dev list.,0,True,True,2015-04-29T21:21:18Z,2015-04-29T21:21:18Z,0,2,0,1,1,0,1,439.0
+111,Add awesome-ctf,0,True,True,2015-04-28T03:14:08Z,2015-04-28T03:14:08Z,0,3,3,1,1,0,1,21854.0
+110,Added awesome-fantasy,0,True,True,2015-04-11T05:35:59Z,2015-04-11T05:35:59Z,0,2,0,1,1,0,1,1746.0
+109,add awesome-space,0,True,False,,2015-04-11T05:43:33Z,0,2,1,1,1,0,1,0
+108,Add awesome-answers,0,True,False,,2015-04-08T14:01:13Z,0,1,0,1,1,0,1,0
+106,Adds free-for-dev,148,True,False,,2015-04-08T07:26:43Z,0,3,2,1,1,0,1,0
+105,Adds awesome-security,42,True,True,2015-04-07T07:04:27Z,2015-04-07T07:04:27Z,0,2,0,1,1,0,1,294640.0
+104,Adds awesome-distributed-systems to Computer Science,57,True,False,,2015-04-07T07:03:15Z,0,2,1,1,1,0,1,0
+103,Merge pull request #1 from sindresorhus/master,40,True,False,,2015-03-31T23:46:33Z,0,1,0,0,0,0,0,0
+102,Add awesome-json.,38,True,True,2015-03-29T09:12:45Z,2015-03-29T09:12:45Z,0,2,0,1,1,0,1,96496.0
+101,Added endangered languages,0,True,True,2015-03-24T12:32:23Z,2015-03-24T12:32:23Z,0,2,0,1,1,0,1,1699.0
+100,Add awesome-answers,125,True,False,,2015-03-24T02:13:34Z,0,2,2,1,1,0,1,0
+99,Add awesome-slack,0,True,True,2015-03-18T06:59:13Z,2015-03-18T06:59:13Z,0,2,3,1,1,0,1,5879.0
+97,added awesome-distributed-systems,14,True,False,,2015-03-03T11:57:01Z,0,2,1,1,1,0,1,0
+96,added awesome-workshopper,215,True,False,,2015-03-02T16:18:43Z,0,2,5,1,1,0,1,0
+95,Adding htaccess repo,0,True,False,,2015-03-01T15:33:11Z,0,1,0,1,1,0,1,0
+90,Added awesome-workshopper,121,True,False,,2015-02-25T07:08:43Z,0,2,1,1,1,0,1,0
+94,add essential-grunt-plugins,0,True,False,,2015-02-26T05:51:25Z,0,2,1,1,1,0,1,0
+93,add seo repository,0,True,True,2015-02-26T05:49:18Z,2015-02-26T05:49:18Z,0,2,0,1,1,0,1,31227.0
+92,add .editorconfig,0,True,False,,2015-02-26T05:48:50Z,0,2,1,1,14,0,14,0
+91,add Internet of things,0,True,False,,2015-02-25T07:07:33Z,0,2,1,1,1,0,1,0
+89,add 'design and development guides',0,True,True,2015-02-24T07:54:10Z,2015-02-24T07:54:10Z,0,2,1,1,1,1,2,40743.0
+88,Update awesome-cakephp link,0,True,True,2015-02-23T05:53:31Z,2015-02-23T05:53:31Z,0,2,0,1,1,1,2,71.0
+87,Adding MacOSX DevTools,0,True,False,,2015-02-21T05:34:13Z,0,3,3,1,1,0,1,0
+84,Added awesome boilerplates and projects .,58,True,True,2015-02-20T03:27:05Z,2015-02-20T03:27:05Z,0,2,0,1,1,0,1,213063.0
+86,Adding awesome-flask,0,True,False,,2015-02-20T03:01:40Z,0,2,1,1,1,0,1,0
+85,Add awesome-ember,0,True,True,2015-02-19T10:15:29Z,2015-02-19T10:15:29Z,0,2,0,1,1,0,1,85701.0
+82,Add Learn to Program to Misc,0,True,True,2015-02-16T02:41:31Z,2015-02-16T02:41:31Z,0,2,0,1,1,0,1,371837.0
+83,Move misc frameworks to new back-end dev section,0,True,True,2015-02-15T04:15:52Z,2015-02-15T04:15:52Z,0,2,0,1,9,5,14,138864.0
+81,Add Awesome CSS to Front-end development section,0,True,False,,2015-02-02T10:29:38Z,0,2,2,1,1,0,1,0
+80,Added Artificial Intelligence,54,True,False,,2015-02-01T17:37:32Z,0,2,2,1,1,0,1,0
+77,Add awesome-code-schools,0,True,False,,2015-01-23T09:14:39Z,0,2,2,1,1,0,1,0
+79,Add browser extensions for GitHub,0,True,True,2015-01-27T09:53:21Z,2015-01-27T09:53:21Z,0,2,1,1,1,0,1,35780.0
+78,add computer vision awesome list,0,True,True,2015-01-23T14:47:02Z,2015-01-23T14:47:02Z,0,2,0,1,1,0,1,136.0
+76,Adds Mac Apps,0,True,False,,2015-01-23T09:12:52Z,0,2,1,1,1,0,1,0
+75,Link to Material Design resources,33,True,False,,2015-01-20T14:53:11Z,0,2,1,1,3,0,3,0
+74,"Add ""readme""",250,True,False,,2015-01-19T10:26:12Z,0,2,2,1,1,0,1,0
+72,Added Fonts,0,True,True,2015-01-13T21:08:37Z,2015-01-13T21:08:37Z,0,2,1,1,1,0,1,1604.0
+67,awesome archive,19,True,False,,2015-01-13T20:40:40Z,0,2,2,1,1,0,1,0
+64,Add Awesome Remote Job,50,True,False,,2015-01-13T20:39:12Z,0,2,4,1,1,0,1,0
+68,Add Broadcasting Awesome list from EBU,0,True,False,,2015-01-09T16:24:14Z,0,2,2,1,1,0,1,0
+71,Merge pull request #1 from sindresorhus/master,10,True,False,,2015-01-12T05:48:16Z,0,1,0,0,0,0,0,0
+70,Added Inspire,194,True,False,,2015-01-11T23:02:56Z,0,2,5,1,1,0,1,0
+69,Add awesome-gametalks,0,True,True,2015-01-09T16:12:41Z,2015-01-09T16:12:41Z,0,2,0,1,1,0,1,170.0
+66,"Add ""Cryptography""",97,True,True,2015-01-05T03:48:02Z,2015-01-05T03:48:02Z,0,2,0,1,1,1,2,12067.0
+65,docs(readme): include awesome-courses,0,True,True,2015-01-05T03:54:03Z,2015-01-05T03:54:03Z,0,2,0,1,1,0,1,15475.0
+63,add Linux resources list for Linux beginners,73,True,False,,2014-12-31T13:40:44Z,0,2,1,1,1,0,1,0
+62,Adding Common Lisp,0,True,False,,2014-12-30T01:55:19Z,0,1,0,1,1,0,1,0
+61,Add awesome-linguistics to the list,183,True,False,,2014-12-24T16:13:58Z,0,1,0,1,1,0,1,0
+60,Add Assembler list,0,True,False,,2014-12-21T13:50:31Z,0,2,1,1,1,0,1,0
+59,Adding awesome-c to the list,0,True,True,2014-12-16T04:00:45Z,2014-12-16T04:00:45Z,0,2,0,1,1,0,1,172.0
+57,Add awesome-vagrant,0,True,True,2014-12-15T18:01:12Z,2014-12-15T18:01:12Z,0,2,0,1,1,0,1,3475.0
+56,Add awesome-backbone,0,True,True,2014-12-15T16:53:43Z,2014-12-15T16:53:43Z,0,2,0,1,1,0,1,2353.0
+55,Add `Hybrid Apps`,0,True,False,,2014-12-15T04:22:24Z,0,1,0,1,1,0,1,0
+54,Add awesome hybrid to platforms list,41,True,False,,2014-12-15T04:16:54Z,0,2,2,1,1,0,1,0
+53,Update readme.md,30,True,False,,2014-12-05T07:14:23Z,0,2,2,1,3,0,3,0
+52,Add awesome-shell on Programming languages list,0,True,False,,2014-12-05T07:10:14Z,0,2,1,1,1,0,1,0
+50,Add continuous integration tools,121,True,True,2014-12-01T06:38:06Z,2014-12-01T06:38:06Z,0,2,1,1,1,0,1,755.0
+49,Add public datasets repository.,81,True,True,2014-12-01T05:12:45Z,2014-12-01T05:12:45Z,0,2,1,1,1,0,1,46828.0
+48,Added Awesome Web Development books,82,True,False,,2014-11-20T09:32:26Z,0,2,2,1,1,0,1,0
+47,added awesome machine learning,0,True,True,2014-11-16T07:55:02Z,2014-11-16T07:55:02Z,0,2,0,1,1,0,1,179.0
+46,Added github pages,113,True,False,,2014-11-13T22:37:20Z,0,2,1,8,199,101,300,0
+45,Added awesome Symfony2,28,True,True,2014-11-12T17:43:21Z,2014-11-12T17:43:21Z,0,2,1,1,1,0,1,9638.0
+44,awesome-pcaptools for network traffic processing added to awesome list.,0,True,True,2014-11-10T07:16:15Z,2014-11-10T07:16:15Z,0,2,2,1,1,0,1,5279.0
+43,awesome-dojo added to the web platforms,63,True,True,2014-10-31T02:31:15Z,2014-10-31T02:31:15Z,0,2,3,1,1,1,2,136802.0
+42,Adding a awesome list about Web performance optimization,0,True,False,,2014-10-16T19:49:56Z,0,2,2,1,1,0,1,0
+41,Add awesome-sphinxdoc.,70,True,False,,2014-10-13T09:29:30Z,0,2,1,1,1,0,1,0
+40,adding knockoutJS,0,True,True,2014-09-30T21:24:28Z,2014-09-30T21:24:28Z,0,2,1,1,1,0,1,8209.0
+39,Awesome SQLAlchemy,35,True,True,2014-09-22T14:15:03Z,2014-09-22T14:15:03Z,0,2,1,1,1,0,1,7095.0
+38,Awesome Docker,39,True,True,2014-09-22T09:57:30Z,2014-09-22T09:57:30Z,0,2,1,1,1,0,1,15610.0
+36,Add awesome-svg link to the list,114,True,True,2014-09-19T12:09:35Z,2014-09-19T12:09:35Z,0,2,2,1,1,0,1,771.0
+35,Added awesome radio,3,True,True,2014-09-14T18:33:06Z,2014-09-14T18:33:06Z,0,2,0,1,1,0,1,1730.0
+34,add awesome flash list,0,True,False,,2014-09-14T09:42:54Z,0,2,2,1,1,0,1,0
+31,Add ReactJS resources,22,True,False,,2014-09-01T15:19:37Z,0,1,0,1,1,0,1,0
+29,Add angularjs awesome,0,True,False,,2014-08-31T09:59:15Z,0,2,1,1,1,0,1,0
+30,Added Awesome-Styleguides,0,True,True,2014-08-31T09:57:52Z,2014-08-31T09:57:52Z,0,2,0,1,1,0,1,34566.0
+28,Added awesome-SharePoint link,87,True,False,,2014-08-29T16:33:10Z,0,2,1,1,1,0,1,0
+27,Added analytics tools to collection,35,True,False,,2014-08-24T13:57:57Z,0,1,0,1,1,0,1,0
+25,Add Dart,0,True,True,2014-08-20T22:29:51Z,2014-08-20T22:29:51Z,0,2,0,1,1,0,1,60775.0
+26,Added an awesome-conferences link,44,True,True,2014-08-20T22:33:20Z,2014-08-20T22:33:20Z,0,2,3,1,1,0,1,2851.0
+24,Add Lua,0,True,True,2014-08-17T12:45:13Z,2014-08-17T12:45:13Z,0,2,0,1,1,0,1,94.0
+23,Add game development list,0,True,False,,2014-08-12T20:23:32Z,0,3,1,1,1,0,1,0
+22,Add CakePHP PHP Framework.,0,True,True,2014-08-03T11:43:10Z,2014-08-03T11:43:10Z,0,2,0,1,2,1,3,1616.0
+21,Reorganized Miscellaneous section,115,True,True,2014-07-28T17:16:36Z,2014-07-28T17:16:36Z,0,3,1,1,23,12,35,2940.0
+19,Added Git Cheat Sheet,0,True,True,2014-07-27T11:04:56Z,2014-07-27T11:04:56Z,0,2,0,1,1,0,1,1020.0
+18,Add Boidae,0,True,False,,2014-07-26T18:48:55Z,0,2,2,1,3,1,4,0
+17,Add awesome Laravel to the Platforms list,0,True,False,,2014-07-26T16:47:33Z,0,1,0,1,1,0,1,0
+16,Add awesome selenium list,68,True,True,2014-07-25T21:30:52Z,2014-07-25T21:30:52Z,0,2,0,1,1,0,1,254.0
+13,Added Play1 java web framework,0,True,True,2014-07-24T19:37:46Z,2014-07-24T19:37:46Z,0,2,0,1,1,0,1,339157.0
+11,Add game development list,0,True,False,,2014-07-24T15:59:38Z,0,2,3,1,1,0,1,0
+12,Add rails to awesome,0,True,False,,2014-07-24T15:58:52Z,0,3,2,1,3,0,3,0
+14,Add Haskell,0,True,True,2014-07-24T15:56:21Z,2014-07-24T15:56:21Z,0,2,0,1,1,0,1,242784.0
+15,Add Magictools for Game Development,0,True,True,2014-07-23T10:09:48Z,2014-07-23T10:09:48Z,0,2,0,1,1,0,1,3605.0
+7,Order languages alphabetically and add Awesome Swift,0,True,False,,2014-07-19T15:30:08Z,0,2,1,1,10,8,18,0
+10,Added awesome-algorithms,0,True,True,2014-07-19T15:27:28Z,2014-07-19T15:27:28Z,0,3,1,1,1,0,1,177877.0
+9,Added Vim,0,True,False,,2014-07-19T15:26:48Z,0,2,1,1,1,0,1,0
+8,Add C/C++,0,True,True,2014-07-18T21:41:47Z,2014-07-18T21:41:47Z,0,2,0,1,1,0,1,122923.0
+6,"Add ""Awesome dotfiles""",0,True,True,2014-07-18T21:41:21Z,2014-07-18T21:41:21Z,0,2,0,1,1,0,1,202929.0
+4,Added Awesome Android list,0,True,True,2014-07-13T08:29:50Z,2014-07-13T08:29:50Z,0,2,0,1,1,0,1,20901.0
+3,added awesome web tool,0,True,True,2014-07-12T15:22:51Z,2014-07-12T15:22:51Z,0,2,0,1,1,0,1,2399.0
+2,Awesome cobol is probably a joke,114,True,True,2014-07-12T15:22:16Z,2014-07-12T15:22:16Z,0,2,1,1,0,1,1,5879.0
+1,Added awesome Scala lists,0,True,True,2014-07-12T08:10:00Z,2014-07-12T08:10:00Z,0,2,0,1,1,0,1,15930.0
