@@ -1,0 +1,866 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+1606,postcss-header v3.0.2,44,True,False,,2024-04-24T18:22:33Z,1,3,1,1,1,1,2,0
+1773,Bump eslint from 7.32.0 to 9.1.1,8260,True,False,,2024-04-24T18:05:23Z,0,1,1,2,250,331,581,0
+1771,Bump postcss-preset-env from 6.7.0 to 9.5.9,2813,True,False,,2024-04-24T18:05:23Z,0,1,1,2,581,366,947,0
+1770,Bump eslint from 7.32.0 to 9.1.0,8873,True,False,,2024-04-23T19:23:18Z,0,0,1,2,250,331,581,0
+1752,add copy button,57,True,False,,2024-04-20T09:58:21Z,0,3,2,3,515,21,536,0
+1760,increased opacity of copy icon,0,True,False,,2024-04-20T09:57:42Z,0,2,1,2,12,1,13,0
+1764,Opacity has been increased,108,True,False,,2024-04-20T09:56:48Z,0,2,1,1,2,2,4,0
+1765,Improve Visibility and Design of Class Copy Button #1748,786,True,False,,2024-04-20T09:55:12Z,0,2,1,1,4,1,5,0
+1768,smooth copy btn transition added,124,True,False,,2024-04-20T09:53:54Z,0,2,1,1,5,5,10,0
+1766,Bump eslint from 7.32.0 to 9.0.0,9831,True,False,,2024-04-20T09:50:16Z,0,1,1,2,250,331,581,0
+1759,Bump autoprefixer from 10.4.7 to 10.4.19,3802,True,False,,2024-04-20T09:50:16Z,0,1,1,2,41,34,75,0
+1758,Bump postcss from 8.4.14 to 8.4.38,4358,True,False,,2024-04-20T09:50:15Z,0,1,1,2,15,15,30,0
+1757,Bump postcss-import from 14.0.2 to 16.1.0,3123,True,False,,2024-04-20T09:50:15Z,0,1,1,2,5,5,10,0
+1755,Bump markdown-it from 12.3.2 to 14.1.0,3632,True,False,,2024-04-20T09:50:15Z,0,1,1,2,34,23,57,0
+1769,Bump postcss-preset-env from 6.7.0 to 9.5.6,3350,True,False,,2024-04-20T09:49:53Z,0,1,1,2,580,365,945,0
+1767,Bump postcss-preset-env from 6.7.0 to 9.5.5,3573,True,False,,2024-04-18T19:17:38Z,0,0,1,2,580,365,945,0
+1763,Bump postcss-preset-env from 6.7.0 to 9.5.4,3645,True,False,,2024-04-11T19:29:07Z,0,0,1,2,580,365,945,0
+1762,Bump postcss-preset-env from 6.7.0 to 9.5.3,3953,True,False,,2024-04-02T19:32:49Z,0,0,1,2,580,365,945,0
+1753,Bump postcss-preset-env from 6.7.0 to 9.5.2,3936,True,False,,2024-04-01T19:02:41Z,0,0,1,2,580,365,945,0
+1756,Bump postcss from 8.4.14 to 8.4.37,4257,True,False,,2024-03-21T19:59:35Z,0,0,1,2,15,15,30,0
+1754,Bump postcss from 8.4.14 to 8.4.36,4281,True,False,,2024-03-19T19:24:27Z,0,0,1,2,15,15,30,0
+1749,Bump postcss-preset-env from 6.7.0 to 9.5.1,3997,True,False,,2024-03-18T20:00:52Z,0,0,1,2,580,365,945,0
+1751,add copy button on important code ,98,True,False,,2024-03-14T13:13:34Z,0,1,0,3,515,21,536,0
+1680,Update example in index.html,183,True,False,,2024-03-13T11:05:41Z,1,3,0,1,2,2,4,0
+1747,Bump postcss-preset-env from 6.7.0 to 9.5.0,4235,True,False,,2024-03-13T11:05:13Z,0,1,1,2,580,365,945,0
+1746,Bump husky from 7.0.4 to 9.0.11,3696,True,False,,2024-03-13T11:05:12Z,0,1,1,2,5,5,10,0
+1745,Bump autoprefixer from 10.4.7 to 10.4.18,3602,True,False,,2024-03-13T11:05:12Z,0,1,1,2,41,34,75,0
+1743,Bump postcss-import from 14.0.2 to 16.0.1,3058,True,False,,2024-03-13T11:05:11Z,0,1,1,2,5,5,10,0
+1742,Bump eslint from 7.32.0 to 8.57.0,8212,True,False,,2024-03-13T11:05:11Z,0,1,1,2,229,250,479,0
+1693,Added Back to Top Button,189,True,False,,2024-03-02T10:58:32Z,0,2,1,3,39,0,39,0
+1744,Bump postcss-preset-env from 6.7.0 to 9.4.0,4420,True,False,,2024-03-06T19:38:42Z,0,0,1,2,574,365,939,0
+1286,add dizzy animation,567,True,False,,2024-03-02T11:17:29Z,2,4,3,6,85,31,116,0
+1322,Add floating animation,157,True,False,,2024-03-02T11:15:37Z,4,6,5,1,14,0,14,0
+1359,Added missing to opacity 1 for entrance animations,545,True,False,,2024-03-02T11:14:49Z,0,3,4,13,28,0,28,0
+1608,Move from Travis CI to Github Actions #1221,330,True,False,,2024-03-02T11:13:01Z,0,3,2,1,29,0,29,0
+1388,add wipe animation,53,True,False,,2024-03-02T11:11:06Z,0,2,1,8,108,0,108,0
+1581,Flippers change,62,True,False,,2024-03-02T11:09:35Z,0,3,5,5,44,44,88,0
+1589,Added 2 new animations,139,True,False,,2024-03-02T11:09:09Z,0,3,2,1,64,0,64,0
+1595,Readme files improved,49,True,False,,2024-03-02T11:07:56Z,0,2,1,5,115,29,144,0
+1607,styled Scroll bar for animation list,66,True,False,,2024-03-02T11:07:14Z,0,2,1,1,24,0,24,0
+1647,New light speed animations,130,True,False,,2024-03-02T11:06:26Z,0,2,1,11,3078,2688,5766,0
+1639,Custom Scroll Bar,156,True,False,,2024-03-02T11:04:01Z,0,2,1,1,24,0,24,0
+1664,Added Rule in Index.html,59,True,False,,2024-03-02T11:03:23Z,0,2,1,6,2766,2688,5454,0
+1673,Update animate.css & add bounceAndRotateLeft,76,True,False,,2024-03-02T11:01:42Z,0,2,1,1,18,0,18,0
+1681,Add a missing word in the custom build section of the documentation,0,True,True,2024-03-02T10:57:25Z,2024-03-02T10:57:25Z,2,3,0,1,1,1,2,21347550.0
+1698,Update animate.css,639,True,False,,2024-03-02T10:55:35Z,0,2,1,1,7,3,10,0
+1699,Update README.md,10,True,True,2024-03-02T10:53:02Z,2024-03-02T10:53:02Z,1,2,0,1,1,1,2,10683471.0
+1741,"Reformatted the document and switched some animation items, so the order is the same across the page",417,True,False,,2024-03-02T10:51:44Z,0,2,0,1,1314,1163,2477,0
+1677,Fixed bugs in template.html,668,True,False,,2024-03-02T10:51:03Z,0,2,1,1,6,14,20,0
+1552,fix: add animation-delay like a custom property,119,True,False,,2024-03-02T10:48:40Z,0,2,0,4,7,2,9,0
+1697,added copy button to copy code by just one click,189,True,False,,2024-03-02T10:48:07Z,1,3,0,1,3006,1145,4151,0
+1726,Added css nesting feature,201,True,False,,2024-03-02T10:46:52Z,0,2,1,3,129,126,255,0
+1723,Implemented a solution for the issue described in #1712.,773,True,False,,2024-03-02T10:43:18Z,0,2,1,5,157,166,323,0
+1724,fix(animatecss): remove duplicate css rules,9,True,False,,2024-03-02T10:38:38Z,0,2,1,1,0,2,2,0
+1739,Update .travis.yml,0,True,False,,2024-03-02T10:32:41Z,0,2,0,1,1,0,1,0
+1731,Update style.css,0,True,False,,2024-03-02T10:32:15Z,0,2,0,1,5,5,10,0
+1738,Bump postcss from 8.4.14 to 8.4.35,4227,True,False,,2024-03-02T10:31:07Z,0,1,1,2,10,10,20,0
+1737,Bump lint-staged from 11.2.6 to 15.2.2,6835,True,False,,2024-03-02T10:31:06Z,0,1,1,2,253,230,483,0
+1735,Bump prettier from 2.7.1 to 3.2.5,3520,True,False,,2024-03-02T10:31:06Z,0,1,1,2,5,5,10,0
+1732,Bump autoprefixer from 10.4.7 to 10.4.17,3417,True,False,,2024-03-02T10:31:05Z,0,1,1,2,41,34,75,0
+1721,Bump eslint from 7.32.0 to 8.56.0,8446,True,False,,2024-03-02T10:31:05Z,0,1,1,2,225,246,471,0
+1711,Bump postcss-preset-env from 6.7.0 to 9.3.0,4018,True,False,,2024-03-02T10:31:04Z,0,1,1,2,535,361,896,0
+1719,Bump markdown-it from 12.3.2 to 14.0.0,3588,True,False,,2024-03-02T10:31:04Z,0,1,1,2,34,23,57,0
+1717,Bump postcss-cli from 8.3.1 to 11.0.0,3034,True,False,,2024-03-02T10:31:04Z,0,1,1,2,126,113,239,0
+1709,Bump cssnano from 5.0.17 to 6.0.1,3994,True,False,,2024-03-02T10:31:03Z,0,1,1,2,307,271,578,0
+1704,Bump postcss-prefixer from 2.1.3 to 3.0.0,1526,True,False,,2024-03-02T10:31:03Z,0,1,1,2,6,79,85,0
+1736,Bump postcss from 8.4.14 to 8.4.34,4073,True,False,,2024-02-07T19:12:20Z,0,0,1,2,10,10,20,0
+1734,Bump lint-staged from 11.2.6 to 15.2.1,6668,True,False,,2024-02-05T19:39:04Z,0,0,1,2,253,230,483,0
+1725,Bump postcss from 8.4.14 to 8.4.33,4221,True,False,,2024-02-05T19:38:33Z,0,0,1,2,10,10,20,0
+1733,Bump prettier from 2.7.1 to 3.2.4,3292,True,False,,2024-02-05T19:38:24Z,0,0,1,2,5,5,10,0
+1716,Bump lint-staged from 11.2.6 to 15.2.0,6032,True,False,,2024-01-31T19:49:15Z,0,0,1,2,253,230,483,0
+1730,Bump prettier from 2.7.1 to 3.2.2,3537,True,False,,2024-01-17T19:59:00Z,0,0,1,2,5,5,10,0
+1710,Bump autoprefixer from 10.4.7 to 10.4.16,3356,True,False,,2024-01-17T19:58:49Z,0,0,1,2,41,34,75,0
+1729,Bump prettier from 2.7.1 to 3.2.1,3754,True,False,,2024-01-15T19:43:08Z,0,0,1,2,5,5,10,0
+1718,Bump prettier from 2.7.1 to 3.1.1,4635,True,False,,2024-01-12T19:30:19Z,0,0,1,2,5,5,10,0
+1728,Update animate.css,0,True,False,,2024-01-12T16:24:34Z,0,1,0,1,2,2,4,0
+1714,Bump postcss from 8.4.14 to 8.4.32,4075,True,False,,2024-01-04T19:14:11Z,0,0,1,2,10,10,20,0
+1715,Bump eslint from 7.32.0 to 8.55.0,8434,True,False,,2023-12-18T19:07:01Z,0,0,1,2,225,246,471,0
+1705,Bump markdown-it from 12.3.2 to 13.0.2,3141,True,False,,2023-12-11T19:02:05Z,0,0,1,2,17,12,29,0
+1707,Bump prettier from 2.7.1 to 3.1.0,4713,True,False,,2023-12-11T19:01:55Z,0,0,1,2,5,5,10,0
+1703,Bump lint-staged from 11.2.6 to 15.1.0,4648,True,False,,2023-12-04T19:44:42Z,0,0,1,2,238,235,473,0
+1708,Bump eslint from 7.32.0 to 8.54.0,8366,True,False,,2023-12-04T19:44:32Z,0,0,1,2,225,246,471,0
+1706,Bump postcss from 8.4.14 to 8.4.31,4048,True,False,,2023-12-04T19:44:17Z,0,0,1,2,10,10,20,0
+1675,update Documentation,160,True,False,,2023-12-02T15:19:40Z,0,1,0,1,4,4,8,0
+1575,Bump markdown-it from 12.3.2 to 13.0.1,2725,True,False,,2023-11-19T17:35:12Z,0,1,1,2,17,12,29,0
+1661,Bump eslint from 7.32.0 to 8.35.0,7715,True,False,,2023-11-19T17:34:56Z,0,1,1,2,207,221,428,0
+1657,Bump cssnano from 5.0.17 to 5.1.15,3366,True,False,,2023-11-19T17:34:55Z,0,1,1,2,218,183,401,0
+1656,Bump lint-staged from 11.2.6 to 13.1.2,2741,True,False,,2023-11-19T17:34:55Z,0,1,1,2,197,141,338,0
+1650,Bump postcss-preset-env from 6.7.0 to 8.0.1,4325,True,False,,2023-11-19T17:34:55Z,0,1,1,2,427,355,782,0
+1641,Bump husky from 7.0.4 to 8.0.3,2965,True,False,,2023-11-19T17:34:54Z,0,1,1,2,5,5,10,0
+1636,Bump postcss-import from 14.0.2 to 15.1.0,2392,True,False,,2023-11-19T17:34:54Z,0,1,1,2,5,5,10,0
+1632,Bump postcss-cli from 8.3.1 to 10.1.0,2710,True,False,,2023-11-19T17:34:53Z,0,1,1,2,115,106,221,0
+1620,Bump postcss-header from 3.0.1 to 3.0.3,2006,True,False,,2023-11-19T17:34:53Z,0,1,1,2,5,5,10,0
+1611,Bump autoprefixer from 10.4.7 to 10.4.13,2828,True,False,,2023-11-19T17:34:53Z,0,1,1,2,35,28,63,0
+1696,ADA用コンパイル設定,0,True,False,,2023-10-17T06:08:50Z,0,1,1,4,3125,2707,5832,0
+1683,Update fadeOut.css,138,True,False,,2023-08-02T08:33:25Z,0,1,1,1,3,3,6,0
+1676,copy docText features added,111,True,False,,2023-06-21T12:45:36Z,0,1,1,5,107,35,142,0
+1539,add gradient text anim,0,True,False,,2023-04-29T08:11:17Z,0,2,8,1,21,0,21,0
+1668,Create heloo,0,True,False,,2023-04-05T11:27:20Z,0,2,0,1,1,0,1,0
+1655,Bump eslint from 7.32.0 to 8.34.0,7533,True,False,,2023-02-27T19:57:09Z,0,0,1,2,196,216,412,0
+1612,Bump cssnano from 5.0.17 to 5.1.14,3165,True,False,,2023-02-16T19:57:33Z,0,0,1,2,216,181,397,0
+1652,Bump lint-staged from 11.2.6 to 13.1.1,2830,True,False,,2023-02-13T19:58:01Z,0,0,1,2,197,141,338,0
+1651,Bump eslint from 7.32.0 to 8.33.0,7866,True,False,,2023-02-13T19:57:38Z,0,0,1,2,196,216,412,0
+1635,Bump lint-staged from 11.2.6 to 13.1.0,2896,True,False,,2023-02-07T19:01:02Z,0,0,1,2,197,141,338,0
+1642,Bump eslint from 7.32.0 to 8.32.0,7912,True,False,,2023-01-30T19:01:44Z,0,0,1,2,196,216,412,0
+1646,Bump postcss-preset-env from 6.7.0 to 8.0.0,4448,True,False,,2023-01-30T19:01:28Z,0,0,1,2,440,353,793,0
+1622,Bump postcss-preset-env from 6.7.0 to 7.8.3,3764,True,False,,2023-01-24T19:01:21Z,0,0,1,2,361,354,715,0
+1645,Release,0,True,False,,2023-01-23T11:13:24Z,0,1,0,6,2840,2684,5524,0
+1640,Bump eslint from 7.32.0 to 8.31.0,8105,True,False,,2023-01-16T19:01:21Z,0,0,1,2,196,216,412,0
+1621,Bump husky from 7.0.4 to 8.0.2,2996,True,False,,2023-01-03T19:01:28Z,0,0,1,2,5,5,10,0
+1638,Bump eslint from 7.32.0 to 8.30.0,7939,True,False,,2023-01-02T19:00:46Z,0,0,1,2,196,216,412,0
+1637,my contribution added (ignore this proposal),33,True,False,,2022-12-28T16:05:34Z,0,2,1,1,12,0,12,0
+1634,Bump eslint from 7.32.0 to 8.29.0,8459,True,False,,2022-12-19T19:01:16Z,0,0,1,2,196,216,412,0
+1633,Bump postcss-import from 14.0.2 to 15.0.1,2299,True,False,,2022-12-08T19:01:37Z,0,0,1,2,5,5,10,0
+1626,Bump lint-staged from 11.2.6 to 13.0.4,2902,True,False,,2022-12-05T19:01:12Z,0,0,1,2,197,141,338,0
+1624,Bump eslint from 7.32.0 to 8.28.0,8736,True,False,,2022-12-05T19:00:54Z,0,0,1,2,196,216,412,0
+1593,Bump postcss-import from 14.0.2 to 15.0.0,2122,True,False,,2022-12-02T19:01:03Z,0,0,1,2,5,5,10,0
+1566,Bump postcss-cli from 8.3.1 to 10.0.0,2618,True,False,,2022-11-30T19:00:53Z,0,0,1,2,104,100,204,0
+1564,Bump lint-staged from 11.2.6 to 13.0.3,2994,True,False,,2022-11-25T19:00:56Z,0,0,1,2,197,141,338,0
+1623,Add text to README.md file,0,True,False,,2022-11-22T11:49:24Z,1,3,0,1,2,0,2,0
+1619,Bump eslint from 7.32.0 to 8.27.0,8701,True,False,,2022-11-21T19:01:57Z,0,0,1,2,196,216,412,0
+1601,Bump postcss-preset-env from 6.7.0 to 7.8.2,3772,True,False,,2022-11-14T19:01:04Z,0,0,1,2,361,354,715,0
+1574,Bump husky from 7.0.4 to 8.0.1,2860,True,False,,2022-11-08T19:02:47Z,0,0,1,2,5,5,10,0
+1478,Bump postcss-header from 3.0.1 to 3.0.2,1834,True,False,,2022-11-08T19:02:25Z,0,0,1,2,5,5,10,0
+1610,Bump eslint from 7.32.0 to 8.26.0,8401,True,False,,2022-11-08T19:02:09Z,0,0,1,2,195,215,410,0
+1585,Bump cssnano from 5.0.17 to 5.1.13,2497,True,False,,2022-10-28T19:02:31Z,0,0,1,2,178,176,354,0
+1603,Bump autoprefixer from 10.4.7 to 10.4.12,2633,True,False,,2022-10-28T19:02:09Z,0,0,1,2,35,28,63,0
+1609,Bump eslint from 7.32.0 to 8.25.0,7697,True,False,,2022-10-24T19:04:13Z,0,0,1,2,187,219,406,0
+1605,Bump eslint from 7.32.0 to 8.24.0,7748,True,False,,2022-10-10T19:03:06Z,0,0,1,2,194,220,414,0
+1598,Bump eslint from 7.32.0 to 8.23.1,7647,True,False,,2022-09-26T19:07:03Z,0,0,1,2,194,220,414,0
+1600,Bump autoprefixer from 10.4.7 to 10.4.11,2423,True,False,,2022-09-21T19:06:01Z,0,0,1,2,35,28,63,0
+1596,Bump postcss-preset-env from 6.7.0 to 7.8.1,3908,True,False,,2022-09-15T19:07:10Z,0,0,1,2,361,354,715,0
+1599,Bump autoprefixer from 10.4.7 to 10.4.10,2290,True,False,,2022-09-14T19:02:54Z,0,0,1,2,35,28,63,0
+1597,Bump autoprefixer from 10.4.7 to 10.4.9,2154,True,False,,2022-09-13T19:03:03Z,0,0,1,2,35,28,63,0
+1592,Bump eslint from 7.32.0 to 8.23.0,7534,True,False,,2022-09-12T19:02:46Z,0,0,1,2,188,214,402,0
+1577,Bump autoprefixer from 10.4.7 to 10.4.8,1854,True,False,,2022-09-12T19:02:30Z,0,0,1,2,35,28,63,0
+1588,Bump postcss-preset-env from 6.7.0 to 7.8.0,3929,True,False,,2022-09-07T19:02:15Z,0,0,1,2,361,354,715,0
+1576,Bump postcss-import from 14.0.2 to 14.1.0,2002,True,False,,2022-08-31T19:02:28Z,0,0,1,2,5,5,10,0
+1587,Bump eslint from 7.32.0 to 8.22.0,7505,True,False,,2022-08-29T19:02:40Z,0,0,1,2,181,207,388,0
+1590,Deepanshu added new package json file,121,True,False,,2022-08-25T15:59:54Z,0,3,0,1,4,0,4,0
+1563,Bump postcss-preset-env from 6.7.0 to 7.7.2,3581,True,False,,2022-08-16T19:02:35Z,0,0,1,2,339,348,687,0
+1582,Bump eslint from 7.32.0 to 8.21.0,8072,True,False,,2022-08-15T19:03:12Z,0,0,1,2,181,207,388,0
+1561,Bump cssnano from 5.0.17 to 5.1.12,3112,True,False,,2022-08-12T19:02:27Z,0,0,1,2,178,176,354,0
+1580,fix: flippers naming,32,True,False,,2022-08-01T18:30:50Z,0,1,3,10,90,90,180,0
+1571,Bump eslint from 7.32.0 to 8.20.0,8250,True,False,,2022-08-01T19:05:55Z,0,0,1,2,113,191,304,0
+1579,chore: update packages,32,True,False,,2022-08-01T18:29:16Z,0,1,1,1,897,758,1655,0
+1578,chore: update packages,35,True,False,,2022-07-31T03:54:01Z,0,1,1,1,897,758,1655,0
+1538,Bump postcss from 8.4.5 to 8.4.14,3404,True,True,2022-07-29T14:42:47Z,2022-07-29T14:42:48Z,1,1,0,2,12,12,24,6205215.0
+1529,Bump autoprefixer from 10.4.2 to 10.4.7,2374,True,True,2022-07-29T14:40:51Z,2022-07-29T14:40:51Z,0,1,0,2,32,32,64,7587507.0
+1558,Bump prettier from 2.5.1 to 2.7.1,2536,True,True,2022-07-29T14:39:54Z,2022-07-29T14:39:54Z,1,1,0,2,5,5,10,3699464.0
+1573,Bump nanoid from 3.1.30 to 3.3.4,2399,True,True,2022-07-29T14:39:12Z,2022-07-29T14:39:12Z,1,1,0,1,3,3,6,21883.0
+1458,Bump nanoid from 3.1.30 to 3.2.0,2203,True,False,,2022-07-29T08:34:33Z,0,0,1,1,3,3,6,0
+1562,Bump shell-quote from 1.7.2 to 1.7.3,1864,True,True,2022-07-29T08:33:29Z,2022-07-29T08:33:29Z,1,1,0,1,3,3,6,3123748.0
+1569,Bump eslint from 7.32.0 to 8.19.0,8467,True,False,,2022-07-18T19:03:40Z,0,0,1,2,113,191,304,0
+1560,Bump eslint from 7.32.0 to 8.18.0,7927,True,False,,2022-07-04T19:02:19Z,0,0,1,2,113,191,304,0
+1432,Bump postcss-cli from 8.3.1 to 9.1.0,2495,True,False,,2022-06-30T19:02:43Z,0,0,1,2,91,72,163,0
+1559,Bump lint-staged from 11.2.6 to 13.0.2,2988,True,False,,2022-06-27T19:04:26Z,0,0,1,2,197,141,338,0
+1551,Bump postcss-preset-env from 6.7.0 to 7.7.1,3613,True,False,,2022-06-23T19:02:36Z,0,0,1,2,339,359,698,0
+1553,Bump cssnano from 5.0.17 to 5.1.11,2771,True,False,,2022-06-20T19:04:18Z,0,0,1,2,204,176,380,0
+1554,Bump eslint from 7.32.0 to 8.17.0,8065,True,False,,2022-06-20T19:04:04Z,0,0,1,2,113,191,304,0
+1555,Bump lint-staged from 11.2.6 to 13.0.1,3088,True,False,,2022-06-16T19:02:35Z,0,0,1,2,197,141,338,0
+1556,Bump prettier from 2.5.1 to 2.7.0,2987,True,False,,2022-06-16T19:02:14Z,0,0,1,2,5,5,10,0
+1518,Bump prettier from 2.5.1 to 2.6.2,2980,True,False,,2022-06-14T19:02:07Z,0,0,1,2,5,5,10,0
+1550,Bump lint-staged from 11.2.6 to 13.0.0,2771,True,False,,2022-06-08T19:02:30Z,0,0,1,2,197,141,338,0
+931,Reduced-Motion: Replace animation: unset and transition: none with 0-length durations.,104,True,True,2019-05-29T01:59:30Z,2019-05-29T01:59:30Z,1,6,14,1,4,3,7,1787211.0
+1541,Bump eslint from 7.32.0 to 8.16.0,8633,True,False,,2022-06-06T19:06:41Z,0,0,1,2,113,191,304,0
+1546,Bump cssnano from 5.0.17 to 5.1.10,2672,True,False,,2022-06-06T19:06:23Z,0,0,1,2,204,176,380,0
+1549,Bump postcss-preset-env from 6.7.0 to 7.7.0,3717,True,False,,2022-06-03T19:03:01Z,0,0,1,2,337,357,694,0
+1548,Bump lint-staged from 11.2.6 to 12.5.0,2963,True,False,,2022-06-01T19:03:25Z,0,0,1,2,143,108,251,0
+1540,Bump postcss-preset-env from 6.7.0 to 7.6.0,3589,True,False,,2022-05-31T19:02:52Z,0,0,1,2,329,357,686,0
+1547,Bump lint-staged from 11.2.6 to 12.4.3,2854,True,False,,2022-05-31T19:02:30Z,0,0,1,2,143,108,251,0
+1543,Bump lint-staged from 11.2.6 to 12.4.2,2874,True,False,,2022-05-30T19:03:05Z,0,0,1,2,131,96,227,0
+1542,Bump cssnano from 5.0.17 to 5.1.9,2679,True,False,,2022-05-30T19:02:37Z,0,0,1,2,204,176,380,0
+1524,Bump lint-staged from 11.2.6 to 12.4.1,2894,True,False,,2022-05-24T19:02:43Z,0,0,1,2,131,96,227,0
+1537,Bump cssnano from 5.0.17 to 5.1.8,2602,True,False,,2022-05-23T19:02:41Z,0,0,1,2,204,176,380,0
+1535,Bump eslint from 7.32.0 to 8.15.0,7764,True,False,,2022-05-23T19:02:08Z,0,0,1,2,107,185,292,0
+1533,Bump postcss-preset-env from 6.7.0 to 7.5.0,3497,True,False,,2022-05-19T19:02:36Z,0,0,1,2,313,357,670,0
+1530,Bump postcss from 8.4.5 to 8.4.13,3283,True,False,,2022-05-18T19:02:36Z,0,0,1,2,15,15,30,0
+1517,Bump cssnano from 5.0.17 to 5.1.7,2489,True,False,,2022-05-17T19:02:27Z,0,0,1,2,177,176,353,0
+1536,clean readme,0,True,False,,2022-05-11T15:14:02Z,0,3,1,1,0,48,48,0
+1523,Bump eslint from 7.32.0 to 8.14.0,7345,True,False,,2022-05-09T19:02:00Z,0,0,1,2,96,174,270,0
+1534,Update .gitignore,0,True,False,,2022-05-05T12:02:04Z,0,1,0,1,0,1,1,0
+1525,Bump postcss-preset-env from 6.7.0 to 7.4.4,3624,True,False,,2022-05-03T19:02:02Z,0,0,1,2,299,357,656,0
+1522,Bump autoprefixer from 10.4.2 to 10.4.5,2159,True,False,,2022-05-02T19:02:27Z,0,0,1,2,32,32,64,0
+1504,Bump postcss from 8.4.5 to 8.4.12,3102,True,False,,2022-05-02T19:02:41Z,0,0,1,2,15,15,30,0
+1512,Bump postcss-preset-env from 6.7.0 to 7.4.3,3386,True,False,,2022-04-26T19:02:54Z,0,0,1,2,301,359,660,0
+1521,Bump lint-staged from 11.2.6 to 12.4.0,2953,True,False,,2022-04-26T19:02:28Z,0,0,1,2,131,96,227,0
+1519,Bump eslint from 7.32.0 to 8.13.0,7558,True,False,,2022-04-25T19:02:27Z,0,0,1,2,96,174,270,0
+1505,Bump autoprefixer from 10.4.2 to 10.4.4,1906,True,False,,2022-04-25T19:02:02Z,0,0,1,2,32,32,64,0
+1508,✨ TWEAK: improve delay expression,107,True,True,2022-04-21T08:51:18Z,2022-04-21T08:51:18Z,3,2,2,8,823,709,1532,2910775.0
+1520,Bump lint-staged from 11.2.6 to 12.3.8,2783,True,False,,2022-04-20T19:02:31Z,0,0,1,2,131,96,227,0
+1273,Migrate from Travis CI to GitHub Action,169,True,False,,2022-04-19T11:36:01Z,5,3,5,4,119,6,125,0
+1473,Update font-size in edit github,0,True,False,,2022-04-19T11:32:50Z,1,3,0,1,1,1,2,0
+1509,☕ CHORE: add issue forms,134,True,True,2022-04-19T11:17:09Z,2022-04-19T11:17:09Z,1,2,0,4,110,50,160,2741495.0
+1506,Bump lint-staged from 11.2.6 to 12.3.7,2647,True,False,,2022-04-15T19:02:51Z,0,0,1,2,131,96,227,0
+1515,Bump eslint from 7.32.0 to 8.12.0,8095,True,False,,2022-04-11T19:02:57Z,0,0,1,2,96,174,270,0
+1513,Bump prettier from 2.5.1 to 2.6.1,3185,True,False,,2022-04-04T19:02:06Z,0,0,1,2,5,5,10,0
+1511,Bump cssnano from 5.0.17 to 5.1.5,2436,True,False,,2022-04-01T19:01:42Z,0,0,1,2,171,163,334,0
+1498,Bump eslint from 7.32.0 to 8.11.0,8405,True,False,,2022-03-28T19:02:31Z,0,0,1,2,96,174,270,0
+1502,Bump prettier from 2.5.1 to 2.6.0,2124,True,False,,2022-03-25T19:06:08Z,0,0,1,2,5,5,10,0
+1490,Bump postcss-preset-env from 6.7.0 to 7.4.2,3416,True,False,,2022-03-21T19:02:16Z,0,0,1,2,282,348,630,0
+1499,Bump cssnano from 5.0.17 to 5.1.4,2248,True,False,,2022-03-21T19:01:56Z,0,0,1,2,171,163,334,0
+1503,Bump lint-staged from 11.2.6 to 12.3.6,2577,True,False,,2022-03-17T19:02:43Z,0,0,1,2,131,96,227,0
+1501,Bump autoprefixer from 10.4.2 to 10.4.3,1730,True,False,,2022-03-16T19:03:34Z,0,0,1,2,32,32,64,0
+1500,Bump postcss from 8.4.5 to 8.4.11,2974,True,False,,2022-03-16T19:03:19Z,0,0,1,2,15,15,30,0
+1491,Bump lint-staged from 11.2.6 to 12.3.5,2587,True,False,,2022-03-16T19:03:07Z,0,0,1,2,125,96,221,0
+1492,Bump postcss from 8.4.5 to 8.4.8,2676,True,False,,2022-03-15T19:02:12Z,0,0,1,2,15,15,30,0
+1497,Bump cssnano from 5.0.17 to 5.1.3,2248,True,False,,2022-03-14T19:02:35Z,0,0,1,2,171,163,334,0
+1487,Bump eslint from 7.32.0 to 8.10.0,8104,True,False,,2022-03-14T19:02:15Z,0,0,1,2,95,168,263,0
+1494,Bump cssnano from 5.0.17 to 5.1.2,2027,True,False,,2022-03-11T19:02:08Z,0,0,1,2,171,163,334,0
+1493,Bump cssnano from 5.0.17 to 5.1.1,2038,True,False,,2022-03-10T19:02:03Z,0,0,1,2,171,163,334,0
+1489,Bump cssnano from 5.0.17 to 5.1.0,1959,True,False,,2022-03-08T19:02:29Z,0,0,1,2,171,163,334,0
+1484,Bump postcss from 8.4.5 to 8.4.7,2534,True,False,,2022-03-07T19:02:13Z,0,0,1,2,15,15,30,0
+1476,Bump lint-staged from 11.2.6 to 12.3.4,2576,True,False,,2022-03-07T19:01:59Z,0,0,1,2,125,96,221,0
+1482,Bump postcss-preset-env from 6.7.0 to 7.4.1,3571,True,False,,2022-03-02T19:02:37Z,0,0,1,2,271,335,606,0
+1485,☕ CHORE: update footer license note,74,True,True,2022-03-01T14:28:40Z,2022-03-01T14:28:40Z,1,2,0,2,2,2,4,248260.0
+1486,☕ CHORE: update docs page,153,True,True,2022-03-01T14:28:06Z,2022-03-01T14:28:06Z,1,2,0,6,12,12,24,247806.0
+1475,Bump eslint from 7.32.0 to 8.9.0,8752,True,False,,2022-02-28T19:02:15Z,0,0,1,2,95,168,263,0
+1467,Bump postcss from 8.4.5 to 8.4.6,2406,True,False,,2022-02-25T19:02:21Z,0,0,1,2,15,15,30,0
+1481,Bump postcss-preset-env from 6.7.0 to 7.4.0,3582,True,False,,2022-02-17T19:02:03Z,0,0,1,2,270,334,604,0
+1477,Bump postcss-preset-env from 6.7.0 to 7.3.3,4059,True,False,,2022-02-16T19:02:56Z,0,0,1,2,242,334,576,0
+1471,Bump cssnano from 5.0.15 to 5.0.17,2157,True,True,2022-02-15T10:26:47Z,2022-02-15T10:26:47Z,0,1,0,2,160,168,328,660268.0
+1470,Bump postcss-preset-env from 6.7.0 to 7.3.1,4136,True,False,,2022-02-14T19:02:39Z,0,0,1,2,232,333,565,0
+1468,Bump lint-staged from 11.2.6 to 12.3.3,2598,True,False,,2022-02-14T19:02:24Z,0,0,1,2,125,96,221,0
+1465,Bump eslint from 7.32.0 to 8.8.0,8076,True,False,,2022-02-14T19:02:12Z,0,0,1,2,95,168,263,0
+1459,Bump cssnano from 5.0.15 to 5.0.16,2203,True,False,,2022-02-07T19:02:23Z,0,0,1,2,133,141,274,0
+1464,Bump postcss-preset-env from 6.7.0 to 7.3.0,3989,True,False,,2022-02-03T19:01:51Z,0,0,1,2,232,333,565,0
+1461,Bump lint-staged from 11.2.6 to 12.3.2,2535,True,False,,2022-02-01T19:02:32Z,0,0,1,2,125,96,221,0
+1463,✨ TWEAK: update SPDX license ID,253,True,True,2022-02-01T10:41:11Z,2022-02-01T10:41:11Z,1,2,0,1,1,1,2,154128.0
+1454,Bump eslint from 7.32.0 to 8.7.0,8522,True,False,,2022-01-31T19:02:42Z,0,0,1,2,95,168,263,0
+1452,Bump postcss-preset-env from 6.7.0 to 7.2.3,3073,True,False,,2022-01-31T19:02:26Z,0,0,1,2,188,334,522,0
+1460,Bump lint-staged from 11.2.6 to 12.3.1,2543,True,False,,2022-01-26T19:02:12Z,0,0,1,2,125,96,221,0
+1457,Bump lint-staged from 11.2.6 to 12.2.2,2635,True,False,,2022-01-24T19:03:22Z,0,0,1,2,125,96,221,0
+1456,Bump lint-staged from 11.2.6 to 12.2.1,2735,True,False,,2022-01-20T19:02:10Z,0,0,1,2,125,96,221,0
+1455,Bump lint-staged from 11.2.6 to 12.2.0,2759,True,False,,2022-01-19T19:02:33Z,0,0,1,2,125,96,221,0
+1448,Bump lint-staged from 11.2.6 to 12.1.7,2821,True,False,,2022-01-18T19:02:19Z,0,0,1,2,125,96,221,0
+1443,Bump eslint from 7.32.0 to 8.6.0,7829,True,False,,2022-01-17T19:02:42Z,0,0,1,2,89,149,238,0
+1445,Bump postcss-preset-env from 6.7.0 to 7.2.0,3294,True,False,,2022-01-12T19:02:39Z,0,0,1,2,189,335,524,0
+1451,Add custom build warning,113,True,True,2022-01-12T11:01:58Z,2022-01-12T11:01:58Z,0,1,0,7,37,21,58,1222.0
+1446,Bump autoprefixer from 10.4.0 to 10.4.2,3052,True,True,2022-01-12T09:31:42Z,2022-01-12T09:31:42Z,0,1,1,2,29,34,63,397785.0
+1449,Bump cssnano from 5.0.14 to 5.0.15,1792,True,True,2022-01-12T09:28:21Z,2022-01-12T09:28:21Z,0,1,0,2,117,121,238,397554.0
+1450,Bump markdown-it from 12.3.0 to 12.3.2,1907,True,True,2022-01-12T09:27:04Z,2022-01-12T09:27:04Z,0,1,0,2,5,5,10,138297.0
+1447,Bump markdown-it from 12.3.0 to 12.3.1,1724,True,False,,2022-01-10T19:02:12Z,0,0,1,2,5,5,10,0
+1444,Bump lint-staged from 11.2.6 to 12.1.5,2806,True,False,,2022-01-07T19:02:20Z,0,0,1,2,120,96,216,0
+1441,Bump autoprefixer from 10.4.0 to 10.4.1,2925,True,False,,2022-01-07T19:02:03Z,0,0,1,2,29,34,63,0
+1439,Bump postcss-preset-env from 6.7.0 to 7.1.0,3635,True,False,,2022-01-03T19:03:07Z,0,0,1,2,200,346,546,0
+1440,Bump lint-staged from 11.2.6 to 12.1.4,2791,True,False,,2022-01-03T19:02:50Z,0,0,1,2,120,96,216,0
+1438,Bump eslint from 7.32.0 to 8.5.0,8026,True,False,,2022-01-03T19:02:28Z,0,0,1,2,89,149,238,0
+1374,License Update,65,True,True,2021-10-08T10:58:59Z,2021-10-08T10:58:59Z,5,3,2,10,23,19,42,312878.0
+1355,Update LICENSE,1965,True,True,2021-09-19T15:40:59Z,2021-09-19T15:40:59Z,1,5,3,2,34,22,56,538195.0
+1436,Bump cssnano from 5.0.13 to 5.0.14,1824,True,True,2021-12-28T12:41:02Z,2021-12-28T12:41:03Z,0,1,0,2,5,11,16,668336.0
+1422,Update 04-javascript.md,140,True,False,,2021-12-28T12:40:45Z,0,2,1,1,3,1,4,0
+1437,Bump lint-staged from 11.2.6 to 12.1.3,2770,True,False,,2021-12-24T19:02:39Z,0,0,1,2,120,96,216,0
+1435,Bump postcss-preset-env from 6.7.0 to 7.0.2,3728,True,False,,2021-12-22T19:02:44Z,0,0,1,2,200,346,546,0
+1425,Bump eslint from 7.32.0 to 8.4.1,8768,True,False,,2021-12-20T19:02:34Z,0,0,1,2,89,149,238,0
+1414,Bump lint-staged from 11.2.6 to 12.1.2,2746,True,False,,2021-12-20T19:02:22Z,0,0,1,2,113,88,201,0
+1412,Bump postcss-preset-env from 6.7.0 to 7.0.1,6040,True,False,,2021-12-16T10:56:28Z,0,0,1,2,210,333,543,0
+1434,Bump cssnano from 5.0.12 to 5.0.13,1399,True,True,2021-12-16T10:54:17Z,2021-12-16T10:54:17Z,0,1,0,2,27,28,55,57129.0
+1423,Bump prettier from 2.5.0 to 2.5.1,2951,True,True,2021-12-13T14:27:06Z,2021-12-13T14:27:06Z,0,1,0,2,5,5,10,588302.0
+1431,Bump postcss from 8.3.11 to 8.4.5,4281,True,True,2021-12-13T14:21:56Z,2021-12-13T14:21:56Z,0,1,0,2,10,10,20,11743.0
+1421,Bump postcss from 8.3.11 to 8.4.4,4091,True,False,,2021-12-13T11:06:16Z,0,0,1,2,10,10,20,0
+1402,Bump postcss-cli from 8.3.1 to 9.0.2,2378,True,False,,2021-12-13T11:06:16Z,0,0,1,2,64,66,130,0
+1428,Bump markdown-it from 12.2.0 to 12.3.0,1741,True,True,2021-12-13T11:04:14Z,2021-12-13T11:04:14Z,0,1,0,2,5,5,10,316936.0
+1424,Bump eslint from 7.32.0 to 8.4.0,9496,True,False,,2021-12-07T23:40:50Z,0,0,1,2,89,149,238,0
+1413,Bump eslint from 7.32.0 to 8.3.0,9724,True,False,,2021-12-06T19:02:19Z,0,0,1,2,84,144,228,0
+1420,Bump cssnano from 5.0.9 to 5.0.12,2459,True,True,2021-12-01T17:28:58Z,2021-12-01T17:28:58Z,0,1,0,2,42,61,103,167204.0
+1416,Bump prettier from 2.4.1 to 2.5.0,2183,True,True,2021-12-01T17:28:25Z,2021-12-01T17:28:25Z,0,1,0,2,5,5,10,512780.0
+1419,Bump postcss from 8.3.11 to 8.4.2,4183,True,False,,2021-11-29T19:02:27Z,0,0,1,2,10,10,20,0
+1409,Bump cssnano from 5.0.9 to 5.0.11,2332,True,False,,2021-11-29T19:02:17Z,0,0,1,2,36,55,91,0
+1417,Bump postcss from 8.3.11 to 8.4.1,4507,True,False,,2021-11-26T19:01:50Z,0,0,1,2,10,10,20,0
+1415,Bump postcss from 8.3.11 to 8.4.0,4593,True,False,,2021-11-25T19:02:18Z,0,0,1,2,10,10,20,0
+1411,Bump lint-staged from 11.2.6 to 12.0.3,2684,True,False,,2021-11-22T19:03:41Z,0,0,1,2,106,82,188,0
+1404,Bump eslint from 7.32.0 to 8.2.0,8368,True,False,,2021-11-22T19:02:53Z,0,0,1,2,84,144,228,0
+1408,Bump postcss-preset-env from 6.7.0 to 7.0.0,5057,True,False,,2021-11-19T19:02:51Z,0,0,1,2,217,324,541,0
+1407,Bump lint-staged from 11.2.6 to 12.0.2,2948,True,False,,2021-11-18T19:02:28Z,0,0,1,2,110,80,190,0
+1395,Update animate.css,41,True,False,,2021-11-17T10:03:41Z,0,2,1,1,8,8,16,0
+1405,change default animate-duration to 2s,0,True,False,,2021-11-17T10:02:00Z,0,2,1,2,3,1,4,0
+1403,Bump cssnano from 5.0.9 to 5.0.10,1625,True,False,,2021-11-16T19:02:43Z,0,0,1,2,15,15,30,0
+1394,Bump eslint from 7.32.0 to 8.1.0,9031,True,False,,2021-11-08T19:02:21Z,0,0,1,2,75,110,185,0
+1369,Bump postcss-cli from 8.3.1 to 9.0.1,2301,True,False,,2021-11-05T19:02:16Z,0,0,1,2,69,66,135,0
+1392,Bump postcss from 8.3.10 to 8.3.11,1565,True,True,2021-11-04T12:12:10Z,2021-11-04T12:12:10Z,0,1,0,2,5,5,10,1184989.0
+1391,Bump husky from 7.0.2 to 7.0.4,1971,True,True,2021-11-03T09:49:25Z,2021-11-03T09:49:25Z,0,1,1,2,5,5,10,1090035.0
+1397,Bump autoprefixer from 10.3.7 to 10.4.0,2126,True,True,2021-11-03T09:46:00Z,2021-11-03T09:46:01Z,0,1,1,2,28,33,61,485013.0
+1396,Bump lint-staged from 11.2.0 to 11.2.6,2597,True,True,2021-11-03T09:45:40Z,2021-11-03T09:45:40Z,0,1,1,2,5,5,10,657807.0
+1401,Bump cssnano from 5.0.8 to 5.0.9,2449,True,True,2021-11-03T09:41:45Z,2021-11-03T09:41:45Z,0,1,0,2,52,57,109,52721.0
+1393,Bump lint-staged from 11.2.0 to 11.2.4,2128,True,False,,2021-10-26T19:02:16Z,0,0,1,2,15,7,22,0
+1385,Bump eslint from 7.32.0 to 8.0.1,9652,True,False,,2021-10-25T19:02:25Z,0,0,1,2,75,110,185,0
+1383,Bump lint-staged from 11.2.0 to 11.2.3,1965,True,False,,2021-10-25T19:02:12Z,0,0,1,2,5,5,10,0
+1389,Bump postcss from 8.3.9 to 8.3.10,1944,True,True,2021-10-21T08:54:01Z,2021-10-21T08:54:01Z,0,1,0,2,16,11,27,49921.0
+1386,Added description to package.json,218,True,True,2021-10-18T13:00:13Z,2021-10-18T13:00:13Z,0,2,1,1,1,0,1,250808.0
+1387,Update animate.css,0,True,False,,2021-10-18T12:58:28Z,0,2,0,1,5,5,10,0
+1384,Bump eslint from 7.32.0 to 8.0.0,9967,True,False,,2021-10-14T19:02:11Z,0,0,1,2,75,110,185,0
+1377,add awesome badge,262,True,False,,2021-10-13T16:45:15Z,0,2,2,1,1,1,2,0
+1381,Bump postcss from 8.3.6 to 8.3.9,2302,True,True,2021-10-12T10:39:31Z,2021-10-12T10:39:31Z,0,1,0,2,12,12,24,574628.0
+1372,Bump lint-staged from 11.1.2 to 11.2.0,2382,True,True,2021-10-11T18:19:04Z,2021-10-11T18:19:04Z,0,1,0,2,45,46,91,602184.0
+1380,Bump autoprefixer from 10.3.6 to 10.3.7,1752,True,True,2021-10-11T18:18:14Z,2021-10-11T18:18:14Z,0,1,0,2,33,40,73,515771.0
+1367,Bump postcss from 8.3.6 to 8.3.8,2116,True,False,,2021-10-05T19:02:26Z,0,0,1,2,15,15,30,0
+1376,Add badge for huntr.dev bounty program,454,True,False,,2021-10-05T10:31:08Z,0,2,1,1,1,1,2,0
+1373,Fix Badge License and Rename Files,187,True,False,,2021-10-05T08:50:58Z,0,2,1,2,2,2,4,0
+1361,Bump nth-check from 2.0.0 to 2.0.1,2340,True,True,2021-09-29T08:11:46Z,2021-09-29T08:11:46Z,0,1,0,1,3,3,6,579138.0
+1368,Bump autoprefixer from 10.3.5 to 10.3.6,1732,True,True,2021-09-29T08:10:39Z,2021-09-29T08:10:39Z,0,1,0,2,22,15,37,133698.0
+1366,Bump postcss-cli from 8.3.1 to 9.0.0,2204,True,False,,2021-09-28T19:01:51Z,0,0,1,2,66,63,129,0
+1362,Bump postcss from 8.3.6 to 8.3.7,2271,True,False,,2021-09-27T09:35:01Z,0,0,1,2,16,11,27,0
+1363,Bump autoprefixer from 10.3.4 to 10.3.5,1655,True,True,2021-09-27T09:32:58Z,2021-09-27T09:32:58Z,0,1,0,2,35,30,65,397788.0
+1360,Sass build,100,True,False,,2021-09-20T16:28:54Z,0,2,2,1,131,0,131,0
+1352,Bump autoprefixer from 10.3.3 to 10.3.4,1728,True,True,2021-09-20T13:46:32Z,2021-09-20T13:46:32Z,0,1,0,2,5,5,10,1449867.0
+1357,Bump prettier from 2.3.2 to 2.4.1,2485,True,True,2021-09-17T09:28:56Z,2021-09-17T09:28:57Z,0,1,0,2,5,5,10,51989.0
+1354,Bump prettier from 2.3.2 to 2.4.0,2045,True,False,,2021-09-16T19:02:30Z,0,0,1,2,5,5,10,0
+1353,Changed,0,True,False,,2021-09-07T08:37:28Z,0,2,0,1,1,1,2,0
+1351,Update animate.css,0,True,False,,2021-09-01T07:37:11Z,0,1,0,1,1,1,2,0
+1350,Bump autoprefixer from 10.3.2 to 10.3.3,1675,True,True,2021-08-29T11:21:53Z,2021-08-29T11:21:53Z,0,1,0,2,10,10,20,231595.0
+1348,Bump autoprefixer from 10.3.1 to 10.3.2,1814,True,True,2021-08-26T11:00:28Z,2021-08-26T11:00:28Z,0,1,0,2,33,33,66,230307.0
+1349,Bump husky from 7.0.1 to 7.0.2,1766,True,True,2021-08-26T11:00:07Z,2021-08-26T11:00:07Z,0,1,0,2,5,5,10,57457.0
+1347,Bump cssnano from 5.0.7 to 5.0.8,1954,True,True,2021-08-18T21:59:47Z,2021-08-18T21:59:47Z,0,1,0,2,21,58,79,10654.0
+1271,Update readme to include import example,0,True,True,2021-08-13T15:54:26Z,2021-08-13T15:54:26Z,5,2,3,2,13,4,17,9635626.0
+1346,Bump path-parse from 1.0.6 to 1.0.7,1488,True,True,2021-08-13T15:50:55Z,2021-08-13T15:50:55Z,0,1,0,1,3,3,6,69192.0
+1344,Bump lint-staged from 11.1.1 to 11.1.2,1750,True,True,2021-08-09T09:03:13Z,2021-08-09T09:03:13Z,0,1,0,2,7,21,28,223262.0
+1342,Update contact info,0,True,True,2021-08-03T11:47:52Z,2021-08-03T11:47:52Z,0,1,0,5,5,5,10,16.0
+1340,Bump eslint from 7.31.0 to 7.32.0,4480,True,True,2021-08-03T10:00:43Z,2021-08-03T10:00:43Z,0,1,1,2,7,22,29,53932.0
+1341,Bump markdown-it from 12.1.0 to 12.2.0,1809,True,True,2021-08-03T09:57:30Z,2021-08-03T09:57:30Z,0,1,0,2,95,180,275,53724.0
+1338,Bump lint-staged from 10.5.4 to 11.1.1,2617,True,False,,2021-07-29T19:10:42Z,0,1,1,2,77,96,173,0
+1325,Bump husky from 4.3.8 to 7.0.1,3608,True,False,,2021-07-29T19:10:42Z,0,1,1,2,5,94,99,0
+1339,Update dependencies,94,True,True,2021-07-29T19:10:28Z,2021-07-29T19:10:28Z,0,1,0,5,26,28,54,7.0
+1283,Bump postcss-import from 12.0.1 to 14.0.2,3061,True,True,2021-07-29T18:16:05Z,2021-07-29T18:16:05Z,0,1,1,2,8,14,22,6873018.0
+1333,Bump eslint from 7.30.0 to 7.31.0,3685,True,True,2021-07-27T12:02:04Z,2021-07-27T12:02:04Z,0,1,2,2,10,10,20,665989.0
+1334,Bump postcss from 8.3.5 to 8.3.6,2059,True,True,2021-07-27T11:58:27Z,2021-07-27T11:58:27Z,0,1,0,2,5,5,10,492959.0
+1335,Bump cssnano from 5.0.6 to 5.0.7,2206,True,True,2021-07-27T11:58:00Z,2021-07-27T11:58:00Z,0,1,0,2,16,10,26,492917.0
+1336,Bump lint-staged from 10.5.4 to 11.1.0,2467,True,False,,2021-07-26T19:02:26Z,0,0,1,2,77,96,173,0
+1330,Bump lint-staged from 10.5.4 to 11.0.1,2344,True,False,,2021-07-22T19:02:14Z,0,0,1,2,77,96,173,0
+1328,Bump postcss-prefixer from 2.1.2 to 2.1.3,1510,True,True,2021-07-15T15:54:28Z,2021-07-15T15:54:28Z,1,1,1,2,81,9,90,247922.0
+1329,Bump autoprefixer from 10.2.6 to 10.3.1,2435,True,True,2021-07-15T15:50:35Z,2021-07-15T15:50:35Z,0,1,0,2,335,553,888,247679.0
+1281,Bump lint-staged from 10.5.4 to 11.0.0,2198,True,False,,2021-07-13T19:02:19Z,0,0,2,2,400,637,1037,0
+1306,Bump cssnano from 4.1.10 to 5.0.6,3601,True,False,,2021-07-06T11:26:52Z,0,1,2,1,325,543,868,0
+1320,Bump husky from 4.3.8 to 7.0.0,3637,True,False,,2021-07-06T10:28:57Z,0,1,3,2,5,94,99,0
+1317,"👌 IMPROVE: update CSSNano, add Security Policy",36,True,True,2021-07-06T10:26:57Z,2021-07-06T10:26:57Z,2,2,2,2,7,2,9,922165.0
+1318,Add Security Policy,85,True,False,,2021-07-06T10:24:50Z,1,2,3,2,7,2,9,0
+1217,Dark Mode,227,True,True,2021-07-06T10:12:50Z,2021-07-06T10:12:50Z,6,3,11,6,170,8,178,15365330.0
+1315,(docs) update 01-usage.md,68,True,True,2021-07-06T10:08:44Z,2021-07-06T10:08:44Z,1,2,0,1,4,4,8,997543.0
+1319,Bump prettier from 2.3.1 to 2.3.2,2253,True,True,2021-07-06T10:04:46Z,2021-07-06T10:04:46Z,0,1,0,2,5,5,10,658987.0
+1321,Bump markdown-it from 12.0.6 to 12.1.0,1698,True,True,2021-07-06T10:04:22Z,2021-07-06T10:04:22Z,0,1,0,2,5,5,10,399724.0
+1324,Bump color-string from 1.5.3 to 1.5.5,2972,True,True,2021-07-06T10:03:39Z,2021-07-06T10:03:39Z,1,1,0,1,3,3,6,511.0
+1323,Bump eslint from 7.29.0 to 7.30.0,3862,True,True,2021-07-06T09:54:21Z,2021-07-06T09:54:21Z,0,1,0,2,20,5,25,53550.0
+1255,Bump husky from 4.3.8 to 6.0.0,3439,True,False,,2021-07-01T19:02:13Z,0,0,1,2,5,94,99,0
+1296,(docs) update 01-usage.md,68,True,False,,2021-06-24T21:03:05Z,1,2,1,1,2,2,4,0
+1312,New UI Changes Added,0,True,False,,2021-06-19T21:00:12Z,0,2,2,3,11,9,20,0
+1313,Bump eslint from 7.27.0 to 7.29.0,6135,True,True,2021-06-19T20:58:22Z,2021-06-19T20:58:22Z,0,1,0,2,17,29,46,1086.0
+1301,(docs) 09-license-contributing.md,29,True,True,2021-06-19T20:57:53Z,2021-06-19T20:57:53Z,1,2,0,1,2,2,4,1114289.0
+1300,(docs) 08-accessibility.md,28,True,True,2021-06-19T20:56:04Z,2021-06-19T20:56:04Z,1,2,0,1,1,1,2,1114349.0
+1299,(docs) update 06-migration.md,15,True,True,2021-06-19T20:55:15Z,2021-06-19T20:55:15Z,1,2,0,1,3,3,6,1114495.0
+1298,(docs) update 03-best-practices.md,9,True,True,2021-06-19T20:54:02Z,2021-06-19T20:54:02Z,1,2,0,1,1,1,2,1114710.0
+1297,(docs) update 02-utilities.md,31,True,True,2021-06-19T20:53:22Z,2021-06-19T20:53:22Z,1,2,0,1,2,2,4,1114876.0
+1292,Rotation is changed,0,True,False,,2021-06-19T20:48:40Z,0,3,3,1,1,1,2,0
+1276,Update animate.css,0,True,False,,2021-06-19T20:42:24Z,1,2,3,1,55,0,55,0
+1302,Bump eslint from 7.27.0 to 7.28.0,4484,True,False,,2021-06-19T20:40:19Z,0,1,2,2,20,32,52,0
+1236,📝 Fixed typo,44,True,True,2021-06-19T20:39:33Z,2021-06-19T20:39:33Z,3,3,3,1,1,1,2,10880268.0
+1303,Bump prettier from 2.3.0 to 2.3.1,2756,True,True,2021-06-19T20:37:54Z,2021-06-19T20:37:54Z,0,1,0,2,5,5,10,1091344.0
+1308,Bump glob-parent from 5.1.1 to 5.1.2,2276,True,True,2021-06-19T20:37:38Z,2021-06-19T20:37:38Z,0,1,1,1,3,3,6,662191.0
+1311,Bump postcss from 8.3.0 to 8.3.5,3189,True,True,2021-06-19T20:37:02Z,2021-06-19T20:37:02Z,0,1,0,2,5,5,10,178474.0
+1310,Bump postcss from 8.3.0 to 8.3.4,3252,True,False,,2021-06-17T19:02:31Z,0,0,1,2,5,5,10,0
+1309,Bump postcss from 8.3.0 to 8.3.3,3271,True,False,,2021-06-15T05:14:50Z,0,0,1,2,5,5,10,0
+1305,Bump postcss from 8.3.0 to 8.3.2,3182,True,False,,2021-06-14T05:46:30Z,0,0,1,2,5,5,10,0
+1294,Bump cssnano from 4.1.10 to 5.0.5,3546,True,False,,2021-06-11T05:07:54Z,0,0,1,2,325,543,868,0
+1304,Bump postcss from 8.3.0 to 8.3.1,3248,True,False,,2021-06-11T05:06:51Z,0,0,1,2,5,5,10,0
+1280,Bump prettier from 2.2.1 to 2.3.0,2182,True,True,2021-05-31T09:20:29Z,2021-05-31T09:20:29Z,0,1,0,2,5,5,10,1828206.0
+1291,Bump browserslist from 4.16.3 to 4.16.6,2094,True,False,,2021-05-31T09:18:58Z,0,0,1,1,19,19,38,0
+1293,Bump autoprefixer from 10.2.5 to 10.2.6,1967,True,True,2021-05-31T09:18:15Z,2021-05-31T09:18:15Z,0,1,0,2,32,32,64,360300.0
+1290,Bump cssnano from 4.1.10 to 5.0.4,3417,True,False,,2021-05-31T05:21:23Z,0,0,1,2,347,540,887,0
+1285,Bump hosted-git-info from 2.8.8 to 2.8.9,1825,True,True,2021-05-25T11:16:52Z,2021-05-25T11:16:52Z,0,1,0,1,3,3,6,1170426.0
+1275,Bump cssnano from 4.1.10 to 5.0.2,3266,True,False,,2021-05-25T05:09:36Z,0,0,1,2,347,540,887,0
+1287,Bump postcss from 8.2.10 to 8.3.0,4146,True,True,2021-05-24T10:52:39Z,2021-05-24T10:52:39Z,0,1,0,2,16,11,27,279361.0
+1289,Bump eslint from 7.25.0 to 7.27.0,4923,True,True,2021-05-24T10:42:36Z,2021-05-24T10:42:36Z,0,1,0,2,63,24,87,18800.0
+1282,Bump eslint from 7.25.0 to 7.26.0,3444,True,False,,2021-05-24T05:29:19Z,0,0,1,2,10,10,20,0
+1284,Bump postcss from 8.2.10 to 8.2.15,2499,True,False,,2021-05-21T05:16:41Z,0,0,1,2,10,10,20,0
+1279,"fixed typo, the word 'familiar' spelled incorrectly",13,True,True,2021-05-20T08:11:48Z,2021-05-20T08:11:48Z,0,2,1,1,2,2,4,979441.0
+1278,Bump postcss from 8.2.10 to 8.2.14,2414,True,False,,2021-05-11T05:06:12Z,0,0,1,2,5,5,10,0
+1259,Bump postcss-import from 12.0.1 to 14.0.1,2997,True,False,,2021-05-11T05:05:50Z,0,0,1,2,8,9,17,0
+499,New animation proposal: Float,145,True,False,,2018-01-25T17:06:54Z,0,7,7,6,102,2,104,0
+1274,Bump postcss from 8.2.10 to 8.2.13,2207,True,False,,2021-05-06T05:08:19Z,0,0,1,2,5,5,10,0
+1277,Update animate.css,0,True,False,,2021-05-03T07:44:53Z,0,2,1,1,203,0,203,0
+1265,Bump cssnano from 4.1.10 to 5.0.1,3132,True,False,,2021-04-29T05:18:16Z,0,0,1,2,349,503,852,0
+1270,Bump postcss from 8.2.10 to 8.2.12,2118,True,False,,2021-04-27T05:16:37Z,0,0,1,2,5,5,10,0
+1272,Bump eslint from 7.22.0 to 7.25.0,7954,True,True,2021-04-26T09:18:12Z,2021-04-26T09:18:12Z,1,1,0,2,5,5,10,13787.0
+1264,Bump eslint from 7.22.0 to 7.24.0,6176,True,False,,2021-04-26T05:28:27Z,0,0,1,2,5,5,10,0
+1232,Improve Scroll Style,160,True,False,,2021-04-20T17:16:09Z,0,2,2,1,23,7,30,0
+1263,Bump postcss from 8.2.9 to 8.2.10,2270,True,True,2021-04-20T16:53:57Z,2021-04-20T16:53:57Z,1,1,1,2,5,5,10,732297.0
+1268,Bump markdown-it from 12.0.4 to 12.0.6,2112,True,True,2021-04-20T16:45:50Z,2021-04-20T16:45:50Z,1,1,0,2,5,5,10,126743.0
+1266,Bump markdown-it from 12.0.4 to 12.0.5,1876,True,False,,2021-04-19T05:33:30Z,0,0,1,2,5,5,10,0
+1262,Bump cssnano from 4.1.10 to 5.0.0,3071,True,False,,2021-04-14T05:18:46Z,0,0,1,2,333,505,838,0
+1254,Bump eslint from 7.22.0 to 7.23.0,4063,True,False,,2021-04-12T05:29:30Z,0,0,1,2,5,5,10,0
+1261,Bump cssnano from 4.1.10 to 4.1.11,1608,True,False,,2021-04-12T05:28:30Z,0,0,1,2,15,28,43,0
+1257,Bump postcss from 8.2.8 to 8.2.9,2052,True,True,2021-04-01T11:07:26Z,2021-04-01T11:07:27Z,0,1,0,2,10,10,20,108033.0
+1194,Bump postcss-import from 12.0.1 to 14.0.0,2947,True,False,,2021-04-01T05:36:36Z,0,1,2,2,8,9,17,0
+1251,Bump husky from 4.3.8 to 5.2.0,3257,True,False,,2021-03-30T05:11:21Z,0,0,1,2,5,94,99,0
+1243,Bump husky from 4.3.8 to 5.1.3,3400,True,False,,2021-03-22T05:34:00Z,0,0,1,2,5,94,99,0
+1248,👌 IMPROVE: update fork-corner,156,True,True,2021-03-15T08:14:56Z,2021-03-15T08:14:56Z,1,2,0,1,1,1,2,154837.0
+1247,Bump postcss from 8.2.7 to 8.2.8,1903,True,True,2021-03-15T08:14:02Z,2021-03-15T08:14:03Z,0,1,1,2,5,5,10,443102.0
+1249,Bump eslint from 7.21.0 to 7.22.0,4081,True,True,2021-03-15T08:13:08Z,2021-03-15T08:13:08Z,1,1,0,2,23,11,34,9817.0
+1244,Bump postcss from 8.2.6 to 8.2.7,2141,True,True,2021-03-08T09:36:04Z,2021-03-08T09:36:04Z,0,1,1,2,6,6,12,361003.0
+1245,Bump autoprefixer from 10.2.4 to 10.2.5,1876,True,True,2021-03-08T09:29:21Z,2021-03-08T09:29:21Z,0,1,0,2,32,32,64,14202.0
+1241,Bump husky from 4.3.8 to 5.1.2,3322,True,False,,2021-03-02T05:07:03Z,0,0,1,2,5,94,99,0
+1242,Bump eslint from 7.20.0 to 7.21.0,3554,True,True,2021-03-01T15:16:43Z,2021-03-01T15:16:43Z,0,1,0,2,15,16,31,33749.0
+1240,Bump husky from 4.3.8 to 5.1.1,3182,True,False,,2021-03-01T05:53:51Z,0,0,1,2,5,94,99,0
+1239,Bump husky from 4.3.8 to 5.1.0,3107,True,False,,2021-02-23T05:19:52Z,0,0,1,2,5,94,99,0
+1238,fix: 🐛 allow lint-staged works with .mjs files,103,True,True,2021-02-22T09:50:37Z,2021-02-22T09:50:37Z,0,2,1,1,1,1,2,313813.0
+1231,Bump husky from 4.3.8 to 5.0.9,3076,True,False,,2021-02-22T05:31:58Z,0,0,1,2,5,94,99,0
+1237,Bump eslint from 7.19.0 to 7.20.0,3946,True,True,2021-02-15T09:39:12Z,2021-02-15T09:39:12Z,1,1,0,2,15,15,30,14870.0
+277,Switch to Sass,571,True,False,,2018-07-21T02:03:32Z,0,20,35,87,862,765,1627,0
+1233,Bump postcss from 8.2.5 to 8.2.6,1875,True,True,2021-02-11T09:20:01Z,2021-02-11T09:20:01Z,1,1,0,2,5,5,10,14300.0
+1206,Add Fork Corner on doc site,127,True,True,2021-02-06T11:59:08Z,2021-02-06T11:59:09Z,1,2,1,7,40,14,54,3176240.0
+1205,Docs Improvements,103,True,True,2021-01-04T09:56:35Z,2021-01-04T09:56:35Z,1,2,0,7,14,14,28,317793.0
+1230,Bump lint-staged from 10.5.3 to 10.5.4,1948,True,True,2021-02-08T09:40:52Z,2021-02-08T09:40:52Z,1,1,1,2,5,5,10,15041.0
+1229,Bump postcss from 8.2.4 to 8.2.5,2054,True,True,2021-02-08T09:34:15Z,2021-02-08T09:34:15Z,1,1,0,2,5,5,10,14655.0
+1227,Update 04-javascript.md,66,True,False,,2021-02-06T11:54:22Z,0,2,1,1,1,1,2,0
+1209,Update 04-javascript.md,77,True,True,2021-01-22T09:27:59Z,2021-01-22T09:27:59Z,1,3,2,2,2,2,4,1329524.0
+1225,Bump eslint from 7.18.0 to 7.19.0,5280,True,True,2021-02-01T11:56:56Z,2021-02-01T11:56:56Z,1,1,0,2,5,5,10,21716.0
+1226,Bump autoprefixer from 10.2.3 to 10.2.4,1753,True,True,2021-02-01T11:56:18Z,2021-02-01T11:56:18Z,1,1,0,2,10,10,20,21669.0
+1222,Bump autoprefixer from 10.2.1 to 10.2.3,1840,True,True,2021-01-20T10:19:12Z,2021-01-20T10:19:12Z,0,1,0,2,10,10,20,18305.0
+1219,Bump eslint from 7.17.0 to 7.18.0,5061,True,True,2021-01-18T09:55:38Z,2021-01-18T09:55:38Z,1,1,0,2,13,13,26,14494.0
+1220,Bump husky from 4.3.7 to 4.3.8,1614,True,True,2021-01-18T09:40:33Z,2021-01-18T09:40:34Z,1,1,0,2,5,5,10,13576.0
+1218,Bump postcss from 8.2.3 to 8.2.4,2019,True,True,2021-01-11T14:42:38Z,2021-01-11T14:42:38Z,1,1,0,2,5,5,10,32316.0
+1216,Dark Mode ,227,True,False,,2021-01-09T13:59:55Z,0,1,0,3,219,11,230,0
+1212,Improve demo site copy button ,249,True,True,2021-01-08T12:59:10Z,2021-01-08T12:59:11Z,1,2,2,2,36,11,47,56509.0
+1213,Bump postcss from 8.2.2 to 8.2.3,1979,True,True,2021-01-08T11:18:03Z,2021-01-08T11:18:03Z,0,1,0,2,5,5,10,20999.0
+1214,Bump autoprefixer from 10.2.0 to 10.2.1,2987,True,True,2021-01-08T11:08:09Z,2021-01-08T11:08:09Z,0,1,0,2,5,5,10,20392.0
+1210,Bump husky from 4.3.6 to 4.3.7,1627,True,True,2021-01-07T10:29:22Z,2021-01-07T10:29:22Z,0,1,0,2,46,46,92,17947.0
+1208,Bump autoprefixer from 10.1.0 to 10.2.0,3174,True,True,2021-01-06T09:58:01Z,2021-01-06T09:58:01Z,0,1,0,2,31,31,62,17253.0
+1207,Bump eslint from 7.16.0 to 7.17.0,4056,True,True,2021-01-04T09:55:49Z,2021-01-04T09:55:49Z,0,1,0,2,5,5,10,14924.0
+1202,Doc site Improvements,154,True,False,,2020-12-31T17:04:44Z,5,2,5,6,30,12,42,0
+1203,Bump postcss from 8.2.1 to 8.2.2,2134,True,True,2020-12-30T09:33:25Z,2020-12-30T09:33:25Z,0,1,0,2,5,5,10,14687.0
+1166,Add Fork Corner to Landing Page,117,True,False,,2020-12-29T13:40:24Z,0,1,4,6,28,6,34,0
+1197,Improvement of animationend event,457,True,True,2020-12-29T10:29:02Z,2020-12-29T10:29:02Z,1,3,3,2,4,2,6,785304.0
+1198,Bump markdown-it from 12.0.3 to 12.0.4,1776,True,True,2020-12-21T12:38:29Z,2020-12-21T12:38:29Z,0,1,0,2,5,5,10,24174.0
+1199,Bump eslint from 7.15.0 to 7.16.0,4112,True,True,2020-12-21T11:42:51Z,2020-12-21T11:42:51Z,0,1,0,2,20,65,85,20820.0
+1191,Bump postcss from 8.1.14 to 8.2.1,2418,True,True,2020-12-16T09:27:12Z,2020-12-16T09:27:12Z,0,1,0,2,5,10,15,532726.0
+1176,Bump postcss-import from 12.0.1 to 13.0.0,2280,True,False,,2020-12-15T05:29:02Z,0,0,1,2,8,14,22,0
+1189,Bump autoprefixer from 9.8.6 to 10.1.0,3883,True,True,2020-12-14T18:06:49Z,2020-12-14T18:06:49Z,0,1,0,2,44,26,70,544345.0
+1192,Bump postcss-cli from 7.1.2 to 8.3.1,2628,True,True,2020-12-14T18:02:00Z,2020-12-14T18:02:01Z,0,1,0,2,106,99,205,43975.0
+1193,Bump husky from 4.3.5 to 4.3.6,1616,True,True,2020-12-14T09:29:13Z,2020-12-14T09:29:13Z,0,1,0,2,5,5,10,13191.0
+1177,Bump postcss-cli from 7.1.2 to 8.3.0,2444,True,False,,2020-12-14T05:49:08Z,0,0,1,2,106,99,205,0
+1190,Bump postcss from 8.1.14 to 8.2.0,2223,True,False,,2020-12-10T05:28:29Z,0,0,1,2,5,5,10,0
+1179,"Add ""return"" operator to Promise in animateCSS",30,True,True,2020-12-08T14:10:23Z,2020-12-08T14:10:23Z,2,3,4,4,5,5,10,952237.0
+1180,Bump autoprefixer from 9.8.6 to 10.0.4,3146,True,False,,2020-12-08T10:54:27Z,0,0,1,2,39,26,65,0
+1187,Bump husky from 4.3.0 to 4.3.5,1824,True,True,2020-12-08T10:51:10Z,2020-12-08T10:51:10Z,0,1,0,2,5,5,10,19353.0
+1188,Bump markdown-it from 12.0.2 to 12.0.3,2432,True,True,2020-12-08T10:41:17Z,2020-12-08T10:41:17Z,0,1,0,2,10,10,20,18747.0
+1185,Bump lint-staged from 10.5.2 to 10.5.3,1751,True,True,2020-12-07T08:15:20Z,2020-12-07T08:15:20Z,0,1,0,2,5,5,10,8519.0
+1186,Bump eslint from 7.14.0 to 7.15.0,2729,True,True,2020-12-07T08:14:49Z,2020-12-07T08:14:50Z,0,1,0,2,41,49,90,8474.0
+1183,Bump postcss from 8.1.10 to 8.1.14,2326,True,True,2020-12-04T15:02:15Z,2020-12-04T15:02:15Z,0,1,0,2,10,16,26,34348.0
+1182,Bump postcss from 8.1.10 to 8.1.13,2189,True,False,,2020-12-04T05:29:51Z,0,0,1,2,10,10,20,0
+1181,Bump prettier from 2.2.0 to 2.2.1,2258,True,True,2020-11-30T16:44:03Z,2020-11-30T16:44:03Z,0,1,0,2,5,5,10,39619.0
+1178,Bump autoprefixer from 9.8.6 to 10.0.3,2862,True,False,,2020-11-30T05:43:32Z,0,0,1,2,39,26,65,0
+1175,Bump autoprefixer from 9.8.6 to 10.0.2,2732,True,False,,2020-11-27T05:28:59Z,0,0,1,2,39,26,65,0
+1157,Bump markdown-it from 11.0.1 to 12.0.2,2465,True,True,2020-11-26T10:38:15Z,2020-11-26T10:38:15Z,0,1,0,2,11,6,17,2695533.0
+1174,Bump postcss and postcss-header,5188,True,True,2020-11-25T17:38:15Z,2020-11-25T17:38:15Z,1,1,0,2,33,310,343,129807.0
+1173,Bump lint-staged from 10.5.1 to 10.5.2,1676,True,True,2020-11-24T10:43:45Z,2020-11-24T10:43:45Z,0,1,0,2,5,5,10,18592.0
+1171,Bump postcss and postcss-header,4994,True,False,,2020-11-24T05:34:50Z,0,0,1,2,33,310,343,0
+1172,Bump eslint from 7.13.0 to 7.14.0,4065,True,True,2020-11-23T10:51:58Z,2020-11-23T10:51:58Z,0,1,0,2,5,5,10,18274.0
+1169,Bump prettier from 2.1.2 to 2.2.0,2168,True,True,2020-11-23T10:51:19Z,2020-11-23T10:51:19Z,0,1,0,2,5,5,10,278220.0
+1170,Bump postcss and postcss-header,5007,True,False,,2020-11-23T05:46:54Z,0,0,1,2,48,310,358,0
+1168,Bump postcss and postcss-header,5068,True,False,,2020-11-20T05:36:04Z,0,0,1,2,48,310,358,0
+1164,Bump postcss and postcss-header,5039,True,False,,2020-11-11T05:33:07Z,0,0,1,2,48,310,358,0
+1167,Bump eslint from 7.12.1 to 7.13.0,2548,True,True,2020-11-10T12:28:02Z,2020-11-10T12:28:02Z,0,1,0,2,5,5,10,110133.0
+1159,Bump postcss and postcss-header,4966,True,False,,2020-11-06T05:31:06Z,0,0,1,2,48,310,358,0
+1163,Bump lint-staged from 10.5.0 to 10.5.1,1575,True,True,2020-11-02T09:36:52Z,2020-11-02T09:36:52Z,0,1,0,2,32,32,64,13979.0
+1162,animal.css,0,True,False,,2020-10-30T10:02:14Z,0,1,0,2,63,0,63,0
+1160,Bump lint-staged from 10.4.2 to 10.5.0,1599,True,True,2020-10-27T11:34:16Z,2020-10-27T11:34:16Z,0,1,0,2,5,5,10,21700.0
+1161,Bump eslint from 7.12.0 to 7.12.1,2352,True,True,2020-10-27T10:30:27Z,2020-10-27T10:30:27Z,0,1,0,2,10,10,20,17841.0
+1158,Bump eslint from 7.11.0 to 7.12.0,6232,True,True,2020-10-26T14:09:18Z,2020-10-26T14:09:18Z,0,1,0,2,10,10,20,29782.0
+1156,Bump postcss and postcss-header,4964,True,False,,2020-10-26T05:53:31Z,0,0,1,2,48,310,358,0
+1153,Bump markdown-it from 11.0.1 to 12.0.1,2356,True,False,,2020-10-26T05:52:46Z,0,0,1,2,11,6,17,0
+1151,Bump postcss and postcss-header,5163,True,False,,2020-10-23T05:23:14Z,0,0,1,2,48,310,358,0
+830,Add Heart-Beat animation,328,True,True,2018-07-21T15:55:44Z,2018-07-21T15:55:44Z,2,5,16,7,6985,3,6988,637869.0
+1147,Bump markdown-it from 11.0.1 to 12.0.0,2264,True,False,,2020-10-20T05:07:51Z,0,0,1,2,11,6,17,0
+1134,Bump postcss and postcss-header,5190,True,False,,2020-10-19T05:49:30Z,0,0,1,2,48,310,358,0
+1150,Bump lint-staged from 10.4.0 to 10.4.2,1766,True,True,2020-10-19T05:49:22Z,2020-10-19T05:49:22Z,0,1,0,2,5,5,10,40.0
+1148,Hoe rotating scroll bar.,67,True,False,,2020-10-19T05:48:53Z,0,2,0,6,244,0,244,0
+1149,Create animal.css,12,True,False,,2020-10-19T05:48:35Z,0,2,0,2,63,0,63,0
+1144,Bump eslint from 7.10.0 to 7.11.0,4043,True,True,2020-10-12T09:31:15Z,2020-10-12T09:31:15Z,0,1,0,2,11,6,17,13365.0
+1145,change background,0,True,False,,2020-10-12T09:30:14Z,0,2,0,1,24,0,24,0
+1142,line new,0,True,False,,2020-10-08T13:12:56Z,0,2,0,1,1,1,2,0
+1135,Improved docs,0,True,False,,2020-10-02T09:18:37Z,0,2,0,1,1,1,2,0
+1136,rotate3d-update,0,True,False,,2020-10-02T09:18:01Z,0,2,0,1,1,1,2,0
+1138,Update README.md(please accept my pull req.),29,True,False,,2020-10-02T09:17:29Z,0,2,1,1,4,3,7,0
+1131,HTTPS link to opensource.org/licenses/MIT,0,True,True,2020-10-01T10:18:35Z,2020-10-01T10:18:35Z,0,3,2,1,1,1,2,174262.0
+1128,Bump postcss and postcss-header,5283,True,False,,2020-10-01T10:22:36Z,0,0,1,2,48,310,358,0
+1130,Bump postcss from 7.0.34 to 7.0.35,1732,True,True,2020-10-01T10:19:26Z,2020-10-01T10:19:26Z,1,1,0,2,5,5,10,190308.0
+1133,Improving it to make it more readable animate.compat.css to Animate.compat.css,0,True,False,,2020-10-01T05:20:06Z,0,2,0,1,1,1,2,0
+1132,improvement Docs + Bug fixing,0,True,False,,2020-09-30T13:51:43Z,0,2,1,1,5,0,5,0
+1129,Bump eslint from 7.9.0 to 7.10.0,3854,True,True,2020-09-28T13:42:06Z,2020-09-28T13:42:06Z,0,1,0,2,18,18,36,28431.0
+1125,greyed color,0,True,False,,2020-09-27T16:58:15Z,0,3,1,1,1,1,2,0
+1124,Update animate.css,7,True,False,,2020-09-25T10:00:20Z,0,2,0,1,1,0,1,0
+1122,"docs: Fix simple typo, globaly -> globally",136,True,True,2020-09-23T13:17:03Z,2020-09-23T13:17:03Z,2,2,3,3,4,4,8,62112.0
+1120,Small README Fixes,168,True,True,2020-09-21T08:28:52Z,2020-09-21T08:28:52Z,1,2,0,1,3,3,6,52538.0
+1096,Suggesting using addEventListener once option in docs,186,True,True,2020-09-17T18:16:13Z,2020-09-17T18:16:13Z,1,3,3,1,2,4,6,1787784.0
+1114,Bump lint-staged from 10.3.0 to 10.4.0,1801,True,True,2020-09-17T11:13:31Z,2020-09-17T11:13:31Z,0,1,0,2,5,5,10,21753.0
+1116,Bump postcss from 7.0.32 to 7.0.34,1959,True,True,2020-09-17T11:12:36Z,2020-09-17T11:12:37Z,0,1,0,2,5,5,10,21659.0
+1113,Bump prettier from 2.1.1 to 2.1.2,2686,True,True,2020-09-16T18:50:14Z,2020-09-16T18:50:15Z,0,1,0,2,5,5,10,49129.0
+1112,Bump markdown-it from 11.0.0 to 11.0.1,1885,True,True,2020-09-15T09:28:28Z,2020-09-15T09:28:28Z,0,1,0,2,5,5,10,14439.0
+1111,Bump eslint from 7.8.1 to 7.9.0,4571,True,True,2020-09-14T09:43:42Z,2020-09-14T09:43:42Z,1,1,0,2,5,5,10,15464.0
+1109,Bump husky from 4.2.5 to 4.3.0,1846,True,True,2020-09-08T06:28:47Z,2020-09-08T06:28:47Z,0,1,0,2,8,19,27,3975.0
+1108,Fix Open Graph Errors,120,True,True,2020-09-07T16:27:37Z,2020-09-07T16:27:37Z,0,2,0,3,5,4,9,1407.0
+1106,Latest Updates for Animate.css v4,180,True,True,2020-09-07T11:12:06Z,2020-09-07T11:12:06Z,2,3,5,8,48,21,69,62406.0
+1105,version updated,0,True,False,,2020-09-07T08:53:44Z,0,2,2,1,1,1,2,0
+1107,updated to latest version,0,True,True,2020-09-07T08:46:54Z,2020-09-07T08:46:55Z,1,2,0,2,2,2,4,50339.0
+1104,Bump lint-staged from 10.2.13 to 10.3.0,1648,True,True,2020-09-04T09:28:35Z,2020-09-04T09:28:35Z,0,1,0,2,5,5,10,15578.0
+1101,Bump eslint from 7.8.0 to 7.8.1,2344,True,True,2020-09-02T10:05:10Z,2020-09-02T10:05:10Z,0,1,0,2,16,10,26,16847.0
+1099,Bump postcss-cli from 7.1.1 to 7.1.2,1777,True,True,2020-09-01T12:19:31Z,2020-09-01T12:19:31Z,0,1,0,2,10,10,20,20819.0
+1100,Bump eslint from 7.7.0 to 7.8.0,6055,True,True,2020-09-01T12:18:44Z,2020-09-01T12:18:44Z,0,1,0,2,28,17,45,20757.0
+1043,Set 0 Opacity to Out animation classes,50,True,True,2020-04-21T13:54:35Z,2020-04-21T13:54:35Z,1,4,17,7,71,3692,3763,69050.0
+1095,Bump prettier from 2.1.0 to 2.1.1,2891,True,True,2020-08-26T08:02:13Z,2020-08-26T08:02:13Z,0,1,0,2,5,5,10,9242.0
+1094,Bump lint-staged from 10.2.11 to 10.2.13,2089,True,True,2020-08-26T08:01:49Z,2020-08-26T08:01:50Z,0,1,0,2,36,25,61,9240.0
+1093,Bump prettier from 2.0.5 to 2.1.0,2287,True,True,2020-08-25T13:16:04Z,2020-08-25T13:16:04Z,0,1,0,2,5,5,10,27965.0
+1090,Bump eslint from 7.6.0 to 7.7.0,4497,True,True,2020-08-17T10:01:36Z,2020-08-17T10:01:36Z,0,1,0,2,5,5,10,16497.0
+1089,updates CONTRIBUTING.md,50,True,True,2020-08-13T15:39:37Z,2020-08-13T15:39:38Z,9,3,1,1,15,0,15,550845.0
+1082,Adds animate__infinite to docs. Fixes #1081,0,True,True,2020-07-13T08:43:20Z,2020-07-13T08:43:20Z,4,2,0,3,23,15,38,136799.0
+502,Move files to dist directory,14,True,False,,2017-12-10T04:23:53Z,0,3,5,4,6,6,12,0
+1085,Adds iOS shake animation,50,True,False,,2020-08-12T08:35:23Z,0,3,5,7,74,3,77,0
+243,Fix bower version,238,True,True,2014-07-08T18:45:26Z,2014-07-08T18:45:26Z,0,2,0,2,2,2,4,1426.0
+1080,Correct spelling of GitHub,0,True,True,2020-07-09T18:28:36Z,2020-07-09T18:28:36Z,0,2,1,1,1,1,2,7741.0
+1074,Create Dependabot config file,722,True,True,2020-06-15T15:21:40Z,2020-06-15T15:21:40Z,1,2,2,1,10,0,10,8880.0
+1071,Bump eslint from 6.8.0 to 7.2.0,10983,True,True,2020-06-15T11:33:11Z,2020-06-15T11:33:11Z,0,1,0,1,1,1,2,233542.0
+1072,Bump markdown-it from 10.0.0 to 11.0.0,3454,True,True,2020-06-15T11:25:48Z,2020-06-15T11:25:48Z,0,1,0,1,1,1,2,233073.0
+1069,Fix broken links and update docs topics structure,54,True,True,2020-06-09T14:40:29Z,2020-06-09T14:40:30Z,0,1,0,6,42,28,70,27.0
+1064,Documentation fix.,50,True,True,2020-05-29T11:44:31Z,2020-05-29T11:44:31Z,1,2,1,1,3,3,6,570779.0
+1058,Removes unnecessary files from npm,258,True,True,2020-05-11T12:06:24Z,2020-05-11T12:06:24Z,0,1,0,1,7,1,8,181.0
+1061,Removed prefix from animation class name,73,True,False,,2020-05-12T17:32:08Z,1,2,3,1,1,1,2,0
+1053,Community Discord Server ,298,True,False,,2020-05-08T08:31:48Z,0,3,2,1,4,0,4,0
+1051,Updated CDN URL,0,True,True,2020-05-08T11:22:32Z,2020-05-08T11:22:33Z,1,4,8,1,1,1,2,66079.0
+1054,Back exists → Back exits,181,True,True,2020-05-08T08:24:09Z,2020-05-08T08:24:09Z,0,2,1,3,3,3,6,4314.0
+1052,Fix for 'Edit this on Github' links,106,True,True,2020-05-07T18:19:43Z,2020-05-07T18:19:43Z,2,3,6,3,12,12,24,1789.0
+1050,v4 release,692,True,True,2020-05-07T15:42:34Z,2020-05-07T15:42:34Z,1,7,8,93,4720,1372,6092,7707.0
+1046,Feature/new demo site,749,True,True,2020-05-05T19:29:13Z,2020-05-05T19:29:13Z,4,10,27,35,2816,280,3096,863595.0
+1047,Update example code in README.md,292,True,False,,2020-04-29T17:39:43Z,0,2,2,1,4,0,4,0
+842,kill bower,34,True,False,,2020-04-21T10:47:28Z,0,3,8,2,4,9,13,0
+767,Animate.css Builder Web Version (Fixed),107,True,False,,2020-04-21T10:49:38Z,0,3,7,3,557,145,702,0
+980,"Added Press, shakeY and Refactory in styles in transform-origin",468,True,False,,2020-04-21T10:43:02Z,1,3,8,21,217,144,361,0
+743,New back in/out animations added,40,True,False,,2020-04-21T10:25:58Z,1,4,21,12,509,2,511,0
+981,"Update with shakeX, shakeY and press :hammer:",110,True,False,,2020-04-20T15:12:56Z,1,3,2,2,9,7,16,0
+901,Improved animations,281,True,True,2020-04-20T14:46:02Z,2020-04-20T14:46:02Z,3,4,4,15,315,270,585,39709043.0
+1029,Animate.css v4 Updates,245,True,True,2020-04-20T10:30:58Z,2020-04-20T10:30:58Z,24,2,2,11,295,35,330,4198008.0
+1040,Add rotateClockwise & rotateCounterClockwise Class,53,True,False,,2020-04-10T14:30:09Z,0,2,2,4,37,1,38,0
+1033,Add contribution guidelines,357,True,True,2020-04-10T14:21:00Z,2020-04-10T14:21:00Z,2,3,0,1,14,0,14,1985428.0
+1039,Add rotateClockwise & rotateCounterClockwise Class,53,True,False,,2020-03-29T13:19:53Z,0,1,1,4,37,1,38,0
+1037,Add RotationLeft & RotationRight Class,53,True,False,,2020-03-28T17:37:13Z,0,5,2,4,40,5,45,0
+1036,Add RotationLeft & RotationRight Class,53,True,False,,2020-03-28T09:03:25Z,0,2,2,3,35,1,36,0
+1038,Add RotationLeft & RotationRight Class,26,True,False,,2020-03-29T12:21:54Z,1,3,2,4,37,1,38,0
+1018,updated animateCSS function,79,True,False,,2020-03-24T18:50:55Z,1,3,5,1,10,12,22,0
+1023,Improved animations,19,True,False,,2020-03-24T18:39:16Z,0,5,1,14,301,268,569,0
+1005,simplifies code contributions by fully automating dev setup with Gitpod.,470,True,False,,2020-03-20T20:13:07Z,1,3,4,2,33,23,56,0
+936,Added fading diagonal animations,110,True,False,,2020-03-20T20:07:15Z,0,4,14,8,112,0,112,0
+1030,added size badge,0,True,False,,2020-03-18T04:46:49Z,0,1,3,1,2,1,3,0
+1027,added lightSpeedInLeft and Right as separate.,208,True,False,,2020-02-21T13:55:09Z,0,2,3,6,143,18,161,0
+1019,Delay,294,True,False,,2020-03-01T17:58:25Z,0,2,1,2,45,1,46,0
+983,issue resolved,58,True,False,,2019-10-13T13:05:10Z,0,3,2,2,2,2,4,0
+1014,Numbered the Contribution Instructions in Line 215,0,True,False,,2020-01-23T22:25:13Z,0,2,1,1,5,1,6,0
+972,HTTPS relevant links on README,23,True,True,2019-12-07T14:53:22Z,2019-12-07T14:53:22Z,2,3,5,1,3,3,6,8319155.0
+923,Update README.md,88,True,False,,2019-12-07T15:06:47Z,2,3,3,1,13,6,19,0
+963,Update README.md,89,True,False,,2019-12-07T15:00:36Z,0,2,1,1,2,2,4,0
+964,Added a featherFloatIn and featherFloatOut animation to function in a…,11,True,False,,2019-12-07T14:59:23Z,0,3,4,6,199,30,229,0
+995,Added Extra Select Option for Group,176,True,False,,2019-12-07T14:55:50Z,0,3,2,2,59,17,76,0
+904,Support switch animate by key event up and down on gh-pages branch.,143,True,False,,2019-12-07T14:55:32Z,0,3,2,1,21,3,24,0
+979,Optimizes animations with will-change,633,True,False,,2019-12-07T14:52:03Z,0,3,2,1,1,0,1,0
+982,Add .delay-1s,40,True,True,2019-12-07T14:42:08Z,2019-12-07T14:42:08Z,1,3,1,1,1,0,1,5812968.0
+986,Changes README.md file,0,True,False,,2019-12-07T14:41:03Z,0,2,0,1,1,1,2,0
+990,Dev merge a new branch,11,True,False,,2019-12-07T14:40:43Z,0,6,0,36,5000,801,5801,0
+989,"gulp-util deprecated, migrate",48,True,False,,2019-12-06T10:19:32Z,0,3,1,2,4,4,8,0
+992,Add delay-1s,39,True,False,,2019-11-12T16:33:02Z,0,1,1,1,1,0,1,0
+985,Animated buttons on hover,0,True,False,,2019-10-13T13:02:15Z,0,1,1,2,89,0,89,0
+984,Updated README.md,0,True,False,,2019-10-09T10:22:31Z,0,2,0,1,3,0,3,0
+971,has syntax problem in '@media...' code line,315,True,False,,2019-09-09T13:09:09Z,0,1,0,2,2,2,4,0
+960,Mprmem patch,0,True,False,,2019-07-27T05:54:03Z,0,1,0,1,1,54,55,0
+957,Move browserlist autoprefixer config to package.json,214,True,False,,2019-07-12T17:27:58Z,0,2,1,2,5,1,6,0
+952,Remove `sudo npm` from instructions,212,True,True,2019-07-03T14:24:34Z,2019-07-03T14:24:34Z,0,2,2,1,2,2,4,3153.0
+900,Moved away from gulp to npx + postcss,589,True,True,2019-06-10T19:58:33Z,2019-06-10T19:58:34Z,0,11,2,23,3638,7892,11530,12519940.0
+943,HTTPS link to opensource.org/licenses/MIT,0,True,True,2019-06-05T13:39:57Z,2019-06-05T13:39:57Z,0,2,0,1,1,1,2,24209.0
+891,Hot Fix - Replace Deprecated Gulp-Util,290,True,False,,2019-06-05T03:04:30Z,0,2,6,6,2365,2798,5163,0
+916,amend gitignore,0,True,False,,2019-06-05T02:58:28Z,0,4,2,1,1,0,1,0
+939,Remove npm-shrinkwrap.json file,462,True,True,2019-06-04T22:38:41Z,2019-06-04T22:38:41Z,5,4,20,2,2,6885,6887,450661.0
+940,Update gulp to version 4.0.2 and update js-yaml to --depth 4,8,True,False,,2019-06-03T14:49:40Z,0,4,7,2,203,211,414,0
+941,Update style css,0,True,False,,2019-06-01T17:04:02Z,0,8,0,75,851,3989,4840,0
+917,Onhover class name added,538,True,False,,2019-05-15T01:06:56Z,0,3,5,3,109,61,170,0
+832,Add support for prefers-reduced-motion media query,90,True,True,2018-07-23T22:44:09Z,2018-07-23T22:44:10Z,0,6,16,6,1477,1461,2938,606402.0
+920,Update bounceOutDown.css,13,True,False,,2019-03-22T10:26:08Z,0,1,0,1,1,1,2,0
+889,Experimental - Add Namespace,191,True,False,,2019-01-16T17:07:12Z,0,3,6,5,2290,2453,4743,0
+915, Fixed the name of the function in README.md,73,True,True,2019-02-24T14:54:13Z,2019-02-24T14:54:13Z,0,2,1,1,1,1,2,513.0
+899,Update examples to pure js. Closes #875,110,True,True,2019-01-16T18:51:43Z,2019-01-16T18:51:43Z,0,2,0,1,27,59,86,6771.0
+893,Adds heartBeat animation demo,78,True,True,2019-01-13T20:29:02Z,2019-01-13T20:29:02Z,0,3,2,2,2,1,3,3876717.0
+881,Turn off animations for print media query (#856),102,True,True,2019-01-13T20:25:44Z,2019-01-13T20:25:44Z,0,3,1,3,3,3,6,6935362.0
+542,"Synchronize master / gh-pages branches / demo task (watch, connect)",304,True,False,,2018-10-13T15:06:38Z,0,2,3,6,431,0,431,0
+888,Update DevDependencies!,75,True,True,2018-11-29T19:01:32Z,2018-11-29T19:01:32Z,0,2,4,2,2376,2554,4930,244700.0
+877,Added an 85% transformation to the wobble,52,True,False,,2018-11-29T09:04:02Z,0,3,3,1,5,0,5,0
+885,[New Animation] - specials/stamp,140,True,False,,2018-11-28T22:49:01Z,0,4,5,3,71,6,77,0
+880,"Update ""animate.css"", ""it is""",0,True,False,,2018-11-05T14:01:41Z,0,2,1,1,7,7,14,0
+878,Updated README.md,89,True,False,,2018-10-18T21:04:11Z,0,2,1,1,2,0,2,0
+872,Cleaning up the Readme file,172,True,True,2018-10-17T20:01:51Z,2018-10-17T20:01:51Z,6,2,0,1,28,70,98,355920.0
+862,Fix typo in README.md,0,True,True,2018-10-13T15:04:46Z,2018-10-13T15:04:46Z,1,4,2,1,1,1,2,3346298.0
+865,add yarn in readme.md,47,True,True,2018-10-13T15:04:07Z,2018-10-13T15:04:07Z,0,3,4,1,7,0,7,1500460.0
+870,Added Webpack 4 usage instruction in readme.md,0,True,False,,2018-10-13T15:02:28Z,0,2,1,1,7,0,7,0
+868,Update animate.min.css,0,True,False,,2018-10-04T19:45:45Z,0,3,2,1,2,2,4,0
+859,Update homepage field,55,True,True,2018-08-27T22:56:27Z,2018-08-27T22:56:27Z,0,3,2,1,1,1,2,457135.0
+856,Add a feature to turn off animations for printing as requested.,187,True,True,2018-08-22T13:47:57Z,2018-08-22T13:47:57Z,4,3,6,3,3,3,6,778897.0
+849,Add reverse class,295,True,False,,2018-08-12T15:40:54Z,0,3,2,4,11,2,13,0
+838,Kill bower,13,True,True,2018-07-23T15:33:56Z,2018-07-23T15:33:57Z,0,2,1,1,0,5,5,21982.0
+839,"Revert ""Kill bower""",12,True,True,2018-07-23T15:35:32Z,2018-07-23T15:35:32Z,0,2,2,1,5,0,5,79.0
+840,3.7.1 Updated to gulp.js 4.0.x,289,True,False,,2018-07-24T00:33:48Z,0,2,4,4,439,99,538,0
+834,3.7.0 New Feature: Animation Speed & Animation Delay Classes,601,True,True,2018-07-23T22:25:38Z,2018-07-23T22:25:38Z,0,2,6,9,4195,3952,8147,266607.0
+786,Adding in README.md a pure javascript to create a simple animateCss function in HTMLElement prototype,153,True,False,,2018-07-21T16:16:14Z,0,4,3,1,77,0,77,0
+815,Add a Gulp task to build SCSS version,396,True,False,,2018-07-21T16:11:25Z,0,3,2,1,16,0,16,0
+809,Fix Firefox flip bug (#805),329,True,False,,2018-07-21T14:28:34Z,0,4,8,3,47,28,75,0
+814,Adding two speed classes,45,True,False,,2018-07-21T14:06:03Z,0,5,5,1,6,0,6,0
+790,Minor Updates and Small Fixes,651,True,True,2018-07-19T01:24:17Z,2018-07-19T01:24:17Z,1,2,5,7,79,26,105,12809932.0
+788,verbose opacity,0,True,True,2018-07-19T01:47:01Z,2018-07-19T01:47:01Z,0,2,1,1,0,2,2,12920681.0
+789,Delete verbose code.,0,True,False,,2018-07-19T01:37:35Z,0,2,1,1,0,4,4,0
+796,fix issue with z-index (modal not working #714),114,True,False,,2018-03-14T02:48:33Z,0,2,1,1,1,1,2,0
+765,Added an animation called stretch,66,True,False,,2018-01-29T14:48:59Z,0,4,10,1,67,0,67,0
+678,Add animation chaining to README example,803,True,False,,2018-01-29T17:08:02Z,0,4,6,1,45,5,50,0
+671,explain primitive chaining of animations (in README),369,True,False,,2018-01-29T17:07:48Z,0,2,3,1,11,2,13,0
+573,Update README.md,18,True,True,2018-01-29T17:05:44Z,2018-01-29T17:05:44Z,0,2,0,1,1,0,1,55648219.0
+649,Remove event names for prehistoric browsers from README,420,True,False,,2018-01-29T16:39:52Z,0,2,1,1,2,2,4,0
+762,Add Prettier,251,True,True,2018-01-25T16:46:46Z,2018-01-25T16:46:46Z,3,3,12,35,367,236,603,6111395.0
+693,New Animation: Fold,364,True,False,,2018-01-25T21:17:08Z,0,2,1,12,357,1785,2142,0
+764,Made a better rubberband,88,True,False,,2018-01-25T17:04:57Z,0,2,2,1,4,1,5,0
+461,"replace transform: none to transform: translate3d(0,0,0)",140,True,False,,2018-01-25T17:03:30Z,0,4,6,24,143,156,299,0
+775,Update license year,71,True,True,2018-01-01T12:59:13Z,2018-01-01T12:59:13Z,0,2,1,1,1,1,2,47092.0
+773,Modify the files in gitignore,69,True,True,2017-12-24T15:11:03Z,2017-12-24T15:11:03Z,0,3,0,1,1,0,1,44359.0
+761,Move css properties to appropriate location,31,True,True,2017-12-15T02:13:14Z,2017-12-15T02:13:14Z,0,2,1,6,5,11,16,2781011.0
+495,Adds version without vendor prefixes for use with plugins like Autoprefixer,201,True,False,,2015-12-06T16:34:30Z,0,3,5,2,1379,0,1379,0
+643,Add CDNJS version badge in readme,96,True,True,2017-12-10T04:30:58Z,2017-12-10T04:30:58Z,0,3,4,1,1,1,2,36213128.0
+593,Added option to keep results of animations.,85,True,False,,2017-12-10T04:29:10Z,0,2,1,1,5,0,5,0
+558,Config generator,313,True,False,,2017-12-10T04:27:33Z,0,2,1,5,187,1,188,0
+520,Add cwd option for gulp.src,0,True,False,,2017-12-10T04:27:02Z,0,2,0,1,8,4,12,0
+563,Prevent double execution of code on animation end,297,True,False,,2017-12-10T04:21:43Z,0,2,1,1,8,1,9,0
+586,support es6 syntax & gulp serve,0,True,False,,2017-12-10T04:20:16Z,0,4,2,10,371,128,499,0
+746,added stretch and shake animation,26,True,False,,2017-12-10T04:05:51Z,0,2,1,1,26,0,26,0
+705,"New animations: zoomInFront, zoomOutFront",47,True,False,,2017-12-10T04:01:44Z,0,2,1,7,72,2,74,0
+763,Aclaration in README.md,43,True,False,,2017-12-10T03:28:07Z,0,2,1,1,9,5,14,0
+766,"Update the devDependencies, Fix build failing status, and some minor changes!",388,True,True,2017-12-10T03:18:48Z,2017-12-10T03:18:48Z,0,2,1,4,8,7,15,714829.0
+622,Animate.css Builder Web Version,192,True,False,,2017-12-04T22:49:56Z,2,6,20,3,559,142,701,0
+684,SASS version,119,True,False,,2017-04-10T17:01:37Z,0,4,6,1,183,95,278,0
+759,apsist025350@gmail.com,11,True,False,,2017-11-12T23:01:58Z,0,7,0,75,820,3989,4809,0
+744,Readme file update.,40,True,True,2017-11-10T00:26:02Z,2017-11-10T00:26:02Z,0,2,1,1,21,78,99,2982368.0
+434,changed project name to animate-css in bower.json ,108,True,False,,2017-11-10T00:44:28Z,0,3,2,1,1,1,2,0
+601,Update README.md,53,True,True,2017-11-10T00:39:05Z,2017-11-10T00:39:05Z,0,2,0,1,8,1,9,43678408.0
+651,added sass/eyeglass support,119,True,False,,2017-11-10T00:36:23Z,0,2,2,3,37,3,40,0
+695,Fixed Custom Builds ,828,True,True,2017-11-10T00:33:55Z,2017-11-10T00:33:55Z,1,2,3,2,110,108,218,16653869.0
+721,Edit autoprefixer browser options,55,True,True,2017-11-10T00:26:40Z,2017-11-10T00:26:40Z,0,2,0,1,1,1,2,9981228.0
+745,Add CDN link,275,True,True,2017-11-10T00:21:36Z,2017-11-10T00:21:36Z,0,2,0,1,8,0,8,2881087.0
+740,fixed the issue of overflow scroll,72,True,True,2017-10-02T20:43:47Z,2017-10-02T20:43:47Z,4,4,1,1,4,0,4,1493756.0
+718,"Change animation speed add classes animated-2x, animated-3x ...",0,True,False,,2017-09-11T13:05:23Z,0,2,3,1,26,0,26,0
+708,Fix up headers in README,128,True,False,,2017-07-09T16:54:41Z,0,2,1,1,4,3,7,0
+467,New animation: Squash,157,True,False,,2017-07-29T21:42:02Z,0,5,8,5,161,8,169,0
+722,Update README.md,42,True,False,,2017-07-29T21:38:58Z,0,2,1,1,11,11,22,0
+720,Consistent spacing,39,True,True,2017-07-29T21:28:18Z,2017-07-29T21:28:18Z,0,2,0,1,1,1,2,1594946.0
+694,Add jackInTheBox to gh-pages,78,True,True,2017-07-10T21:56:37Z,2017-07-10T21:56:37Z,0,2,1,3,12,5,17,6422974.0
+691,Custom Built JSON,122,True,False,,2017-07-10T21:25:44Z,0,2,1,1,21,15,36,0
+420,+Added new short fade transitions,74,True,False,,2017-07-10T21:23:39Z,0,3,4,33,1049,4,1053,0
+538,Update README.md,30,True,False,,2017-07-10T21:20:54Z,0,2,1,1,6,12,18,0
+647,recommend using SRI hashes and `crossover` attributes,514,True,True,2017-07-10T20:11:44Z,2017-07-10T20:11:44Z,0,2,1,1,12,2,14,21869670.0
+710,Fix headings,0,True,False,,2017-07-09T16:54:58Z,0,2,1,1,3,3,6,0
+698,Made class list a Markdown table in README,54,True,True,2017-07-09T16:57:58Z,2017-07-09T16:57:58Z,0,2,0,1,78,76,154,5598181.0
+717,Fix headers in readme.md,0,True,False,,2017-07-09T16:55:35Z,0,2,1,1,3,3,6,0
+709,update readme.md,103,True,True,2017-07-09T16:57:11Z,2017-07-09T16:57:12Z,0,3,2,1,1,0,1,2553527.0
+700,format,0,True,False,,2017-07-09T16:53:28Z,0,2,2,1,3,3,6,0
+716,Fix headlines in README.md,65,True,False,,2017-07-09T16:55:16Z,0,2,1,1,4,3,7,0
+704,Format fix for README.md,53,True,False,,2017-07-09T16:54:27Z,0,2,1,1,3,3,6,0
+702,readme markup fix,0,True,False,,2017-07-09T16:54:13Z,0,2,1,1,3,3,6,0
+701,format,0,True,False,,2017-07-09T16:53:34Z,0,2,1,1,3,3,6,0
+687,added a space,42,True,False,,2017-07-09T16:52:58Z,0,2,1,1,1,1,2,0
+689,Fix broken headings in Markdown files,157,True,True,2017-07-09T16:29:16Z,2017-07-09T16:29:16Z,0,2,0,1,3,3,6,7143754.0
+685,fix headings,0,True,True,2017-07-09T16:28:41Z,2017-07-09T16:28:41Z,0,2,0,1,2,2,4,8438682.0
+707,README file minor format issues,128,True,False,,2017-06-09T06:14:43Z,0,1,1,1,4,3,7,0
+631,New Special - jackInTheBox,119,True,True,2017-04-27T12:23:25Z,2017-04-27T12:23:25Z,2,4,6,5,84,1819,1903,20647397.0
+539,#537 will-change performance improvements,0,True,False,,2017-03-15T15:20:32Z,0,3,6,79,878,63,941,0
+517,Updated year in licence,0,True,False,,2017-03-15T00:37:24Z,0,2,1,2,3,3,6,0
+545,gulp: polyfill for old node version,21,True,False,,2017-03-15T00:32:38Z,0,2,1,1,7,0,7,0
+580,added new animation style - advertise,197,True,False,,2017-03-14T14:56:43Z,0,3,5,4,75,1808,1883,0
+572,Add blur animations ,273,True,False,,2017-03-14T14:50:49Z,0,3,3,13,547,1,548,0
+661,added new animation name bye,153,True,False,,2017-03-14T14:37:36Z,0,2,1,1,23,0,23,0
+673,Improvements to animation control,61,True,False,,2017-03-13T12:15:49Z,0,2,1,1,87,1,88,0
+541,#479 fixes bounceIn animations for iOS devices,0,True,False,,2017-03-13T12:01:57Z,0,5,6,6,96,28,124,0
+653,zero,0,True,False,,2017-03-12T15:20:27Z,0,3,3,1,1,0,1,0
+637,"Add Travis CI, Release, devDependencies, and Gitter badges.",73,True,True,2016-09-27T13:45:38Z,2016-09-27T13:45:38Z,2,5,9,2,9,1,10,424863.0
+638,.Melvin,7,True,False,,2016-09-26T03:15:30Z,0,52,0,95,3451,2108,5559,0
+540,Animate.css Builder Web Version,171,True,False,,2016-09-23T09:18:21Z,0,2,1,6,1172,246,1418,0
+605,Replace unnecessary jQuery $(this) to this,221,True,True,2016-09-02T15:36:18Z,2016-09-02T15:36:18Z,0,2,1,1,1,1,2,5191915.0
+612,The SmallCDN is no longer working,0,True,False,,2016-09-02T15:35:15Z,0,2,2,1,1,12,13,0
+627,Fixed broken CDN link,168,True,True,2016-09-02T15:34:06Z,2016-09-02T15:34:06Z,0,3,1,1,4,4,8,394181.0
+594,add npm installation to readme,87,True,True,2016-09-02T15:37:02Z,2016-09-02T15:37:02Z,0,2,0,1,6,1,7,7453685.0
+608,修改animate,0,True,False,,2016-09-02T15:36:29Z,0,3,0,2,733,1181,1914,0
+617,Bronken link,123,True,False,,2016-09-02T15:35:39Z,0,6,0,64,3362,2960,6322,0
+633,"Revert ""updated CDN on the Readme.md""",12,True,True,2016-09-02T15:33:54Z,2016-09-02T15:33:54Z,0,1,0,1,1,1,2,4.0
+507,Switch from Grunt to Gulp,101,True,True,2015-12-14T19:48:11Z,2015-12-14T19:48:12Z,0,1,0,8,115,131,246,213.0
+626,updated CDN on the Readme.md,0,True,True,2016-09-02T15:33:12Z,2016-09-02T15:33:12Z,0,3,1,1,1,1,2,596653.0
+630,New Special - jackInTheBox,119,True,False,,2016-08-31T13:06:58Z,0,1,0,2,48,0,48,0
+598,Add animated class on animated.less,326,True,False,,2016-06-14T15:01:12Z,0,6,2,64,3362,2960,6322,0
+549,Updated Readme.md,109,True,True,2016-06-06T17:48:35Z,2016-06-06T17:48:35Z,0,2,0,1,8,0,8,7460605.0
+556,"Remove double ""the"" from README.md",28,True,True,2016-06-06T17:47:50Z,2016-06-06T17:47:50Z,0,2,0,1,1,1,2,6582006.0
+566,chore(build): removed redundant postcss operation,35,True,True,2016-06-06T17:45:27Z,2016-06-06T17:45:28Z,0,2,0,1,0,1,1,4366096.0
+574,Added hosted libraries into README.md,121,True,True,2016-06-06T17:42:50Z,2016-06-06T17:42:50Z,0,2,0,1,12,0,12,3253802.0
+579,Note animatify for Browserify users in the README,237,True,False,,2016-06-06T17:40:22Z,0,2,0,1,2,0,2,0
+550,[bower.json] source dir removed from the ignore array,131,True,True,2016-06-06T17:37:52Z,2016-06-06T17:37:52Z,0,2,0,1,0,1,1,7350299.0
+553,ok,0,True,False,,2016-03-21T05:08:58Z,0,8,0,7,213,159,372,0
+534,add postcss,166,True,True,2016-02-12T16:49:26Z,2016-02-12T16:49:26Z,0,2,0,2,15,8,23,81072.0
+533,hotfix: update version in css files,39,True,True,2016-02-12T16:48:17Z,2016-02-12T16:48:17Z,0,2,0,2,2,2,4,81755.0
+531,Add a custom jQuery function in the README,163,True,True,2016-02-03T20:06:42Z,2016-02-03T20:06:42Z,0,3,2,1,19,0,19,10157.0
+525,LICENSE file added,22,True,True,2016-02-03T00:25:09Z,2016-02-03T00:25:09Z,0,3,0,1,21,0,21,996675.0
+526,jQuery adpater,843,True,False,,2016-02-03T00:23:21Z,0,2,2,5,462,1,463,0
+513,Add missing dependency in package.json,258,True,True,2015-12-27T02:13:34Z,2015-12-27T02:13:34Z,0,2,0,1,2,1,3,48037.0
+514,Change banner from ugly to pretty,35,True,True,2015-12-27T02:11:46Z,2015-12-27T02:11:46Z,0,2,0,2,45,37,82,45212.0
+511,Remove unnecessary semicolon in gulpfile.js,97,True,True,2015-12-21T18:21:14Z,2015-12-21T18:21:14Z,0,2,0,1,1,1,2,189908.0
+510,Fix README.md,0,True,True,2015-12-21T18:21:28Z,2015-12-21T18:21:28Z,0,2,0,1,2,2,4,195632.0
+505,"Clean up - missing semicolons, whitespace",24,True,True,2015-12-10T18:47:35Z,2015-12-10T18:47:36Z,0,2,0,5,43,37,80,174123.0
+504,sass compilation hates this,185,True,True,2015-12-10T18:48:14Z,2015-12-10T18:48:14Z,0,3,1,1,3,3,6,174276.0
+469,added style property to project json ,84,True,False,,2015-12-06T18:44:42Z,0,3,3,1,2,1,3,0
+471,adds the style definition to package.json,118,True,True,2015-12-06T18:44:35Z,2015-12-06T18:44:35Z,0,2,1,1,1,0,1,5878543.0
+487,Automatically generate the banner,720,True,True,2015-12-06T17:25:26Z,2015-12-06T17:25:26Z,0,2,3,5,56,20,76,2419321.0
+377,Rotation animations,315,True,False,,2015-12-06T16:49:50Z,0,5,5,5,59,1,60,0
+483,New Animation: Squiggle,103,True,False,,2015-12-06T16:41:00Z,0,3,2,4,117,2,119,0
+490,Just added a bower package for animate.css ,0,True,False,,2015-12-06T16:37:08Z,0,2,1,1,8,1,9,0
+491,specify npm main field,174,True,True,2015-12-06T16:34:53Z,2015-12-06T16:34:53Z,0,2,0,1,1,0,1,1751772.0
+465,New animation: headShake - An amazing animation for negative feedbacks,64,True,True,2015-12-06T16:29:20Z,2015-12-06T16:29:20Z,0,4,2,5,110,7,117,6552581.0
+498,Rotating entrances,0,True,False,,2015-12-02T04:20:32Z,0,3,0,15,1865,0,1865,0
+497,Zooming entrances,0,True,False,,2015-12-02T03:22:58Z,0,3,0,15,1840,0,1840,0
+496,Sliding entrances,0,True,False,,2015-12-01T23:11:48Z,0,3,0,13,1730,0,1730,0
+476,Nokia 1280 pure animate.css,49,True,False,,2015-11-04T01:57:12Z,0,4,0,75,809,3989,4798,0
+477,Adds version to CSS source files.,0,True,True,2015-11-04T01:56:15Z,2015-11-04T01:56:15Z,0,2,0,3,3,0,3,1939325.0
+411,Sass update for the recent changes,137,True,False,,2015-09-23T01:30:05Z,0,1,1,5,840,664,1504,0
+448,Update README.md,38,True,False,,2015-08-02T19:53:02Z,0,2,2,1,1,1,2,0
+459,Updates bower file to correct ignore path for source,106,True,True,2015-08-28T17:52:00Z,2015-08-28T17:52:00Z,0,2,0,1,1,1,2,127898.0
+460,pull,0,True,False,,2015-09-01T17:01:33Z,0,4,3,137,7285,4835,12120,0
+457,Replaced instances of step 100% with 'to' in order to preserve consistency,58,True,True,2015-08-26T19:00:08Z,2015-08-26T19:00:09Z,0,3,1,72,226,226,452,491271.0
+451,replaced 0% keyframes with 'from' keyword,543,True,True,2015-08-06T06:41:43Z,2015-08-06T06:41:43Z,0,3,5,66,199,199,398,6969.0
+453,"package.json - version bump, add license info, fix formatting",182,True,True,2015-08-10T03:37:32Z,2015-08-10T03:37:32Z,0,2,1,1,6,5,11,58312.0
+454,Update _base.css to save space,104,True,True,2015-08-10T03:36:41Z,2015-08-10T03:36:41Z,0,2,1,1,3,6,9,28658.0
+450,Added Github IO page link to the readme,98,True,True,2015-08-02T19:51:24Z,2015-08-02T19:51:24Z,0,2,0,1,2,0,2,120469.0
+439,Adding support for jspm,150,True,True,2015-07-09T18:51:26Z,2015-07-09T18:51:26Z,0,2,0,1,8,1,9,273416.0
+428,Remove moot `version` property from bower.json,22,True,True,2015-06-27T16:33:41Z,2015-06-27T16:33:41Z,0,2,0,1,0,1,1,1447953.0
+435,Add angular example,26,True,False,,2015-06-27T16:25:19Z,0,2,1,1,23,0,23,0
+417,merge mini and origin branch #403,0,True,False,,2015-05-25T02:41:49Z,0,1,0,1,2,2,4,0
+405,Fixed #402 -- added wipe animation,0,True,False,,2015-05-17T23:53:13Z,0,3,1,3,19,0,19,0
+409,Update project page,70,True,True,2015-05-13T17:25:09Z,2015-05-13T17:25:09Z,0,2,2,2,2,6,8,159.0
+398,"""jello animation""",146,True,True,2015-05-12T03:48:58Z,2015-05-12T03:48:58Z,0,5,27,5,134,9,143,1073630.0
+397,Fix transition-timing-function to animation-timing-function,1435,True,True,2015-05-11T03:14:55Z,2015-05-11T03:14:55Z,0,2,2,10,66,61,127,1023878.0
+403,merge mini and origin branch,0,True,False,,2015-05-09T18:47:00Z,0,3,1,1,2,2,4,0
+396,patches,241,True,False,,2015-04-29T01:29:08Z,0,3,17,6,33,16,49,0
+393,"Add rotating zoom animations, and patch pulse",51,True,False,,2015-04-27T17:00:44Z,0,1,0,1,66,17,83,0
+391,Update a Heartbeat -  animate.css,58,True,False,,2015-04-24T00:01:41Z,0,2,0,1,110,1,111,0
+376,Fix typo in code for animation end event listener,29,True,False,,2015-03-22T14:45:04Z,0,2,1,1,1,1,2,0
+375,Use translate3d instead of translateY or translateX,62,True,True,2015-03-23T19:41:18Z,2015-03-23T19:41:18Z,0,4,2,10,81,86,167,241312.0
+255,Fixed typo error in rotateOutDownLeft. Fixes #246,264,True,True,2014-08-07T15:31:16Z,2014-08-07T15:31:16Z,0,2,0,3,7,7,14,1374588.0
+374,Updated Autoprefixer to last 2 browser versions,0,True,True,2015-03-19T00:05:48Z,2015-03-19T00:05:48Z,0,3,2,1,1,1,2,11046.0
+342,It is a good practice to use ~x.y.z,62,True,False,,2015-03-19T00:14:27Z,0,2,1,1,1,1,2,0
+373,Fixed #293 -- animations should only run when the `animated` class is used.,0,True,True,2015-03-18T16:28:31Z,2015-03-18T16:28:31Z,0,2,1,5,10,4,14,1183.0
+367,"Updates to index, animate.css, and animate.min.css",473,True,True,2015-03-05T00:08:31Z,2015-03-05T00:08:31Z,0,2,1,3,1539,1174,2713,1233.0
+366,Updating GH-Page to reflect new additions,149,True,False,,2015-03-04T23:33:27Z,0,1,0,3,1529,1172,2701,0
+365,bower: add a missing comma,32,True,True,2015-03-04T23:27:11Z,2015-03-04T23:27:11Z,0,2,0,1,1,1,2,35.0
+344,"Add animations - one special, a couple swingers, and a couple text specific...",12,True,False,,2015-03-04T23:11:04Z,0,2,1,9,1394,577,1971,0
+363,Add new attention seeker,120,True,False,,2015-03-04T23:09:50Z,0,2,1,1,63,0,63,0
+296,Animate.css is missing the 'ignore' meta entry in bower.json.,304,True,True,2015-03-04T23:08:19Z,2015-03-04T23:08:19Z,0,2,0,1,9,1,10,13765102.0
+359,Update README.md,19,True,True,2015-02-25T01:32:33Z,2015-02-25T01:32:33Z,0,2,0,1,1,1,2,294002.0
+356,https://github.com/SCUSA/WebDev-HTML-Assessment.git,0,True,False,,2015-02-18T18:24:45Z,0,3,0,75,2158,2229,4387,0
+343,Update bower.json,14,True,True,2015-01-26T20:09:29Z,2015-01-26T20:09:29Z,0,3,1,1,1,1,2,203426.0
+331,More fluid animations,309,True,True,2015-01-22T19:41:11Z,2015-01-22T19:41:11Z,0,2,1,20,248,226,474,1725033.0
+328,Drop support for Safari 5.1,441,True,False,,2015-01-22T19:42:29Z,0,3,5,1,18,36,54,0
+278,Native sass support,195,True,False,,2015-01-22T19:46:51Z,0,3,2,70,3042,0,3042,0
+286,"add animation helper, which simplify the use of animate.css, also support handle a list of elements",456,True,False,,2015-01-22T19:46:30Z,0,3,1,4,190,0,190,0
+283,Add basic example to README,154,True,True,2015-01-22T19:45:26Z,2015-01-22T19:45:26Z,0,3,0,1,92,0,92,11766088.0
+300,Rotate without opacity change,182,True,False,,2015-01-22T19:44:49Z,0,3,1,5,916,577,1493,0
+314,Bower Version,165,True,False,,2015-01-22T19:44:20Z,0,3,0,1,1,1,2,0
+316,Create Sass3 Version,0,True,False,,2015-01-22T19:44:04Z,0,2,0,1,1,0,1,0
+312,Added youtube tutorial,229,True,True,2015-01-22T19:43:25Z,2015-01-22T19:43:25Z,0,4,2,1,2,0,2,6215072.0
+321,"Animation: Nodding, Yes and No.",94,True,False,,2015-01-22T19:42:49Z,0,3,2,2,46,0,46,0
+330,Overflow hidden on animated elements,77,True,False,,2015-01-22T19:41:53Z,0,2,1,1,3,1,4,0
+334,Can you provide more smooth animations with amazing effect.,0,True,False,,2015-01-22T19:39:13Z,0,5,4,75,2158,2229,4387,0
+336,Adding repository field,101,True,True,2015-01-22T19:38:10Z,2015-01-22T19:38:10Z,0,2,0,1,4,0,4,256881.0
+338,Update bower.json,0,True,True,2015-01-22T19:37:49Z,2015-01-22T19:37:49Z,0,2,0,1,1,1,2,27048.0
+337,Merge pull request #1 from daneden/master,19,True,False,,2015-01-22T08:08:42Z,0,1,0,0,0,0,0,0
+280,Fixed wrong format of the function's caption in readme,10,True,True,2014-09-03T17:54:45Z,2014-09-03T17:54:45Z,0,2,0,1,1,1,2,14844.0
+263,Added sliding entrances and exits,52,True,True,2014-09-02T05:37:45Z,2014-09-02T05:37:45Z,0,2,0,11,911,753,1664,1870580.0
+270,Tiny typo in animate-config.json,648,True,True,2014-09-02T05:37:06Z,2014-09-02T05:37:06Z,0,2,0,1,2,2,4,1168117.0
+273,Update Bower version,63,True,True,2014-09-02T05:35:30Z,2014-09-02T05:35:30Z,0,2,0,1,1,1,2,1069136.0
+239,zoom-exit: zoomOutBig (#2),96,True,False,,2014-09-02T05:41:15Z,0,2,2,4,1160,1269,2429,0
+245,Created diagonal fades,503,True,False,,2014-09-02T05:39:56Z,0,2,1,19,813,45,858,0
+247,Add sign animation,145,True,False,,2014-09-02T05:38:55Z,0,3,1,75,2158,2229,4387,0
+276,Scss support,141,True,False,,2014-09-02T05:34:54Z,0,2,1,3,2827,0,2827,0
+46,Add 'hingeRight'.,45,True,False,,2013-08-16T15:43:19Z,0,2,1,4,3377,3299,6676,0
+248,Renaming Project and file to dn-animate-css/dn-animate.css,380,True,False,,2014-08-07T15:34:01Z,0,4,6,6,11,11,22,0
+262,Added support for compiling a custom animate.css,238,True,False,,2014-08-07T15:27:26Z,0,2,1,68,2434,0,2434,0
+256,Update rotateOutDownLeft.css,8,True,False,,2014-07-23T04:14:29Z,0,1,0,1,1,1,2,0
+81,SCSS mixin and JS module ,87,True,False,,2013-07-20T18:52:37Z,0,4,1,3,47,0,47,0
+91,JavaScript controller,322,True,False,,2013-07-31T08:45:17Z,0,2,1,3,264,0,264,0
+140,Add skew animation,53,True,False,,2013-12-26T23:05:54Z,0,3,7,2,36,0,36,0
+147,a,4,True,False,,2014-02-03T08:58:33Z,0,1,1,5,0,166,166,0
+92,Add rubber bounce down animation,256,True,False,,2014-01-31T14:41:34Z,0,3,2,1,118,0,118,0
+241,1,0,True,False,,2014-07-07T19:21:10Z,0,11,0,82,2451,1745,4196,0
+224,adds fadeInScale and fadeOutScale,14,True,False,,2014-07-06T20:51:39Z,0,2,3,5,93,3,96,0
+211,"Added zooming entrances, zooming exits, slideInUp and slideOutDown",0,True,False,,2014-07-06T20:52:25Z,0,2,1,3,516,3,519,0
+226,Added trotIn and trotOut animations,548,True,False,,2014-07-06T20:50:38Z,0,2,1,4,173,1,174,0
+240,Added diagonal slideIn's and slideOut's,282,True,False,,2014-07-06T20:48:00Z,0,2,2,11,435,51,486,0
+62,Add medium directional fade animations,300,True,False,,2013-11-19T23:50:52Z,0,3,2,10,861,1,862,0
+233,Create KoalaZoom plugin.html,14,True,False,,2014-07-05T17:29:00Z,0,3,2,1,53,0,53,0
+231,zoom-exit: zoomOutBig,118,True,False,,2014-07-05T19:42:25Z,0,2,2,1,19,0,19,0
+132,CSS redux; removed calculated from & to values,524,True,False,,2014-01-15T01:24:07Z,0,3,7,67,541,1332,1873,0
+135,"Rewrite, taking advantage of Stylus",629,True,False,,2014-01-31T14:49:52Z,0,4,3,88,209,3314,3523,0
+8,Repetitive Keyframe Declarations,221,True,True,2011-10-14T17:35:07Z,2011-10-14T17:35:07Z,0,2,1,5,83,444,527,5058.0
+116,Added slideInUp and slideOutDown animations.,258,True,False,,2014-01-31T14:48:58Z,0,2,2,3,112,0,112,0
+87,Add bower.json file to make the plugin bower compatible,18,True,True,2013-07-20T18:51:46Z,2013-07-20T18:51:46Z,0,2,0,1,5,0,5,85979.0
+88,Fix: animation started even no animated class,81,True,True,2013-07-20T18:51:32Z,2013-07-20T18:51:32Z,0,2,0,2,57,57,114,28121.0
+52,BugFix on rotateOutUpLeft keyframes without vendor prefix,99,True,True,2012-10-23T11:54:27Z,2012-10-23T11:54:27Z,0,2,1,2,3,3,6,146445.0
+51,Mountain lion safari fix,88,True,True,2012-10-02T16:57:12Z,2012-10-02T16:57:12Z,0,2,0,1,2,0,2,1549719.0
+38,Cheat sheet added,138,True,True,2012-07-20T12:01:39Z,2012-07-20T12:01:39Z,0,2,1,1,79,1,80,18151.0
+28,Added missing Opera keyframes to BounceOutDown,57,True,True,2012-05-19T02:06:54Z,2012-05-19T02:06:54Z,0,2,0,1,17,0,17,12050.0
+14,Add opera support,30,True,True,2011-10-20T19:26:13Z,2011-10-20T19:26:13Z,0,2,0,30,340,0,340,1481.0
+13,Add Opera Support,21,True,True,2011-10-20T18:17:25Z,2011-10-20T18:17:25Z,0,2,0,5,85,0,85,864.0
+95,"Fixed Flip in latest Chrome, FF and IE",99,True,True,2013-08-15T21:11:43Z,2013-08-15T21:11:43Z,0,3,2,1,16,16,32,35550.0
+103,Added slide animations to the source.  Good for using with mobile navigational menus.,157,True,True,2013-09-11T21:57:18Z,2013-09-11T21:57:18Z,0,2,11,6,300,0,300,13009.0
+120,fix rotateOutUpLeft.css,17,True,True,2013-11-26T02:54:40Z,2013-11-26T02:54:40Z,0,2,1,1,3,3,6,82323.0
+125,Fix rotateOutUpLeft,340,True,True,2013-11-29T04:07:13Z,2013-11-29T04:07:13Z,0,1,0,2,11,5,16,19737.0
+133,Fix indentation in config file,85,True,True,2013-12-06T20:32:54Z,2013-12-06T20:32:54Z,0,3,2,1,55,55,110,129802.0
+131,fixed broken rotateIn* in Chrome & IE10 by switching to grunt-contrib-cssmin (clean-css),738,True,False,,2014-01-31T14:50:46Z,0,4,16,7,47,20,67,0
+115,V3 Update,570,True,True,2013-11-23T21:49:50Z,2013-11-23T21:49:50Z,0,3,6,131,3486,6545,10031,1030119.0
+9,Added MIT license to Readme,268,True,True,2011-10-17T18:44:47Z,2011-10-17T18:44:47Z,0,2,1,1,13,1,14,7150.0
+49,changed syntax highlighting code to javascript,45,True,True,2012-10-02T16:53:54Z,2012-10-02T16:53:54Z,0,2,0,1,1,1,2,1636191.0
+218,Add spm support,411,True,True,2014-06-17T19:36:01Z,2014-06-17T19:36:01Z,0,4,0,1,3,0,3,2555886.0
+34,adding example,0,True,False,,2012-10-02T16:55:50Z,0,2,3,1,137,0,137,0
+40,Closes #39,130,True,True,2012-10-02T17:25:13Z,2012-10-02T17:25:13Z,0,2,0,1,3,1,4,6308593.0
+29,"Added new animations lightSpeedIn, lightSpeedOut, wiggle",216,True,True,2012-05-19T13:40:28Z,2012-05-19T13:40:28Z,0,2,1,4,371,0,371,8725.0
+141,Added the .json extension to .animate-config,85,True,True,2014-01-31T14:45:20Z,2014-01-31T14:45:20Z,0,2,1,3,3,3,6,3189075.0
+136,"10 Additions, including #116",368,True,False,,2014-01-31T14:47:27Z,0,2,2,78,990,1381,2371,0
+150,Update animate.css,106,True,False,,2014-02-11T15:54:15Z,0,2,3,1,139,1,140,0
+152,Typo in README.md?,35,True,False,,2014-02-09T09:37:57Z,0,2,1,1,1,1,2,0
+155,Updating home page with rubberBand animation.,64,True,True,2014-02-15T04:17:06Z,2014-02-15T04:17:06Z,0,2,2,3,68,2,70,21984.0
+164,Unified formatting across files,108,True,False,,2014-02-23T21:48:39Z,0,2,2,63,301,158,459,0
+166,Update README.md,106,True,False,,2014-02-25T15:40:37Z,0,4,6,1,1,1,2,0
+177,Added spin animation,47,True,False,,2014-03-11T17:18:35Z,0,2,2,4,65,1,66,0
+180,Changes one to on on line no 30,0,True,False,,2014-03-16T13:07:00Z,0,3,2,1,1,1,2,0
+183,Added skewShake animation,41,True,False,,2014-03-28T20:31:39Z,0,2,1,2,18,0,18,0
+194,Fixed code for end of animation in README.md,0,True,False,,2014-04-05T18:02:59Z,0,4,6,1,1,1,2,0
+200,Rewrite taking advantage of Stylus,639,True,False,,2014-04-10T22:41:48Z,0,4,7,139,738,4307,5045,0
+202,Update README.md,59,True,False,,2014-04-11T18:54:30Z,0,1,0,0,0,0,0,0
+210,fix minor typo,0,True,False,,2014-05-01T19:20:33Z,0,2,1,1,1,1,2,0
+220,There are not favicon,149,True,False,,2014-06-03T01:12:26Z,0,3,1,73,459,1246,1705,0
+148,sh code highlighing,24,True,True,2014-02-04T09:43:19Z,2014-02-04T09:43:19Z,0,2,0,1,2,2,4,6707.0
+68,Added ability to delay effects,83,True,False,,2013-04-14T13:35:31Z,0,2,1,3,36,1,37,0
+104,improving slideInLeft and slideInRight animations,209,True,False,,2014-01-31T14:58:00Z,0,2,1,1,40,0,40,0
+217,Flipped flip,243,True,True,2014-06-03T01:16:32Z,2014-06-03T01:16:32Z,0,2,0,3,31,31,62,1563790.0
+151,Fixed bug in Chrome,256,True,True,2014-02-09T17:22:47Z,2014-02-09T17:22:47Z,0,2,1,1,2,1,3,98061.0
+154,"Adding a ""rubber band"" animation.",236,True,True,2014-02-14T20:44:41Z,2014-02-14T20:44:41Z,0,2,4,2,12,0,12,73882.0
+163,"Use load-grunt-tasks, cleaned up devDependencies & added .editorconfig",247,True,True,2014-02-23T19:48:07Z,2014-02-23T19:48:07Z,0,2,0,5,95,10,105,339.0
+165,Unified formatting and refactored Gruntfile.js,427,True,True,2014-03-07T16:32:33Z,2014-03-07T16:32:33Z,0,2,2,69,847,699,1546,1013122.0
+173,removed undesired function invocation parenthesis,90,True,True,2014-03-07T17:51:12Z,2014-03-07T17:51:12Z,0,2,0,1,1,1,2,125.0
+181,infinite iteration sugar,396,True,True,2014-03-19T16:35:43Z,2014-03-19T16:35:43Z,0,3,2,1,4,0,4,158020.0
+185,Added slideOutDown animation,67,True,True,2014-03-21T17:24:16Z,2014-03-21T17:24:16Z,0,2,1,4,55,2,57,11365.0
+189,Added slideInUp animation,0,True,True,2014-04-04T01:42:10Z,2014-04-04T01:42:10Z,0,3,5,4,49,1,50,477485.0
+197,Add message to deter uncessary issues about one,0,True,True,2014-04-06T21:00:02Z,2014-04-06T21:00:02Z,0,4,4,1,2,0,2,7150.0
+187,Added zoom entrances and exits as per @ramatsu's request #186,43,True,True,2014-04-25T21:40:16Z,2014-04-25T21:40:16Z,0,2,8,13,607,1,608,2677600.0
+134,add fadeInSace and fadeOutScale animations,182,True,False,,2014-01-31T14:52:24Z,0,2,1,5,89,1,90,0
+130,Update README.md,72,True,False,,2013-12-06T20:37:35Z,0,2,1,1,2,2,4,0
+123,Updated README.md,148,True,False,,2014-01-31T14:56:19Z,0,3,2,1,25,1,26,0
+128,"New ""specials"" animation: shrinkThenGrow",157,True,False,,2014-01-31T14:53:56Z,0,1,1,4,62,2,64,0
+124,just like a shake,22,True,False,,2014-01-31T14:53:14Z,0,3,3,1,6,6,12,0
+112,Added a new animation called turnOff,217,True,False,,2013-11-19T23:46:31Z,0,2,7,1,130,0,130,0
+108,Added an extra resource note for a component version of animate.,187,True,False,,2013-11-19T23:47:55Z,0,2,1,1,1,0,1,0
+107,Expanding the Roll In / Roll Out animations and adding a PHP Builder,370,True,False,,2013-10-01T16:44:25Z,0,1,2,10,3176,2240,5416,0
+98,Added Tag (2.0) & Updated readme,0,True,False,,2013-08-16T02:52:40Z,0,1,0,1,2,0,2,0
+94,Create effects-select.php,43,True,False,,2013-08-15T21:12:25Z,0,3,2,1,245,0,245,0

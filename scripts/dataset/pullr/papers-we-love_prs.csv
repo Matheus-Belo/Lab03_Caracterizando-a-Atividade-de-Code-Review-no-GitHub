@@ -1,0 +1,510 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+577,Fix 404 papers,182,True,True,2019-10-22T00:08:47Z,2019-10-22T00:08:47Z,0,3,1,2,2,2,4,100077.0
+584,Add Buenos Aires to the list of chapters,40,True,True,2019-11-15T03:57:53Z,2019-11-15T03:57:53Z,0,2,1,1,1,0,1,33528.0
+588,Papers on Web Privacy,335,True,True,2019-11-23T22:40:34Z,2019-11-23T22:40:34Z,0,2,0,1,2,0,2,11721.0
+597,Added script to download all (pdf) papers locally,0,True,True,2020-03-28T04:45:45Z,2020-03-28T04:45:45Z,0,4,9,3,80,0,80,212044.0
+705,discord link and some readme updates,0,True,True,2023-01-10T14:53:15Z,2023-01-10T14:53:15Z,1,2,0,2,8,45,53,63730.0
+655,fixes minor typos,0,True,True,2022-03-29T03:56:01Z,2022-03-29T03:56:01Z,0,2,1,1,3,3,6,2590.0
+672,Remove dead links,177,True,True,2022-06-06T04:18:02Z,2022-06-06T04:18:02Z,0,2,1,2,0,12,12,37192.0
+761,Update links in README.md,46,True,True,2023-07-19T09:41:43Z,2023-07-19T09:41:43Z,0,2,1,1,2,2,4,14649.0
+367,README.md: Iasi chapter,23,True,True,2016-01-26T00:16:41Z,2016-01-26T00:16:41Z,0,2,2,1,1,0,1,294749.0
+379,running w/ templates and README updates,61,True,True,2016-02-22T06:51:19Z,2016-02-22T06:51:19Z,1,3,1,3,41,20,61,174262.0
+46,Einstein’s 1905 Paper,247,True,True,2014-03-19T12:05:43Z,2014-03-19T12:05:43Z,1,6,17,2,10,0,10,739852.0
+772,add zanzibar paper for authorization,329,True,True,2023-09-04T21:57:07Z,2023-09-04T21:57:07Z,1,2,0,1,1,0,1,60340.0
+770,Added Synthical (https://synthical.com),0,True,False,,2023-08-15T14:37:50Z,0,3,7,1,1,0,1,0
+766,Added photogrammetry topic and two related paper + Color Constancy research article,492,True,True,2023-07-22T10:39:10Z,2023-07-22T10:39:10Z,0,2,0,1,9,0,9,33993.0
+764,Added Matting and three paper for this topic,479,True,True,2023-07-21T10:24:21Z,2023-07-21T10:24:21Z,1,2,0,1,8,0,8,35339.0
+758,Update CONTRIBUTING.md,60,True,False,,2023-07-11T07:47:29Z,0,2,0,1,5,5,10,0
+757,Update README.md,52,True,False,,2023-07-04T18:42:41Z,0,2,0,1,1,1,2,0
+752,Fix broken haskell paper link,215,True,True,2023-06-16T10:44:51Z,2023-06-16T10:44:51Z,0,2,0,1,1,1,2,57315.0
+745,Adds b-tree-optimization paper,342,True,True,2023-05-14T19:09:35Z,2023-05-14T19:09:35Z,0,1,0,2,2,0,2,199.0
+740,comment broken links,52,True,False,,2023-05-03T23:06:34Z,0,2,1,6,6,6,12,0
+741,Correct links instead of commenting them out (override of #740),89,True,True,2023-05-03T23:06:06Z,2023-05-03T23:06:06Z,0,1,0,5,5,5,10,56.0
+737,Improve Actor formalism paper source,183,True,True,2023-04-28T12:39:57Z,2023-04-28T12:39:57Z,1,2,0,2,2,0,2,8956.0
+735,"Update link of Time, Clocks, and the Ordering of Events in a Distribu…",64,True,True,2023-04-07T10:33:47Z,2023-04-07T10:33:47Z,1,2,0,1,1,1,2,171.0
+731,replacing dead domain with new links,33,True,True,2023-04-03T14:47:00Z,2023-04-03T14:47:00Z,0,1,0,1,3,3,6,100.0
+724,Fixed broken link.,196,True,True,2023-03-04T18:46:57Z,2023-03-04T18:46:57Z,1,2,0,1,1,1,2,8551.0
+718,Fix some broken links.,432,True,True,2023-02-07T00:46:27Z,2023-02-07T00:46:27Z,1,2,1,7,7,7,14,7347.0
+715,Fix broken link of End-To-End Arguments in System Design,175,True,True,2023-01-29T13:00:45Z,2023-01-29T13:00:45Z,1,2,0,1,1,1,2,16568.0
+712,Fix broken url of Fast String Searching,10,True,True,2023-01-17T11:02:52Z,2023-01-17T11:02:53Z,1,2,0,1,1,1,2,207.0
+709,Update broken link to IronFleet paper,371,True,True,2023-01-15T13:33:20Z,2023-01-15T13:33:20Z,1,2,0,1,1,1,2,89842.0
+700,add specializing ruby paper,108,True,True,2022-12-08T11:45:24Z,2022-12-08T11:45:24Z,0,2,0,1,3,0,3,25042.0
+697,fixed link to article: Heap Architectures For Concurrent Languages Using,232,True,True,2022-11-04T21:59:19Z,2022-11-04T21:59:19Z,0,2,0,1,1,1,2,58784.0
+696,"Fixing the link to Time, Clocks, and the Ordering of Events in a",228,True,True,2022-11-04T03:55:19Z,2022-11-04T03:55:19Z,0,2,1,1,1,1,2,5269.0
+694,Merge from upstream,0,True,False,,2022-10-25T18:21:01Z,0,1,0,3,0,0,0,0
+692,Adding a new paper to how read papers section of the read me,115,True,True,2022-10-01T01:43:02Z,2022-10-01T01:43:02Z,0,2,2,1,1,0,1,35968.0
+691,Updated link for Cuckoo Hashing paper,138,True,True,2022-09-28T17:49:12Z,2022-09-28T17:49:12Z,0,2,1,1,1,1,2,55387.0
+690,"feat: ""Emergent Economies for Role Playing Games""",400,True,True,2022-09-13T01:01:47Z,2022-09-13T01:01:47Z,0,2,0,1,4,0,4,182019.0
+688,Update README.md,414,True,False,,2022-09-01T17:34:26Z,0,2,2,1,6,0,6,0
+678,chore: add readme to computer_education section for consistency,0,True,True,2022-07-06T16:16:14Z,2022-07-06T16:16:14Z,0,2,0,1,4,0,4,246414.0
+681,"Add link for Portland, OR chapter of Papers We Love",196,True,True,2022-07-09T21:26:52Z,2022-07-09T21:26:52Z,1,2,1,1,1,0,1,21721.0
+677,Added Practical Common Lisp pdf,114,True,False,,2022-07-06T00:42:10Z,0,2,1,33,0,0,0,0
+662,let lychee handle advanced globbing,222,True,True,2022-05-10T03:13:19Z,2022-05-10T03:13:19Z,0,3,2,1,1,1,2,2223053.0
+664,Typo in CONTRIBUTING.md,65,True,True,2022-04-25T17:23:31Z,2022-04-25T17:23:32Z,0,2,1,1,1,1,2,214433.0
+659,Fixes some broken links and increases max retries for lychee,86,True,True,2022-04-09T16:05:02Z,2022-04-09T16:05:02Z,0,2,0,5,7,7,14,1257.0
+657,Switch to gender neutral terms,409,True,False,,2022-03-31T11:22:15Z,0,2,1,3,4,4,8,0
+651,Update link on Reading Academic Papers,285,True,True,2022-01-28T11:12:47Z,2022-01-28T11:12:47Z,0,2,1,1,1,1,2,8278.0
+646,Directly link to organizers repo,248,True,True,2022-01-25T20:12:13Z,2022-01-25T20:12:13Z,1,2,0,1,1,1,2,1634522.0
+648,Update README.md,78,True,True,2022-01-25T20:11:20Z,2022-01-25T20:11:20Z,1,2,0,1,1,1,2,1506.0
+640,Paper Title: Added Wide Open Spaces: A statistical technique for meas…,301,True,False,,2022-01-03T17:20:19Z,0,2,1,2,2,1,3,0
+643,Fixed a few more broken links,0,True,True,2021-12-31T19:05:11Z,2021-12-31T19:05:11Z,0,2,0,7,9,10,19,5147.0
+641,Fixed broken links,141,True,True,2021-12-31T16:52:14Z,2021-12-31T16:52:14Z,1,2,1,13,30,32,62,5050.0
+639,Added paper on soccer analytics,454,True,False,,2021-12-30T21:30:33Z,0,1,0,1,0,0,0,0
+613,Add Privacy Papers for Visual Data,467,True,True,2020-09-16T05:34:22Z,2020-09-16T05:34:22Z,0,2,0,1,4,0,4,75227.0
+635,Added New Directory + 1 paper,600,True,False,,2021-11-30T19:05:42Z,0,2,1,1,2,0,2,0
+632,Use relative paths in scripts/download.sh,251,True,True,2021-11-26T17:20:28Z,2021-11-26T17:20:28Z,0,2,1,1,1,1,2,1694.0
+630,Format (Artificial Intelligence) *Fixed,174,True,False,,2021-10-21T19:32:10Z,0,2,3,2,11,11,22,0
+629,Format (Artificial Intelligence),174,True,False,,2021-10-17T09:46:20Z,0,1,0,0,0,0,0,0
+624,Auto check missing / forbidden external papers and raise issue ,174,True,True,2021-10-11T11:15:06Z,2021-10-11T11:15:06Z,0,2,6,1,28,0,28,2871694.0
+627,Add On-the-Fly Garbage Collection Paper,829,True,True,2021-10-02T11:40:52Z,2021-10-02T11:40:52Z,0,2,0,1,1,0,1,53014.0
+626,Fix no longer active link to John Backus’ Turning Award paper,161,True,True,2021-09-22T16:05:26Z,2021-09-22T16:05:26Z,1,2,0,1,1,1,2,38962.0
+625,Circleci project setup,52,True,False,,2021-09-21T19:45:07Z,0,1,1,1,24,0,24,0
+623,Update link for f4 paper,31,True,True,2021-09-04T13:27:23Z,2021-09-04T13:27:23Z,1,2,0,1,1,1,2,43408.0
+622,"add kingsbury and alvaro ""elle"" paper",201,True,True,2021-04-17T10:55:21Z,2021-04-17T10:55:21Z,0,2,0,2,2,0,2,49103.0
+405,Recently added,233,True,False,,2021-03-02T12:17:03Z,0,3,5,13,11,0,11,0
+620,Merge pull request #1 from papers-we-love/master,71,True,False,,2021-02-05T06:18:13Z,0,1,0,0,0,0,0,0
+617,Add TDD with mutation testing (Roman & Mnich 2020),382,True,True,2020-12-03T05:25:17Z,2020-12-03T05:25:17Z,2,3,5,1,3,0,3,143584.0
+615,"Adding Nash 1950, Grief 1993 in econ",598,True,True,2020-10-16T21:15:02Z,2020-10-16T21:15:02Z,0,2,0,1,9,1,10,16988.0
+611,Remove Dead Link,60,True,True,2020-10-02T15:43:07Z,2020-10-02T15:43:07Z,0,3,1,1,0,1,1,3187609.0
+608,Update link for Cuckoo Hashing,96,True,True,2020-07-19T19:12:45Z,2020-07-19T19:12:45Z,0,2,0,1,1,1,2,231582.0
+609,Updated 404 Link for Effective Inter-Component Communication Mapping in Android,65,True,True,2020-07-19T19:11:09Z,2020-07-19T19:11:09Z,0,2,0,1,1,1,2,174246.0
+607,Merge from mainline,52,True,False,,2020-07-16T11:53:59Z,0,1,0,0,0,0,0,0
+605,fix(readme): change bell system technical journal link,75,True,True,2020-06-18T06:05:38Z,2020-06-18T06:05:38Z,0,3,3,1,1,1,2,518030.0
+602,Update README.md,56,True,True,2020-04-06T17:22:36Z,2020-04-06T17:22:36Z,0,2,2,1,1,1,2,236583.0
+540,"Distributed File Systems, Search Engine Original Papers",200,True,True,2020-03-29T19:38:47Z,2020-03-29T19:38:47Z,3,5,7,19,25,0,25,31253700.0
+569,added some literatures covering scientific data compression.,999,True,True,2020-03-29T19:06:55Z,2020-03-29T19:06:55Z,1,4,10,9,19,1,20,17457611.0
+600,Adding Bioinformatics topic,831,True,True,2020-03-29T17:13:50Z,2020-03-29T17:13:50Z,0,2,3,1,6,0,6,95568.0
+598,Deleted discontinued chapters,29,True,True,2020-03-28T04:37:05Z,2020-03-28T04:37:05Z,0,3,3,1,0,11,11,47312.0
+599,"Fixed broken link to Lerner and Tirole, 2000",56,True,True,2020-03-29T05:45:44Z,2020-03-29T05:45:44Z,0,2,1,1,1,1,2,54425.0
+596,Adding Hardware Security as a new sub-research area,239,True,True,2020-03-27T02:04:55Z,2020-03-27T02:04:55Z,0,2,3,1,11,5,16,257542.0
+493,add awesome_bot for external link checking #360,1928,True,False,,2020-03-26T05:27:22Z,0,4,7,1,4,0,4,0
+592,Update README: add cyber,431,True,False,,2020-02-15T23:21:06Z,0,2,2,1,1,0,1,0
+595,Added link to simulating ocean water,137,True,True,2020-02-15T16:31:45Z,2020-02-15T16:31:45Z,0,2,0,1,5,0,5,2197049.0
+594,added Jerry Tessendorf's Simulating Ocean Water,655,True,False,,2020-01-21T06:00:56Z,0,2,2,1,0,0,0,0
+591,Fix broken link,94,True,True,2020-01-06T04:59:01Z,2020-01-06T04:59:01Z,0,2,0,1,1,1,2,808413.0
+590,Merge pull request #1 from papers-we-love/master,69,True,False,,2019-12-27T03:48:15Z,0,2,1,0,0,0,0,0
+587,Math papers from original `isomorphisms` PR,296,True,True,2019-12-26T04:36:58Z,2019-12-26T04:36:58Z,0,6,11,9,89,13,102,3303922.0
+586,Added a list of papers for Brain Computer Interface. ,0,True,True,2019-12-13T07:04:45Z,2019-12-13T07:04:45Z,0,2,3,1,6,0,6,2312824.0
+589,KHyperLogLog paper: measure of reidentifiability in anonymyzed data,362,True,True,2019-11-24T19:51:40Z,2019-11-24T19:51:40Z,0,2,0,1,2,0,2,2166.0
+585,Differetial privacy and de-anonymization papers,704,True,True,2019-11-15T06:27:22Z,2019-11-15T06:27:22Z,0,2,1,1,4,1,5,3809.0
+550,mathematics papers,808,True,False,,2019-11-15T04:10:20Z,0,5,6,19,3,0,3,0
+583,Adding Object Identification for Computer Vision Using Image Segmentation and Computer Vision Based Detection and Localization of Potholes in Asphalt Pavement Images,700,True,True,2019-11-15T03:27:24Z,2019-11-15T03:27:24Z,0,2,2,1,4,0,4,1254992.0
+582,Add kanonymity paper in privacy category,301,True,True,2019-11-15T03:23:36Z,2019-11-15T03:23:36Z,0,3,3,1,3,0,3,1461818.0
+579,Game design elements link fix,129,True,True,2019-10-25T00:10:04Z,2019-10-25T00:10:04Z,1,3,1,1,2,2,4,29006.0
+578,"Fix broken links in Operating systems, Networks, Robotics and Unikernels",337,True,True,2019-10-23T13:27:26Z,2019-10-23T13:27:26Z,0,2,1,5,7,8,15,46282.0
+575,Corrected indentation,52,True,True,2019-10-09T01:47:42Z,2019-10-09T01:47:42Z,0,2,0,1,11,1,12,18163.0
+574,Adding Varian 2009,316,True,True,2019-10-01T12:49:31Z,2019-10-01T12:49:31Z,0,2,0,2,2,0,2,659.0
+573,Fix broken links after renamed plt to languages-theory,116,True,True,2019-09-18T15:59:21Z,2019-09-18T15:59:21Z,0,3,1,1,10,9,19,28466.0
+572,Fix broken links robert harper,110,True,True,2019-09-10T04:19:59Z,2019-09-10T04:19:59Z,0,2,0,1,1,1,2,24898.0
+571,[FIX_BROKEN_LINKS_ROBERT_HARPER] ,182,True,False,,2019-09-09T21:20:19Z,0,1,0,1,1,1,2,0
+566,Verification faults dirs,308,True,True,2019-09-07T15:18:05Z,2019-09-07T15:18:05Z,0,2,0,3,10,5,15,139723.0
+568,Fixed link,63,True,True,2019-09-07T15:17:35Z,2019-09-07T15:17:35Z,0,2,1,2,2,2,4,91528.0
+567,consolidate org-sim and sw-eng dirs,283,True,True,2019-09-07T15:16:41Z,2019-09-07T15:16:41Z,0,2,0,4,21,16,37,139062.0
+564,group pattern-* related papers,309,True,True,2019-09-04T10:39:41Z,2019-09-04T10:39:41Z,0,2,1,3,21,3,24,1096906.0
+561,"Rename ""paradigm"" and ""plt"" folders for findability",151,True,True,2019-09-04T10:38:54Z,2019-09-04T10:38:54Z,0,2,0,29,1,10,11,1105400.0
+565,Add statecharts paper in a new systems modeling category,131,True,True,2019-09-04T02:50:22Z,2019-09-04T02:50:22Z,0,2,1,1,3,0,3,67015.0
+558,Fix two broken links,222,True,True,2019-08-19T03:11:22Z,2019-08-19T03:11:22Z,0,2,0,2,2,2,4,6079.0
+556,adding beijing chapter to repo readme,0,True,True,2019-08-13T12:42:00Z,2019-08-13T12:42:00Z,0,2,2,1,1,0,1,724496.0
+557,Update SWIM Link,55,True,True,2019-08-07T22:55:33Z,2019-08-07T22:55:33Z,0,2,1,1,1,1,2,8792.0
+554,Add some of my favourite papers on unikernels,1766,True,True,2019-07-15T11:12:20Z,2019-07-15T11:12:20Z,1,3,4,1,72,3,75,152680.0
+555,Fixed URL of Speech Recognition paper,125,True,True,2019-07-14T19:30:44Z,2019-07-14T19:30:44Z,0,3,1,1,1,1,2,35451.0
+553,Patch 1,154,True,True,2019-07-13T21:20:54Z,2019-07-13T21:20:55Z,0,2,1,2,1,1,2,172615.0
+552,paper at PWL conf,1328,True,True,2019-07-11T20:20:13Z,2019-07-11T20:20:13Z,1,2,2,1,16,0,16,19324.0
+549,A structure paper I come by every now and then.,329,True,True,2019-06-16T19:48:37Z,2019-06-16T19:48:37Z,0,2,0,1,1,0,1,120130.0
+548,fix for URL to Flattening Combinators PDF,195,True,True,2019-06-06T17:41:42Z,2019-06-06T17:41:42Z,0,2,0,1,4,2,6,116.0
+546,Add new machine learning papers,834,True,True,2019-05-27T23:10:45Z,2019-05-27T23:10:45Z,0,2,0,1,6,0,6,183284.0
+545,Add: Artificial Intelligence - A Universal Music Translation Network,218,True,True,2019-05-10T22:51:09Z,2019-05-10T22:51:09Z,0,2,0,1,3,0,3,75965.0
+544,Add: software_engineering - Why software projects need heroes,149,True,True,2019-04-30T02:11:27Z,2019-04-30T02:11:27Z,0,2,0,1,3,0,3,88582.0
+543,"Add: Software Engineering topic, 2 research papers",373,True,True,2019-04-22T18:41:32Z,2019-04-22T18:41:32Z,2,3,0,1,7,0,7,59600.0
+542,Fix An Dead Link,118,True,True,2019-04-19T13:22:07Z,2019-04-19T13:22:07Z,0,2,0,1,1,1,2,2156.0
+538,Added base paper,208,True,False,,2019-03-17T12:06:45Z,0,2,2,1,2,0,2,0
+537,"Add GN&C Fault Protection Fundamentals, Rasmussen, 2008",778,True,True,2019-03-12T00:20:27Z,2019-03-12T00:20:27Z,0,2,0,1,16,0,16,24070.0
+536,"As software becomes more and more integrated in our daily lives, we",670,True,False,,2019-03-11T17:35:47Z,0,1,0,1,16,0,16,0
+535,added Papers We Love Mumbai,39,True,True,2019-02-02T15:38:14Z,2019-02-02T15:38:14Z,0,2,0,1,1,0,1,32954.0
+532,Adding the original MVC paper,182,True,True,2018-11-24T14:07:04Z,2018-11-24T14:07:04Z,0,2,0,1,1,0,1,24145.0
+531,change to v8 since v1 is a buggy redirect loop,42,True,True,2018-11-10T15:05:43Z,2018-11-10T15:05:43Z,0,2,0,1,1,1,2,179191.0
+528,Added PWL Bhubaneswar,121,True,True,2018-09-09T12:07:28Z,2018-09-09T12:07:28Z,0,2,0,1,1,0,1,23392.0
+527,Correct capitalisation of YouTube,52,True,True,2018-09-07T10:22:36Z,2018-09-07T10:22:36Z,0,2,0,1,1,1,2,21243.0
+525,Add Cairo's meetup,0,True,True,2018-08-28T16:11:50Z,2018-08-28T16:11:50Z,0,2,0,1,1,0,1,4745.0
+524,Updating links for reed.com as it has moved,49,True,True,2018-06-26T20:33:00Z,2018-06-26T20:33:00Z,0,2,0,1,1,1,2,3625.0
+523,Ethereum: a secure decentralized generalized transaction ledger,226,True,True,2018-06-13T23:34:35Z,2018-06-13T23:34:35Z,0,2,1,1,9,1,10,24301.0
+521,add unikernels,1199,True,True,2018-06-06T12:17:45Z,2018-06-06T12:17:45Z,0,3,3,1,9,0,9,88007.0
+522,Add the google file system,160,True,True,2018-06-05T12:38:46Z,2018-06-05T12:38:46Z,0,3,0,2,6,3,9,1487.0
+519,Move papers from operating systems to virtual machines,10,True,True,2018-06-04T19:19:32Z,2018-06-04T19:19:32Z,0,3,1,4,13,13,26,24019.0
+517,Fix a couple dead links.,361,True,True,2018-06-01T19:56:18Z,2018-06-01T19:56:19Z,0,3,2,4,4,4,8,1995.0
+516,Fix the dead link for the The ϕ Accrual Failure Detector paper.,59,True,True,2018-05-07T17:10:36Z,2018-05-07T17:10:36Z,0,2,0,1,1,1,2,11476.0
+507,Added Picard first paper on affective computing,113,True,True,2018-02-01T11:31:59Z,2018-02-01T11:31:59Z,0,3,1,2,2,0,2,83169.0
+514,Added the HashGraph distributed consensus paper.,323,True,True,2018-03-15T11:58:21Z,2018-03-15T11:58:21Z,0,2,1,1,2,0,2,39580.0
+513,Adding `B4: experience with a globally-deployed software defined WAN`,434,True,True,2018-03-04T22:30:17Z,2018-03-04T22:30:17Z,1,4,0,1,1,0,1,10788.0
+512,fix link formatting,49,True,True,2018-02-25T15:11:33Z,2018-02-25T15:11:33Z,0,2,0,1,2,2,4,13648.0
+511,Add Porto to the chapter list,0,True,True,2018-02-23T12:12:16Z,2018-02-23T12:12:16Z,0,2,0,1,1,0,1,43535.0
+510,Update security link on read me,214,True,True,2018-02-22T22:22:00Z,2018-02-22T22:22:00Z,0,2,1,1,1,1,2,12434.0
+475,Adding An Updated Performance Comparison of Virtual Machines and Linux Containers to Virtual machines folder,399,True,False,,2018-02-22T00:49:17Z,0,4,6,2,2,0,2,0
+509,Add Atlanta to the PWL chapter list,72,True,True,2018-02-20T00:44:18Z,2018-02-20T00:44:18Z,0,2,0,1,1,0,1,5174.0
+508,Added paper on datacenter traffic control review,666,True,True,2018-02-02T13:42:33Z,2018-02-02T13:42:33Z,0,2,0,1,1,0,1,39795.0
+506,Add Meltdown and Spectre papers,315,True,True,2018-01-30T01:48:30Z,2018-01-30T01:48:30Z,0,2,0,1,2,0,2,4606.0
+505,Created directory for Affective Computing,158,True,True,2018-01-30T00:18:04Z,2018-01-30T00:18:04Z,0,2,0,2,3,0,3,138596.0
+504,Updated with a favorite paper from ACM.,265,True,True,2018-01-20T16:22:33Z,2018-01-20T16:22:33Z,0,3,1,1,2,0,2,40362.0
+501,Added gravity paper,341,True,False,,2017-12-15T12:22:20Z,0,4,7,1,0,0,0,0
+503,fix: links to existing paper,160,True,True,2018-01-12T00:12:23Z,2018-01-12T00:12:23Z,0,2,0,1,1,1,2,96831.0
+500,Add Rio de Janeiro to Chapter List,0,True,True,2017-12-09T13:14:02Z,2017-12-09T13:14:02Z,0,2,1,1,1,0,1,302870.0
+502,Add Athens to the Chapter List,0,True,True,2017-12-09T13:04:48Z,2017-12-09T13:04:48Z,0,2,0,1,1,0,1,101846.0
+499,Guadalajara chapter,31,True,True,2017-11-21T11:49:13Z,2017-11-21T11:49:13Z,0,2,0,1,1,0,1,74357.0
+498,Quickfix Barcelona Meetup link,52,True,True,2017-11-15T13:34:47Z,2017-11-15T13:34:47Z,0,2,1,1,1,1,2,3523.0
+496,Barcelona meetup link added,66,True,True,2017-11-09T09:21:23Z,2017-11-09T09:21:23Z,0,2,0,1,1,0,1,1453.0
+495,Fix Facebook Publications link,0,True,True,2017-11-05T03:01:29Z,2017-11-05T03:01:29Z,0,2,0,1,1,1,2,2144.0
+491,"Added ""2 Minute Papers"" as a good place to find papers",190,True,True,2017-11-04T19:59:29Z,2017-11-04T19:59:29Z,0,3,3,1,1,0,1,897951.0
+494,README: replace broken link,121,True,True,2017-11-04T19:58:45Z,2017-11-04T19:58:45Z,0,2,1,1,1,1,2,4212.0
+492,Adding the marsyas open source audio processing framework.,161,True,True,2017-10-26T12:16:49Z,2017-10-26T12:16:49Z,0,2,0,2,3,0,3,31022.0
+490,Adding the essentia music information retrieval library.,216,True,True,2017-10-25T10:46:34Z,2017-10-25T10:46:34Z,0,2,0,2,3,0,3,27505.0
+488,Adds haskell paper,631,True,True,2017-10-24T10:55:19Z,2017-10-24T10:55:19Z,0,2,0,1,2,1,3,33397.0
+489,Adding a real time chord detection algorithm paper.,203,True,True,2017-10-24T10:54:01Z,2017-10-24T10:54:01Z,0,2,0,2,4,1,5,22809.0
+487,Add IDS survey paper,246,True,True,2017-10-23T10:53:58Z,2017-10-23T10:53:58Z,0,2,0,1,2,1,3,5434.0
+486,Added Canonical papers related to computational effects in Haskell,1365,True,True,2017-10-20T20:26:12Z,2017-10-20T20:26:12Z,0,2,0,1,9,0,9,92.0
+485,add purely functional data structures to paradigms readme,365,True,True,2017-10-19T10:49:17Z,2017-10-19T10:49:17Z,0,2,0,2,2,1,3,10869.0
+484,Add paper on key reinstallation attacks,307,True,True,2017-10-18T11:57:10Z,2017-10-18T11:57:10Z,0,2,0,1,1,0,1,291.0
+482,Add link to article by Marvin Minsky,492,True,True,2017-10-03T10:20:29Z,2017-10-03T10:20:29Z,0,2,3,1,2,1,3,227526.0
+483,Add Iowa City Chapter to README,11,True,True,2017-10-03T10:21:04Z,2017-10-03T10:21:04Z,0,2,0,1,1,0,1,72836.0
+480,add Kyiv chapter,71,True,True,2017-10-02T12:09:34Z,2017-10-02T12:09:34Z,0,2,0,1,1,0,1,594314.0
+479,Corrects typos in filenames,122,True,True,2017-09-05T19:12:22Z,2017-09-05T19:12:22Z,0,2,1,10,21,75,96,60.0
+478,correct link to Kafka's paper,0,True,True,2017-09-05T13:11:18Z,2017-09-05T13:11:18Z,0,2,0,1,1,1,2,642.0
+477,adding Belfast chapter,22,True,True,2017-09-05T12:32:47Z,2017-09-05T12:32:47Z,0,1,0,1,1,0,1,175195.0
+476,Add two Erlang papers covering core VM subjects,325,True,True,2017-08-17T16:11:35Z,2017-08-17T16:11:35Z,0,2,0,1,4,0,4,90.0
+464,Add Chicago chapter to the list,0,True,True,2017-07-22T12:36:31Z,2017-07-22T12:36:31Z,0,2,0,1,1,0,1,1394041.0
+474,"Adding ""An Updated Performance Comparison of Virtual Machines and Linux Containers: IBM research report""",461,True,False,,2017-08-01T06:40:22Z,0,1,0,4,7,0,7,0
+473,Creating mathematics Folder and adding transcendence of pi paper,246,True,True,2017-07-31T17:33:35Z,2017-07-31T17:33:35Z,0,3,9,2,5,0,5,294114.0
+472,added Budapest chapter to the chapter list,52,True,False,,2017-07-28T15:32:01Z,0,2,0,1,1,0,1,0
+463,Adding a folder for the earth scientists! :),354,True,False,,2017-07-22T16:23:12Z,0,3,3,2,9,0,9,0
+469,Add Erlang papers,335,True,True,2017-07-22T12:34:32Z,2017-07-22T12:34:32Z,0,3,2,1,6,0,6,57146.0
+470,Fix broken link in Quantum Computing,64,True,True,2017-07-22T12:33:42Z,2017-07-22T12:33:42Z,0,2,0,1,1,1,2,43443.0
+466,Adding the trusting classifiers paper from the Seattle papers we love,216,True,True,2017-07-09T20:26:40Z,2017-07-09T20:26:40Z,0,2,0,1,2,0,2,223.0
+465,Sqlcache,174,True,True,2017-07-09T18:05:23Z,2017-07-09T18:05:24Z,0,2,0,5,5,1,6,162.0
+462,"Closes #443, Zürich chapter is up and running!",0,True,True,2017-06-10T15:02:44Z,2017-06-10T15:02:44Z,0,2,0,1,1,0,1,1983.0
+457,"Adding projectional editor paper, presented in Seattle papers we love in May 2017.",151,True,True,2017-06-01T10:42:29Z,2017-06-01T10:42:29Z,0,2,4,1,3,1,4,979625.0
+460,Add Teresina Chapter ADD Link,16,True,True,2017-05-30T12:18:00Z,2017-05-30T12:18:00Z,0,3,1,1,2,1,3,79277.0
+459,README.md: ADD Teresina Chapter,44,True,False,,2017-05-29T14:10:15Z,0,3,4,2,5155,1,5156,0
+455,README.md: Teresina Chapter,27,True,False,,2017-05-24T02:18:32Z,0,4,3,3,4,0,4,0
+458,early lisp history paper,310,True,True,2017-05-23T12:27:01Z,2017-05-23T12:27:01Z,0,2,0,2,3,2,5,974.0
+456,Fix InternetCensus2012 URL,23,True,True,2017-05-20T02:45:21Z,2017-05-20T02:45:21Z,0,2,0,1,1,1,2,32765.0
+433,create folder and add paper systematic_review,250,True,True,2017-04-24T13:16:51Z,2017-04-24T13:16:51Z,0,5,3,2,3,0,3,3610547.0
+441,Reorganize papers related to virtual machines,381,True,False,,2017-05-15T20:08:40Z,0,2,3,3,5,2,7,0
+452,Adding kvm paper; sub-sections in operations_systems,478,True,True,2017-05-15T10:55:28Z,2017-05-15T10:55:28Z,0,2,0,2,14,2,16,70043.0
+451,Adding grover's algorithm for search in square root of input size.,168,True,True,2017-05-14T21:22:36Z,2017-05-14T21:22:36Z,0,2,2,2,2,0,2,604410.0
+448,Add Lebanon chapter to README,109,True,True,2017-05-07T11:53:33Z,2017-05-07T11:53:33Z,0,2,0,1,1,0,1,233279.0
+450,Shors algorithm for prime factorization in polynomial time. ,210,True,True,2017-05-07T21:03:10Z,2017-05-07T21:03:10Z,0,2,0,2,3,1,4,2740.0
+449,Adding paper for spartan distributed array framework.,160,True,True,2017-05-07T11:53:16Z,2017-05-07T11:53:16Z,0,2,0,3,3,1,4,31187.0
+439,Add Medellín chapter to README,193,True,True,2017-05-03T07:53:54Z,2017-05-03T07:53:54Z,1,4,5,1,1,0,1,2524203.0
+447,Fix typo,68,True,True,2017-05-01T16:41:10Z,2017-05-01T16:41:10Z,0,2,1,1,1,1,2,129.0
+438,Update the Winnipeg chapter's link.,39,True,True,2017-05-01T16:44:24Z,2017-05-01T16:44:24Z,0,2,1,1,1,1,2,2398324.0
+446,Time-series new paper: ASAP,51,True,True,2017-05-01T16:42:35Z,2017-05-01T16:42:35Z,0,2,1,2,9,2,11,4275.0
+445,Fix link in README.md,48,True,True,2017-04-30T15:48:58Z,2017-04-30T15:48:58Z,0,2,1,1,1,1,2,2063.0
+440,Adding seminal UNIX paper (1974) in operating systems,391,True,True,2017-04-26T00:27:39Z,2017-04-26T00:27:40Z,0,2,0,2,2,0,2,204261.0
+442,<Description> : Adding the consistent hashing and random trees paper.,220,True,False,,2017-04-23T23:59:33Z,0,1,0,2,2,0,2,0
+434,Created Streaming Algorithms folder,566,True,True,2017-03-27T10:34:22Z,2017-03-27T10:34:22Z,0,3,4,1,7,0,7,329894.0
+437,Add link to Deep Photo Style Transfer (2017),467,True,True,2017-03-30T11:04:11Z,2017-03-30T11:04:11Z,0,2,0,1,3,0,3,38647.0
+436,Replace ps link with a pdf link.,49,True,True,2017-03-28T18:18:17Z,2017-03-28T18:18:17Z,0,2,0,1,1,1,2,62.0
+435,Fix MD link syntax in gossip/README.md,52,True,True,2017-03-27T10:31:58Z,2017-03-27T10:31:58Z,0,2,0,1,1,1,2,17159.0
+432,Add papers presented on SF chapter on Feb 23rd 2017,351,True,True,2017-02-26T14:14:22Z,2017-02-26T14:14:22Z,2,3,1,2,6,1,7,72848.0
+431,Fix broken link to ACM copyright link in CONTRIBUTING.md,132,True,True,2017-02-13T16:18:40Z,2017-02-13T16:18:40Z,0,2,1,1,1,1,2,51296.0
+430,adds raleigh-durham chapter,399,True,True,2017-01-23T15:12:49Z,2017-01-23T15:12:49Z,0,2,0,1,1,0,1,75.0
+429,Adding the simple economics of open source paper,210,True,True,2016-12-12T21:44:22Z,2016-12-12T21:44:22Z,0,2,5,1,4,0,4,129751.0
+428,adds gothenburg chapter,158,True,True,2016-12-09T15:57:34Z,2016-12-09T15:57:34Z,0,3,4,1,1,0,1,440390.0
+427,List 'A DNA-Based Archival Storage System' in `biocomputing/`,369,True,True,2016-11-19T22:05:49Z,2016-11-19T22:05:49Z,0,3,2,1,6,2,8,98361.0
+426,Correct link to CONTRIBUTING.md for licenses discussion,4,True,True,2016-11-19T22:06:40Z,2016-11-19T22:06:41Z,0,3,1,1,1,1,2,769553.0
+425,Add a link to Fermat's Library,90,True,False,,2016-11-19T22:36:04Z,0,4,5,1,3,2,5,0
+424,remove non-updated _meetups and add graphics papers to readme,75,True,True,2016-11-08T16:38:23Z,2016-11-08T16:38:23Z,0,3,1,3,6,56,62,1637.0
+423,Added San Diego to chapter list,89,True,True,2016-11-02T23:49:13Z,2016-11-02T23:49:13Z,0,3,1,1,1,0,1,80698.0
+422,Add Combinatorial Analysis and Computers (1965),1209,True,True,2016-10-30T12:38:53Z,2016-10-30T12:38:53Z,0,2,0,1,11,2,13,28337.0
+421,add epitaxis,320,True,True,2016-10-04T11:07:18Z,2016-10-04T11:07:18Z,0,2,1,1,0,0,0,60641.0
+384,ADD J. P. Grossman | march-13-2002 | hw | systolic array LRU,470,True,False,,2016-10-04T11:10:38Z,0,3,5,1,0,0,0,0
+420,Added paper on Therac-25,306,True,True,2016-10-04T11:10:12Z,2016-10-04T11:10:12Z,0,2,0,1,0,0,0,67962.0
+419,Fix machine learning paper link and spelling,249,True,True,2016-09-29T21:45:45Z,2016-09-29T21:45:45Z,0,2,1,1,2,2,4,752.0
+417,Add: audio_comp_sci: WaveNet paper + 2 implementations.,518,True,True,2016-09-22T14:06:09Z,2016-09-22T14:06:09Z,0,2,1,1,5,0,5,4011.0
+416,Fixing readme entry in memory management,252,True,True,2016-09-18T03:23:02Z,2016-09-18T03:23:02Z,0,2,1,1,1,1,2,4082.0
+415,Fix typo in the twitter handle link text,28,True,True,2016-08-30T21:46:37Z,2016-08-30T21:46:37Z,0,2,1,1,1,1,2,55.0
+414,Add Tidy Data,3384,True,True,2016-08-30T14:47:06Z,2016-08-30T14:47:06Z,0,2,1,2,7,0,7,124467.0
+412,Add the Sketch-n-Sketch paper,387,True,True,2016-08-30T03:56:18Z,2016-08-30T03:56:18Z,0,3,3,1,6,0,6,125639.0
+413,Add Tidy Data,3319,True,False,,2016-08-29T04:10:22Z,0,1,0,0,0,0,0,0
+411,"README.md: Add Washington, DC chapter",439,True,True,2016-08-25T18:58:36Z,2016-08-25T18:58:36Z,0,3,1,1,1,0,1,886.0
+410,kalman filter and category,155,True,True,2016-08-24T15:18:00Z,2016-08-24T15:18:00Z,0,1,0,2,7,0,7,5.0
+409,"Cryptography, non-blocking algorithm, quantum computing",860,True,True,2016-08-18T14:16:56Z,2016-08-18T14:16:56Z,0,2,1,8,15,0,15,236952.0
+407,Move paradigms into a paradigms directory,72,True,True,2016-07-28T20:11:38Z,2016-07-28T20:11:38Z,0,3,3,16,0,0,0,900537.0
+408,"Add ""age"" to Spelling It Out",103,True,True,2016-07-26T19:46:05Z,2016-07-26T19:46:05Z,0,2,1,1,1,1,2,1376.0
+403,Move languages into languages dir. Move 'tdd' dir into testing,103,True,True,2016-07-11T03:04:17Z,2016-07-11T03:04:17Z,0,4,8,10,0,0,0,1148027.0
+404,Add a more readable version for an existing paper,261,True,True,2016-07-06T22:26:22Z,2016-07-06T22:26:22Z,0,4,1,1,4,2,6,743541.0
+406,"add details wrt live/stream, remote details",0,True,True,2016-06-30T03:56:45Z,2016-06-30T03:56:45Z,0,3,2,1,3,3,6,418.0
+401,add tiered rep paper,110,True,True,2016-06-13T16:06:49Z,2016-06-13T16:06:49Z,0,1,0,2,2,0,2,4.0
+400,"fix broken link, and remove ^M Dos/Windows carriage returns",553,True,True,2016-06-11T12:22:29Z,2016-06-11T12:22:29Z,0,2,0,1,6,5,11,20321.0
+399,fix broken link,493,True,False,,2016-06-11T06:27:18Z,0,1,1,1,30,27,57,0
+398,SoK: Eternal War in Memory,348,True,True,2016-06-10T14:08:10Z,2016-06-10T14:08:10Z,0,2,3,2,3,0,3,700458.0
+397,README.md: Portland chapter,27,True,True,2016-06-02T14:20:18Z,2016-06-02T14:20:19Z,0,3,1,1,1,0,1,62452.0
+396,replace broken link to dropbox paper to official usenix link,191,True,True,2016-05-31T11:34:27Z,2016-05-31T11:34:27Z,0,2,0,1,1,1,2,317889.0
+395,"Simple, Fast, and Practical Non-Blocking and Blocking Concurrent Queu…",443,True,True,2016-05-31T11:33:43Z,2016-05-31T11:33:43Z,0,2,0,1,2,0,2,480285.0
+394,Add Medellin to the list of chapters,29,True,False,,2016-05-07T14:15:16Z,0,2,4,1,2,1,3,0
+393,Add Chattanooga to chapters list,0,True,True,2016-05-05T10:38:42Z,2016-05-05T10:38:42Z,0,3,0,1,1,0,1,69287.0
+392,next paper nyc,78,True,True,2016-04-21T23:30:32Z,2016-04-21T23:30:32Z,0,1,0,2,6,0,6,28.0
+391,Fixed typo,10,True,True,2016-04-14T15:06:34Z,2016-04-14T15:06:34Z,0,2,1,1,1,1,2,58.0
+389,"Readme: Include the Sci-Hub project in ""Other Good Places to Find Papers""",185,True,False,,2016-03-24T18:49:35Z,0,4,4,1,1,0,1,0
+390,code of conduct: correct a typo (extra full stop),80,True,True,2016-03-27T17:57:24Z,2016-03-27T17:57:24Z,0,3,2,1,1,1,2,69300.0
+388,Fix broken links,201,True,True,2016-03-22T11:27:26Z,2016-03-22T11:27:26Z,0,2,0,1,2,2,4,21545.0
+387,add for pwl-nyc april,98,True,True,2016-03-18T18:22:58Z,2016-03-18T18:22:58Z,0,1,0,2,6,0,6,73.0
+385,added paper on SPDY evaluation,306,True,True,2016-03-14T22:43:47Z,2016-03-14T22:43:47Z,0,3,1,1,1,0,1,347153.0
+383,Updated Random forests paper location,108,True,True,2016-03-05T15:24:27Z,2016-03-05T15:24:27Z,0,2,1,1,1,1,2,1642.0
+381,Fixed dead link,88,True,True,2016-02-29T18:47:55Z,2016-02-29T18:47:55Z,0,5,3,1,1,1,2,337444.0
+343,Reorganized Datastore-related papers in the Distributed Systems group,307,True,True,2016-02-21T13:17:48Z,2016-02-21T13:17:48Z,0,3,8,13,155,75,230,11692012.0
+380,Adding the HITS Algorithm paper,77,True,True,2016-02-20T22:26:20Z,2016-02-20T22:26:20Z,0,3,1,3,56,0,56,6773.0
+373,Adding a paper which describes the hits algorithm for ranking web pages,62,True,False,,2016-02-20T20:15:41Z,0,4,2,5,41,6,47,0
+338,Added Complexity section with Stephen Cook paper,0,True,False,,2016-02-20T14:15:21Z,0,3,4,1,3,0,3,0
+361,"Added ""No Silver Bullet""",386,True,False,,2016-02-20T14:13:58Z,0,3,6,1,5,2,7,0
+354,Added Elm language thesis,0,True,False,,2016-02-20T14:13:28Z,0,3,5,2,6,5,11,0
+378,Fix typo,27,True,True,2016-02-19T18:04:04Z,2016-02-19T18:04:04Z,0,2,1,1,1,1,2,51.0
+377,Adding 'End-to-End Arguments in System Design' under networking.,231,True,True,2016-02-15T20:46:46Z,2016-02-15T20:46:46Z,0,2,2,1,1,0,1,76.0
+376,spelling error in logic_and_programming readme,39,True,True,2016-02-09T18:41:56Z,2016-02-09T18:41:56Z,0,2,0,1,1,1,2,352.0
+276,add link to PWL reddit,82,True,True,2015-01-25T22:26:47Z,2015-01-25T22:26:47Z,0,2,1,1,4,0,4,730.0
+358,added optimization algorithms folder and paper on ant colony optimiza…,5,True,False,,2016-02-08T13:22:56Z,0,3,2,1,0,0,0,0
+372,Link broken,108,True,False,,2016-02-07T21:46:14Z,0,2,2,1,9,5,14,0
+371,Fixing the pagerank entry,50,True,True,2016-02-07T21:47:14Z,2016-02-07T21:47:14Z,0,2,1,2,11,1,12,342964.0
+364,Adding the paper which introduced the bm25 similarity measure,71,True,True,2016-02-02T15:23:23Z,2016-02-02T15:23:23Z,0,3,9,2,16,0,16,2470986.0
+368,Updates functional reactive programming section with relevant entries,0,True,True,2016-02-01T06:16:16Z,2016-02-01T06:16:16Z,0,3,1,1,18,2,20,832712.0
+370,add No Silver Bullet to readme,64,True,True,2016-01-31T21:09:47Z,2016-01-31T21:09:47Z,0,2,0,1,2,2,4,10399.0
+324,Networking fundamentals,528,True,False,,2016-01-25T11:46:05Z,0,3,8,1,12,1,13,0
+369,Added Papers we love Kathmandu,0,True,True,2016-01-25T11:44:15Z,2016-01-25T11:44:15Z,0,2,0,1,1,0,1,88281.0
+366,add cantrill papers,0,True,True,2016-01-20T14:58:34Z,2016-01-20T14:58:34Z,0,1,0,3,3,0,3,13.0
+365,add nyc nasser presentation paper and statement,0,True,True,2016-01-15T15:30:32Z,2016-01-15T15:30:32Z,0,1,0,2,9,0,9,3.0
+363,Added 'The Moral Character of Cryptographic Work' by Phillip Rogaway,85,True,True,2016-01-04T21:10:32Z,2016-01-04T21:10:32Z,0,3,2,1,1,0,1,339107.0
+362,Fix markup for data_structures,30,True,True,2015-11-28T17:47:33Z,2015-11-28T17:47:33Z,0,2,1,1,6,1,7,872.0
+356,Updated README URLs based on HTTP redirects,54,True,True,2015-11-23T22:00:22Z,2015-11-23T22:00:22Z,0,3,2,1,5,5,10,797835.0
+340,Add paper on parallel generational-copying garbage collection in GHC,967,True,True,2015-10-12T19:22:22Z,2015-10-12T19:22:22Z,0,3,3,3,4,0,4,392719.0
+352,Update to security section,84,True,True,2015-10-29T19:46:51Z,2015-10-29T19:46:51Z,0,3,2,1,8,10,18,890203.0
+355,Added dates and authors to economics section,102,True,True,2015-10-29T19:45:22Z,2015-10-29T19:45:22Z,0,3,2,1,3,3,6,18725.0
+353,add paper for presentation 11/19 nyc pwl,0,True,True,2015-10-20T20:50:19Z,2015-10-20T20:50:19Z,0,1,0,2,11,1,12,5.0
+350,Fixes #349 and broken link,10,True,True,2015-10-14T21:42:20Z,2015-10-14T21:42:20Z,0,2,1,1,1,1,2,55.0
+347,"Fixed CO link, fixes #346",0,True,True,2015-10-12T20:08:01Z,2015-10-12T20:08:01Z,0,2,1,1,1,1,2,50.0
+345,Paper on RSA key extraction and publication dates,181,True,True,2015-10-12T19:21:00Z,2015-10-12T19:21:00Z,0,2,1,1,5,4,9,88717.0
+344,Alphabetized List,37,True,True,2015-10-09T18:24:17Z,2015-10-09T18:24:17Z,0,2,1,1,20,20,40,3755.0
+334,Papers We Love Bucharest added,0,True,True,2015-10-09T10:59:50Z,2015-10-09T10:59:50Z,0,2,5,1,1,0,1,1294405.0
+342,A Framework for Automated Generation of Questions Across Formal Domains,22,True,True,2015-10-09T10:34:37Z,2015-10-09T10:34:37Z,0,2,0,1,0,0,0,19222.0
+341,A framework for automated generation of questions across formal domains,242,True,False,,2015-10-09T04:41:59Z,0,2,3,1,0,0,0,0
+339,Update to all READMEs for hosted content,209,True,True,2015-10-09T04:09:17Z,2015-10-09T04:09:17Z,0,3,4,48,309,66,375,118434.0
+330,"add Deprecating the Observer Pattern by Maier, Rompf & Odersky",272,True,True,2015-10-07T12:49:00Z,2015-10-07T12:49:00Z,0,4,5,1,0,0,0,2839861.0
+337,Add Papers We Love Philadelphia,79,True,True,2015-10-07T11:16:51Z,2015-10-07T11:16:51Z,0,3,1,1,1,0,1,140266.0
+335,add metaobject protocols,29,True,True,2015-10-01T17:58:47Z,2015-10-01T17:58:47Z,0,2,1,1,3,0,3,977.0
+331,Added Applications of Machine Learning to Location Data,133,True,True,2015-09-15T14:56:43Z,2015-09-15T14:56:43Z,0,2,1,1,2,0,2,394492.0
+327,add meijer et.al paper that has influenced work on recursion schemes,0,True,True,2015-09-02T21:26:42Z,2015-09-02T21:26:42Z,0,2,1,2,4,0,4,755013.0
+329,"Add Brasília, Brazil",311,True,True,2015-09-02T21:26:25Z,2015-09-02T21:26:25Z,0,3,1,1,1,0,1,130691.0
+328,Hopscotch hashing,198,True,True,2015-09-02T21:24:31Z,2015-09-02T21:24:31Z,0,2,1,1,1,0,1,533809.0
+326,add cuckoo hashing,231,True,True,2015-08-25T03:31:32Z,2015-08-25T03:31:32Z,0,3,2,1,1,0,1,369980.0
+325,Update README.md,65,True,True,2015-08-20T12:57:56Z,2015-08-20T12:57:56Z,0,2,1,1,2,0,2,269.0
+322,Add awesome list badge,24,True,False,,2015-08-13T16:58:19Z,0,2,1,1,2,0,2,0
+321,Fix link in information_theory/README.md,63,True,True,2015-08-13T15:26:53Z,2015-08-13T15:26:53Z,0,2,1,1,1,1,2,755343.0
+320,"add prop as logic wadler paper, also for nyc pwl aug/2015",0,True,True,2015-08-03T15:32:22Z,2015-08-03T15:32:22Z,0,2,1,2,2,0,2,435.0
+316,added vmware virtualization overview paper,0,True,True,2015-07-27T17:37:02Z,2015-07-27T17:37:02Z,0,2,1,1,3,0,3,1798566.0
+317,Fix dead Simfonia link,0,True,True,2015-07-19T13:48:46Z,2015-07-19T13:48:46Z,0,2,0,1,1,1,2,11517.0
+315,add principle type-schemes by damas-milner,32,True,True,2015-06-26T16:33:42Z,2015-06-26T16:33:42Z,0,2,3,1,0,0,0,88473.0
+314,remove paper with prohibitive copyright,41,True,True,2015-06-26T16:34:07Z,2015-06-26T16:34:07Z,0,2,1,3,2,2,4,775914.0
+312,"New chapter in Paris, France",77,True,True,2015-06-17T14:48:16Z,2015-06-17T14:48:16Z,0,4,5,1,1,0,1,74680.0
+308,Tchitra additions,274,True,True,2015-06-17T16:54:12Z,2015-06-17T16:54:12Z,0,3,4,8,38,0,38,1516607.0
+279,Papers on Dimensionality Reduction,1003,True,True,2015-06-17T16:41:20Z,2015-06-17T16:41:20Z,0,6,16,5,0,0,0,11617475.0
+256,Start a new chapter in Milan,0,True,False,,2015-06-17T15:46:48Z,0,2,5,1,1,0,1,0
+313,Fix broken link.,25,True,True,2015-06-17T14:50:18Z,2015-06-17T14:50:18Z,0,2,1,1,1,1,2,32274.0
+298,Add cross-layer-scheduling-in-cloud-systems,0,True,False,,2015-06-17T14:49:22Z,0,2,2,1,0,0,0,0
+307,add Fielding thesis to read me,42,True,False,,2015-06-17T14:47:48Z,0,2,1,1,2,0,2,0
+302,Add Crash-Only Software papers,921,True,True,2015-05-30T19:58:07Z,2015-05-30T19:58:07Z,0,3,5,1,4,0,4,2008764.0
+306,Merge pull request #1 from papers-we-love/master,17,True,False,,2015-05-28T05:51:35Z,0,1,1,0,0,0,0,0
+304,Paper in TDD folder - industrial teams,206,True,True,2015-05-14T12:54:07Z,2015-05-14T12:54:07Z,0,2,1,1,5,0,5,83903.0
+305,"fix link for ""Time, Clocks, and the Ordering of Events in a Distributed System""",32,True,True,2015-05-14T12:46:57Z,2015-05-14T12:46:57Z,0,2,1,1,1,1,2,150.0
+303,Paper in TDD folder - industrial teams,206,True,False,,2015-05-13T13:30:11Z,0,2,0,1,5,0,5,0
+300,nyc-may-add-memory-recl,0,True,True,2015-05-07T05:06:51Z,2015-05-07T05:06:51Z,0,1,1,2,14,0,14,13.0
+277,Added Winnipeg,162,True,True,2015-04-24T20:39:11Z,2015-04-24T20:39:11Z,0,3,6,1,1,0,1,7656263.0
+299,Update README to reference the actual PWL site,211,True,True,2015-04-24T20:45:07Z,2015-04-24T20:45:07Z,0,2,1,1,1,2,3,250.0
+297,Added Borg paper.,0,True,True,2015-04-17T17:02:44Z,2015-04-17T17:02:44Z,0,2,1,1,2,0,2,1025.0
+296,Add 'Conditional Random Fields' paper.,0,True,True,2015-04-08T23:15:23Z,2015-04-08T23:15:23Z,0,2,1,1,2,0,2,13305.0
+295,add :scroll: emojis for hosted crypto and info theory papers,0,True,True,2015-03-26T16:59:53Z,2015-03-26T16:59:53Z,0,2,2,1,2,2,4,7579.0
+273,add 'a history of haskell' by Paul Hudak and others,212,True,False,,2015-03-23T01:53:18Z,0,2,3,2,1,0,1,0
+294,Fix PR #273 per @zeeshanlakhani request (original credit to @mountain),20,True,True,2015-03-23T01:53:09Z,2015-03-23T01:53:09Z,0,2,1,1,1,0,1,1389.0
+293,Fix PR #273 per @zeeshanlakhani request (original credit to @mountain),0,True,False,,2015-03-23T01:30:13Z,0,2,2,1,1,0,1,0
+292,"add paper for april talk, The Scalable Commutativity Rule",0,True,True,2015-03-20T17:16:58Z,2015-03-20T17:16:58Z,0,1,0,1,2,0,2,91.0
+288,scalable logo recognition,0,True,False,,2015-03-16T18:23:57Z,0,2,3,1,2,0,2,0
+289,"add ""Fast String Searching""",0,True,True,2015-03-10T05:59:51Z,2015-03-10T05:59:51Z,0,4,2,1,3,0,3,358712.0
+287,Add Amsterdam chapter,0,True,True,2015-03-04T22:44:34Z,2015-03-04T22:44:34Z,0,2,2,1,1,0,1,305.0
+285,Added : Panorama weaving,224,True,True,2015-03-04T04:45:45Z,2015-03-04T04:45:45Z,0,3,2,1,3,0,3,163035.0
+284,"add the join calculus, la chapter",41,True,True,2015-02-28T02:46:00Z,2015-02-28T02:46:00Z,0,3,7,3,4,0,4,112056.0
+270,Adding Madrid chapter,0,True,True,2015-02-16T13:00:50Z,2015-02-16T13:00:51Z,0,3,8,1,1,0,1,2735364.0
+283,Add A Calculus of Communicating Systems,259,True,True,2015-02-17T05:04:23Z,2015-02-17T05:04:23Z,0,2,1,1,1,0,1,287301.0
+282,Added a folder for Judea Pearl (2011 Turing Award Winner),226,True,True,2015-02-12T20:21:43Z,2015-02-12T20:21:43Z,0,4,2,2,31,0,31,43798.0
+281,Add Aho-Corasick paper with ACM permission (see note on first page),543,True,True,2015-02-05T16:54:59Z,2015-02-05T16:54:59Z,0,3,2,2,1,0,1,113931.0
+280,Added Computing Machinery and Intelligence,212,True,True,2015-02-05T16:54:27Z,2015-02-05T16:54:27Z,0,3,2,1,2,0,2,190382.0
+278,Updated tutorial link (was 404ing),0,True,True,2015-01-29T20:52:32Z,2015-01-29T20:52:32Z,0,3,4,1,2,2,4,295826.0
+271,Add Hyderabad Chapter,30,True,True,2015-01-17T16:28:29Z,2015-01-17T16:28:29Z,0,2,4,1,1,0,1,9100.0
+272,Added the Diffie Hellman paper,0,True,True,2015-01-18T18:27:00Z,2015-01-18T18:27:00Z,0,4,5,1,1,0,1,97006.0
+266,Add 'Design Principles Behind Smalltalk' by Daniel H. H. Ingalls,64,True,True,2015-01-17T16:29:53Z,2015-01-17T16:29:54Z,0,2,1,1,0,0,0,338191.0
+269,Second attempt to add new garbage collection papers,183,True,True,2015-01-15T14:40:22Z,2015-01-15T14:40:22Z,0,3,3,2,5,0,5,57892.0
+268,Add links to more garbage collection papers.,94,True,False,,2015-01-14T22:18:17Z,0,2,5,1,5,0,5,0
+265,Add The Early History of Smalltalk by Alan C. Kay,51,True,True,2015-01-14T02:18:23Z,2015-01-14T02:18:23Z,0,3,3,2,0,0,0,29501.0
+267,Add 'Communication Theory of Secrecy Systems' by Shannon and related links.,502,True,True,2015-01-14T02:17:09Z,2015-01-14T02:17:09Z,0,3,2,2,8,0,8,22642.0
+264,Added bunny topic to papers we love.,43,True,False,,2015-01-13T00:56:27Z,0,2,1,2,3,0,3,0
+263,"1) Adding paper ""A Poor Man s Concurrency Monad"" by Koen Claessen to the ""haskell"" section; 2) Adding README file for ""pattern_matching"" section.",762,True,True,2015-01-12T17:33:36Z,2015-01-12T17:33:36Z,0,3,7,3,8,3,11,283788.0
+261,Add Google Macaroons paper.,206,True,True,2015-01-09T21:10:30Z,2015-01-09T21:10:30Z,0,3,6,2,1,0,1,339334.0
+262,Add Munich,101,True,True,2015-01-09T21:08:49Z,2015-01-09T21:08:49Z,0,3,2,1,1,0,1,41239.0
+255,new paper about digital video stabilization and rolling shutter correction,0,True,True,2014-12-22T08:01:27Z,2014-12-22T08:01:27Z,0,2,1,2,11,0,11,11003.0
+210,Added the Reykjavík chapter to README.md,0,True,True,2014-12-07T06:01:44Z,2014-12-07T06:01:44Z,0,3,9,1,1,0,1,2019841.0
+253,Added the Vienna chapter,240,True,True,2014-12-12T05:27:51Z,2014-12-12T05:27:51Z,0,2,1,1,1,0,1,28180.0
+251,Add a new link,78,True,True,2014-12-03T22:46:59Z,2014-12-03T22:46:59Z,0,3,1,1,1,0,1,123955.0
+250,add a link to Facebook's Warm BLOB Storage System in /datastore/README.md,0,True,False,,2014-12-02T12:23:45Z,0,2,3,1,1,0,1,0
+248,Updates to Code of Conduct,396,True,True,2014-12-01T23:29:45Z,2014-12-01T23:29:45Z,0,6,10,1,33,37,70,376821.0
+249,Updated the URL for the PWL CO site.,0,True,True,2014-12-01T20:15:20Z,2014-12-01T20:15:20Z,0,1,0,1,1,1,2,26.0
+212,pwl paper for dec,17,True,True,2014-11-14T16:05:36Z,2014-11-14T16:05:36Z,0,2,1,1,3,0,3,59387.0
+247,"Auctions and bidding: A guide for computer scientists, by Simon Parsons.",169,True,True,2014-11-28T01:12:39Z,2014-11-28T01:12:39Z,0,4,9,1,5,0,5,113190.0
+246,Soft typing by Robert Cartwright and Mike Fagan,217,True,True,2014-11-25T15:25:22Z,2014-11-25T15:25:22Z,0,4,2,1,2,0,2,60776.0
+216,Repair broken link,19,True,True,2014-11-20T17:34:34Z,2014-11-20T17:34:34Z,0,2,1,1,1,1,2,178935.0
+215,Added logo and copyright information to README,161,True,True,2014-11-15T19:58:50Z,2014-11-15T19:58:50Z,0,3,0,1,11,1,12,21923.0
+213,Dallas chapter.,0,True,True,2014-11-14T15:18:22Z,2014-11-14T15:18:22Z,0,2,2,1,1,0,1,904.0
+145,add papers referred to by @skamille,0,True,True,2014-07-18T05:00:38Z,2014-07-18T05:00:38Z,0,2,1,3,7,2,9,3261.0
+209,Added Hamburg meetup group,0,True,True,2014-11-09T23:54:46Z,2014-11-09T23:54:46Z,0,2,1,1,1,0,1,132299.0
+189,"add meetup in Hamburg, Germany",34,True,False,,2014-11-08T11:10:28Z,0,10,8,13,125,2,127,0
+208,Add link to Dwork's seminal Differential Privacy,202,True,True,2014-11-07T18:00:56Z,2014-11-07T18:00:56Z,0,3,1,1,6,0,6,151260.0
+207,Add procedural modeling and shape grammar links,214,True,True,2014-11-07T18:00:25Z,2014-11-07T18:00:25Z,0,3,1,1,13,0,13,152016.0
+202,Adding Toronto to the list of PWL chapters.,176,True,True,2014-11-06T23:34:28Z,2014-11-06T23:34:28Z,0,4,6,1,1,0,1,1458911.0
+206,Add ScatterAlloc paper,187,True,True,2014-11-06T14:11:05Z,2014-11-06T14:11:05Z,0,3,3,2,5,0,5,53176.0
+205,fixes #204,59,True,True,2014-11-06T05:46:50Z,2014-11-06T05:46:50Z,0,2,1,1,1,1,2,454983.0
+203,adding section for papers related to gossip,89,True,True,2014-10-31T19:11:05Z,2014-10-31T19:11:05Z,0,3,2,1,19,0,19,223527.0
+192,Add Munich Papers We Love,0,True,False,,2014-10-24T07:38:31Z,0,3,2,1,1,0,1,0
+155,Add link to the Nashville chapter,121,True,False,,2014-10-21T16:51:46Z,0,2,5,1,1,0,1,0
+201,link to SF meetup summary,59,True,True,2014-10-21T16:43:59Z,2014-10-21T16:43:59Z,0,2,0,3,7,6,13,66939.0
+200,[Meetup Pages Section] adding 2014 list for SF meetups,0,True,True,2014-10-20T19:29:04Z,2014-10-20T19:29:04Z,0,3,1,1,54,0,54,58007.0
+196,Add promises paper,126,True,False,,2014-10-16T15:14:15Z,0,3,6,1,0,0,0,0
+195,fix typo in robotics readme,27,True,True,2014-10-15T21:42:37Z,2014-10-15T21:42:37Z,0,2,1,1,1,1,2,18923.0
+190,New robotics papers,1467,True,True,2014-10-15T15:49:04Z,2014-10-15T15:49:04Z,0,2,6,5,44,0,44,519338.0
+173,On Computational Complexity and Algorithms,125,True,True,2014-10-15T15:34:58Z,2014-10-15T15:34:58Z,0,3,5,1,1,0,1,3662957.0
+191,Added push/enter vs eval/apply paper,52,True,True,2014-10-14T17:26:59Z,2014-10-14T17:26:59Z,0,4,3,2,1,0,1,42985.0
+194,adding PWLSF#8 paper,13,True,True,2014-10-14T17:24:40Z,2014-10-14T17:24:40Z,0,3,1,2,3,0,3,458.0
+188,Update link to a portal with a download and other mirrors,243,True,True,2014-10-08T03:30:03Z,2014-10-08T03:30:03Z,0,3,2,1,1,1,2,37285.0
+186,add boston #2,43,True,True,2014-09-30T17:53:02Z,2014-09-30T17:53:02Z,0,2,1,2,1,0,1,151.0
+179,add link to Seattle chapter,0,True,True,2014-09-30T02:05:29Z,2014-09-30T02:05:29Z,0,3,6,1,1,0,1,964695.0
+184,Add Montreal chapter,220,True,True,2014-09-25T20:18:08Z,2014-09-25T20:18:08Z,0,3,5,1,1,0,1,74910.0
+185,add internal pwl paper on x86 semantics with note,0,True,True,2014-09-25T18:04:57Z,2014-09-25T18:04:57Z,0,2,1,1,4,0,4,1074.0
+181,"Adding ""Making Reliable Distributed Systems in the Presence of Software Errors"" Erlang paper",53,True,True,2014-09-23T17:12:56Z,2014-09-23T17:12:56Z,0,3,2,1,2,0,2,241756.0
+182,typo fix,33,True,True,2014-09-23T16:40:10Z,2014-09-23T16:40:10Z,0,2,1,1,1,1,2,553.0
+180,Added time-series section and Zumbach&Muller's paper,199,True,True,2014-09-22T13:47:50Z,2014-09-22T13:47:50Z,0,4,4,2,23,0,23,151558.0
+177,Add reference to A Taxonomy of SACAs,189,True,True,2014-09-18T19:09:15Z,2014-09-18T19:09:15Z,0,3,2,1,10,0,10,237981.0
+178,Fixing broken link to Bangalore meetup group,19,True,True,2014-09-16T04:39:23Z,2014-09-16T04:39:23Z,0,2,2,1,1,1,2,240.0
+142,Add link to the Bangalore chapter,43,True,True,2014-09-15T22:05:19Z,2014-09-15T22:05:19Z,0,5,12,1,1,0,1,5389717.0
+174,"add papers from peter burka, including the one he'll present in nyc, *cr...",18,True,True,2014-09-08T17:28:22Z,2014-09-08T17:28:22Z,0,3,2,3,8,0,8,349.0
+159,Added paper on computational complexity,37,True,False,,2014-09-03T07:28:12Z,0,4,4,1,0,0,0,0
+172,Add a link to https://lobste.rs/t/pdf,63,True,True,2014-09-02T20:03:18Z,2014-09-02T20:03:18Z,0,3,5,1,1,0,1,57233.0
+170,Adds Caching paper on 2Q algorithm,263,True,True,2014-09-02T20:01:42Z,2014-09-02T20:01:42Z,0,3,3,2,2,0,2,109482.0
+168,"Introduced new category ""experimental algorithmics""",282,True,True,2014-08-29T18:40:41Z,2014-08-29T18:40:41Z,0,4,3,2,8,0,8,17222.0
+165,Add resources from PWLBOS Aug2014,0,True,True,2014-08-26T20:07:30Z,2014-08-26T20:07:30Z,0,3,1,2,2,0,2,1328.0
+164,adds Sammet PL history paper,241,True,True,2014-08-26T17:46:42Z,2014-08-26T17:46:42Z,0,3,2,1,2,0,2,2643.0
+163,adds link to SDD1 paper,101,True,True,2014-08-26T01:33:21Z,2014-08-26T01:33:21Z,0,3,2,1,2,0,2,578.0
+162,adds sdd-1 paper,88,True,False,,2014-08-26T01:08:13Z,0,2,6,1,2,0,2,0
+144,Add link to the Chicago chapter,0,True,True,2014-08-21T04:16:29Z,2014-08-21T04:16:29Z,0,6,7,1,1,0,1,3051837.0
+160,added link to the PWL singapore group,85,True,True,2014-08-19T19:05:21Z,2014-08-19T19:05:21Z,0,3,5,3,6,4,10,49852.0
+161,Added Alan Turing's morphogenesis in biocomputing,0,True,True,2014-08-19T19:28:55Z,2014-08-19T19:28:55Z,0,3,2,1,5,1,6,156.0
+157,Add QuickCheck race conditions paper,0,True,True,2014-08-19T15:57:31Z,2014-08-19T15:57:31Z,0,3,2,1,2,0,2,693364.0
+65,Added the Papers We Love CO charter,0,True,True,2014-03-18T07:06:12Z,2014-03-18T07:06:12Z,0,3,3,1,1,0,1,40732.0
+81,Gamification: Creating folder and adding some papers,226,True,True,2014-03-31T17:36:55Z,2014-03-31T17:36:55Z,0,3,3,3,15,0,15,106519.0
+153,Filled up the security section a little.,112,True,False,,2014-08-08T16:02:16Z,0,3,12,1,4,0,4,0
+156,Added some papers to the security section.,67,True,True,2014-08-08T15:59:47Z,2014-08-08T15:59:47Z,0,3,1,1,4,0,4,6997.0
+154,Correcting a typo.,0,True,True,2014-08-07T16:18:43Z,2014-08-07T16:18:43Z,0,3,2,1,1,1,2,376.0
+152,Added Orleans paper,90,True,True,2014-08-06T17:07:41Z,2014-08-06T17:07:41Z,0,3,2,1,2,0,2,11969.0
+151,Add Research Papers from Robert Haper,250,True,True,2014-08-06T00:20:48Z,2014-08-06T00:20:48Z,0,2,1,1,1,0,1,19790.0
+73,Nonblocking concurrent queue,245,True,True,2014-03-26T00:39:12Z,2014-03-26T00:39:12Z,0,3,2,1,1,0,1,290878.0
+149,Add a reference to security papers.,60,True,True,2014-08-02T19:08:01Z,2014-08-02T19:08:01Z,0,3,2,1,1,0,1,258444.0
+150,Fix typo,0,True,True,2014-08-01T12:28:11Z,2014-08-01T12:28:11Z,0,3,2,1,1,1,2,69919.0
+148,added link for chapter list,40,True,True,2014-07-27T04:58:03Z,2014-07-27T04:58:03Z,0,3,5,1,14,13,27,117580.0
+53,add better ethos contributing guidelines,13,True,True,2014-03-13T23:03:25Z,2014-03-13T23:03:25Z,0,3,3,1,3,1,4,172231.0
+10,Add lots of papers related to distributed systems,38,True,True,2014-03-03T14:39:46Z,2014-03-03T14:39:46Z,0,3,4,79,0,0,0,122423.0
+85,Adds Combinatory logic section and related paper,129,True,True,2014-04-04T13:58:44Z,2014-04-04T13:58:44Z,0,3,6,3,31,0,31,171103.0
+143,"adding ""Ideal Hash Trees"" by Phil Bagwell",0,True,True,2014-07-16T23:32:43Z,2014-07-16T23:32:43Z,0,3,2,1,0,0,0,29944.0
+141,add Boston chapter,0,True,True,2014-07-13T16:59:48Z,2014-07-13T16:59:48Z,0,4,5,1,2,1,3,18667.0
+77,"added ""Life beyond distributed transactions"" to the set of papers about distributed systems.",0,True,True,2014-04-01T05:05:44Z,2014-04-01T05:05:44Z,0,3,2,1,0,0,0,366634.0
+64,Added tw-idf paper,65,True,False,,2014-03-20T13:26:25Z,0,8,10,6,31,0,31,0
+18,Clean up naming,67,True,True,2014-03-05T18:26:37Z,2014-03-05T18:26:37Z,0,5,8,98,1,1,2,50425.0
+34,add better contrib guidelines & tiny reorg,82,True,True,2014-03-07T19:23:38Z,2014-03-07T19:23:38Z,0,4,12,1,17,8,25,69834.0
+125,Create README.md,124,True,True,2014-05-26T13:10:54Z,2014-05-26T13:10:54Z,0,3,2,1,2,0,2,181049.0
+117,new-paper-for-erik-hinton-pres-and-link-add-remove,0,True,True,2014-05-13T08:35:59Z,2014-05-13T08:35:59Z,0,1,1,2,1,1,2,18.0
+22,Add Dapper paper,94,True,False,,2014-03-06T05:13:26Z,0,3,3,1,0,0,0,0
+24,"spanner dupe, sports folder name, keep csp together",0,True,True,2014-03-06T05:12:50Z,2014-03-06T05:12:50Z,0,2,1,4,0,0,0,3786.0
+79,papers: add added 3 papers from the thesis: Efficient Memory Management for Message Passing Concurrency,22,True,True,2014-03-31T17:37:18Z,2014-03-31T17:37:18Z,0,3,2,2,6,0,6,243779.0
+129,added space after a md formatted link,241,True,True,2014-06-01T23:17:30Z,2014-06-01T23:17:30Z,0,3,2,2,3,3,6,184140.0
+72,added tw-idf paper and description,49,True,True,2014-03-20T13:27:04Z,2014-03-20T13:27:04Z,0,2,1,2,19,0,19,32030.0
+111,"Add Columbus, OH chapter",94,True,True,2014-04-27T00:02:50Z,2014-04-27T00:02:50Z,0,3,4,1,1,0,1,77631.0
+93,Add dexprs paper,0,True,True,2014-04-06T22:04:32Z,2014-04-06T22:04:32Z,0,3,2,1,1,0,1,16743.0
+80,A Berkeley technical report about cloud computing.,158,True,True,2014-03-30T21:59:26Z,2014-03-30T21:59:26Z,0,3,2,1,2,0,2,108595.0
+112,Data Compression - First Paper,173,True,True,2014-05-01T16:29:25Z,2014-05-01T16:29:25Z,0,3,1,2,1,0,1,53800.0
+124,added The Level Ancestor Problem Simplified,0,True,True,2014-05-26T13:11:17Z,2014-05-26T13:11:17Z,0,2,1,1,0,0,0,259979.0
+113,"Add new category, program verification.",111,True,True,2014-05-02T21:12:26Z,2014-05-02T21:12:26Z,0,3,2,1,3,0,3,1120.0
+99,Update README.md,207,True,True,2014-04-11T06:44:59Z,2014-04-11T06:44:59Z,0,3,3,1,1,0,1,143390.0
+70,Turing1936,139,True,True,2014-03-21T05:13:34Z,2014-03-21T05:13:34Z,0,3,2,1,2,0,2,130225.0
+90,updates based on applicative programming and what will be mays paper,16,True,True,2014-04-04T15:12:53Z,2014-04-04T15:12:53Z,0,3,1,6,7,4,11,356.0
+57,readme titles and readme URL approach,12,True,True,2014-03-16T00:58:41Z,2014-03-16T00:58:41Z,0,3,4,16,60,58,118,166563.0
+120,added The LCA Problem Revisited,237,True,True,2014-05-19T17:24:36Z,2014-05-19T17:24:36Z,0,3,2,1,0,0,0,96663.0
+75,Adds several computer graphics papers and a computer vision section,0,True,True,2014-03-26T00:42:25Z,2014-03-26T00:42:25Z,0,3,2,2,14,1,15,135120.0
+104,Lighting & Interior mapping papers,92,True,True,2014-04-23T15:37:22Z,2014-04-23T15:37:22Z,0,3,1,1,6,0,6,5420.0
+35,Added some Combinatorics,103,True,False,,2014-03-11T22:57:02Z,0,5,9,1,0,0,0,0
+66,Renamed some documents in the distributed_systems folder,530,True,True,2014-03-18T13:55:00Z,2014-03-18T13:55:00Z,0,3,2,5,0,0,0,59694.0
+122,Berlin chapter of papers we love,0,True,True,2014-05-22T17:21:37Z,2014-05-22T17:21:37Z,0,4,3,1,1,0,1,256.0
+139,Create a,0,True,False,,2014-06-22T03:56:49Z,0,2,0,1,1,0,1,0
+60,Added Code of Conduct,247,True,True,2014-04-01T03:11:55Z,2014-04-01T03:11:55Z,0,6,23,1,60,0,60,1339980.0
+138,Fixed broken link in 'The Rendering Equation',0,True,True,2014-06-20T20:59:09Z,2014-06-20T20:59:09Z,0,3,2,1,1,1,2,379.0
+119,android security posts mentioned in cmu blog,53,True,True,2014-05-19T21:50:44Z,2014-05-19T21:50:44Z,0,3,2,1,8,0,8,237120.0
+54,Delete README.md,28,True,False,,2014-03-12T14:05:07Z,0,3,2,1,0,3,3,0
+21,for PWLSF#1,61,True,True,2014-03-05T19:35:39Z,2014-03-05T19:35:39Z,0,2,1,1,0,0,0,1479.0
+109,Added the Apache Mesos paper,304,True,True,2014-04-26T03:41:30Z,2014-04-26T03:41:30Z,0,3,3,1,0,0,0,72419.0
+86,Adds Haskell section and starter paper by Simon Peyton Jones,365,True,True,2014-04-16T16:35:49Z,2014-04-16T16:35:49Z,0,5,12,2,4,0,4,1047887.0
+136,Hints for computer system design @doothings PWL#1,74,True,True,2014-06-17T02:39:02Z,2014-06-17T02:39:02Z,0,2,3,2,1,0,1,559069.0
+97,Concatenative programming!,0,True,True,2014-04-15T21:49:27Z,2014-04-15T21:49:27Z,0,2,4,2,4,0,4,626581.0
+4,adds howto read papers references,34,True,True,2014-02-24T03:28:16Z,2014-02-24T03:28:16Z,0,2,1,1,8,0,8,2668.0
+12,Adding Michael R. Bernstein list of papers on distributed systems.,114,True,True,2014-03-03T14:40:55Z,2014-03-03T14:40:55Z,0,2,0,19,0,0,0,14245.0
+5,Added folders for more sections,306,True,True,2014-02-24T21:11:36Z,2014-02-24T21:11:36Z,0,4,10,20,7,0,7,45494.0
+126,Add pointers to some speech recognition papers.,518,True,True,2014-05-29T14:07:32Z,2014-05-29T14:07:32Z,0,3,2,1,9,0,9,241970.0
+108,Add links to Calvin papers,269,True,True,2014-04-24T18:31:10Z,2014-04-24T18:31:10Z,0,4,4,1,12,0,12,998.0
+94,adding security directory and the Ptacek/Newsham IDS Evasion paper,106,True,True,2014-04-08T03:01:28Z,2014-04-08T03:01:28Z,0,3,2,1,0,0,0,62558.0
+103,Add Google's Omega Paper,76,True,True,2014-04-24T15:01:35Z,2014-04-24T15:01:35Z,0,3,5,1,2,0,2,175136.0
+92,Machinelearning papers,484,True,True,2014-04-08T02:58:32Z,2014-04-08T02:58:32Z,0,4,6,1,9,0,9,203569.0
+107,Added in bump mapping section,138,True,True,2014-04-26T03:41:59Z,2014-04-26T03:41:59Z,0,3,2,1,3,0,3,148223.0
+84,Adding core.rrb-vector paper and a Clojure cross reference README.,364,True,True,2014-04-04T12:40:31Z,2014-04-04T12:40:31Z,0,3,6,2,20,0,20,167236.0
+6,added MIT's distributed system's reading group,37,True,True,2014-02-25T17:55:47Z,2014-02-25T17:55:47Z,0,2,1,2,1,0,1,1481.0
+56,add Traits paper,562,True,True,2014-03-14T01:32:27Z,2014-03-14T01:32:27Z,0,3,2,1,1,0,1,110192.0
+133,Added Organizing Programs Without Classes and updated README,315,True,True,2014-06-09T18:40:05Z,2014-06-09T18:40:05Z,0,4,1,2,2,0,2,18408.0
+135,Updated README for api_design,0,True,True,2014-06-10T04:47:11Z,2014-06-10T04:47:11Z,0,3,1,1,1,1,2,16166.0
+87,"Adds 'Sparrow: Distributed, Low Latency Scheduling' to distributed systems section.",88,True,True,2014-04-06T22:06:05Z,2014-04-06T22:06:05Z,0,3,7,1,2,0,2,202520.0
+2,Adds Backus' 1977 ACM Turing Award lecture,367,True,True,2014-02-18T16:30:04Z,2014-02-18T16:30:04Z,0,3,3,1,0,0,0,194.0
+58,REST paper,191,True,True,2014-03-16T00:57:00Z,2014-03-16T00:57:00Z,0,3,7,1,1,0,1,12997.0
+134,"Added Time, Clocks, and the Ordering of Events in a Distributed System ",262,True,False,,2014-06-10T00:13:22Z,0,4,3,3,2,0,2,0
+76,Clojurewest papers,56,True,True,2014-04-01T14:03:40Z,2014-04-01T14:03:40Z,0,3,5,3,18,0,18,505666.0
+106,add sf-paper-april-24,0,True,True,2014-04-24T05:10:29Z,2014-04-24T05:10:29Z,0,1,0,1,0,0,0,9.0
+131,Added Event Calculus paper,0,True,True,2014-06-09T13:21:38Z,2014-06-09T13:21:38Z,0,3,2,1,19,0,19,251286.0
+127,Create iloveml,0,True,False,,2014-05-28T14:38:26Z,0,2,0,1,1,0,1,0
+121,Fix folder name,80,True,True,2014-05-21T13:30:12Z,2014-05-21T13:30:12Z,0,2,1,5,0,0,0,79.0
+114,Adding info theory section and starter paper,89,True,True,2014-05-05T18:20:04Z,2014-05-05T18:20:04Z,0,3,2,1,0,0,0,438.0
+105,Add the Kafka paper,0,True,False,,2014-04-24T04:55:04Z,0,2,2,1,0,0,0,0
+100,pull,0,True,False,,2014-04-13T16:21:34Z,0,9,0,151,40,1,41,0
+95,add jason hockman paper on computational analysis and auto dertimination...,17,True,True,2014-04-08T03:01:00Z,2014-04-08T03:01:00Z,0,3,2,1,0,0,0,48720.0
+83,one vm to rule them all,0,True,True,2014-04-01T05:05:12Z,2014-04-01T05:05:12Z,0,3,2,1,2,0,2,10122.0
+82,Netdiagnoser,42,True,False,,2014-03-30T22:35:58Z,0,3,5,2,2,0,2,0
+78,3 papers from the thesis: Efficient Memory Management for Message Passing Concurrency,387,True,False,,2014-03-28T21:54:26Z,0,2,4,8,52,2,54,0
+74,Add several paper in computer graphics and create a new computer vision section,175,True,False,,2014-03-24T13:30:05Z,0,3,3,2,14,1,15,0
+67,Added biocomputing section + Adleman 1994 paper,102,True,True,2014-03-20T03:42:01Z,2014-03-20T03:42:01Z,0,3,2,1,9,0,9,121311.0
+63,Adds Twenty Years of Attacks on the RSA Cryptosystem,217,True,True,2014-03-19T04:35:59Z,2014-03-19T04:35:59Z,0,4,5,1,1,0,1,136703.0
+61,Added a paper on MapReduce from the 2004 OSDI,159,True,False,,2014-03-16T20:01:31Z,0,3,6,1,0,0,0,0
+49,added graphics directory with two papers,450,True,True,2014-03-14T01:31:28Z,2014-03-14T01:31:28Z,0,3,3,1,2,0,2,208413.0
+48,Adds the RSA paper,342,True,True,2014-03-12T04:59:48Z,2014-03-12T04:59:48Z,0,3,6,1,1,0,1,59228.0
+40,Audit,600,True,True,2014-03-11T03:01:59Z,2014-03-11T03:01:59Z,0,5,7,81,96,1,97,236454.0
+45,latest presentation link & reference wiki for rest,56,True,True,2014-03-11T01:33:59Z,2014-03-11T01:33:59Z,0,3,2,1,4,3,7,172360.0
+43,Added links to ACM licensing guidelines,0,True,True,2014-03-09T01:17:42Z,2014-03-09T01:17:42Z,0,3,2,1,2,1,3,46347.0
+31,"add links based on resolving issues #25, #26, #27, #28",0,True,False,,2014-03-08T20:15:41Z,0,11,0,2,16,8,24,0
+39,"Remove dups, add papers on distributed systems and virtualization",471,True,True,2014-03-08T06:45:44Z,2014-03-08T06:45:44Z,0,3,5,5,0,0,0,49836.0
+36,Add some robotics papers.,611,True,True,2014-03-07T15:14:37Z,2014-03-07T15:14:37Z,0,5,4,3,0,0,0,30290.0
+37,Add Saint Louis to the list of organizations.,71,True,True,2014-03-07T15:11:47Z,2014-03-07T15:11:47Z,0,4,3,1,1,0,1,26314.0
+33,Add Turing's 1936 paper and Karp's NP paper,269,True,False,,2014-03-07T05:01:46Z,0,3,7,3,0,0,0,0
+32,Network papers.,0,True,False,,2014-03-07T04:15:09Z,0,3,4,14,0,0,0,0
+8,added networking section & paper,85,True,True,2014-02-26T12:55:07Z,2014-02-26T12:55:07Z,0,2,1,3,0,0,0,25759.0
+7,add SF chapter and make room for moar!,1,True,True,2014-02-25T21:28:37Z,2014-02-25T21:28:37Z,0,2,1,1,6,1,7,4192.0
+16,"Adding papers in abstract interpretation, abstract machines, binary deci...",137,True,False,,2014-03-05T11:53:46Z,0,2,2,140,0,0,0,0
+17,remove dupes,16,True,True,2014-03-05T04:15:56Z,2014-03-05T04:15:56Z,0,1,0,11,0,0,0,699.0
+15,add peercoin whitepaper,0,True,True,2014-03-04T21:45:49Z,2014-03-04T21:45:49Z,0,2,1,1,0,0,0,1812.0
+14,some more papers on distributed computing,101,True,True,2014-03-04T17:26:24Z,2014-03-04T17:26:24Z,0,2,1,2,0,0,0,7498.0
+13,Added SciRate,50,True,True,2014-03-04T01:27:09Z,2014-03-04T01:27:09Z,0,2,1,1,1,0,1,7074.0
+11,"Organized some papers, and added arXiv as a paper repo.",0,True,True,2014-03-03T14:39:57Z,2014-03-03T14:39:57Z,0,2,1,3,1,0,1,106485.0

@@ -1,0 +1,41 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+124709,[XPU] Add manual_seed and synchronize method,371,True,False,,2024-04-26T12:32:16Z,6,5,9,1,12,5,17,0
+123436,Teach ShapeEnv that a <= b => a < b + 1,66,True,False,,2024-04-26T10:18:06Z,2,4,9,1,4,0,4,0
+124888,[parametrization] fix `requires_grad` propagation,275,True,False,,2024-04-26T10:19:35Z,5,4,11,2,21,1,22,0
+124670,Add common used score_mod functions for templated attention,242,True,False,,2024-04-24T17:04:40Z,5,5,6,2,81,62,143,0
+123342,Apply guard knowledge to all simplifications,184,True,False,,2024-04-26T10:18:05Z,13,4,5,1,63,51,114,0
+124873,[WIP because of some Git troubles] Check type of device_type for #124738,470,True,False,,2024-04-26T09:51:53Z,2,35,10,202,4836,3531,8367,0
+124938,add new API torch.amp.is_autocast_available,199,True,False,,2024-04-26T08:45:23Z,4,4,3,5,29,6,35,0
+124822,Explicitly enable CPU fallback environment for XPU test,235,True,False,,2024-04-26T08:41:47Z,0,2,2,1,1,0,1,0
+112662,Graph break cleanly for test_nestedtensor,209,True,False,,2023-11-03T07:20:49Z,15,4,3,7,83,6,89,0
+124823,Update torch-xpu-ops pin (ATen XPU implementation),186,True,False,,2024-04-26T08:40:01Z,0,2,2,1,1,1,2,0
+124842,[Inductor] Update Intel GPU Triton commit pin.,50,True,False,,2024-04-26T07:57:53Z,0,2,1,1,1,1,2,0
+125005,Fix two tiny problems:,130,True,False,,2024-04-26T07:12:31Z,0,1,1,1,21,37,58,0
+124983,[BE] Test everything against scipy-1.10.0,93,True,False,,2024-04-26T07:03:38Z,1,3,3,1,2,3,5,0
+124734,Remove TMP_LIBKINETO_NANOSECOND flag from Compilation,258,True,False,,2024-04-26T06:57:07Z,1,5,11,3,2,5,7,0
+124890,[DeviceMesh] Removing mapping child_to_parent_mapping from `_MeshEnv`,384,True,False,,2024-04-26T06:40:40Z,1,5,8,1,0,11,11,0
+118450,[do not review/merge] Squash of whc/flight based on whc/flightbase,309,True,False,,2024-04-26T06:35:07Z,0,1,2,10,659,233,892,0
+124965,Update trymerge to honor the list of unstable failures from Dr.CI,194,True,False,,2024-04-26T05:10:54Z,2,3,3,4,47,1,48,0
+121361,"Implement deepcopy / clone for SymNode, NestedIntSymNode",1057,True,False,,2024-04-26T04:18:33Z,4,4,9,4,18,1,19,0
+123526,[dynamo] Add support for DELETE_SUBSCR,162,True,False,,2024-04-25T22:07:28Z,1,5,41,13,32,6,38,0
+124968,skip unsupported rocm test,381,True,False,,2024-04-26T00:36:34Z,2,4,5,1,1,0,1,0
+124804,[cudagraphs] add cudagraph_skips counter,322,True,False,,2024-04-26T03:22:35Z,1,3,14,6,59,16,75,0
+124700,[cudagraphs] add more info to skip messages,290,True,False,,2024-04-26T03:22:34Z,3,3,3,4,90,47,137,0
+119729,[benchmark][cudagraph] Explicitly call aten.div with CUDA denominator for cudagraphs,612,True,False,,2024-04-26T03:22:33Z,3,4,6,2,20,1,21,0
+124856,[profiler] Split up profiler test file,140,True,False,,2024-04-26T03:19:28Z,6,5,8,4,1466,1332,2798,0
+124976,Update Jinja to 3.1.3,103,True,False,,2024-04-26T02:57:59Z,1,3,3,3,1,18,19,0
+124555,Making _MeshEnv subclassing thread local,686,True,False,,2024-04-26T02:45:45Z,2,6,6,1,2,1,3,0
+118431,Add `module: docs` to labeler,56,True,False,,2024-04-26T02:35:06Z,0,1,3,1,3,0,3,0
+123748,[export] Serialize empty list based on argument type,13,True,False,,2024-04-25T23:03:32Z,1,4,4,2,49,3,52,0
+124444,Add support for capturing tensors with score_mod,1718,True,False,,2024-04-26T01:02:32Z,11,6,17,8,220,72,292,0
+124847,[export] Fix state dict reparametrization in non-strict.,558,True,False,,2024-04-25T22:44:20Z,4,6,4,4,49,6,55,0
+122688,Stopped TORCH_COMPILE_DEBUG from printing out a bunch of logs,329,True,False,,2024-03-27T00:24:45Z,2,4,16,1,0,6,6,0
+122686,Cleaned up/fixed get_args after_aot repro,265,True,False,,2024-03-27T00:24:44Z,1,3,4,1,3,4,7,0
+121041,Graph break cleanly in Dynamo for module parametrization,2203,True,False,,2024-03-26T23:44:56Z,1,3,15,31,27,18,45,0
+122702,[NEON] Speedup float16 convert,334,True,False,,2024-03-26T21:48:16Z,4,3,6,1,28,0,28,0
+122514,"Disallow {FakeTensor,FunctionalTensor}.data_ptr",1233,True,False,,2024-03-26T23:55:46Z,18,8,5,15,207,13,220,0
+122708,[Build] Fix AVX detection logic,371,True,False,,2024-03-26T20:37:40Z,1,3,3,1,2,2,4,0
+122644,[TORCH_TRACE] Record stack when no compile context is available,316,True,False,,2024-03-26T19:30:56Z,2,3,6,2,11,0,11,0
+122704,Forward fix for broken internal tests related to NJT view dummy,258,True,False,,2024-03-26T21:22:16Z,1,3,6,2,14,7,21,0
+122503,[CI] Switch pull job linux-jammy-py3_8-gcc11-build to use ARC with runner groups,20,True,False,,2024-03-26T14:38:17Z,1,3,9,1,1,1,2,0
+122484,Add XPU ATen merge rule,50,True,False,,2024-03-26T16:20:52Z,3,5,7,1,14,0,14,0

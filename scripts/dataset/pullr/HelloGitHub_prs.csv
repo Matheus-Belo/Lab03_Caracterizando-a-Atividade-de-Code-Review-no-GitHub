@@ -1,0 +1,41 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+2689,更改一个错别字,12,True,False,,2024-03-28T01:16:32Z,0,3,2,1,1,1,2,0
+2692,Update README.md,15,True,False,,2024-03-28T01:14:58Z,0,2,0,1,4,4,8,0
+2693,merge a,0,True,False,,2024-03-28T01:14:41Z,1,3,0,41,863,16,879,0
+2716,fix an error lead to DoS in the logging information,0,True,False,,2024-03-28T01:13:33Z,0,2,0,1,1,1,2,0
+2660,Auto run by powershell,46,True,False,,2023-12-28T00:08:47Z,1,3,3,1,105,0,105,0
+2652,修复文字错误,0,True,True,2023-12-04T01:51:02Z,2023-12-04T01:51:02Z,0,2,0,1,1,1,2,516176.0
+2637,adding hello.py,0,True,False,,2023-11-05T18:45:11Z,0,1,0,1,2,0,2,0
+2584,Update PromptPerfect on README.md,0,True,True,2023-07-28T12:36:07Z,2023-07-28T12:36:07Z,0,2,0,1,4,4,8,2020.0
+2580,Add Japanese README,37,True,True,2023-07-28T05:50:40Z,2023-07-28T05:50:40Z,0,2,1,3,42,2,44,660988.0
+2448,fix: colorfu website link,0,True,False,,2022-12-28T08:14:24Z,0,2,1,1,1,1,2,0
+2408,修正不当表述,73,True,False,,2022-11-29T01:43:31Z,1,3,0,1,1,1,2,0
+2362,修复第 77 期第37项和第38项之间没有换行的问题,0,True,False,,2022-09-28T00:17:42Z,0,2,1,1,1,1,2,0
+2120,demo.java,13,True,False,,2022-03-23T10:22:58Z,0,2,1,1,2,0,2,0
+1818,Update .gitignore,0,True,False,,2021-07-23T14:22:11Z,0,1,0,1,1,0,1,0
+1782,GitHub Action to lint Python code,46,True,False,,2021-07-07T23:28:16Z,0,1,0,1,21,0,21,0
+1622,Update README.md,37,True,True,2021-02-02T09:26:43Z,2021-02-02T09:26:43Z,0,3,0,1,9,9,18,79452.0
+1429,improve docs,0,True,False,,2020-10-03T17:25:28Z,0,2,0,1,2,0,2,0
+1417,Update README_en.md,0,True,True,2020-09-22T08:51:18Z,2020-09-22T08:51:18Z,0,2,0,1,6,6,12,92187.0
+1233,add chenju_test,15,True,False,,2020-05-17T10:11:28Z,0,3,3,1,5,0,5,0
+1214,拉取新代码,5,True,False,,2020-04-30T07:31:37Z,1,2,3,5,403,147,550,0
+1111,Merge pull request #1 from 521xueweihan/master,4,True,False,,2020-02-29T08:34:48Z,0,1,0,0,0,0,0,0
+968,Create LICENSE,1818,True,False,,2020-02-27T06:57:38Z,0,2,0,1,21,0,21,0
+1011,修复图片链接问题,0,True,True,2019-12-30T02:30:04Z,2019-12-30T02:30:04Z,0,2,0,1,3,1,4,126176.0
+942,"""下一期"" does not have link in 43",0,True,False,,2019-12-06T01:57:10Z,0,2,2,1,1,1,2,0
+651,Create README_en.md,0,True,True,2019-06-21T08:02:08Z,2019-06-21T08:02:08Z,0,2,0,1,66,0,66,56.0
+465,fix a typo,41,True,True,2019-02-28T09:44:27Z,2019-02-28T09:44:27Z,0,2,1,1,1,1,2,173251.0
+453,delete all duplicate empty blanks,41,True,False,,2019-02-26T09:48:19Z,0,3,3,13,41,41,82,0
+396,fix typo,0,True,True,2018-12-25T01:24:43Z,2018-12-25T01:24:43Z,0,2,0,1,1,1,2,39240.0
+390,update ssbc url comment,41,True,True,2018-12-24T03:16:11Z,2018-12-24T03:16:11Z,0,2,0,1,1,1,2,176784.0
+389,如何做好一枚程序员（中文翻译版）支持跳转,85,True,False,,2018-12-24T03:15:22Z,0,2,0,1,1,1,2,0
+201,fix typo,0,True,False,,2018-04-11T07:51:49Z,0,2,1,1,1,1,2,0
+81,from __future__ import print_function for Python 3,0,True,True,2017-07-28T15:53:15Z,2017-07-28T15:53:15Z,0,2,0,1,3,2,5,122140.0
+54,Merge pull request #1 from 521xueweihan/master,4,True,False,,2017-06-27T08:37:44Z,0,2,0,0,0,0,0,0
+43,Update ISSUE_TEMPLATE.md,0,True,True,2017-06-20T08:12:20Z,2017-06-20T08:12:20Z,0,2,0,1,5,3,8,501.0
+29,add dqn,0,True,True,2017-05-07T14:26:41Z,2017-05-07T14:26:41Z,0,2,0,1,5,0,5,134032.0
+26,add some libs,1,True,True,2017-04-18T08:06:26Z,2017-04-18T08:06:26Z,0,2,0,4,21,2,23,176101.0
+24,add Grav,0,True,True,2017-04-07T14:59:16Z,2017-04-07T14:59:16Z,0,2,0,1,8,0,8,11250.0
+23,Update Android.md,0,True,True,2017-04-07T02:52:53Z,2017-04-07T02:52:53Z,0,2,0,1,5,0,5,49589.0
+13,caravel 改为 superset,19,True,True,2017-03-02T11:59:13Z,2017-03-02T11:59:13Z,0,2,3,1,1,1,2,5276.0
+2,Add a new Wedsite for learning computer vision!,72,True,False,,2016-07-30T01:26:26Z,0,2,2,1,2,0,2,0

@@ -1,0 +1,249 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+450,WI-235 1 2 3 4,6,True,False,,2024-02-29T13:54:39Z,0,1,0,1,1,1,2,0
+402,missed an await in doc on async/await,0,True,False,,2023-08-04T19:30:45Z,0,0,1,1,1,1,2,0
+419,fixed doc: missed `()` sign on Functions should do one thing for isActiveClient function,92,True,False,,2023-02-26T06:48:09Z,0,1,0,1,1,1,2,0
+356,Persian translation added (Fluent + RTL styled),161,True,True,2023-02-11T17:28:24Z,2023-02-11T17:28:24Z,0,2,1,1,1,0,1,49075006.0
+400,Latinoamerican Spanish translation,177,True,False,,2023-01-11T17:08:57Z,0,1,0,1,1126,1347,2473,0
+408,fix: trim and indent code,0,True,False,,2022-11-24T16:30:08Z,0,1,0,2,78,81,159,0
+398,Examqle test,35,True,False,,2022-08-21T13:23:57Z,0,1,0,1,138,139,277,0
+399,changes[1]from line [0-195]-safeparadise,78,True,False,,2022-08-24T04:52:49Z,0,2,0,1,57,64,121,0
+397,from line 2003/end was translated,0,True,False,,2022-08-21T17:36:23Z,0,2,1,1,40,50,90,0
+383,French translation,47,True,True,2022-08-21T17:35:59Z,2022-08-21T17:35:59Z,0,3,2,1,1,1,2,11251267.0
+392,Fix wrong naming of `default parameters`,11,True,True,2022-08-21T17:34:05Z,2022-08-21T17:34:05Z,0,2,1,1,2,2,4,3630231.0
+395,Updated broken link with a new one,0,True,False,,2022-08-21T12:09:40Z,0,1,0,1,1,1,2,0
+394,updated the broken link,92,True,False,,2022-08-17T05:44:58Z,0,1,0,1,1,1,2,0
+368,Replace invalid french translation link,37,True,False,,2022-04-13T11:56:40Z,0,0,1,1,1,1,2,0
+204,Add Object Spread example to 'Set default objects' section,0,True,False,,2021-05-24T15:52:20Z,1,5,3,1,25,0,25,0
+376,Table of contents,71,True,False,,2022-02-18T11:12:07Z,0,1,0,1,149,152,301,0
+374,copyright changes 2016 to 2022,0,True,False,,2022-02-05T14:19:17Z,0,1,0,0,0,0,0,0
+326,Add Serbian translation.,0,True,True,2021-01-21T03:27:40Z,2021-01-21T03:27:40Z,1,3,1,1,1,0,1,8853579.0
+355,Added Romanian translation.,39,True,False,,2021-11-13T09:24:46Z,0,1,0,1,2,1,3,0
+352,Add note to default objects section,0,True,False,,2021-06-30T13:55:39Z,0,1,0,1,6,0,6,0
+341,Make example more succinct,56,True,True,2021-05-23T17:52:52Z,2021-05-23T17:52:52Z,0,2,1,1,2,2,4,4770845.0
+104,"Call for discussion about ""Remove duplicate code""",3359,True,False,,2021-05-24T15:52:51Z,0,3,5,1,20,13,33,0
+127,feature: iterator variable names,245,True,False,,2021-05-24T15:52:46Z,1,3,2,1,44,0,44,0
+139,"[Update] ""Prefer composition over inheritance"" section content",325,True,False,,2021-05-24T15:52:40Z,6,7,16,1,101,43,144,0
+167,[section] Avoid negative conditionals,109,True,False,,2021-05-24T15:52:26Z,0,4,4,1,11,1,12,0
+209,"Update function name in ""Don't add unneeded context""",195,True,False,,2021-05-23T18:53:23Z,1,3,3,1,4,4,8,0
+211,"fix code sample in ""Use Promises, not callbacks"" section",83,True,False,,2021-05-23T18:50:49Z,1,4,5,1,2,2,4,0
+338,add a new section for code streamlining,129,True,False,,2021-05-23T18:48:55Z,0,2,1,1,28,1,29,0
+347,replace avoid conditionals with a more Gaurd Cluases,152,True,False,,2021-05-23T18:34:36Z,2,3,1,1,20,43,63,0
+339,Encapsulation (Variable Section),46,True,False,,2021-05-23T18:23:47Z,0,2,1,1,8,10,18,0
+348,simplified over-optimization example,61,True,False,,2021-05-23T18:13:02Z,0,2,1,1,2,1,3,0
+346,Focus on cleaner example for `Favor functional programming over imperative programming`,145,True,False,,2021-05-23T18:09:12Z,0,2,1,1,4,21,25,0
+274,"let go of `let`, embrace `const`",259,True,False,,2021-05-23T18:06:37Z,0,2,2,1,40,1,41,0
+333,added 'Use let/const instead of var',134,True,False,,2021-05-23T18:04:41Z,1,3,2,1,36,0,36,0
+342,fix: arguments-> parameters,114,True,False,,2021-05-23T17:52:04Z,0,2,2,1,42,5,47,0
+224,Spanish,0,True,False,,2020-10-07T20:18:15Z,1,3,6,1,1,0,1,0
+332,"Corrección ortográfica ""hcaer""",0,True,False,,2020-12-14T22:46:56Z,0,2,0,1,1448,1216,2664,0
+331,Adding Myanmar ( Burmese ) Version,155,True,False,,2020-12-07T14:24:21Z,0,1,0,1,1,0,1,0
+327,primerierof,25,True,False,,2020-10-18T16:37:36Z,0,2,1,1,19,0,19,0
+325,Fix stray hyphen turning into a random bullet,32,True,True,2020-10-08T03:23:25Z,2020-10-08T03:23:25Z,0,2,0,1,2,2,4,368.0
+270,"fixbug: judge existence before use in ""Use explanatory variables""",240,True,False,,2020-10-07T20:24:29Z,0,2,1,1,1,1,2,0
+267,Add New Topic,26,True,False,,2020-10-07T20:15:21Z,0,3,5,1,79,0,79,0
+269,"Replace ""make"" by ""brand""",41,True,False,,2020-10-07T20:13:02Z,0,2,2,1,2,2,4,0
+318,Add translation notice,288,True,False,,2020-10-07T20:09:10Z,0,2,1,1,2,0,2,0
+320,Add calculation for milliseconds in a day,116,True,True,2020-10-07T18:41:04Z,2020-10-07T18:41:04Z,0,3,3,1,1,1,2,2700883.0
+323,"Replace pass-by-reference with mutability, clean up",423,True,True,2020-10-06T22:18:18Z,2020-10-06T22:18:18Z,0,2,1,1,16,13,29,152034.0
+322,Create decorators_in_js,0,True,False,,2020-10-03T17:38:50Z,0,2,0,1,21,0,21,0
+288,Change argument name from inner variable name,0,True,True,2020-07-31T03:09:46Z,2020-07-31T03:09:46Z,1,3,1,1,2,2,4,16569643.0
+312,Fix calling animationModule in ISP bad example,0,True,True,2020-05-03T01:47:08Z,2020-05-03T01:47:08Z,0,2,1,1,1,1,2,2714377.0
+313,Ukrainian translation is added,0,True,True,2020-04-17T03:39:55Z,2020-04-17T03:39:55Z,0,2,1,1,1,0,1,49221.0
+311,Turkish added,0,True,True,2020-03-31T17:19:01Z,2020-03-31T17:19:01Z,0,2,1,1,1,0,1,216866.0
+310,Turkish added,0,True,False,,2020-03-29T04:53:44Z,0,1,0,1,355,546,901,0
+297,Fixed a small typo,0,True,True,2020-02-12T04:01:47Z,2020-02-12T04:01:47Z,0,3,4,1,1,1,2,433034.0
+287,Added optional chaining,121,True,False,,2020-02-07T04:08:52Z,0,3,7,1,20,0,20,0
+290,Update README.md,24,True,True,2020-02-07T04:08:06Z,2020-02-07T04:08:06Z,0,2,1,1,1,1,2,1406847.0
+291,translations,55,True,True,2020-01-22T16:38:36Z,2020-01-22T16:38:36Z,0,2,1,1,9,12,21,58518.0
+289,Update README.md,25,True,True,2020-01-21T21:25:07Z,2020-01-21T21:25:08Z,0,2,1,1,1,1,2,464.0
+280,Add advantage in function parameters,65,True,True,2020-01-20T22:47:56Z,2020-01-20T22:47:56Z,0,3,2,1,6,2,8,898863.0
+283,Added numeric separator for improve readability,142,True,True,2020-01-19T05:11:00Z,2020-01-19T05:11:00Z,0,3,5,1,1,1,2,55578.0
+279,Update advantage in 'Function arguments',66,True,False,,2020-01-10T12:53:02Z,0,1,0,1,5,2,7,0
+277,Added source link for bengali translations,37,True,True,2020-01-02T17:47:10Z,2020-01-02T17:47:10Z,0,2,3,1,3,1,4,124642.0
+276,Added source link for bengali translations,101,True,False,,2020-01-01T07:02:34Z,0,1,0,2,208,263,471,0
+273,Fixing bad code example for over-optimization,0,True,True,2019-11-22T04:46:38Z,2019-11-22T04:46:38Z,0,2,1,1,1,1,2,32738.0
+272,Added link to the traditional chinese translation ,39,True,True,2019-11-18T16:00:03Z,2019-11-18T16:00:03Z,0,2,1,1,3,2,5,10303.0
+268,Some corrections in **Concurrency** section,0,True,True,2019-10-29T15:34:12Z,2019-10-29T15:34:12Z,0,2,1,1,14,12,26,350583.0
+265,[WIP] Turkish Translation,149,True,False,,2019-10-01T13:43:43Z,0,1,0,1,528,531,1059,0
+264,fix typo - Indonesian,0,True,True,2019-08-23T16:49:10Z,2019-08-23T16:49:10Z,0,2,1,1,1,1,2,185842.0
+263,Update plain http links to https,327,True,True,2019-08-08T22:55:57Z,2019-08-08T22:55:57Z,0,2,1,1,4,4,8,1869.0
+262,fix wrong syntax,0,True,True,2019-08-05T16:14:27Z,2019-08-05T16:14:27Z,0,2,1,1,1,1,2,1001.0
+261,"remove distracting reference in ""testing single concept per test""",92,True,True,2019-07-23T15:29:00Z,2019-07-23T15:29:00Z,0,2,2,1,8,8,16,14869.0
+258,Update README.md,313,True,True,2019-03-24T21:13:45Z,2019-03-24T21:13:45Z,0,2,1,1,2,0,2,25887.0
+257,Update redundant name in function too. ,311,True,False,,2019-03-25T11:04:38Z,0,2,2,1,19,2,21,0
+259,avoid conditionals formatting (if statements),0,True,False,,2019-03-24T23:32:28Z,0,2,3,1,2,2,4,0
+221,Fixed typescript example,116,True,False,,2019-02-11T01:08:29Z,0,4,9,1,7,0,7,0
+256,Added link to the new spanish translation,36,True,True,2019-02-05T16:14:20Z,2019-02-05T16:14:21Z,0,3,3,1,2,1,3,281361.0
+255,Feature/add spanish translation,80,True,False,,2019-02-02T10:20:54Z,4,3,3,1,16,15,31,0
+246,Fix for #245 - Redundant information in `dont-add-unneeded-context`,0,True,False,,2019-01-24T03:00:44Z,0,4,6,1,1,1,2,0
+244,"improve ""Functions should only be one level of abstraction"" example",435,True,True,2019-01-24T02:58:56Z,2019-01-24T02:58:56Z,0,3,2,1,6,6,12,17263000.0
+243,Update README.md,42,True,True,2019-01-24T02:56:11Z,2019-01-24T02:56:11Z,0,2,1,1,1,1,2,18452748.0
+248,excess comma removed,27,True,False,,2019-01-24T02:55:23Z,3,4,2,1,1,1,2,0
+253,remove map method in favor functional programming,39,True,True,2019-01-24T02:54:45Z,2019-01-24T02:54:45Z,0,2,1,1,1,2,3,206560.0
+254,Feature/spanish translation,31,True,False,,2019-01-23T18:07:01Z,0,1,0,1,1438,1213,2651,0
+247,Add italian translation,84,True,True,2018-10-15T21:07:18Z,2018-10-15T21:07:18Z,0,26,1,1,2,0,2,205006.0
+189,"Interface Segregation Principle: avoid ""fat"" interfaces",700,True,False,,2018-09-25T16:03:27Z,0,2,1,1,93,46,139,0
+240,Typo fix from 'Make objects have private members' to 'Make objects to…,106,True,False,,2018-03-09T02:33:40Z,0,2,1,1,1,1,2,0
+239,Changing order in example of *Functions should only be one level …*,255,True,True,2018-03-04T21:48:31Z,2018-03-04T21:48:31Z,0,2,1,1,8,8,16,814087.0
+238,"Change argument name of ""Use default arguments instead of short circu…",72,True,True,2018-01-20T17:19:05Z,2018-01-20T17:19:05Z,1,3,1,1,1,1,2,454333.0
+234,Change complex reduce code sample to clearer map reduce.,0,True,True,2017-11-22T16:44:53Z,2017-11-22T16:44:53Z,0,2,2,1,3,4,7,121476.0
+233,"Fix ""Use searchable names"" section",79,True,True,2017-11-12T19:50:33Z,2017-11-12T19:50:33Z,0,2,1,1,1,1,2,606652.0
+232,Update README.md,12,True,True,2017-10-16T15:19:37Z,2017-10-16T15:19:37Z,0,2,1,1,1,1,2,1001.0
+229,minor grammar edit,20,True,True,2017-09-19T16:24:23Z,2017-09-19T16:24:23Z,0,2,1,1,1,1,2,649.0
+228,Replace map method with object destructuring,422,True,True,2017-09-06T03:16:41Z,2017-09-06T03:16:41Z,0,2,1,1,1,2,3,271719.0
+227,'data' is never reassigned. Use 'const' instead.,0,True,True,2017-08-03T23:03:04Z,2017-08-03T23:03:04Z,0,2,1,1,2,2,4,391050.0
+226,Update README.md,35,True,True,2017-08-03T23:02:13Z,2017-08-03T23:02:13Z,0,2,1,1,1,1,2,450897.0
+225,Object style consistency,36,True,True,2017-07-19T20:59:54Z,2017-07-19T20:59:54Z,0,2,1,1,1,1,2,725.0
+223,Spanish,14,True,False,,2017-07-16T21:14:00Z,2,3,1,1,1,0,1,0
+222,Fixed duplicate code,271,True,True,2017-07-12T14:43:23Z,2017-07-12T14:43:23Z,0,2,2,1,7,9,16,623299.0
+220,"Capital letters in const, remove default data in class Car",58,True,True,2017-06-09T21:19:42Z,2017-06-09T21:19:42Z,4,3,1,1,12,16,28,622047.0
+217,Add Polish translation,146,True,True,2017-05-15T23:43:40Z,2017-05-15T23:43:40Z,0,2,1,1,1,0,1,5077.0
+219,Just Add an Indonesia Language Link,0,True,True,2017-06-02T04:47:17Z,2017-06-02T04:47:17Z,0,2,1,1,2,0,2,371753.0
+218,Add Bahasa Indonesia Translation,69,True,False,,2017-05-28T21:27:16Z,0,1,1,1,623,584,1207,0
+206,Update README.md to include explanatory function names per #200,75,True,True,2017-05-11T16:23:24Z,2017-05-11T16:23:24Z,2,3,5,1,3,3,6,1811307.0
+216,Fix duplicate code example,155,True,True,2017-05-11T04:14:01Z,2017-05-11T04:14:01Z,0,2,1,1,8,4,12,407708.0
+215,fixed a grammatical typo,74,True,True,2017-05-04T16:04:45Z,2017-05-04T16:04:45Z,0,2,1,1,1,1,2,160012.0
+213,Merge remote-tracking branch 'ryanmcdermott/master',0,True,False,,2017-04-30T22:20:29Z,0,2,0,0,0,0,0,0
+210,Add Japanese translation,209,True,True,2017-04-28T02:43:51Z,2017-04-28T02:43:52Z,0,3,2,1,1,0,1,12084.0
+208,"Mistake in the ""Make objects have private members"" section.",0,True,False,,2017-04-25T18:25:36Z,0,2,4,1,1,1,2,0
+207,"Mistake in the ""Set default objects with Object.assign"" section",69,True,True,2017-04-25T16:28:15Z,2017-04-25T16:28:15Z,0,2,1,1,1,2,3,9306.0
+202,Fix broken link,18,True,True,2017-04-02T16:48:15Z,2017-04-02T16:48:15Z,0,2,1,1,1,2,3,13278.0
+195,add chinese translation link,46,True,False,,2017-02-23T05:02:09Z,0,2,1,1,533,393,926,0
+198,added spanish translation,40,True,True,2017-02-17T05:38:24Z,2017-02-17T05:38:24Z,0,3,7,1,1,0,1,49869.0
+197,fixed a mismatch between bad-good example,133,True,True,2017-02-17T05:41:12Z,2017-02-17T05:41:12Z,0,2,1,1,1,1,2,65926.0
+196,fix angularjs typing,81,True,True,2017-02-15T16:39:23Z,2017-02-15T16:39:23Z,0,2,1,1,1,1,2,23658.0
+194,translate to chinese.,21,True,False,,2017-02-13T16:48:21Z,1,3,5,2,2340,1,2341,0
+191,interface way,0,True,False,,2017-02-11T01:33:08Z,0,2,2,1,3,3,6,0
+193,fix: code style,17,True,True,2017-02-11T01:31:20Z,2017-02-11T01:31:20Z,1,3,1,1,22,22,44,59045.0
+192,Use ES6 style imports instead of require,10,True,True,2017-02-10T16:43:27Z,2017-02-10T16:43:27Z,0,2,1,1,22,10,32,110827.0
+106,Add remark about behaviour,0,True,False,,2017-01-26T05:02:21Z,0,3,4,1,1,0,1,0
+186,Add vietnamese translation,0,True,True,2017-02-05T20:37:54Z,2017-02-05T20:37:54Z,0,2,1,1,1,1,2,139568.0
+187,Adds second and actual russian translation,95,True,True,2017-02-05T21:21:38Z,2017-02-05T21:21:38Z,0,2,1,1,3,1,4,129948.0
+188,Fixes some typo issues,32,True,True,2017-02-05T20:35:27Z,2017-02-05T20:35:27Z,1,3,1,1,3,3,6,126292.0
+183,"getters and setters as functions, also without the get/set keywords",277,True,True,2017-02-02T05:23:52Z,2017-02-02T05:23:53Z,0,2,1,1,26,33,59,75846.0
+178,Renamed Classes section to SOLID. Classes in a new section.,169,True,False,,2017-02-01T08:20:30Z,0,2,3,1,25,14,39,0
+179,Single Responsibility Principle: modules instead of classes,374,True,False,,2017-02-01T08:20:19Z,0,2,3,1,13,18,31,0
+182,Liskov Substitution (SOLID section) - width/height/length as constructor params,299,True,True,2017-01-30T15:38:17Z,2017-01-30T15:38:17Z,0,2,1,1,7,28,35,11928.0
+173,Maker function instead of Function constructor,378,True,True,2017-01-25T05:20:16Z,2017-01-25T05:20:16Z,0,3,2,1,7,5,12,61464.0
+174,Composition over inheritance suggestions,211,True,False,,2017-01-27T04:36:16Z,8,3,4,1,15,16,31,0
+177,Explicit function name,64,True,True,2017-01-28T02:05:14Z,2017-01-28T02:05:14Z,0,2,1,1,1,1,2,133229.0
+176,"Update the example from ""Single concept per test""",39,True,True,2017-01-27T04:19:43Z,2017-01-27T04:19:43Z,0,2,2,1,2,2,4,57193.0
+169,Move require out of functions,0,True,False,,2017-01-27T04:03:23Z,0,2,1,1,20,8,28,0
+170,Remove redundant curly brackets,190,True,False,,2017-01-24T03:49:57Z,0,4,4,1,3,9,12,0
+116,Functions are cleaner than subclasses,177,True,False,,2017-01-24T03:59:06Z,3,4,10,1,10,7,17,0
+171,README.md: change 'peddle' to 'pedal',153,True,True,2017-01-24T03:51:15Z,2017-01-24T03:51:15Z,0,2,1,1,1,1,2,34618.0
+172,Add russian translation,0,True,True,2017-01-24T03:46:15Z,2017-01-24T03:46:15Z,0,2,1,1,2,0,2,24705.0
+165,Changed Function arguments section to include destructuring,4,True,True,2017-01-21T19:37:25Z,2017-01-21T19:37:25Z,0,2,2,1,12,1,13,61111.0
+166,Fix method call in getter/setter example,72,True,True,2017-01-22T03:46:38Z,2017-01-22T03:46:38Z,0,2,1,1,1,1,2,13439.0
+164,E-book (epub) generation,236,True,False,,2017-01-21T20:00:29Z,0,2,1,4,113,0,113,0
+137,Change literal for a constant,121,True,True,2017-01-20T01:42:02Z,2017-01-20T01:42:02Z,0,3,3,1,3,1,4,464993.0
+145,Fix some **Good**: to **Good:**,0,True,True,2017-01-20T01:40:53Z,2017-01-20T01:40:53Z,0,2,3,1,42,41,83,307664.0
+156,Add translations section + fix minor typo md error,311,True,True,2017-01-19T00:16:55Z,2017-01-19T00:16:55Z,0,2,5,1,11,1,12,5337.0
+157,Add korean translation,0,True,True,2017-01-19T16:12:24Z,2017-01-19T16:12:24Z,0,2,1,1,1,0,1,31653.0
+155,Add german translation,0,True,False,,2017-01-19T01:59:26Z,0,2,1,1,8,0,8,0
+154,German translation,0,True,False,,2017-01-18T17:46:45Z,0,2,1,1,2167,0,2167,0
+153,fix confusing example,9,True,True,2017-01-18T04:53:29Z,2017-01-18T04:53:29Z,0,2,1,1,6,7,13,217.0
+151,consistent variable names in definition as well as function argument,85,True,False,,2017-01-18T04:18:48Z,0,3,6,1,1,1,2,0
+152,Immutable error,147,True,True,2017-01-17T17:03:35Z,2017-01-17T17:03:35Z,0,2,1,1,1,5,6,244.0
+123,Add Side Effects pt.2,37,True,True,2017-01-17T03:48:44Z,2017-01-17T03:48:44Z,6,3,2,1,33,1,34,410211.0
+149,Fix issue #130,2,True,True,2017-01-16T20:14:30Z,2017-01-16T20:14:30Z,0,2,1,1,1,1,2,9054.0
+147,fix is-a order in Prefer composition over inheritance description,58,True,True,2017-01-16T19:27:14Z,2017-01-16T19:27:15Z,0,2,1,1,1,1,2,18656.0
+36,"update ""remove duplicate code"" to use ternary and ES6 harmony",757,True,False,,2017-01-15T18:53:28Z,0,2,6,1,3,6,9,0
+144,remove duplicate word in 'Remove duplicate code' :),0,True,True,2017-01-15T17:23:13Z,2017-01-15T17:23:13Z,0,2,1,1,1,1,2,11023.0
+142,Correct variable name for menuConfig,0,True,False,,2017-01-15T17:23:02Z,0,3,2,1,1,1,2,0
+141,fix some code style nits in examples,0,True,True,2017-01-15T03:54:08Z,2017-01-15T03:54:08Z,0,2,1,1,4,4,8,41.0
+140,Modify open/closed principle,21,True,True,2017-01-14T23:32:22Z,2017-01-14T23:32:22Z,0,3,2,1,60,14,74,11333.0
+121,"Simplify ""Use searchable names"" example",89,True,True,2017-01-14T17:50:52Z,2017-01-14T17:50:52Z,0,3,6,1,2,6,8,212889.0
+128,fix async/await example,286,True,True,2017-01-14T17:25:39Z,2017-01-14T17:25:39Z,0,4,4,1,2,5,7,144389.0
+134,Fix lookupManager typo,52,True,True,2017-01-13T15:33:24Z,2017-01-13T15:33:25Z,0,2,1,1,2,2,4,10635.0
+132,FIX variable typo,0,True,False,,2017-01-13T13:45:38Z,0,2,1,1,1,1,2,0
+124,make bad and old examples more comparable,356,True,True,2017-01-13T03:14:41Z,2017-01-13T03:14:41Z,0,2,1,1,4,15,19,57483.0
+83,Fill missing commas,0,True,True,2017-01-13T04:26:54Z,2017-01-13T04:26:54Z,1,3,4,0,0,0,0,352313.0
+118,Rename state to zipCode to avoid confusion,139,True,True,2017-01-13T03:29:40Z,2017-01-13T03:29:40Z,3,3,3,1,5,5,10,119369.0
+65,Simplify some code examples,1193,True,True,2017-01-12T05:52:19Z,2017-01-12T05:52:20Z,0,2,2,1,10,33,43,402884.0
+114,fix new instances of previously fixed cases,147,True,True,2017-01-12T05:39:21Z,2017-01-12T05:39:21Z,0,2,2,1,13,25,38,58801.0
+117,Match object with value passed to the function,155,True,False,,2017-01-12T05:40:34Z,0,3,3,1,1,1,2,0
+120,"""Use searchable names"" and correct unit of time",183,True,True,2017-01-12T05:33:08Z,2017-01-12T05:33:08Z,0,2,1,1,4,4,8,13927.0
+119,Remove unnecessary line in isClientActive function,33,True,False,,2017-01-12T05:32:33Z,0,4,4,1,1,2,3,0
+81,parenthesize arrow function arguments consistently,101,True,True,2017-01-11T03:17:45Z,2017-01-11T03:17:45Z,2,2,1,1,8,8,16,179914.0
+82,replace string concatenation by template literals,101,True,True,2017-01-11T03:16:51Z,2017-01-11T03:16:51Z,0,2,1,1,6,6,12,176472.0
+95,address anonymous functions,419,True,True,2017-01-11T03:16:05Z,2017-01-11T03:16:05Z,2,2,3,1,25,30,55,119972.0
+77,Open/Closed Principle (OCP) example change,336,True,False,,2017-01-11T02:52:59Z,1,4,10,1,2,5,7,0
+102,Fix one code example use `console.log` to print error,115,True,True,2017-01-10T15:19:38Z,2017-01-10T15:19:38Z,0,3,4,1,1,1,2,18584.0
+110,Remove round brackets in arrow function with one input,92,True,False,,2017-01-11T02:51:49Z,0,3,4,1,2,2,4,0
+111,Fix Typo,43,True,True,2017-01-11T04:41:55Z,2017-01-11T04:41:55Z,0,2,3,1,1,1,2,116.0
+64,Fixed few examples,45,True,True,2017-01-11T04:44:07Z,2017-01-11T04:44:07Z,0,3,9,1,25,25,50,312503.0
+73,Expand MINUTES_IN_A_YEAR to a human-readable math expression,0,True,False,,2017-01-11T03:33:16Z,0,3,2,1,1,1,2,0
+33,Use const instead of var,78,True,True,2017-01-11T03:30:48Z,2017-01-11T03:30:48Z,0,3,5,1,11,8,19,429498.0
+37,Use destructuring for explanatory variables,151,True,True,2017-01-11T03:29:28Z,2017-01-11T03:29:28Z,2,4,5,1,6,6,12,412638.0
+103,Rename/object key in 'Remove duplicate code' section,157,True,False,,2017-01-11T03:27:54Z,0,2,1,1,1,1,2,0
+34,Rephrase default value advice,503,True,True,2017-01-11T03:23:09Z,2017-01-11T03:23:09Z,1,2,4,1,7,28,35,428780.0
+47,"Improve example ""Function names should say what they do""",65,True,True,2017-01-11T03:20:24Z,2017-01-11T03:20:24Z,0,4,7,1,4,4,8,374477.0
+101,Fix/getter setter,0,True,True,2017-01-11T03:05:02Z,2017-01-11T03:05:02Z,1,3,2,1,33,0,33,63365.0
+109,fix variable name,0,True,False,,2017-01-10T23:38:18Z,0,2,1,1,1,1,2,0
+93,fix a brace style inconsistency,101,True,True,2017-01-10T15:20:58Z,2017-01-10T15:20:58Z,0,2,3,1,1,2,3,80403.0
+90,use single quotes consistently,101,True,True,2017-01-10T15:22:45Z,2017-01-10T15:22:45Z,0,2,3,1,3,3,6,83491.0
+105,Fix consecutive occurrence of 'have',0,True,True,2017-01-10T15:12:20Z,2017-01-10T15:12:20Z,0,2,1,1,1,1,2,2861.0
+91,replace == with ===,146,True,True,2017-01-10T03:41:51Z,2017-01-10T03:41:51Z,0,2,3,1,4,4,8,40713.0
+88,correct using of `this` in examples,330,True,True,2017-01-10T03:41:17Z,2017-01-10T03:41:17Z,0,2,1,1,36,36,72,42066.0
+92,add `break` statement to prevent erroneous fall-through,101,True,True,2017-01-10T03:38:38Z,2017-01-10T03:38:38Z,0,2,1,1,1,0,1,39048.0
+94,use assignment operators,101,True,True,2017-01-10T03:38:06Z,2017-01-10T03:38:06Z,0,2,1,1,3,3,6,37879.0
+96,reorder class declarations,362,True,True,2017-01-10T03:26:51Z,2017-01-10T03:26:51Z,0,2,1,1,19,19,38,32184.0
+97,fix variable shadowing,116,True,True,2017-01-10T03:18:52Z,2017-01-10T03:18:52Z,0,2,1,1,7,7,14,31009.0
+100,Add docsify index file,120,True,False,,2017-01-10T04:05:17Z,0,2,2,1,11,0,11,0
+98,Mention tools for identifying magic numbers,499,True,True,2017-01-10T03:13:58Z,2017-01-10T03:13:58Z,0,2,1,1,5,2,7,8670.0
+89,Add website 🌟,663,True,False,,2017-01-10T03:25:12Z,0,2,1,2,26,0,26,0
+12,Number of arguments section.,270,True,False,,2017-01-10T03:29:22Z,2,5,5,1,1,1,2,0
+99,translated in Korean,153,True,False,,2017-01-10T03:12:06Z,0,2,1,1,5,8,13,0
+48,Update README.md,275,True,False,,2017-01-09T15:23:01Z,0,3,2,1,3,7,10,0
+87,fix new cases with const and let,101,True,True,2017-01-09T15:19:15Z,2017-01-09T15:19:15Z,0,2,1,1,10,10,20,77.0
+80,comment out all the ellipses consistently,101,True,True,2017-01-09T15:16:16Z,2017-01-09T15:16:16Z,0,2,1,1,17,17,34,51190.0
+79,replace accidental tabs by spaces,101,True,True,2017-01-09T15:15:20Z,2017-01-09T15:15:20Z,0,2,1,1,5,5,10,54114.0
+86,Corrects usages of less for fewer,88,True,True,2017-01-09T15:18:10Z,2017-01-09T15:18:10Z,0,2,1,1,2,2,4,255.0
+76,fix little typo in arrow function argument,0,True,True,2017-01-09T15:17:03Z,2017-01-09T15:17:03Z,0,2,1,1,1,1,2,97028.0
+84,Fix indentation in code,59,True,True,2017-01-09T15:13:34Z,2017-01-09T15:13:34Z,0,2,1,1,6,6,12,16565.0
+53,fix output in Object.assign() example,119,True,True,2017-01-08T17:35:22Z,2017-01-08T17:35:22Z,0,2,1,1,1,1,2,135800.0
+58,Add mention of jsinspect for duplicate code detection,61,True,True,2017-01-08T17:21:02Z,2017-01-08T17:21:02Z,0,2,2,1,3,1,4,127744.0
+68,Edit es6-const paragraph,29,True,False,,2017-01-08T17:33:21Z,0,2,1,1,9,5,14,0
+61,Fix Object.assign example description,0,True,False,,2017-01-08T18:23:44Z,0,2,1,1,1,1,2,0
+62,fix some typos in the README.md,0,True,True,2017-01-08T18:18:36Z,2017-01-08T18:18:36Z,0,2,1,1,3,3,6,104486.0
+56,use this to access object methods,46,True,True,2017-01-08T18:12:33Z,2017-01-08T18:12:33Z,0,2,1,1,6,6,12,132817.0
+66,Mention async functions as part of ES2017 instead of ES7 (ES2016),91,True,True,2017-01-08T17:28:44Z,2017-01-08T17:28:44Z,0,2,1,1,6,6,12,98836.0
+57,use const in many of the rules,69,True,False,,2017-01-08T17:26:39Z,0,2,1,1,34,34,68,0
+54,return true on save method to continue chaining,137,True,True,2017-01-08T17:23:13Z,2017-01-08T17:23:13Z,0,2,1,1,2,0,2,131371.0
+69,fix indentation in a code example,0,True,True,2017-01-08T16:58:47Z,2017-01-08T16:58:47Z,0,2,1,1,2,2,4,91208.0
+60,Improvement on email client function,157,True,True,2017-01-08T17:05:13Z,2017-01-08T17:05:13Z,0,2,1,1,3,9,12,106858.0
+38,Feature/change var,104,True,False,,2017-01-08T16:58:10Z,3,4,1,1,70,70,140,0
+72,Use const instead of var,28,True,False,,2017-01-08T16:46:53Z,0,2,1,1,2,2,4,0
+51,Change var and let where necessary,60,True,True,2017-01-08T16:42:27Z,2017-01-08T16:42:27Z,3,3,3,1,109,110,219,153578.0
+67,Edit the es6-const paragraph,70,True,False,,2017-01-07T14:44:31Z,0,3,0,1,90,12,102,0
+63,MY_MERGE_jan_07 (#2),0,True,False,,2017-01-07T13:20:51Z,0,1,1,1,123,26,149,0
+44,Replace var with const,0,True,False,,2017-01-07T03:25:39Z,0,4,4,1,1,1,2,0
+43,Add: Error Handling Section,0,True,True,2017-01-07T03:13:30Z,2017-01-07T03:13:30Z,4,2,3,1,78,4,82,37872.0
+39,Adjusted the comment that show the result,173,True,True,2017-01-07T01:37:57Z,2017-01-07T01:37:57Z,0,2,1,1,1,1,2,42550.0
+46,Correct spelling of Cessna airplane,0,True,True,2017-01-07T01:28:42Z,2017-01-07T01:28:42Z,0,2,1,1,2,2,4,24856.0
+26,Update README.md to remove Nigerian Prince reference,239,True,True,2017-01-05T22:27:18Z,2017-01-05T22:27:18Z,0,2,3,1,1,1,2,6206.0
+22,fix(avoid-type-checking-part-1): fix variable name,0,True,True,2017-01-05T14:51:53Z,2017-01-05T14:51:53Z,0,2,1,1,2,2,4,9955.0
+27,Remove redundant object from Object.assign example,346,True,True,2017-01-06T02:34:42Z,2017-01-06T02:34:42Z,0,2,1,1,1,1,2,18029.0
+35,"use const in rule ""Use explanatory variables""",69,True,True,2017-01-06T05:12:08Z,2017-01-06T05:12:08Z,0,2,1,1,5,5,10,790.0
+32,Fix semantic mistake,466,True,True,2017-01-06T04:02:29Z,2017-01-06T04:02:29Z,0,2,1,1,1,1,2,1253.0
+29,Update: promise catch logic,100,True,True,2017-01-06T02:19:49Z,2017-01-06T02:19:49Z,0,2,3,1,2,2,4,2009.0
+28,Use constants when variable values do not change,92,True,True,2017-01-05T23:29:31Z,2017-01-05T23:29:31Z,0,2,1,1,19,1,20,1367.0
+9,Fix default values overwriting data passed,354,True,False,,2017-01-05T15:30:09Z,0,4,6,1,21,9,30,0
+13,Don't mutate the config object,81,True,False,,2017-01-05T15:32:28Z,0,2,2,1,1,1,2,0
+15,object.assign arguments were backwards. defaults were always overwrit…,105,True,False,,2017-01-05T15:31:21Z,0,5,4,1,2,2,4,0
+20,"Add missing function call to ""no side effects""",0,True,True,2017-01-05T14:53:52Z,2017-01-05T14:53:52Z,0,3,1,1,2,0,2,26588.0
+21,Some minor property missmatch,50,True,True,2017-01-05T14:53:02Z,2017-01-05T14:53:02Z,0,2,1,1,1,1,2,25390.0
+24,Update README.md,160,True,True,2017-01-05T14:51:23Z,2017-01-05T14:51:23Z,0,2,1,1,1,1,2,722.0
+19,Fix error in example code,0,True,True,2017-01-05T05:17:50Z,2017-01-05T05:17:50Z,0,2,1,1,2,2,4,374.0
+18,Update README.md,6,True,True,2017-01-05T04:45:40Z,2017-01-05T04:45:40Z,0,2,1,1,1,1,2,205.0
+17,Update README.md,167,True,True,2017-01-05T03:16:37Z,2017-01-05T03:16:37Z,0,2,1,1,2,2,4,183.0
+16,Update README.md,169,True,True,2017-01-05T02:32:36Z,2017-01-05T02:32:36Z,0,2,1,1,3,3,6,107.0
+3,(docs) Correct spelling errors and remove unfinished sentence.,55,True,True,2017-01-05T01:31:57Z,2017-01-05T01:31:57Z,0,2,1,1,4,4,8,28181.0
+8,Add getArea method where it is necessary.,65,True,True,2017-01-05T01:40:43Z,2017-01-05T01:40:43Z,0,2,2,1,5,1,6,17032.0
+10, Use explanatory variables bad and good examples should match ([1] + …,0,True,True,2017-01-05T01:38:36Z,2017-01-05T01:38:36Z,0,2,1,1,1,1,2,14278.0
+11,add missing commas in objects,0,True,True,2017-01-05T01:34:14Z,2017-01-05T01:34:14Z,0,2,1,1,3,3,6,13651.0
+6,"Remove duplicate code ""good"" example - Remove unnecessary, misleading statement",0,True,True,2017-01-05T01:32:34Z,2017-01-05T01:32:34Z,0,2,1,1,0,1,1,20155.0
+14,Moves order of Object.assign when using defaults,143,True,False,,2017-01-04T23:27:21Z,0,1,1,1,2,2,4,0
+7,Avoid object mutation in config example,191,True,False,,2017-01-04T21:09:07Z,0,1,0,1,1,1,2,0
+1,"fix ""do one thing"" code example",39,True,True,2017-01-04T15:28:54Z,2017-01-04T15:28:54Z,0,3,2,1,1,1,2,32367.0

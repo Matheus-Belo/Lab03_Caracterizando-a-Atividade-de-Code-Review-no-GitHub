@@ -1,0 +1,849 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+4182,client: add StatusExporter in service,0,True,True,2024-04-25T12:20:39Z,2024-04-25T12:20:40Z,0,1,0,2,24,9,33,344.0
+4181,adjust arm compilation configuration,0,True,True,2024-04-25T05:08:41Z,2024-04-25T05:08:41Z,0,1,0,4,9,7,16,303.0
+4161,Add Helm charts for FRP server and client,119,True,False,,2024-04-24T11:49:05Z,0,2,2,21,852,0,852,0
+4176,Makefile.cross-compiles: Fix softfloat flag not being honored for mipsle,502,True,True,2024-04-22T11:50:59Z,2024-04-22T11:50:59Z,1,2,0,1,1,1,2,5883.0
+2846,workflows: update stale action,0,True,True,2022-03-15T03:53:15Z,2022-03-15T03:53:15Z,2,2,0,1,4,2,6,295.0
+4167,README add releated projects,0,True,True,2024-04-17T12:41:14Z,2024-04-17T12:41:14Z,1,2,0,2,12,5,17,507.0
+4154,support linux/arm v6,13,True,True,2024-04-12T13:21:28Z,2024-04-12T13:21:28Z,1,2,0,2,59,45,104,212.0
+4065,fix: typos,3,True,False,,2024-04-13T00:33:21Z,0,1,1,2,4,4,8,0
+4153,fix: ssh tunnel with user name will lead to invalid proxy name,3,True,False,,2024-04-12T06:13:03Z,1,2,0,1,0,1,1,0
+4152,show tcpmux proxies on the frps dashboard,13,True,True,2024-04-11T14:40:42Z,2024-04-11T14:40:42Z,0,1,0,11,128,56,184,199.0
+4151,return 504 instead of 404 for proxy type http request timeout,3,True,True,2024-04-11T12:19:08Z,2024-04-11T12:19:08Z,0,1,0,22,162,74,236,218.0
+4142,update golib,3,True,True,2024-04-10T04:05:22Z,2024-04-10T04:05:22Z,0,1,0,2,6,6,12,260.0
+4149,fix: revert gorilla/websocket from 1.5.1 to 1.5.0,375,True,True,2024-04-11T03:01:02Z,2024-04-11T03:01:02Z,0,2,0,2,3,3,6,5317.0
+4144,add jwt authentication,0,True,False,,2024-04-10T08:59:52Z,0,1,0,12,157,1,158,0
+4111,fix x-forwarded-for header,19,True,True,2024-03-28T08:47:27Z,2024-03-28T08:47:27Z,0,2,1,10,204,51,255,1962.0
+4139,update README,0,True,True,2024-04-09T07:03:32Z,2024-04-09T07:03:32Z,0,1,0,2,1,7,8,151.0
+4137,bump version,3,True,True,2024-04-09T03:45:41Z,2024-04-09T03:45:41Z,0,1,0,15,311,186,497,62.0
+4136,bump deps version,13,True,True,2024-04-09T03:39:21Z,2024-04-09T03:39:21Z,0,1,0,4,110,114,224,232.0
+4043,fix function name in comment,28,True,False,,2024-04-04T00:33:54Z,0,1,1,1,1,1,2,0
+4094,package.sh add android,0,True,True,2024-03-21T11:38:18Z,2024-03-21T11:38:18Z,0,1,0,2,1,25,26,488.0
+3976,Update tls.go,370,True,False,,2024-03-23T00:33:48Z,0,2,3,1,50,0,50,0
+4091,set CompatibilityMode for android,0,True,True,2024-03-21T09:34:10Z,2024-03-21T09:34:10Z,0,1,0,8,98,6,104,604.0
+4092,bump v0.56.0,0,True,True,2024-03-21T09:37:39Z,2024-03-21T09:37:39Z,0,2,0,32,317,57,374,118.0
+4086,update release notes,0,True,True,2024-03-20T07:16:01Z,2024-03-20T07:16:01Z,0,1,0,3,5,3,8,685.0
+4020,use math/rand/v2,0,True,True,2024-03-20T07:48:31Z,2024-03-20T07:48:31Z,0,1,2,5,16,25,41,2313776.0
+4087,show client address in server dashboard,122,True,False,,2024-03-21T08:20:30Z,0,2,2,7,26,11,37,0
+4081,add doc for port range mapping,0,True,True,2024-03-19T05:22:29Z,2024-03-19T05:22:29Z,0,1,0,3,22,3,25,6467.0
+4085,add header for http healthcheck,51,True,True,2024-03-20T06:58:03Z,2024-03-20T06:58:03Z,3,2,2,4,22,2,24,73888.0
+4084,add header for http healthcheck,51,True,False,,2024-03-19T10:12:10Z,0,2,2,4,28,2,30,0
+3979,Update Dockerfiles to copy binary from working directory into build container,932,True,False,,2024-03-19T00:33:49Z,0,2,2,2,2,2,4,0
+3996,fix nil map error when using plugin headers in legacy format,119,True,True,2024-02-19T05:03:37Z,2024-02-19T05:03:37Z,1,3,3,1,3,0,3,261538.0
+4074,update release notes,0,True,True,2024-03-15T09:50:59Z,2024-03-15T09:50:59Z,0,1,0,2,19,1,20,178.0
+4073,support range ports mapping by go template,0,True,True,2024-03-15T09:23:16Z,2024-03-15T09:23:16Z,0,1,0,10,117,19,136,2617.0
+4069,disable quic-go's ECN support by default,13,True,True,2024-03-15T06:22:04Z,2024-03-15T06:22:04Z,0,1,0,3,9,0,9,326.0
+4059,add `set -e` in package.sh,3,True,True,2024-03-12T10:07:56Z,2024-03-12T10:07:56Z,0,1,0,1,3,0,3,189.0
+4063,disable quic-go's receive buffer warning,0,True,True,2024-03-13T13:53:09Z,2024-03-13T13:53:09Z,0,1,0,3,9,1,10,859.0
+4066,fix daily log rotate,0,True,True,2024-03-14T11:49:58Z,2024-03-14T11:49:58Z,0,1,0,3,6,3,9,208.0
+4060,bump version,3,True,True,2024-03-12T10:11:37Z,2024-03-12T10:11:37Z,0,1,0,4,8,16,24,119.0
+4057,fix release scripts,3,True,True,2024-03-12T09:37:14Z,2024-03-12T09:37:14Z,0,1,0,3,5,16,21,261.0
+4055,update release notes,3,True,True,2024-03-12T07:14:13Z,2024-03-12T07:14:13Z,0,1,0,8,17,7,24,1111.0
+4056,bump version,0,True,True,2024-03-12T08:55:26Z,2024-03-12T08:55:26Z,0,6,0,108,891,927,1818,127.0
+4040,regen web assets,0,True,True,2024-03-03T15:02:38Z,2024-03-03T15:02:38Z,0,1,0,2,2,2,4,160.0
+4045,update sponsor,0,True,True,2024-03-07T06:45:55Z,2024-03-07T06:45:55Z,0,1,0,3,8,0,8,225.0
+4054,use new log package,0,True,True,2024-03-12T05:58:54Z,2024-03-12T05:58:54Z,0,1,0,51,389,405,794,7328.0
+4038,fixing the incorrect API address when using path reverse proxy,138,True,True,2024-03-03T14:57:17Z,2024-03-03T14:57:18Z,1,2,0,1,1,1,2,95394.0
+4028,add new badges,0,True,True,2024-02-27T09:43:38Z,2024-02-27T09:43:38Z,0,1,0,2,4,0,4,177.0
+3958,stale.xml,3,True,False,,2024-02-27T00:33:47Z,0,1,1,1,0,0,0,0
+4019,cleanup code,0,True,True,2024-02-22T13:04:21Z,2024-02-22T13:04:21Z,0,1,0,9,0,197,197,257.0
+4018,use go1.22,0,True,True,2024-02-22T12:24:33Z,2024-02-22T12:24:33Z,1,2,0,2,6,15,21,1809.0
+4013,update golangci-lint version to 1.56,0,True,True,2024-02-21T09:20:40Z,2024-02-21T09:20:40Z,0,1,0,2,2,2,4,100.0
+4009,update kcp-go package,0,True,True,2024-02-20T08:11:37Z,2024-02-20T08:11:37Z,0,1,0,3,31,23,54,315.0
+4008,use std slices package,0,True,True,2024-02-20T04:01:41Z,2024-02-20T04:01:41Z,0,1,0,22,75,84,159,481.0
+4007,use go built-in min & max functions to replace lo.Min and lo.Max,0,True,True,2024-02-19T13:27:56Z,2024-02-19T13:27:56Z,0,1,0,2,4,4,8,358.0
+4006,bump pion/stun to v2,0,True,True,2024-02-19T13:13:20Z,2024-02-19T13:13:20Z,0,1,0,4,16,5,21,202.0
+4005,ReverseProxy: use Rewrite to replace Director,0,True,True,2024-02-19T13:04:29Z,2024-02-19T13:04:29Z,0,1,0,6,34,26,60,240.0
+4003,display go version in make,0,True,True,2024-02-19T09:46:47Z,2024-02-19T09:46:47Z,0,1,0,2,24,21,45,625.0
+3962,fix(sec): upgrade github.com/quic-go/quic-go to 0.40.1,537,True,False,,2024-02-19T09:19:41Z,0,2,1,2,12,3,15,0
+4002,bump quic-go to 0.41.0,13,True,True,2024-02-19T09:17:02Z,2024-02-19T09:17:02Z,0,1,0,2,13,22,35,243.0
+4001,support go1.22 and drop support for go1.20,0,True,True,2024-02-19T08:45:25Z,2024-02-19T08:45:25Z,0,1,0,9,19,27,46,302.0
+4000,"proxy supports configuring annotations, which will be displayed in the frps dashboard",13,True,True,2024-02-19T08:28:27Z,2024-02-19T08:28:27Z,0,1,0,18,287,129,416,1402.0
+3999,Updated readme for the HTTP Proxy,86,True,True,2024-02-19T03:43:09Z,2024-02-19T03:43:09Z,1,2,0,1,2,2,4,109074.0
+3942,Update README.md for TLS configuration,149,True,False,,2024-02-19T00:33:53Z,0,1,1,1,9,4,13,0
+3971,Update README.md - add note for public purpose,157,True,True,2024-02-04T07:41:09Z,2024-02-04T07:41:09Z,1,2,0,1,2,0,2,152075.0
+3900,fix: fix frpc default config filename,80,True,False,,2024-02-02T00:33:58Z,0,2,4,1,1,1,2,0
+3968,bump version,0,True,True,2024-02-01T06:29:17Z,2024-02-01T06:29:17Z,0,3,0,61,2149,3050,5199,43.0
+3967,bump version to 0.54.0,0,True,True,2024-02-01T04:52:25Z,2024-02-01T04:52:25Z,0,1,0,3,4,4,8,3362.0
+3966,make the host/domain matching case-insensitive,13,True,True,2024-02-01T03:53:52Z,2024-02-01T03:53:52Z,0,1,0,2,10,0,10,121.0
+3963,web: support to clear offline proxies data on dashboard,9,True,True,2024-02-01T02:54:57Z,2024-02-01T02:54:57Z,1,2,0,39,2063,2997,5060,51764.0
+3952,update stale workflow,0,True,True,2024-01-25T06:10:04Z,2024-01-25T06:10:04Z,0,1,0,1,0,1,1,453.0
+3904,Update root.go,22,True,False,,2024-01-29T03:58:59Z,0,2,1,1,1,1,2,0
+3950,increase operations-per-run in stale workflow,0,True,True,2024-01-25T04:25:30Z,2024-01-25T04:25:30Z,0,1,0,1,1,0,1,1906.0
+3949,update stale workflow,0,True,True,2024-01-25T03:38:19Z,2024-01-25T03:38:19Z,0,1,0,1,4,4,8,376.0
+3848,"fixed: API error when the proxy name contains ""#"".",384,True,False,,2024-01-25T00:33:59Z,0,2,3,2,4,3,7,0
+3938,fix: typo,17,True,True,2024-01-16T10:38:54Z,2024-01-16T10:38:54Z,1,2,0,1,1,1,2,1463.0
+3921,Fix missing prefix for `transport.tls.force` in the example,126,True,True,2024-01-09T10:50:50Z,2024-01-09T10:50:50Z,1,2,0,1,1,1,2,627.0
+3898,cmd: use hyphen instead of underscore,0,True,True,2023-12-27T02:44:13Z,2023-12-27T02:44:13Z,1,2,0,7,23,9,32,55884.0
+3896,fix: ClientConfig marshals incorrectly,388,True,False,,2023-12-26T08:04:45Z,0,2,8,2,60,0,60,0
+3895,upgrade go-jose and crypto version,58,True,True,2023-12-26T02:49:46Z,2023-12-26T02:49:46Z,1,2,0,4,13,13,26,2518.0
+3887,Update go-jose and crypto version ,651,True,False,,2023-12-25T17:26:31Z,0,2,1,1,2,2,4,0
+3885,fix(client): close workConn when authentication err,14,True,True,2023-12-22T07:47:59Z,2023-12-22T07:47:59Z,1,2,0,1,1,0,1,429.0
+3844,update doc,0,True,True,2023-12-14T12:54:03Z,2023-12-14T12:54:03Z,0,1,0,5,37,28,65,732.0
+3882,imrpove e2e,0,True,True,2023-12-21T14:46:09Z,2023-12-21T14:46:09Z,0,1,0,6,22,21,43,1496.0
+3881,let e2e concurrency configurable,0,True,True,2023-12-21T13:58:56Z,2023-12-21T13:58:56Z,0,1,0,2,7,1,8,409.0
+3880,fix login retry interval (#3879),0,True,True,2023-12-21T13:42:47Z,2023-12-21T13:42:47Z,0,1,0,2,2,2,4,240.0
+3879,fix login retry interval,0,True,True,2023-12-21T13:38:32Z,2023-12-21T13:38:32Z,0,1,0,2,2,2,4,214.0
+3878,bump version,0,True,True,2023-12-21T13:25:02Z,2023-12-21T13:25:02Z,0,3,0,7,31,47,78,268.0
+3877,fix lint,0,True,True,2023-12-21T13:19:49Z,2023-12-21T13:19:49Z,0,1,0,5,6,18,24,223.0
+3875,fix: duplicate call loginFunc (#3860),83,True,True,2023-12-21T12:51:10Z,2023-12-21T12:51:10Z,5,2,0,3,17,19,36,13469.0
+3873,feat(backoff): add  BackoffUntilNil func in backoff,150,True,False,,2023-12-21T09:51:28Z,0,2,2,2,24,5,29,0
+3869,fix: duplicate call loginFunc (#3860),436,True,False,,2023-12-21T04:43:57Z,0,2,2,0,0,0,0,0
+3871,fix(backoff): close of closed out channel,164,True,True,2023-12-21T03:43:42Z,2023-12-21T03:43:42Z,3,2,0,1,7,6,13,2594.0
+3767,validate client certificate of frpc for tcpmux,333,True,False,,2023-12-21T00:33:54Z,0,1,1,5,49,0,49,0
+1481,Update README.md to fix typo,0,True,False,,2020-04-16T23:51:11Z,0,2,1,1,1,1,2,0
+3857,remove copilot for pr,0,True,True,2023-12-18T02:53:03Z,2023-12-18T02:53:03Z,0,1,0,1,1,4,5,322.0
+3737,Improve docker images,631,True,False,,2023-12-15T00:34:05Z,6,4,8,5,63,40,103,0
+3841,feat: ssh doc,0,True,True,2023-12-14T12:32:40Z,2023-12-14T12:32:40Z,1,2,0,3,211,0,211,101911.0
+3845,bump version to v0.53.0,0,True,True,2023-12-14T12:58:11Z,2023-12-14T12:58:11Z,0,5,0,103,3470,1545,5015,165.0
+3843,test draft,0,True,False,,2023-12-14T08:03:33Z,0,1,0,1,1,0,1,0
+3447,fix: typo,0,True,False,,2023-05-23T12:10:49Z,0,1,0,1,14,14,28,0
+3833,add error,0,True,True,2023-12-07T09:25:22Z,2023-12-07T09:25:22Z,1,2,0,1,1,0,1,616.0
+3723,Feature/retry access token,734,True,False,,2023-12-03T00:34:05Z,2,4,12,3,42,5,47,0
+3823,update sponsor doc,0,True,True,2023-12-02T08:12:37Z,2023-12-02T08:12:37Z,0,1,0,5,9,1,10,741.0
+3822,bump version to v0.53.0,193,True,True,2023-12-01T12:44:51Z,2023-12-01T12:44:51Z,0,1,0,1,1,1,2,437.0
+3821,ssh: return informations to client,455,True,True,2023-12-01T12:18:14Z,2023-12-01T12:18:14Z,1,2,0,5,153,51,204,3396.0
+3813,call config complete in nathole discover,214,True,True,2023-11-28T11:02:52Z,2023-11-28T11:02:52Z,0,1,0,1,1,0,1,472.0
+3816,fix static assets,36,True,True,2023-11-30T02:59:08Z,2023-11-30T02:59:08Z,0,2,0,1,1,3,4,35985.0
+3809,Improve the strict configuration validation,443,True,True,2023-11-28T10:43:33Z,2023-11-28T10:43:33Z,0,1,0,7,102,6,108,3100.0
+3805,add e2e tests for ssh tunnel,392,True,True,2023-11-28T05:48:33Z,2023-11-28T05:48:33Z,1,2,0,4,300,18,318,7107.0
+3793,ssh tunnel gateway implementation,0,True,True,2023-11-22T06:35:37Z,2023-11-22T06:35:37Z,0,2,0,30,1046,366,1412,224.0
+3801,optimize some code,0,True,True,2023-11-27T07:47:49Z,2023-11-27T07:47:49Z,0,1,0,52,880,600,1480,1186.0
+3802,add upstream sync workflow,329,True,False,,2023-11-27T10:29:14Z,0,2,0,1,40,0,40,0
+3783,Fix various typos,344,True,True,2023-11-22T06:30:23Z,2023-11-22T06:30:23Z,1,2,0,19,32,32,64,416071.0
+3784,sshTunnelGateway refactor,0,True,True,2023-11-21T03:19:36Z,2023-11-21T03:19:36Z,0,1,0,34,1036,1255,2291,68181.0
+3779,update for strict config,0,True,True,2023-11-16T13:03:37Z,2023-11-16T13:03:37Z,0,1,0,15,99,70,169,223.0
+3757,feat: allow dumping of configuration JSON Schema,766,True,False,,2023-11-16T07:44:13Z,0,2,7,5,79,5,84,0
+3773,Strict configuration parsing,858,True,True,2023-11-16T07:42:50Z,2023-11-16T07:42:50Z,1,2,0,11,119,47,166,71130.0
+3671,feat: ssh client implement,0,True,True,2023-11-14T07:16:24Z,2023-11-14T07:16:24Z,3,2,0,8,909,10,919,2755400.0
+3745,Code refactoring related to message handling and retry logic.,394,True,True,2023-11-06T02:51:48Z,2023-11-06T02:51:48Z,1,2,0,11,690,529,1219,234296.0
+3593,remove arch 386,176,True,True,2023-08-31T03:16:20Z,2023-08-31T03:16:20Z,0,2,1,1,1,3,4,201.0
+3740,frpc: exit with code 1 if first login failed,184,True,True,2023-11-01T09:06:55Z,2023-11-01T09:06:55Z,0,1,0,3,5,10,15,369.0
+3728,feature: reload config file on save,421,True,False,,2023-11-01T14:01:32Z,0,2,7,5,63,0,63,0
+3738,chore: Update dependencies,358,True,True,2023-10-31T11:40:49Z,2023-10-31T11:40:49Z,1,2,3,2,12,12,24,6433.0
+3734,fix: set ping,5,True,True,2023-10-30T12:24:57Z,2023-10-30T12:24:58Z,1,2,0,1,2,2,4,1872.0
+3735,Add harness api call validation support,481,True,False,,2023-10-30T12:06:11Z,0,1,0,6,85,0,85,0
+3641,Fix README full config links,218,True,False,,2023-10-24T02:39:33Z,0,2,1,1,2,2,4,0
+3721,rename example configuration file name,0,True,True,2023-10-24T02:42:51Z,2023-10-24T02:42:51Z,0,1,0,7,527,513,1040,176.0
+3722,bump version,0,True,True,2023-10-24T02:47:16Z,2023-10-24T02:47:16Z,0,1,0,9,529,514,1043,227.0
+3719,admin user not convert in INI,223,True,True,2023-10-24T02:08:29Z,2023-10-24T02:08:30Z,0,1,0,2,2,1,3,52552.0
+3713,remove configuration files in release assets,0,True,True,2023-10-23T02:47:59Z,2023-10-23T02:47:59Z,0,1,0,4,5,3,8,283.0
+3714,bump version,0,True,True,2023-10-23T02:51:51Z,2023-10-23T02:51:51Z,0,1,0,11,43,56,99,176.0
+3701,fix example config,337,True,True,2023-10-19T09:28:35Z,2023-10-19T09:28:35Z,0,1,0,3,17,17,34,403.0
+3694,fix doc link,0,True,True,2023-10-19T03:22:40Z,2023-10-19T03:22:40Z,0,1,0,2,2,6,8,224.0
+3683,README typo,0,True,True,2023-10-16T03:29:51Z,2023-10-16T03:29:51Z,0,1,0,1,6,6,12,194.0
+3682,fix encryption and compresion in dashboard,213,True,True,2023-10-16T03:22:12Z,2023-10-16T03:22:12Z,0,1,0,4,13,19,32,406.0
+3670,update README,0,True,True,2023-10-12T11:58:00Z,2023-10-12T11:58:00Z,0,1,0,2,2,7,9,535.0
+3668,bump version to v0.52.1,0,True,True,2023-10-11T09:16:08Z,2023-10-11T09:16:08Z,0,2,0,26,261,238,499,97.0
+3667,fix legacy ini proxy conversion panic,223,True,True,2023-10-11T08:53:04Z,2023-10-11T08:53:04Z,0,1,0,3,4,0,4,953.0
+3664,natHoleSTUNServer set default value,251,True,True,2023-10-11T07:46:22Z,2023-10-11T07:46:23Z,0,1,0,3,3,0,3,999.0
+3662,fix broken server api and dashboard info,13,True,True,2023-10-11T07:01:08Z,2023-10-11T07:01:08Z,0,1,0,14,224,225,449,467.0
+3660,fix that transport.tls.disableCustomTLSFirstByte doesn't take effect,325,True,True,2023-10-11T03:49:40Z,2023-10-11T03:49:40Z,0,1,0,5,27,10,37,455.0
+3655,Fix log.level configuration in frps.toml,46,True,True,2023-10-10T11:45:33Z,2023-10-10T11:45:33Z,1,2,0,1,1,1,2,245.0
+3654,fix tlsVerify json tag,243,True,True,2023-10-10T11:02:52Z,2023-10-10T11:02:52Z,0,1,0,2,2,2,4,193.0
+3651,bump version to v0.52.0,0,True,True,2023-10-10T09:24:07Z,2023-10-10T09:24:07Z,0,3,0,170,9453,5716,15169,65.0
+3650,update confugration examples and README,0,True,True,2023-10-10T08:48:14Z,2023-10-10T08:48:14Z,0,1,0,17,1105,569,1674,237.0
+3647,readme: mentioned antivirus detection in installation instructions,240,True,True,2023-10-09T07:05:04Z,2023-10-09T07:05:04Z,1,2,0,1,2,0,2,598.0
+3644,Ts 14027,351,True,False,,2023-10-04T13:34:12Z,0,1,0,23,204,432,636,0
+3625,code optimization,0,True,True,2023-09-20T07:18:50Z,2023-09-20T07:18:50Z,0,1,0,34,190,222,412,393.0
+3624,Added setup files and removed some unused files ,77,True,False,,2023-09-20T07:06:46Z,0,2,0,6,414,197,611,0
+3620,return ssl alert unrecognized_name when https domain not registered,5,True,True,2023-09-18T06:28:05Z,2023-09-18T06:28:05Z,1,2,0,5,28,9,37,6112.0
+3614,optimize the code of the command line,0,True,True,2023-09-15T02:33:32Z,2023-09-15T02:33:33Z,1,2,0,41,566,1363,1929,49030.0
+3610,config: add some validations,481,True,True,2023-09-13T10:59:51Z,2023-09-13T10:59:51Z,0,1,0,9,144,20,164,3938.0
+3608,add e2e tests for v1 config,0,True,True,2023-09-13T08:32:40Z,2023-09-13T08:32:40Z,0,1,0,61,3697,159,3856,317.0
+3599,"support yaml/json/toml configuration format, make ini deprecated",9,True,True,2023-09-06T02:18:02Z,2023-09-06T02:18:03Z,0,1,0,103,4175,3826,8001,48321.0
+3594,Auto pick current version from `go.mod` in `goreleaser.yml`,629,True,False,,2023-08-31T07:48:11Z,0,2,2,2,6,5,11,0
+3573,support go1.21,239,True,True,2023-08-14T03:10:39Z,2023-08-14T03:10:39Z,0,1,0,9,14,22,36,195.0
+3582,Remove redundant size hint for request info map,1240,True,False,,2023-08-23T07:53:27Z,0,2,2,2,2,2,4,0
+3528,use faster base64,78,True,False,,2023-08-22T00:33:37Z,0,2,4,10,15,8,23,0
+3580,Webhook,135,True,False,,2023-08-19T13:09:37Z,0,2,0,6,133,2,135,0
+3574,release v0.51.3,0,True,True,2023-08-14T03:59:10Z,2023-08-14T03:59:10Z,0,1,0,9,14,22,36,39.0
+3549,fix incorrect use of snappy pool,372,True,True,2023-07-25T13:31:27Z,2023-07-25T13:31:27Z,0,1,0,11,22,25,47,523.0
+3550,release v0.51.2,0,True,True,2023-07-25T13:35:09Z,2023-07-25T13:35:09Z,0,1,0,43,269,977,1246,193.0
+3547,fix a goroutine leak issue caused by Login plugin timeout,388,True,True,2023-07-25T07:12:40Z,2023-07-25T07:12:40Z,0,1,0,3,30,12,42,474.0
+3540,feat: export client to dynamic lib,234,True,False,,2023-07-22T04:11:21Z,0,1,0,3,19,3,22,0
+3539,update dependencies,0,True,True,2023-07-21T06:34:44Z,2023-07-21T06:34:44Z,1,2,0,6,146,833,979,688.0
+3538,update github actions,0,True,True,2023-07-21T02:30:47Z,2023-07-21T02:30:47Z,0,1,0,33,72,108,180,41389.0
+3532,update golib,188,True,True,2023-07-17T09:27:44Z,2023-07-17T09:27:44Z,0,1,0,2,3,3,6,153.0
+3536,fix a race condition issue,322,True,True,2023-07-20T14:32:32Z,2023-07-20T14:32:32Z,1,2,0,12,34,14,48,3192.0
+3537,release v0.51.1,0,True,True,2023-07-20T14:38:48Z,2023-07-20T14:38:48Z,0,1,0,14,39,25,64,318.0
+3512,update doc,0,True,True,2023-07-01T16:35:33Z,2023-07-01T16:35:33Z,0,1,0,2,91,7,98,454.0
+3520,update FUNDING.yml,0,True,True,2023-07-06T11:58:50Z,2023-07-06T11:58:50Z,0,1,0,3,7,13,20,324.0
+3516,update version,0,True,True,2023-07-05T12:35:08Z,2023-07-05T12:35:08Z,0,1,0,1,1,1,2,239.0
+3517,bump version to v0.51.0,0,True,True,2023-07-05T12:39:25Z,2023-07-05T12:39:25Z,0,1,0,22,398,80,478,150.0
+3511,frpc: support stop command,432,True,True,2023-06-30T09:35:37Z,2023-06-30T09:35:37Z,0,1,0,8,155,16,171,6254.0
+3504,service.Run supports passing in context,1390,True,True,2023-06-29T10:04:20Z,2023-06-29T10:04:20Z,0,1,0,5,39,18,57,370.0
+3503,support wss between frpc and frps,142,True,True,2023-06-29T03:20:45Z,2023-06-29T03:20:45Z,1,2,0,10,116,42,158,47239.0
+3498,add release notes for v0.50.0,0,True,True,2023-06-26T08:48:15Z,2023-06-26T08:48:15Z,0,1,0,2,10,11,21,272.0
+3404,client: support websocket over TLS (wss://).,455,True,False,,2023-06-28T14:17:18Z,3,4,4,1,6,1,7,0
+3499,release v0.50.0,0,True,True,2023-06-26T09:03:56Z,2023-06-26T09:03:56Z,0,1,0,79,1456,1317,2773,153.0
+3472,"stcp, xtcp, sudp: support allow_users and specified server user",2687,True,True,2023-06-02T08:06:29Z,2023-06-02T08:06:29Z,1,2,0,17,355,176,531,68466.0
+3474,yamux: change default MaxStreamWindowSize to 6MB,462,True,True,2023-06-04T11:58:55Z,2023-06-04T11:58:55Z,1,2,1,4,4,2,6,171482.0
+3489,fix the issue of duplicate xtcp proxies will cause the previous proxy to become ineffective,921,True,True,2023-06-15T16:41:06Z,2023-06-15T16:41:06Z,0,1,0,5,24,7,31,114.0
+3494,change default value of tls_enable and disable_custom_tls_first_byte,0,True,True,2023-06-25T16:10:28Z,2023-06-25T16:10:28Z,0,1,0,10,95,87,182,288.0
+3488,server/proxy: simplify the code,1714,True,True,2023-06-15T16:14:20Z,2023-06-15T16:14:20Z,0,1,0,10,209,147,356,431.0
+3460,"xtcp: when connection timeout occurs, support fallback to STCP",2039,True,True,2023-05-30T02:55:00Z,2023-05-30T02:55:00Z,1,3,4,16,230,68,298,46431.0
+3465,client/proxy: simplify the code,0,True,True,2023-05-30T14:18:56Z,2023-05-30T14:18:56Z,0,1,0,5,147,224,371,241.0
+3464,adjust code style about config,0,True,True,2023-05-30T12:25:22Z,2023-05-30T12:25:22Z,0,1,0,29,262,474,736,160.0
+3463,frps dashboard: remove bind_udp_port,0,True,True,2023-05-30T07:14:06Z,2023-05-30T07:14:06Z,0,1,0,5,19,26,45,476.0
+3455,format import package name,0,True,True,2023-05-29T06:10:34Z,2023-05-29T06:10:34Z,0,1,0,29,142,131,273,158.0
+3453,add release notes,0,True,True,2023-05-28T17:09:53Z,2023-05-28T17:09:54Z,0,1,0,12,39,51,90,203.0
+3454,release v0.49.0,0,True,True,2023-05-28T17:12:26Z,2023-05-28T17:12:26Z,0,4,0,88,4063,1806,5869,108.0
+3449,refactor the code related to xtcp,0,True,True,2023-05-28T08:50:44Z,2023-05-28T08:50:44Z,1,2,0,44,3284,1678,4962,175686.0
+3452,use constant time comparison,1906,True,True,2023-05-28T16:27:28Z,2023-05-28T16:27:28Z,0,1,0,11,45,35,80,740.0
+3451,add e2e case for xtcp,795,True,True,2023-05-28T15:06:35Z,2023-05-28T15:06:35Z,0,1,0,2,10,3,13,662.0
+3395,nathole: support discover without configuration file,817,True,True,2023-04-10T13:45:00Z,2023-04-10T13:45:00Z,0,1,0,1,11,7,18,233.0
+3413,web: fix el-popover bug,308,True,True,2023-04-16T08:43:44Z,2023-04-16T08:43:44Z,0,1,0,21,233,177,410,230.0
+3390,Add support for loongarch64,0,True,False,,2023-05-17T00:34:28Z,0,2,3,2,2,2,4,0
+3434,fix: typo tot => to,42,True,True,2023-05-08T13:28:44Z,2023-05-08T13:28:44Z,1,2,0,1,1,1,2,83908.0
+1427,add dashboard url path config ,183,True,False,,2020-10-06T01:07:58Z,0,4,3,24,2460,1775,4235,0
+3416,Fix typo: dasboard -> dashboard,49,True,True,2023-04-18T13:25:33Z,2023-04-18T13:25:33Z,0,2,0,1,1,1,2,976.0
+3399,Update frpc_full.ini,398,True,True,2023-04-12T03:02:57Z,2023-04-12T03:02:57Z,0,2,0,1,1,1,2,8279.0
+3383,feat(nathole): add flag for STUN server in nathole discovery command,580,True,True,2023-03-30T14:02:01Z,2023-03-30T14:02:01Z,0,1,0,1,7,0,7,401.0
+3380,feat(pull request): add pull request template including summary and walkthrough,484,True,True,2023-03-30T03:49:31Z,2023-03-30T03:49:31Z,0,1,0,1,10,0,10,232.0
+3382,feat(nathole): use serverUDPPort in nathole discovery when available,1433,True,True,2023-03-30T13:49:12Z,2023-03-30T13:49:12Z,0,1,0,3,151,97,248,171.0
+3381,frpc: support nathole discover,1694,True,True,2023-03-30T12:28:16Z,2023-03-30T12:28:16Z,0,1,0,13,520,16,536,703.0
+3351,frpc: add parameter nat_hole_server_addr,918,True,True,2023-03-10T07:51:14Z,2023-03-10T07:51:14Z,0,1,0,4,17,2,19,190.0
+3352,trace log adds join errors,769,True,True,2023-03-11T11:34:06Z,2023-03-11T11:34:06Z,0,1,0,5,12,6,18,13276.0
+3365,Use arg  `--clean` for GoReleaser and enable cache for setup-go,230,True,False,,2023-03-20T03:33:34Z,0,2,3,2,3,3,6,0
+3363,add allow_ips for frps,0,True,False,,2023-03-16T09:13:06Z,0,2,1,3,21,0,21,0
+3275,add max_delay_time parameter to frpc,137,True,False,,2023-03-09T00:34:30Z,0,1,3,3,6,1,7,0
+3348,bump version,0,True,True,2023-03-08T03:40:31Z,2023-03-08T03:40:31Z,0,1,0,139,7809,13891,21700,59.0
+3334,web/frpc: support more info,9,True,True,2023-02-25T18:54:53Z,2023-02-25T18:54:53Z,0,1,0,20,271,334,605,1746.0
+3335,e2e: upgrade to ginkgo v2,0,True,True,2023-02-27T06:44:16Z,2023-02-27T06:44:16Z,0,1,0,26,100,270,370,659.0
+3345,tcpmux: support authentication,0,True,True,2023-03-07T11:53:33Z,2023-03-07T11:53:33Z,0,1,0,11,324,71,395,1239.0
+3347,update release notes,0,True,True,2023-03-08T03:19:52Z,2023-03-08T03:19:52Z,0,1,0,2,5,5,10,278.0
+3330,sponsor: update,0,True,True,2023-02-23T05:22:06Z,2023-02-23T05:22:06Z,0,1,0,2,10,5,15,211.0
+3327,web/frpc&frps: support dark mode,9,True,True,2023-02-22T06:15:21Z,2023-02-22T06:15:21Z,0,1,0,19,224,127,351,126.0
+3326,web/frps: more info,9,True,True,2023-02-21T16:39:57Z,2023-02-21T16:39:57Z,0,1,0,12,136,66,202,331.0
+3322,web/frpc: upgrade vue and element-plus,0,True,True,2023-02-20T15:52:55Z,2023-02-20T15:52:55Z,0,1,0,36,3044,5935,8979,165.0
+3310,web/frps: upgrade vue and element-plus,0,True,True,2023-02-15T18:45:48Z,2023-02-15T18:45:48Z,0,1,0,48,4024,7408,11432,242.0
+3252,Client auto-updater,19,True,False,,2023-02-18T00:34:19Z,0,1,1,3,103,0,103,0
+3282,frpc: do a graceful close for quic protocol at exit,87,True,True,2023-02-01T05:09:32Z,2023-02-01T05:09:32Z,1,2,0,1,7,6,13,3160.0
+3300,sync,0,True,True,2023-02-09T17:12:00Z,2023-02-09T17:12:00Z,0,1,0,1,10,3,13,681.0
+3299,sync,0,True,True,2023-02-09T15:06:15Z,2023-02-09T15:06:15Z,0,5,0,46,408,98,506,698.0
+3296,release: prepare for 0.47.0,0,True,True,2023-02-08T16:59:40Z,2023-02-08T16:59:41Z,0,1,0,1,1,1,2,251.0
+3295,e2e: add test case for bandwidth_limit_mode server,0,True,True,2023-02-08T17:11:01Z,2023-02-08T17:11:01Z,0,1,0,3,65,4,69,1010.0
+3292,revert random change,0,True,True,2023-02-06T07:55:34Z,2023-02-06T07:55:34Z,0,1,0,2,8,0,8,196.0
+3287,support go1.20,0,True,True,2023-02-05T12:52:37Z,2023-02-05T12:52:37Z,0,1,0,9,14,16,30,261015.0
+3286,upgrade quic-go and change import path,0,True,True,2023-02-02T12:20:18Z,2023-02-02T12:20:18Z,0,1,0,5,24,21,45,106.0
+3271,support bandwidth_limit set by server plugin,74,True,True,2023-02-08T16:38:37Z,2023-02-08T16:38:37Z,11,2,10,27,284,41,325,1165892.0
+3266,Bugfix: add ipv6 parsing for custom DNS server,0,True,True,2023-01-29T15:54:40Z,2023-01-29T15:54:40Z,1,2,0,1,2,2,4,536441.0
+3209,Fix basic example server to join in readme,149,True,True,2023-01-15T11:15:48Z,2023-01-15T11:15:48Z,3,2,5,1,1,1,2,2760196.0
+3254,optimize: GetAuthKey,481,True,True,2023-01-14T13:43:27Z,2023-01-14T13:43:27Z,1,2,0,1,1,1,2,59813.0
+3251,Client auto-updater,19,True,False,,2023-01-12T00:01:43Z,0,1,0,2,98,0,98,0
+3246,pkg/util/net: fix quic streams leak,9,True,True,2023-01-10T02:19:38Z,2023-01-10T02:19:38Z,1,2,0,1,5,0,5,57761.0
+3247,update version,0,True,True,2023-01-10T02:24:44Z,2023-01-10T02:24:44Z,0,1,0,2,4,9,13,146.0
+3248,bump version,0,True,True,2023-01-10T02:26:57Z,2023-01-10T02:26:57Z,0,3,0,7,22,19,41,55.0
+3244,fix: incorrect op for newWorkConn,102,True,True,2023-01-09T02:34:09Z,2023-01-09T02:34:09Z,1,2,0,1,1,1,2,3555.0
+3245,Merge pull request #1 from fatedier/master,6,True,False,,2023-01-09T02:26:07Z,0,2,2,0,0,0,0,0
+3211,support quic options,0,True,True,2022-12-18T10:43:42Z,2022-12-18T10:43:42Z,1,2,0,12,76,37,113,336784.0
+2916,Log duration of each connection,109,True,False,,2022-12-25T00:34:20Z,0,1,15,5,44,1,45,0
+3224,refactor: ifelse,0,True,True,2022-12-22T09:55:07Z,2022-12-22T09:55:07Z,1,2,0,3,12,9,21,25775.0
+3219,update goreleaser.yaml,0,True,True,2022-12-18T11:23:42Z,2022-12-18T11:23:42Z,0,1,0,1,0,7,7,304.0
+3218,release v0.46.0,0,True,True,2022-12-18T10:46:52Z,2022-12-18T10:46:52Z,0,4,0,22,702,261,963,136.0
+3205,feat: release,0,True,True,2022-12-13T14:37:06Z,2022-12-13T14:37:06Z,1,3,0,2,11,1,12,7938.0
+3192,Support OIDC scope parameter,114,True,True,2022-12-09T03:46:35Z,2022-12-09T03:46:35Z,1,2,6,1,12,1,13,808878.0
+3202,feat: Refine OIDC arguments,0,True,True,2022-12-12T07:10:39Z,2022-12-12T07:10:39Z,0,3,0,4,265,35,300,206839.0
+3198,support protocol quic between frpc and frps,0,True,True,2022-12-12T03:04:11Z,2022-12-12T03:04:11Z,1,2,0,12,328,189,517,582898.0
+3150,upgrade github actions version,0,True,True,2022-10-27T06:22:15Z,2022-10-27T06:22:15Z,0,1,0,3,11,11,22,7957.0
+3155,Set least privileged token permission for GitHub Actions,704,True,True,2022-10-31T07:46:47Z,2022-10-31T07:46:47Z,2,2,0,3,12,0,12,2112.0
+3148,remove unsupported platform,0,True,True,2022-10-27T02:22:47Z,2022-10-27T02:22:47Z,0,1,0,1,2,2,4,9.0
+2978,fix ipv6 address parsing,0,True,True,2022-06-14T06:24:35Z,2022-06-14T06:24:35Z,1,2,0,4,19,16,35,75205.0
+3080,lint by golangci-lint,0,True,True,2022-08-28T17:02:53Z,2022-08-28T17:02:53Z,0,1,0,122,947,1331,2278,1142.0
+3094,update deps,0,True,True,2022-09-08T09:16:45Z,2022-09-08T09:16:45Z,0,1,0,3,173,143,316,298.0
+3121,improve not found response,0,True,True,2022-10-09T04:13:28Z,2022-10-09T04:13:28Z,0,1,0,3,10,9,19,673.0
+3131,improve http group load balancing,0,True,True,2022-10-19T04:14:36Z,2022-10-19T04:14:36Z,0,1,0,5,119,47,166,310402.0
+3136,adjust sponsors,0,True,True,2022-10-19T04:14:09Z,2022-10-19T04:14:09Z,0,1,0,2,0,22,22,356.0
+3147,bump version,0,True,True,2022-10-26T15:18:40Z,2022-10-26T15:18:40Z,0,6,0,128,1250,1561,2811,28.0
+3146,bump version,0,True,True,2022-10-26T15:15:28Z,2022-10-26T15:15:28Z,0,6,0,128,1250,1561,2811,3129.0
+2376,Fix XTCP timeout & Symmetric NAT client,194,True,False,,2022-10-09T11:27:29Z,2,7,10,1,70,46,116,0
+3117,Release 2.9,0,True,False,,2022-10-03T08:41:14Z,0,4,0,7,78,2,80,0
+3118,Revert merge commit,0,True,False,,2022-10-03T09:51:51Z,0,4,0,7,78,2,80,0
+3110,Cr 14344,0,True,False,,2022-09-28T13:54:26Z,0,3,0,20,153,33,186,0
+3041,feat(build): add distroless docker images that build frpc and frps,0,True,False,,2022-09-24T00:35:56Z,0,2,4,2,66,0,66,0
+3081,chore: remove duplicate word in comments,46,True,True,2022-08-29T04:25:36Z,2022-08-29T04:25:36Z,1,2,0,2,2,2,4,5376.0
+3068,Added OpExit,304,True,False,,2022-08-28T08:31:10Z,0,2,3,6,93,1,94,0
+3071,Add support for riscv64,48,True,True,2022-08-23T02:10:05Z,2022-08-23T02:10:05Z,1,2,0,3,4,4,8,2690.0
+3062,Documentation: Update CLI Command Flags in OpenSSL Certificate Issuance Example in README,579,True,True,2022-08-16T12:47:57Z,2022-08-16T12:47:57Z,1,2,0,1,2,2,4,3461.0
+3030,fix: can not close frpc,110,True,False,,2022-07-29T03:28:08Z,0,2,1,1,17,4,21,0
+2996,Adjust package structure of frps,104,True,False,,2022-07-26T15:56:10Z,0,1,0,3,4,3,7,0
+3016,[client] Remove redundant function parameters in HandleEvent,97,True,True,2022-07-14T07:31:32Z,2022-07-14T07:31:32Z,1,2,0,3,4,11,15,953.0
+2966,feat: support aead encryption,834,True,False,,2022-07-14T00:34:37Z,0,2,6,26,68,21,89,0
+3012,Fixed a bug where service loops reconnection after disconnection. service is shut down and can not exit goroutine,303,True,True,2022-07-12T10:43:58Z,2022-07-12T10:43:58Z,1,2,0,1,4,0,4,4263.0
+3010,release v0.44.0,0,True,True,2022-07-10T16:10:43Z,2022-07-10T16:10:43Z,0,2,0,13,142,63,205,17.0
+2958,Use relative url instead of absolute url,0,True,False,,2022-07-06T00:35:25Z,0,1,2,2,4,4,8,0
+2982,Server Dashboard SSL Support,321,True,True,2022-06-27T02:08:03Z,2022-06-27T02:08:03Z,14,2,10,5,93,28,121,906406.0
+2980,feat: add vscode config ignore,0,True,False,,2022-06-14T06:07:19Z,0,2,0,1,1,0,1,0
+2925,package for openbsd,72,True,False,,2022-06-13T00:35:05Z,3,2,1,2,2,2,4,0
+2968,Support auto generated certificates for plugin https2https and https2http,0,True,True,2022-06-05T09:15:28Z,2022-06-05T09:15:28Z,0,1,0,2,23,15,38,220.0
+2954,release note for v0.43.0,0,True,True,2022-05-27T08:02:36Z,2022-05-27T08:02:36Z,0,1,0,2,5,1,6,385.0
+2932,type http proxy support route_by_http_user,0,True,True,2022-05-26T15:57:31Z,2022-05-26T15:57:31Z,3,2,1,22,605,282,887,1409963.0
+2955,bump version to v0.43.0,0,True,True,2022-05-27T08:27:19Z,2022-05-27T08:27:19Z,0,8,0,30,652,424,1076,132.0
+2892,Update docker image build file,197,True,True,2022-04-28T17:12:07Z,2022-04-28T17:12:08Z,0,4,4,3,59,86,145,1230709.0
+2903,support symmetric NAT，make XTCP works,377,True,False,,2022-05-23T10:35:25Z,0,2,2,11,180,66,246,0
+2448,Allow to store Basic Auth passwords hashed in config files,110,True,False,,2022-05-08T00:35:09Z,0,2,22,15,72,7,79,0
+2836,Configurable websocket PATH,15,True,False,,2022-05-02T00:34:17Z,1,3,2,9,29,13,42,0
+2913,"Fix the systemd warning ""Special user nobody configured, this is not …",87,True,False,,2022-04-30T03:45:50Z,0,2,2,4,4,4,8,0
+2864,Fix api time show,0,True,False,,2022-04-30T00:34:32Z,0,1,1,1,4,4,8,0
+2856,Golangci-lint,473,True,False,,2022-04-27T00:34:25Z,0,2,3,3,131,0,131,0
+2858,Fixed go vet warnings,288,True,False,,2022-04-27T00:34:24Z,1,2,1,2,2,2,4,0
+2873,frpc: support multiple confs,0,True,True,2022-03-28T04:12:35Z,2022-03-28T04:12:35Z,3,2,1,5,66,32,98,41479.0
+2886,fix error parsing env values,9,True,True,2022-04-05T04:48:57Z,2022-04-05T04:48:58Z,0,2,1,1,3,3,6,48949.0
+2894,dependency: update github.com/pires/go-proxyproto to v0.6.2,9,True,True,2022-04-15T03:36:00Z,2022-04-15T03:36:00Z,0,1,0,2,3,3,6,146.0
+2906,bump version,0,True,True,2022-04-22T03:32:27Z,2022-04-22T03:32:27Z,0,3,0,16,95,50,145,900.0
+2901,Nathole,404,True,False,,2022-04-20T07:36:32Z,0,1,0,11,195,67,262,0
+2891,fix: data races when accessing `github.com/fatedier/frp/client.(*Service).ctl`,1885,True,True,2022-04-14T03:14:20Z,2022-04-14T03:14:20Z,2,2,0,1,6,0,6,18614.0
+2882,fix some typos,0,True,True,2022-04-02T09:35:52Z,2022-04-02T09:35:52Z,1,2,0,4,4,4,8,974.0
+2878,Dev,0,True,False,,2022-03-30T14:48:42Z,0,2,2,8,70,36,106,0
+2849,support pprof,9,True,True,2022-03-17T03:42:59Z,2022-03-17T03:42:59Z,0,2,1,6,40,4,44,61875.0
+2863,support tcp keepalive params,0,True,True,2022-03-22T11:29:30Z,2022-03-22T11:29:30Z,0,2,1,11,29,8,37,94140.0
+2868,support go1.18 and remove go1.16,0,True,True,2022-03-23T13:15:01Z,2022-03-23T13:15:01Z,0,1,0,4,8,5,13,98.0
+2869,bump version to v0.41.0,0,True,True,2022-03-23T13:19:59Z,2022-03-23T13:19:59Z,0,2,0,21,113,43,156,262.0
+2867,add release note,0,True,True,2022-03-23T12:14:55Z,2022-03-23T12:14:55Z,0,1,0,2,4,9,13,361.0
+2853,Golangci-lint integration,75,True,False,,2022-03-18T21:04:55Z,0,1,0,79,386,258,644,0
+2844,feat: SUDP alway reconnect and print too much log when no data ready,5,True,True,2022-03-17T04:03:20Z,2022-03-17T04:03:20Z,3,3,0,1,28,15,43,181132.0
+2832,bugfix: Issue #2831 - Cant connect to frps behind ingress with tls,129,True,True,2022-03-11T06:51:47Z,2022-03-11T06:51:47Z,2,3,3,1,2,1,3,58359.0
+2833,bump version to v0.40.0,0,True,True,2022-03-11T11:45:35Z,2022-03-11T11:45:35Z,0,1,0,2,12,2,14,398.0
+2816,random sleep duration before reconnecting,9,True,True,2022-02-24T03:59:36Z,2022-02-24T03:59:37Z,1,2,0,2,28,15,43,51745.0
+2834,bump version,0,True,True,2022-03-11T11:51:33Z,2022-03-11T11:51:33Z,0,4,0,21,233,33,266,289.0
+2823,Notify server plugins when a proxy is closed,834,True,True,2022-03-08T07:08:10Z,2022-03-08T07:08:10Z,5,3,6,7,145,2,147,514802.0
+2814,feat: support add additional params for OIDC,11,True,True,2022-03-07T06:23:49Z,2022-03-07T06:23:49Z,1,4,4,3,28,8,36,1187350.0
+2784,timeout exit frpc,209,True,False,,2022-03-06T00:33:48Z,0,2,2,3,19,2,21,0
+2802,Add audience to token generator,348,True,False,,2022-03-03T17:05:56Z,1,3,4,1,3,0,3,0
+2785,add new sponsor,0,True,True,2022-01-28T07:29:43Z,2022-01-28T07:29:43Z,0,1,0,4,29,7,36,264.0
+2805,client: add dial_server_timeout,9,True,True,2022-02-19T08:49:21Z,2022-02-19T08:49:22Z,3,2,2,9,18,5,23,88755.0
+2791,use net.JoinHostPort instead of fmt.Sprintf,9,True,True,2022-02-09T07:19:35Z,2022-02-09T07:19:35Z,0,1,0,17,61,49,110,11314.0
+2601,feat: wss support (#2194),909,True,False,,2021-11-18T00:33:13Z,0,3,3,2,14,2,16,0
+2792,bump version,0,True,True,2022-02-09T08:11:21Z,2022-02-09T08:11:21Z,0,1,0,23,101,79,180,1661.0
+2758,allow to disable application layer heartbeat to reduce traffic cost,239,True,True,2022-01-13T06:26:07Z,2022-01-13T06:26:08Z,2,2,0,11,228,146,374,70539.0
+2783,doc: update donation section,0,True,True,2022-01-26T12:56:00Z,2022-01-26T12:56:00Z,0,1,0,2,10,13,23,402.0
+2782,bump version,0,True,True,2022-01-26T12:17:54Z,2022-01-26T12:17:54Z,0,4,0,35,513,530,1043,29.0
+2774,feat: support set local ip in client when connect server,5,True,True,2022-01-26T11:47:40Z,2022-01-26T11:47:40Z,1,3,0,4,14,0,14,183032.0
+1714,Add audience parameter to token request for Auth0 support,176,True,False,,2020-09-25T07:36:29Z,0,5,12,1,6,4,10,0
+2767,move dial functions into golib,0,True,True,2022-01-20T12:03:07Z,2022-01-20T12:03:07Z,1,2,0,9,114,195,309,100872.0
+2743,doc: no X-Real-IP in http proxy,1237,True,True,2022-01-09T15:47:28Z,2022-01-09T15:47:28Z,1,2,0,1,1,1,2,1966.0
+2751,"server plugin: add client address in Login operation, fix #2742",0,True,True,2022-01-11T08:32:20Z,2022-01-11T08:32:20Z,1,2,0,3,11,1,12,971.0
+2676,remove nil error,0,True,False,,2021-11-24T09:30:25Z,0,1,1,1,2,4,6,0
+2677,fix/spelling,54,True,False,,2022-01-05T00:33:41Z,1,2,1,1,1,1,2,0
+2731,ISSUE: 2730 Alpine version update for security fixes,83,True,True,2022-01-04T02:40:45Z,2022-01-04T02:40:46Z,4,2,0,2,4,4,8,54271.0
+2729,add new sponsor,0,True,True,2022-01-02T06:31:08Z,2022-01-02T06:31:08Z,0,1,0,2,14,6,20,142.0
+2720,refactor: refine pkg net utils,0,True,True,2021-12-28T13:14:57Z,2021-12-28T13:14:58Z,3,3,0,6,142,60,202,8251.0
+2719,WIP: custom dial,0,True,False,,2021-12-28T09:04:58Z,0,2,0,8,200,91,291,0
+2656,Added startup file for init.d,48,True,False,,2021-12-22T00:33:31Z,0,2,2,1,102,0,102,0
+2704,update readme add sponsor pic,0,True,True,2021-12-17T07:05:39Z,2021-12-17T07:05:39Z,0,1,0,3,22,0,22,179.0
+2695,doc: add local_port for tcpmux example,0,True,True,2021-12-08T10:41:21Z,2021-12-08T10:41:21Z,0,1,0,1,2,0,2,231.0
+2672,remove authentication for healthz api,9,True,True,2021-11-23T06:14:27Z,2021-11-23T06:14:27Z,1,2,0,6,82,26,108,7153.0
+2648,doc for v2,0,True,True,2021-11-09T06:18:40Z,2021-11-09T06:18:40Z,1,2,0,2,7,1,8,7842.0
+2616, feat: http stream filter,0,True,False,,2021-11-21T00:33:18Z,0,2,1,17,543,64,607,0
+2475,fix: client services pull in network-online.target,100,True,False,,2021-09-16T00:33:13Z,0,1,3,2,4,2,6,0
+2541,Add support for HTTPS via ACME as a client plugin,172,True,False,,2021-11-05T00:33:12Z,0,2,6,5,194,1,195,0
+2630,[TEST] CI,0,True,False,,2021-10-25T13:35:16Z,0,2,0,1,0,0,0,0
+2638,bump version to v0.38.0,0,True,True,2021-10-25T12:31:13Z,2021-10-25T12:31:13Z,1,5,0,53,294,226,520,700.0
+2563,use github issue form,0,True,True,2021-09-03T03:47:55Z,2021-09-03T03:47:55Z,0,1,0,5,113,70,183,112.0
+2621,fix: kcp protocol cause delay release resource,483,True,True,2021-10-19T06:57:26Z,2021-10-19T06:57:26Z,7,3,1,3,15,5,20,266671.0
+2618,fix: a negetive number in statistic,5,True,False,,2021-10-14T14:42:40Z,0,2,0,1,9,0,9,0
+2617,Merge pull request #1 from fatedier/master,4,True,False,,2021-10-14T06:05:40Z,0,2,1,0,0,0,0,0
+2614,fix: typo,0,True,True,2021-10-11T04:12:00Z,2021-10-11T04:12:00Z,1,3,0,1,2,2,4,321.0
+2592,refactor: move from io/ioutil to io and os package,41,True,True,2021-09-29T02:33:57Z,2021-09-29T02:33:57Z,1,2,0,19,38,44,82,36088.0
+2265,Create autocloser.yml,315,True,False,,2021-09-29T00:33:11Z,0,2,1,3,35,4,39,0
+2511,add healthz api,9,True,True,2021-08-04T06:33:53Z,2021-08-04T06:33:53Z,0,1,0,4,13,1,14,310.0
+2520,frpc: add disable_custom_tls_first_byte to not send first custom tls byte to frps,9,True,True,2021-08-11T15:10:36Z,2021-08-11T15:10:36Z,1,2,0,8,49,12,61,264083.0
+2532,support go1.17 and remove go1.15,0,True,True,2021-08-17T07:26:44Z,2021-08-17T07:26:44Z,0,1,0,4,5,7,12,3461.0
+2558,Create FUNDING.yml,0,True,True,2021-08-31T12:28:14Z,2021-08-31T12:28:14Z,0,1,0,1,3,0,3,747.0
+2255,Let's get rid of ugly statik,326,True,True,2021-08-17T12:20:04Z,2021-08-17T12:20:05Z,2,2,5,12,43,77,120,15100817.0
+2473,update github.com/spf13/cobra to v1.2.1,145,True,False,,2021-08-16T00:32:58Z,0,2,2,2,283,53,336,0
+2447,frps: allow to use custom status code for not found page/vhost,0,True,False,,2021-08-12T00:33:18Z,0,3,6,5,17,6,23,0
+2508,bump version,0,True,True,2021-08-03T15:13:31Z,2021-08-03T15:13:31Z,0,4,0,88,3830,2319,6149,97.0
+2505,add more e2e test,0,True,True,2021-08-02T05:07:29Z,2021-08-02T05:07:29Z,0,1,0,20,1448,154,1602,1744.0
+2504,vhost: use new readClientHello function,9,True,True,2021-08-03T14:58:03Z,2021-08-03T14:58:03Z,2,2,0,3,80,155,235,177578.0
+2507,add release note for v0.37.1,0,True,True,2021-08-03T15:10:27Z,2021-08-03T15:10:27Z,0,1,0,2,6,1,7,119.0
+2438,"Revert ""web: support sudp in dashboard""",13,True,False,,2021-08-03T00:33:35Z,0,1,1,15,46,168,214,0
+2472,dep: update github.com/hashicorp/yamux to latest,9,True,True,2021-07-08T02:42:28Z,2021-07-08T02:42:29Z,0,1,0,2,3,3,6,194.0
+2502,Fix Chrome 92 ERROR_CONNECTION_RESET,5,True,False,,2021-08-01T15:01:09Z,0,1,0,1,1,1,2,0
+2400,fix naming,0,True,False,,2021-07-29T00:33:20Z,0,1,1,1,2,2,4,0
+2416,prometheus: add proxy status,5,True,False,,2021-07-29T00:33:19Z,4,2,2,1,10,0,10,0
+2483,Honor `login_fail_exit` when reconnecting,272,True,False,,2021-07-19T15:54:27Z,0,2,6,1,5,0,5,0
+2467,Fix server-side proxy inappropriate quit when met `accept: too many open files` error,3371,True,True,2021-07-05T02:27:15Z,2021-07-05T02:27:15Z,3,2,0,5,23,2,25,221036.0
+2458,FIX: stuct name typo,0,True,True,2021-06-24T08:33:52Z,2021-06-24T08:33:52Z,1,2,0,1,1,1,2,839.0
+2457,fix http_proxy GET request,45,True,False,,2021-06-23T04:54:02Z,0,1,0,1,12,5,17,0
+2452,update third party packages,0,True,True,2021-06-21T11:35:52Z,2021-06-21T11:35:52Z,0,1,0,17,609,126,735,431.0
+2450,more e2e test cases,0,True,True,2021-06-18T08:48:37Z,2021-06-18T08:48:37Z,0,1,0,45,1734,1951,3685,13.0
+2350,Create codeql-analysis.yml,56,True,False,,2021-06-13T00:33:51Z,0,1,2,1,51,0,51,0
+2444,fix web js,0,True,True,2021-06-09T03:53:39Z,2021-06-09T03:53:39Z,0,1,0,16,16,16,32,163.0
+2385,web: support sudp in dashboard,9,True,True,2021-05-11T05:37:15Z,2021-05-11T05:37:15Z,1,2,0,15,168,46,214,134.0
+2429,Typo: josn => json,0,True,True,2021-06-04T03:21:52Z,2021-06-04T03:21:52Z,1,2,0,1,1,1,2,44211.0
+2426,update workflow file,0,True,True,2021-06-02T16:59:21Z,2021-06-02T16:59:21Z,0,1,0,2,39,33,72,120.0
+2425,bump version,0,True,True,2021-06-02T16:14:32Z,2021-06-02T16:14:32Z,0,2,0,64,1227,498,1725,167.0
+2421,frpc: support 'includes' in common section to include proxy configs in other files,13,True,True,2021-06-01T16:39:05Z,2021-06-01T16:39:05Z,0,1,0,4,116,54,170,536.0
+2424,frpc: consider include configs for verify and reload command,0,True,True,2021-06-02T15:54:23Z,2021-06-02T15:54:23Z,0,1,0,30,347,311,658,92.0
+2401,readme: fix toc hyperlinx,86,True,True,2021-05-17T09:29:13Z,2021-05-17T09:29:13Z,1,2,0,1,1,1,2,1122.0
+2389,cmd: add verify command to verify if config file syntax is valid,13,True,True,2021-05-12T04:15:22Z,2021-05-12T04:15:22Z,0,1,0,4,111,4,115,428.0
+2253,Update Makefile.cross-compiles,16,True,False,,2021-05-12T00:33:55Z,4,2,1,1,10,0,10,0
+2383,Fix #2344: change default value of dashboard_user and dashboard_pwd to empty string,9,True,True,2021-05-10T15:04:26Z,2021-05-10T15:04:26Z,0,1,0,4,12,12,24,494.0
+2347,use go embed instead of statik for static files,0,True,False,,2021-04-10T16:29:29Z,0,2,0,12,42,46,88,0
+2363,frpc: fix that login_fail_exit invalid if `protocol=kcp`,9,True,True,2021-04-22T10:33:10Z,2021-04-22T10:33:10Z,0,1,0,1,1,1,2,91.0
+2362,add vhost_bind_addr,13,True,False,,2021-04-22T05:35:10Z,0,1,0,3,14,4,18,0
+2334,add e2e tests,0,True,True,2021-03-31T08:57:39Z,2021-03-31T08:57:40Z,0,1,0,20,541,166,707,133.0
+2314,update README.md,0,True,True,2021-03-19T08:06:22Z,2021-03-19T08:06:22Z,0,1,0,1,2,2,4,196.0
+2323,fix config parse logic,0,True,True,2021-03-22T06:53:31Z,2021-03-22T06:53:31Z,0,1,0,12,70,42,112,180.0
+2316,Fix log_file does not work in config files,0,True,True,2021-03-22T03:30:12Z,2021-03-22T03:30:12Z,2,3,0,2,10,13,23,232938.0
+2304,config: inline is NOT SUPPORTED in encoding/json,33,True,True,2021-03-19T09:36:39Z,2021-03-19T09:36:39Z,1,2,2,4,18,18,36,281175.0
+2129,Merge the web code for frps and frpc,299,True,False,,2021-03-27T08:43:22Z,0,3,11,93,2155,25903,28058,0
+2222,make e2e echoserver support more protocals,0,True,False,,2021-03-27T00:34:09Z,0,1,1,6,257,22,279,0
+1385,protocol = wss,557,True,False,,2020-04-20T05:36:50Z,0,3,4,12,134,11,145,0
+2220,Fixed copyright,0,True,False,,2021-03-23T01:21:00Z,0,1,1,1,1,1,2,0
+2324,bump version v0.36.2,0,True,True,2021-03-22T06:56:48Z,2021-03-22T06:56:48Z,0,4,0,23,99,74,173,173.0
+2289,Support reverseproxy to dashboard with additional parts in path.,497,True,True,2021-03-19T09:31:16Z,2021-03-19T09:31:16Z,1,3,2,11,15,13,28,764291.0
+2310,bump version,0,True,True,2021-03-18T03:14:56Z,2021-03-18T03:14:56Z,0,2,0,4,3,15,18,30.0
+2308,fix(server): listen udp port failed,9,True,True,2021-03-18T03:05:03Z,2021-03-18T03:05:03Z,0,2,0,1,1,1,2,44687.0
+2301,bump version to v0.36.0,0,True,True,2021-03-15T13:48:40Z,2021-03-15T13:48:40Z,0,1,0,2,11,2,13,153.0
+2303,config: inline is NOT SUPPORTED in encoding/json,33,True,False,,2021-03-16T03:26:19Z,0,1,0,4,1350,1350,2700,0
+2302,bump version,0,True,True,2021-03-15T13:54:52Z,2021-03-15T13:54:52Z,0,6,0,56,3092,1722,4814,89.0
+2295,update Makefile.cross-compiles and support darwin/arm64,0,True,True,2021-03-15T13:02:57Z,2021-03-15T13:02:57Z,0,1,0,7,23,40,63,270740.0
+2240,client: reconnect more quickly if it's a dial error,0,True,True,2021-02-18T08:15:35Z,2021-02-18T08:15:36Z,1,2,0,9,20,14,34,955989.0
+2279,Support reverseproxy to dashboard with additional parts in path,486,True,False,,2021-03-10T14:23:49Z,0,2,2,2,4,2,6,0
+2288,update: support ipv6,9,True,True,2021-03-10T12:19:58Z,2021-03-10T12:19:58Z,0,2,0,7,25,21,46,4326.0
+2278,update: support custom tls server name,9,True,True,2021-03-07T06:57:23Z,2021-03-07T06:57:23Z,1,2,0,5,20,5,25,165555.0
+2182,Update goreleaser.yml,0,True,False,,2021-03-07T01:19:24Z,0,1,1,1,1,0,1,0
+2273,fix XTCP error handling,22,True,True,2021-03-03T12:54:46Z,2021-03-03T12:54:47Z,1,2,0,1,4,0,4,514.0
+2178,Add close issue bot,241,True,False,,2021-03-03T01:15:21Z,0,2,7,3,32,3,35,0
+2199,vhost: set DisableKeepAlives = false and fix websocket not work,0,True,True,2021-01-19T07:40:42Z,2021-01-19T07:40:42Z,1,4,3,3,50,20,70,63057.0
+2256,fixed images path,0,True,False,,2021-02-24T12:13:26Z,0,2,1,2,5,5,10,0
+2251,update docs: add example for building tls certificates,0,True,True,2021-02-22T05:59:22Z,2021-02-22T05:59:22Z,1,2,0,1,68,0,68,1360.0
+2249,Merge pull request #1 from fatedier/master,4,True,False,,2021-02-19T14:03:03Z,0,1,0,0,0,0,0,0
+2237,modify gitignore;fix a typo,0,True,True,2021-02-07T06:07:22Z,2021-02-07T06:07:22Z,0,2,0,2,2,1,3,83194.0
+2201,initial commit for https2https plugin,104,True,True,2021-01-27T05:14:17Z,2021-01-27T05:14:17Z,1,3,2,4,152,2,154,727917.0
+2221,Update README,0,True,True,2021-01-27T05:07:44Z,2021-01-27T05:07:45Z,1,3,1,1,28,6,34,29596.0
+2218,Updated README,49,True,False,,2021-01-26T20:53:54Z,1,3,0,1,28,6,34,0
+2098,Reconstruct config,0,True,True,2021-01-26T03:31:08Z,2021-01-26T03:31:08Z,13,2,0,31,2745,1637,4382,5518709.0
+2215,revert web code,0,True,True,2021-01-25T08:04:34Z,2021-01-25T08:04:34Z,0,1,0,53,9151,21938,31089,361.0
+2216,bump version,0,True,True,2021-01-25T08:15:53Z,2021-01-25T08:15:53Z,0,1,0,55,9153,21945,31098,59.0
+2101,some dashboard refactor,195,True,True,2020-12-03T12:20:49Z,2020-12-03T12:20:49Z,5,2,13,33,10483,10520,21003,873822.0
+2206,bump version,0,True,True,2021-01-19T12:56:07Z,2021-01-19T12:56:07Z,0,6,0,70,11025,10621,21646,219.0
+2205,Merge pull request #1 from fatedier/master,6,True,False,,2021-01-19T10:43:42Z,0,2,1,0,0,0,0,0
+2198,fix: websocket on http,217,True,False,,2021-01-18T14:56:03Z,0,2,3,1,1,0,1,0
+2184,Add user remote address info log,9,True,True,2021-01-11T08:52:18Z,2021-01-11T08:52:18Z,1,2,0,1,2,2,4,646.0
+1919,feat: support wss protocol,0,True,False,,2021-01-10T01:57:57Z,1,4,3,5,21,7,28,0
+2167,Decode bak,0,True,False,,2020-12-25T08:35:17Z,0,1,0,25,3143,1915,5058,0
+2165,"Reduced log level of ""get hostname error""",196,True,True,2020-12-25T05:39:27Z,2020-12-25T05:39:27Z,1,2,0,1,1,1,2,8737.0
+2163,Bugfix: add ipv6 parsing with address of frps,0,True,True,2020-12-24T13:48:26Z,2020-12-24T13:48:27Z,2,2,1,4,49,13,62,18313.0
+1666,[Feature] OIDC Authentication,228,True,True,2020-03-01T02:57:02Z,2020-03-01T02:57:02Z,34,4,3,190,47570,61,47631,896952.0
+2148,merge from source,0,True,False,,2020-12-12T03:59:37Z,0,1,0,2,34,0,34,0
+2136,Sync,4,True,False,,2020-12-07T04:29:52Z,0,2,0,0,0,0,0,0
+1663,sync,4,True,False,,2020-02-19T02:49:19Z,0,2,0,0,0,0,0,0
+2078,请问您发布的FRP安卓版本有公开源码吗？,20,True,False,,2020-12-03T12:21:22Z,0,4,0,30,990,59,1049,0
+2103,Allow server plugin to talk to https services. Option for skipping tls verification,524,True,True,2020-12-03T06:36:15Z,2020-12-03T06:36:15Z,11,3,0,3,37,13,50,830802.0
+2113,add launchd frpc  config for mac users,54,True,False,,2020-11-27T10:17:58Z,0,2,1,1,29,0,29,0
+2100,tweak logs: show what config frps uses (config file / command line),390,True,True,2020-11-23T09:01:32Z,2020-11-23T09:01:32Z,1,2,0,1,3,1,4,344.0
+2096,fix dashboard horizontal scrollbar,34,True,True,2020-11-23T06:52:56Z,2020-11-23T06:52:56Z,5,3,0,1,1,1,2,19557.0
+2089,Fix typo,0,True,True,2020-11-23T03:38:22Z,2020-11-23T03:38:22Z,1,2,0,7,53,31,84,235277.0
+2088,bump version to v0.34.3,0,True,True,2020-11-20T09:04:55Z,2020-11-20T09:04:55Z,0,4,0,15,174,79,253,208.0
+2087,add goreleaser action,0,True,True,2020-11-20T09:00:15Z,2020-11-20T09:00:15Z,0,1,0,8,83,33,116,491.0
+2073,Update issue template,0,True,False,,2020-11-12T11:01:01Z,0,1,1,4,78,29,107,0
+2061,update ISSUE_TEMPLATE,0,True,True,2020-11-09T11:39:56Z,2020-11-09T11:39:57Z,3,2,3,4,71,29,100,259190.0
+2060,Fix set-env in github actions of frp,0,True,True,2020-11-09T08:56:54Z,2020-11-09T08:56:54Z,1,2,0,1,16,16,32,257553.0
+2057,Add enable_prometheus option as command line flag,0,True,True,2020-11-06T07:33:59Z,2020-11-06T07:33:59Z,1,3,0,1,3,0,3,3037.0
+2058,bump version to v0.34.2,0,True,True,2020-11-06T06:50:51Z,2020-11-06T06:50:51Z,0,4,0,3,87,19,106,235.0
+2051,Update ReverseProxy code from official golang repo,0,True,True,2020-11-05T08:34:17Z,2020-11-05T08:34:17Z,1,2,1,1,78,17,95,1844.0
+2023,Update frpc_full.ini,401,True,True,2020-10-08T06:25:04Z,2020-10-08T06:25:04Z,1,2,0,1,8,1,9,49877.0
+1904,#1901 支持windows 服务,15,True,False,,2020-10-06T01:07:57Z,0,2,2,3,94,0,94,0
+2018,bump version to v0.34.1,0,True,True,2020-09-30T07:13:09Z,2020-09-30T07:13:09Z,0,5,0,118,388,230,618,422.0
+2014,reduce docker image size,581,True,True,2020-09-30T03:05:34Z,2020-09-30T03:05:35Z,1,3,2,2,16,6,22,72089.0
+2013,fix create tls work connection,1032,True,True,2020-09-29T07:44:52Z,2020-09-29T07:44:53Z,1,3,0,1,3,2,5,5319.0
+2001,ci: add close stale,0,True,True,2020-09-25T06:40:02Z,2020-09-25T06:40:02Z,0,2,0,1,19,0,19,247133.0
+2008,fix: a reconnected proxy will disappear from dashboard after 7 days,0,True,True,2020-09-25T08:10:20Z,2020-09-25T08:10:20Z,1,2,0,1,3,1,4,71749.0
+1603,Upgrade vue cli version in frp web dashboard,89,True,False,,2020-09-25T07:33:57Z,0,2,0,59,15088,17748,32836,0
+2002,feat: support ntlm proxy set in http_proxy env,5,True,True,2020-09-23T04:05:06Z,2020-09-23T04:05:06Z,1,2,0,4,13,9,22,52350.0
+2005,rename models to pkg,0,True,True,2020-09-23T05:49:14Z,2020-09-23T05:49:14Z,0,1,0,111,196,196,392,513.0
+2004,Remove comments,0,True,True,2020-09-23T03:57:04Z,2020-09-23T03:57:04Z,1,2,0,1,0,19,19,260.0
+1998,Add action to build and push image to dockerhub&github packages,0,True,True,2020-09-23T03:05:51Z,2020-09-23T03:05:51Z,2,2,1,3,123,0,123,149948.0
+1993,bump version to v0.34.0,0,True,True,2020-09-19T16:30:51Z,2020-09-19T16:30:51Z,0,1,0,1,1,1,2,26.0
+1990,bump version to v0.34.0,0,True,True,2020-09-19T16:10:33Z,2020-09-19T16:10:33Z,0,6,0,114,3414,2822,6236,99801.0
+1974,Add tls configuration to both client and server,0,True,True,2020-09-18T11:58:59Z,2020-09-18T11:58:59Z,2,2,0,6,247,34,281,901079.0
+1971,Add tls configuration to both client and server,0,True,False,,2020-09-08T01:39:40Z,0,1,0,6,251,34,285,0
+1973,update e2e tests,0,True,True,2020-09-07T07:45:44Z,2020-09-07T07:45:45Z,0,1,0,5,38,435,473,779.0
+1845,more e2e tests,0,True,True,2020-09-07T06:57:23Z,2020-09-07T06:57:23Z,0,1,0,21,616,50,666,7867656.0
+1918,support custom tls protocol,0,True,False,,2020-09-07T04:46:27Z,0,2,0,6,237,36,273,0
+1962,new,10,True,False,,2020-08-31T14:25:20Z,0,2,1,0,0,0,0,0
+1956,Run server plugins in consistent order,256,True,False,,2020-08-31T11:50:05Z,0,2,3,1,9,2,11,0
+1961,Sorting plugins so that execution order is deterministic,64,True,True,2020-08-31T11:49:47Z,2020-08-31T11:49:47Z,1,2,0,1,9,2,11,340.0
+1946,Merge pull request #1 from fatedier/master,5,True,False,,2020-08-18T01:47:27Z,0,1,0,0,0,0,0,0
+1384,protocol = websocketsecure,569,True,False,,2019-08-14T04:21:16Z,0,3,5,9,13,11,24,0
+1762,fix: frps verify frpc NewWorkConn token failed ,5,True,True,2020-04-16T12:20:37Z,2020-04-16T12:20:37Z,2,3,1,1,1,1,2,2089.0
+1888,support non-preemptive authentication,672,True,True,2020-07-01T03:18:23Z,2020-07-01T03:18:23Z,1,2,0,1,1,0,1,3089.0
+1855,Clients that support non-preemptive authentication,32,True,False,,2020-07-01T02:27:07Z,0,2,3,1,1,0,1,0
+1852,fix grammar issue ,22,True,True,2020-06-11T07:40:00Z,2020-06-11T07:40:00Z,1,2,0,1,1,1,2,4789.0
+1850,fix grammar issue,37,True,False,,2020-06-11T06:17:33Z,0,2,2,1,1,1,2,0
+1851,fix grammar issue (#1850),0,True,False,,2020-06-11T06:15:07Z,0,1,0,1,1,1,2,0
+1835,new e2e framework,0,True,True,2020-06-02T14:48:55Z,2020-06-02T14:48:55Z,0,1,0,25,1182,9,1191,107222.0
+1830,Merge pull request #1 from fatedier/master,6,True,False,,2020-05-30T06:55:41Z,0,1,0,0,0,0,0,0
+1826,update fork,0,True,False,,2020-05-25T12:28:01Z,0,2,1,0,0,0,0,0
+1822,fix by golint,0,True,True,2020-05-24T09:48:38Z,2020-05-24T09:48:38Z,0,1,0,80,1313,1322,2635,258.0
+1821,update doc,0,True,True,2020-05-24T06:05:32Z,2020-05-24T06:05:32Z,0,1,0,2,17,981,998,163.0
+1820,style: adjust frps files,0,True,True,2020-05-24T03:28:57Z,2020-05-24T03:28:57Z,1,2,0,3,5,3,8,79573.0
+1811,refactor: refine frpc flags,0,True,True,2020-05-19T02:49:30Z,2020-05-19T02:49:30Z,1,2,0,9,20,72,92,47302.0
+1722,[FIX]: frpc reconnect frps frequently lead to memory leak,11,True,True,2020-04-02T02:58:38Z,2020-04-02T02:58:38Z,7,2,0,4,63,8,71,175206.0
+1768,fix: frps handle multi conn may happen data race,0,True,True,2020-04-19T08:16:25Z,2020-04-19T08:16:25Z,1,2,0,1,69,61,130,2485.0
+1730,Feature: Support SUDP Proxy ,5,True,True,2020-04-22T13:37:46Z,2020-04-22T13:37:46Z,13,3,2,15,669,1,670,1548110.0
+1799,fix: typo,0,True,True,2020-05-10T09:58:36Z,2020-05-10T09:58:36Z,1,2,0,1,1,1,2,1847.0
+1806,test,0,True,False,,2020-05-13T01:04:13Z,0,1,0,1,0,0,0,0
+1798,fix: add frpc tls_enable flag and frps tls_only flag ,5,True,True,2020-05-12T06:33:35Z,2020-05-12T06:33:35Z,3,2,1,10,14,0,14,245113.0
+1807,server plugin: set version and op in http request query,0,True,False,,2020-05-13T02:53:05Z,0,2,0,3,22,2,24,0
+1805,fix: sync/atomic bug,5,True,True,2020-05-12T14:09:17Z,2020-05-12T14:09:17Z,1,2,0,3,18,17,35,8165.0
+1803,fix: frps plugin manager,5,True,True,2020-05-12T07:55:36Z,2020-05-12T07:55:36Z,1,2,0,1,1,1,2,5943.0
+1604,Update go vendor,46,True,False,,2020-05-10T03:21:30Z,0,2,0,52,8460,16,8476,0
+1605,Update Makefile: use go vendor,0,True,False,,2020-05-10T03:21:11Z,1,3,0,2,6,4,10,0
+1787,增加设置指定访问某个用户的服务/代理,13,True,False,,2020-05-10T03:20:30Z,0,2,0,6,41,17,58,0
+1794,feat: Support user specify udp packet size in config,5,True,True,2020-05-07T09:47:37Z,2020-05-07T09:47:37Z,2,2,0,8,43,8,51,16874.0
+1710,doc: add plugin repo link,0,True,True,2020-03-20T12:54:23Z,2020-03-20T12:54:23Z,0,1,0,3,5,0,5,155963.0
+1780,bump version,0,True,True,2020-04-27T08:50:35Z,2020-04-27T08:50:35Z,0,4,0,28,1161,98,1259,1322.0
+1765,[Feature] Group TCPMux Proxies,193,True,True,2020-04-20T05:35:48Z,2020-04-20T05:35:48Z,1,2,1,4,253,28,281,192876.0
+1757,[Feature] Load Balance TcpMux FRP Client Connections,337,True,False,,2020-04-18T00:02:32Z,0,2,5,6,76,25,101,0
+1589,WIP: Implement API /metrics (#1357),710,True,False,,2020-04-16T23:54:13Z,0,2,2,6,74,0,74,0
+1519,更新 Systemd 服务配置,163,True,False,,2020-04-16T23:53:57Z,0,3,2,4,10,3,13,0
+1209,增加 procd 脚本与 systemd 服务单元小修改,2,True,False,,2020-04-16T23:53:33Z,0,3,30,6,87,15,102,0
+1556,prometheus monitor,18,True,False,,2020-04-16T23:50:31Z,4,6,6,7,358,1,359,0
+1597,Create go.yml,0,True,False,,2020-04-16T23:49:53Z,1,2,0,1,28,0,28,0
+1538,V0.29.1 dev,21,True,False,,2020-04-16T23:49:23Z,0,2,1,1,2,2,4,0
+1750,Support Windows services,189,True,False,,2020-04-13T05:37:58Z,0,2,2,2,62,2,64,0
+1740,Server manager support the NewUserConn operation,36,True,True,2020-04-16T05:06:47Z,2020-04-16T05:06:47Z,10,3,7,10,177,4,181,569408.0
+1743,typo,0,True,False,,2020-04-10T08:11:41Z,0,1,0,1,2,2,4,0
+1728,bump version to v0.32.1,0,True,True,2020-04-02T17:14:59Z,2020-04-02T17:14:59Z,0,3,0,190,342,46944,47286,554.0
+1711,Improve basic examples for newbies,98,True,True,2020-03-26T09:41:19Z,2020-03-26T09:41:19Z,1,2,2,2,8,3,11,609636.0
+1707,server plugin: set version and op in http request query,0,True,True,2020-03-20T12:53:15Z,2020-03-20T12:53:15Z,0,1,0,3,22,2,24,240432.0
+1702,[Feature] Server Plugin - Ping and NewWorkConn RPC,161,True,True,2020-03-17T17:52:45Z,2020-03-17T17:52:45Z,1,2,1,6,161,15,176,309883.0
+1700,[Feature] Include RunId in FRP Server Plugin NewProxy message,126,True,True,2020-03-14T15:26:36Z,2020-03-14T15:26:36Z,1,2,3,3,37,22,59,150712.0
+1697,remove vendor,0,True,True,2020-03-11T06:39:44Z,2020-03-11T06:39:44Z,0,1,0,171,0,46857,46857,183.0
+1696,bump version to v0.32.0,0,True,True,2020-03-11T06:30:48Z,2020-03-11T06:30:48Z,0,2,0,1078,48167,332287,380454,712.0
+1695,update doc,0,True,True,2020-03-11T06:18:12Z,2020-03-11T06:18:12Z,0,1,0,5,169,9,178,201.0
+1668,"refactoring monitor code, support prometheus",100,True,True,2020-03-11T05:20:27Z,2020-03-11T05:20:27Z,2,3,1,889,680,333138,333818,1700124.0
+1587,add server manage plugin doc,0,True,True,2020-01-03T03:37:53Z,2020-01-03T03:37:53Z,0,1,0,4,357,5,362,107.0
+1690,fix: send server plugin request as json,132,True,True,2020-03-10T07:23:38Z,2020-03-10T07:23:38Z,1,2,0,1,1,0,1,62777.0
+1661,[Feature] TCP HTTP Tunnel,77,True,True,2020-03-05T13:47:50Z,2020-03-05T13:47:50Z,13,3,7,22,565,26,591,1484616.0
+1679,Fix bandwidth compare,47,True,True,2020-03-02T03:20:09Z,2020-03-02T03:20:09Z,1,2,0,1,1,1,2,38339.0
+1664,Dev,2,True,False,,2020-02-19T02:49:46Z,0,2,0,8,162,33,195,0
+1644,DetailedErrorsToClient - only send detailed error info if this is on,0,True,True,2020-02-12T02:39:04Z,2020-02-12T02:39:04Z,3,2,3,4,51,32,83,119253.0
+1643,Feature/tls only,77,True,True,2020-02-11T05:57:04Z,2020-02-11T05:57:04Z,1,2,0,5,111,2,113,45678.0
+1638,Merge pull request #1 from fatedier/master,14,True,False,,2020-02-05T08:04:26Z,0,1,0,0,0,0,0,0
+1637,bump version to v0.31.2,0,True,True,2020-02-04T13:54:28Z,2020-02-04T13:54:28Z,0,2,0,5,11,11,22,181.0
+1636,send closeProxy msg to server then client start proxy error,0,True,True,2020-02-04T13:39:26Z,2020-02-04T13:39:26Z,0,1,0,3,9,9,18,109.0
+1619,English grammar fix for page not found.,0,True,True,2020-01-15T04:11:12Z,2020-01-15T04:11:12Z,0,2,0,1,1,1,2,3979.0
+1618,Merge pull request #2 from fatedier/dev,39,True,False,,2020-01-15T03:02:38Z,0,1,0,0,0,0,0,0
+1617,Merge pull request #2 from fatedier/dev,39,True,False,,2020-01-15T03:00:59Z,0,1,0,0,0,0,0,0
+1596,"v0.31.1, fix bugs",0,True,True,2020-01-06T07:55:45Z,2020-01-06T07:55:45Z,0,1,0,2,2,1,3,593.0
+1588,bump version to v0.31.0,0,True,True,2020-01-03T03:45:23Z,2020-01-03T03:45:23Z,0,1,0,27,815,34,849,116.0
+1575,support server plugin feature,9,True,True,2019-12-31T06:12:31Z,2019-12-31T06:12:31Z,0,1,0,23,457,28,485,670177.0
+1577,Merge pull request #1 from fatedier/master,6,True,False,,2019-12-24T03:28:55Z,0,1,0,0,0,0,0,0
+1402,Add clients configuration files modify control API feature,658,True,False,,2019-12-02T09:25:58Z,0,3,2,14,598,43,641,0
+1542,bump version to v0.30.0,0,True,True,2019-11-28T06:21:27Z,2019-11-28T06:21:27Z,0,3,0,21,933,14,947,122.0
+1537,bump version to v0.30.0,0,True,True,2019-11-26T02:42:31Z,2019-11-26T02:42:31Z,0,1,0,4,45,1,46,1084.0
+1417,[Document improvement request] Add installation guide in README.md,11,True,False,,2019-11-24T18:30:27Z,1,2,3,3,136,0,136,0
+1529,plugin http2https,0,True,True,2019-11-22T07:25:02Z,2019-11-22T07:25:02Z,1,2,0,2,115,0,115,152384.0
+918,补全v0.21.0新增websocket协议中文文档,0,True,False,,2018-09-15T03:42:12Z,0,2,1,1,38,0,38,0
+1510,Close file,32,True,True,2019-11-12T06:02:49Z,2019-11-12T06:02:49Z,1,3,0,1,2,0,2,26460.0
+1496,Close unclosed file,0,True,False,,2019-11-07T01:29:34Z,0,2,2,1,1,0,1,0
+1503,Close unclosed file,0,True,False,,2019-11-11T22:42:34Z,0,2,2,1,1,0,1,0
+1495,support bandwith limit for one proxy,0,True,True,2019-11-08T13:05:13Z,2019-11-08T13:05:13Z,1,2,0,14,719,13,732,502928.0
+1458,add process open files limit number,94,True,False,,2019-11-08T10:12:00Z,1,2,1,4,12,0,12,0
+1494,bump version to v0.29.1,0,True,True,2019-11-02T13:14:51Z,2019-11-02T13:14:51Z,0,4,0,47,861,879,1740,196.0
+1467,Merge pull request #1 from fatedier/master,6,True,False,,2019-10-16T02:39:49Z,0,2,1,0,0,0,0,0
+1465,"dev:udp: Add an Unlock before a continue, to fix a double lock bug",303,True,True,2019-10-15T16:51:27Z,2019-10-15T16:51:27Z,1,2,0,1,1,0,1,44994.0
+1460,Fix typos in English Readme.,121,True,True,2019-10-15T05:52:14Z,2019-10-15T05:52:14Z,1,2,0,1,169,170,339,115267.0
+1464,"udp: Add an Unlock before a continue, to fix a double lock bug",303,True,False,,2019-10-15T04:21:37Z,0,2,7,1,1,0,1,0
+1459,change log method,0,True,True,2019-10-12T12:19:02Z,2019-10-12T12:19:02Z,0,1,0,44,669,687,1356,273.0
+1451,Grammer fixes,0,True,True,2019-10-10T02:54:10Z,2019-10-10T02:54:10Z,2,3,1,1,45,45,90,716107.0
+1420,fix #1347:  bad encryption and compression when use xtcp,9,True,True,2019-09-01T12:49:14Z,2019-09-01T12:49:14Z,1,2,0,1,13,13,26,84171.0
+1382,add support for customized http header when using https2http plugin,0,True,True,2019-08-14T13:00:17Z,2019-08-14T13:00:17Z,2,2,1,4,18,0,18,85466.0
+1419,fix: encryption and compression didn't work in xtcp,0,True,False,,2019-08-31T13:16:30Z,2,2,0,1,14,18,32,0
+1415,bump version to v0.29.0,0,True,True,2019-08-29T13:22:31Z,2019-08-29T13:22:31Z,0,3,0,42,678,405,1083,158.0
+1414, let max_pool_count valid,0,True,True,2019-08-29T13:17:30Z,2019-08-29T13:17:30Z,0,1,0,2,7,3,10,145.0
+1411,"proxy protocol: fix detect method for IPV4 and IPV6, fix #1410",0,True,True,2019-08-26T07:30:27Z,2019-08-26T07:30:27Z,0,1,0,1,1,1,2,246.0
+1408,"Add documentation for common configuration fields, common proxy configuration, and sessions",534,True,True,2019-08-25T13:15:33Z,2019-08-25T13:15:33Z,1,2,0,4,261,73,334,53160.0
+1401,Pass client configuration as an argument,389,True,True,2019-08-21T16:14:57Z,2019-08-21T16:14:57Z,1,2,0,19,162,164,326,67986.0
+1396,Pass server configuration as an argument,480,True,True,2019-08-20T16:30:03Z,2019-08-20T16:30:03Z,1,2,1,14,117,149,266,61967.0
+1399,fix one punctuation in Chinese docs,0,True,True,2019-08-20T09:24:06Z,2019-08-20T09:24:06Z,1,2,0,1,1,1,2,293.0
+1398,修改了一个标点,0,True,False,,2019-08-20T07:48:19Z,0,2,1,1,1,1,2,0
+1397," Add an ""assets_dir"" option for frpc",329,True,True,2019-08-20T03:06:13Z,2019-08-20T03:06:13Z,1,2,0,5,24,15,39,9763.0
+1395,Load assets for dashboard/admin panel on demand,688,True,True,2019-08-20T03:03:06Z,2019-08-20T03:03:06Z,1,2,1,2,14,15,29,35442.0
+1391,Load assets for dashboard/admin panel on demand,588,True,False,,2019-08-19T17:02:12Z,0,2,2,2,14,15,29,0
+1390, support disable_log_color for console mode,0,True,True,2019-08-15T15:50:17Z,2019-08-15T15:50:17Z,0,1,0,17,116,26,142,345.0
+1373,Update frps_full.ini,0,True,False,,2019-08-15T15:32:54Z,0,2,1,1,1,1,2,0
+1379, add support for `X-From-Where` header in https2http plugin,0,True,False,,2019-08-13T12:35:35Z,0,2,0,2,10,1,11,0
+1369,bump version to v0.28.2,0,True,True,2019-08-09T04:59:14Z,2019-08-09T04:59:14Z,0,1,0,2,4,4,8,360.0
+1368,"fix health check bug, fix #1367",0,True,True,2019-08-09T04:52:47Z,2019-08-09T04:52:47Z,0,1,0,2,4,4,8,271.0
+1364,bump version to v0.28.1 and remove support for go1.11,0,True,True,2019-08-08T09:32:57Z,2019-08-08T09:32:58Z,0,1,0,597,269971,5708,275679,309.0
+1358,update vendor packages,0,True,True,2019-08-06T10:59:03Z,2019-08-06T10:59:03Z,0,1,0,597,269971,5708,275679,5513.0
+1349,bump version to v0.28.0,0,True,True,2019-08-01T06:04:56Z,2019-08-01T06:04:56Z,0,3,0,17,346,118,464,289.0
+1344,support http load balancing,0,True,True,2019-08-01T05:59:42Z,2019-08-01T05:59:42Z,0,1,0,15,343,115,458,133662.0
+1331,Fixed typos in comments,25,True,True,2019-07-19T10:50:30Z,2019-07-19T10:50:30Z,0,2,0,2,2,2,4,584.0
+1300,correct output log info,29,True,False,,2019-07-19T05:56:47Z,0,1,1,2,23,2,25,0
+1323,Typo,20,True,True,2019-07-15T06:03:57Z,2019-07-15T06:03:57Z,0,4,2,1,1,1,2,37630.0
+1320,add read timeout for TLS check operation,0,True,True,2019-07-14T02:57:23Z,2019-07-14T02:57:23Z,0,1,0,4,24,5,29,149293.0
+1322,bump version to v0.27.1,0,True,True,2019-07-14T12:00:31Z,2019-07-14T12:00:31Z,0,3,0,9,159,124,283,141.0
+1317,Add multiarch images support for frp,0,True,False,,2019-07-10T16:39:27Z,0,1,0,7,104,6,110,0
+1316,Merge pull request #1 from fatedier/master,4,True,False,,2019-07-09T12:05:37Z,0,2,0,0,0,0,0,0
+1291,增加frp docker版本,51,True,False,,2019-06-18T06:51:30Z,0,4,16,4,114,0,114,0
+1281,remove unreachable code,23,True,False,,2019-06-19T17:20:30Z,0,2,2,1,0,1,1,0
+1242,support system service of all platform,2951,True,False,,2019-06-04T13:28:34Z,0,3,9,194,20477,1135,21612,0
+1275,replace the _,13,True,True,2019-06-02T13:22:29Z,2019-06-02T13:22:29Z,1,2,0,1,1,1,2,126777.0
+1274,replace the _,13,True,False,,2019-06-01T02:04:58Z,0,4,0,1,1,1,2,0
+1273,replace the _,13,True,False,,2019-06-01T02:03:01Z,0,2,2,1,1,1,2,0
+1271,resp.Body must be closed after function return,103,True,True,2019-05-31T16:44:04Z,2019-05-31T16:44:04Z,2,2,1,4,134,118,252,94214.0
+1269,resp.Body must be closed after function return,103,True,False,,2019-05-30T14:28:47Z,0,2,2,4,133,118,251,0
+1216,bump version to v0.27.0,0,True,True,2019-04-25T06:41:06Z,2019-04-25T06:41:06Z,0,2,0,14,86,44,130,163.0
+1215,merge new features,0,True,True,2019-04-25T06:38:05Z,2019-04-25T06:38:06Z,0,1,0,13,85,44,129,189.0
+1206,api error fix due to status code,142,True,True,2019-04-24T04:06:14Z,2019-04-24T04:06:14Z,0,2,0,1,1,0,1,244953.0
+1190,new features,66,True,True,2019-04-10T05:57:59Z,2019-04-10T05:57:59Z,0,1,0,34,1179,41,1220,272.0
+1191,Bump version to v0.26.0,0,True,True,2019-04-10T06:02:03Z,2019-04-10T06:02:03Z,0,1,0,34,1179,41,1220,226.0
+1166,server_name参数前面增加自己的user是一个错误,54,True,False,,2019-04-08T11:22:13Z,0,3,1,1,1,1,2,0
+1169,version update instructions,31,True,False,,2019-04-03T01:08:19Z,0,2,1,2,8,0,8,0
+1160,"bump version to v0.25.3, fix #1159",0,True,True,2019-03-26T11:33:40Z,2019-03-26T11:33:40Z,0,1,0,3,6,2,8,186.0
+1156,fix health check unclosed resp body,0,True,True,2019-03-25T10:22:15Z,2019-03-25T10:22:15Z,0,1,0,1,4,0,4,144.0
+1157,bump version to v0.25.2,0,True,True,2019-03-25T10:26:33Z,2019-03-25T10:26:33Z,0,2,0,128,14546,2467,17013,152.0
+1147,Add systemd unit,95,True,True,2019-03-21T09:46:37Z,2019-03-21T09:46:37Z,1,2,0,4,54,0,54,21750.0
+1140,update kcp-go package,0,True,True,2019-03-17T09:15:45Z,2019-03-17T09:15:45Z,0,1,0,122,14487,2466,16953,221.0
+1137,some fixes,0,True,True,2019-03-15T09:00:59Z,2019-03-15T09:00:59Z,0,1,0,9,74,253,327,798.0
+1121,new feature,0,True,True,2019-03-11T08:05:19Z,2019-03-11T08:05:19Z,0,1,0,19,494,112,606,489.0
+1112,"xtcp: wrap yamux on kcp connections, fix #1103",0,True,True,2019-03-05T03:27:16Z,2019-03-05T03:27:16Z,0,1,0,5,43,6,49,444.0
+1138,bump version to v0.25.1,0,True,True,2019-03-15T09:05:10Z,2019-03-15T09:05:10Z,0,1,0,9,74,253,327,228.0
+1128,Merge pull request #1 from fatedier/master,6,True,False,,2019-03-12T00:32:27Z,0,1,0,0,0,0,0,0
+1127,Merge pull request #1 from fatedier/master,6,True,False,,2019-03-12T00:31:05Z,0,1,0,0,0,0,0,0
+1122,bump version to v0.25.0,0,True,True,2019-03-11T09:40:39Z,2019-03-11T09:40:39Z,0,2,0,28,604,132,736,3917.0
+1107,Update instruction of 'Rewriting the Host Header',62,True,True,2019-03-03T13:57:25Z,2019-03-03T13:57:25Z,0,2,0,1,1,1,2,87739.0
+1089,Changed LoginFailExit to LoginFailRetry,99,True,False,,2019-02-26T11:08:41Z,0,2,9,3,37,9,46,0
+453,fix Dockerfile,236,True,False,,2017-09-06T04:53:37Z,0,3,4,2,13,21,34,0
+1087,fix PUT /api/config without token,0,True,True,2019-02-12T07:03:01Z,2019-02-12T07:03:01Z,0,1,0,1,2,0,2,144.0
+1088,bump version to v0.24.1,0,True,True,2019-02-12T07:10:43Z,2019-02-12T07:10:43Z,0,1,0,2,3,1,4,388.0
+1086,sync new code,0,True,False,,2019-02-12T06:07:29Z,0,1,0,0,0,0,0,0
+1085,sync new code,0,True,False,,2019-02-12T05:54:07Z,0,1,0,0,0,0,0,0
+1084,sync new code,0,True,False,,2019-02-12T05:48:12Z,0,1,0,0,0,0,0,0
+1083,sync new code,0,True,False,,2019-02-12T05:47:19Z,0,1,0,0,0,0,0,0
+1082,log mismatch domain and location string,57,True,False,,2019-02-12T03:32:11Z,1,2,0,1,3,2,5,0
+1080,frpc: support admin UI,0,True,True,2019-02-11T06:42:49Z,2019-02-11T06:42:49Z,0,1,0,43,16375,120,16495,129.0
+1081,bump version to v0.24.0,0,True,True,2019-02-11T06:46:24Z,2019-02-11T06:46:24Z,0,1,0,56,16409,151,16560,156.0
+1069,go vet & golint,0,True,True,2019-01-31T08:59:04Z,2019-01-31T08:59:04Z,0,1,0,13,34,31,65,135.0
+1067,frpc: reload proxy not saved after reconnecting,0,True,True,2019-01-30T03:22:42Z,2019-01-30T03:22:42Z,0,1,0,1,1,1,2,266.0
+1068,bump version to v0.23.3,0,True,True,2019-01-30T03:38:40Z,2019-01-30T03:38:40Z,0,1,0,2,2,2,4,901.0
+1061,bump version to v0.23.2,0,True,True,2019-01-26T14:11:58Z,2019-01-26T14:11:58Z,0,1,0,16,148,559,707,251.0
+1060,fix control delete error,0,True,True,2019-01-26T14:05:39Z,2019-01-26T14:05:39Z,0,1,0,15,102,570,672,191.0
+984,chore: use scratch as docker base image to shrink image size,162,True,False,,2018-12-13T10:38:53Z,0,3,4,1,15,9,24,0
+1041,optimize code,0,True,True,2019-01-15T07:58:06Z,2019-01-15T07:58:06Z,0,1,0,31,1601,1224,2825,1582.0
+1051,Merge pull request #1 from fatedier/master,6,True,False,,2019-01-17T02:26:05Z,0,1,1,0,0,0,0,0
+1050,Merge pull request #1 from fatedier/master,6,True,False,,2019-01-16T12:48:22Z,0,1,0,0,0,0,0,0
+1049,bump version to v0.23.1,0,True,True,2019-01-16T06:40:30Z,2019-01-16T06:40:30Z,0,1,0,3,17,3,20,245.0
+1048,frpc: fixup ini config parse problem in sub command `status` and `rel…,677,True,True,2019-01-16T06:34:21Z,2019-01-16T06:34:21Z,1,2,0,2,16,2,18,4839.0
+1046,frpc: fixup ini config parse problem in sub command `status` and `reload`,677,True,False,,2019-01-16T05:14:41Z,0,2,2,2,16,2,18,0
+1047,Frpc fixup sub command status and reload ini parse problem,677,True,False,,2019-01-16T04:55:57Z,0,2,0,2,16,2,18,0
+1044,"client: fixup msg.Login, add missing Hostname field",0,True,False,,2019-01-15T11:51:43Z,0,2,2,1,3,0,3,0
+1045,merge dev -> master,0,True,True,2019-01-15T11:45:00Z,2019-01-15T11:45:01Z,0,1,0,1,4,0,4,115.0
+1043,frps dashboard api: fixup getProxyStatsByType no data return,0,True,True,2019-01-15T11:37:48Z,2019-01-15T11:37:48Z,1,2,1,1,4,0,4,699.0
+1042,release v0.23.0,0,True,True,2019-01-15T08:01:25Z,2019-01-15T08:01:25Z,0,1,0,43,1838,1327,3165,180.0
+988,Allow multiple sub sections for tcp/udp server,15,True,False,,2019-01-03T09:07:39Z,0,2,0,9,212,56,268,0
+1014,Merge pull request #1000 from fatedier/dev,23,True,False,,2018-12-18T03:54:09Z,0,1,0,0,0,0,0,0
+1008,Merge pull request #1 from fatedier/master,5,True,False,,2018-12-18T03:44:36Z,0,2,0,0,0,0,0,0
+1007,Merge pull request #1 from fatedier/master,6,True,False,,2018-12-13T13:23:58Z,0,2,0,0,0,0,0,0
+1006,doc: add conf template,0,True,True,2018-12-11T04:05:24Z,2018-12-11T04:05:24Z,0,1,0,2,59,0,59,147.0
+998,frpc: support health check,0,True,True,2018-12-09T14:10:14Z,2018-12-09T14:10:14Z,0,1,0,25,913,434,1347,185170.0
+1000,bump version to v0.22.0,0,True,True,2018-12-09T14:35:27Z,2018-12-09T14:35:27Z,0,6,0,58,2796,3850,6646,515.0
+987,更新README_zh.md,16,True,False,,2018-11-29T07:03:57Z,0,2,2,1,1,1,2,0
+983,use scratch as docker base image to shrink image size,161,True,False,,2018-11-27T08:41:52Z,0,1,0,1,15,9,24,0
+978,Added configuration example,59,True,False,,2018-11-22T07:12:08Z,0,2,2,1,36,1,37,0
+981,Update README_zh.md,8,True,True,2018-11-21T06:56:45Z,2018-11-21T06:56:45Z,1,2,0,1,2,2,4,257.0
+975,add multiple network interface support for socks5 plugin,268,True,False,,2018-11-21T02:18:55Z,0,2,2,2,37,2,39,0
+974,Fix setting basic auth password doc,82,True,True,2018-11-19T02:55:22Z,2018-11-19T02:55:22Z,1,2,1,1,1,1,2,252079.0
+968,support health check and code refactor,0,True,True,2018-11-09T02:06:48Z,2018-11-09T02:06:48Z,0,1,0,33,1914,996,2910,87271.0
+966,refactor code,0,True,True,2018-11-06T15:16:56Z,2018-11-06T15:16:57Z,0,1,0,9,460,324,784,379.0
+967,"update golib, fix #959",0,True,True,2018-11-08T01:50:36Z,2018-11-08T01:50:36Z,0,1,0,12,79,2531,2610,45490.0
+947,Bump Travis versions,0,True,True,2018-10-29T02:16:59Z,2018-10-29T02:16:59Z,1,2,2,1,1,0,1,803728.0
+955,Grammar fixes and improved README,81,True,True,2018-10-25T02:43:02Z,2018-10-25T02:43:02Z,1,2,1,1,1,1,2,13493.0
+936,0.21.0_20180927_2,15,True,False,,2018-09-27T07:07:21Z,0,1,1,0,0,0,0,0
+935,Merge pull request #1 from fatedier/master,15,True,False,,2018-09-27T07:03:39Z,0,1,0,0,0,0,0,0
+919,fix Dockerfile_multiple_build,18,True,True,2018-09-11T08:32:12Z,2018-09-11T08:32:13Z,0,2,2,1,1,1,2,69882.0
+795,support lb,0,True,True,2018-05-26T14:42:04Z,2018-05-26T14:42:04Z,0,1,0,14,451,54,505,273.0
+886,Connect protocol support websocket,0,True,True,2018-08-10T08:36:03Z,2018-08-10T08:36:03Z,7,3,0,12,1480,57,1537,17360.0
+917,使用websocket协议时，每隔55秒发送pingFrame到frpc,66,True,False,,2018-09-09T14:30:22Z,0,1,0,1,31,1,32,0
+603,add test cases and new feature assgin a random port if remote_port is 0,0,True,True,2018-01-17T14:45:02Z,2018-01-17T14:45:02Z,0,2,1,45,2067,691,2758,3025.0
+912,同步官方代码,0,True,False,,2018-09-05T08:57:12Z,0,2,0,1425,310955,34217,345172,0
+891,Upgrade dockerfile golang to 1.10,217,True,True,2018-08-12T14:04:50Z,2018-08-12T14:04:50Z,1,2,0,1,1,1,2,24881.0
+890,bump version to v0.21.0,0,True,True,2018-08-12T04:10:17Z,2018-08-12T04:10:17Z,0,4,0,19,1534,70,1604,225.0
+882,Fix the problem of long connection for more than 30 seconds and disconnection of the server,91,True,True,2018-08-08T03:03:09Z,2018-08-08T03:03:09Z,1,2,1,4,19,1,20,541.0
+879,Fix the problem of long connection for more than 30 seconds and disconnection of the server,92,True,False,,2018-08-08T02:51:17Z,4,2,2,4,19,1,20,0
+878,Dev修改连接30秒超时的断开的问题,35,True,False,,2018-08-06T14:28:10Z,0,3,0,3,15,3,18,0
+875,websocket protocol,37,True,True,2018-08-06T07:20:10Z,2018-08-06T07:20:10Z,4,2,5,5,177,15,192,243479.0
+873,websocket protocol,36,True,False,,2018-08-03T11:31:50Z,0,2,2,20,2858,14,2872,0
+825,Merge pull request #1 from fatedier/master,6,True,False,,2018-06-14T01:20:43Z,0,1,0,0,0,0,0,0
+814,update xtcp log info,60,True,True,2018-06-08T14:51:13Z,2018-06-08T14:51:13Z,1,2,0,1,1,1,2,4427.0
+807,cmd: frps: allow_ports option,167,True,True,2018-06-08T02:52:05Z,2018-06-08T02:52:05Z,1,2,0,1,14,0,14,123079.0
+801,bump version v0.20.0,0,True,True,2018-05-31T16:15:23Z,2018-05-31T16:15:23Z,0,2,0,70,5758,3338,9096,173.0
+800,Dev,4,True,False,,2018-05-31T07:24:25Z,0,3,0,70,5758,3338,9096,0
+787,build linux_arm64 package,25,True,True,2018-05-21T13:43:17Z,2018-05-21T13:43:17Z,0,2,0,2,3,1,4,78833.0
+786,support setting headers in http request,0,True,True,2018-05-20T15:44:20Z,2018-05-20T15:44:20Z,0,1,0,9,94,20,114,113.0
+783,frps dashboard add stcp,0,True,True,2018-05-20T11:09:43Z,2018-05-20T11:09:43Z,0,1,0,43,5104,3237,8341,157.0
+781,bump version to 0.19.1,0,True,True,2018-05-19T15:10:18Z,2018-05-19T15:10:18Z,0,1,0,29,2402,2187,4589,69.0
+773,return error quickly if nathole make error,0,True,True,2018-05-16T16:10:53Z,2018-05-16T16:10:53Z,0,1,0,4,35,8,43,88.0
+772,update dashboard ui,0,True,True,2018-05-16T15:56:12Z,2018-05-16T15:56:12Z,0,1,0,22,2263,2033,4296,57.0
+766,bump version to 0.19.0,0,True,True,2018-05-14T03:08:46Z,2018-05-14T03:08:46Z,0,3,0,1285,14796,309078,323874,268.0
+765,Update Dockerfile,0,True,False,,2018-05-13T12:29:25Z,0,1,0,1,1,3,4,0
+760,move some packages to golib (https://github.com/fatedier/golib),0,True,True,2018-05-11T08:47:04Z,2018-05-11T08:47:04Z,0,1,0,1251,4221,316616,320837,141.0
+755,typo fix,0,True,True,2018-05-08T09:12:02Z,2018-05-08T09:12:02Z,1,2,0,1,2,2,4,509.0
+750,doc: update,0,True,True,2018-05-07T08:48:52Z,2018-05-07T08:48:53Z,0,1,0,4,16,272,288,121.0
+746,http port and https port can be same with frps bind_port,0,True,True,2018-05-06T14:54:30Z,2018-05-06T14:54:30Z,0,1,0,8,433,28,461,328.0
+744,Update frps_full.ini,0,True,True,2018-05-06T14:54:00Z,2018-05-06T14:54:00Z,1,2,0,1,1,1,2,66864.0
+740, frpc: support connectiong frps by socks5 proxy,0,True,True,2018-05-04T11:15:11Z,2018-05-04T11:15:11Z,0,1,0,151,23518,14750,38268,81.0
+734,use yamux instead of smux,0,True,True,2018-05-02T13:57:19Z,2018-05-02T13:57:19Z,0,2,0,33,3567,1755,5322,348.0
+735,bump version to v0.18.0,0,True,True,2018-05-02T14:37:10Z,2018-05-02T14:37:10Z,0,2,0,35,3590,1760,5350,213.0
+726,do not ignore config parsing error,67,True,True,2018-05-02T13:51:03Z,2018-05-02T13:51:03Z,2,2,0,1,8,4,12,385941.0
+725,do not ignore config parsing error,60,True,False,,2018-04-28T02:39:00Z,0,1,0,1,8,5,13,0
+724,do not ignore config parsing error,58,True,False,,2018-04-28T00:10:05Z,0,1,0,1,8,5,13,0
+720,bump version to v0.17.0,0,True,True,2018-04-23T17:58:57Z,2018-04-23T17:58:57Z,0,2,0,219,22019,10410,32429,98.0
+718,more cmds,0,True,True,2018-04-22T19:07:15Z,2018-04-22T19:07:15Z,0,1,0,217,21828,10358,32186,334.0
+719,update,0,True,True,2018-04-23T17:55:20Z,2018-04-23T17:55:20Z,0,1,0,9,53,62,115,67.0
+698,add service mode for frp,79,True,False,,2018-04-16T11:59:31Z,0,3,2,3,241,0,241,0
+703,update Dockerfile with golang:1.10,0,True,False,,2018-04-12T03:40:01Z,0,2,2,1,1,1,2,0
+688,dashboard_api for getting a client status by name,18,True,True,2018-04-10T09:57:27Z,2018-04-10T09:57:27Z,2,2,0,3,148,0,148,530317.0
+687,Dashboard api client status,12,True,False,,2018-04-04T06:26:55Z,0,2,0,3,148,0,148,0
+686,dashboard_api for getting a client status by name,18,True,False,,2018-04-04T06:21:28Z,0,1,0,3,148,0,148,0
+685,fix https://github.com/fatedier/frp/issues/684,33,True,True,2018-04-04T03:32:48Z,2018-04-04T03:32:48Z,1,2,0,1,1,1,2,1429.0
+455,"frpc: support --vhost-http-port,--vhost-https-port,--privilege-token …",21,True,False,,2018-03-29T05:59:09Z,1,2,3,1,53,21,74,0
+670,some fix,0,True,True,2018-03-21T03:45:48Z,2018-03-21T03:45:48Z,0,1,0,5,15,7,22,18.0
+672,bump version to v0.16.1,0,True,True,2018-03-21T10:09:40Z,2018-03-21T10:09:40Z,0,2,0,12,29,23,52,16.0
+661,x,0,True,False,,2018-03-11T15:15:41Z,0,11,0,0,0,0,0,0
+646,build freebsd packages,53,True,True,2018-02-27T15:14:16Z,2018-02-27T15:14:16Z,1,2,0,2,5,1,6,40295.0
+629,new feature,0,True,True,2018-01-29T15:58:56Z,2018-01-29T15:58:56Z,0,2,0,21,562,145,707,373.0
+615,fix websocket and plugin http_proxy,0,True,True,2018-01-23T09:25:33Z,2018-01-23T09:25:33Z,0,2,1,58,6845,19,6864,681.0
+630,bump version to v0.16.0,0,True,True,2018-01-29T16:04:02Z,2018-01-29T16:04:03Z,0,2,0,22,563,146,709,104.0
+617,同步源更新,0,True,False,,2018-01-24T05:19:59Z,0,1,0,3,96,1,97,0
+616,bump version to v0.15.1,0,True,True,2018-01-23T09:33:49Z,2018-01-23T09:33:49Z,0,1,0,61,6885,19,6904,138.0
+607,doc: update,0,True,True,2018-01-18T08:46:34Z,2018-01-18T08:46:34Z,0,1,0,3,20,3,23,179.0
+608,bump version to 0.15.0,0,True,True,2018-01-18T08:49:55Z,2018-01-18T08:49:55Z,0,3,0,61,2342,742,3084,174.0
+606,tests: more ci case,0,True,True,2018-01-18T07:04:03Z,2018-01-18T07:04:03Z,0,1,0,5,183,1,184,211.0
+572,set required `server` role for server endpoint,58,True,False,,2018-01-17T14:46:04Z,0,2,2,2,8,4,12,0
+604,"fix new http no traffic stats, fix #590",0,True,True,2018-01-17T15:28:48Z,2018-01-17T15:28:48Z,0,1,0,3,45,1,46,614.0
+563,Update README_zh.md,34,True,False,,2018-01-17T14:46:57Z,0,2,1,1,4,0,4,0
+596,Use sans-serif font in web,100,True,True,2018-01-10T02:36:28Z,2018-01-10T02:36:28Z,1,2,1,1,1,0,1,160714.0
+595,Use sans-serif font in web,100,True,False,,2018-01-08T05:53:01Z,0,1,1,1,1,0,1,0
+576,Close connection if frpc can't connection to local server,105,True,True,2017-12-26T06:51:03Z,2017-12-26T06:51:03Z,1,2,0,1,1,0,1,478.0
+569,Dev,0,True,False,,2017-12-21T00:34:11Z,0,2,0,1,8,2,10,0
+564,bump version to v0.14.1,0,True,True,2017-12-14T14:28:26Z,2017-12-14T14:28:26Z,0,1,0,14,657,37,694,272.0
+496,xtcp for p2p communication,0,True,True,2017-10-24T18:54:33Z,2017-10-24T18:54:33Z,0,1,0,67,7988,34,8022,190.0
+561, improve http vhost package,0,True,True,2017-12-13T15:48:18Z,2017-12-13T15:48:18Z,0,1,0,13,651,35,686,73115.0
+548,update doc and fix vistor -> visitor,0,True,True,2017-12-04T17:38:04Z,2017-12-04T17:38:04Z,0,1,0,15,308,202,510,127.0
+549,bump version to v0.14.0,0,True,True,2017-12-04T17:42:00Z,2017-12-04T17:42:00Z,0,6,0,1150,301556,463,302019,185.0
+539,add custom dashboard bind address,356,True,True,2017-11-29T02:34:37Z,2017-11-29T02:34:37Z,1,2,0,3,15,3,18,64889.0
+516,Merge pull request #1 from fatedier/dev,3,True,False,,2017-11-14T09:16:57Z,0,2,0,0,0,0,0,0
+505,frpc 添加--user，--server-dynamic  支持从指定url获取frps服务器,138,True,False,,2017-11-03T00:59:06Z,0,2,2,3,58,3,61,0
+486,Update version.go,23,True,True,2017-10-20T09:12:47Z,2017-10-20T09:12:47Z,1,2,0,1,8,14,22,4449.0
+473,doc: fix spelling error,33,True,True,2017-09-27T16:55:18Z,2017-09-27T16:55:18Z,1,2,1,2,2,2,4,100060.0
+472,doc: fix spelling error,0,True,False,,2017-09-26T13:03:44Z,0,1,0,1,1,1,2,0
+470,typo for default config file name used for frpc,0,True,False,,2017-09-24T04:32:03Z,0,2,0,1,1,1,2,0
+461,travis: add 1.x to go versions,0,True,True,2017-09-11T11:04:14Z,2017-09-11T11:04:14Z,1,2,0,1,1,0,1,1350.0
+454,add Dockerfile_multiple_build,32,True,True,2017-09-06T06:07:37Z,2017-09-06T06:07:37Z,1,2,1,1,21,0,21,4199.0
+450,fix Dockerfile,198,True,False,,2017-09-05T14:17:38Z,0,2,1,2,13,21,34,0
+390,Update README.md,10,True,True,2017-07-04T17:27:42Z,2017-07-04T17:27:42Z,1,2,1,1,1,1,2,8486.0
+403,bump version to v0.13.0,0,True,True,2017-07-16T18:20:43Z,2017-07-16T18:20:43Z,0,4,0,44,2958,270,3228,322.0
+402,update doc for v0.13.0,0,True,True,2017-07-16T18:12:06Z,2017-07-16T18:12:06Z,0,1,0,2,171,49,220,8.0
+401,merge 0.13,0,True,True,2017-07-14T15:13:42Z,2017-07-14T15:13:42Z,0,1,0,43,2786,220,3006,46.0
+380,fix backquote,41,True,True,2017-06-24T05:19:44Z,2017-06-24T05:19:44Z,1,2,0,1,1,1,2,3502.0
+371,[ADDED] 增加remote_addr 客户端指定监听地址,146,True,False,,2017-06-20T04:45:52Z,0,3,7,3,21,4,25,0
+375,Fix dockerfile,23,True,True,2017-06-21T10:50:48Z,2017-06-21T10:50:48Z,1,2,0,1,2,2,4,14588.0
+374,Fix dockerfile,23,True,False,,2017-06-21T06:43:21Z,0,1,0,1,2,2,4,0
+372,bump verson to v0.12.0,0,True,True,2017-06-19T13:36:52Z,2017-06-19T13:36:52Z,0,1,0,257,23103,216,23319,402.0
+363,update doc,0,True,True,2017-06-13T17:44:47Z,2017-06-13T17:44:47Z,0,1,0,3,64,3,67,166.0
+360,update doc,0,True,True,2017-06-11T18:46:34Z,2017-06-11T18:46:34Z,0,1,0,3,192,5,197,189.0
+351,update ISSUE_TEMPLATE,0,True,True,2017-06-03T15:50:40Z,2017-06-03T15:50:40Z,0,1,0,1,4,0,4,92.0
+348,Merge pull request #3 from fatedier/release-0.11,12,True,False,,2017-06-02T09:21:59Z,0,2,0,0,0,0,0,0
+347,Merge pull request #1 from fatedier/master,6,True,False,,2017-06-02T09:21:52Z,0,2,1,0,0,0,0,0
+340,plugin: add http_proxy,0,True,True,2017-05-30T08:12:17Z,2017-05-30T08:12:17Z,0,1,0,8,237,246,483,432.0
+344,bump version to 0.11.0,0,True,True,2017-06-01T15:46:17Z,2017-06-01T15:46:17Z,0,2,0,37,870,205,1075,365.0
+336,add http proxy,0,True,True,2017-05-27T11:27:54Z,2017-05-27T11:27:54Z,0,2,0,3,238,0,238,80979.0
+335,client: add start params,131,True,True,2017-05-24T17:50:23Z,2017-05-24T17:50:24Z,0,1,0,5,31,9,40,80.0
+334,"client: add login_fail_exit params, default is true",122,True,True,2017-05-24T17:16:02Z,2017-05-24T17:16:02Z,0,1,0,9,174,156,330,118.0
+328,new feature plugin and unix domian socket plugin,0,True,True,2017-05-22T06:12:15Z,2017-05-22T06:12:15Z,0,1,0,12,274,26,300,32.0
+325,merge dev to master,0,True,True,2017-05-20T05:39:46Z,2017-05-20T05:39:46Z,0,1,0,4,10,4,14,123.0
+323,add http proxy,0,True,False,,2017-05-20T01:31:07Z,0,1,0,9,329,0,329,0
+321,doc: update,0,True,True,2017-05-18T18:31:46Z,2017-05-18T18:31:46Z,0,1,0,10,117,323,440,663.0
+316,Refactoring,0,True,True,2017-05-14T16:15:52Z,2017-05-14T16:15:52Z,0,1,0,168,9890,5033,14923,103.0
+322,bump version to 0.10.0,0,True,True,2017-05-18T18:47:43Z,2017-05-18T18:47:44Z,0,2,0,193,11817,5409,17226,80.0
+320,change allow ports from map to array,0,True,True,2017-05-18T18:05:34Z,2017-05-18T18:05:34Z,1,2,0,4,139,42,181,7461.0
+319,change allow_prot from map to array,0,True,False,,2017-05-18T14:53:11Z,0,1,0,2,71,35,106,0
+311,Make it clear that HTTPS can be password-protected too,74,True,False,,2017-05-14T19:59:43Z,0,2,2,2,2,2,4,0
+299,imporve iconfont path,139,True,False,,2017-04-20T16:19:10Z,0,2,1,1,5,5,10,0
+269,fixed bug,0,True,False,,2017-03-08T18:11:01Z,0,2,1,4,64,1,65,0
+266,"Disable the ""CGO"" mode ，fix the ""./frpc not found"" problem，fix #262",0,True,True,2017-02-24T08:59:49Z,2017-02-24T08:59:50Z,1,2,1,1,20,22,42,991.0
+265,交叉编译去除CGO，解决在某些系统中运行出现./frpc: not found的问题，（修复#262问题）,53,True,False,,2017-02-24T08:37:10Z,0,2,1,0,0,0,0,0
+238,bump version to 0.9.3,0,True,True,2017-01-17T15:18:46Z,2017-01-17T15:18:46Z,0,1,0,7,83,46,129,122.0
+231,"Fix Bug for issure, fix #227",225,True,True,2017-01-13T05:38:05Z,2017-01-13T05:38:05Z,1,2,0,1,1,1,2,1127.0
+230,Fix Bug for issure #227,225,True,False,,2017-01-13T05:19:30Z,0,2,1,1,1,1,2,0
+229,Fix Bug for closing an exist ProxyServer when another ProxyServer wit…,225,True,False,,2017-01-13T04:03:31Z,0,1,0,1,1,1,2,0
+228,#227 bug修复,60,True,False,,2017-01-13T01:54:07Z,0,2,1,2,4,0,4,0
+217,bump version to 0.9.2,0,True,True,2017-01-08T15:22:28Z,2017-01-08T15:22:28Z,0,2,0,12,139,29,168,177.0
+215,modified readme.md,0,True,True,2017-01-05T13:39:16Z,2017-01-05T13:39:16Z,1,2,0,1,1,1,2,401.0
+207,added heartbeat conf,0,True,True,2016-12-30T10:01:03Z,2016-12-30T10:01:03Z,2,2,0,4,47,0,47,5559.0
+200,doc: support url routing,0,True,True,2016-12-27T16:32:06Z,2016-12-27T16:32:06Z,0,1,0,2,51,0,51,12.0
+201,bump version to 0.9.1,0,True,True,2016-12-27T16:35:14Z,2016-12-27T16:35:14Z,0,2,0,19,397,92,489,85.0
+187,update doc for v0.9.0,0,True,True,2016-12-21T06:04:16Z,2016-12-21T06:04:16Z,1,2,0,3,260,28,288,6798.0
+192,http proxy support router by url,0,True,True,2016-12-24T18:41:21Z,2016-12-24T18:41:21Z,0,2,0,15,207,48,255,1843.0
+182,[dev] http router by host and url,46,True,True,2016-12-24T15:08:20Z,2016-12-24T15:08:20Z,0,2,0,10,239,109,348,515516.0
+185,Update frps.ini,0,True,False,,2016-12-23T10:52:56Z,0,2,1,1,3,3,6,0
+188,bump version to 0.9.0,0,True,True,2016-12-21T06:11:10Z,2016-12-21T06:11:11Z,1,5,0,56,5926,190,6116,332.0
+186,add auth for reload api,0,True,True,2016-12-20T11:20:55Z,2016-12-20T11:20:55Z,1,2,0,2,59,4,63,520.0
+91,bump version to 0.8.1,0,True,True,2016-08-23T02:37:22Z,2016-08-23T02:37:22Z,0,1,0,1,1,1,2,21.0
+184,udp: fix privilege_mode not success for udp type,0,True,True,2016-12-19T15:57:08Z,2016-12-19T15:57:08Z,1,2,0,3,9,8,17,1010.0
+183,support udp type,15,True,True,2016-12-19T13:30:44Z,2016-12-19T13:30:44Z,1,2,0,39,5156,79,5235,72336.0
+181,"support the configure of url in ""http"" section",48,True,False,,2016-12-18T15:58:41Z,0,2,1,10,231,84,315,0
+76,"frpc: add support for connecting server through http proxies, see #67",0,True,True,2016-08-14T17:07:50Z,2016-08-14T17:07:50Z,0,1,0,6,72,6,78,219.0
+88,utils/vhost: support wildcard domains,0,True,True,2016-08-22T17:03:41Z,2016-08-22T17:03:41Z,0,1,0,1,17,0,17,176.0
+152,Maodanp/subdomain,0,True,True,2016-11-08T16:14:33Z,2016-11-08T16:14:33Z,3,2,0,9,52,4,56,138060.0
+112,Grammar fix,0,True,True,2016-09-13T01:43:50Z,2016-09-13T01:43:50Z,0,2,1,1,1,1,2,16090.0
+101,Maodanp/http auth,17,True,True,2016-09-06T03:25:01Z,2016-09-06T03:25:01Z,0,2,0,10,110,19,129,691635.0
+94,doc: add donation info,0,True,True,2016-08-24T05:40:55Z,2016-08-24T05:40:55Z,0,1,0,3,26,0,26,77.0
+95,sync from master,0,True,True,2016-08-24T05:50:24Z,2016-08-24T05:50:24Z,0,2,0,4,34,8,42,393.0
+90,merge some fix,0,True,True,2016-08-23T02:23:44Z,2016-08-23T02:23:44Z,0,1,0,13,1004,131,1135,466.0
+89,release v0.8.1,0,True,True,2016-08-23T02:22:31Z,2016-08-23T02:22:31Z,0,1,0,13,1004,131,1135,475.0
+78,Initial Docker support,867,True,True,2016-08-15T15:37:53Z,2016-08-15T15:37:53Z,0,2,3,2,16,0,16,521.0
+77,Initial Docker support,867,True,False,,2016-08-15T15:25:19Z,0,2,2,2,16,0,16,0
+64,assets: use statik to compile static files into binary files,0,True,True,2016-08-11T13:58:58Z,2016-08-11T13:58:58Z,0,1,0,24,474,27,501,407.0
+74,Add basic auth to dashboard,21,True,True,2016-08-14T05:55:13Z,2016-08-14T05:55:13Z,0,3,0,5,86,23,109,4083.0
+73,Add basic auth to dashboard,21,True,False,,2016-08-14T04:45:56Z,0,2,2,5,79,16,95,0
+71,"Sentence Spacing in Readme, killed some whitespace.",97,True,True,2016-08-13T15:17:38Z,2016-08-13T15:17:38Z,0,2,1,1,7,7,14,2072.0
+65,0.8doc,0,True,True,2016-08-12T05:58:32Z,2016-08-12T05:58:32Z,0,1,0,3,171,29,200,758.0
+66,release v0.8.0,0,True,True,2016-08-12T06:00:54Z,2016-08-12T06:00:54Z,0,3,0,174,3220,28022,31242,18.0
+63,provide a simple dashboard webpage,0,True,True,2016-08-11T07:37:15Z,2016-08-11T07:37:15Z,0,2,0,21,848,21,869,159.0
+55,all: privilege_allow_ports can be set in frps for ending abuse of ports,0,True,True,2016-07-30T18:27:06Z,2016-07-30T18:27:06Z,0,1,0,3,73,21,94,203.0
+54,all: new feature connection pool,0,True,True,2016-07-29T15:40:17Z,2016-07-29T15:40:17Z,0,1,0,11,170,35,205,1696.0
+50,frp/models/msg: fix a bug if local service write to socket immediatel…,49,True,True,2016-07-20T08:37:45Z,2016-07-20T08:37:45Z,0,1,0,4,27,18,45,1200.0
+49,all: add /api/proxies api for statistics info,0,True,True,2016-07-17T13:52:07Z,2016-07-17T13:52:07Z,0,1,1,8,289,7,296,69.0
+52,Maodanp/http hostname,93,True,True,2016-07-25T12:52:45Z,2016-07-25T12:52:45Z,0,2,0,7,161,9,170,39175.0
+51,Merge pull request #1 from Hurricanezwf/dev,42,True,False,,2016-07-22T06:51:00Z,0,1,0,0,0,0,0,0
+33,User can set use aes or gzip,28,True,True,2016-06-14T09:33:32Z,2016-06-14T09:33:32Z,0,1,0,7,169,79,248,138.0
+47,update README.md,0,True,True,2016-07-11T15:44:24Z,2016-07-11T15:44:24Z,0,1,0,2,230,12,242,284.0
+48,update README.md,0,True,True,2016-07-11T16:18:20Z,2016-07-11T16:18:20Z,0,1,0,2,230,12,242,2015.0
+46,merge for new README_zh.md,0,True,True,2016-07-09T05:13:45Z,2016-07-09T05:13:45Z,0,1,0,2,245,17,262,10.0
+45,doc: update README_zh.md,0,True,True,2016-07-09T05:10:51Z,2016-07-09T05:10:51Z,0,1,0,1,238,10,248,105.0
+41,release v0.7.0,14,True,True,2016-07-04T07:11:10Z,2016-07-04T07:11:10Z,0,4,0,23,893,275,1168,49.0
+40,support privilege mode,7,True,True,2016-06-26T14:43:02Z,2016-06-26T14:43:02Z,0,1,0,13,252,53,305,111.0
+39,add support for https,0,True,True,2016-06-24T06:09:50Z,2016-06-24T06:09:50Z,0,2,0,6,272,6,278,207.0
+38,"cmd/frps: fix a bug when vhost_http_port is not set, fix #30",0,True,True,2016-06-24T06:00:50Z,2016-06-24T06:00:50Z,0,2,0,1,7,0,7,116.0
+32,add https proto for reverse proxy,143,True,True,2016-06-13T14:43:32Z,2016-06-13T14:43:32Z,0,3,1,6,272,6,278,1008.0
+29,release v0.6.0,0,True,True,2016-06-07T14:35:56Z,2016-06-07T14:35:56Z,0,1,0,117,27761,129,27890,32.0
+27,fetch commits from master,0,True,True,2016-05-17T11:21:27Z,2016-05-17T11:21:27Z,0,1,0,0,0,0,0,15.0
+25,merge dev for fixing bugs when frpc login failed,0,True,True,2016-05-08T16:37:01Z,2016-05-08T16:37:01Z,0,1,0,18,608,136,744,138.0
+24,release v0.5.0,160,True,True,2016-05-03T14:05:55Z,2016-05-03T14:05:55Z,0,1,0,18,603,136,739,178.0
+22,fix_cfg_bug,0,True,False,,2016-04-13T10:03:12Z,0,2,0,2,103,8,111,0
+17,Release v0.3.0,0,True,True,2016-04-06T04:19:31Z,2016-04-06T04:19:31Z,0,2,0,20,526,295,821,1399.0
+16,"fix bug, cannot go through test",0,True,False,,2016-04-05T08:12:31Z,0,2,0,1,19,30,49,0
+15,optimize compress,0,True,True,2016-04-05T07:43:28Z,2016-04-05T07:43:28Z,0,1,0,1,21,15,36,29.0
+13,optimize compress,0,True,True,2016-04-05T07:25:55Z,2016-04-05T07:25:55Z,0,2,0,2,25,33,58,28.0
+12,optimize compression,0,True,False,,2016-04-05T07:27:43Z,0,1,0,2,25,33,58,0
+11,fix crypto,0,True,True,2016-03-25T06:09:01Z,2016-03-25T06:09:01Z,0,2,1,1,8,10,18,188.0
+10,fix crypto,0,True,False,,2016-03-24T07:10:29Z,0,2,0,2,9,9,18,0
+9,fix crypto,0,True,False,,2016-03-24T06:40:55Z,0,2,0,5,85,21,106,0
+8,	add crypto,177,True,True,2016-03-23T01:59:42Z,2016-03-23T01:59:42Z,0,2,0,6,86,22,108,59797.0
+7,Release version 0.2.0,0,True,True,2016-03-17T02:45:04Z,2016-03-17T02:45:04Z,0,2,0,35,3064,49,3113,58.0
+6,enable client to connect non-local [ip:port],44,True,True,2016-02-29T05:16:40Z,2016-02-29T05:16:40Z,0,2,1,3,8,1,9,2125.0
+5,Release version 0.1.0,0,True,True,2016-02-28T10:01:55Z,2016-02-28T10:01:55Z,0,2,0,26,985,447,1432,123.0
+4,fix bug,43,True,True,2016-02-26T04:04:10Z,2016-02-26T04:04:10Z,0,2,1,4,83,13,96,3768.0
+3,Fix some bugs,98,True,True,2016-02-18T03:43:40Z,2016-02-18T03:43:40Z,0,2,0,14,226,104,330,1104273.0
+2,add pcrupto.go,0,True,True,2016-02-03T06:38:46Z,2016-02-03T06:38:46Z,0,2,1,2,134,0,134,12569.0
+1,First available commit,0,True,True,2016-01-27T13:29:18Z,2016-01-27T13:29:18Z,0,1,0,31,2295,0,2295,80.0

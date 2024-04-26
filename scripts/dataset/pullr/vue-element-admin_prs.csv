@@ -1,0 +1,476 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+3929,升级element-ui到2.15.7、sass到1.34.0、sass-loader到10.1.1,236,True,False,,2024-01-22T16:05:01Z,0,1,1,1,3,3,6,0
+4202,Login page cleanup,167,True,False,,2023-11-09T20:09:09Z,0,1,0,1,0,51,51,0
+4194,pull,0,True,False,,2023-09-12T02:17:14Z,0,35,0,70,845,612,1457,0
+927,完善input背景和光标色;,159,True,True,2018-08-01T03:03:30Z,2018-08-01T03:03:30Z,0,4,5,1,39,26,65,5202.0
+4180,I18n,4,True,False,,2023-07-11T15:29:18Z,0,41,0,105,2289,880,3169,0
+811,add pwa,4,True,False,,2023-04-04T05:31:43Z,0,3,3,10,182,1,183,0
+3183,test,4,True,False,,2020-05-12T10:08:54Z,0,1,2,8,39,33,72,0
+3186,test,4,True,False,,2020-05-13T01:54:07Z,0,1,2,9,40,34,74,0
+3188,test,13,True,False,,2020-05-14T02:00:25Z,0,1,2,9,41,35,76,0
+4077,The icon will shake and shift when changing the skin,52,True,False,,2023-03-02T05:42:19Z,0,1,1,3,6,1,7,0
+4130,new pus,0,True,False,,2023-02-15T04:58:18Z,0,1,0,160,11962,5649,17611,0
+4125,SVG组件use标签添加href属性,93,True,False,,2023-02-01T03:51:25Z,0,1,0,1,1,1,2,0
+4064,Turkish Language support has been added.,0,True,False,,2022-09-09T15:23:12Z,0,1,1,5,351,104,455,0
+4043,修改.env.development,0,True,False,,2022-07-24T03:18:55Z,0,1,1,1,1,1,2,0
+3652,destroyed => beforeDestroy,36,True,False,,2022-07-18T13:25:35Z,0,1,1,1,1,1,2,0
+3953,Switch to gender neutral terms,409,True,False,,2022-06-21T17:22:31Z,0,1,1,2,2,2,4,0
+4020,fix: query lost when redirect,3,True,False,,2022-06-21T08:46:43Z,0,1,1,1,2,2,4,0
+3949,"fix: [当router的redirect使用函数作为参数时, 点击面包屑导致页面空白]",141,True,False,,2022-05-27T09:22:47Z,0,1,1,1,1,1,2,0
+4006,re,4,True,False,,2022-05-25T06:21:05Z,0,1,0,9,122,284,406,0
+3969,fix(Excel): fixed export style bug,0,True,False,,2022-05-11T11:00:23Z,0,1,1,1,6,4,10,0
+2832,The pager adds processing for deleting data and solves the problem.,123,True,False,,2022-05-02T10:05:47Z,0,1,1,3,9,2,11,0
+2197,实现了异步导出的功能,68,True,False,,2022-02-18T06:34:38Z,0,2,2,3,358,2,360,0
+1702,增加 el-table 自适应高度指令,33,True,True,2019-03-15T08:00:59Z,2019-03-15T08:00:59Z,0,5,15,2,56,0,56,185097.0
+3430,fix: validLowerCase and validUpperCase the result return  incorrect,292,True,False,,2021-12-11T07:37:20Z,0,1,1,2,6,0,6,0
+3872,24234,9,True,False,,2021-11-23T18:42:07Z,0,1,0,7,2,6,8,0
+727,chore: use babel-plugin-dynamic-import-node to lazy-loading,132,True,True,2018-05-31T08:53:09Z,2018-05-31T08:53:09Z,0,2,1,3,55,52,107,1864.0
+3793,Change in the order converting the business partner into a customer,88,True,False,,2021-08-25T19:58:33Z,0,8,1,972,154811,2691,157502,0
+3759,Switching from document type,57,True,False,,2021-07-14T14:53:06Z,0,10,1,892,113885,2687,116572,0
+3635,chore:[Tinymce]:update editor's content when bound value changes,58,True,False,,2021-06-01T14:04:09Z,0,1,2,1,3,0,3,0
+2910,自动排除mock,29,True,True,2020-01-06T14:22:37Z,2020-01-06T14:22:37Z,0,3,2,1,4,3,7,20543.0
+3562,1,1,True,False,,2020-12-24T08:29:20Z,0,1,1,1,1,1,2,0
+3548,pull request,12,True,False,,2020-12-11T03:26:47Z,0,1,1,0,0,0,0,0
+3547,pull request,12,True,False,,2020-12-11T03:20:03Z,0,1,1,0,0,0,0,0
+3542,Mybranch,0,True,False,,2020-12-09T08:24:36Z,0,1,1,0,0,0,0,0
+3533,update:复用card-panel-col；修改部分拼写错误单词,0,True,False,,2020-12-05T02:19:56Z,0,1,1,3,63,50,113,0
+3116,3级路由缓存问题,231,True,False,,2020-05-25T09:26:05Z,0,5,5,20,104,57,161,0
+3329,Dev h5 config,0,True,False,,2020-07-21T10:47:05Z,0,1,2,13,822,0,822,0
+3323,typo: replace Css with CSS,0,True,True,2020-07-20T10:13:01Z,2020-07-20T10:13:01Z,0,2,1,1,1,1,2,255069.0
+3321,看别人优秀的项目架构,0,True,False,,2020-07-16T06:08:39Z,0,1,1,3,5,5,10,0
+3301,perf[permission.js]: remove useless code,64,True,True,2020-07-05T05:12:47Z,2020-07-05T05:12:47Z,0,2,1,1,1,5,6,17323.0
+3295,perf[Tinymce]: remove useless code,34,True,True,2020-07-01T05:50:19Z,2020-07-01T05:50:19Z,0,2,1,1,1,4,5,256.0
+3280,perf[chore]: remove preserveWhitespace config,169,True,True,2020-06-24T02:17:57Z,2020-06-24T02:17:57Z,0,1,1,1,0,11,11,128.0
+3279,fix[chore]: do not preload runtime.js,31,True,True,2020-06-23T13:12:44Z,2020-06-23T13:12:44Z,0,1,1,1,11,1,12,6.0
+3028,bump: update to vue-cli@4,0,True,True,2020-06-21T13:25:55Z,2020-06-21T13:25:56Z,0,2,2,7,89,91,180,9462713.0
+3254,fix[plop]: set trim => trim(),0,True,True,2020-06-15T04:00:18Z,2020-06-15T04:00:18Z,0,2,1,1,2,9,11,130925.0
+3251,fix[v-permission]: support dynamic set roles,14,True,True,2020-06-11T13:02:19Z,2020-06-11T13:02:19Z,0,1,1,1,16,7,23,63.0
+2956,perf: remove unused showdown,3,True,True,2020-06-11T12:24:18Z,2020-06-11T12:24:18Z,0,2,2,1,0,1,1,12194536.0
+3100,fix[utils]: param2Obj bug when url params includes ==,79,True,True,2020-06-11T12:18:24Z,2020-06-11T12:18:24Z,0,3,5,2,29,13,42,5479035.0
+2957,i18n上router的regex修正，升级showdown依赖从1.9.0到1.9.1，修正npm run dev会先后弹两次浏览器的bug,3,True,False,,2020-06-11T12:08:10Z,0,3,2,3,4,4,8,0
+3048,feat[Menu]: menu icon support el-icon,9,True,True,2020-06-11T05:57:42Z,2020-06-11T05:57:42Z,0,2,1,3,33,4,37,8034333.0
+3246,refactor: change mock files to commonjs,270,True,True,2020-06-11T03:40:54Z,2020-06-11T03:40:54Z,0,1,1,9,74,25,99,86.0
+3242,Dev,0,True,False,,2020-06-09T03:33:54Z,0,1,1,6,7,7,14,0
+3040,chore: change node-sass to dart-sass,291,True,True,2020-06-08T12:41:47Z,2020-06-08T12:41:47Z,0,2,3,7,9,9,18,7944361.0
+3234,docs: Improve read me files and changes in Spanish.,0,True,True,2020-06-05T05:32:15Z,2020-06-05T05:32:15Z,0,2,1,4,33,21,54,32370.0
+3217,配置 stylelint,156,True,False,,2020-05-29T08:33:03Z,0,1,1,101,1744,1761,3505,0
+3164,fix[css]: min btn width,32,True,True,2020-05-08T03:43:40Z,2020-05-08T03:43:40Z,0,2,1,1,1,1,2,1701.0
+3038,fix[parseTime]: fixed when pass null,23,True,True,2020-05-05T05:21:52Z,2020-05-05T05:21:52Z,0,3,8,2,6,1,7,5009069.0
+3118,perf: when tags-view scroll close the right-menu,30,True,True,2020-05-05T04:55:22Z,2020-05-05T04:55:22Z,0,2,2,2,13,1,14,1638757.0
+3021,fix: use router.matched,75,True,False,,2020-05-05T03:11:08Z,0,2,2,1,1,1,2,0
+2939,移除无用的NProgress.done()（/src/permission.js）,83,True,False,,2020-05-05T03:07:02Z,0,2,3,1,0,3,3,0
+2976,feat: add option to try project on CodeSandbox,602,True,True,2020-05-04T15:05:29Z,2020-05-04T15:05:29Z,0,2,1,4,8,0,8,7164864.0
+2741,perf: change default element-ui language to english,39,True,True,2020-05-04T13:51:21Z,2020-05-04T13:51:22Z,0,2,1,1,3,1,4,15075653.0
+2643,feat[Search]: route search supports pinyin,0,True,True,2020-05-04T13:38:44Z,2020-05-04T13:38:44Z,2,2,1,5,60,15,75,17965863.0
+1700,fix: compatibility with vetur,132,True,True,2020-05-04T13:30:59Z,2020-05-04T13:30:59Z,0,2,2,2,19,12,31,36153113.0
+3152,change default language to Chinese,58,True,False,,2020-04-30T07:10:16Z,0,1,1,6,276,275,551,0
+3144,fix[element-variables]: missing space in element-variables,0,True,True,2020-04-28T10:26:35Z,2020-04-28T10:26:35Z,0,2,1,1,3,3,6,14537.0
+3141,perf[Tinymce]: editor try to keep these URLs intact,289,True,True,2020-04-28T02:10:59Z,2020-04-28T02:10:59Z,0,2,1,1,5,1,6,122698.0
+3097,fix: use vue-cli default source-map,28,True,True,2020-04-22T02:31:47Z,2020-04-22T02:31:47Z,0,1,2,1,0,6,6,1202442.0
+589,node-sass安装失败解决方案,112,True,False,,2018-04-11T07:02:07Z,0,6,1,6,23,11,34,0
+3111,Merge pull request #1 from PanJiaChen/master,24,True,False,,2020-04-13T13:01:50Z,0,1,4,0,0,0,0,0
+3110,Merge pull request #1 from PanJiaChen/master,24,True,False,,2020-04-13T12:52:21Z,0,1,2,0,0,0,0,0
+3102,Create param2Obj.spec.js,12,True,False,,2020-04-10T03:34:06Z,0,1,1,1,13,0,13,0
+3096,拉取代码,4,True,False,,2020-04-06T01:30:41Z,0,2,1,0,0,0,0,0
+3091,fixed typo,0,True,True,2020-04-04T07:53:26Z,2020-04-04T07:53:26Z,0,2,1,1,1,1,2,47650.0
+3085,fix: svg support old broswer,17,True,True,2020-03-28T03:16:41Z,2020-03-28T03:16:41Z,0,1,1,1,1,1,2,71.0
+3084,Merge pull request #1 from PanJiaChen/master,5,True,False,,2020-03-28T03:15:38Z,0,2,1,0,0,0,0,0
+3074,perf: format component names as PascalCase,44,True,True,2020-03-24T02:17:19Z,2020-03-24T02:17:19Z,0,2,1,1,2,2,4,57393.0
+3066,fix:fixed parseTime bug in ie and safari,137,True,True,2020-03-20T13:24:32Z,2020-03-20T13:24:32Z,0,2,1,2,15,2,17,75586.0
+3065,Merge pull request #1 from PanJiaChen/master,37,True,False,,2020-03-19T13:45:34Z,0,2,2,0,0,0,0,0
+3056,fix[profile/UserCard]: fixed wrong key name,13,True,True,2020-03-18T11:22:38Z,2020-03-18T11:22:38Z,0,2,1,1,1,1,2,94189.0
+3052,test,2,True,False,,2020-03-14T13:58:59Z,0,2,1,1,2,0,2,0
+2949,chore: render standard html tag in sidebar menu,42,True,False,,2020-03-07T04:02:50Z,0,1,1,2,26,9,35,0
+3036,Update package.json,0,True,False,,2020-03-05T14:56:50Z,0,1,1,1,1,1,2,0
+2993,update,6,True,False,,2020-02-22T17:01:58Z,0,1,1,0,0,0,0,0
+2970,docs: improve Japanese translation,0,True,True,2020-02-05T01:51:44Z,2020-02-05T01:51:44Z,0,2,1,1,29,29,58,60843.0
+2966,perf[Mock]: set responseFake to mock-server.js,396,True,True,2020-02-02T11:39:41Z,2020-02-02T11:39:41Z,0,2,2,2,19,17,36,19852.0
+2951,Test,0,True,False,,2020-01-17T08:28:30Z,0,1,2,96,67,6850,6917,0
+2948,chore: render standard html tag in sidebar menu,27,True,False,,2020-01-17T05:56:24Z,0,1,1,2,24,12,36,0
+2933,fix: fixed redirect path regex,328,True,True,2020-01-11T02:26:00Z,2020-01-11T02:26:00Z,0,2,1,1,1,1,2,62969.0
+2929,fix: fixed mock server,0,True,True,2020-01-09T09:21:37Z,2020-01-09T09:21:37Z,0,1,1,10,33,43,76,1312.0
+2922,fix[Charts]: fix charts resize in keep-alive bug,14,True,True,2020-01-09T08:49:57Z,2020-01-09T08:49:58Z,0,1,1,1,35,13,48,79786.0
+2635,perf: optimize checkCapslock method,18,True,True,2020-01-08T04:12:11Z,2020-01-08T04:12:11Z,0,2,1,1,3,11,14,7893224.0
+2825,perf[complex-table]:refine code,0,True,True,2020-01-07T14:30:08Z,2020-01-07T14:30:08Z,0,2,1,2,10,20,30,2441799.0
+2903,perf[Menu]: remove unused menu-wrapper,105,True,True,2020-01-06T14:34:15Z,2020-01-06T14:34:15Z,0,2,1,1,1,1,2,330201.0
+2896,fix[Logout]: click blank area of ​​dropDown able to logout,35,True,True,2019-12-31T06:14:35Z,2019-12-31T06:14:35Z,0,2,1,1,2,2,4,1242.0
+2090,简单的兼容提示，虽然大部分用于2B项目，但是依旧会有很多打不开反馈,82,True,False,,2019-12-20T08:17:06Z,0,3,3,1,8,0,8,0
+2857,closed,6,True,False,,2019-12-18T08:40:38Z,0,2,2,0,0,0,0,0
+1597,菜单从后端获取演示，并增加iframe例子,797,True,False,,2019-02-14T06:12:41Z,0,4,3,15,825,25,850,0
+2835,fix[icons]:fixed eslint 1 error and 2 warnings,19,True,True,2019-12-12T07:16:04Z,2019-12-12T07:16:04Z,0,2,2,1,3,3,6,13587.0
+2715,Add Form create,115,True,False,,2019-12-09T11:27:19Z,0,1,1,5,419,0,419,0
+2805,new generate store,12,True,True,2019-12-04T02:34:23Z,2019-12-04T02:34:23Z,0,2,1,3,80,0,80,42802.0
+2803,使用栅格布局,42,True,True,2019-12-01T07:48:31Z,2019-12-01T07:48:31Z,0,2,1,1,32,22,54,353.0
+2791,perf: format download,0,True,True,2019-11-27T02:06:28Z,2019-11-27T02:06:28Z,0,2,1,1,11,11,22,36586.0
+2752,fix[TagsView]: fixed CachedView bug (PanJiaChen#406),28,True,False,,2019-11-15T14:31:23Z,0,1,1,1,6,1,7,0
+2743,perf: fixed typo of MarkdownEditor'component name,0,True,True,2019-11-12T09:25:12Z,2019-11-12T09:25:12Z,0,2,1,1,1,1,2,18962.0
+2744,format: space in user card,0,True,True,2019-11-12T09:24:30Z,2019-11-12T09:24:30Z,0,2,1,1,57,57,114,16728.0
+2739,perf: go global,0,True,True,2019-11-11T11:40:00Z,2019-11-11T11:40:00Z,0,2,1,1,1,1,2,15464.0
+2732,perf: complex table,21,True,True,2019-11-08T03:26:54Z,2019-11-08T03:26:54Z,0,2,1,1,10,10,20,3880.0
+2733,perf: format drag table,21,True,True,2019-11-08T03:25:43Z,2019-11-08T03:25:43Z,0,2,1,1,12,12,24,3665.0
+2725,perf: format inline edit table,21,True,True,2019-11-07T05:37:06Z,2019-11-07T05:37:06Z,0,2,1,1,8,8,16,61633.0
+2720,format: dropdown menu,0,True,True,2019-11-05T06:26:24Z,2019-11-05T06:26:24Z,0,2,1,1,1,1,2,11209.0
+2677,Weijian,0,True,False,,2019-10-22T15:34:32Z,0,3,1,28,1429,40,1469,0
+2656,Fixed punctuation and improved clarity in README.md,0,True,True,2019-10-14T02:25:31Z,2019-10-14T02:25:31Z,0,2,1,1,2,2,4,23465.0
+2650,update,6,True,False,,2019-10-11T11:40:25Z,0,2,1,0,0,0,0,0
+1605,refine 路由表从服务器加载 && 角色权限管理,75,True,True,2019-03-15T10:08:13Z,2019-03-15T10:08:13Z,0,5,4,14,467,58,525,2433282.0
+2649,fix[TagsView]: fixed click.middle can close affixed tag bug,12,True,True,2019-10-11T05:37:01Z,2019-10-11T05:37:01Z,0,1,1,1,6,3,9,21.0
+2645,SVG 2删除了对xlink命名空间的需要，所以不xlink:href应该使用href。,51,True,True,2019-10-10T03:35:49Z,2019-10-10T03:35:49Z,0,2,2,1,1,1,2,1784.0
+2565,支持国际化中文 菜单拼音模糊搜索,0,True,False,,2019-10-09T15:08:08Z,0,2,4,2,25,0,25,0
+2465,optimize views/login/index.vue CheckCapslock method,36,True,False,,2019-10-08T18:49:38Z,0,2,14,1,1,10,11,0
+2634,fix[TagsView]: fixed toLastView bug,14,True,True,2019-10-08T13:20:35Z,2019-10-08T13:20:35Z,0,1,1,1,1,1,2,73.0
+2632,fix[logout]: empty tagsview when logout,14,True,True,2019-10-08T12:38:19Z,2019-10-08T12:38:19Z,0,1,1,1,6,1,7,233.0
+2626,优化：顶部标签栏缓存数组删除元素的函数,19,True,True,2019-10-08T10:15:23Z,2019-10-08T10:15:23Z,0,2,1,1,4,14,18,196792.0
+2625,perf[utils.js]: perf parseTime function,48,True,True,2019-10-08T09:54:48Z,2019-10-08T09:54:48Z,0,2,1,1,4,7,11,196062.0
+2622,修改parseTime函数，优化顶部标签缓存数组的删除元素函数,79,True,False,,2019-10-06T02:42:58Z,0,2,3,2,8,21,29,0
+2617,fix 页面第一次加载的时候，当页面有含有 Props 子组件时候，页面会渲染两次  #2601,0,True,False,,2019-09-30T06:43:13Z,0,1,2,1,14,2,16,0
+2365, 修改注释错别字，使用箭头函数解决this指向问题，const 取代 let，修复eslint报错,0,True,True,2019-09-30T05:56:56Z,2019-09-30T05:56:56Z,0,2,1,1,1128,775,1903,6986778.0
+2347,Perf/import file saver,17,True,True,2019-09-30T05:14:56Z,2019-09-30T05:14:56Z,0,2,1,2,4,4,8,7252507.0
+2609,添加“vscode对alias全局变量的跳转”配置文件,93,True,True,2019-09-27T05:45:49Z,2019-09-27T05:45:49Z,0,2,1,1,9,0,9,9112.0
+2531,Il8n,0,True,False,,2019-09-26T02:50:54Z,0,9,2,5,5,4,9,0
+2597,fix[Dashboard]: fixed debounce bug (#2586),0,True,True,2019-09-26T02:34:32Z,2019-09-26T02:34:32Z,0,3,3,1,7,8,15,211660.0
+2599,Olfbp 870 ICE Pricing Switchover,0,True,False,,2019-09-24T09:03:33Z,0,4,1,69,5300,243,5543,0
+2590,Update README.md,36,True,False,,2019-09-22T10:39:15Z,0,2,2,1,1,0,1,0
+2592,Olfbp 753- export History table to csv format,0,True,False,,2019-09-20T11:19:05Z,0,2,1,60,4767,241,5008,0
+1149,feature[tagsView]: support middle click,0,True,True,2018-09-30T05:46:03Z,2018-09-30T05:46:03Z,0,2,2,1,3,0,3,72797.0
+2538,Merge pull request #1 from PanJiaChen/master,12,True,False,,2019-08-30T02:15:21Z,0,2,1,0,0,0,0,0
+2530,pull il8n,0,True,False,,2019-08-29T02:26:25Z,0,15,1,65,364,1441,1805,0
+2532,Update role.vue,41,True,True,2019-08-29T02:23:46Z,2019-08-29T02:23:46Z,0,2,1,1,1,1,2,54455.0
+2529,pull il8n,0,True,False,,2019-08-28T06:07:04Z,0,15,1,65,364,1441,1805,0
+2463,Merge pull request #1 from PanJiaChen/master,6,True,False,,2019-08-10T06:46:58Z,0,2,1,0,0,0,0,0
+2454,Lite,0,True,False,,2019-08-08T02:55:39Z,0,9,1,0,0,0,0,0
+2160,perf[request.js]: refine error reject,0,True,True,2019-05-27T08:24:47Z,2019-05-27T08:24:47Z,0,3,2,1,2,2,4,1850.0
+2401,Tag/3.11.0,15,True,False,,2019-07-19T09:32:19Z,0,3,1,2,16,2,18,0
+2388,sync,0,True,False,,2019-07-16T09:12:48Z,0,2,1,205,8791,7008,15799,0
+2382,Fix: Form header sort icon is out of sync,26,True,True,2019-07-16T09:12:27Z,2019-07-16T09:12:27Z,0,2,1,1,9,1,10,96727.0
+2374,和原项目合并,0,True,False,,2019-07-12T09:09:21Z,0,2,1,4,19,9,28,0
+2357,Update index.html,0,True,False,,2019-07-10T07:11:21Z,0,2,2,1,5,15,20,0
+2309,perf file-saver import,17,True,False,,2019-07-08T02:51:17Z,0,1,1,2,4,4,8,0
+2327,update @vue/cli-plugin-eslint version,101,True,True,2019-07-04T06:38:31Z,2019-07-04T06:38:31Z,0,2,1,1,1,1,2,9803.0
+2314,把github目前取消,0,True,False,,2019-07-02T03:14:43Z,0,1,2,1,1,1,2,0
+2307,查了官方文档以及源码，Clipboard好像确实没有 .off() 这个方法,0,True,True,2019-06-30T03:09:20Z,2019-06-30T03:09:20Z,0,2,1,1,0,4,4,3723.0
+2283,修正README.zh-CN.md上的错别字,4,True,True,2019-06-27T15:15:49Z,2019-06-27T15:15:49Z,0,2,1,1,1,1,2,215193.0
+2248,"优化,设置AppMain滚动高度,使得头部固定",0,True,False,,2019-06-17T06:26:43Z,0,2,1,1,12,2,14,0
+2243,Merge pull request #1 from PanJiaChen/master,6,True,False,,2019-06-15T16:08:12Z,0,1,1,0,0,0,0,0
+2242,Merge pull request #1 from PanJiaChen/master,6,True,False,,2019-06-15T16:06:00Z,0,1,2,0,0,0,0,0
+1152,fix:[Sidebar]: fixed bug in iOS,0,True,True,2018-09-30T05:46:19Z,2018-09-30T05:46:19Z,0,2,2,2,29,1,30,288.0
+2202,perf[PanThumb]: Replace the image tag with background-image to prevent the stretching,0,True,True,2019-06-06T09:46:01Z,2019-06-06T09:46:01Z,0,2,1,1,6,4,10,2489.0
+2188,fix input attribute error,5,True,False,,2019-06-02T08:08:44Z,0,2,4,2,9,9,18,0
+2191,fix input attribute error,0,True,True,2019-06-02T08:08:24Z,2019-06-02T08:08:24Z,0,2,1,2,9,9,18,14697.0
+2170,fix: typo,0,True,True,2019-05-28T08:18:26Z,2019-05-28T08:18:26Z,0,2,1,1,2,2,4,1714.0
+2169,fix[ImageCropper]: removeEventListener when destroyed,0,True,True,2019-05-28T07:10:38Z,2019-05-28T07:10:38Z,0,2,1,1,10,6,16,2864.0
+2167,EventListener使用element封装的兼容方法替代,0,True,False,,2019-05-28T04:05:52Z,0,2,2,13,59,37,96,0
+2159,perf[Tinymce]: add language option,0,True,True,2019-05-27T07:04:34Z,2019-05-27T07:04:34Z,0,1,1,1,4,1,5,842.0
+2152,fix[Tinymce]:  fixed bug when init multiple tinymce at the same time,0,True,True,2019-05-27T07:35:08Z,2019-05-27T07:35:08Z,0,1,1,1,27,7,34,80741.0
+2142,chore: set localhost => 127.0.0.1,0,True,True,2019-05-26T09:12:36Z,2019-05-26T09:12:36Z,0,1,1,1,1,1,2,168930.0
+2114,feat: add tab url demo,0,True,True,2019-05-27T07:48:46Z,2019-05-27T07:48:46Z,0,2,2,2,13,1,14,538258.0
+2097,chore: add autoprefixer to devDependencies,44,True,True,2019-05-27T07:04:05Z,2019-05-27T07:04:05Z,0,2,3,1,1,0,1,870113.0
+2154,fix vue-cli-service build hangs on WSL,0,True,False,,2019-05-26T19:21:03Z,0,1,1,0,0,0,0,0
+2146,build(deps): update vuex requirement from 3.1.0 to 3.1.1,3495,True,False,,2019-05-26T09:16:57Z,0,1,2,1,1,1,2,0
+2148,build(deps): update driver.js requirement from 0.9.5 to 0.9.6,2605,True,False,,2019-05-26T04:00:32Z,0,1,2,1,1,1,2,0
+2149,build(deps): update vue-router requirement from 3.0.2 to 3.0.6,4061,True,False,,2019-05-26T04:00:23Z,0,1,2,1,1,1,2,0
+2150,build(deps-dev): update svgo requirement from 1.2.0 to 1.2.2,5987,True,False,,2019-05-26T04:00:19Z,0,1,2,1,1,1,2,0
+2151,build(deps-dev): update babel-jest requirement from 23.6.0 to 24.8.0,5034,True,False,,2019-05-26T04:00:10Z,0,1,2,1,1,1,2,0
+2147,build(deps): update xlsx requirement from 0.14.1 to 0.14.3,3502,True,False,,2019-05-26T03:59:48Z,0,1,2,1,1,1,2,0
+2143,Merge pull request #1 from PanJiaChen/master,11,True,False,,2019-05-24T11:01:14Z,0,1,2,0,0,0,0,0
+2119,fix[Chart]: fixed chart bug in keep-alive,14,True,True,2019-05-23T03:27:10Z,2019-05-23T03:27:10Z,0,1,1,5,68,54,122,90099.0
+2102,perf[Tinymce]: dynamic import tinymce,0,True,True,2019-05-21T02:50:11Z,2019-05-21T02:50:11Z,0,1,1,4,57,16,73,319487.0
+2013,perf[Login]: support other query,14,True,True,2019-05-20T03:21:08Z,2019-05-20T03:21:08Z,0,1,0,1,16,3,19,1214126.0
+2052,feat[SvgIcon]: support import svg from url,89,True,True,2019-05-20T03:03:30Z,2019-05-20T03:03:30Z,0,1,1,1,20,1,21,853400.0
+2072,fix: fixed change roles bug,0,True,True,2019-05-20T03:04:17Z,2019-05-20T03:04:18Z,0,1,1,1,3,0,3,512944.0
+2086,perf[Breadcrumb]: do not update breadcrumbs when go to redirect page,0,True,True,2019-05-20T03:04:52Z,2019-05-20T03:04:52Z,0,1,1,1,5,1,6,346012.0
+2047,perf[store]: add support to sub-modules,292,True,True,2019-05-20T03:10:31Z,2019-05-20T03:10:31Z,2,2,1,1,1,1,2,902223.0
+2101,style( rightPanel ): tidy css,0,True,True,2019-05-17T07:51:08Z,2019-05-17T07:51:08Z,0,2,1,1,13,20,33,643.0
+2100,style( rightPanel ): tidy css,0,True,False,,2019-05-17T07:40:49Z,0,2,1,2,13,20,33,0
+2093,您好，目前我们后台给的路由大概如下，如何只根据里面的path和children的层级关系，进行匹配额，我写了一天了，都不对，,2407,True,False,,2019-05-17T01:35:53Z,0,3,2,12,1133,310,1443,0
+2080,"Add some translation, minor change",83,True,True,2019-05-15T01:33:36Z,2019-05-15T01:33:36Z,0,2,0,1,4,4,8,5212.0
+2070,docs: add support to readme for Spanish,130,True,True,2019-05-14T03:04:04Z,2019-05-14T03:04:04Z,0,2,2,4,219,3,222,48124.0
+2066,fix[redirect]: fix redirect bug in vue-devtools,12,True,True,2019-05-12T06:01:04Z,2019-05-12T06:01:04Z,0,2,1,1,1,0,1,50.0
+2065,add a clear button in ErrorLog component,0,True,True,2019-05-12T04:00:01Z,2019-05-12T04:00:01Z,0,3,2,2,17,1,18,33271.0
+1828,chore: remove i18n,0,True,True,2019-05-05T08:49:41Z,2019-05-05T08:49:41Z,0,2,2,63,317,1440,1757,2760198.0
+2060,perf[style]: refine dashboard style in mobile,0,True,True,2019-05-10T10:39:06Z,2019-05-10T10:39:06Z,0,1,1,6,56,7,63,2000.0
+2038,remove 18n waring,9,True,False,,2019-05-09T07:39:22Z,0,1,0,1,32,10,42,0
+2027,merge from PanJiaChen,0,True,False,,2019-05-08T01:36:22Z,0,1,0,0,0,0,0,0
+2020,perf[Profile]: adapt the profile page to the mobile,0,True,True,2019-05-07T06:08:29Z,2019-05-07T06:08:29Z,0,1,0,2,3,3,6,21.0
+1953,feature[profile]: add profile page,52,True,True,2019-04-25T09:45:47Z,2019-04-25T09:45:47Z,0,3,3,13,511,6,517,236856.0
+2001,fix：修复display_time总为空,27,True,True,2019-05-03T06:14:37Z,2019-05-03T06:14:37Z,0,2,0,1,1,1,2,55258.0
+1999,"Add ja Lang, please don't remove i18n ",67,True,True,2019-05-02T05:59:32Z,2019-05-02T05:59:32Z,0,2,1,8,422,3,425,140375.0
+1996,change tinymce to cdn,0,True,True,2019-04-30T08:39:43Z,2019-04-30T08:39:43Z,0,1,0,40,20,723,743,13192.0
+895,Update permission.js,19,True,False,,2019-04-30T02:19:33Z,0,2,3,1,1,1,2,0
+1732,修复sticky吸顶组件在添加stickyTop数值时 未滚动的情况下出现偏移问题,0,True,True,2019-03-19T02:31:12Z,2019-03-19T02:31:12Z,0,2,0,1,4,1,5,2902.0
+1983,Merge pull request #1 from PanJiaChen/master,6,True,False,,2019-04-28T11:42:43Z,0,1,0,0,0,0,0,0
+1974,Merge pull request #1 from PanJiaChen/master,5,True,False,,2019-04-26T02:07:39Z,0,1,0,0,0,0,0,0
+1951,perf[Tinymce]: add width prop,0,True,True,2019-04-23T02:09:15Z,2019-04-23T02:09:15Z,0,2,3,2,10,4,14,48886.0
+1943,merge,0,True,False,,2019-04-19T00:26:05Z,0,2,0,1,6,4,10,0
+1291,V4.0,0,True,True,2019-04-01T09:07:16Z,2019-04-01T09:07:16Z,0,29,4,212,3499,3348,6847,12966945.0
+1911,docs/i18n,0,True,True,2019-04-16T03:20:13Z,2019-04-16T03:20:14Z,0,1,0,49,134,138,272,77725.0
+1933,add tabindex for login form,0,True,True,2019-04-18T11:54:35Z,2019-04-18T11:54:35Z,0,3,1,1,2,0,2,44185.0
+1939,Update mock-server.js,19,True,True,2019-04-18T10:36:21Z,2019-04-18T10:36:21Z,0,2,1,1,6,4,10,21738.0
+1928,Revise views/icons path,62,True,True,2019-04-17T03:47:09Z,2019-04-17T03:47:09Z,0,2,0,6,83,10,93,38574.0
+1924,修复仅向下/上拖动浏览器时，不会触发doResize,0,True,True,2019-04-16T06:56:08Z,2019-04-16T06:56:08Z,1,2,0,1,4,4,8,12131.0
+1884,refactor filename,5,True,True,2019-04-12T09:13:28Z,2019-04-12T09:13:28Z,0,1,0,66,74,75,149,108753.0
+1910,change page title,0,True,True,2019-04-15T03:58:44Z,2019-04-15T03:58:44Z,0,2,0,6,37,10,47,5310.0
+1908,revise the breadcrumb navigation of permission and zip,57,True,True,2019-04-15T02:31:06Z,2019-04-15T02:31:06Z,0,2,0,1,3,1,4,157543.0
+1883,Add jsdoc for utils,5,True,True,2019-04-11T02:41:37Z,2019-04-11T02:41:37Z,0,2,1,11,241,147,388,38523.0
+1870,fix[Sidebar]: fixed external link bug,12,True,True,2019-04-10T02:12:16Z,2019-04-10T02:12:16Z,0,1,0,1,3,0,3,24.0
+1833,feature[Sidebar]: add activeMenu option,0,True,True,2019-04-08T04:58:34Z,2019-04-08T04:58:34Z,0,1,0,2,30,21,51,350617.0
+1866,fix[TagsView]: fixed close last home page (#1861),0,True,True,2019-04-09T04:56:57Z,2019-04-09T04:56:57Z,0,2,0,1,11,5,16,6465.0
+1865,feature[Icons]: add element-ui icons demo,5,True,True,2019-04-09T01:58:09Z,2019-04-09T01:58:09Z,0,1,0,3,43,23,66,10.0
+1845, 登录页面输入密码时 监听大写是否被锁定,13,True,True,2019-04-08T06:13:07Z,2019-04-08T06:13:07Z,0,2,4,1,35,18,53,333586.0
+1853,fix[Sidebar]: fixed sidebar scroll bug,11,True,True,2019-04-08T05:02:42Z,2019-04-08T05:02:42Z,0,1,0,1,0,4,4,60.0
+1619,perf[Navbar]: add scroll bar when the subMenu is too long,12,True,True,2019-02-21T08:08:23Z,2019-02-21T08:08:23Z,0,2,1,1,20,1,21,251.0
+1633,perf[ResizeHandler]: optimized the judgment of isMobile,5,True,True,2019-02-25T09:54:11Z,2019-02-25T09:54:11Z,0,1,0,1,2,3,5,30.0
+1707,init right-panel,0,True,True,2019-03-14T09:11:26Z,2019-03-14T09:11:26Z,0,1,0,10,301,12,313,82059.0
+1180,feature/settings,0,True,False,,2019-03-14T09:24:03Z,0,2,1,19,354,68,422,0
+1850,mock-server support hot reload,5,True,True,2019-04-08T03:01:25Z,2019-04-08T03:01:25Z,0,1,0,5,98,32,130,53935.0
+1848,I18n,0,True,True,2019-04-07T15:10:14Z,2019-04-07T15:10:15Z,0,1,0,8,29,35,64,171990.0
+1844,Repair error log dialog appears incorrectly when Fixed Header is enabled,5,True,True,2019-04-04T09:51:45Z,2019-04-04T09:51:45Z,0,2,0,2,3,3,6,1420.0
+1841,fix[Drag]: fixed drag bug in firefox,12,True,True,2019-04-04T08:21:46Z,2019-04-04T08:21:46Z,0,1,0,3,15,2,17,62.0
+1815,add auto import modules and language,0,True,True,2019-04-04T06:37:02Z,2019-04-04T06:37:02Z,0,30,3,5,30,18,48,161768.0
+1387,以editor登录后切换到admin，无法访问页面权限,33,True,False,,2019-04-04T05:32:36Z,0,2,3,1,2,2,4,0
+1836,fix[TagsView]: fixed z-index bug,12,True,True,2019-04-04T05:07:19Z,2019-04-04T05:07:19Z,0,1,0,1,1,1,2,25.0
+1835,Optimize page name,0,True,True,2019-04-04T04:58:38Z,2019-04-04T04:58:38Z,0,1,0,5,4,4,8,151.0
+1824,（创建文章页面）模糊搜索下拉框，在输入框按下回车，选择第一个匹配项,63,True,True,2019-04-03T05:40:25Z,2019-04-03T05:40:25Z,0,2,1,1,1,1,2,493.0
+1822,官网Layout模块描述错误,152,True,False,,2019-04-03T04:46:06Z,0,49,1,347,8829,5175,14004,0
+1672,refactor(store): add auto import modules,5,True,False,,2019-04-02T09:42:13Z,0,2,3,4,35,19,54,0
+1767,Feature/sidebar logo,0,True,True,2019-03-25T07:15:41Z,2019-03-25T07:15:41Z,0,1,0,10,158,28,186,169199.0
+1760,'add-status-for-TreeTable',98,True,False,,2019-03-29T11:07:56Z,0,1,0,1,49,6,55,0
+1798,登录页面，当用户名或者密码未被缓存的情况下 input 自动获取焦点,30,True,True,2019-03-29T04:55:08Z,2019-03-29T04:55:08Z,0,2,2,1,13,1,14,7914.0
+1779,Update index.js,88,True,True,2019-03-27T05:31:34Z,2019-03-27T05:31:34Z,0,2,0,1,1,0,1,61503.0
+1782,fix typos,11,True,True,2019-03-27T07:18:30Z,2019-03-27T07:18:30Z,0,2,0,1,1,1,2,345.0
+1776,Also define the standard property 'box-shadow' for compatibility,83,True,True,2019-03-26T04:59:31Z,2019-03-26T04:59:31Z,0,2,0,1,1,1,2,4340.0
+1775,解决eslint-plugin-vue的一些报错,274,True,False,,2019-03-26T03:44:04Z,0,2,5,0,0,0,0,0
+1762,add create template,0,True,True,2019-03-22T10:22:15Z,2019-03-22T10:22:15Z,0,1,0,7,181,1,182,45.0
+1748,fix: deepClone error msg,0,True,True,2019-03-21T07:14:16Z,2019-03-21T07:14:16Z,0,2,1,1,1,1,2,3577.0
+1743,提供一套不错的颜色模板,0,True,True,2019-03-21T03:04:34Z,2019-03-21T03:04:34Z,0,2,1,1,1,0,1,65390.0
+1736,Fix Excel Export Error,152,True,True,2019-03-19T10:34:00Z,2019-03-19T10:34:00Z,0,3,0,1,2,2,4,1807.0
+1733,fix[HeaderSearch]: fixed bug in vue2.6+,0,True,True,2019-03-19T02:18:05Z,2019-03-19T02:18:05Z,0,1,1,1,1,1,2,25.0
+1718,feature 增加复杂表头导出示例,54,True,True,2019-03-17T08:36:10Z,2019-03-17T08:36:10Z,2,2,1,2,35,15,50,167503.0
+1667,Upgrade eslint packages version and remove warnings.,0,True,True,2019-03-17T09:40:52Z,2019-03-17T09:40:52Z,0,2,0,112,592,299,891,962249.0
+1712,fix[utils]: fixed param2Obj not decoding plus sign (#1711),29,True,True,2019-03-14T08:12:48Z,2019-03-14T08:12:48Z,0,2,0,1,2,1,3,8372.0
+1705,"waves bug fixed, Fix issue #1704: v-waves bug fixed",40,True,True,2019-03-13T07:26:10Z,2019-03-13T07:26:10Z,0,2,0,1,64,33,97,959.0
+1690,Fix sidebar animation problem,0,True,True,2019-03-12T03:12:29Z,2019-03-12T03:12:29Z,0,1,0,3,17,6,23,963.0
+1692,fix(tree-table): 更新数据未触发 computed tableData 更新问题,0,True,True,2019-03-12T05:24:00Z,2019-03-12T05:24:00Z,0,2,2,2,15,11,26,5610.0
+1673,perf/tree table,0,True,True,2019-03-07T06:13:37Z,2019-03-07T06:13:37Z,0,1,0,10,365,201,566,1710.0
+1587,refine tree table,12,True,True,2019-03-07T03:34:24Z,2019-03-07T03:34:24Z,0,2,0,8,558,393,951,2055142.0
+1666,fix[DragTable]: support multiple drag-table,12,True,True,2019-03-06T01:49:47Z,2019-03-06T01:49:48Z,0,1,0,1,2,2,4,10.0
+1660,Improvement/remove tags thing from scroll panel,0,True,True,2019-03-05T05:20:31Z,2019-03-05T05:20:31Z,0,2,0,3,11,8,19,33.0
+1657,Improvement - ScrollPanel should not contain any tags-view logic,0,True,True,2019-03-05T05:06:41Z,2019-03-05T05:06:41Z,0,2,3,3,11,8,19,131273.0
+1650, 计算文字长度，我觉得英文大写也应该算作中文，尤其是W这的字再加粗的话很宽的,37,True,True,2019-03-04T02:54:58Z,2019-03-04T02:54:58Z,0,2,2,1,10,11,21,263505.0
+1653,#1649 404 when refresh dashboard,73,True,True,2019-03-01T10:44:37Z,2019-03-01T10:44:37Z,0,2,1,1,1,0,1,5732.0
+1349,Update SidebarItem.vue,18,True,True,2019-02-28T05:22:50Z,2019-02-28T05:22:50Z,0,2,1,1,11,22,33,8628515.0
+1333, fixed infinite loop Bug when  Edit the onlyOneChild in hasOneShowingChild Function,95,True,True,2019-02-27T05:48:31Z,2019-02-27T05:48:31Z,0,2,8,1,3,3,6,8818165.0
+554,Update themepick/index.vue,100,True,True,2019-02-25T09:29:58Z,2019-02-25T09:29:59Z,0,2,0,1,10,3,13,28571027.0
+1611, 用Object.assign()复制数组对象,58,True,False,,2019-02-18T05:15:25Z,0,2,1,1,1,8,9,0
+1566,perf[SizeSelect]: add default size option,0,True,True,2019-01-30T04:58:31Z,2019-01-30T04:58:31Z,0,1,0,1,12,3,15,72659.0
+1577,fearure[TagsView]: add affix porperty,0,True,True,2019-02-15T07:26:49Z,2019-02-15T07:26:49Z,0,1,1,3,69,25,94,1288972.0
+1603,fix[Screenfull]: fix screenfull bug #1602,5,True,True,2019-02-15T02:03:35Z,2019-02-15T02:03:35Z,0,1,0,1,11,3,14,23.0
+1591,feature: add header-search component,0,True,True,2019-02-13T07:09:15Z,2019-02-13T07:09:15Z,0,1,2,4,212,12,224,83345.0
+1569,fix[SIdebar]: fixed bug in mobile #1567,5,True,True,2019-01-30T05:38:01Z,2019-01-30T05:38:02Z,0,1,0,1,1,0,1,21.0
+1568,perf[Style]: optimize the sidebar style to make it better to set,0,True,True,2019-01-30T04:58:12Z,2019-01-30T04:58:12Z,0,1,0,2,41,17,58,6347.0
+1552,perf[UploadExcel]: optimize code,5,True,True,2019-01-25T04:50:21Z,2019-01-25T04:50:22Z,0,1,0,1,1,10,11,8.0
+1546,优化 parseTime,53,True,True,2019-01-24T07:32:36Z,2019-01-24T07:32:36Z,3,2,1,1,6,1,7,93571.0
+1550,perf[Sticky]: export reset method,5,True,True,2019-01-24T03:14:23Z,2019-01-24T03:14:23Z,0,1,0,1,5,2,7,11.0
+1545,optimiz: eye icon style for login form,0,True,True,2019-01-23T03:18:03Z,2019-01-23T03:18:03Z,0,2,1,2,18,11,29,1753.0
+1538,data,0,True,False,,2019-01-20T07:45:47Z,0,1,0,383,137299,429,137728,0
+1527,fix[DndList]: fixed drag bug #1524,5,True,True,2019-01-16T02:18:32Z,2019-01-16T02:18:32Z,0,1,0,1,14,15,29,181.0
+1521,fix[Breadcrumb]: fixed eslint error,5,True,True,2019-01-15T08:36:03Z,2019-01-15T08:36:03Z,0,1,0,1,5,7,12,14.0
+1528,美化侧栏菜单切换按钮,0,True,True,2019-01-16T07:05:12Z,2019-01-16T07:05:12Z,0,2,1,1,2,19,21,11587.0
+1517,fix[ThemePicker]: fixed bug when oldVal is null,5,True,True,2019-01-14T06:07:57Z,2019-01-14T06:07:57Z,0,1,0,1,2,1,3,23.0
+1494,Add sidebar width to variables.scss,96,True,True,2019-01-11T07:37:59Z,2019-01-11T07:37:59Z,0,2,1,2,11,9,20,486034.0
+1505,Typo fixed in the README,0,True,True,2019-01-10T02:05:18Z,2019-01-10T02:05:18Z,0,2,0,1,1,1,2,54208.0
+1374,add tui.editor,0,True,True,2018-11-28T03:05:42Z,2018-11-28T03:05:42Z,0,1,0,4,166,102,268,982.0
+1469,Feature/pdf,0,True,True,2018-12-27T05:42:11Z,2018-12-27T05:42:11Z,0,1,0,16,304,8,312,269.0
+1474,perf[Sidebar]: refine sidebar store #1473,0,True,True,2018-12-28T07:28:27Z,2018-12-28T07:28:27Z,0,1,0,1,4,4,8,19.0
+1460,修改currentTag为中间tag时查询前后tag的方式,189,True,True,2018-12-26T06:02:44Z,2018-12-26T06:02:44Z,0,2,1,1,4,17,21,71202.0
+1428,Add <el-form-item> wrapper for validate,28,True,True,2018-12-20T06:49:14Z,2018-12-20T06:49:14Z,0,2,1,1,10,7,17,527030.0
+1382,feat: 编译加速,37,True,False,,2018-12-03T09:11:47Z,0,2,1,1,1,0,1,0
+1355,Update Pagination/index.vue,41,True,True,2018-11-26T10:17:07Z,2018-11-26T10:17:07Z,0,2,1,1,1,0,1,343363.0
+1346,Merge pull request #1 from PanJiaChen/master,5,True,False,,2018-11-20T06:16:05Z,0,1,0,0,0,0,0,0
+1338,Fix use webpack alias instead of hard code src path,0,True,True,2018-11-19T04:43:24Z,2018-11-19T04:43:24Z,0,2,0,3,3,3,6,5227.0
+1304,perf[avatar]:minimize the selected area of avatar on the mobile phone…,102,True,True,2018-11-06T08:11:48Z,2018-11-06T08:11:48Z,0,2,1,1,2,1,3,818.0
+1176,新增标签栏左右移动按钮,0,True,False,,2018-11-06T07:00:51Z,0,3,6,3,377,77,454,0
+1290,fixed bug #1285,20,True,True,2018-11-02T07:07:40Z,2018-11-02T07:07:40Z,2,2,2,2,13,9,22,10054.0
+1267,"feat: perfect migrate to @vue/cli-service, upgrade vue babel version",293,True,True,2018-10-29T05:55:37Z,2018-10-29T05:55:37Z,0,2,5,71,211,893,1104,82421.0
+1232,"feat: perfect migrate to @vue/cli-service, upgrade vue babel version",220,True,False,,2018-10-28T07:04:06Z,0,2,11,70,210,892,1102,0
+1256,fix[TagsView]: fix openMenu boundary display bug,0,True,True,2018-10-25T02:42:19Z,2018-10-25T02:42:19Z,0,1,1,1,13,3,16,58.0
+1249,feature: add drag select component,0,True,True,2018-10-24T08:06:24Z,2018-10-24T08:06:24Z,0,1,0,8,115,0,115,183.0
+1236,add an example of table sorting,0,True,True,2018-10-23T09:04:25Z,2018-10-23T09:04:25Z,0,1,2,1,17,2,19,109030.0
+1230,fix[cssnano]:use official demo of webpack config to avoid temporary b…,286,True,False,,2018-10-23T01:52:46Z,0,2,2,1,10,2,12,0
+1223,fix[TagsView]: fixed tags title bug,211,True,True,2018-10-18T09:15:58Z,2018-10-18T09:15:58Z,0,1,0,1,8,2,10,291.0
+1228,FRONT-1 Added employee ui,0,True,False,,2018-10-19T03:27:58Z,0,1,0,2,346,0,346,0
+1213,add pagination component,0,True,True,2018-10-17T09:39:26Z,2018-10-17T09:39:26Z,0,1,0,5,158,38,196,2167.0
+1195,修改了TagView滚动条的bug和滚动的规则。,88,True,True,2018-10-16T02:56:02Z,2018-10-16T02:56:02Z,0,2,2,2,47,11,58,238479.0
+1194,修复 Mock 导致请求丢失 Cookie 的问题,122,True,True,2018-10-15T05:13:22Z,2018-10-15T05:13:22Z,0,2,0,1,10,0,10,169194.0
+1196,Translate to Spanish in process,0,True,True,2018-10-15T02:10:51Z,2018-10-15T02:10:51Z,0,2,1,5,185,1,186,101634.0
+1148,add pathToRegexp to compile path,0,True,True,2018-09-30T05:45:38Z,2018-09-30T05:45:38Z,0,1,1,2,11,1,12,73808.0
+1144,feature[Excel]: support bookType option,0,True,True,2018-09-29T05:23:01Z,2018-09-29T05:23:01Z,0,1,0,7,122,190,312,70957.0
+1156,优化html模板,22,True,True,2018-10-09T07:23:27Z,2018-10-09T07:23:27Z,0,2,1,3,8,4,12,764397.0
+1167,add: add set tagsview title demo,5,True,True,2018-10-09T06:10:44Z,2018-10-09T06:10:44Z,0,1,0,2,14,1,15,24.0
+1154,Feature/hightlight sidebar,0,True,True,2018-10-08T06:25:12Z,2018-10-08T06:25:12Z,0,1,1,1,3,0,3,683979.0
+1136,解决多个excel导入组件的回调函数问题。,34,True,True,2018-09-27T05:24:38Z,2018-09-27T05:24:38Z,0,2,1,1,5,5,10,2602.0
+1134,fix[Sidebar]: link bug,11,True,True,2018-09-26T09:10:22Z,2018-09-26T09:10:22Z,0,1,0,2,48,12,60,173.0
+995,perf[tagsView]: use el-scrollbar,0,True,True,2018-08-31T06:01:08Z,2018-08-31T06:01:08Z,0,1,0,2,28,40,68,775204.0
+1090,fix[tagsView]: when query is different update tag,5,True,True,2018-09-14T09:59:00Z,2018-09-14T09:59:00Z,0,1,0,2,19,0,19,271346.0
+1046,[Feature]:add a redirect url when not logged in ,15,True,True,2018-09-07T09:15:47Z,2018-09-07T09:15:47Z,0,1,0,2,13,3,16,268338.0
+1096,refactor svg icons,76,True,True,2018-09-17T05:07:12Z,2018-09-17T05:07:12Z,0,1,0,45,72,50,122,429733.0
+1111,fixed: sidebar has no children bug,0,True,True,2018-09-17T08:20:35Z,2018-09-17T08:20:35Z,0,1,0,1,19,4,23,366.0
+1067,switch roles will refresh the sidebar correctly,135,True,True,2018-09-17T09:46:21Z,2018-09-17T09:46:21Z,0,2,1,2,16,12,28,871945.0
+1110,fix 多余的 +,0,True,False,,2018-09-17T08:02:16Z,0,2,1,1,1,1,2,0
+1081,fix: table style bug in mini size option,5,True,True,2018-09-10T03:13:09Z,2018-09-10T03:13:09Z,0,1,1,1,2,2,4,17.0
+1065,perf  style in mobile mode,0,True,True,2018-09-07T09:03:40Z,2018-09-07T09:03:40Z,0,1,0,8,39,29,68,20874.0
+1059,修改tags刷新按钮可能有缓存的问题,66,True,True,2018-09-11T05:39:18Z,2018-09-11T05:39:18Z,0,2,2,2,9,6,15,413723.0
+1024,Feature: add global size option,0,True,True,2018-08-29T07:24:47Z,2018-08-29T07:24:47Z,0,2,6,11,112,6,118,1271.0
+1055,修正Tags点击刷新按钮页面仍可能被缓存的问题,65,True,False,,2018-09-07T09:04:11Z,0,2,4,4,273,199,472,0
+1058,docs: add links to vue-typescript-admin-template,0,True,True,2018-09-06T09:38:12Z,2018-09-06T09:38:12Z,0,2,0,2,2,0,2,345.0
+1047,fix poor naming formats and typo in UploadExcel component,0,True,True,2018-09-04T10:09:02Z,2018-09-04T10:09:02Z,0,2,1,1,11,9,20,1803.0
+1032,refactor tagsView store,0,True,True,2018-08-31T08:00:29Z,2018-08-31T08:00:29Z,0,1,0,3,88,26,114,1244.0
+1033,feature: tagsView add refresh,0,True,True,2018-08-31T08:11:05Z,2018-08-31T08:11:05Z,0,1,0,3,12,0,12,409.0
+1045,fix[LineChart]: fixed transitionend bug,5,True,True,2018-09-04T06:40:54Z,2018-09-04T06:40:54Z,0,1,0,1,7,2,9,168.0
+1017,feat: 避免移动端点击 tagsView 触发关闭,142,True,False,,2018-09-03T12:48:52Z,0,2,5,2,5,2,7,0
+1025,更新,7,True,False,,2018-08-29T08:56:42Z,0,2,0,2,1,9,10,0
+991,feature: [sidebar] add external-link,0,True,True,2018-08-24T02:06:10Z,2018-08-24T02:06:10Z,0,1,0,6,68,15,83,231915.0
+1018,chore: remove vue-multiselect,108,True,True,2018-08-28T01:59:19Z,2018-08-28T01:59:19Z,0,2,0,2,1,4,5,31910.0
+1011,3.8.0,0,True,False,,2018-08-25T18:21:18Z,0,1,0,2,2,1,3,0
+994,当修改管理台语言的时候，富文本语言也变化,0,True,True,2018-08-22T06:42:12Z,2018-08-22T06:42:12Z,0,2,1,1,15,1,16,907.0
+993,当修改 管理台语言的时候，富文本语言也变化,0,True,False,,2018-08-22T04:12:21Z,0,2,2,1,15,1,16,0
+983,Merge pull request #1 from PanJiaChen/master,16,True,False,,2018-08-20T08:05:50Z,0,1,0,0,0,0,0,0
+889,update to webpack4,0,True,True,2018-08-15T07:33:35Z,2018-08-15T07:33:35Z,0,2,1,12,284,248,532,2323814.0
+926,界面美化,11,True,False,,2018-08-19T08:58:30Z,0,2,2,9,72,54,126,0
+976,add: eslint-plugin-vue ,0,True,True,2018-08-19T08:55:25Z,2018-08-19T08:55:25Z,0,1,0,124,1327,1082,2409,170958.0
+979,有问题想请教一下大佬  ,56,True,False,,2018-08-18T06:23:49Z,0,3,1,5,5,5,10,0
+975,fix misspelling,0,True,True,2018-08-17T10:03:54Z,2018-08-17T10:03:54Z,0,2,1,1,1,1,2,2587.0
+973,Merge pull request #1 from PanJiaChen/master,7,True,False,,2018-08-16T20:34:24Z,0,1,0,0,0,0,0,0
+969,Merge pull request #1 from PanJiaChen/master,2,True,False,,2018-08-16T08:31:34Z,0,2,1,0,0,0,0,0
+965,typo fix,12,True,True,2018-08-15T06:51:09Z,2018-08-15T06:51:09Z,0,2,0,3,6,6,12,392.0
+949,fixBug[waves.js]-wave's position,0,True,True,2018-08-13T05:45:06Z,2018-08-13T05:45:06Z,0,2,1,1,2,2,4,332570.0
+931,Merge pull request #1 from PanJiaChen/master,6,True,False,,2018-08-03T02:14:12Z,0,1,1,0,0,0,0,0
+921,setLocalStorgae  to setLocalStorage,35,True,False,,2018-07-30T01:49:04Z,0,2,1,1,7,7,14,0
+914,add hello,22,True,False,,2018-07-26T03:25:43Z,0,2,0,1,1,0,1,0
+913,state.cachedViews.slice error,71,True,True,2018-07-25T09:20:33Z,2018-07-25T09:20:33Z,0,2,5,1,1,1,2,17080.0
+894,Spelling mistakes setLocalStorgae -> setLocalStorage（单词拼写错误）,41,True,True,2018-07-20T08:02:39Z,2018-07-20T08:02:39Z,0,2,0,1,7,7,14,565.0
+818,chore:  add lint-staged,0,True,True,2018-07-03T08:31:30Z,2018-07-03T08:31:30Z,0,1,0,1,10,1,11,345579.0
+843,perf/style,0,True,True,2018-07-06T03:19:54Z,2018-07-06T03:19:54Z,0,1,0,9,57,30,87,517.0
+878,add file type check,10,True,True,2018-07-17T05:30:53Z,2018-07-17T05:30:53Z,0,1,0,1,8,0,8,56.0
+845,refactor(SidebarItem): optimizate SidebarItem,12,True,True,2018-07-13T03:23:06Z,2018-07-13T03:23:06Z,0,2,9,16,113,51,164,512920.0
+858,fix[excel]: default filename bug && format code,0,True,True,2018-07-11T06:16:29Z,2018-07-11T06:16:29Z,0,1,0,3,330,283,613,109.0
+856,修正README.zh-CN.md,0,True,True,2018-07-10T16:18:35Z,2018-07-10T16:18:35Z,0,2,0,1,1,1,2,3762.0
+841,调整span,41,True,True,2018-07-06T02:07:44Z,2018-07-06T02:07:44Z,0,2,0,1,3,3,6,45049.0
+789,add nested routes example,0,True,True,2018-06-21T06:26:26Z,2018-06-21T06:26:26Z,0,1,0,7,61,0,61,229.0
+799,chore: use Runtime-only,43,True,True,2018-06-25T03:17:48Z,2018-06-25T03:17:48Z,0,1,0,2,1,3,4,676.0
+798,fix: typo in readme,0,True,True,2018-06-25T02:09:20Z,2018-06-25T02:09:20Z,0,2,0,1,1,1,2,25802.0
+713,refactor example demo,0,True,True,2018-05-30T07:25:09Z,2018-05-30T07:25:09Z,0,1,1,32,376,209,585,91745.0
+784,fix typo,0,True,True,2018-06-19T09:53:31Z,2018-06-19T09:53:31Z,0,2,0,1,1,1,2,3200.0
+768, fix[TagView-component]: loss route querystring when operating tags,45,True,True,2018-06-13T08:57:08Z,2018-06-13T08:57:08Z,0,2,2,1,3,3,6,85728.0
+765,Support route querystring in layout TagView,125,True,True,2018-06-12T05:53:56Z,2018-06-12T05:53:56Z,0,2,1,2,3,5,8,5157.0
+747,Fix typo,0,True,True,2018-06-07T05:26:11Z,2018-06-07T05:26:11Z,0,2,0,1,1,1,2,7394.0
+546,with `hard-source-webpack-plugin` on running build:prod task,0,True,False,,2018-06-05T14:53:33Z,0,1,0,5,54,29,83,0
+723,Upgrade vue-loader,114,True,True,2018-05-31T02:08:01Z,2018-05-31T02:08:01Z,0,3,2,1,1,1,2,1883.0
+732,"fix(Tinymce): When content is null,set content to '' to avoid error",168,True,True,2018-06-01T07:38:09Z,2018-06-01T07:38:09Z,1,2,3,1,2,1,3,4036.0
+710,Feature/form,0,True,False,,2018-05-29T02:05:16Z,0,2,0,23,247,149,396,0
+708,增加商城管理-店铺管理,12,True,False,,2018-05-28T13:18:43Z,0,3,0,302,4373,14981,19354,0
+707,Add guide page #534,15,True,True,2018-05-28T06:36:07Z,2018-05-28T06:36:07Z,0,1,0,9,111,0,111,288.0
+677,Facebook instant messenger,81,True,False,,2018-05-16T02:15:28Z,0,2,1,12,180,109,289,0
+646,refactor[ScrollBar]: use el-scrollbar,0,True,True,2018-05-05T07:26:09Z,2018-05-05T07:26:09Z,0,1,0,4,49,79,128,109.0
+653,feature[permission]: add v-permission,0,True,True,2018-05-08T14:15:34Z,2018-05-08T14:15:35Z,0,1,0,9,163,40,203,86.0
+636,feat[sidebar]: add responsive sidebar,0,True,True,2018-05-02T06:43:20Z,2018-05-02T06:43:20Z,0,1,0,5,104,4,108,41.0
+622,siderbar 样式影响了普通导航栏样式,62,True,True,2018-05-02T02:27:48Z,2018-05-02T02:27:48Z,1,3,0,1,2,2,4,590282.0
+597,feature: add drag dialog,0,True,True,2018-04-13T05:32:53Z,2018-04-13T05:32:53Z,0,2,2,6,106,1,107,30.0
+634, Fix tinymce component input watch wrong,52,True,False,,2018-04-30T07:06:20Z,0,1,0,1,2,1,3,0
+596,Update to Element ui@2.3.0,53,True,True,2018-04-13T02:23:05Z,2018-04-13T02:23:05Z,0,1,0,4,40,57,97,16.0
+625,feat: add draggable kanban using vuedraggable,0,True,True,2018-04-25T14:05:08Z,2018-04-25T14:05:08Z,0,2,1,6,162,2,164,9130.0
+618,feat: add drag kanban component demo,0,True,False,,2018-04-23T08:06:31Z,0,2,5,5,215,1,216,0
+604,Merge pull request #1 from PanJiaChen/master,5,True,False,,2018-04-18T02:59:30Z,0,1,0,0,0,0,0,0
+591,Test,0,True,False,,2018-04-11T15:36:41Z,0,2,0,2,3,3,6,0
+585,[bug]: 修复401页面dialog里的动图在小屏不居中,0,True,True,2018-04-11T02:05:36Z,2018-04-11T02:05:36Z,0,2,0,1,1,0,1,42086.0
+578,更新url地址,18,True,True,2018-04-09T01:39:05Z,2018-04-09T01:39:05Z,0,2,0,1,1,1,2,1753.0
+571,fix[BackToTop]: 数组/对象的默认值应当由一个工厂函数返回。,0,True,True,2018-04-06T04:40:58Z,2018-04-06T04:40:58Z,0,2,0,1,10,8,18,9144.0
+536,perf[excel]: refactor excel,94,True,True,2018-03-26T05:54:20Z,2018-03-26T05:54:20Z,0,1,0,3,59,33,92,1002.0
+524,修改判断token是否存在的写法。,360,True,False,,2018-03-21T03:19:22Z,0,2,1,1,3,3,6,0
+518,fix: change in operation to Object.keys,0,True,True,2018-03-20T09:27:42Z,2018-03-20T09:27:42Z,0,2,5,1,13,17,30,80746.0
+522,fix: change tab char to 2 spaces,0,True,True,2018-03-20T09:21:39Z,2018-03-20T09:21:39Z,0,2,0,17,799,799,1598,20783.0
+523,修改判断token是否存在的写法。,361,True,False,,2018-03-20T09:20:54Z,0,1,0,1,3,3,6,0
+507,fix: misplaced script tag,83,True,True,2018-03-14T05:13:59Z,2018-03-14T05:13:59Z,0,2,0,1,1,1,2,2507.0
+476,rename,5,True,True,2018-03-01T03:43:47Z,2018-03-01T03:43:47Z,0,2,0,1,1,1,2,4489.0
+464,remove .sync,97,True,False,,2018-02-22T10:37:50Z,0,2,1,1,1,1,2,0
+451,优化侧边菜单栏子菜单只有一个需要显示时，还需展开的问题,43,True,False,,2018-02-02T10:43:57Z,0,2,6,1,13,2,15,0
+437,Merge pull request #1 from PanJiaChen/master,4,True,False,,2018-01-30T08:46:37Z,0,1,0,0,0,0,0,0
+431,1.fix bug,83,True,True,2018-01-30T01:58:26Z,2018-01-30T01:58:26Z,0,2,1,5,24,13,37,44322.0
+355,refactor[core]: use webpack-dev-server now ,40,True,True,2017-12-15T06:07:55Z,2017-12-15T06:07:55Z,0,1,0,30,737,579,1316,146.0
+381,Feat/en,0,True,True,2017-12-29T08:07:43Z,2017-12-29T08:07:43Z,0,1,0,61,901,779,1680,576.0
+422,修改treeTable相关,53,True,True,2018-01-24T02:33:05Z,2018-01-24T02:33:05Z,1,2,0,3,25,15,40,1297.0
+415,增加treeTable,23,True,True,2018-01-23T06:44:48Z,2018-01-23T06:44:48Z,0,2,2,9,529,1,530,325306.0
+419,refactoring deepClone,0,True,False,,2018-01-22T02:45:16Z,0,2,2,1,1,14,15,0
+403,更新代码,0,True,False,,2018-01-16T14:02:38Z,0,1,0,2,2,1,3,0
+368,修复store中删除缓存的bug,256,True,True,2017-12-22T02:29:47Z,2017-12-22T02:29:47Z,0,3,2,1,1,1,2,660.0
+373,Feat/en,0,True,True,2017-12-25T07:49:53Z,2017-12-25T07:49:53Z,0,1,0,9,190,111,301,21.0
+343,refine tagview,64,True,True,2017-12-13T09:43:03Z,2017-12-13T09:43:03Z,1,2,0,2,200,109,309,114505.0
+344,fix[scrollPane&&scrollBar]:fixed scroll bug in Firefox #340,0,True,True,2017-12-12T05:28:34Z,2017-12-12T05:28:34Z,0,1,0,2,12,10,22,178.0
+261,fix: 子菜单项设置 noDropdown = true，仍会显示孙菜单项,0,True,False,,2017-11-29T06:27:45Z,0,3,5,1,1,1,2,0
+341,refine tagView and scrollPane,177,True,False,,2017-12-12T01:55:02Z,0,2,2,3,228,87,315,0
+315,tag右键菜单，tagview滚动条显示,30,True,False,,2017-12-11T06:52:59Z,0,1,0,3,196,54,250,0
+337,get real version from node_modules,120,True,True,2017-12-08T03:49:35Z,2017-12-08T03:49:35Z,0,2,1,2,1,8,9,1073.0
+300,Refacor/3.0,0,True,True,2017-11-29T02:07:49Z,2017-11-29T02:07:49Z,0,2,0,159,3597,2280,5877,54616.0
+312,首页todolist footer 处选项位置重置,0,True,False,,2017-12-04T06:32:04Z,0,2,2,2,4,6,10,0
+314,Merge pull request #1 from PanJiaChen/master,4,True,False,,2017-12-01T01:58:47Z,0,2,0,0,0,0,0,0
+306,index首页代码修改,33,True,True,2017-11-30T07:46:42Z,2017-11-30T07:46:42Z,0,2,1,1,4,5,9,2092.0
+303,增加右键tag显示关闭选项的功能,0,True,False,,2017-11-30T01:11:00Z,0,2,3,2,89,2,91,0
+302,gengxin,0,True,False,,2017-11-29T08:34:20Z,0,2,1,9,91,137,228,0
+289,add form validation demo,25,True,False,,2017-11-29T06:27:33Z,0,2,1,3,114,2,116,0
+291,Merge pull request #1 from PanJiaChen/master,2,True,False,,2017-11-29T06:27:23Z,0,2,1,0,0,0,0,0
+233,Feature/refine build config,0,True,True,2017-09-29T08:31:45Z,2017-09-29T08:31:45Z,0,1,0,9,74,64,138,9531.0
+298,refacor v3.0.0,0,True,False,,2017-11-28T10:49:19Z,0,1,0,0,0,0,0,0
+285,add validate email method,0,True,True,2017-11-15T07:37:51Z,2017-11-15T07:37:51Z,0,2,1,1,10,0,10,602.0
+256,fix: fix undone NProgress in hash mode,75,True,True,2017-10-23T02:22:44Z,2017-10-23T02:22:44Z,0,2,1,1,2,0,2,158787.0
+258,Merge pull request #1 from PanJiaChen/master,2,True,False,,2017-10-23T01:33:16Z,0,2,0,0,0,0,0,0
+240,fix `undefined` bug in export excel,0,True,True,2017-10-12T08:46:50Z,2017-10-12T08:46:50Z,0,2,0,1,6,2,8,1248.0
+239,export adaptive colwidth in excel,32,True,True,2017-10-12T07:36:57Z,2017-10-12T07:36:57Z,0,2,1,2,21,3,24,4846.0
+237,update,0,True,False,,2017-10-09T05:52:59Z,0,4,0,50,586,303,889,0
+227,refine:set icon-class to english,0,True,True,2017-09-25T09:31:24Z,2017-09-25T09:31:24Z,0,1,0,30,24,25,49,631.0
+229,Feature/clipboard,0,True,True,2017-09-27T02:18:42Z,2017-09-27T02:18:42Z,0,1,0,8,163,2,165,84.0
+228,add export2zip function,0,True,True,2017-09-27T02:18:25Z,2017-09-27T02:18:25Z,0,2,0,7,199,1,200,73114.0
+226,MDinput组件修改,64,True,True,2017-09-25T03:11:38Z,2017-09-25T03:11:38Z,0,2,1,2,286,275,561,39106.0
+217,修改MDinput组件,69,True,False,,2017-09-22T06:18:03Z,0,2,3,7,383,349,732,0
+201,与 vue-cli webpack 模板不一致,0,True,True,2017-09-08T07:53:11Z,2017-09-08T07:53:11Z,0,2,1,1,2,2,4,936.0
+132,'新增功能：返回顶部',0,True,True,2017-07-17T10:01:10Z,2017-07-17T10:01:10Z,0,3,2,3,268,1,269,8634.0
+199,fix blocked by AdBlock,0,True,True,2017-09-07T02:35:37Z,2017-09-07T02:35:37Z,0,2,0,1,4,4,8,82.0
+195,:memo: typing fix,12,True,True,2017-09-06T02:20:32Z,2017-09-06T02:20:32Z,0,2,1,1,1,1,2,712.0
+179,Feature/new iconfont,0,True,True,2017-08-29T10:05:36Z,2017-08-29T10:05:36Z,0,1,0,33,128,10,138,32.0
+176,Refactor,0,True,True,2017-08-28T05:18:37Z,2017-08-28T05:18:37Z,0,1,0,120,4003,4304,8307,30.0
+188,fix a typo,0,True,True,2017-09-05T05:53:25Z,2017-09-05T05:53:25Z,0,2,2,1,1,1,2,1114.0
+155,fix dashboard button router-link bug,0,True,True,2017-08-10T09:25:20Z,2017-08-10T09:25:20Z,0,2,0,1,1,1,2,1333.0
+146,Feature/new navbar,0,True,True,2017-07-28T09:19:41Z,2017-07-28T09:19:41Z,0,1,0,10,255,248,503,129.0
+145,Feature/bump deps,0,True,False,,2017-07-28T09:18:02Z,0,3,0,20,377,257,634,0
+142,fix selectExcel bug,18,True,True,2017-07-27T04:20:05Z,2017-07-27T04:20:05Z,0,2,5,1,16,9,25,6314.0
+140,add new export-excel function,21,True,True,2017-07-25T09:26:17Z,2017-07-25T09:26:17Z,0,2,1,2,86,2,88,1926.0
+139,fixed: catch 'GetInfo' exception,25,True,True,2017-07-25T08:19:10Z,2017-07-25T08:19:10Z,0,2,0,1,4,0,4,1113.0
+136,Add license scan report and status,224,True,False,,2017-07-20T07:30:29Z,0,2,1,1,4,0,4,0
+96,add view tabs,0,True,True,2017-06-23T09:36:14Z,2017-06-23T09:36:14Z,0,1,0,3,39,1,40,45.0
+128,refine tab-views,0,True,True,2017-07-14T09:40:35Z,2017-07-14T09:40:35Z,0,1,0,2,4,2,6,152.0
+109,Feature/new dashboard,0,True,True,2017-07-03T04:45:32Z,2017-07-03T04:45:32Z,0,1,0,19,1135,626,1761,46.0
+117,correct README errors,14,True,True,2017-07-07T03:25:43Z,2017-07-07T03:25:43Z,0,2,1,1,7,7,14,605.0
+111,todolist 删除图标垂直居中,4,True,True,2017-07-03T12:23:24Z,2017-07-03T12:23:24Z,0,2,1,1,0,1,1,4711.0
+102,prevent JSON.parse fault when search is undefined,80,True,True,2017-07-03T05:26:58Z,2017-07-03T05:26:58Z,0,3,5,1,4,1,5,419237.0
+98,修复history模式 生产环境下资源目录异常,40,True,False,,2017-06-26T02:06:23Z,0,2,1,1,2,2,4,0
+97,修复history模式 生产环境 加载资源目录错误,52,True,False,,2017-06-25T06:09:23Z,0,1,1,1,2,2,4,0
+95,递归过滤异步路由表,13,True,True,2017-06-23T07:25:59Z,2017-06-23T07:25:59Z,0,2,1,1,26,17,43,2189.0
+92,not use Lazy Loading In dev,0,True,True,2017-06-21T08:59:03Z,2017-06-21T08:59:03Z,0,1,0,3,40,35,75,22.0
+88,千分符考虑小数点,0,True,True,2017-06-20T07:44:15Z,2017-06-20T07:44:15Z,0,2,1,1,4,1,5,5527.0
+75,add markdown to html,0,True,True,2017-06-12T07:25:57Z,2017-06-12T07:25:57Z,0,1,0,2,13,1,14,341237.0
+81,hide sidebar scrollbar,80,True,False,,2017-06-13T08:53:23Z,0,2,1,1,6,1,7,0
+27,update package.json,0,True,False,,2017-05-16T05:39:42Z,0,1,0,1,6,6,12,0
+51,Feature/service,0,True,True,2017-05-16T02:44:56Z,2017-05-16T02:44:56Z,0,1,0,20,190,262,452,15.0
+56,使用addRoutes重构权限,0,True,True,2017-05-17T08:27:13Z,2017-05-17T08:27:13Z,0,1,0,10,191,192,383,29.0
+59,Update English README,0,True,True,2017-05-22T15:15:47Z,2017-05-22T15:15:47Z,0,2,0,1,10,13,23,1412.0
+57,别字,0,True,True,2017-05-18T08:05:31Z,2017-05-18T08:05:31Z,0,2,0,2,2,2,4,5449.0
+52,Add Wiki link,0,True,True,2017-05-16T05:16:19Z,2017-05-16T05:16:19Z,0,2,0,1,5,2,7,838.0
+42,Add README in English,0,True,True,2017-05-12T05:51:26Z,2017-05-12T05:51:26Z,0,2,1,1,156,0,156,491.0
+47,Update index.js,8,True,True,2017-05-15T09:32:11Z,2017-05-15T09:32:11Z,0,2,0,1,1,1,2,9274.0
+43,ADD LICENSE,0,True,True,2017-05-12T05:47:16Z,2017-05-12T05:47:16Z,0,1,0,1,21,0,21,13.0
+41,Add README in English,40,True,False,,2017-05-12T05:35:58Z,0,1,0,1,156,0,156,0
+33,Feature/inline edit table,0,True,True,2017-05-09T10:49:28Z,2017-05-09T10:49:28Z,0,1,0,3,101,3,104,21.0
+32,add sort table,0,True,True,2017-05-09T07:06:09Z,2017-05-09T07:06:09Z,0,1,0,4,138,218,356,52.0
+34,更新node-sass和增加跨平台执行npm run build的环境变量问题,59,True,True,2017-05-10T02:52:49Z,2017-05-10T02:52:49Z,0,2,0,1,5,4,9,3329.0
+3,Init,0,True,True,2017-04-25T05:54:35Z,2017-04-25T05:54:35Z,0,1,0,169,42950,4,42954,26.0
+15,refine table example,0,True,True,2017-04-27T14:57:59Z,2017-04-27T14:57:59Z,0,1,0,2,12,2,14,53.0
+13,fix: fix case sensitivity on Linux,204,True,True,2017-04-27T07:20:25Z,2017-04-27T07:20:25Z,0,2,1,2,133,143,276,615.0

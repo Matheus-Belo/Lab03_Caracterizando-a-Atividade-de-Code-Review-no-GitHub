@@ -1,0 +1,842 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+1858,Feature/a,0,True,False,,2024-01-24T09:48:21Z,0,1,0,1,1,65,66,0
+1857,"Ch3 ""Objects-Classes"" getX() should return 3, not 21",922,True,False,,2024-01-12T22:47:04Z,0,2,1,1,37,17,54,0
+1856,Typo fix for lessThen method,816,True,True,2023-12-26T20:46:57Z,2023-12-26T20:46:57Z,0,2,1,1,1,1,2,2434.0
+1852,change 2ed-zh-CN CONTRIBUTING link to Chinese version,53,True,True,2023-11-24T02:16:45Z,2023-11-24T02:16:45Z,0,4,0,1,1,1,2,30.0
+1851,"Complete the Chinese translation of ""get-started"" and ""scope-closures""",72,True,True,2023-11-24T02:06:53Z,2023-11-24T02:06:54Z,0,4,0,32,2492,2637,5129,22.0
+1843,"Reordering of ""Why Closure?"" and ""An Alternative Perspective"" in the toc",912,True,True,2023-11-23T16:54:46Z,2023-11-23T16:54:46Z,0,2,1,1,1,1,2,4717519.0
+1850,added comma to prevent syntax error in code snippet,1732,True,True,2023-11-23T01:58:54Z,2023-11-23T01:58:54Z,0,3,2,1,1,1,2,67124.0
+1846,5-base proposition numenclature,773,True,False,,2023-10-20T18:39:21Z,0,3,2,1,1,1,2,0
+1836,Fixed spelling errors within documentation,182,True,True,2023-07-18T21:51:23Z,2023-07-18T21:51:23Z,0,2,2,9,35,35,70,86801.0
+1834,remove annoying prompts ,13,True,False,,2023-07-12T10:05:10Z,0,24,0,66,8299,8373,16672,0
+1820,Update foreword.md,663,True,True,2023-07-12T10:01:37Z,2023-07-12T10:01:37Z,2,3,0,1,1,1,2,14018726.0
+1833,Try to remove annoying prompts,112,True,False,,2023-07-07T06:21:13Z,0,23,0,66,8299,8373,16672,0
+1746,typo,0,True,True,2023-07-07T05:50:33Z,2023-07-07T05:50:33Z,1,3,0,1,1,1,2,63146852.0
+1832,Add simplified Chinese translation to the 2ed book 1 'Get Started',684,True,True,2023-07-07T03:57:40Z,2023-07-07T03:57:40Z,0,2,0,10,1038,1083,2121,8485.0
+1830,Code fix,752,True,False,,2023-06-11T10:45:51Z,0,2,1,1,1,1,2,0
+1829,Update foreword.md,663,True,False,,2023-06-06T14:14:34Z,0,1,0,1,1,1,2,0
+1827,asdasdas ,26,True,False,,2023-05-12T14:49:30Z,0,19,0,166,18189,31699,49888,0
+1824,Update ch3.md,373,True,False,,2023-03-24T08:38:02Z,0,2,4,1,1,1,2,0
+1823,Update ch1.md,681,True,False,,2023-03-15T09:41:08Z,1,2,0,1,4,3,7,0
+1822,typo - coeced -> coerced,663,True,False,,2023-03-02T17:55:16Z,0,1,0,1,1,1,2,0
+1808,fix typos,234,True,True,2022-10-23T13:09:44Z,2022-10-23T13:09:44Z,1,4,1,11,17,17,34,3485604.0
+1821,update,663,True,False,,2023-02-06T04:08:54Z,0,1,1,0,0,0,0,0
+1819,2nd-ed,673,True,False,,2023-01-29T16:26:21Z,0,2,0,94,118,31726,31844,0
+1815,1st edition,663,True,False,,2023-01-05T06:16:38Z,0,2,0,14,67,120,187,0
+603,Add: note about type names,83,True,False,,2022-11-14T09:18:29Z,0,2,5,1,2,0,2,0
+1811,fix(typo): add missing 'var' to code snippet,1116,True,False,,2022-10-25T20:37:26Z,0,2,1,1,1,1,2,0
+1191,"Avoid use of ""obviously"" in Types & Grammar intro",339,True,False,,2022-10-23T04:00:54Z,0,2,1,1,1,1,2,0
+1807,Update ch1.md,757,True,False,,2022-09-11T13:24:44Z,0,2,1,1,1,1,2,0
+1806,Added bigint example in value type determination,137,True,False,,2022-09-07T19:29:50Z,0,2,1,1,1,0,1,0
+1805,Update ch1.md,150,True,True,2022-09-06T12:14:01Z,2022-09-06T12:14:01Z,0,2,1,1,1,1,2,12249.0
+1803,Correct 'forwards' to 'backwards',247,True,False,,2022-08-31T14:18:51Z,0,4,7,1,1,1,2,0
+1802,fix: word redundancy,817,True,True,2022-08-24T04:51:59Z,2022-08-24T04:51:59Z,0,2,1,1,1,1,2,1029.0
+1798,Add foreward for Objects & Classes,100,True,True,2022-08-08T19:17:22Z,2022-08-08T19:17:22Z,0,2,0,1,13,3,16,865464.0
+1796,changing repititive wording,87,True,False,,2022-07-16T17:24:47Z,0,2,1,1,1,1,2,0
+1794,Update ch4.md,732,True,False,,2022-05-20T06:39:00Z,0,2,4,1,1,1,2,0
+1788,Appendix B - Modules,2,True,False,,2022-03-23T03:01:55Z,0,4,1,10,1199,1197,2396,0
+1785,fix function capitalization in apA.md,567,True,True,2022-03-09T22:02:21Z,2022-03-09T22:02:21Z,0,2,0,1,6,6,12,7010.0
+1778,Fix typo,663,True,False,,2022-01-30T20:40:34Z,0,1,0,1,1,1,2,0
+1777,Object.entries(myObj) typo,359,True,True,2022-01-26T15:07:23Z,2022-01-26T15:07:23Z,0,2,0,1,1,1,2,10829.0
+1775,Update ch2.md,663,True,False,,2022-01-09T02:47:39Z,0,2,1,1,5,4,9,0
+1772,fix: statement for Map keys,867,True,False,,2021-12-28T08:29:14Z,0,1,0,1,1,1,2,0
+1771,Statement clarification to make it more complete,778,True,False,,2021-12-28T08:22:18Z,0,1,0,1,1,1,2,0
+1760,get started: fixing some typos,0,True,False,,2021-09-23T13:46:34Z,0,4,6,1,9,9,18,0
+1762,replaced 2020 with 2021 for license & copyright,173,True,False,,2021-10-05T22:32:17Z,0,3,3,1,1,1,2,0
+1758,Remove the phrase that was repeated twice,0,True,False,,2021-09-17T05:10:37Z,0,2,2,1,1,1,2,0
+1743,fix: typo in example code & some minor ones,646,True,False,,2021-08-26T15:05:59Z,1,3,1,1,7,7,14,0
+1378,Spanish translation,93,True,False,,2018-11-14T21:10:29Z,0,6,12,1,22,21,43,0
+1745,test,0,True,False,,2021-06-29T19:18:28Z,0,1,0,1,24,22,46,0
+1739,Update ch2.md,663,True,False,,2021-05-28T20:02:35Z,0,2,0,1,1,1,2,0
+1738,Minor changes to the README,139,True,False,,2021-05-28T01:03:37Z,0,1,1,1,69,20,89,0
+1735,fix: correting typos and grammar structure,294,True,False,,2021-05-10T16:09:20Z,0,2,1,1,36,36,72,0
+1731,Ch1.md - Hoisting : Program doesn't produce error as mentioned in book and in fact hoists and return output.,356,True,False,,2021-05-01T21:06:38Z,0,2,1,1,8,7,15,0
+1728,Fix grammar error (extra word),432,True,False,,2021-03-22T20:10:06Z,0,2,2,1,1,1,2,0
+1726,1st ed,663,True,False,,2021-02-08T15:29:01Z,0,2,1,16,73,126,199,0
+1724,fix typo,663,True,False,,2021-02-08T13:19:17Z,0,2,1,1,1,1,2,0
+1725,1st ed,663,True,False,,2021-02-08T13:18:09Z,0,2,0,2,5,5,10,0
+1722,"One "" too many :) (came across it while reading the guide)",663,True,False,,2021-02-01T16:52:08Z,0,2,1,1,1,1,2,0
+1720,add book 1 translation into Ukrainian,846,True,True,2021-01-07T16:23:03Z,2021-01-07T16:23:03Z,2,2,2,10,815,810,1625,107582.0
+1718,*.png's for dark-mode,890,True,False,,2020-12-30T17:33:47Z,0,2,1,1,3,3,6,0
+1707,Update ch2.md,663,True,False,,2020-10-25T20:05:51Z,0,2,1,1,1,1,2,0
+1704,1ed zh cn,715,True,False,,2020-10-09T14:22:49Z,0,23,0,66,8299,8373,16672,0
+1705,Hello Master,663,True,False,,2020-10-09T14:22:35Z,0,2,0,94,118,31726,31844,0
+1698,Update Ch8. Custom Change Events section. Fix calc,1010,True,False,,2020-09-20T19:56:42Z,0,2,2,1,2,2,4,0
+1696,Update apB.md,1141,True,False,,2020-09-20T19:57:40Z,0,2,3,1,44,46,90,0
+1337,1ed zh cn,93,True,False,,2019-08-28T16:16:41Z,0,22,1,66,8299,8373,16672,0
+1694,Remove dead link in foreword of Up and Going (1st),678,True,False,,2020-09-07T12:28:32Z,0,2,1,1,1,1,2,0
+1681,1st ed,663,True,False,,2020-07-22T10:27:48Z,0,2,0,14,51,90,141,0
+1688,《第一章：进入编程》错别字修改,676,True,True,2020-08-20T08:39:19Z,2020-08-20T08:39:19Z,0,2,1,1,1,1,2,2440.0
+1686,make books interactive,1001,True,False,,2020-08-13T14:34:50Z,0,2,3,2,13,0,13,0
+1665,Fix grammar,35,True,True,2020-08-06T02:04:52Z,2020-08-06T02:04:53Z,0,2,5,1,3,3,6,8078034.0
+1674,Misplaced punctuation,35,True,False,,2020-07-06T13:33:20Z,0,2,1,1,1,1,2,0
+1007,"Update variable names in ""Promise Value"" section.",471,True,False,,2020-06-16T17:25:03Z,0,3,1,1,1,1,2,0
+1671,added silly message in README file,663,True,False,,2020-05-26T02:18:46Z,0,1,0,1,4,0,4,0
+1668,ch5 correction,163,True,False,,2020-05-14T16:17:08Z,0,2,1,1,1,1,2,0
+1661,Rearrange an order of TOC in get-started,727,True,True,2020-05-01T15:01:46Z,2020-05-01T15:01:46Z,0,2,1,1,1,1,2,29377.0
+1664,Update ch1.md,663,True,False,,2020-05-04T14:10:01Z,0,2,2,1,2,2,4,0
+1660,Adding missing words/ removing extra words.,212,True,False,,2020-04-30T20:15:36Z,0,2,1,1,4,4,8,0
+1658,one word is missing from chapter 6,967,True,True,2020-04-27T14:50:48Z,2020-04-27T14:50:48Z,0,2,1,1,1,1,2,30056.0
+1656,Chapter 3: Correction in string indexOf (edition 1),866,True,False,,2020-04-24T17:06:13Z,0,2,1,1,1,1,2,0
+1650,Update ch1.md,663,True,True,2020-03-27T11:38:51Z,2020-03-27T11:38:51Z,0,2,0,1,1,1,2,3584.0
+1649,Small Change in Chapter 4 (Types and Grammar),320,True,False,,2020-03-27T10:16:52Z,0,2,1,1,2,2,4,0
+1648,Typo: insert omitted 'function' keyword,663,True,True,2020-03-25T16:02:16Z,2020-03-25T16:02:16Z,0,2,1,1,1,1,2,28157.0
+1647,modify: toggle example,1062,True,False,,2020-03-24T14:27:05Z,0,2,3,1,8,13,21,0
+1645,Update README.md,698,True,False,,2020-03-20T21:19:48Z,0,2,0,1,4,4,8,0
+1644,Add links on readme chapters,663,True,False,,2020-03-19T14:35:23Z,0,2,3,1,4,4,8,0
+1643,"Correct typo, thoses => those",663,True,False,,2020-03-17T14:57:40Z,0,1,0,1,1,1,2,0
+1641,scopes-closures ch.5 'let/var' slip,226,True,False,,2020-03-12T21:02:13Z,0,1,0,1,1,1,2,0
+1640,Update ch1.md,707,True,True,2020-03-08T15:58:29Z,2020-03-08T15:58:29Z,0,2,1,1,1,1,2,9181.0
+1639,Update apA.md,738,True,False,,2020-03-04T12:20:21Z,0,2,1,1,1,1,2,0
+1114,Update ch5.md,726,True,False,,2020-03-03T05:38:02Z,1,3,4,1,1,1,2,0
+1638,copyediting appendix b,663,True,False,,2020-03-03T00:01:34Z,0,2,0,1,18,22,40,0
+1637,copyediting appendix a,663,True,False,,2020-03-03T00:01:34Z,0,2,0,1,35,39,74,0
+1636,copyediting chapter 8,663,True,False,,2020-03-03T00:01:34Z,0,2,0,1,16,16,32,0
+1635,copyediting chapter 7,663,True,False,,2020-03-03T00:01:33Z,0,2,0,1,36,36,72,0
+1634,copyediting chapter 6,663,True,False,,2020-03-03T00:01:33Z,0,2,0,1,35,35,70,0
+1633,copyediting chapter 5,663,True,False,,2020-03-03T00:01:33Z,0,2,0,1,31,31,62,0
+1631,copyediting chapter 4,663,True,False,,2020-03-03T00:01:33Z,0,2,0,1,33,37,70,0
+1630,copyediting chapter 3,663,True,False,,2020-03-03T00:01:32Z,0,2,0,1,26,30,56,0
+1629,copyediting chapter 2,663,True,False,,2020-03-03T00:01:32Z,0,2,0,1,31,31,62,0
+1628,copyediting chapter 1,663,True,False,,2020-03-03T00:01:32Z,0,2,0,1,23,23,46,0
+1627,copyediting the foreword,663,True,False,,2020-03-03T00:01:31Z,0,2,0,1,3,3,6,0
+1613,"Babel is making the code ""backwards-compatible"", right?",707,True,False,,2020-02-25T20:24:08Z,0,2,1,1,1,1,2,0
+1601,fix reference to figure 1,235,True,False,,2020-02-15T12:51:22Z,0,2,1,1,2,2,4,0
+1600,generator functions syntax correction,197,True,False,,2020-02-09T01:24:40Z,0,2,1,1,2,2,4,0
+1597,Merge,663,True,False,,2020-01-30T14:37:42Z,0,2,0,94,118,31726,31844,0
+1596,Merge pull request #1 from getify/master,670,True,False,,2020-01-30T14:37:19Z,0,2,0,0,0,0,0,0
+1595,ch3.md minor mispelling,682,True,False,,2020-01-30T05:28:30Z,0,1,0,1,1,1,2,0
+1585,Foreword update on README.md,0,True,False,,2020-01-22T16:55:28Z,1,2,0,1,1,1,2,0
+1572,Fix typo - from 'scope' to 'source'.,337,True,False,,2020-01-22T16:52:16Z,0,1,0,1,1,1,2,0
+1590,Update ch2.md,779,True,False,,2020-01-22T16:50:53Z,0,2,2,1,1,1,2,0
+1591,Update ch4.md,690,True,True,2020-01-22T16:46:51Z,2020-01-22T16:46:51Z,0,2,0,1,1,1,2,182533.0
+1593,multiple pages: fix typos,0,True,False,,2020-01-22T16:44:36Z,0,2,2,5,5,5,10,0
+1592,Update chapter 2,606,True,False,,2020-01-22T12:47:25Z,0,2,1,1,8,8,16,0
+1587,Copyediting Get Started Ch 1,255,True,False,,2020-01-15T07:25:23Z,0,1,0,1,2,2,4,0
+1583,copyediting appendix b,663,True,False,,2020-01-15T07:17:18Z,0,2,0,1,7,7,14,0
+1582,copyediting appendix a,663,True,False,,2020-01-15T07:17:18Z,0,2,0,1,14,14,28,0
+1581,copyediting chapter 4,663,True,False,,2020-01-15T07:17:18Z,0,2,0,1,12,12,24,0
+1580,copyediting chapter 3,663,True,False,,2020-01-15T07:17:18Z,0,2,0,1,19,19,38,0
+1579,copyediting chapter 2,663,True,False,,2020-01-15T07:17:17Z,0,2,0,1,37,37,74,0
+1577,copyediting chapter 1,663,True,False,,2020-01-15T07:17:17Z,0,2,0,1,53,53,106,0
+1576,copyediting the preface,663,True,False,,2020-01-15T07:17:17Z,0,2,0,1,12,12,24,0
+1574,copyediting the foreword,663,True,False,,2020-01-15T07:17:16Z,0,2,0,1,6,6,12,0
+1589,New features: Add gitbook feature( Read IT with gitbook ),613,True,False,,2020-01-13T13:06:34Z,0,2,1,5,283,0,283,0
+1571,Scope and Closures Forward,104,True,True,2020-01-06T23:48:21Z,2020-01-06T23:48:21Z,0,3,1,1,16,3,19,854378.0
+1575,Merge pull request #1 from getify/master,673,True,False,,2020-01-03T10:32:22Z,0,1,0,0,0,0,0,0
+1567,Add a missing period,663,True,False,,2019-12-18T12:28:33Z,0,2,0,1,1,1,2,0
+1566,typo: 'strict mide' should be 'strict mode' ?,211,True,True,2019-12-16T17:16:53Z,2019-12-16T17:16:53Z,0,2,2,1,1,1,2,295584.0
+834,An uncaught TypeError will be thrown,114,True,False,,2019-12-11T20:52:18Z,0,2,3,1,1,1,2,0
+546,Update to preface.md -- more colorful analogy,293,True,False,,2019-12-11T20:48:33Z,0,2,2,1,1,1,2,0
+450,"Edits preface to be more concise and precise - less long sentences, f…",71,True,False,,2019-12-11T20:47:13Z,0,2,9,1,11,11,22,0
+549,ACCESSORY_PRICE conditional logic leads to overdraft,275,True,False,,2019-12-11T20:41:13Z,0,2,1,1,1,1,2,0
+898,Fun to comments,93,True,False,,2019-12-11T20:38:25Z,0,2,2,1,1,1,2,0
+896,Edit Google Traceur url,93,True,False,,2019-12-11T20:37:51Z,0,2,1,1,1,1,2,0
+941,Update ch1.md,51,True,False,,2019-12-11T20:36:19Z,0,2,1,1,2,2,4,0
+974,The full preciseness,9,True,False,,2019-12-11T20:34:34Z,0,2,2,1,1,0,1,0
+1204,Added site reference for null type,109,True,False,,2019-12-11T20:31:33Z,0,2,2,1,1,1,2,0
+785,Update link for Traceur,244,True,False,,2019-12-11T20:26:34Z,0,4,4,1,1,1,2,0
+884,add the function type to typeof examples,201,True,False,,2019-12-11T20:25:10Z,0,3,8,1,1,1,2,0
+1176,Small fix on implicit relation between Strong and Static typing,308,True,False,,2019-12-11T20:24:48Z,1,5,8,1,1,1,2,0
+1564,Grammatical error under prototypes section,40,True,True,2019-12-10T14:53:00Z,2019-12-10T14:53:00Z,0,2,0,1,1,1,2,16043.0
+1559,Typo in Warning section,25,True,True,2019-12-08T19:00:37Z,2019-12-08T19:00:37Z,0,2,1,1,1,1,2,116539.0
+1560,Update ch3.md,4,True,False,,2019-12-07T16:27:24Z,0,2,1,1,1,1,2,0
+1555,2nd ed typos,27,True,True,2019-12-02T13:28:52Z,2019-12-02T13:28:52Z,0,2,2,3,17,17,34,12498.0
+1550,Changed the word belive to believe,169,True,False,,2019-12-02T13:26:59Z,0,2,0,1,1,1,2,0
+1539,Update ch2.md,265,True,False,,2019-12-02T13:27:16Z,1,3,0,1,1,1,2,0
+1547,Missing double quotes,0,True,False,,2019-12-02T13:27:29Z,0,2,0,1,1,1,2,0
+1554,"get started, ch2, much should be must",91,True,False,,2019-12-02T09:40:44Z,0,1,0,1,1,1,2,0
+1546,Update ch1.md,15,True,False,,2019-11-16T07:49:25Z,0,1,0,1,1,1,2,0
+1540,add foreword to Get Started,303,True,True,2019-11-07T16:13:08Z,2019-11-07T16:13:08Z,0,2,1,1,21,3,24,9038.0
+1535,Update README.md,208,True,False,,2019-11-03T09:39:53Z,0,2,0,1,1,1,2,0
+1526,2nd ed,934,True,False,,2019-10-31T03:14:23Z,0,2,3,1,2,2,4,0
+1529,Update ch2.md,285,True,False,,2019-10-31T03:14:40Z,0,2,4,1,1,1,2,0
+1530,Update ch2.md,323,True,True,2019-10-31T03:11:04Z,2019-10-31T03:11:04Z,0,2,0,1,0,2,2,59.0
+1525,Test,88,True,False,,2019-10-21T19:41:48Z,0,2,0,1,1,0,1,0
+1522,"fixed case letter, book es-next-beyond, chapter 2, line 518",123,True,False,,2019-10-21T14:19:09Z,0,2,1,1,1,1,2,0
+1515,Fixes #1281,280,True,False,,2019-10-21T14:17:51Z,0,2,2,1,3,2,5,0
+1518,code snippet changed to have both forms of writing IIFE shown.,738,True,False,,2019-10-21T14:15:45Z,0,2,1,1,1,1,2,0
+1523,Update ch3.md,176,True,False,,2019-10-18T05:03:45Z,0,1,0,1,1,1,2,0
+1521,"fixed case letter, book es6 & beyond, chapter 2, line 498",121,True,False,,2019-10-17T09:19:46Z,0,2,1,1,1,1,2,0
+1519,Merge pull request #1 from getify/master,220,True,False,,2019-10-14T00:50:53Z,0,1,1,0,0,0,0,0
+1513,files,208,True,False,,2019-09-24T15:37:42Z,0,1,0,4,7,575,582,0
+1512,Update ch1.md,208,True,False,,2019-09-11T17:43:43Z,0,2,0,1,1,1,2,0
+1463,minor typo: replace 'not' to 'no' from 'there are not true integers',93,True,False,,2019-08-28T15:56:16Z,0,3,1,1,1,1,2,0
+1511,Outer scopes instead if Nested scopes,1054,True,False,,2019-09-05T15:10:42Z,1,2,2,1,1,1,2,0
+1185,Fix formatting for poem,184,True,False,,2019-08-28T16:27:41Z,0,2,5,1,17,15,32,0
+1507,Update ch1.md,278,True,False,,2019-08-29T19:25:29Z,0,2,1,1,1,1,2,0
+763,Add script to generate TLDR,229,True,False,,2019-08-28T16:31:28Z,0,2,6,2,545,0,545,0
+895,Addition of short description of DELETE operator,142,True,False,,2019-08-28T16:31:00Z,0,3,3,1,3,0,3,0
+1010,Added new truthy example,93,True,False,,2019-08-28T16:30:33Z,0,2,4,1,2,1,3,0
+1128,"fix grammar in ""this & object prototypes"" chap. 4",0,True,False,,2019-08-28T16:30:03Z,0,2,1,1,2,2,4,0
+1129,punctuation typo in types & grammar ch2,35,True,False,,2019-08-28T16:29:40Z,0,2,1,1,1,1,2,0
+1143,Update ch1.md,58,True,False,,2019-08-28T16:29:24Z,0,2,1,1,1,1,2,0
+1152,Cheat Sheet File,445,True,False,,2019-08-28T16:28:56Z,0,2,1,1,11,0,11,0
+1162,this & object prototypes (ch3.md): Fixed output comment,229,True,False,,2019-08-28T16:28:34Z,0,2,4,1,3,1,4,0
+1170,Add missing spaces in statement 'var i=0',108,True,False,,2019-08-28T16:28:03Z,1,3,1,1,1,1,2,0
+1189,fix typos and change translation,0,True,False,,2019-08-28T16:26:53Z,1,3,1,4,10,10,20,0
+1208,[Fix] annotation fixed,85,True,False,,2019-08-28T16:26:34Z,1,3,1,1,2,2,4,0
+1213,add-logical-operator-not,226,True,False,,2019-08-28T16:26:00Z,0,2,1,1,1,1,2,0
+1219,www.es6fiddle.net dose not work,74,True,False,,2019-08-28T16:25:39Z,0,2,2,1,1,1,2,0
+1237,"studying pull, fork , don't mind me.",124,True,False,,2019-08-28T16:25:22Z,0,2,1,1,1,0,1,0
+1240,Update preface.md,107,True,False,,2019-08-28T16:24:39Z,0,2,1,2,45,45,90,0
+1241,Update README.md,55,True,False,,2019-08-28T16:24:16Z,0,2,5,1,25,25,50,0
+1261,Repair link does not appear normal,93,True,False,,2019-08-28T16:23:45Z,0,2,1,1,1,1,2,0
+1269,Added error in example where it should be,87,True,False,,2019-08-28T16:23:26Z,0,2,1,1,1,1,2,0
+1272,`module` keyword isn't a thing,106,True,False,,2019-08-28T16:22:38Z,0,2,5,1,3,3,6,0
+1286,Specify getter/setter's reference variable can't be property name,374,True,False,,2019-08-28T16:22:22Z,1,3,1,1,1,1,2,0
+1287,Swap 'data accessor' with 'data descriptor',685,True,False,,2019-08-28T16:22:00Z,0,2,1,1,1,1,2,0
+1309,change readme,397,True,False,,2019-08-28T16:21:07Z,0,2,1,1,3,3,6,0
+1311,async & performance ch03 'thenalbe' to 'thenable',138,True,False,,2019-08-28T16:20:03Z,0,2,1,1,1,1,2,0
+1315,ch3: clarify what's being iterated over in a classic for loop,607,True,False,,2019-08-28T16:19:45Z,0,2,3,1,2,2,4,0
+1450,Mentioned book orders to read.,295,True,False,,2019-08-28T16:00:29Z,0,3,4,1,1,0,1,0
+1334,Remove the wrong case of Number.isInteger(..),45,True,False,,2019-08-28T16:18:27Z,0,2,1,1,1,2,3,0
+1339,"Delegating ""recursion"", something seems to be wrong",139,True,False,,2019-08-28T16:16:18Z,0,2,1,1,3,3,6,0
+1425,"Typo in "" there's  two main places """,51,True,False,,2019-08-28T16:09:08Z,0,3,2,1,1,1,2,0
+1343,Minor fixes to Chapter 1 - Scopes and Closures.,296,True,False,,2019-08-28T16:15:11Z,0,2,1,1,6,5,11,0
+1369,"fix: Add article ""a"" before ""rejection"" and ""fulfillment""",92,True,False,,2019-08-28T16:14:40Z,0,2,1,1,1,1,2,0
+1370,Update summary for variable assignment,180,True,False,,2019-08-28T16:14:18Z,0,2,1,1,3,1,4,0
+1383,Fixed example Appendix A of this & prototypes,234,True,False,,2019-08-28T16:13:12Z,0,2,1,1,1,1,2,0
+1387,Update ch1.md,152,True,False,,2019-08-28T16:12:47Z,0,2,1,1,1,1,2,0
+1390,tweak,186,True,False,,2019-08-28T16:12:15Z,0,2,1,1,2,0,2,0
+1392,Fix spacing in function params,80,True,False,,2019-08-28T16:11:33Z,1,3,1,1,1,1,2,0
+1396,Another example of manual Boxing,163,True,False,,2019-08-28T16:11:17Z,0,2,1,1,10,0,10,0
+1397,"""abc"".match( RegExp.prototype ) gives an error",583,True,False,,2019-08-28T16:10:59Z,0,2,1,1,1,1,2,0
+1403,Updated year in the readme,37,True,False,,2019-08-28T16:10:41Z,0,2,1,1,1,1,2,0
+1405,update ch1.md,31,True,False,,2019-08-28T16:10:28Z,0,2,2,1,1,1,2,0
+1411,Miss a '9' in the calculation result,31,True,False,,2019-08-28T16:10:09Z,0,2,1,1,2,2,4,0
+1428,"Replace ""C/C++"" with ""C++"" for C++-only syntax",11,True,False,,2019-08-28T16:08:48Z,0,2,1,1,1,1,2,0
+1429,"Fixes ""comprise"" usage",0,True,False,,2019-08-28T16:08:20Z,0,2,1,1,1,1,2,0
+1431,Update ch1.md,157,True,False,,2019-08-28T16:06:55Z,2,2,1,1,1,1,2,0
+1432,Added a note on scope lookup,93,True,False,,2019-08-28T16:06:28Z,2,2,2,2,6,4,10,0
+1433,Update ch5.md,111,True,False,,2019-08-28T16:05:53Z,0,2,1,1,1,1,2,0
+1434,Clarified it was an RHS reference lookup,93,True,False,,2019-08-28T16:05:20Z,0,2,1,1,1,1,2,0
+1436,Added missing return for bind function,93,True,False,,2019-08-28T16:04:53Z,0,2,2,1,1,1,2,0
+1443,States pre-ES6 Number.isSafeInteger(..) polyfill dependency,417,True,False,,2019-08-28T16:01:51Z,0,2,1,1,1,1,2,0
+1446,this & Object Prototypes: 3: Type & Review: complex & primary,323,True,False,,2019-08-28T16:01:32Z,0,2,1,1,5,5,10,0
+1449,Up & Going | Chapter 1 | Logic error in Conditionals' example,720,True,False,,2019-08-28T16:00:50Z,0,2,1,1,1,1,2,0
+1460,Correct y iteration time,70,True,False,,2019-08-28T16:00:09Z,0,2,1,1,2,2,4,0
+1461,change restart to resume to be more declarative,57,True,False,,2019-08-28T15:56:58Z,0,2,1,1,2,2,4,0
+1466,Update out of action feature,42,True,False,,2019-08-28T15:55:58Z,0,2,1,1,0,16,16,0
+1470,"Add ',' for example snippet",105,True,False,,2019-08-28T15:55:37Z,0,2,1,1,1,1,2,0
+1475,Update ch2.md,242,True,False,,2019-08-28T15:55:21Z,0,2,1,1,2,2,4,0
+1488,Changed confusing sentence that assumes object is a primitive,578,True,False,,2019-08-28T15:55:04Z,0,2,2,1,1,1,2,0
+1495,fix typo,31,True,False,,2019-08-28T15:54:37Z,0,2,1,2,2,2,4,0
+1502,Fix typo,0,True,False,,2019-08-28T15:54:19Z,0,2,1,1,1,1,2,0
+596,update zalgo link,72,True,False,,2016-12-29T05:06:55Z,0,4,16,1,1,1,2,0
+1496,Update ch1.md,93,True,False,,2019-08-07T15:31:57Z,0,2,1,1,2,2,4,0
+1479,Remove gendered pronouns,196,True,False,,2019-07-09T16:13:29Z,1,3,1,1,3,3,6,0
+1481,es6,93,True,False,,2019-07-07T22:46:56Z,0,30,0,59,107,3237,3344,0
+1476,Typo fix,181,True,False,,2019-06-14T13:25:54Z,0,2,2,1,1,1,2,0
+1474,Update ch2.md,132,True,False,,2019-06-02T20:04:49Z,1,1,0,1,1,1,2,0
+1472,Update ch2.md,93,True,False,,2019-05-28T11:49:32Z,0,2,1,1,3,3,6,0
+1468,Update async & performance/ch3.md (fix error type),200,True,False,,2019-05-15T23:26:20Z,0,2,1,1,2,2,4,0
+1465,Corrected a contradictory statement to meaningful,226,True,False,,2019-05-04T16:36:36Z,0,2,2,1,1,1,2,0
+1464,Corrected a contradictory statement to meaningful,224,True,False,,2019-05-04T15:01:06Z,0,1,2,1,1,1,2,0
+1365,change restart to resume to be more declarative,151,True,False,,2019-04-27T12:00:58Z,0,2,0,0,0,0,0,0
+1458,add pan,93,True,False,,2019-04-21T13:40:09Z,0,2,1,1,2,1,3,0
+1457,translate up and goingforeword,0,True,False,,2019-04-20T04:55:48Z,0,1,0,1,11,8,19,0
+1448,fix: corrected the writable,172,True,False,,2019-04-01T06:04:44Z,0,2,1,1,1,1,2,0
+1437,Typo where I writeable should be true,174,True,False,,2019-03-13T22:00:49Z,0,2,4,1,1,1,2,0
+1439,Fixes issue #1435 Added a note about WebAssembly,93,True,False,,2019-03-15T16:19:27Z,0,2,1,1,2,0,2,0
+1438,Update ch5.md,32,True,False,,2019-03-14T11:02:32Z,0,3,3,1,1,1,2,0
+1404,Added a visualisation of code evolution,40,True,False,,2019-03-04T22:08:55Z,0,3,1,1,9,0,9,0
+1417,Added missing apostrophe,44,True,False,,2019-02-27T07:11:40Z,0,1,0,1,1,1,2,0
+1367,Corrected output lines 36 and 37,351,True,False,,2019-02-26T03:42:47Z,0,2,2,1,2,2,4,0
+1420,It's 2019 now!,53,True,False,,2019-02-22T18:06:29Z,0,1,1,1,1,1,2,0
+1416,UPDATE,93,True,False,,2019-02-12T15:39:40Z,0,1,0,0,0,0,0,0
+1188,typo: off -> of,157,True,True,2017-11-18T14:15:51Z,2017-11-18T14:15:51Z,0,2,0,1,1,1,2,11240.0
+1409,Very important instructions for the course,121,True,False,,2019-01-15T00:49:52Z,0,1,0,1,1,0,1,0
+1400,Update ch2.md,129,True,False,,2019-01-03T04:51:39Z,0,2,2,1,5,1,6,0
+1401,Update ch.1 > 3. Code-Generation,182,True,False,,2019-01-03T03:24:45Z,0,2,1,1,1,1,2,0
+1386,Updated apA.md as per the latest language features,283,True,False,,2018-12-08T19:50:13Z,0,2,2,1,3,1,4,0
+1385,corrected the return value so comments are technically right now,430,True,False,,2018-11-30T18:48:15Z,0,2,0,2,1,22,23,0
+1379,Pr/readme/updates,93,True,False,,2018-11-14T16:42:43Z,0,1,0,1,40,39,79,0
+1373,Correct an important phrase,160,True,False,,2018-11-03T15:27:51Z,0,2,1,1,1,1,2,0
+1205,Update non-readonly property descriptor value to `writeable:true`,85,True,False,,2018-10-18T11:34:20Z,1,3,1,1,1,1,2,0
+1358,"It is recommended to change ""的性能要高"" to ""消耗的性能要高""",702,True,False,,2018-10-09T05:36:30Z,0,2,1,1,1,1,2,0
+1359,Update ch2.md,120,True,True,2018-09-30T02:17:07Z,2018-09-30T02:17:07Z,0,2,1,1,2,2,4,82824.0
+1356,Removal of unnecessary code,93,True,False,,2018-09-23T20:24:17Z,0,2,2,1,1,1,2,0
+1355,change `bar(..)` to `foo(..)`,161,True,False,,2018-09-21T14:32:53Z,0,2,1,1,1,1,2,0
+1350,修改拼写错误,113,True,True,2018-09-18T03:05:18Z,2018-09-18T03:05:18Z,0,2,1,1,4,4,8,72711.0
+1351,fix typo,110,True,True,2018-09-18T03:04:38Z,2018-09-18T03:04:38Z,0,2,1,1,1,1,2,70894.0
+1352,Suppp dudes,93,True,False,,2018-09-17T22:59:51Z,0,2,0,1,3,2,5,0
+1349,Fix typo,93,True,True,2018-09-16T15:25:50Z,2018-09-16T15:25:50Z,0,2,0,1,1,1,2,106.0
+1348,Update ch1.md,108,True,True,2018-09-13T06:31:55Z,2018-09-13T06:31:56Z,0,2,1,1,1,1,2,192.0
+1346,Update README.md,93,True,True,2018-09-12T15:34:55Z,2018-09-12T15:34:55Z,0,2,0,1,1,1,2,6187.0
+1345,Update README.md,93,True,True,2018-09-12T13:27:28Z,2018-09-12T13:27:28Z,0,2,0,1,1,1,2,582.0
+1344,"fix typo, chapter 3, line 165",19,True,True,2018-09-12T12:18:18Z,2018-09-12T12:18:18Z,0,2,0,1,1,1,2,1546.0
+1239,Changed folder names to be displayed in the same order as the books,93,True,False,,2018-08-22T10:19:00Z,1,3,1,85,0,0,0,0
+1338,"""Many see this as..."" or ""Many see that this is...""?",474,True,True,2018-08-19T03:19:39Z,2018-08-19T03:19:39Z,0,2,1,1,1,1,2,17059.0
+1336,Grammar fixes,153,True,True,2018-08-15T17:57:08Z,2018-08-15T17:57:08Z,0,2,0,1,2,2,4,476.0
+1332,Fix Typo,61,True,False,,2018-08-13T02:13:11Z,0,2,2,1,1,1,2,0
+1324,Move 'invoking' pair of parentheses inside of 'wrapping' pair of pare…,160,True,False,,2018-07-27T14:29:16Z,0,2,1,1,1,1,2,0
+1322,Prototype Explanation Fix,78,True,False,,2018-07-26T06:51:27Z,0,2,2,1,1,1,2,0
+1018,Clarification on the const definition,379,True,False,,2017-08-15T15:34:27Z,1,4,4,1,5,2,7,0
+755,Fixing Example for CH4 Types And Grammar - Abstract Relational Comparison,848,True,False,,2016-06-06T15:10:52Z,0,4,6,1,2,2,4,0
+1308,fix typo,136,True,True,2018-06-29T05:32:47Z,2018-06-29T05:32:47Z,0,2,1,1,1,1,2,4400.0
+1301,an object alone 仅一个对象(本身),273,True,True,2018-06-13T01:36:07Z,2018-06-13T01:36:07Z,0,2,1,1,1,1,2,57787.0
+1299,Corrected typo that indicated writable:false indicated not read-only …,234,True,False,,2018-06-11T00:41:45Z,0,2,1,1,1,1,2,0
+1294,Argument is not needed in arrow function,123,True,False,,2018-05-27T13:28:23Z,0,2,1,1,1,1,2,0
+1293,fix typos,30,True,True,2018-05-23T13:41:06Z,2018-05-23T13:41:06Z,0,2,1,2,2,2,4,3894.0
+1291,Fixed missing Patreon image,130,True,True,2018-05-20T21:17:38Z,2018-05-20T21:17:38Z,0,2,0,1,1,1,2,672.0
+1289,Typo fixed.,112,True,False,,2018-05-19T15:58:58Z,0,2,1,1,1,1,2,0
+1285,Update ch3.md,105,True,False,,2018-05-18T10:33:16Z,0,2,1,1,1,1,2,0
+1146,Updated Google Tracer tool link since former was deprecated/broken,93,True,True,2018-05-16T17:08:05Z,2018-05-16T17:08:05Z,0,2,0,1,1,1,2,20993059.0
+1280,Minor typo,43,True,True,2018-05-16T16:17:37Z,2018-05-16T16:17:37Z,0,2,0,1,1,1,2,1572513.0
+1288,Add changes,93,True,False,,2018-05-16T13:12:10Z,0,13,0,10,2386,1551,3937,0
+1275,fixed typo in chinese in 1ed-zh-cn branch,69,True,True,2018-04-28T03:02:43Z,2018-04-28T03:02:43Z,0,2,1,4,21,21,42,93632.0
+1235,Update the link to google Traceur.,93,True,False,,2018-04-13T04:34:54Z,0,1,0,1,1,1,2,0
+1270,Update ch1.md,128,True,False,,2018-04-10T05:16:21Z,0,1,1,1,2,2,4,0
+1228,修正一个翻译不准确的地方,303,True,True,2018-02-06T15:00:15Z,2018-02-06T15:00:15Z,0,3,3,1,1,1,2,49607.0
+928,chore: update license years,93,True,False,,2018-03-25T17:36:52Z,0,1,1,1,1,1,2,0
+1262,Corrected example to use obj instead of window,111,True,False,,2018-03-22T19:39:39Z,0,2,1,1,1,1,2,0
+1263,Remove unused variable in example,128,True,False,,2018-03-22T19:38:22Z,0,2,1,1,1,1,2,0
+1260,Fixed typos in Chinese,0,True,True,2018-03-21T14:58:35Z,2018-03-21T14:58:35Z,0,2,2,1,2,2,4,710.0
+1258,Fixed minor typo,0,True,True,2018-03-20T07:01:34Z,2018-03-20T07:01:34Z,0,2,1,1,1,1,2,1119.0
+1254,Fixed a minor syntactic error,0,True,True,2018-03-13T23:04:29Z,2018-03-13T23:04:29Z,0,2,1,1,1,1,2,31101.0
+1236,Fix broken links,89,True,False,,2018-03-11T08:14:45Z,0,2,7,22,73,73,146,0
+1248,misspelled word in line 81.,93,True,True,2018-03-04T16:07:07Z,2018-03-04T16:07:07Z,0,2,1,1,1,1,2,25937.0
+1247,Removed unnecessary word,56,True,True,2018-03-03T13:20:19Z,2018-03-03T13:20:19Z,0,2,1,1,1,1,2,32154.0
+1144,I think the result is this,93,True,False,,2018-02-26T08:45:55Z,0,1,0,1,1,1,2,0
+1223,Update the 'Become a Patron' badge,267,True,True,2018-02-17T10:31:06Z,2018-02-17T10:31:06Z,1,2,1,1,1,1,2,1794044.0
+1232,fixed typo,53,True,True,2018-02-09T05:29:16Z,2018-02-09T05:29:16Z,0,2,0,1,1,1,2,1192.0
+920,Added clarifing details for call-site in regards to Its Scope example…,113,True,False,,2016-12-19T21:04:27Z,0,3,6,1,8,0,8,0
+1227,fix:  replace 'super()' with 'super.foo()',115,True,False,,2018-02-05T21:00:16Z,0,2,1,1,1,1,2,0
+1225,Update Writable:false,61,True,False,,2018-01-31T05:26:43Z,0,2,1,1,1,1,2,0
+1218,"Fix mistake, looks like read-only true/false is mixed up",93,True,False,,2018-01-20T12:34:46Z,0,2,1,1,1,1,2,0
+1217,Fix error,48,True,False,,2018-01-20T12:23:59Z,0,20,0,52,52,3227,3279,0
+1215,Fixed minor typo,0,True,True,2018-01-16T11:53:42Z,2018-01-16T11:53:42Z,0,2,1,1,1,1,2,1404.0
+1211,Folder Structure. Issue-1206,93,True,False,,2018-01-08T11:43:10Z,0,15,0,66,8299,8373,16672,0
+1203,Fix typo,44,True,False,,2017-12-20T18:46:57Z,0,2,2,1,1,1,2,0
+1201,added ACCESSORY_PRICE to the calculation of affordability,662,True,False,,2017-12-17T17:29:32Z,0,2,1,1,2,2,4,0
+1197,Merge pull request #2 from getify/master,34,True,False,,2017-12-05T01:53:31Z,0,1,0,0,0,0,0,0
+1192,fix example code,86,True,False,,2017-11-28T05:34:38Z,0,2,3,1,1,1,2,0
+1184,fix typos,0,True,True,2017-11-15T02:16:28Z,2017-11-15T02:16:28Z,0,2,2,2,4,4,8,52360.0
+1183,Fixed minor typo,0,True,True,2017-11-14T08:59:25Z,2017-11-14T08:59:25Z,0,2,1,1,1,1,2,837.0
+1181,fix typos,93,True,True,2017-11-14T08:59:01Z,2017-11-14T08:59:01Z,0,2,1,2,2,2,4,21463.0
+1182,possible typo on ch5 in this & Object Prototypes,43,True,False,,2017-11-14T08:28:20Z,0,2,1,1,1,1,2,0
+1180,Fix while true example output,0,True,False,,2017-11-12T10:04:41Z,0,1,0,1,1,1,2,0
+1179,Fixed typos,0,True,True,2017-11-10T02:53:06Z,2017-11-10T02:53:06Z,1,3,1,1,1,1,2,51740.0
+1173,Update foreword.md,121,True,False,,2017-10-23T23:35:51Z,0,1,0,1,2,0,2,0
+934,To many parenthesis,147,True,False,,2017-01-25T01:07:19Z,0,6,5,2,3,3,6,0
+1169,fix typos,0,True,True,2017-10-19T03:33:07Z,2017-10-19T03:33:07Z,0,2,1,1,1,1,2,324.0
+1168,fix spelling mistake,0,True,True,2017-10-19T03:32:14Z,2017-10-19T03:32:14Z,0,2,1,1,1,1,2,65829.0
+1165,Update foreword.md,93,True,False,,2017-10-18T05:22:48Z,1,2,0,1,1,1,2,0
+1157,Wrong error type,236,True,False,,2017-10-02T19:22:07Z,0,2,1,1,1,1,2,0
+1150,Ch5 This & Objects typo: **and it's not marked as read-only (`writable:false`)** ==> (`writable:true`).md,215,True,False,,2017-09-21T23:57:17Z,0,2,1,1,1,1,2,0
+1142,个别错别字和不通顺的地方,0,True,False,,2017-09-17T01:32:04Z,1,2,0,1,4,4,8,0
+1148,重新提交一下,0,True,True,2017-09-17T01:31:50Z,2017-09-17T01:31:50Z,0,2,1,1,3,3,6,38185.0
+1147,minor typo: remove 'be' from 'be become',212,True,True,2017-09-15T23:43:53Z,2017-09-15T23:43:53Z,0,2,1,1,1,1,2,1730.0
+1137,maybe `&& oThis` part of check should be removed,458,True,False,,2017-09-06T12:05:43Z,0,2,1,1,1,2,3,0
+1125,only change one place 'ban' => 'bam',161,True,True,2017-08-26T02:23:47Z,2017-08-26T02:23:47Z,0,2,2,1,1,1,2,84101.0
+1121,Update ch3.md,7,True,False,,2017-08-21T12:54:56Z,0,2,4,1,1,1,2,0
+1119,修复链接错误使用中文括号问题,0,True,False,,2017-08-21T12:54:02Z,0,2,8,1,1,1,2,0
+1118,1ed zh cn,93,True,False,,2017-08-18T14:01:36Z,0,12,1,66,8298,8373,16671,0
+1117,Update ch3.md,5,True,True,2017-08-18T11:59:01Z,2017-08-18T11:59:01Z,0,2,1,1,1,1,2,5553.0
+1116,fixed bug in Automatic Semicolons example,93,True,False,,2017-08-17T12:31:14Z,0,2,1,1,1,1,2,0
+1115,Update ch2.md,0,True,True,2017-08-17T02:58:55Z,2017-08-17T02:58:55Z,0,2,2,1,1,1,2,6575.0
+1014,Fix typo in first paragraph,0,True,True,2017-08-15T15:34:53Z,2017-08-15T15:34:53Z,0,3,1,1,1,1,2,9892329.0
+1112,a tiro's little problem,586,True,False,,2017-08-16T01:02:03Z,0,2,7,1,1,1,2,0
+985,Update ch4.md,153,True,False,,2017-08-16T01:00:38Z,0,2,1,1,3,0,3,0
+899,Difference in Node environment,316,True,False,,2017-08-15T15:49:30Z,0,3,2,1,12,0,12,0
+912,1edBranchCn,93,True,False,,2017-08-15T15:47:52Z,1,4,1,2,2,2,4,0
+927,Correct command output,50,True,False,,2017-08-15T15:46:02Z,1,3,0,1,1,1,2,0
+957,Update ch2.md,93,True,False,,2017-08-15T15:45:29Z,0,2,1,1,1,1,2,0
+971,Merge pull request #1 from getify/master,112,True,False,,2017-08-15T15:42:15Z,0,3,2,0,0,0,0,0
+1009,Typo in ch2: prinicple --> principle,25,True,True,2017-08-15T15:37:17Z,2017-08-15T15:37:17Z,0,2,0,1,1,1,2,10765844.0
+990,Fix typos,68,True,True,2017-08-15T15:40:05Z,2017-08-15T15:40:05Z,1,3,0,4,6,6,12,13188379.0
+1006,Update ch2.md,151,True,True,2017-08-15T15:39:15Z,2017-08-15T15:39:15Z,0,2,0,1,1,1,2,11079525.0
+1008,remove unnecessary indents,26,True,True,2017-08-15T15:37:49Z,2017-08-15T15:37:49Z,0,2,0,1,4,4,8,10850827.0
+1024,"fix typo, chapter 3, line 1486",66,True,True,2017-08-15T15:31:56Z,2017-08-15T15:31:56Z,0,2,0,1,1,1,2,8721117.0
+1035,Declare vs Define,346,True,False,,2017-08-15T15:24:08Z,0,6,4,1,2,2,4,0
+1106,Update ch5.md Line 472,587,True,False,,2017-08-15T15:19:11Z,0,2,6,1,1,0,1,0
+1038,Update ch2.md,129,True,False,,2017-08-15T14:43:27Z,0,1,0,1,3,1,4,0
+1111,ES6 & Beyond (ch7.md): Broken links on Regex section,300,True,True,2017-08-09T22:13:15Z,2017-08-09T22:13:15Z,0,2,1,1,4,4,8,24424.0
+1105,Update ch1.md,178,True,True,2017-08-03T21:43:39Z,2017-08-03T21:43:39Z,0,2,3,1,1,1,2,8570.0
+1102,Error on evaluating the return value of &&,5,True,False,,2017-07-29T15:09:46Z,0,1,0,1,1,1,2,0
+1075,Optimization for accuracy,125,True,False,,2017-07-26T15:55:26Z,8,2,1,1,1,1,2,0
+1098,1ed-zh-CN 修正错别字,245,True,True,2017-07-26T15:53:12Z,2017-07-26T15:53:12Z,3,2,0,1,2,2,4,223300.0
+1097,Refined part of Towards Delegation-Oriented Design,26,True,True,2017-07-23T13:51:09Z,2017-07-23T13:51:10Z,6,2,2,1,8,8,16,4747.0
+1073,Refined syntactics,0,True,True,2017-07-15T14:56:56Z,2017-07-15T14:56:56Z,3,2,2,1,1,1,2,1396608.0
+1074,Fixed markdown syntax,78,True,True,2017-07-13T10:00:35Z,2017-07-13T10:00:35Z,0,2,0,1,1,1,2,1151285.0
+1080,Refined syntactics,0,True,True,2017-07-13T09:59:53Z,2017-07-13T09:59:53Z,0,2,1,1,2,2,4,694607.0
+1085,Fixed minor typo,0,True,True,2017-07-13T09:58:49Z,2017-07-13T09:58:49Z,0,2,0,1,1,1,2,517654.0
+1088,Fixed typos,0,True,True,2017-07-13T09:58:21Z,2017-07-13T09:58:21Z,0,2,1,1,2,2,4,259216.0
+1091,add spaces in brackets,97,True,True,2017-07-13T09:56:44Z,2017-07-13T09:56:44Z,0,2,1,1,1,1,2,8043.0
+1086,merge latest,93,True,False,,2017-07-07T10:57:27Z,0,1,0,0,0,0,0,0
+1084,merge,93,True,False,,2017-07-07T10:52:05Z,0,1,0,0,0,0,0,0
+1078,Fixed minor typos and refined syntactics,0,True,True,2017-07-05T03:34:21Z,2017-07-05T03:34:21Z,0,2,1,1,4,4,8,69384.0
+1065,Fixed translation error,139,True,True,2017-06-29T09:26:54Z,2017-06-29T09:26:54Z,0,2,2,1,1,1,2,700310.0
+1071,Fixed minor typo,0,True,True,2017-06-29T09:28:19Z,2017-06-29T09:28:19Z,0,2,1,1,2,2,4,19593.0
+1070,Fixed minor syntactic error in Chinese,93,True,True,2017-06-29T09:27:31Z,2017-06-29T09:27:31Z,0,2,1,1,1,1,2,111347.0
+1069,Fixed minor typo in Chinese,93,True,True,2017-06-27T12:21:44Z,2017-06-27T12:21:45Z,0,2,1,1,2,2,4,14509.0
+1067,Optimized wording and sample code formatting,93,True,True,2017-06-26T01:49:58Z,2017-06-26T01:49:58Z,0,2,1,1,2,1,3,243139.0
+1068,Fixed minor typo in Chinese,93,True,True,2017-06-26T01:48:47Z,2017-06-26T01:48:47Z,0,2,1,1,2,2,4,230151.0
+1030,typo,121,True,False,,2017-06-24T14:42:58Z,2,2,0,1,1,1,2,0
+1064,Fixed minor typo,93,True,True,2017-06-22T06:37:57Z,2017-06-22T06:37:57Z,0,2,1,1,1,1,2,97360.0
+1062,Optimized wording in Chinese,93,True,True,2017-06-21T01:48:03Z,2017-06-21T01:48:03Z,0,2,1,1,2,2,4,52336.0
+1063,Update,93,True,False,,2017-06-20T22:23:52Z,0,10,0,14,436,67,503,0
+1061,Optimized wording in Chinese,93,True,True,2017-06-19T13:23:06Z,2017-06-19T13:23:06Z,0,2,0,1,2,2,4,3504.0
+1060,Fixed typo in Chinese,93,True,True,2017-06-19T11:45:28Z,2017-06-19T11:45:28Z,0,2,1,1,1,1,2,957.0
+1059,Fixed typo in Chinese,93,True,True,2017-06-19T10:14:07Z,2017-06-19T10:14:07Z,0,2,1,1,1,1,2,451.0
+1058,Fixed minor typo in Chinese,93,True,True,2017-06-17T15:52:05Z,2017-06-17T15:52:05Z,0,2,1,1,1,1,2,130360.0
+1054,Fix typo,0,True,True,2017-06-15T05:28:44Z,2017-06-15T05:28:44Z,0,2,0,1,1,1,2,4667.0
+1052,Fix spelling for 'promissory',53,True,False,,2017-06-13T03:52:27Z,0,1,0,1,12,12,24,0
+1017,fix wrong written,111,True,True,2017-06-07T09:39:05Z,2017-06-07T09:39:05Z,0,2,1,1,1,1,2,3638559.0
+1048,Update ch1.md,93,True,True,2017-06-07T09:37:19Z,2017-06-07T09:37:19Z,0,2,1,1,1,1,2,323.0
+1047,1ed-zh-CN this & object prototypes/foreword.md : fix typo,64,True,True,2017-06-07T03:47:23Z,2017-06-07T03:47:23Z,0,2,1,1,1,1,2,129732.0
+1046,Update traceur getting started URL,62,True,True,2017-06-04T13:27:54Z,2017-06-04T13:27:54Z,0,2,0,1,1,1,2,9708.0
+1045,Merge pull request #1 from getify/master,109,True,False,,2017-06-03T22:02:32Z,0,1,0,0,0,0,0,0
+1041,1ed zh cn - scope & closures/ch1.md :  fix typo,93,True,True,2017-06-02T01:20:13Z,2017-06-02T01:20:13Z,0,3,1,1,1,1,2,69211.0
+1040,修改书写错误,19,True,False,,2017-05-31T15:01:23Z,0,2,1,1,1,1,2,0
+1034,Update ch6.md,9,True,False,,2017-05-25T19:14:04Z,1,3,1,1,1,1,2,0
+885,ch2#Non-JavaScript: elaborating on HTML5 APIs,0,True,False,,2016-10-21T17:11:38Z,0,3,3,1,1,1,2,0
+1028,Update ch2: Fixed typos and refined translations,0,True,True,2017-05-16T08:43:40Z,2017-05-16T08:43:40Z,3,2,1,1,15,15,30,344205.0
+1029,Update ch1: Fixed minor typo in Chinese,0,True,True,2017-05-14T02:49:09Z,2017-05-14T02:49:09Z,0,2,0,1,1,1,2,145227.0
+1027,Update ch2.md: fixed typo,55,True,True,2017-05-12T08:03:22Z,2017-05-12T08:03:22Z,0,2,2,1,1,1,2,3068.0
+1023,add space between Chinese and English words,54,True,True,2017-05-04T15:50:14Z,2017-05-04T15:50:14Z,0,1,0,9,318,318,636,60.0
+1022,Merge pull request #1 from getify/master,108,True,False,,2017-05-03T18:42:37Z,0,1,1,0,0,0,0,0
+542,Added link for purchase/download of the first book,56,True,True,2015-09-22T12:41:57Z,2015-09-22T12:41:57Z,0,3,1,1,1,1,2,297.0
+1016,Update README.md,0,True,False,,2017-04-25T12:43:54Z,0,1,1,1,1,1,2,0
+1011,Update ch1.md,175,True,False,,2017-04-21T19:24:18Z,0,2,1,1,1,1,2,0
+893,Grammar - why clause SV order,39,True,True,2016-11-08T14:19:15Z,2016-11-08T14:19:16Z,0,2,1,1,1,1,2,490320.0
+952,Update ch1.md,392,True,False,,2017-01-30T17:38:24Z,0,3,4,1,1,1,2,0
+1003,Master,8,True,True,2017-04-07T01:18:49Z,2017-04-07T01:18:49Z,0,1,0,5,6,6,12,27824.0
+1004,Chinese translation of YDKJS (#901),3553,True,False,,2017-04-06T18:20:07Z,0,2,0,66,8296,8372,16668,0
+984,improve chinese translation of preface,54,True,False,,2017-04-06T09:02:57Z,2,3,2,1,18,17,35,0
+1002,Async & performance Ch1 Typo,34,True,False,,2017-04-05T11:11:39Z,0,2,2,1,1,1,2,0
+993,Fix broken links in Titles section of README.,738,True,True,2017-04-02T03:30:54Z,2017-04-02T03:30:54Z,0,2,3,1,6,6,12,881437.0
+1000,Relative links on main README file fixed.,84,True,False,,2017-03-27T14:15:19Z,0,1,1,1,6,6,12,0
+992,typo: mistakingly -> mistakenly,0,True,True,2017-03-22T16:29:06Z,2017-03-22T16:29:06Z,0,2,1,1,1,1,2,813.0
+989,Fix minor typo,0,True,False,,2017-03-15T05:11:36Z,0,1,0,1,1,1,2,0
+987,Merge pull request #1 from getify/master,109,True,False,,2017-03-14T16:05:21Z,0,1,0,0,0,0,0,0
+901,Chinese translation of YDKJS,93,True,True,2017-03-13T01:46:19Z,2017-03-13T01:46:19Z,3,5,14,66,8296,8372,16668,10054847.0
+969,Fix typo. types & grammar/ch3.md,0,True,False,,2017-03-09T01:50:04Z,0,3,2,1,1,1,2,0
+976,Fix some typos in Async & Performance,55,True,True,2017-03-01T21:19:13Z,2017-03-01T21:19:13Z,0,2,0,4,5,5,10,5475.0
+975,Fix typo,93,True,True,2017-03-01T17:00:48Z,2017-03-01T17:00:48Z,0,2,0,1,1,1,2,866.0
+965,Update ch2.md,127,True,False,,2017-02-16T05:02:53Z,0,2,1,1,1,1,2,0
+813,Corrected conditionals example,298,True,False,,2016-07-26T16:22:45Z,0,3,5,1,3,3,6,0
+943,typo - baz(); should be bar();  confuses the whole explanation of closure.,1048,True,False,,2017-01-14T03:05:57Z,0,3,2,1,1,1,2,0
+944,wrong example: heartbeat is not driven by brain,245,True,False,,2017-01-13T21:03:10Z,0,2,1,1,1,1,2,0
+940,"Added buttons, easier to go to pages ",354,True,False,,2017-01-12T21:33:35Z,0,2,2,4,10,0,10,0
+935,Change ES7 to EcmaScript,287,True,False,,2017-01-10T06:38:02Z,0,2,1,1,1,1,2,0
+933,md to html converted,42,True,False,,2017-01-08T20:31:29Z,0,3,1,101,39734,0,39734,0
+931,Fixed console.log output,64,True,True,2017-01-05T14:51:41Z,2017-01-05T14:51:41Z,0,4,1,1,2,2,4,526.0
+929,Add cross-reference to Array.from,279,True,False,,2017-01-02T17:08:36Z,0,2,3,1,2,0,2,0
+925,Fix link to zalgo post. It got deleted,96,True,False,,2016-12-29T03:38:37Z,0,1,1,1,1,1,2,0
+919,Slight typo in code.,209,True,False,,2016-12-17T22:57:08Z,0,2,1,1,1,1,2,0
+916,fix incorrect conditional statement,132,True,False,,2016-12-08T12:47:15Z,0,2,3,1,1,1,2,0
+915,Merge pull request #1 from getify/master,95,True,False,,2016-12-06T12:45:27Z,0,1,0,0,0,0,0,0
+911,Update ch1.md,13,True,False,,2016-12-01T01:17:50Z,0,2,5,1,3,3,6,0
+905,Fix hyperlink to referred article,88,True,True,2016-11-21T05:24:31Z,2016-11-21T05:24:32Z,0,3,1,1,1,1,2,5011.0
+909,`typeof` returns one of 6 (not 7) string values,66,True,False,,2016-11-23T12:56:24Z,0,4,3,1,1,1,2,0
+907,Ch2: Object Property Assignment Pattern mistake,348,True,False,,2016-11-22T13:22:42Z,0,2,2,1,1,1,2,0
+908,Update ch1.md,192,True,False,,2016-11-22T13:01:02Z,0,2,1,1,1,1,2,0
+906,Merge pull request #1 from getify/master,100,True,False,,2016-11-21T12:58:45Z,0,1,0,0,0,0,0,0
+904,Fix mispositioned comma.,0,True,False,,2016-11-21T05:21:47Z,0,2,1,1,1,1,2,0
+903,Typo in ch2,27,True,False,,2016-11-20T19:30:47Z,0,2,1,1,1,1,2,0
+842,"No need for  [Symbol.iterator]() { return this; }, here ?",149,True,False,,2016-11-08T14:18:22Z,0,2,7,1,0,3,3,0
+871,Added relative links as footer between chapters/books,188,True,False,,2016-11-08T14:18:07Z,0,3,3,32,96,0,96,0
+887,Added links to TOC,90,True,False,,2016-11-08T14:17:38Z,0,2,1,1,10,10,20,0
+894,fix ASQ.iterable() example in apB,108,True,True,2016-11-08T14:16:56Z,2016-11-08T14:16:56Z,0,2,1,1,2,2,4,363160.0
+892,Wrong Result,149,True,False,,2016-10-28T14:03:46Z,0,2,2,1,1,1,2,0
+889,fix type: read instead of tread,15,True,False,,2016-10-24T08:44:05Z,0,2,2,1,1,1,2,0
+891,Fix typo (asynchronus -> asynchronous),0,True,True,2016-10-24T00:46:00Z,2016-10-24T00:46:00Z,0,2,0,1,1,1,2,6946.0
+883,fix number of possible values for typeof,0,True,False,,2016-10-20T11:22:53Z,0,1,0,1,1,1,2,0
+626,"Remove extraneous word ""property""",157,True,True,2016-01-09T02:48:42Z,2016-01-09T02:48:42Z,0,2,1,1,1,1,2,61795.0
+873,Corrects typo,52,True,False,,2016-10-01T23:09:00Z,0,2,2,1,1,1,2,0
+865,Error : Up & Going(Ch2) - Removes the var keyword,232,True,False,,2016-09-18T20:06:15Z,0,2,1,1,1,1,2,0
+555,Remove broken link,174,True,False,,2016-09-14T20:10:39Z,0,2,1,1,1,1,2,0
+862,Merge pull request #1 from getify/master,20,True,False,,2016-09-12T17:25:34Z,0,1,0,0,0,0,0,0
+858,Forgot parentheses,234,True,True,2016-09-11T14:06:56Z,2016-09-11T14:06:56Z,0,2,2,1,1,1,2,2323.0
+848,removes broken image URL,0,True,False,,2016-09-07T17:20:23Z,0,2,2,1,0,1,1,0
+853,"foo() returns ""a""",291,True,False,,2016-09-06T12:49:54Z,0,2,2,1,1,1,2,0
+852,Link Patreon logo to the getify Patreon page,16,True,True,2016-09-05T17:36:44Z,2016-09-05T17:36:44Z,0,2,0,1,1,1,2,6511.0
+851,Update Missing Patreon Logo,115,True,True,2016-09-05T15:35:54Z,2016-09-05T15:35:54Z,0,3,1,1,1,1,2,5883.0
+847,change book number from third to fourth,22,True,False,,2016-09-02T02:04:56Z,0,2,3,1,1,1,2,0
+843,Chapter 2: Into JavaScript | snippet little error,211,True,False,,2016-08-25T23:53:27Z,0,1,0,1,1,1,2,0
+841,Neither does there exist isPrototype...,0,True,True,2016-08-17T12:01:25Z,2016-08-17T12:01:25Z,0,2,1,1,1,1,2,21593.0
+840,Exception -> except,0,True,True,2016-08-17T02:54:34Z,2016-08-17T02:54:34Z,0,2,1,1,1,1,2,554.0
+839,Update ch3.md,57,True,True,2016-08-16T16:57:59Z,2016-08-16T16:57:59Z,0,2,1,1,1,1,2,858.0
+838,Make a letter uppercase to match list style,74,True,True,2016-08-16T14:10:24Z,2016-08-16T14:10:24Z,0,2,1,1,1,1,2,233.0
+837,Ch4:Change log statement and remove //yep comment.,282,True,False,,2016-08-14T20:46:24Z,0,2,3,1,1,1,2,0
+833,- Fixed typo in the book: ES6 & Beyond # Chapter 2: Syntax,25,True,False,,2016-08-07T17:04:32Z,0,3,4,1,1,1,2,0
+830,Fix grammar error,31,True,True,2016-08-04T13:19:51Z,2016-08-04T13:19:51Z,0,2,1,1,1,1,2,420.0
+829,corrected error in hoisting example,216,True,False,,2016-08-02T12:22:19Z,0,2,2,1,1,1,2,0
+810,"es6+beyond: ch2.md, fixing word order issue",142,True,True,2016-07-25T03:20:25Z,2016-07-25T03:20:25Z,0,2,2,1,1,1,2,5063.0
+826,Fixed small spelling error in this object prototypes ch2.md,82,True,False,,2016-07-31T14:43:45Z,0,2,2,1,1,1,2,0
+802,Update preface.md,63,True,False,,2016-07-28T13:43:09Z,0,2,1,1,1,1,2,0
+787,Placed links at the bottom of each chapter to the next,248,True,False,,2016-07-28T13:41:48Z,0,8,1,38,83,0,83,0
+780,Easily movable table of contents to up&going,241,True,False,,2016-07-28T13:39:59Z,0,3,4,3,35,0,35,0
+814,Error in example.md,299,True,False,,2016-07-26T20:09:24Z,0,2,1,1,2,2,4,0
+812,"es6+beyond: ch3.md, fixing typo",320,True,False,,2016-07-25T19:27:38Z,0,2,2,1,1,1,2,0
+811,Merge pull request #1 from getify/master,20,True,False,,2016-07-25T07:34:58Z,0,1,0,0,0,0,0,0
+807,"Changing ""module"" keyword to ""import""",290,True,False,,2016-07-24T04:04:58Z,0,2,1,1,3,3,6,0
+805,Update ch5.md,209,True,False,,2016-07-21T17:38:43Z,0,2,1,1,1,1,2,0
+804,Update ch2.md,24,True,False,,2016-07-21T11:43:48Z,0,2,1,1,1,1,2,0
+801,Merge remote-tracking branch 'getify/master',0,True,False,,2016-07-18T13:36:13Z,0,2,0,0,0,0,0,0
+797,Add a return statement,91,True,True,2016-07-15T22:32:39Z,2016-07-15T22:32:39Z,0,2,1,1,6,6,12,13355.0
+795,Add missing word,259,True,True,2016-07-12T22:39:40Z,2016-07-12T22:39:40Z,0,2,1,1,1,1,2,12603.0
+794,small typo fix,0,True,True,2016-07-12T18:12:33Z,2016-07-12T18:12:33Z,0,2,1,1,1,1,2,7214.0
+784,Linked You Don't Know JS Up And Going Pages,79,True,False,,2016-07-03T14:06:02Z,0,1,0,20,44,0,44,0
+779,fix grammar error (incomplete sentence),33,True,False,,2016-06-28T12:23:25Z,0,2,1,1,1,1,2,0
+752,Typos with effect / affecting,772,True,False,,2016-06-03T17:04:39Z,0,0,1,1,5,5,10,0
+741,"Fix spelling on the word ""descendent""",415,True,True,2016-06-28T08:04:57Z,2016-06-28T08:04:57Z,0,1,0,1,1,1,2,3167667.0
+776,variable values corrected in comments,101,True,False,,2016-06-28T12:24:27Z,0,2,2,1,2,2,4,0
+749,Fix expected result,521,True,False,,2016-06-28T12:26:05Z,0,2,1,1,1,1,2,0
+750,Update ch3.md,25,True,False,,2016-06-28T12:23:05Z,0,2,1,1,1,1,2,0
+751,fix issue: 747,20,True,False,,2016-06-28T12:22:20Z,0,2,0,1,1,1,2,0
+777,"""types & grammar"" ch 4: Add js syntax highlighting",93,True,True,2016-06-28T12:18:51Z,2016-06-28T12:18:51Z,0,2,1,1,1,1,2,39870.0
+731,Update ch5.md: small typo,68,True,False,,2016-06-28T08:02:59Z,0,2,1,1,1,1,2,0
+729,I suggest the following edit on line 455,257,True,False,,2016-06-28T08:02:19Z,0,2,1,1,1,1,2,0
+768,Update ch3.md,24,True,False,,2016-06-21T10:03:32Z,0,2,5,1,1,1,2,0
+769,Use strict-equals rather than loose-equals in example,115,True,False,,2016-06-21T10:02:14Z,0,2,1,1,1,1,2,0
+761,"ch2.md -- fixing missing ""a""",24,True,False,,2016-06-19T00:45:57Z,0,1,0,1,1,1,2,0
+740,"Fix typo in ch6.md of ""ES6 & Beyond""",72,True,True,2016-06-16T13:45:44Z,2016-06-16T13:45:44Z,0,3,2,1,1,1,2,2310287.0
+758,Update ch3.md,50,True,True,2016-06-10T12:24:11Z,2016-06-10T12:24:11Z,0,2,2,1,1,1,2,9690.0
+753,fix typo,72,True,False,,2016-06-03T16:59:47Z,0,0,1,1,1,1,2,0
+748,update Summary.md,0,True,False,,2016-05-28T02:20:05Z,0,2,0,5,53,56,109,0
+745,Fixed typo,0,True,False,,2016-05-26T17:39:20Z,0,2,1,1,2,2,4,0
+739,Console log minor changes,188,True,False,,2016-05-19T13:03:24Z,0,2,3,1,1,1,2,0
+736,Unnecessary parentheses,68,True,True,2016-05-17T21:54:01Z,2016-05-17T21:54:01Z,0,2,1,1,1,1,2,9366.0
+696,There doesn't exist JSON.stringification(..).,205,True,True,2016-03-22T02:07:47Z,2016-03-22T02:07:47Z,0,2,1,1,1,1,2,18468.0
+724,Fix missing note,0,True,True,2016-05-04T23:22:38Z,2016-05-04T23:22:38Z,0,2,6,1,1,1,2,29956.0
+697,Fixing issues with custom Object.observe listing,0,True,False,,2016-04-27T22:55:51Z,0,2,3,1,3,3,6,0
+722,"""async & performance"" - ch4 - generator order fixes",120,True,False,,2016-04-27T22:58:29Z,0,2,1,1,3,3,6,0
+717,Replace: anti-climatic with anticlimactic,180,True,True,2016-04-27T22:57:07Z,2016-04-27T22:57:07Z,0,2,1,1,1,1,2,276217.0
+708,Replace 'arguments array' with 'arguments object' ,114,True,False,,2016-04-27T22:56:43Z,0,3,1,2,9,9,18,0
+707,"fix: missing invoke in ""Scope & Closures"" - ch2.md",77,True,False,,2016-04-27T22:56:29Z,0,2,0,1,2,0,2,0
+700,"""async & performance"" - ch 3 - typo in ""Thenable Duck Typing""",148,True,False,,2016-04-27T22:56:11Z,0,2,4,1,1,1,2,0
+718,Update ch2.md,23,True,False,,2016-04-25T13:43:49Z,0,2,1,1,1,1,2,0
+716,Mistake on writable property,79,True,False,,2016-04-23T01:07:32Z,0,2,1,1,1,1,2,0
+715,翻译测试。,14,True,False,,2016-04-22T15:02:02Z,0,1,0,1,3,0,3,0
+713,Update apA.md,70,True,True,2016-04-19T13:15:17Z,2016-04-19T13:15:17Z,0,2,1,1,1,1,2,11633.0
+712,Minor fixes,326,True,True,2016-04-13T16:16:58Z,2016-04-13T16:16:58Z,0,3,1,4,4,4,8,789.0
+710,Script for automatically generating epubs + support files,631,True,False,,2016-04-06T03:09:46Z,0,2,4,8,55,0,55,0
+709,Fix typo in async functions - ch8.md,40,True,False,,2016-04-05T20:03:05Z,0,2,2,1,1,1,2,0
+698,Fix typo,0,True,False,,2016-03-25T10:48:17Z,0,1,0,1,1,1,2,0
+695,Unnecessary usage of toLowerCase().,76,True,True,2016-03-20T20:11:03Z,2016-03-20T20:11:03Z,0,2,1,1,1,3,4,175.0
+694,Fixing note about passing this to findIndex().,39,True,True,2016-03-20T20:11:55Z,2016-03-20T20:11:55Z,0,2,1,1,1,1,2,11166.0
+684,Update ch2.md,48,True,True,2016-03-20T20:13:33Z,2016-03-20T20:13:33Z,0,3,1,1,1,1,2,837733.0
+685,Update ch2.md,0,True,False,,2016-03-20T20:12:57Z,0,3,1,1,1,1,2,0
+691,ch1.md unnecessary word (only),62,True,True,2016-03-17T20:47:42Z,2016-03-17T20:47:42Z,0,2,1,1,1,1,2,1039.0
+690,Added 'o' for octal representation,0,True,False,,2016-03-17T18:39:09Z,0,2,1,1,1,1,2,0
+688,Merge pull request #2 from getify/master,3,True,False,,2016-03-17T11:41:02Z,0,1,0,0,0,0,0,0
+687,Coerces truthy values to Bool in onlyOne(),144,True,False,,2016-03-15T03:31:37Z,0,1,1,1,1,1,2,0
+679,fix(types and gramar - chapter 2),160,True,False,,2016-03-03T04:39:13Z,0,2,0,1,1,1,2,0
+677,fix(types and gramar - chapter 2),147,True,False,,2016-03-02T18:08:55Z,0,2,3,1,1,1,2,0
+678,Corrected spelling error line 221 in types & grammar/ch2.md,106,True,True,2016-03-02T20:15:52Z,2016-03-02T20:15:52Z,0,2,1,1,1,1,2,3906.0
+676,Fix typo (IEE-754 => IEEE-754),0,True,True,2016-03-02T00:00:30Z,2016-03-02T00:00:30Z,0,2,2,1,1,1,2,153.0
+672,Fix typo: valuess -> values,0,True,True,2016-02-24T16:12:21Z,2016-02-24T16:12:21Z,0,2,1,1,1,1,2,2296.0
+661,"Fix some ""recursion"" steps.",0,True,False,,2016-02-22T20:11:20Z,0,2,1,1,3,3,6,0
+669,fixing value returned from generator,168,True,True,2016-02-21T22:17:23Z,2016-02-21T22:17:23Z,0,2,1,1,1,1,2,1694.0
+668,removal of duplicated word could,0,True,True,2016-02-21T22:16:01Z,2016-02-21T22:16:01Z,0,2,1,1,1,1,2,1871.0
+670,Removed 'amount' modification in example to be consistent with narrative,131,True,False,,2016-02-22T03:09:41Z,0,2,1,1,0,2,2,0
+662,"Fix missing "".value""",0,True,True,2016-02-21T22:16:55Z,2016-02-21T22:16:55Z,0,2,1,1,4,4,8,701163.0
+667,removal of duplicated `could`,0,True,False,,2016-02-21T21:40:49Z,0,1,0,1,1,1,2,0
+666,update ch2.md in types & grammar,49,True,True,2016-02-18T04:35:55Z,2016-02-18T04:35:55Z,0,1,1,1,1,1,2,5235.0
+648,Updated bases for number calculations,0,True,False,,2016-02-17T12:23:29Z,0,2,2,1,1,1,2,0
+665,update ch1.md in types & grammar,34,True,True,2016-02-16T23:41:31Z,2016-02-16T23:41:31Z,0,1,1,1,2,2,4,1109.0
+663,"fix grammar in ""this & object prototypes"" chap. 4",145,True,True,2016-02-15T03:19:29Z,2016-02-15T03:19:29Z,0,2,1,1,1,1,2,15695.0
+632,Fix typo in CH1 and CH2 from the use of an RHS/LHS to the RHS/LHS,0,True,False,,2016-02-13T15:17:17Z,0,3,4,2,23,23,46,0
+642,consistent formatting of 'Strict Mode',0,True,False,,2016-02-13T15:16:32Z,0,2,0,1,2,2,4,0
+643,consistent formatting of 'Strict Mode',0,True,False,,2016-02-13T15:16:25Z,0,2,0,1,3,3,6,0
+644,Feature/update table of contents with relative links,398,True,False,,2016-02-13T15:16:12Z,0,2,1,6,265,233,498,0
+659,Add super call before accessing this object when extending native Error object.,0,True,True,2016-02-11T07:19:40Z,2016-02-11T07:19:40Z,0,2,1,1,1,0,1,15196.0
+652,Update ch6.md,39,True,True,2016-02-01T16:38:42Z,2016-02-01T16:38:42Z,0,2,2,1,4,4,8,693.0
+651,Fix typo in Async & Performance/Ch6,37,True,True,2016-02-01T04:20:27Z,2016-02-01T04:20:27Z,0,2,1,1,1,1,2,1497.0
+605,some elaboration.,75,True,False,,2016-01-15T13:59:51Z,0,2,1,1,9,2,11,0
+608,explain why or how instead of what,165,True,False,,2016-01-15T13:57:19Z,0,2,1,1,2,2,4,0
+630,"adding previous chapter, next chapter and table of contents links for each chapter",159,True,False,,2016-01-15T13:55:27Z,0,2,1,33,133,0,133,0
+627,It's safety to use loose equality.,38,True,False,,2016-01-14T17:19:58Z,0,2,3,1,5,5,10,0
+593,Typo correction,49,True,False,,2016-01-14T17:13:24Z,0,3,4,1,1,1,2,0
+598,"(fix): `there's` to `there're` in async, ch.2",0,True,False,,2016-01-14T17:11:40Z,0,2,1,1,1,1,2,0
+599,correct various grammatical errors,136,True,False,,2016-01-14T17:08:19Z,0,1,1,1,10,10,20,0
+604,Patch,19,True,False,,2016-01-14T17:05:48Z,0,3,1,2,2,2,4,0
+622,Change the copyright to 2016,51,True,False,,2016-01-14T17:04:23Z,0,2,1,1,1,1,2,0
+633,Merge pull request #1 from getify/master,6,True,False,,2016-01-11T11:43:03Z,0,1,0,0,0,0,0,0
+631,Minor Typo fix,56,True,False,,2016-01-10T21:47:55Z,0,1,0,1,1,1,2,0
+623,"Replace `:` with `,`.",27,True,False,,2016-01-04T05:43:39Z,0,2,2,1,1,1,2,0
+628,Add missing asterisk,0,True,True,2016-01-09T03:00:04Z,2016-01-09T03:00:04Z,0,2,1,1,1,1,2,31495.0
+625,Fix typos (Closing ** & Semicolons),0,True,True,2016-01-09T02:46:55Z,2016-01-09T02:46:55Z,0,2,1,1,3,3,6,80963.0
+619,Reworded so function timer is not referred to as anonymous,78,True,True,2016-01-02T02:07:31Z,2016-01-02T02:07:31Z,0,2,1,1,1,1,2,13955.0
+489,Correct the result of code snippet,305,True,True,2015-07-21T20:02:53Z,2015-07-21T20:02:53Z,0,2,2,1,1,1,2,58841.0
+607,Corrected `writable:false` to `writable:true` for non-readonly objects,159,True,False,,2015-12-25T22:04:52Z,0,2,1,1,1,1,2,0
+614,(fix): corrected values in sample output,105,True,False,,2015-12-24T23:00:24Z,0,2,2,1,2,2,4,0
+613,function expression needs to end with semicolon,0,True,True,2015-12-23T21:02:34Z,2015-12-23T21:02:34Z,0,2,1,1,1,1,2,2409.0
+602,Fix: Typo,0,True,True,2015-12-13T13:59:37Z,2015-12-13T13:59:37Z,0,2,2,1,1,1,2,21196.0
+597,Fix typo in Ch2 of ES6 & Beyond.,38,True,True,2015-12-04T05:15:26Z,2015-12-04T05:15:26Z,0,2,1,1,1,1,2,24123.0
+590,Update ch1.md,0,True,False,,2015-11-24T14:34:08Z,0,1,0,1,1,1,2,0
+589,"(fix) change ""which"" to ""that""",345,True,True,2015-11-23T13:14:49Z,2015-11-23T13:14:49Z,0,1,1,1,1,1,2,31232.0
+588,missing 'a',0,True,True,2015-11-21T18:39:29Z,2015-11-21T18:39:29Z,0,2,1,1,1,1,2,134269.0
+562,Add new phone only if bank_balance can cover the cost,68,True,False,,2015-11-09T14:12:06Z,0,2,1,1,1,1,2,0
+578,Removes unnecessary hyphen in reasonable,0,True,False,,2015-11-09T14:10:57Z,0,2,1,1,1,1,2,0
+586,"Fix call super function ""this & object prototypes / apA.md""",0,True,True,2015-11-09T14:10:35Z,2015-11-09T14:10:35Z,0,2,1,1,1,1,2,21509.0
+583,"Async & Performance, Ch 2: `timeoutify()` example bug",168,True,True,2015-11-07T02:48:33Z,2015-11-07T02:48:33Z,0,2,1,1,1,1,2,7019.0
+584,Update ch6.md,26,True,True,2015-11-07T12:23:40Z,2015-11-07T12:23:40Z,0,2,1,1,1,1,2,24277.0
+580,Fix spelling typo,103,True,True,2015-11-03T12:11:18Z,2015-11-03T12:11:18Z,0,2,1,1,1,1,2,27373.0
+527,fix statement about weak typing,452,True,False,,2015-10-29T13:00:29Z,0,2,3,1,1,1,2,0
+575,ch3.md word correction,0,True,True,2015-10-24T21:36:17Z,2015-10-24T21:36:17Z,0,2,1,1,1,1,2,3531.0
+574,simple fix for a not really module,113,True,False,,2015-10-24T16:13:35Z,0,2,1,1,2,0,2,0
+573,Merge pull request #1 from getify/master,13,True,False,,2015-10-24T13:19:59Z,0,1,0,0,0,0,0,0
+569,Merge pull request #1 from getify/master,13,True,False,,2015-10-22T22:21:18Z,0,1,0,0,0,0,0,0
+571,Fix typo,39,True,False,,2015-10-23T13:45:19Z,0,2,6,1,1,1,2,0
+570,Fix typo ch7 (es6 & beyond),78,True,True,2015-10-23T05:05:29Z,2015-10-23T05:05:29Z,0,2,1,1,1,1,2,18844.0
+567, Fix typo,36,True,True,2015-10-21T09:56:37Z,2015-10-21T09:56:37Z,0,2,1,1,1,1,2,16069.0
+566,Fix typo ch5 (types and grammar),36,True,True,2015-10-20T11:38:31Z,2015-10-20T11:38:31Z,0,2,1,1,1,1,2,25207.0
+563,"corrects grammar from ""who"" to ""to whom""",0,True,True,2015-10-19T01:46:39Z,2015-10-19T01:46:39Z,0,1,0,1,1,1,2,10089.0
+564,corrects syntax,0,True,True,2015-10-19T01:47:43Z,2015-10-19T01:47:43Z,0,1,0,1,1,1,2,7663.0
+561,fix missing 'a',0,True,True,2015-10-14T02:46:27Z,2015-10-14T02:46:27Z,0,3,2,1,1,1,2,563.0
+560,Fix Typo in Ch 2 of Types & Grammer,136,True,True,2015-10-13T20:08:30Z,2015-10-13T20:08:30Z,0,2,1,1,1,1,2,125.0
+559,Fix typos in ch5 (types and grammar),70,True,True,2015-10-13T00:57:31Z,2015-10-13T00:57:31Z,0,2,1,1,2,2,4,1167.0
+558,Match ES6 Review Section Title to Other Books,153,True,False,,2015-10-12T20:10:20Z,0,3,4,8,8,8,16,0
+556,Match Review Section Title to Other Books,113,True,False,,2015-10-12T20:10:50Z,0,1,0,6,6,6,12,0
+557,Match Async Review Section Title to Other Books,135,True,False,,2015-10-12T20:10:37Z,0,1,0,8,8,8,16,0
+554,Added checkboxes to Readmes,0,True,False,,2015-10-09T05:22:21Z,0,1,1,1,6,6,12,0
+545,Fix typos in ch7 (es6 & beyond),158,True,True,2015-10-07T06:19:12Z,2015-10-07T06:19:12Z,0,2,2,1,4,4,8,986846.0
+553,Fix typos in ch4 (async & performance),83,True,True,2015-10-07T06:17:09Z,2015-10-07T06:17:09Z,0,2,2,1,2,2,4,11797.0
+551,Fix typos in ch2 (async & performance),35,True,True,2015-10-02T17:07:53Z,2015-10-02T17:07:53Z,0,2,1,1,1,1,2,2274.0
+550,Fix typos in ch5 (async & performance),151,True,True,2015-10-01T05:05:14Z,2015-10-01T05:05:14Z,0,2,1,1,4,4,8,1172.0
+548,Fix typos in ch2 (es6 & beyond),118,True,True,2015-09-30T05:39:57Z,2015-09-30T05:39:57Z,0,2,1,1,3,3,6,13111.0
+547,Fix typo in ch3 (es6 & beyond),88,True,True,2015-09-29T00:50:44Z,2015-09-29T00:50:44Z,0,2,1,1,1,1,2,6887.0
+544,"Fix typo in ch8: ""signficantly"" => ""significantly""",136,True,True,2015-09-24T17:49:09Z,2015-09-24T17:49:09Z,0,2,1,1,1,1,2,10149.0
+538,Fixed typo,0,True,True,2015-09-16T14:36:11Z,2015-09-16T14:36:11Z,0,2,1,1,1,1,2,391.0
+536,Fix typo about failed LHS lookup error type in Review section,124,True,False,,2015-09-14T12:39:08Z,0,2,3,1,1,1,2,0
+534,Add forgotten semicolon,0,True,True,2015-09-11T17:06:16Z,2015-09-11T17:06:16Z,0,2,1,1,1,1,2,11886.0
+517,Fix Typo,0,True,False,,2015-09-01T04:02:00Z,0,3,2,1,1,1,2,0
+507,Update apC.md,679,True,True,2015-08-29T13:10:55Z,2015-08-29T13:10:55Z,0,2,2,1,1,1,2,1911458.0
+525,Fix typo,23,True,True,2015-08-29T13:13:20Z,2015-08-29T13:13:20Z,0,2,1,1,1,1,2,62765.0
+508,fix two s/equitable/equatable/ typos,372,True,True,2015-08-29T13:07:58Z,2015-08-29T13:07:58Z,0,2,1,1,2,2,4,1909313.0
+510,minor code style alignment + little typos corrected,96,True,False,,2015-08-29T13:06:11Z,0,1,0,2,17,17,34,0
+511,fixed logical mistake in explanation of iterator loop,294,True,False,,2015-08-29T12:51:56Z,0,2,2,1,1,1,2,0
+521,Chapter 2 code snippet revision,35,True,False,,2015-08-29T12:40:30Z,0,2,1,1,3,4,7,0
+522,Inconsistencies around setTimeout invocation,0,True,False,,2015-08-29T12:40:18Z,0,2,1,1,3,4,7,0
+520,Adding missing variable in example,17,True,True,2015-08-25T01:33:56Z,2015-08-25T01:33:56Z,0,3,2,1,1,0,1,7208.0
+519,Chapter 1 misspelling: exlusively -> exclusively,0,True,True,2015-08-25T01:35:15Z,2015-08-25T01:35:15Z,0,2,1,1,1,1,2,15759.0
+516,Update ch5.md,23,True,True,2015-08-21T15:08:24Z,2015-08-21T15:08:24Z,0,2,2,1,1,1,2,3141.0
+515,"""scope & closures"": ch2, improved formatting",0,True,True,2015-08-17T23:32:44Z,2015-08-17T23:32:44Z,0,2,2,1,1,1,2,287.0
+505,join JSON array elements with commas,190,True,False,,2015-08-08T06:06:22Z,0,2,3,1,1,1,2,0
+503,fixed typo,0,True,True,2015-08-05T12:19:19Z,2015-08-05T12:19:19Z,0,2,2,1,1,1,2,1210.0
+502,Fix typo,0,True,False,,2015-08-05T11:56:54Z,0,1,0,1,1,1,2,0
+501,Fix typo,20,True,True,2015-08-03T13:58:03Z,2015-08-03T13:58:03Z,0,2,1,1,1,1,2,23637.0
+500,Fixed typo on variable names,0,True,True,2015-08-02T23:20:48Z,2015-08-02T23:20:48Z,0,2,1,1,2,2,4,342.0
+499,fixed typo,20,True,True,2015-08-02T00:04:25Z,2015-08-02T00:04:25Z,0,2,1,1,1,1,2,557.0
+497,"minor edits: verb agreement, temporal consistency",84,True,True,2015-07-31T18:24:32Z,2015-07-31T18:24:32Z,0,2,1,1,4,4,8,1416.0
+495,instructional comment corrected,592,True,False,,2015-07-30T22:24:37Z,0,2,4,1,1,1,2,0
+496,Fix typo,0,True,True,2015-07-31T04:16:43Z,2015-07-31T04:16:43Z,0,2,1,1,1,1,2,7829.0
+494,verbal agreement - applies/points,64,True,True,2015-07-30T12:51:38Z,2015-07-30T12:51:38Z,0,2,0,1,1,1,2,16351.0
+493,Make ordering of primitive types consistent.,0,True,True,2015-07-30T06:01:35Z,2015-07-30T06:01:35Z,0,2,1,1,1,1,2,5232.0
+492,correct word spelling: presize->resize,0,True,False,,2015-07-29T04:30:34Z,0,2,1,1,1,1,2,0
+491,Typo in Proxy example,0,True,True,2015-07-29T00:30:24Z,2015-07-29T00:30:25Z,0,2,1,1,1,1,2,28832.0
+490,"""this & object prototypes"": ch5 - typo",0,True,False,,2015-07-21T15:34:52Z,0,2,2,1,1,1,2,0
+488,Update ch7.md,33,True,True,2015-07-13T23:00:32Z,2015-07-13T23:00:32Z,0,2,1,1,1,1,2,1520.0
+485,Update ch3.md,38,True,True,2015-07-10T12:16:59Z,2015-07-10T12:16:59Z,0,2,1,1,1,1,2,2790.0
+484,Update ch2.md,38,True,False,,2015-07-09T22:29:00Z,0,2,2,1,1,1,2,0
+482,End question with question mark,3,True,True,2015-07-09T14:15:42Z,2015-07-09T14:15:42Z,0,2,1,1,1,1,2,261587.0
+475,Typo Fix,0,True,True,2015-07-09T14:14:48Z,2015-07-09T14:14:48Z,0,2,1,1,1,1,2,547878.0
+479,"Update ch3.md - remove unnecessary ""the""",365,True,True,2015-07-09T14:13:21Z,2015-07-09T14:13:21Z,0,2,1,1,1,1,2,335505.0
+481,s/positive/non-negative/,92,True,True,2015-07-09T14:12:18Z,2015-07-09T14:12:18Z,0,2,1,1,1,1,2,261671.0
+469,"Adding commas around ""for instance""",0,True,True,2015-06-18T03:55:24Z,2015-06-18T03:55:24Z,0,2,1,1,1,1,2,1751.0
+467,Corrects minor typo.,151,True,True,2015-06-15T03:51:12Z,2015-06-15T03:51:12Z,0,2,1,1,1,1,2,48233.0
+462,"""this & object prototypes"": update ch5",48,True,True,2015-06-09T04:30:04Z,2015-06-09T04:30:04Z,0,2,2,1,2,2,4,254264.0
+463,Spelling fixes,0,True,False,,2015-06-09T13:12:50Z,0,2,1,2,5,5,10,0
+461,Update ch5.md,395,True,False,,2015-06-06T21:09:12Z,0,2,4,1,21,21,42,0
+460,Update ch7.md,0,True,True,2015-06-02T13:56:12Z,2015-06-02T13:56:12Z,0,2,2,1,1,1,2,29526.0
+458,Update ch5.md Map values .includes() example,156,True,False,,2015-05-29T14:23:12Z,0,2,2,1,2,2,4,0
+459,Update ch5.md - minor typo,58,True,True,2015-05-29T14:10:46Z,2015-05-29T14:10:46Z,0,2,1,1,1,1,2,18840.0
+457,Update ch5.md Map api // includes -> has,282,True,False,,2015-05-29T08:43:58Z,0,1,2,1,3,3,6,0
+455,Update ch1.md,52,True,True,2015-05-26T04:47:56Z,2015-05-26T04:47:56Z,0,2,1,1,1,1,2,50117.0
+454,Corrected spelling of two words.,57,True,True,2015-05-22T03:33:10Z,2015-05-22T03:33:10Z,0,2,1,2,2,2,4,27315.0
+451,Fix a couple of typos,61,True,True,2015-05-19T21:18:57Z,2015-05-19T21:18:57Z,0,2,1,1,2,2,4,67856.0
+449,"issue 448, updating mis-type",238,True,True,2015-05-15T15:45:36Z,2015-05-15T15:45:36Z,0,2,1,1,1,1,2,3299.0
+447,Fix mistake in ch.7,61,True,True,2015-05-14T09:13:15Z,2015-05-14T09:13:15Z,0,2,1,1,1,1,2,159.0
+446,Fix link to Unicode regex post,57,True,True,2015-05-13T21:19:39Z,2015-05-13T21:19:39Z,0,2,1,1,1,1,2,14505.0
+445,Fixed a typo,137,True,False,,2015-05-13T08:24:49Z,0,2,4,1,1,1,2,0
+441,Fix typo (abstration -> abstraction),0,True,True,2015-05-10T17:22:03Z,2015-05-10T17:22:03Z,0,2,3,1,1,1,2,40922.0
+442,fix: Minor error when defining MyCoolArray.last,0,True,True,2015-05-10T17:22:32Z,2015-05-10T17:22:32Z,0,2,2,1,1,1,2,22870.0
+440,Fix typo from `he` to `it`,77,True,True,2015-05-10T17:20:14Z,2015-05-10T17:20:14Z,0,2,1,1,1,1,2,99079.0
+409,"es6+beyond: ch3, fixed typo in 'transpiling a generator'",340,True,True,2015-05-10T17:17:18Z,2015-05-10T17:17:18Z,0,2,2,1,3,2,5,2852171.0
+416,Fix typo for DOM API call `document.getElementById`,76,True,True,2015-05-10T17:12:16Z,2015-05-10T17:12:16Z,0,2,1,1,2,2,4,1732560.0
+415,extremely trivial tweak of a comment,118,True,True,2015-05-10T16:35:16Z,2015-05-10T16:35:16Z,0,2,1,1,1,1,2,1813173.0
+417,"fix typo (""bascially"" to ""basically"")",37,True,False,,2015-05-10T16:34:35Z,0,2,1,1,1,1,2,0
+432,Fix a couple of typos,0,True,False,,2015-05-10T16:33:45Z,0,2,0,1,2,2,4,0
+439,es6+beyond: revise const GC admonition,11,True,True,2015-05-08T21:29:31Z,2015-05-08T21:29:31Z,0,2,1,1,1,1,2,66.0
+433,Update ch1.md,4,True,True,2015-05-06T18:53:39Z,2015-05-06T18:53:39Z,0,2,1,1,1,1,2,662.0
+429,Change in indenting.,146,True,True,2015-05-05T13:04:26Z,2015-05-05T13:04:26Z,0,2,1,1,1,1,2,4673.0
+418,"You Don't Know JS: ES6 & Beyond, Forward",0,True,True,2015-05-04T17:35:04Z,2015-05-04T17:35:04Z,0,2,1,1,15,0,15,1127920.0
+428,Updated Proxy assignment,31,True,True,2015-05-02T18:31:06Z,2015-05-02T18:31:06Z,0,2,1,1,1,1,2,12508.0
+426,Fix error being thrown on typeof,1074,True,True,2015-04-30T22:21:48Z,2015-04-30T22:21:48Z,0,2,1,1,1,1,2,4433.0
+422,Soft binding code description change,178,True,False,,2015-04-28T13:08:52Z,0,2,3,1,1,1,2,0
+420,Merge pull request #1 from getify/master,5,True,False,,2015-04-24T12:14:28Z,0,1,0,0,0,0,0,0
+407,"fix typo (extraneous ""can"")",0,True,True,2015-04-07T13:14:02Z,2015-04-07T13:14:02Z,0,2,1,1,1,1,2,15983.0
+408,fix typo,97,True,False,,2015-04-07T13:11:43Z,0,2,1,1,1,1,2,0
+400,Update toc.md,56,True,True,2015-03-28T19:50:11Z,2015-03-28T19:50:11Z,0,2,1,1,0,1,1,9273.0
+399,Update toc.md,36,True,True,2015-03-28T16:52:26Z,2015-03-28T16:52:26Z,0,2,0,1,1,0,1,28746.0
+398,"fix typos (double ""the"", and double ""a"")",0,True,True,2015-03-25T01:16:11Z,2015-03-25T01:16:11Z,0,2,1,2,3,3,6,115102.0
+397,Fix typo robbin->robin,0,True,True,2015-03-20T04:18:21Z,2015-03-20T04:18:21Z,0,2,1,1,1,1,2,50712.0
+396,Fix 'accross',14,True,True,2015-03-18T15:34:09Z,2015-03-18T15:34:09Z,0,2,1,1,1,1,2,221.0
+393,Merge pull request #1 from getify/master,5,True,False,,2015-03-17T04:21:31Z,0,1,0,0,0,0,0,0
+392,Resolved missing comment,52,True,True,2015-03-16T12:49:40Z,2015-03-16T12:49:40Z,0,2,2,1,2,2,4,6863.0
+391,"fix typo: ""thos"" → ""those""",0,True,True,2015-03-16T03:39:39Z,2015-03-16T03:39:39Z,0,2,1,1,1,1,2,9413.0
+390,chesseburger => cheeseburger,0,True,True,2015-03-16T03:29:45Z,2015-03-16T03:29:45Z,0,2,1,1,1,1,2,9871.0
+388,"Typo: double ""the""",0,True,True,2015-03-15T19:43:49Z,2015-03-15T19:43:49Z,0,2,1,1,1,1,2,520.0
+386,Fixed typo: discusssed => discussed,0,True,True,2015-03-15T15:44:14Z,2015-03-15T15:44:14Z,0,2,0,1,1,1,2,4697.0
+384,Update ch3.md,5,True,True,2015-03-15T07:35:29Z,2015-03-15T07:35:29Z,0,2,1,1,1,1,2,744.0
+383,Changed Promise.race([..]) to Promise.race([ .. ]) to be consistent with other usages,73,True,True,2015-03-14T14:10:14Z,2015-03-14T14:10:14Z,0,2,1,1,1,1,2,12779.0
+374,"types+grammar: ch3, replace 'seconds' by 'milliseconds'",116,True,False,,2015-03-08T01:58:38Z,0,2,0,2,9,1,10,0
+378,fix Destructuring Parameters 3rd example typo,0,True,True,2015-03-10T14:07:06Z,2015-03-10T14:07:06Z,0,2,1,1,1,1,2,694.0
+375,Update ch4.md,4,True,True,2015-03-08T21:41:53Z,2015-03-08T21:41:53Z,0,2,1,1,1,1,2,46657.0
+371,Update ch5.md,0,True,True,2015-03-04T06:02:09Z,2015-03-04T06:02:09Z,0,2,1,1,1,1,2,85976.0
+369,Update ch3.md,0,True,True,2015-03-01T17:22:40Z,2015-03-01T17:22:40Z,0,2,1,1,1,1,2,248.0
+368,Some nitpicks in the Unicode-related sections,0,True,True,2015-03-01T17:00:45Z,2015-03-01T17:00:45Z,0,2,1,1,27,27,54,5141.0
+367,Update apB.md,85,True,False,,2015-03-01T16:52:59Z,0,2,1,1,2,2,4,0
+366,Update apA.md,82,True,False,,2015-03-01T16:52:36Z,0,2,1,1,3,3,6,0
+365,Update ch6.md,91,True,False,,2015-03-01T16:47:19Z,0,2,1,1,4,4,8,0
+364,Update ch5.md,82,True,False,,2015-03-01T16:41:18Z,0,2,1,1,8,8,16,0
+361,Update ch5.md,78,True,False,,2015-03-01T16:18:52Z,0,3,2,1,1,1,2,0
+363,Update ch4.md,99,True,True,2015-03-01T16:22:35Z,2015-03-01T16:22:35Z,0,2,1,1,7,7,14,10846.0
+362,Update apD.md,77,True,False,,2015-03-01T16:19:43Z,0,2,1,1,2,2,4,0
+360,Update ch3.md,88,True,True,2015-03-01T16:12:30Z,2015-03-01T16:12:30Z,0,2,1,1,3,3,6,19868.0
+359,Update ch2.md,77,True,True,2015-03-01T16:05:43Z,2015-03-01T16:05:43Z,0,2,1,1,5,5,10,19630.0
+358,Update ch1.md,78,True,True,2015-03-01T15:59:53Z,2015-03-01T15:59:53Z,0,2,1,1,2,2,4,19465.0
+356,Update apA.md,72,True,False,,2015-03-01T15:58:22Z,0,2,1,1,2,2,4,0
+355,Update ch3.md,69,True,True,2015-03-01T15:54:30Z,2015-03-01T15:54:30Z,0,2,1,1,1,1,2,20674.0
+354,Update ch2.md,74,True,True,2015-03-01T15:53:26Z,2015-03-01T15:53:27Z,0,2,1,1,4,4,8,20815.0
+353,Update ch1.md,74,True,True,2015-03-01T15:51:09Z,2015-03-01T15:51:09Z,0,2,1,1,3,3,6,21170.0
+352,Update foreword.md,56,True,False,,2015-03-01T15:19:33Z,0,2,0,1,2,2,4,0
+351,Talk about template strings,121,True,False,,2015-03-01T15:15:14Z,0,2,1,1,6,1,7,0
+299,"""this & object prototypes"": using new empty array to apply concat method",237,True,False,,2015-02-24T05:27:32Z,0,4,8,1,1,1,2,0
+347,Update ch1.md,33,True,False,,2015-02-24T05:25:03Z,0,2,1,1,2,2,4,0
+337,Typo correction for A&P chapters,125,True,True,2015-02-17T01:10:54Z,2015-02-17T01:10:54Z,0,2,0,3,4,4,8,9924.0
+343,Renamed 6to5 to Babel and fixed link,0,True,True,2015-02-19T05:27:13Z,2015-02-19T05:27:13Z,0,2,1,1,1,1,2,136012.0
+344,Typo in ch2 code,0,True,True,2015-02-18T00:58:56Z,2015-02-18T00:58:56Z,0,2,1,1,1,1,2,504.0
+342,"remove ""of""",0,True,True,2015-02-17T09:31:56Z,2015-02-17T09:31:56Z,0,2,1,1,1,1,2,1935.0
+341,fix typo: surrouding -> surrounding,0,True,True,2015-02-17T08:59:04Z,2015-02-17T08:59:04Z,0,2,1,1,1,1,2,100.0
+340,Update ch1.md,36,True,True,2015-02-17T02:24:00Z,2015-02-17T02:24:01Z,0,2,1,1,1,1,2,1769.0
+339,Update ch1.md,35,True,True,2015-02-17T02:23:10Z,2015-02-17T02:23:10Z,0,2,1,1,1,1,2,2040.0
+336,es6 & beyond: fix typo,0,True,True,2015-02-16T21:34:07Z,2015-02-16T21:34:07Z,0,2,1,1,1,1,2,1438.0
+334,Corrected misspelled ReferenceError on line 99,47,True,True,2015-02-16T19:15:33Z,2015-02-16T19:15:33Z,0,2,1,1,1,1,2,1345.0
+332,Fix typo in ch2 up & going,0,True,True,2015-02-16T15:08:10Z,2015-02-16T15:08:10Z,0,2,2,1,1,1,2,3879.0
+331,Update ch3.md,0,True,True,2015-02-15T19:27:08Z,2015-02-15T19:27:08Z,0,2,1,1,1,1,2,29662.0
+329,"remove second ""can""",0,True,True,2015-02-13T18:34:59Z,2015-02-13T18:35:00Z,0,2,1,1,1,1,2,118557.0
+326,async+perf: fix typos in foreword,0,True,False,,2015-02-13T05:48:54Z,0,1,0,1,2,2,4,0
+327,types+grammar: fix typos in update foreword,166,True,False,,2015-02-13T05:44:13Z,0,2,1,1,1,1,2,0
+328,remove duplicated article,78,True,False,,2015-02-13T05:33:28Z,0,3,2,1,1,1,2,0
+324,Adding forward for Up & Going,38,True,True,2015-02-11T18:22:48Z,2015-02-11T18:22:48Z,0,2,1,1,21,0,21,52406.0
+319,async+perf: add missing var in example,55,True,True,2015-02-11T05:58:13Z,2015-02-11T05:58:13Z,0,2,0,1,1,1,2,799417.0
+318,"minor typo, desciptors -> descriptors",0,True,True,2015-02-01T01:39:33Z,2015-02-01T01:39:33Z,0,2,1,1,1,1,2,4705.0
+317,Minor typo fixed,0,True,True,2015-01-29T00:37:23Z,2015-01-29T00:37:23Z,0,2,1,1,1,1,2,10111.0
+313,"Use genitive for ""your being able to write""",157,True,False,,2015-01-22T21:46:47Z,0,2,1,1,1,1,2,0
+310,"""Finally"" section contained a syntax error",174,True,False,,2015-01-21T08:54:49Z,0,2,3,1,1,1,2,0
+293,Adding foreword,0,True,True,2015-01-13T16:58:33Z,2015-01-13T16:58:33Z,0,4,3,1,15,0,15,101412.0
+300,.toExponential() returns a string,0,True,True,2015-01-14T06:13:56Z,2015-01-14T06:13:56Z,0,2,0,1,1,1,2,23679.0
+282,"Eval is maligned (and rightly so), and punctuation goes inside quotes.",103,True,True,2015-01-06T23:11:10Z,2015-01-06T23:11:10Z,0,4,5,1,2,2,4,2428.0
+280,Update ch1.md,0,True,False,,2015-01-06T06:04:30Z,0,2,1,1,3,3,6,0
+272,Fixing small 'contextual' typo,100,True,False,,2014-12-29T00:33:53Z,0,2,3,1,1,1,2,0
+279,edit to variable assignment on line 492,0,True,True,2015-01-05T02:47:55Z,2015-01-05T02:47:55Z,0,2,1,1,1,1,2,412.0
+278,typo fixes,40,True,True,2015-01-04T23:20:37Z,2015-01-04T23:20:37Z,0,2,1,1,2,2,4,1079.0
+277,fix link to oreilly,0,True,True,2015-01-04T02:48:24Z,2015-01-04T02:48:24Z,0,2,1,1,1,1,2,2488.0
+276,"typo fix, ""politley"" to ""politely""",0,True,True,2015-01-04T00:06:14Z,2015-01-04T00:06:14Z,0,2,1,1,1,1,2,1784.0
+275,removes function's name of anonymous function,0,True,False,,2015-01-03T15:04:29Z,0,2,1,1,2,2,4,0
+269,"async+perf: ch3, typo fix",0,True,True,2014-12-26T04:55:33Z,2014-12-26T04:55:33Z,0,2,1,1,1,1,2,1167.0
+259,Various recommendations,363,True,False,,2014-12-08T06:05:10Z,0,2,2,5,51,43,94,0
+266,fix small typo,0,True,True,2014-12-19T21:41:33Z,2014-12-19T21:41:33Z,0,2,1,1,1,1,2,3886.0
+263,Update ch6.md,40,True,False,,2014-12-18T05:24:05Z,0,2,0,1,5,5,10,0
+255,"Fix misspelling ""prolyfill""",0,True,False,,2014-12-02T23:43:10Z,0,3,1,1,1,1,2,0
+254,Minor revisions to the SIMD section,136,True,False,,2014-12-02T20:02:15Z,0,3,1,1,7,7,14,0
+252,Minor edit,0,True,False,,2014-12-01T04:57:34Z,0,2,1,1,3,3,6,0
+247,typo,15,True,True,2014-11-20T21:06:36Z,2014-11-20T21:06:36Z,0,2,1,1,1,1,2,2582.0
+245,typo,13,True,True,2014-11-20T20:14:54Z,2014-11-20T20:14:54Z,0,2,1,1,1,1,2,2747.0
+244,typo,43,True,True,2014-11-20T20:14:39Z,2014-11-20T20:14:39Z,0,2,1,1,1,1,2,5898.0
+243,typo,16,True,True,2014-11-20T17:34:22Z,2014-11-20T17:34:22Z,0,2,1,1,1,1,2,861.0
+242,fix code at async ch2 Trying To Save Callbacks,46,True,True,2014-11-20T13:05:17Z,2014-11-20T13:05:17Z,0,2,1,1,1,1,2,17981.0
+241,Update ch5.md,70,True,False,,2014-11-18T19:05:37Z,0,2,3,1,1,1,2,0
+240,fixed typo,0,True,True,2014-11-18T00:05:46Z,2014-11-18T00:05:46Z,0,2,2,1,1,1,2,5428.0
+239,fix variable name in comment,0,True,True,2014-11-17T00:56:26Z,2014-11-17T00:56:26Z,0,2,1,1,1,1,2,846.0
+238,"add missing parameter ""delay"" to timeoutify call",0,True,True,2014-11-17T00:54:38Z,2014-11-17T00:54:38Z,0,2,1,1,1,1,2,2136.0
+236,Fill in missing chapter number,0,True,True,2014-11-16T22:49:39Z,2014-11-16T22:49:39Z,0,2,1,1,1,1,2,534.0
+230,fix typo,0,True,True,2014-11-13T07:42:46Z,2014-11-13T07:42:46Z,0,2,0,1,1,1,2,4550.0
+229,Minor edits,70,True,False,,2014-11-12T03:41:18Z,0,3,0,3,18,10,28,0
+228,fix typo,25,True,True,2014-11-10T20:53:58Z,2014-11-10T20:53:58Z,0,2,0,1,1,1,2,116804.0
+225,fix typo,25,True,True,2014-11-07T12:45:35Z,2014-11-07T12:45:35Z,0,2,1,1,2,2,4,16839.0
+221,so architects won't hate the book ;D,237,True,False,,2014-11-05T03:42:16Z,0,2,0,1,1,1,2,0
+222,fix(typo),20,True,True,2014-11-03T13:10:09Z,2014-11-03T13:10:09Z,0,2,1,1,1,1,2,20983.0
+219,Fixed Promise#race() examples,79,True,True,2014-10-26T23:47:56Z,2014-10-26T23:47:56Z,0,2,0,1,4,4,8,9693.0
+218,Fixed copy & paste error: failure -> filfillment,168,True,True,2014-10-26T20:24:05Z,2014-10-26T20:24:05Z,0,2,0,1,1,1,2,235.0
+216,A collection of typo fixes,75,True,False,,2014-10-24T21:53:33Z,0,2,3,6,12,12,24,0
+214,Typo fix: they've --> they're,0,True,True,2014-10-23T22:15:13Z,2014-10-23T22:15:13Z,0,2,1,1,1,1,2,1812.0
+212,Fixed a tiny typo,0,True,True,2014-10-21T21:26:45Z,2014-10-21T21:26:45Z,0,2,0,1,1,1,2,134.0
+204,errata,6,True,True,2014-10-14T21:50:21Z,2014-10-14T21:50:21Z,0,2,0,2,3,3,6,392007.0
+203,Fix tiny typo: Line 30 'statment' ->  'statement',95,True,True,2014-09-27T23:43:51Z,2014-09-27T23:43:51Z,0,2,1,1,1,1,2,15743.0
+202,fix typo,0,True,True,2014-09-27T05:06:07Z,2014-09-27T05:06:07Z,0,2,1,1,1,1,2,28683.0
+166,Mozilla's JavaScript engine throws reference error,66,True,False,,2014-09-27T05:05:31Z,0,2,0,1,1,2,3,0
+201,fix typo,0,True,True,2014-09-27T05:04:40Z,2014-09-27T05:04:40Z,0,2,1,1,1,1,2,29121.0
+200,fix typo,0,True,True,2014-09-27T05:03:56Z,2014-09-27T05:03:56Z,0,2,1,1,1,1,2,34879.0
+186,Update ch5.md,67,True,False,,2014-09-27T05:02:40Z,0,2,0,1,1,1,2,0
+190,Fix forward to scope & closures in README,202,True,True,2014-09-17T13:30:40Z,2014-09-17T13:30:40Z,0,3,4,1,1,1,2,338.0
+184,Updating forward to semi-final state,69,True,True,2014-09-04T21:16:02Z,2014-09-04T21:16:02Z,0,3,3,1,5,1,6,141.0
+185,Respec,0,True,True,2014-09-04T21:25:31Z,2014-09-04T21:25:31Z,0,4,2,1,1,1,2,129.0
+181,Update string coercion,0,True,True,2014-08-28T21:29:39Z,2014-08-28T21:29:39Z,0,2,1,1,14,1,15,872.0
+175,Changed Markdown for HTML to get AST definition properly rendered,395,True,True,2014-08-23T22:04:35Z,2014-08-23T22:04:35Z,0,2,1,1,1,1,2,919986.0
+173,fix spelling error,0,True,True,2014-08-12T13:13:33Z,2014-08-12T13:13:33Z,0,2,1,1,1,1,2,1481.0
+172,fix all line-broken words in foreword,172,True,True,2014-08-11T16:46:08Z,2014-08-11T16:46:08Z,0,2,0,1,4,4,8,223.0
+171,fix a small typo,0,True,False,,2014-08-11T16:44:58Z,0,2,0,1,1,1,2,0
+4,"Fixes some minor grammatical, spelling, typo errors.",175,True,True,2013-11-16T16:16:40Z,2013-11-16T16:16:40Z,0,2,1,1,8,8,16,9083.0
+164,typo fixes,601,True,True,2014-07-23T18:38:41Z,2014-07-23T18:38:41Z,0,2,2,5,7,7,14,1486.0
+163,"According to MDN: writable, true if and only if the value associated with the property may be changed with an assignment operator.",0,True,False,,2014-07-22T19:05:01Z,0,2,1,1,1,1,2,0
+5,Update ch5.md,0,True,True,2013-11-16T22:46:41Z,2013-11-16T22:46:41Z,0,2,1,1,2,2,4,14816.0
+158,Not Available ch2.md,60,True,False,,2014-07-17T02:13:24Z,0,2,1,1,0,1,1,0
+46,Adding output for code snippet,82,True,True,2014-01-23T01:47:32Z,2014-01-23T01:47:32Z,0,2,1,1,1,1,2,4945.0
+81,Code snippet in Chapter 4 is not marked up,0,True,True,2014-03-08T18:01:56Z,2014-03-08T18:01:56Z,0,3,1,1,2,0,2,5968.0
+157,replace 'user' with 'pw',0,True,True,2014-07-11T13:13:03Z,2014-07-11T13:13:03Z,0,2,0,1,1,1,2,22867.0
+129,Typo in  scope & closures ch1,0,True,True,2014-05-03T15:09:06Z,2014-05-03T15:09:06Z,0,2,1,1,2,2,4,9855.0
+7,Editing,69,True,False,,2013-11-18T05:31:01Z,0,2,1,2,20,5,25,0
+80,Another small typo in Chapter 3,0,True,True,2014-03-08T18:02:31Z,2014-03-08T18:02:31Z,0,2,1,1,1,1,2,8431.0
+144,fixes some typos,173,True,True,2014-06-30T19:47:38Z,2014-06-30T19:47:38Z,0,2,1,3,4,4,8,1058634.0
+149,Remove unnecessary qualification,66,True,False,,2014-06-28T22:02:57Z,0,2,2,1,1,1,2,0
+148,"Fix: ""him"" -> ""it""",0,True,True,2014-06-28T21:51:29Z,2014-06-28T21:51:29Z,0,2,1,1,1,1,2,307.0
+147,"Fix: ""simplicity sake"" -> ""simplicity's sake""",0,True,True,2014-06-28T21:50:44Z,2014-06-28T21:50:44Z,0,2,1,2,2,2,4,303.0
+146,Fix typo: infinite,0,True,True,2014-06-28T21:48:45Z,2014-06-28T21:48:45Z,0,2,1,1,1,1,2,257.0
+145,Add missing apostrophe,0,True,True,2014-06-28T21:12:21Z,2014-06-28T21:12:21Z,0,2,1,1,1,1,2,893.0
+96,Get user and pass strings not dom nodes so the compare and length checks work,0,True,True,2014-03-30T18:21:11Z,2014-03-30T18:21:11Z,0,2,1,1,2,2,4,787.0
+127,"Fix: MarkDown typo: due to this, Non-Strict mode read as Strict mode as ...",27,True,True,2014-05-02T01:42:42Z,2014-05-02T01:42:42Z,0,2,3,1,2,2,4,771.0
+24,Update ch3.md: missing semi-colon,65,True,True,2013-12-24T04:47:32Z,2013-12-24T04:47:32Z,0,2,1,1,1,1,2,12365.0
+16,Fix typo,27,True,True,2013-12-02T01:25:02Z,2013-12-02T01:25:02Z,0,2,2,1,1,1,2,7927.0
+18,Correct small omission in scope examples,0,True,True,2013-12-04T19:15:51Z,2013-12-04T19:15:51Z,0,2,1,1,1,1,2,36945.0
+114,Small typo: 'It you may' => 'You may' on Line 40,151,True,True,2014-04-18T10:25:49Z,2014-04-18T10:25:49Z,0,2,1,1,1,1,2,27588.0
+121,"Line 859, ""you'd might want to"" => ""you might want to""",189,True,True,2014-04-25T05:13:54Z,2014-04-25T05:13:54Z,0,2,0,1,1,1,2,2107.0
+17,Corrected one typo(changed 'is has' to 'has' on line 134,195,True,True,2013-12-03T19:25:02Z,2013-12-03T19:25:02Z,0,2,2,1,1,1,2,24710.0
+14,fixed typo,50,True,True,2013-11-25T02:18:34Z,2013-11-25T02:18:34Z,0,2,1,1,1,1,2,1646.0
+20,typo -  'the' word repeated,46,True,True,2013-12-09T20:44:08Z,2013-12-09T20:44:08Z,0,2,1,1,1,1,2,650.0
+8,scope & closure/ch1.md; NumberLiteral => NumericLiteral,50,True,True,2013-11-18T17:05:29Z,2013-11-18T17:05:29Z,0,2,2,1,5,5,10,96.0
+105,Another small typo - removed 'is' after 'this',227,True,True,2014-04-09T13:56:54Z,2014-04-09T13:56:54Z,0,2,1,1,1,1,2,5985.0
+6,Update ch5.md,230,True,True,2013-11-16T22:47:13Z,2013-11-16T22:47:13Z,0,2,1,1,2,2,4,14475.0
+131,Typo:polymorpism,17,True,True,2014-06-10T06:52:26Z,2014-06-10T06:52:26Z,0,3,2,1,1,1,2,1694659.0
+128,Fix: markdown typo - extra`,346,True,True,2014-05-02T12:27:02Z,2014-05-02T12:27:02Z,0,2,1,1,1,1,2,25246.0
+27,fixed typo (call-size -> call-site),0,True,True,2014-01-03T13:34:21Z,2014-01-03T13:34:21Z,0,2,1,1,1,1,2,46205.0
+76,Fixes some typos,0,True,True,2014-03-08T18:06:22Z,2014-03-08T18:06:22Z,0,2,1,1,3,3,6,606460.0
+10,"Fixed typo in JS for section ""Lexical this""",95,True,True,2013-11-20T09:49:53Z,2013-11-20T09:49:53Z,0,2,1,1,2,2,4,252.0
+85,Spelling correction in Chapter 3,0,True,True,2014-03-10T22:09:20Z,2014-03-10T22:09:20Z,0,2,2,1,2,2,4,540.0
+21,TYPO: idenfify -> identify,26,True,True,2013-12-16T16:43:22Z,2013-12-16T16:43:22Z,0,2,1,1,1,1,2,17959.0
+132,Typo:essense,0,True,True,2014-06-10T07:06:25Z,2014-06-10T07:06:25Z,0,2,0,1,1,1,2,1695171.0
+133,Typo: Smoothe,40,True,True,2014-06-01T04:10:35Z,2014-06-01T04:10:35Z,0,2,0,1,1,1,2,906776.0
+142,Small reword => move 'even' for clarity,63,True,True,2014-06-12T03:36:47Z,2014-06-12T03:36:47Z,0,2,1,1,1,1,2,24428.0
+97,Tiny typo in -> is on line 175,142,True,True,2014-03-30T23:09:29Z,2014-03-30T23:09:29Z,0,2,1,1,1,1,2,7978.0
+89,Chapter 4 typos,0,True,True,2014-03-17T03:37:14Z,2014-03-17T03:37:14Z,0,2,1,1,2,2,4,5751.0
+88,Typo Correction in Chapter 1 - this & Object Prototypes,0,True,False,,2014-03-15T18:37:03Z,0,2,1,1,1,1,2,0
+84,Another small typo in Chapter 2,0,True,True,2014-03-10T19:13:20Z,2014-03-10T19:13:20Z,0,2,1,1,1,1,2,8191.0
+83,Small typo in Chapter 2,0,True,True,2014-03-10T16:28:03Z,2014-03-10T16:28:03Z,0,2,0,1,1,1,2,7879.0
+82,We/is in Appendix A,59,True,True,2014-03-10T05:37:01Z,2014-03-10T05:37:01Z,0,2,1,1,1,1,2,5262.0
+70,Update ch4.md (this & object prototypes),33,True,True,2014-03-08T18:06:50Z,2014-03-08T18:06:51Z,0,2,1,1,1,1,2,1545363.0
+78,Typo in Chapter 3,0,True,True,2014-03-08T01:13:05Z,2014-03-08T01:13:05Z,0,2,1,1,1,1,2,2075.0
+68,Fix typo: vairable => variable,0,True,True,2014-02-27T04:16:59Z,2014-02-27T04:16:59Z,0,2,1,1,1,1,2,849751.0
+72,Fix typo in Scope&Closure - Chapter 3: Function vs. Block Scope,0,True,True,2014-02-27T04:16:02Z,2014-02-27T04:16:02Z,0,2,1,1,1,1,2,507743.0
+61,Update ch1.md,32,True,True,2014-02-27T03:58:04Z,2014-02-27T03:58:04Z,0,2,1,1,1,1,2,1008551.0
+64,Fixed typo,44,True,True,2014-02-27T03:56:43Z,2014-02-27T03:56:43Z,0,2,1,1,1,1,2,931149.0
+53,update copyright year to range,0,True,True,2014-02-09T23:57:46Z,2014-02-09T23:57:46Z,0,2,1,1,1,1,2,1548.0
+51,Fix typo- thin->thing,0,True,True,2014-02-09T15:19:54Z,2014-02-09T15:19:54Z,0,2,1,1,1,1,2,36767.0
+2,"Linking ""Scope & Closures"" title line to the appropriate TOC",0,True,False,,2013-11-16T23:56:00Z,0,2,3,1,1,1,2,0
+1,Linking TOC chapter lines to the appropriate files,0,True,False,,2013-11-16T23:56:04Z,0,2,2,1,9,9,18,0
+19,Small typo on line 88,243,True,True,2013-12-05T21:11:40Z,2013-12-05T21:11:40Z,0,2,1,1,1,1,2,822.0
+13,fix typo in ch3.md,82,True,True,2013-11-23T21:28:06Z,2013-11-23T21:28:06Z,0,2,1,1,1,1,2,4988.0

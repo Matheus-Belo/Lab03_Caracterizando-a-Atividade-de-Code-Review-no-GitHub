@@ -1,0 +1,245 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+682,"Added ""Build a Tiny Compiler in Java"" under Programing Languages",593,True,False,,2024-04-15T19:36:46Z,0,1,1,1,1,0,1,0
+1030,added python commandline tool,91,True,False,,2024-04-14T10:53:53Z,2,2,0,1,2,0,2,0
+878,Update URL for Let's Create a Simple Load Balancer With Go,42,True,True,2023-05-28T13:56:02Z,2023-05-28T13:56:02Z,0,2,0,1,1,1,2,3897880.0
+1014,Fixed broken link,108,True,True,2024-02-21T19:04:09Z,2024-02-21T19:04:09Z,0,2,1,1,1,1,2,52985.0
+1025,emphasize for missing tutorials,0,True,True,2024-03-25T11:24:10Z,2024-03-25T11:24:10Z,0,2,1,1,2,2,4,235016.0
+1024,emphasize Lua CDN tutorial,0,True,False,,2024-03-22T18:08:00Z,0,1,0,1,1,1,2,0
+1020,fix missing underscore for Go database tutorial,1,True,True,2024-03-14T09:56:57Z,2024-03-14T09:56:57Z,0,2,1,1,1,1,2,40167.0
+1017,Update README.md,68,True,True,2024-02-27T17:19:52Z,2024-02-27T17:19:52Z,0,2,1,1,1,1,2,1527.0
+956,Update README.md,0,True,False,,2024-02-25T19:38:59Z,0,1,1,1,1,1,2,0
+1012,Update README.md,183,True,True,2024-02-19T11:57:44Z,2024-02-19T11:57:44Z,0,2,1,1,1,1,2,127726.0
+512,Fix a broken link with archive,0,True,False,,2024-02-12T22:30:30Z,1,2,0,1,2,2,4,0
+1007,fix: using https instead of http for createcommons,0,True,True,2024-02-09T13:57:09Z,2024-02-09T13:57:09Z,0,3,1,1,1,1,2,6923.0
+996,Update broken git plugin tutorial link,0,True,True,2024-01-25T13:41:45Z,2024-01-25T13:41:45Z,0,2,1,1,1,1,2,126593.0
+964,Fixed dead link with Wayback Machine,146,True,False,,2024-01-04T21:29:54Z,0,1,0,1,1,1,2,0
+986,Create Search Engine from Scratch using Java,65,True,False,,2024-01-04T16:42:22Z,0,1,0,1,5,4,9,0
+981,Correcting a grammatical issue,32,True,False,,2024-01-03T09:37:44Z,0,2,1,1,1,1,2,0
+977,Fixed broken link for 'Command line tool in Rust',0,True,True,2023-12-29T16:48:25Z,2023-12-29T16:48:25Z,0,2,1,1,1,1,2,45545.0
+961,new pull request,0,True,False,,2023-11-24T11:55:09Z,1,3,0,1,1,0,1,0
+912,Update README.md,0,True,False,,2023-11-19T13:20:10Z,0,1,0,1,3,3,6,0
+954,Add Build Your Own Web Server From Scratch In JavaScript,0,True,True,2023-11-07T12:12:27Z,2023-11-07T12:12:27Z,0,2,1,1,1,0,1,4313.0
+950,Two rust tutorials,91,True,True,2023-10-29T21:47:34Z,2023-10-29T21:47:34Z,0,2,0,1,3,0,3,258.0
+934,Fix: Replaced a broken link with alternative from smashingmagazine.com,142,True,True,2023-10-26T20:04:50Z,2023-10-26T20:04:50Z,1,3,0,1,1,1,2,2293705.0
+944,Update README.md,13,True,False,,2023-10-16T17:13:38Z,1,2,0,1,1,0,1,0
+870,Add quote information,0,True,False,,2023-10-16T15:00:21Z,1,3,1,1,1,1,2,0
+933,Add Build your own Redis from scratch in Go,0,True,True,2023-09-20T17:36:20Z,2023-09-20T17:36:20Z,0,3,2,1,2,1,3,301.0
+942,Make links for databases alphabetical,64,True,True,2023-10-10T15:28:02Z,2023-10-10T15:28:02Z,0,2,1,1,4,4,8,64.0
+941,Add Building Regex Engine in Go tutorial,189,True,True,2023-10-09T11:25:24Z,2023-10-09T11:25:24Z,0,2,1,1,1,0,1,181353.0
+890,Create your first simple Discord bot in java.,0,True,False,,2023-09-28T06:46:58Z,0,1,0,1,1,0,1,0
+574,Update README.md,34,True,False,,2023-08-18T12:26:59Z,0,1,0,1,1,1,2,0
+923,"[Add] Learn Rust by 500 lines code, build a Todo Cli Application",0,True,False,,2023-08-18T07:08:46Z,0,1,1,1,32,27,59,0
+906,Added link to CHIP-8 emulator created in Java from scratch,0,True,False,,2023-08-14T20:38:36Z,0,1,0,1,1,0,1,0
+926,"Article ""Java: How To Make a Scary Russian Twitter Bot With Java"" has been removed",54,True,True,2023-08-08T19:31:06Z,2023-08-08T19:31:06Z,0,3,1,1,0,1,1,360.0
+796,Writing an API with Rust to parse and extract info from Apk,59,True,False,,2023-08-03T08:17:52Z,0,1,0,1,1,0,1,0
+425,Add Write your own Excel in 100 lines of F#,0,True,False,,2023-07-30T08:45:16Z,1,2,1,1,1,0,1,0
+514,Update readme,173,True,False,,2023-07-16T16:00:52Z,1,2,0,1,1,0,1,0
+916,Update README.md,0,True,True,2023-07-12T02:42:30Z,2023-07-12T02:42:30Z,0,2,0,1,1,1,2,291273.0
+913,Add Bare Metal RISC-V From Scrach,109,True,False,,2023-07-09T06:28:21Z,0,1,0,1,1,0,1,0
+879,Add: Building Your Own Programming Language From Scratch With Java,0,True,False,,2023-07-08T09:05:34Z,0,1,0,1,10,0,10,0
+748,Added tutorial for building a basic Rust CLI app,83,True,False,,2023-07-04T13:04:41Z,4,5,1,1,1,0,1,0
+903,Write a `Shell` in `C`,70,True,True,2023-06-26T04:48:49Z,2023-06-26T04:48:49Z,0,2,1,1,1,0,1,3150984.0
+751,Add tutorial for building a Rust Text Editor.,57,True,True,2022-08-04T11:23:29Z,2022-08-04T11:23:29Z,0,2,1,1,1,0,1,4094801.0
+904,Update the Build Your Own Compiler book URL.,0,True,True,2023-05-22T10:50:58Z,2023-05-22T10:50:58Z,0,2,0,1,1,1,2,71267.0
+898,Added Books by Throsten Ball to make Languages in Go,0,True,True,2023-05-22T06:19:08Z,2023-05-22T06:19:08Z,0,2,0,0,0,0,0,698848.0
+705,Translate it to chinese,94,True,False,,2023-05-15T12:52:35Z,0,1,0,0,0,0,0,0
+893,add Build your own VPN/Virtual Switch,109,True,True,2023-05-10T00:26:40Z,2023-05-10T00:26:40Z,3,2,0,1,1,0,1,55369.0
+892,Add: Build your own - Adblocker,91,True,True,2023-05-09T09:01:40Z,2023-05-09T09:01:41Z,0,2,1,1,1,0,1,27751.0
+891,add Build you own Zerotier (L2 VPN),0,True,False,,2023-05-09T08:52:24Z,0,1,0,1,1,0,1,0
+862,Added Discord bot tutorial,0,True,False,,2023-04-13T16:00:46Z,0,1,0,1,1,0,1,0
+711,Change Evolutionary Tetris AI link to original author,541,True,False,,2023-04-01T17:56:14Z,0,1,1,1,1,1,2,0
+735,Implementing trivial file transfer protocol,54,True,False,,2023-03-28T11:44:17Z,0,1,0,1,1,0,1,0
+864,Add the Game Engine Series by The Cherno,113,True,True,2023-03-07T13:52:01Z,2023-03-07T13:52:01Z,0,3,3,1,1,0,1,24364.0
+802,add python slack bot,136,True,False,,2023-03-02T06:23:48Z,3,4,0,1,1,0,1,0
+859,"Add the database, regex, and interpreter links from build-your-own.org.",0,True,True,2023-02-27T19:27:50Z,2023-02-27T19:27:51Z,0,2,0,1,3,0,3,6957.0
+855,Add KV store,48,True,True,2023-02-16T11:17:42Z,2023-02-16T11:17:42Z,2,2,1,1,1,0,1,142152.0
+595,"Add ""Build your own Proxy""",74,True,False,,2023-01-31T07:40:36Z,0,2,4,1,8,0,8,0
+853,Fix typo,32,True,True,2023-02-04T14:24:56Z,2023-02-04T14:24:56Z,0,2,1,1,1,1,2,27496.0
+551,Add Ray Tracing in One Weekend,188,True,True,2023-01-31T07:44:39Z,2023-01-31T07:44:39Z,2,3,0,1,1,0,1,69570385.0
+582,Add RISC-V Rust Operating System Tutorial,66,True,False,,2023-01-31T07:42:16Z,0,2,1,1,1,0,1,0
+542,"Add link to ""ugit: Building Git Yourself""",573,True,True,2023-01-31T07:38:01Z,2023-01-31T07:38:01Z,1,3,0,1,1,0,1,72734892.0
+849,[ADD] Adding Andrej Karpathy series,61,True,True,2023-01-31T07:30:46Z,2023-01-31T07:30:46Z,0,2,0,1,1,0,1,68785.0
+821,Create a category for web browsers,0,True,True,2023-01-31T07:29:06Z,2023-01-31T07:29:06Z,0,2,1,1,6,1,7,7050690.0
+846,update the link for Hecto: Build your own text editor in Rust,10,True,True,2023-01-30T06:34:25Z,2023-01-30T06:34:25Z,0,2,1,1,1,1,2,881987.0
+691,delete a useless item,21,True,True,2023-01-20T17:48:00Z,2023-01-20T17:48:00Z,0,6,8,1,0,1,1,33703764.0
+842,Added two links in 'Game' section,112,True,False,,2023-01-02T09:12:42Z,0,2,1,1,2,0,2,0
+841,Add Build Your Own Redis from Scratch with C/C++,0,True,True,2023-01-02T09:09:58Z,2023-01-02T09:09:58Z,0,2,1,1,1,0,1,147461.0
+806,remove dead link,105,True,False,,2023-01-01T17:49:18Z,0,2,3,1,0,1,1,0
+820,remove broken link in Physics Engine,59,True,False,,2022-12-24T19:17:46Z,0,2,2,1,0,1,1,0
+833,Add linux from scratch,0,True,True,2022-12-19T17:56:54Z,2022-12-19T17:56:54Z,0,3,3,1,1,0,1,200132.0
+831,Added two links (one previously available).,0,True,True,2022-12-13T17:37:51Z,2022-12-13T17:37:51Z,0,2,1,1,2,0,2,205387.0
+830,Remove broken link,38,True,True,2022-12-05T18:15:46Z,2022-12-05T18:15:46Z,0,2,1,1,0,1,1,51699.0
+828,Add Video Encoding from Scratch,0,True,True,2022-12-08T09:54:49Z,2022-12-08T09:54:49Z,0,2,1,1,1,0,1,450102.0
+827,Add link to Golang terminal emulator article,623,True,True,2022-12-02T07:17:19Z,2022-12-02T07:17:19Z,0,2,2,1,1,0,1,234541.0
+404,Add an article about monadic parser combinators in C#,0,True,False,,2022-11-28T09:34:36Z,1,2,0,1,1,0,1,0
+825,add link to git plugin tutorial,571,True,True,2022-11-28T04:34:50Z,2022-11-28T04:34:51Z,0,2,3,1,1,0,1,267324.0
+824,Update README.md,0,True,False,,2022-11-14T17:23:01Z,0,1,0,1,1,1,2,0
+795,New 2D game development with JavaScript added,82,True,False,,2022-11-08T10:10:48Z,1,2,0,1,1,0,1,0
+819,added javascript orm project,0,True,False,,2022-10-31T16:26:01Z,0,2,1,1,1,0,1,0
+817,REMOVED DEAD LINK,168,True,True,2022-10-29T09:08:12Z,2022-10-29T09:08:12Z,0,2,1,1,0,1,1,398.0
+777,Updated JavaScript (Node.js) Blockchain URL,113,True,False,,2022-10-23T22:52:35Z,0,1,0,1,1,1,2,0
+816,Added an article on understanding the backend processes of a web server,0,True,False,,2022-10-15T21:39:26Z,0,1,0,1,3,0,3,0
+809,Add Create Your Own CLI Tool with NodeJS,11,True,True,2022-10-09T10:17:49Z,2022-10-09T10:17:49Z,1,4,1,1,1,0,1,318106.0
+807,Build a DNS Server in Node.js,276,True,True,2022-09-28T21:12:29Z,2022-09-28T21:12:29Z,0,2,1,1,1,0,1,25676.0
+791,Build Your Own Android Os,0,True,False,,2022-09-21T03:39:21Z,0,1,0,1,1,0,1,0
+805,chore: remove unavailable tutorial,111,True,True,2022-09-13T08:20:10Z,2022-09-13T08:20:10Z,0,2,1,1,0,1,1,50918.0
+804,chore: remove unavailable tutorial,111,True,False,,2022-09-12T18:07:26Z,0,1,0,1,358,354,712,0
+803,Update README.md,44,True,True,2022-09-04T17:41:37Z,2022-09-04T17:41:37Z,0,2,1,1,1,0,1,52760.0
+763,Remove Web Search Engine dangling hashlink,158,True,True,2022-08-03T11:57:52Z,2022-08-03T11:57:52Z,0,2,1,1,0,1,1,2293217.0
+793,Make Your Own AngularJS link correction,0,True,False,,2022-08-08T21:32:02Z,0,1,0,1,31,27,58,0
+792,Merge pull request #1 from codecrafters-io/master,7,True,False,,2022-08-03T11:56:19Z,0,2,0,0,0,0,0,0
+772,Added tutorial to create personal assistant,138,True,False,,2022-07-25T23:38:59Z,0,1,0,1,1,0,1,0
+775,Update Games With Go unavailable link,139,True,True,2022-07-20T14:00:56Z,2022-07-20T14:00:56Z,1,3,1,1,1,1,2,353829.0
+678,added cryptoCurreny miner and dockerize tuturial,68,True,False,,2022-07-18T13:41:33Z,1,3,1,1,1,0,1,0
+766,Remove Javascript Neural network unavailable link,117,True,True,2022-07-11T00:35:20Z,2022-07-11T00:35:20Z,0,2,0,1,0,1,1,14198.0
+745,Correct commit,61,True,False,,2022-06-16T15:54:40Z,0,2,3,1,1,1,2,0
+698,Remove dead link in blockchain segment,119,True,False,,2022-03-02T17:40:18Z,0,2,2,1,0,1,1,0
+734,python command line tool to visualize your public git contributions,78,True,False,,2022-06-07T19:39:19Z,0,3,2,1,1,0,1,0
+737,moved web search engine & removed blank line,186,True,True,2022-06-05T13:47:07Z,2022-06-05T13:47:07Z,0,2,1,1,1,5,6,51187.0
+736,Add creating own ERC20 token smart contract,0,True,False,,2022-06-04T15:03:36Z,0,1,0,1,1,0,1,0
+729,Useless link removed,23,True,False,,2022-05-23T09:59:11Z,0,1,0,1,0,1,1,0
+702,Fix dead link,10,True,False,,2022-02-28T16:14:53Z,0,2,1,1,1,1,2,0
+675,"Add database, web server, compiler, template library, and emulator posts",0,True,False,,2022-02-22T21:10:14Z,0,3,3,1,6,0,6,0
+696,Emphasize JavaScript's Regex Implementation Topic,109,True,True,2022-02-16T14:06:28Z,2022-02-16T14:06:28Z,1,3,1,1,1,1,2,245229.0
+677,Add new section 'Rule Engine' and add link inside it.,0,True,False,,2021-12-27T07:51:51Z,0,1,0,1,4,0,4,0
+536,Add Test Collision With Separating Axis Theorem in JavaScript,11,True,False,,2021-12-02T14:21:40Z,1,2,0,1,1,0,1,0
+661,Update .2 ISSUE_TEMPLATE.md,2,True,False,,2021-11-30T08:41:41Z,0,3,1,1,1,1,2,0
+674,chore: remove reverse engineering react unavailable resourse,0,True,True,2021-11-30T08:41:01Z,2021-11-30T08:41:01Z,1,3,0,1,0,1,1,2132822.0
+671,[ Feat. Neural Networks ] : Add Neraul Networks from scratch using python,11,True,False,,2021-11-30T04:19:09Z,0,1,0,1,1,0,1,0
+559,Add tutorial about state manager effector,52,True,False,,2021-09-30T11:41:37Z,0,1,0,1,1,0,1,0
+656,Feature/blockchain,0,True,False,,2021-09-20T12:26:52Z,0,1,1,2,286,0,286,0
+634,Add a tutorial about writing a Tetris game.,60,True,False,,2021-08-29T15:42:17Z,1,2,0,1,1,0,1,0
+647,Add a tutorial about making a retro FPS game,115,True,False,,2021-08-29T15:39:46Z,0,1,0,1,1,1,2,0
+646,Add a tutorial about building REST servers in Go,91,True,False,,2021-08-29T08:22:24Z,0,1,0,1,1,0,1,0
+630,Add a tutorial about writing an NES emulator,76,True,False,,2021-08-29T08:19:22Z,0,1,0,1,33,27,60,0
+636,"Build your own VR headset is now $200, not $100",0,True,True,2021-06-29T08:33:16Z,2021-06-29T08:33:16Z,0,2,1,1,1,1,2,96581.0
+410,Add Go: Let's build an xUnit-style Test Runner!,0,True,False,,2021-06-09T15:30:15Z,0,1,0,1,1,0,1,0
+587,Add github action to check links,0,True,False,,2021-06-07T17:25:23Z,0,1,1,2,19,0,19,0
+622,Python: Adding k-means clustering algorithm from scratch,0,True,False,,2021-05-01T08:27:07Z,0,1,0,1,33,27,60,0
+614,Languages,43,True,False,,2021-04-30T20:02:09Z,0,2,0,1,1,1,2,0
+620,p2p messenger with end-to-end encryption,571,True,False,,2021-04-30T20:00:06Z,0,2,1,1,1,0,1,0
+560,"Add ""Building Git""",0,True,False,,2021-01-05T15:45:44Z,0,2,1,1,1,0,1,0
+549,Change EvolutionaryTetrisAI link to original author,691,True,False,,2020-12-24T08:36:43Z,0,1,1,1,1,1,2,0
+553,fixed node.js blockchain domain,126,True,True,2020-12-07T20:47:18Z,2020-12-07T20:47:18Z,0,2,1,1,1,1,2,29682.0
+380,Add 'Twitter Bot Tutorial-Node.js and Processing',0,True,False,,2020-10-30T19:20:29Z,1,3,1,1,1,0,1,0
+546,Merge pull request #1 from danistefanovic/master,13,True,False,,2020-10-27T09:02:32Z,0,1,0,0,0,0,0,0
+534,Add Web App Server in Golang,150,True,False,,2020-10-25T18:24:41Z,1,3,0,1,3,3,6,0
+505,Add link to  “Building a Custom React Renderer”,71,True,True,2020-07-17T07:37:21Z,2020-07-17T07:37:21Z,0,2,1,1,1,0,1,49985.0
+494,Add a new proof-of-concept (imitation) of the Docker project,36,True,False,,2020-06-18T16:33:50Z,0,2,2,1,1,0,1,0
+492,how to create a compiler from scratch with c,81,True,True,2020-06-18T16:37:30Z,2020-06-18T16:37:30Z,0,2,1,1,2,2,4,233017.0
+489,Add NES From Scratch,11,True,True,2020-06-08T09:59:03Z,2020-06-08T09:59:03Z,0,2,1,1,1,0,1,34051.0
+475,Update README.md,0,True,False,,2020-05-04T08:23:37Z,0,2,1,1,1,0,1,0
+472,Updates the video about creating containers from scratch,170,True,True,2020-04-25T18:14:49Z,2020-04-25T18:14:49Z,0,2,1,1,1,1,2,130.0
+422,Add Jessi Li's BitTorrent tutorial in Go,0,True,False,,2020-04-19T16:35:12Z,0,2,1,1,1,0,1,0
+466,Update README.md (Add new entry for BitTorrent tutorial in Go),103,True,False,,2020-04-19T16:34:29Z,0,2,2,1,1,0,1,0
+470,Add  a  golang tutorial to  `BitTorrent Client`,100,True,True,2020-04-19T16:33:02Z,2020-04-19T16:33:02Z,0,2,1,1,1,0,1,63211.0
+468,add article on Regex implementation,159,True,True,2020-04-16T09:48:43Z,2020-04-16T09:48:43Z,0,2,1,1,1,0,1,8605.0
+461,Merge pull request #1 from danistefanovic/master,27,True,False,,2020-04-10T20:09:39Z,0,1,0,0,0,0,0,0
+459,chore: remove TowerFall Physics,4,True,True,2020-04-08T21:42:04Z,2020-04-08T21:42:04Z,0,1,1,1,0,1,1,20820.0
+457,Fix the link for Building a neural network from scratch in Go.,0,True,True,2020-04-06T10:08:47Z,2020-04-06T10:08:47Z,0,2,1,1,1,1,2,41313.0
+427,Fix URL of 'Rust: Adventures in Rust: A Basic 2D Game' link,0,True,True,2020-02-11T16:21:40Z,2020-02-11T16:21:40Z,0,2,1,1,1,1,2,16369.0
+426,Fix URL of 'Haskell: Let's Build a Compiler',122,True,True,2020-02-10T21:04:40Z,2020-02-10T21:04:40Z,0,2,1,1,1,1,2,30692.0
+360,"Add ""Let's Make: Dangerous Dave""",130,True,False,,2020-01-04T02:30:33Z,0,1,0,1,1,0,1,0
+418,Update README.md,52,True,False,,2019-12-15T16:48:13Z,0,1,0,1,1,1,2,0
+414,Added ' Build your own react',0,True,True,2019-11-22T04:50:05Z,2019-11-22T04:50:05Z,0,2,1,1,1,0,1,26274.0
+390,update broken network programming link,149,True,True,2019-10-25T08:02:37Z,2019-10-25T08:02:37Z,0,2,2,1,1,1,2,944.0
+387,Added multilayer perceptron in C++,0,True,False,,2019-10-19T08:16:41Z,0,2,1,1,1,0,1,0
+383,"Added a new tutorial link ""Writing a simple VPN in Go Github link""",9,True,False,,2019-10-10T20:18:55Z,0,2,1,1,1,0,1,0
+372,"Add ""Learning Parser Combinators With Rust""",63,True,True,2019-10-07T11:37:28Z,2019-10-07T11:37:28Z,0,2,0,1,1,0,1,2746221.0
+362,add build your own webassembly compiler,0,True,True,2019-10-07T11:34:40Z,2019-10-07T11:34:40Z,0,3,2,1,1,0,1,7139302.0
+343,Add Build your own Front-end Framework re-implement react fiber,0,True,False,,2019-10-07T02:28:58Z,1,3,1,1,1,0,1,0
+375,remove dead javascript url shortener link,98,True,True,2019-09-20T14:07:49Z,2019-09-20T14:07:49Z,0,2,1,1,0,1,1,196096.0
+370,Add an Unlicense.,118,True,False,,2019-09-01T07:20:10Z,0,0,1,1,24,0,24,0
+369,"Fix a few dead links, and update one or two.",0,True,True,2019-08-31T13:35:05Z,2019-08-31T13:35:05Z,0,1,2,1,2,9,11,21862.0
+368,"Remove ""C: Writing an SVG Library"" because the domain expired and it's just ads now.",0,True,True,2019-08-28T07:26:02Z,2019-08-28T07:26:02Z,0,3,2,1,0,1,1,58644.0
+359,"Add ""Let's Make: Dangerous Dave""",57,True,False,,2019-07-09T14:11:54Z,0,1,0,1,1,0,1,0
+358,Fix URL of Roguelike Tutorial Revised,123,True,True,2019-07-09T11:54:09Z,2019-07-09T11:54:09Z,0,1,1,1,1,1,2,5482.0
+354,fix broken link to content,0,True,True,2019-06-07T06:44:10Z,2019-06-07T06:44:10Z,0,2,1,1,1,1,2,54960.0
+352,Add Go container tutorial,169,True,True,2019-06-07T06:50:25Z,2019-06-07T06:50:25Z,0,2,1,1,1,0,1,3840131.0
+345,Add tutorial about how to write your own git,89,True,False,,2019-06-07T06:49:34Z,0,3,2,1,1,0,1,0
+340,Add 'Write yourself a Git!',0,True,True,2019-06-07T06:48:48Z,2019-06-07T06:48:48Z,0,2,1,1,1,0,1,7261748.0
+346,Removed link that results in 404,0,True,False,,2019-06-07T06:47:57Z,0,2,1,1,0,1,1,0
+351,Update dead link (#350),87,True,True,2019-06-07T06:46:39Z,2019-06-07T06:46:39Z,0,2,1,1,1,1,2,4314821.0
+353,"Fixed 404, for Neural Net from Scratch in Go",274,True,False,,2019-06-07T06:45:24Z,0,2,1,1,1,1,2,0
+301,Rename ISSUE_TEMPLATE to ISSUE_TEMPLATE.md,0,True,True,2018-12-27T10:24:29Z,2018-12-27T10:24:29Z,0,2,1,1,0,0,0,116140.0
+336,Add Python Neural Network tutorial,45,True,True,2019-03-11T18:38:24Z,2019-03-11T18:38:24Z,0,2,1,1,1,0,1,4644.0
+326,Removed - Build your own Vuejs,89,True,True,2019-03-10T11:28:47Z,2019-03-10T11:28:47Z,0,2,1,1,0,1,1,559717.0
+310,Fix broken link,0,True,True,2019-03-01T10:45:12Z,2019-03-01T10:45:12Z,0,2,0,1,1,1,2,2184349.0
+311, First and second edition of Writing an OS in Rust added,93,True,True,2019-03-01T10:43:22Z,2019-03-01T10:43:22Z,0,2,0,1,1,1,2,1864097.0
+313,fixed interprets,0,True,True,2019-02-20T08:52:05Z,2019-02-20T08:52:05Z,0,3,3,1,1,1,2,23973.0
+215,"Add ""Build  data structures from scratch""",0,True,True,2018-06-29T10:24:36Z,2018-06-29T10:24:36Z,0,3,3,1,1,0,1,151908.0
+294,added python clipboard manager tutorial (#1),39,True,False,,2018-11-25T10:52:32Z,0,2,2,1,1,0,1,0
+293,added python clipboard manager tutorial,0,True,False,,2018-11-23T06:39:09Z,0,1,0,1,1,0,1,0
+280,remove outdated content,168,True,True,2018-11-16T22:25:39Z,2018-11-16T22:25:39Z,0,1,0,1,0,1,1,2182497.0
+277,"Added ""How to create a real-world Node CLI app with Node""",0,True,True,2018-11-16T22:24:35Z,2018-11-16T22:24:35Z,0,2,0,1,1,0,1,3005286.0
+282,Update issue templates,0,True,False,,2018-10-27T02:48:58Z,0,1,0,3,59,0,59,0
+279,Added python AR tutorial,0,True,True,2018-10-22T09:07:53Z,2018-10-22T09:07:54Z,0,2,1,1,1,0,1,172065.0
+276,Create My own.py,0,True,False,,2018-10-12T16:28:58Z,0,1,1,1,5,0,5,0
+274,Add Create your own Visual Novel with Ren'Py Quickstart guide,0,True,False,,2018-10-12T08:57:38Z,0,2,1,1,1,0,1,0
+273,Add Build Your Own Collaborative Text Editor Using Rails,0,True,True,2018-10-12T08:52:13Z,2018-10-12T08:52:13Z,0,2,1,1,1,0,1,559175.0
+275,Add api tutorial from issue #267,0,True,True,2018-10-12T09:01:50Z,2018-10-12T09:01:50Z,0,2,1,1,2,0,2,24315.0
+272,Add 'Modern PHP without a Framework' tutorial,0,True,True,2018-10-12T08:49:42Z,2018-10-12T08:49:42Z,0,2,1,1,1,0,1,600505.0
+271,Added react native uber clone tutorial,0,True,True,2018-10-12T08:47:03Z,2018-10-12T08:47:03Z,0,2,1,1,1,0,1,628746.0
+270,Add Ruby Slack Bot Link,141,True,False,,2018-10-12T08:42:58Z,0,2,1,1,1,0,1,0
+268,Added a video tutorial for creating a Discord Bot,0,True,True,2018-10-03T20:16:49Z,2018-10-03T20:16:49Z,0,2,1,1,1,0,1,70951.0
+264,Update Nim projects,36,True,True,2018-10-03T20:15:17Z,2018-10-03T20:15:17Z,0,2,1,1,9,6,15,2108551.0
+265,Added Blockchain Tutorial in Go,0,True,True,2018-09-24T12:05:38Z,2018-09-24T12:05:38Z,0,2,1,1,1,0,1,751478.0
+266,Update README.md,45,True,True,2018-09-24T12:04:46Z,2018-09-24T12:04:46Z,0,2,1,1,0,1,1,123775.0
+249,"Added new ""Machine Learning Algorithm"" to the categories with Decision tree activity",86,True,True,2018-08-29T06:27:46Z,2018-08-29T06:27:46Z,0,2,1,1,1,0,1,1370953.0
+250,Add tutorial for Building a Deep Learning Library,0,True,True,2018-08-20T11:47:49Z,2018-08-20T11:47:49Z,0,2,1,1,1,0,1,213232.0
+251,Add Cryptocurrency proof of stake tutorial,0,True,True,2018-08-20T11:46:10Z,2018-08-20T11:46:10Z,0,2,1,1,1,0,1,182713.0
+247,modifying create-frontend-framework,161,True,True,2018-08-10T16:26:03Z,2018-08-10T16:26:03Z,0,2,1,1,1,1,2,11104.0
+245,Added new slack bot tutorial,0,True,True,2018-08-06T06:17:13Z,2018-08-06T06:17:13Z,0,3,1,1,1,0,1,672107.0
+211,"Found a Web site hosting these tutorials, want to add a link",244,True,False,,2018-06-29T10:33:16Z,1,3,1,1,2,0,2,0
+192,Reorder links in `Text Editor` section,49,True,True,2018-06-14T22:05:39Z,2018-06-14T22:05:39Z,0,2,1,1,1,1,2,15667.0
+168,"Add link for ""The Super Tiny Interpreter""",0,True,True,2018-06-01T08:04:22Z,2018-06-01T08:04:22Z,0,2,1,1,1,0,1,30424.0
+167,Add tutorial #166,41,True,True,2018-06-01T07:50:41Z,2018-06-01T07:50:41Z,0,2,1,1,1,0,1,88951.0
+156,Adding my open-source Java API,282,True,False,,2018-05-30T18:57:27Z,0,2,1,1,1,0,1,0
+159,"Add create a frontend framework, from scratch, with components",277,True,True,2018-05-30T19:02:34Z,2018-05-30T19:02:34Z,0,2,1,1,1,0,1,109169.0
+146,Update README with link about Web Server,70,True,False,,2018-05-28T08:32:23Z,0,2,2,1,1,0,1,0
+154,Fix typo in minipack's description,17,True,True,2018-05-29T08:35:13Z,2018-05-29T08:35:13Z,0,2,1,1,1,1,2,37993.0
+147,"Add ""Make Your Own AngularJS""",0,True,True,2018-05-28T08:19:52Z,2018-05-28T08:19:52Z,0,2,1,1,1,0,1,111594.0
+150,add: build your own module bundler - Minipack,0,True,True,2018-05-28T07:56:03Z,2018-05-28T07:56:03Z,0,2,1,1,1,0,1,36335.0
+137,Added a New Category : Text Editor,104,True,True,2018-05-24T09:21:06Z,2018-05-24T09:21:06Z,1,3,1,1,9,1,10,12706.0
+121,Fix minor typo,0,True,True,2018-05-22T07:46:55Z,2018-05-22T07:46:55Z,0,2,1,1,1,1,2,271.0
+116,Blockchain: replace video-only link with SavjeeCoin,148,True,True,2018-05-22T07:19:31Z,2018-05-22T07:19:31Z,0,2,1,1,1,1,2,57314.0
+92,Add ARK blockchain deployment,0,True,False,,2018-05-18T12:05:13Z,0,2,3,1,1,0,1,0
+93,Create Git,0,True,False,,2018-05-18T14:13:45Z,0,2,0,1,1,0,1,0
+90,"add ""Create Multiple Platforms Bot in Node.js""",61,True,False,,2018-05-18T12:21:47Z,0,2,1,1,1,0,1,0
+6,Updated wrong link language from Go to Node.js,0,True,True,2018-05-10T20:12:11Z,2018-05-10T20:12:11Z,0,2,1,1,1,1,2,870.0
+28,Use subheadings instead of bullet points to enable GitHubs anchor links,0,True,True,2018-05-13T08:55:11Z,2018-05-13T08:55:11Z,0,1,0,1,191,184,375,2565.0
+80,Add writing an interpreter in go,0,True,False,,2018-05-16T07:27:36Z,0,2,1,1,1,0,1,0
+76,Two copy edits,191,True,True,2018-05-16T06:00:52Z,2018-05-16T06:00:52Z,0,2,1,1,2,2,4,13359.0
+77,Wording correction,23,True,True,2018-05-16T05:59:46Z,2018-05-16T05:59:46Z,0,2,1,1,6,6,12,10437.0
+73,Add nimdays tutorials,60,True,True,2018-05-15T21:41:31Z,2018-05-15T21:41:32Z,0,2,1,1,6,0,6,18916.0
+71,Add Programming Blockchains Step-by-Step (Ruby),0,True,True,2018-05-15T13:38:42Z,2018-05-15T13:38:42Z,0,2,1,1,1,0,1,9327.0
+59,added 'Build your own CI server' title & one item,74,True,True,2018-05-15T13:35:32Z,2018-05-15T13:35:32Z,3,2,1,1,1,0,1,82677.0
+70,add article How To Launch Your Own Production-Ready Cryptocurrency,103,True,True,2018-05-15T07:20:56Z,2018-05-15T07:20:56Z,0,2,1,1,1,0,1,27892.0
+64,add a  Go resources to games section,0,True,True,2018-05-14T20:27:59Z,2018-05-14T20:27:59Z,0,3,1,1,1,0,1,2284.0
+63,Update README.md,19,True,True,2018-05-14T18:55:00Z,2018-05-14T18:55:00Z,2,2,1,1,2,1,3,5088.0
+55,adds-build games in python,0,True,True,2018-05-14T18:28:38Z,2018-05-14T18:28:38Z,0,2,1,1,1,0,1,41004.0
+61,Update README.md,87,True,True,2018-05-14T17:51:41Z,2018-05-14T17:51:41Z,0,2,1,1,1,0,1,4240.0
+47,Add C++ How-To to Cryptocurrency,0,True,False,,2018-05-14T17:27:47Z,0,2,1,1,1,0,1,0
+58,Add emulator category and new *how to* tutorials,1256,True,True,2018-05-14T17:00:13Z,2018-05-14T17:00:13Z,0,2,1,1,11,2,13,21709.0
+51,Add assets folder,219,True,False,,2018-05-14T07:20:27Z,0,2,1,2,1,1,2,0
+54,"Add ""A Neural Network in 11 lines of Python""",0,True,True,2018-05-14T07:09:09Z,2018-05-14T07:09:09Z,0,2,1,1,1,0,1,673.0
+48,Change 'Crafting Interpreters' to java,103,True,True,2018-05-14T07:06:36Z,2018-05-14T07:06:36Z,0,2,1,1,1,1,2,26899.0
+35,"Add ""Build your own Window Manager""",0,True,True,2018-05-14T06:51:54Z,2018-05-14T06:51:54Z,1,2,1,1,1,0,1,58043.0
+39,Sort categories in alphabetical order,50,True,True,2018-05-13T20:36:36Z,2018-05-13T20:36:36Z,0,2,1,1,11,12,23,17070.0
+37,Added LFS in OS,236,True,False,,2018-05-13T22:22:04Z,0,2,1,1,2,0,2,0
+32,"Add ""Build Your First Smart Contract""",0,True,False,,2018-05-13T21:45:40Z,0,2,1,1,1,0,1,0
+45,Build your own angular js,101,True,False,,2018-05-13T21:26:41Z,0,2,1,1,2,0,2,0
+46,Build your jsx renderer,101,True,True,2018-05-13T21:18:44Z,2018-05-13T21:18:44Z,0,2,1,1,1,0,1,607.0
+42,"Add ""table of contents"" to README",0,True,True,2018-05-13T20:44:22Z,2018-05-13T20:44:22Z,0,2,1,1,19,0,19,10165.0
+38,Add Slack bot in Python resource,48,True,True,2018-05-13T20:24:58Z,2018-05-13T20:24:58Z,0,2,1,1,1,0,1,16714.0
+36,Add Bot: Build a Twitter Bot With Java and Twitter4J,0,True,True,2018-05-13T20:21:45Z,2018-05-13T20:21:45Z,0,2,1,1,1,0,1,19696.0
+16,Add: Generate SVG images in C,0,True,False,,2018-05-13T10:53:26Z,1,2,1,1,1,0,1,0
+30,Nanocoin cryptocurrency written in Haskell,410,True,True,2018-05-13T10:45:32Z,2018-05-13T10:45:32Z,4,2,1,1,1,0,1,2384.0
+23,Update README.md,46,True,False,,2018-05-13T06:56:34Z,0,2,1,1,1,0,1,0
+19,Fix missing linebreak in README.md,0,True,True,2018-05-13T06:52:37Z,2018-05-13T06:52:37Z,0,2,1,1,1,1,2,29543.0
+21,Fix bad whitespace before bullet in README.md,0,True,True,2018-05-13T06:50:27Z,2018-05-13T06:50:27Z,0,2,1,1,3,2,5,26944.0
+10,readme: Add my tutorial on shell,193,True,True,2018-05-12T07:55:36Z,2018-05-12T07:55:36Z,3,2,1,1,1,0,1,78399.0
+14,"Add a minimal interpreter, compiler (x86/Arm) and JIT compiler",0,True,True,2018-05-12T07:58:43Z,2018-05-12T07:58:43Z,0,2,1,1,1,0,1,54360.0
+4,Add a section for creating a demoscene demo,236,True,False,,2018-05-11T08:27:20Z,0,2,3,1,22,3,25,0
+8,Add PL: Build a self-compiling C compiler for ARM,0,True,False,,2018-05-11T07:37:35Z,0,2,1,1,1,0,1,0
+7,Add OS: Build a minimal multi-tasking kernel for ARM,0,True,True,2018-05-11T07:17:47Z,2018-05-11T07:17:47Z,0,2,1,1,1,0,1,17441.0

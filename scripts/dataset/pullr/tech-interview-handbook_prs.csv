@@ -1,0 +1,527 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+637,contents(career): update High Growth Engineer URL to new domain,218,True,True,2024-03-07T03:43:46Z,2024-03-07T03:43:46Z,1,2,0,1,2,2,4,286.0
+636,contents: add Codemia.io list of mock interview resource,0,True,True,2024-03-04T00:37:01Z,2024-03-04T00:37:01Z,1,2,0,1,6,0,6,166003.0
+622,contents: Add Misc > Career Growth Page,272,True,True,2023-11-26T23:10:09Z,2023-11-26T23:10:09Z,2,2,0,3,48,2,50,26590.0
+625,contents(beyond): add Hungry Minds and myself to LinkedIn resources,100,True,True,2023-12-04T02:17:33Z,2023-12-04T02:17:33Z,1,2,0,1,2,0,2,59339.0
+624,contents(beyond): add 16x Engineer,319,True,True,2023-11-30T10:56:42Z,2023-11-30T10:56:42Z,1,2,0,1,1,0,1,490.0
+618,contents(sd): add System Design Newsletter,38,True,True,2023-11-02T00:28:16Z,2023-11-02T00:28:16Z,0,2,0,1,1,0,1,46423.0
+617,Update resume.md,109,True,True,2023-10-26T23:04:49Z,2023-10-26T23:04:49Z,0,2,0,1,2,1,3,18870.0
+616,"misc: change ""Twitter"" to ""X (Twitter)""",56,True,True,2023-10-25T22:56:38Z,2023-10-25T22:56:38Z,0,2,0,1,1,1,2,15005.0
+609,contents(queue): fix typo in queue content,322,True,True,2023-09-30T02:54:04Z,2023-09-30T02:54:04Z,1,2,0,1,1,1,2,126568.0
+605,contents: style of Palantir questions is aligned with style of other questions,163,True,True,2023-09-30T02:50:45Z,2023-09-30T02:50:45Z,1,2,0,1,2,2,4,1515932.0
+610,[Content] Add Hello Interview to mock interviews,252,True,True,2023-09-30T02:35:50Z,2023-09-30T02:35:50Z,1,2,1,1,9,0,9,9941.0
+604,contents: khan academy link for binary search fixed,56,True,True,2023-09-06T02:53:42Z,2023-09-06T02:53:42Z,1,2,0,1,3,3,6,30043.0
+599,contents: grammar / consistency fixes for algo sites,0,True,True,2023-08-03T00:25:53Z,2023-08-03T00:25:53Z,1,2,0,7,22,22,44,20938.0
+598,grammar / consistency fixes for algo sites,0,True,False,,2023-08-02T18:34:02Z,0,1,0,7,22,22,44,0
+596,contents: 2 grammar fixes for linked list doc,0,True,True,2023-07-19T11:22:22Z,2023-07-19T11:22:22Z,1,2,0,1,2,2,4,60267.0
+594,contents(algo): fix typo in algorithm/graph content,119,True,True,2023-07-04T08:20:56Z,2023-07-04T08:20:56Z,1,2,0,1,1,1,2,7948.0
+593,contents(sd): add roadmap.sh to free resource list,78,True,True,2023-06-19T22:33:52Z,2023-06-19T22:33:52Z,0,2,2,1,1,0,1,32730.0
+589,chore(link): Short link is broken,104,True,False,,2023-06-19T22:33:01Z,0,2,2,1,1,1,2,0
+588,contents(optimize): Bullet point formatting,0,True,True,2023-06-13T23:19:58Z,2023-06-13T23:19:58Z,1,2,0,1,5,1,6,1663773.0
+587,contents(star): Bullet point formatting,70,True,True,2023-06-13T23:19:31Z,2023-06-13T23:19:31Z,1,2,0,1,10,2,12,1669361.0
+591,Adding extra coding interview preparation,0,True,False,,2023-06-13T23:18:59Z,0,2,0,1,1,0,1,0
+586,contents(algo): fix url typo in sorting and searching,0,True,True,2023-05-11T10:21:53Z,2023-05-11T10:21:53Z,1,2,0,1,1,1,2,5373.0
+585,contents(algo): add Java implementation details for platform sorting algorithms,97,True,True,2023-05-11T10:21:02Z,2023-05-11T10:21:02Z,1,2,0,1,1,1,2,207927.0
+584,contents(algo): remove java.util.TreeMap from Hashtable implementations,188,True,True,2023-05-06T01:51:54Z,2023-05-06T01:51:54Z,1,2,0,1,1,1,2,653.0
+583,contents: misc update to coding-interview-rubrics.md,29,True,True,2023-05-05T23:47:24Z,2023-05-05T23:47:24Z,1,2,0,1,1,1,2,8815.0
+582,contents: fix typo in coding-interview-rubrics.md,15,True,True,2023-05-05T23:46:53Z,2023-05-05T23:46:53Z,1,2,0,1,1,1,2,8920.0
+579,contents(sd): fix typo in Design Gurus recommendation,73,True,True,2023-04-19T12:11:12Z,2023-04-19T12:11:12Z,1,2,0,1,1,1,2,676892.0
+295,Update behavioral-interview-questions.md,334,True,False,,2023-04-11T10:07:15Z,1,4,4,1,0,31,31,0
+578,contents(mock interview): add meetapro.com,0,True,True,2023-04-11T10:09:23Z,2023-04-11T10:09:23Z,1,2,0,1,13,0,13,448452.0
+575,add: gaurav sen system design playlist,89,True,True,2023-04-11T10:06:48Z,2023-04-11T10:06:48Z,1,2,0,1,1,0,1,4055199.0
+574,contents: remove some stuttering when showcasing mock interview solutions,68,True,True,2023-04-11T10:05:51Z,2023-04-11T10:05:51Z,1,2,0,1,1,1,2,5198681.0
+567,contents(sorting): add video resources to sorting and searching,141,True,True,2023-01-28T23:36:08Z,2023-01-28T23:36:08Z,1,2,0,1,7,0,7,29037.0
+572,contents(behavioral): add behavioral interview rubrics from Lior,93,True,True,2023-02-06T00:36:42Z,2023-02-06T00:36:42Z,1,2,0,4,139,118,257,50891.0
+573,contents(algo): s/disjoint/disconnected,77,True,True,2023-02-06T00:38:09Z,2023-02-06T00:38:09Z,0,2,0,1,1,1,2,23631.0
+568,contents(behavioral): add more information for Behavioral Interviews,278,True,True,2023-02-05T09:59:06Z,2023-02-05T09:59:06Z,2,2,1,1,116,4,120,514499.0
+570,misc: fixed typo in behavioral interview,96,True,True,2023-02-05T08:46:27Z,2023-02-05T08:46:27Z,1,2,0,1,1,1,2,207660.0
+571,contents(algo): fix typo in algorithm/geometry content,109,True,True,2023-02-05T08:45:31Z,2023-02-05T08:45:31Z,1,2,0,1,1,1,2,156.0
+566,contents: improve self introduction explanation,11,True,True,2023-01-28T23:37:44Z,2023-01-28T23:37:44Z,0,2,1,1,11,6,17,355439.0
+510,[questions][feat] add tags,0,True,False,,2022-12-04T09:09:45Z,1,2,0,15,398,9,407,0
+563,contents: add links to extra resources (video lectures),155,True,True,2022-12-27T08:06:25Z,2022-12-27T08:06:25Z,1,2,1,2,4,0,4,390690.0
+560,Update README.md for Meta renaming,57,True,False,,2022-12-27T08:05:19Z,0,2,1,1,1,1,2,0
+559,Updating level of Lowest Common Ancestor of a Binary Search Tree from easy to medium,29,True,False,,2022-11-24T01:27:50Z,0,1,0,1,1,1,2,0
+558,[website][fix] fix incomplete line in resume guide,48,True,True,2022-11-21T11:20:02Z,2022-11-21T11:20:02Z,1,3,2,1,1,1,2,6263.0
+557,[website][fix]: change LC link for Implement Stack using Queues,11,True,True,2022-11-21T02:19:36Z,2022-11-21T02:19:36Z,1,2,0,1,1,1,2,34081.0
+556,[offers][fix] fix redirection for non logged in users,0,True,True,2022-11-18T12:31:07Z,2022-11-18T12:31:07Z,0,1,0,1,1,5,6,18.0
+555,[resumes][feat] delete resume file on deletion,0,True,True,2022-11-18T09:17:22Z,2022-11-18T09:17:23Z,0,1,0,4,32,9,41,231.0
+554,[offers][fix] add loading and fix ci,0,True,True,2022-11-17T11:42:05Z,2022-11-17T11:42:05Z,0,1,0,2,123,120,243,3237.0
+553,[offers][feat] add admin page to navbar,0,True,True,2022-11-17T10:38:24Z,2022-11-17T10:38:24Z,0,1,0,8,47,33,80,146.0
+540,[resumes][fix] Change default shortcut to general,0,True,True,2022-11-08T14:57:29Z,2022-11-08T14:57:29Z,0,1,0,2,2,6,8,409.0
+534,[question][ui] about page,0,True,True,2022-11-08T04:14:50Z,2022-11-08T04:14:50Z,0,1,0,6,88,64,152,822.0
+551,[offers][feat] Add positive number validation,0,True,True,2022-11-09T05:37:15Z,2022-11-09T05:37:15Z,0,1,0,3,17,2,19,1115.0
+550,[offers][chore] fix analysis description,0,True,True,2022-11-09T05:13:59Z,2022-11-09T05:13:59Z,0,1,0,2,7,6,13,23.0
+549,[offers][style] fix education card style,0,True,True,2022-11-09T05:09:07Z,2022-11-09T05:09:07Z,0,1,0,3,7,10,17,32.0
+548,[offers][fix] Fix year options,0,True,True,2022-11-09T05:02:32Z,2022-11-09T05:02:32Z,0,1,0,3,17,10,27,253.0
+547,[offers][fix] display intern cycle in offer card,0,True,True,2022-11-09T04:00:17Z,2022-11-09T04:00:17Z,0,1,0,4,34,5,39,169.0
+546,[questions][feat] tweak cards UI,0,True,True,2022-11-08T23:15:44Z,2022-11-08T23:15:44Z,0,1,0,13,212,180,392,189.0
+544,[offers][fix] add temp admin page,0,True,True,2022-11-08T18:04:39Z,2022-11-08T18:04:39Z,0,1,0,7,814,3,817,308.0
+543,[offers][fix] fix redirection to offer table,0,True,True,2022-11-08T17:43:14Z,2022-11-08T17:43:14Z,0,1,0,3,52,33,85,1152.0
+542,[offers][feat] Add currency detection in forms,0,True,True,2022-11-08T16:50:38Z,2022-11-08T16:50:38Z,0,1,0,7,99,47,146,819.0
+541,[offers][feat] add sortable columns to table,0,True,True,2022-11-08T16:05:28Z,2022-11-08T16:05:28Z,0,1,0,3,216,110,326,1155.0
+537,[resumes][feat] delete comment,81,True,True,2022-11-08T13:52:14Z,2022-11-08T13:52:14Z,0,1,0,5,128,2,130,20934.0
+539,[resumes][feat] add deletion for resumes,147,True,True,2022-11-08T13:52:31Z,2022-11-08T13:52:31Z,0,1,0,2,106,2,108,16413.0
+538,[offers][fix] fix numOfOtherOffers calibration,0,True,True,2022-11-08T08:16:37Z,2022-11-08T08:16:37Z,0,1,0,1,1,1,2,9.0
+533,[resumes][chore] Update description in index,0,True,True,2022-11-08T08:13:45Z,2022-11-08T08:13:45Z,0,1,0,2,8,8,16,15234.0
+536,[offers][fix] remove display of offers for 0 offers,0,True,True,2022-11-08T07:58:18Z,2022-11-08T07:58:18Z,0,1,0,1,5,3,8,123.0
+535,[resumes][feat] show all resumes when no filters selected,0,True,True,2022-11-08T06:26:16Z,2022-11-08T06:26:16Z,0,1,0,4,68,92,160,305.0
+532,[offers][fix] fix padding on feature page,0,True,True,2022-11-08T03:54:35Z,2022-11-08T03:54:35Z,0,1,0,2,2,2,4,8.0
+531,[offers][fix] fix image display on feature page,0,True,True,2022-11-08T03:41:23Z,2022-11-08T03:41:23Z,0,1,0,1,1,1,2,30.0
+530,[questions][fix] encounter last seen sorting,0,True,True,2022-11-07T17:58:19Z,2022-11-07T17:58:19Z,2,2,0,7,18,27,45,1402.0
+529,[offers][fix] convert education fields to display string,0,True,True,2022-11-07T15:26:36Z,2022-11-07T15:26:36Z,0,1,0,1,12,1,13,1703.0
+528,[offers][feat] add social media and promo video,0,True,True,2022-11-07T14:29:04Z,2022-11-07T14:29:04Z,0,1,0,1,32,32,64,33.0
+527,[ui][text input] Fix number input changing on scroll,0,True,True,2022-11-07T11:13:14Z,2022-11-07T11:13:14Z,2,2,0,1,2,0,2,1542.0
+523,[offers][refactor] Calculate overall and company analyses asychronously,0,True,True,2022-11-07T07:59:36Z,2022-11-07T07:59:36Z,0,1,0,2,147,55,202,353.0
+522,[questions][fix] fix encounter sorting with text,0,True,True,2022-11-07T06:08:44Z,2022-11-07T06:08:44Z,0,1,0,1,34,18,52,5160.0
+526,[offers][feat] add header for pages,0,True,True,2022-11-07T09:34:03Z,2022-11-07T09:34:03Z,0,1,0,11,509,442,951,532.0
+525,"Revert ""[offers][fix] Fix number input scroll issue (#524)""",0,True,True,2022-11-07T09:17:59Z,2022-11-07T09:17:59Z,0,1,0,3,12,44,56,235.0
+524,[offers][fix] Fix number input scroll issue,0,True,True,2022-11-07T08:35:53Z,2022-11-07T08:35:53Z,0,1,0,3,44,12,56,293.0
+521,[questions][fix] fix upvotes,0,True,True,2022-11-06T17:51:22Z,2022-11-06T17:51:22Z,0,1,0,16,523,238,761,440.0
+520,[offers][fix] add info to about page,0,True,True,2022-11-06T10:44:11Z,2022-11-06T10:44:11Z,0,1,0,2,30,13,43,1530.0
+516,[questions][fix] fix expanded typeaheads,0,True,True,2022-11-06T10:03:08Z,2022-11-06T10:03:08Z,1,2,0,14,188,146,334,14130.0
+513,[questions][chore] add google analytics events,0,True,True,2022-11-06T09:40:54Z,2022-11-06T09:40:54Z,0,1,0,5,52,1,53,63926.0
+518,[resumes][feat] Add top 10 shortcut,0,True,True,2022-11-06T09:04:00Z,2022-11-06T09:04:00Z,0,1,0,5,282,198,480,4201.0
+517,"[questions][ui] restyle landing, question pages",0,True,True,2022-11-06T09:11:22Z,2022-11-06T09:11:23Z,0,1,0,9,223,182,405,5375.0
+519,[questions][feat] add theory questions,0,True,True,2022-11-06T09:10:13Z,2022-11-06T09:10:13Z,0,1,0,1,5,0,5,4518.0
+425,[questions][fix] fix pagination off by one,0,True,True,2022-10-24T15:20:51Z,2022-10-24T15:20:51Z,0,1,0,2,1,5,6,421.0
+504,[offers][chore] Add reference to analysed offer in analysis unit,0,True,True,2022-11-04T04:32:50Z,2022-11-04T04:32:50Z,0,1,0,7,345,488,833,348.0
+515,[questions][feat] update threshhold for search,0,True,True,2022-11-05T18:40:51Z,2022-11-05T18:40:51Z,0,1,0,1,2,2,4,227.0
+514,[questions][fix] ui fixes and enhancements,0,True,True,2022-11-05T18:14:59Z,2022-11-05T18:14:59Z,0,2,0,12,476,230,706,281.0
+511,[questions][feat] update text search,0,True,True,2022-11-05T17:11:51Z,2022-11-05T17:11:51Z,0,2,0,1,4,6,10,14760.0
+506,[resumes][feat] migrate to use location db and role enum,0,True,True,2022-11-05T13:56:46Z,2022-11-05T13:56:46Z,0,2,0,14,605,393,998,100546.0
+512,[offers][feat] Update feature page,0,True,True,2022-11-05T13:41:14Z,2022-11-05T13:41:14Z,0,1,0,8,28,17,45,269.0
+498,[questions][chore] add google analytics id,0,True,True,2022-11-04T11:07:10Z,2022-11-04T11:07:10Z,3,2,0,1,1,2,3,100815.0
+509,[offers][fix] Fix form typeaheads,0,True,True,2022-11-05T10:27:07Z,2022-11-05T10:27:07Z,0,1,0,3,4,4,8,456.0
+508,[offers][feat] Add form validation for typeaheads,0,True,True,2022-11-05T06:33:44Z,2022-11-05T06:33:44Z,0,1,0,6,217,244,461,361.0
+507,[offers][feat] Tweak UI and add View More button to OEA,0,True,True,2022-11-04T16:57:09Z,2022-11-04T16:57:09Z,0,1,0,8,266,106,372,430.0
+505,[ui][button] Add rel and target properties to button,62,True,True,2022-11-04T11:07:36Z,2022-11-04T11:07:36Z,1,2,0,1,6,1,7,6888.0
+501,[offers][feat] add script to seed salaries from tech salaries excel sheet,0,True,True,2022-11-04T06:55:00Z,2022-11-04T06:55:00Z,0,5,0,35,57520,292,57812,57380.0
+357,[infra] add GitHub actions for linting,0,True,True,2022-10-10T23:43:29Z,2022-10-10T23:43:29Z,1,2,0,2,49,1,50,552.0
+503,[offers][feat] add job type for dashboard cards,0,True,True,2022-11-03T17:57:40Z,2022-11-03T17:57:40Z,0,1,0,1,3,1,4,12.0
+502,[offers][feat] add query params to offer table,0,True,True,2022-11-03T15:53:36Z,2022-11-03T15:53:36Z,0,1,0,4,203,70,273,317.0
+500,[offers][fix] Refactor UI,0,True,True,2022-11-03T13:08:02Z,2022-11-03T13:08:02Z,0,1,0,10,232,203,435,418.0
+499,[offers][feat] Add token check and refactor UI,0,True,True,2022-11-03T08:24:48Z,2022-11-03T08:24:48Z,0,1,0,24,206,173,379,912.0
+497,[offers][fix] fix profile location display,0,True,True,2022-11-03T07:07:28Z,2022-11-03T07:07:28Z,0,1,0,4,11,6,17,337.0
+496,[offers][style] fix dashboard layout,0,True,True,2022-11-03T04:20:51Z,2022-11-03T04:20:51Z,0,1,0,3,3,6,9,2112.0
+495,[offers][feat] add default filters and more income columns,0,True,True,2022-11-03T02:59:09Z,2022-11-03T02:59:09Z,0,1,0,6,142,45,187,778.0
+395,[ui][typeahead] refactor props,0,True,False,,2022-10-30T12:01:17Z,0,1,0,4,44,26,70,0
+444,"Revert ""[resumes][fix] add resolve resume functionality""",12,True,False,,2022-10-27T08:23:21Z,0,1,0,8,32,83,115,0
+470,[questions][ui] Minor UI cleanup,0,True,True,2022-10-31T03:30:28Z,2022-10-31T03:30:28Z,0,1,0,3,59,62,121,473.0
+493,[offers][chore] Make all filters optional,0,True,True,2022-11-02T16:59:11Z,2022-11-02T16:59:11Z,0,1,0,1,18,10,28,215.0
+491,[offers][chore] Change location fields,0,True,True,2022-11-02T15:20:18Z,2022-11-02T15:20:18Z,0,4,0,24,970,684,1654,9286.0
+482,[questions][fix] fix landing page location params,0,True,True,2022-10-31T10:09:42Z,2022-10-31T10:09:42Z,0,1,0,4,40,25,65,915.0
+480,[questions][ui] fix contribute button,0,True,True,2022-10-31T09:46:30Z,2022-10-31T09:46:30Z,0,1,0,1,1,0,1,436.0
+477,[questions][fix] fix landing page company param,0,True,True,2022-10-31T09:28:53Z,2022-10-31T09:28:53Z,0,2,0,4,31,16,47,3017.0
+472,[questions][feat] add useProtectedCallback hook,156,True,True,2022-10-31T06:31:57Z,2022-10-31T06:31:57Z,0,2,0,11,179,44,223,5645.0
+471,Bryann yeap/oea fixes,0,True,True,2022-10-31T03:41:36Z,2022-10-31T03:41:36Z,0,3,0,17,700,518,1218,157.0
+494,Return base bonus stocks for dashboard,0,True,True,2022-11-02T17:09:50Z,2022-11-02T17:09:50Z,0,1,0,3,28,1,29,353.0
+492,"[ui][typeahead] fix nullable, onSelect props",0,True,True,2022-11-02T13:35:31Z,2022-11-02T13:35:31Z,0,2,1,6,16,17,33,668.0
+490,[offers][feat] tweak offer background submission form,0,True,True,2022-11-02T04:49:58Z,2022-11-02T04:49:58Z,1,2,0,5,303,324,627,11012.0
+488,[offers][feat] tweak offer details submission form,243,True,True,2022-11-01T13:17:18Z,2022-11-01T13:17:18Z,2,3,0,3,301,284,585,2015.0
+489,[offers][fix] fix profile page mobile compatible style,0,True,True,2022-11-01T20:03:34Z,2022-11-01T20:03:34Z,0,1,0,8,201,182,383,297.0
+487,[offers][fix] tweak submit offer job type selector,0,True,True,2022-11-01T03:11:11Z,2022-11-01T03:11:11Z,2,3,0,4,66,31,97,49151.0
+485,[portal][feat] custom login page,0,True,True,2022-10-31T10:21:50Z,2022-10-31T10:21:50Z,0,1,0,11,139,45,184,184.0
+478,[questions][feat] add content search,0,True,True,2022-10-31T11:24:07Z,2022-10-31T11:24:07Z,0,3,0,5,203,6,209,7880.0
+486,[offers][fix] fix empty value,0,True,True,2022-10-31T10:31:19Z,2022-10-31T10:31:19Z,0,1,0,1,4,0,4,429.0
+484,[questions][ui] show newlines in question post,0,True,True,2022-10-31T10:10:10Z,2022-10-31T10:10:10Z,0,1,0,1,5,1,6,73.0
+483,[questions][fix] fix typeahead spasm,0,True,True,2022-10-31T10:09:54Z,2022-10-31T10:09:54Z,0,1,0,1,7,6,13,68.0
+481,[offers][fix] fix date display for single value,0,True,True,2022-10-31T09:47:18Z,2022-10-31T09:47:18Z,0,1,0,1,8,4,12,173.0
+479,[offers][style] fix style for safari,0,True,True,2022-10-31T09:34:16Z,2022-10-31T09:34:16Z,0,1,0,2,11,9,20,283.0
+476,[questions][fix] fix contribute dialog close,0,True,True,2022-10-31T08:38:56Z,2022-10-31T08:38:57Z,0,1,0,2,51,44,95,804.0
+475,[offers][feat] integrate isSaved API,0,True,True,2022-10-31T07:42:51Z,2022-10-31T07:42:51Z,0,1,0,4,113,46,159,246.0
+473,[questions][ui] minor ui fixes,0,True,True,2022-10-31T06:39:54Z,2022-10-31T06:39:54Z,0,1,0,2,49,51,100,5742.0
+474,[offers][fix] Fix save failure toast message,0,True,True,2022-10-31T06:16:09Z,2022-10-31T06:16:09Z,0,1,0,2,3,3,6,251.0
+458,[questions][feat] add encounters sorting,0,True,True,2022-10-31T04:56:45Z,2022-10-31T04:56:45Z,0,3,0,5,72,41,113,124100.0
+469,[offers][style] fix offer card style,0,True,True,2022-10-31T03:12:57Z,2022-10-31T03:12:57Z,0,1,0,2,21,11,32,524.0
+468,[questions][feat] add similar questions check,0,True,True,2022-10-31T02:47:28Z,2022-10-31T02:47:28Z,0,2,0,7,142,6928,7070,20203.0
+467,[questions][fix] fix seed questions script,0,True,True,2022-10-31T02:47:15Z,2022-10-31T02:47:15Z,0,1,0,1,12,2,14,23950.0
+466,[questions][ui] add temporary logo,0,True,True,2022-10-31T02:47:07Z,2022-10-31T02:47:07Z,0,1,0,3,11,4,15,23949.0
+457,"[questions][feat] sort answers, comments",0,True,True,2022-10-30T18:48:56Z,2022-10-30T18:48:56Z,0,2,0,35,1854,951,2805,89982.0
+465,[offers][feat] add event tracking and save to profile in submisison page,0,True,True,2022-10-30T17:58:54Z,2022-10-30T17:58:54Z,0,1,0,15,165,62,227,313.0
+464,[offers][feat] delete comment,0,True,True,2022-10-30T16:53:45Z,2022-10-30T16:53:45Z,0,1,0,3,91,6,97,682.0
+463,[offers][fix] Fix comments UI,0,True,True,2022-10-30T16:10:53Z,2022-10-30T16:10:53Z,0,1,0,1,7,1,8,3424.0
+462,[offers][feat] save to user profile,0,True,True,2022-10-30T15:30:24Z,2022-10-30T15:30:24Z,0,1,0,11,529,123,652,1131.0
+461,[offers][feat] Add logo,0,True,True,2022-10-30T14:41:35Z,2022-10-30T14:41:35Z,0,1,0,6,120,40,160,2901.0
+460,[offers][fix] Fix offers UI,0,True,True,2022-10-30T12:18:47Z,2022-10-30T12:18:47Z,0,1,0,12,258,52,310,6004.0
+456,[questions][feat] add text search,0,True,True,2022-10-30T11:51:49Z,2022-10-30T11:51:49Z,0,2,0,3,60,712,772,71908.0
+451,"[questions][ui] update roles typeahead, add sticky search bar",0,True,True,2022-10-30T11:32:34Z,2022-10-30T11:32:34Z,0,1,0,6,176,129,305,180825.0
+450,[questions][chore] add questions seeding script,73,True,True,2022-10-30T11:32:24Z,2022-10-30T11:32:24Z,0,1,0,2,209,1,210,180971.0
+459,[resumes][feat] add ga for comments,73,True,True,2022-10-30T02:55:19Z,2022-10-30T02:55:19Z,0,1,0,3,31,0,31,374.0
+455,[resumes][feat] Add dynamic filters and unreviewed shortcut,34,True,True,2022-10-29T09:27:05Z,2022-10-29T09:27:05Z,0,1,0,4,337,64,401,2365.0
+454,[offers][refactor] Refactor landing page,0,True,True,2022-10-29T08:36:36Z,2022-10-29T08:36:36Z,0,1,0,10,308,302,610,601.0
+452,[questions][fix] tweak question filters,425,True,True,2022-10-29T00:00:08Z,2022-10-29T00:00:08Z,0,1,0,2,27,24,51,43466.0
+453,[resumes][chore] move browse page to home,0,True,True,2022-10-28T12:18:05Z,2022-10-28T12:18:05Z,0,1,0,8,693,697,1390,53.0
+410,[questions][feat] pagination,0,True,True,2022-10-24T14:56:51Z,2022-10-24T14:56:51Z,0,2,0,12,596,230,826,179324.0
+427,[offers][fix] Fix offers form experience section,0,True,True,2022-10-24T19:31:46Z,2022-10-24T19:31:46Z,0,1,0,7,188,136,324,287.0
+428,"Revert ""[questions][feat] add text search""",12,True,True,2022-10-25T02:29:02Z,2022-10-25T02:29:02Z,0,1,0,3,1,37,38,2076.0
+409,[questions][feat] add encounters transaction for crud,0,True,True,2022-10-26T07:38:29Z,2022-10-26T07:38:29Z,3,3,0,5,135,18,153,331316.0
+437,[questions][fix] remove erronous migration file,0,True,True,2022-10-26T10:17:12Z,2022-10-26T10:17:12Z,0,1,0,2,0,16,16,241.0
+448,[resumes][feat] Add counts for mobile filters on browse page,0,True,True,2022-10-27T14:13:57Z,2022-10-27T14:13:57Z,0,1,0,1,4,1,5,721.0
+445,[offers][fix] tweak hero,0,True,True,2022-10-28T10:37:01Z,2022-10-28T10:37:01Z,0,1,0,10,139,109,248,83685.0
+449,[resumes][misc] update colours of mark as reviewed button,0,True,True,2022-10-27T15:00:43Z,2022-10-27T15:00:43Z,0,1,0,1,8,2,10,79.0
+447,[resumes][feat] Add counts for mobile filters,0,True,False,,2022-10-27T14:00:46Z,0,1,0,4,104,4,108,0
+446,[resumes][feat] Add filter counts on browse page,0,True,True,2022-10-27T13:30:37Z,2022-10-27T13:30:37Z,0,1,0,4,100,3,103,464.0
+434,[resumes][refactor] Update app UI,64,True,True,2022-10-27T08:49:30Z,2022-10-27T08:49:31Z,0,2,0,8,133,119,252,89332.0
+442,[resumes][fix] add resolve resume functionality,0,True,True,2022-10-27T08:08:02Z,2022-10-27T08:08:02Z,0,1,0,8,83,32,115,21815.0
+443,[resumes][refactor] Redirect unauthenticated user to signin on vote,0,True,True,2022-10-27T02:21:03Z,2022-10-27T02:21:03Z,0,1,0,1,7,2,9,261.0
+441,[resumes][feat] use primary buttons,101,True,True,2022-10-26T17:28:26Z,2022-10-26T17:28:26Z,0,1,0,3,111,123,234,404.0
+440,[resumes][fix] style header section,0,True,False,,2022-10-26T16:09:54Z,0,2,0,1,8,5,13,0
+430,[offers][feat] Split offers submission and result pages,0,True,True,2022-10-26T13:17:19Z,2022-10-26T13:17:19Z,1,2,0,6,222,109,331,75035.0
+439,[questions][fix] searchParam loading from localStorage,0,True,True,2022-10-26T13:16:11Z,2022-10-26T13:16:11Z,0,1,0,1,6,2,8,6858.0
+435,[questions][chore] Refactor routers,0,True,True,2022-10-26T11:13:28Z,2022-10-26T11:13:28Z,0,2,0,20,8045,339,8384,8955.0
+438,[questions][feat] Add question lists,0,True,True,2022-10-26T10:53:10Z,2022-10-26T10:53:10Z,0,2,0,20,813,439,1252,884.0
+436,[resumes][fix] update vote query,76,True,True,2022-10-26T09:55:34Z,2022-10-26T09:55:34Z,0,1,0,1,7,8,15,678.0
+431,[resumes][feat] Add About Us page,0,True,True,2022-10-26T08:23:29Z,2022-10-26T08:23:29Z,0,1,0,2,63,0,63,17089.0
+433,[portal] change top nav bar,0,True,True,2022-10-26T08:23:15Z,2022-10-26T08:23:15Z,0,1,0,1,3,1,4,10869.0
+432,[resumes][fix] Fix profile popup issue,0,True,True,2022-10-26T05:18:52Z,2022-10-26T05:18:52Z,0,1,0,1,1,1,2,668.0
+429,[resumes][feat] url search params,0,True,True,2022-10-25T04:08:07Z,2022-10-25T04:08:07Z,0,1,0,5,202,36,238,448.0
+412,[questions][feat] add text search,0,True,True,2022-10-24T17:22:05Z,2022-10-24T17:22:05Z,0,2,0,3,37,1,38,185983.0
+393,[questions][feat] add list crud,0,True,True,2022-10-24T17:21:34Z,2022-10-24T17:21:34Z,0,2,0,3,268,5,273,459495.0
+426,[offers][fix] Fix UI and remove specialization on the backend,0,True,True,2022-10-24T16:24:44Z,2022-10-24T16:24:44Z,0,2,0,15,244,458,702,3949.0
+424,[offers][fix] fix landing page description,0,True,True,2022-10-24T15:18:24Z,2022-10-24T15:18:24Z,0,1,0,8,39,63,102,2683.0
+423,[offers][fix] Use title typeahead,19,True,True,2022-10-24T14:34:28Z,2022-10-24T14:34:28Z,0,1,0,7,116,132,248,340.0
+422,[offers][feat] add landing page and fix comment bugs,0,True,True,2022-10-24T14:00:48Z,2022-10-24T14:00:48Z,0,1,0,10,443,49,492,471.0
+408,[resumes][feat] Add mobile filters,0,True,True,2022-10-21T14:18:13Z,2022-10-21T14:18:13Z,0,1,0,1,258,130,388,344.0
+421,[resumes][fix] Fix browse page scrolling UI,0,True,True,2022-10-24T06:52:20Z,2022-10-24T06:52:20Z,0,1,0,2,26,22,48,739.0
+418,[resumes][refactor] Update resume review page UI,411,True,True,2022-10-24T08:02:41Z,2022-10-24T08:02:41Z,0,1,0,7,138,120,258,65176.0
+420,[offers][fix] remove dark theme for table,0,True,True,2022-10-23T16:36:05Z,2022-10-23T16:36:05Z,0,1,0,2,5,5,10,91.0
+419,[resumes][fix] search and pagination bugs,0,True,True,2022-10-23T14:37:16Z,2022-10-23T14:37:16Z,0,1,0,7,29,17,46,8.0
+417,[offers][feat] Add toast,0,True,True,2022-10-23T10:51:12Z,2022-10-23T10:51:12Z,0,1,0,5,65,31,96,1063.0
+416,[offers][feat] Add analysis to offers profile page,0,True,True,2022-10-23T10:00:37Z,2022-10-23T10:00:37Z,0,1,0,14,373,226,599,825.0
+415,"[resumes][feat] remove resume title, clean up submit form",0,True,True,2022-10-23T09:07:08Z,2022-10-23T09:07:08Z,0,1,0,5,95,117,212,293.0
+414,[resumes][feat] update submit form to be more compact,0,True,True,2022-10-23T05:58:30Z,2022-10-23T05:58:30Z,0,1,0,4,155,147,302,111.0
+413,[offers][fix] Refactor and fix offer analysis,0,True,True,2022-10-22T17:35:04Z,2022-10-22T17:35:04Z,0,1,0,20,255,209,464,520.0
+411,"[questions][feat] add lists ui, sorting, re-design landing page",0,True,True,2022-10-22T14:14:19Z,2022-10-22T14:14:19Z,0,2,0,44,2401,1041,3442,2225.0
+384,[questions][feat] update question filter,0,True,True,2022-10-22T06:31:30Z,2022-10-22T06:31:30Z,1,2,0,7,151,38,189,418773.0
+407,[resumes][fix] fix reply comments,191,True,True,2022-10-21T15:14:57Z,2022-10-21T15:14:57Z,0,2,0,1,10,8,18,4038.0
+406,[resumes][fix] Add mobile filters,0,True,False,,2022-10-21T14:12:05Z,0,1,0,1,257,128,385,0
+404,"[resumes][feat] add padding and hide scrollbar for comments, add findUserTopUpvotedCommentCount query ",0,True,True,2022-10-21T07:25:14Z,2022-10-21T07:25:14Z,0,1,0,6,83,19,102,5649.0
+403,[offers][feat] Integrate offers profile edit,0,True,True,2022-10-20T18:19:30Z,2022-10-20T18:19:30Z,0,1,0,20,496,374,870,286.0
+400,[resumes][feat] fix resume badge UI,0,True,True,2022-10-20T12:47:46Z,2022-10-20T12:47:46Z,0,1,0,7,43,44,87,4676.0
+372,[offers][fix] Fix offer submission form,0,True,True,2022-10-12T14:36:34Z,2022-10-12T14:36:34Z,0,1,0,3,52,28,80,1234.0
+369,[ui][monthYearPicker] Add required props and align bottom,0,True,True,2022-10-12T13:14:56Z,2022-10-12T13:14:56Z,1,2,0,1,7,1,8,829.0
+364,[offers][feat] Add plaintext breadcrumb,0,True,True,2022-10-11T18:26:32Z,2022-10-11T18:26:32Z,0,1,0,4,73,31,104,206.0
+362,[offers][fix] Fix home page company filter UI,0,True,True,2022-10-11T16:51:25Z,2022-10-11T16:51:25Z,0,1,0,1,3,1,4,250.0
+405,[resumes][refactor] Comment UI touchup,243,True,True,2022-10-21T09:56:35Z,2022-10-21T09:56:35Z,0,1,0,3,23,12,35,4527.0
+401,[resumes][feat] replying comments,201,True,True,2022-10-21T07:55:59Z,2022-10-21T07:55:59Z,0,1,0,9,497,217,714,61439.0
+402,[offers][feat] add filters for table and fix pagination,0,True,True,2022-10-20T15:39:07Z,2022-10-20T15:39:07Z,0,1,0,4,68,33,101,544.0
+399,[resumes][feat] scaffold for resume badges,0,True,True,2022-10-20T10:25:26Z,2022-10-20T10:25:26Z,0,1,0,10,168,11,179,13747.0
+355,[question][ui] integrate backend voting,0,True,True,2022-10-10T14:23:58Z,2022-10-10T14:23:58Z,0,2,0,25,639,382,1021,28.0
+347,[questions][feat] integrate backend,0,True,True,2022-10-10T00:17:01Z,2022-10-10T00:17:01Z,0,1,0,19,646,316,962,149.0
+314,[ui][collapsible] add defaultOpen prop,34,True,True,2022-10-07T06:32:03Z,2022-10-07T06:32:03Z,1,2,0,1,3,2,5,2235.0
+398,[offers][feat] Integrate offers analysis into offers submission,0,True,True,2022-10-19T18:46:51Z,2022-10-19T18:46:51Z,0,1,0,17,640,519,1159,490.0
+343,[questions][feat] add question encounter crud,0,True,True,2022-10-19T16:32:42Z,2022-10-19T16:32:42Z,1,2,0,2,141,0,141,876858.0
+397,[resumes][feat] misc updates,0,True,True,2022-10-19T13:56:03Z,2022-10-19T13:56:03Z,0,1,0,2,11,11,22,25.0
+396,[resumes][feat] Update vote animation,188,True,True,2022-10-19T12:28:08Z,2022-10-19T12:28:08Z,0,2,0,1,48,21,69,453.0
+388,[resumes][feat] Add pagination on browse page,0,True,True,2022-10-19T10:37:42Z,2022-10-19T10:37:42Z,0,2,0,5,324,114,438,63296.0
+394,[resumes][feat] Add spinner when rating comments,44,True,True,2022-10-19T10:14:33Z,2022-10-19T10:14:33Z,0,1,0,1,7,3,10,1130.0
+351,[questions][chore] update to use company table values,0,True,True,2022-10-19T10:08:51Z,2022-10-19T10:08:51Z,0,2,0,6,107,96,203,791495.0
+392,[offers][feat] offer discussion section,0,True,True,2022-10-19T09:43:10Z,2022-10-19T09:43:10Z,0,1,0,7,368,34,402,769.0
+389,[resumes][feat] Add resume comment upvote/downvote,189,True,True,2022-10-19T08:48:03Z,2022-10-19T08:48:03Z,0,1,0,6,179,28,207,16648.0
+383,[questions][refactor]: refactor queries,0,True,True,2022-10-19T07:12:56Z,2022-10-19T07:12:56Z,1,2,0,4,67,33,100,162077.0
+390,[offers][refactor] add types for interfaces,0,True,True,2022-10-19T06:36:38Z,2022-10-19T06:36:38Z,0,3,0,14,1448,838,2286,213.0
+391,[offers][fix] fix types for list some offers,0,True,True,2022-10-19T06:46:45Z,2022-10-19T06:46:45Z,0,1,0,2,6,16,22,181.0
+387,[resumes][refactor] Change Tabs to List view,118,True,True,2022-10-18T13:20:56Z,2022-10-18T13:20:56Z,0,1,0,2,66,39,105,1205.0
+386,[resumes][feat] add comment edit,105,True,True,2022-10-18T10:45:22Z,2022-10-18T10:45:22Z,0,2,1,2,125,11,136,9680.0
+385,[resumes][feat] remove updating of pdf on edit,0,True,True,2022-10-17T11:07:20Z,2022-10-17T11:07:20Z,0,1,0,1,67,87,154,291.0
+381,[resumes][feat] add isStarredByUser field to Resumes,0,True,True,2022-10-15T04:41:38Z,2022-10-15T04:41:38Z,0,1,0,7,26,38,64,2639.0
+370,[resumes][feat] re-route to sign-in page + prefix resume for components,0,True,True,2022-10-12T13:22:27Z,2022-10-12T13:22:27Z,0,1,0,7,26,25,51,57.0
+371,"[resumes][feat] re-route to sign in page on submit for review, dialog on clearing submit form",0,True,True,2022-10-13T13:50:49Z,2022-10-13T13:50:49Z,0,1,0,1,50,3,53,87789.0
+380,[resumes][feat] skip upload of file if not changed,0,True,True,2022-10-15T02:14:06Z,2022-10-15T02:14:06Z,0,1,0,2,16,12,28,72.0
+378,[resumes][feat] drag and drop for file upload,0,True,True,2022-10-14T13:47:06Z,2022-10-14T13:47:06Z,0,1,0,8,170,125,295,11861.0
+379,[resumes][feat] add edit form functionality,132,True,True,2022-10-14T17:35:49Z,2022-10-14T17:35:49Z,0,1,0,3,164,48,212,554.0
+377,[resumes][fix] Fix browse page bugs,0,True,True,2022-10-14T07:42:54Z,2022-10-14T07:42:54Z,0,1,0,4,68,19,87,449.0
+376,[resumes][fix] fix relative href redirect to wrong path,0,True,True,2022-10-14T02:44:46Z,2022-10-14T02:44:46Z,0,1,0,1,1,1,2,803.0
+375,[resumes][feat] add resume landing page,0,True,True,2022-10-13T15:32:18Z,2022-10-13T15:32:18Z,0,1,0,33,638,0,638,170.0
+374,[resumes][feat] resumes sorting and filtering,188,True,True,2022-10-13T09:55:16Z,2022-10-13T09:55:16Z,0,1,0,5,177,137,314,1840.0
+363,[resumes][fix] Fix bugs in comments section,546,True,True,2022-10-13T03:57:45Z,2022-10-13T03:57:45Z,0,1,0,18,265,233,498,124169.0
+373,[offers][feat] add token check to profile and add company filter to table,0,True,True,2022-10-12T16:26:57Z,2022-10-12T16:26:57Z,0,1,0,6,103,75,178,469.0
+366,[offers][feat] Enhance submit offers form,0,True,True,2022-10-12T13:30:47Z,2022-10-12T13:30:47Z,0,1,0,8,284,125,409,10834.0
+368,"[offers][feat] add table loading status, refactor table",0,True,True,2022-10-12T11:50:41Z,2022-10-12T11:50:41Z,0,1,0,11,156,140,296,188.0
+367,[offers][feat] integrate profile delete API and set loading status,0,True,True,2022-10-12T11:12:14Z,2022-10-12T11:12:14Z,0,1,0,7,442,308,750,172.0
+365,[app/portal][fix] Add tab redirection ,58,True,True,2022-10-12T05:08:43Z,2022-10-12T05:08:43Z,1,2,1,1,16,2,18,10577.0
+349,[resumes][feat] Add sign in button on browse page,0,True,False,,2022-10-10T05:56:58Z,0,1,0,5,63,53,116,0
+361,[ui][companies typeahead] Add isLabelHidden and placeHolder props,0,True,True,2022-10-11T11:53:21Z,2022-10-11T11:53:21Z,1,2,0,2,13,1,14,1411.0
+360,[offers][feat] integrate profile API and offer API,0,True,True,2022-10-11T11:27:18Z,2022-10-11T11:27:18Z,0,1,0,6,376,154,530,191.0
+359,[resumes][fix] fix resumes starring lag + add zoom controls,115,True,True,2022-10-11T08:36:09Z,2022-10-11T08:36:09Z,0,1,0,7,113,61,174,494.0
+358,[offers][feat] Integrate offers create API and fix form UI,0,True,True,2022-10-11T07:08:44Z,2022-10-11T07:08:44Z,0,1,0,18,345,162,507,283.0
+356,[infra] add GitHub action for typechecking,54,True,True,2022-10-10T23:27:41Z,2022-10-10T23:27:41Z,0,1,0,3,39,2,41,767.0
+354,[resumes][feat] add link to resume guide,0,True,True,2022-10-10T12:34:53Z,2022-10-10T12:34:53Z,0,1,0,1,5,0,5,349.0
+350,[resumes][feat] Add sign in buttons on browse page,0,True,True,2022-10-10T06:09:01Z,2022-10-10T06:09:01Z,0,1,0,6,80,71,151,513.0
+344,[resumes][feat] Update resume top nav bar,71,True,True,2022-10-09T14:26:23Z,2022-10-09T14:26:23Z,0,1,0,3,7,12,19,336.0
+353,"Add Offers Schema, View Offer Profiles API, and Create Offer Profile API",0,True,True,2022-10-10T11:50:57Z,2022-10-10T11:50:57Z,0,2,0,8,1165,10,1175,3415.0
+352,"Add Offers Schema, View Offers API, and Create Offer Profile API",0,True,False,,2022-10-10T08:50:42Z,0,2,0,7,1042,3,1045,0
+348,"[offers][feat] Add offers submission, view and list pages",0,True,True,2022-10-10T05:23:23Z,2022-10-10T05:23:23Z,0,2,0,22,2260,15,2275,636.0
+339,[questions][feat] add nested create encounter,0,True,True,2022-10-10T05:08:02Z,2022-10-10T05:08:03Z,0,2,0,8,113,59,172,69071.0
+332,[questions][feat] add answer comment crud,0,True,True,2022-10-09T19:46:51Z,2022-10-09T19:46:51Z,1,2,0,3,237,0,237,60396.0
+331,[questions][feat] add question answer crud,0,True,True,2022-10-09T19:26:07Z,2022-10-09T19:26:07Z,2,2,0,3,247,1,248,59173.0
+330,[questions][feat] add question comment crud,0,True,True,2022-10-09T19:12:22Z,2022-10-09T19:12:22Z,1,2,0,3,237,0,237,58889.0
+346,[questions][ui] Full UI for questions/answer/comment,0,True,True,2022-10-09T18:01:38Z,2022-10-09T18:01:38Z,0,2,0,27,1590,368,1958,16.0
+345,[offers][feat] add homepage and offer profile ui,0,True,False,,2022-10-09T15:31:08Z,0,1,0,10,857,15,872,0
+337,[questions][feat] update encounters schema,0,True,True,2022-10-09T09:36:03Z,2022-10-09T09:36:03Z,0,1,0,2,9,0,9,39.0
+335,[resumes][feat] add submission guidelines box,45,True,True,2022-10-09T09:09:25Z,2022-10-09T09:09:25Z,1,1,0,2,67,18,85,7781.0
+342,[resumes][feat] add loading screens for resumes/comments,0,True,True,2022-10-09T12:46:24Z,2022-10-09T12:46:24Z,0,1,0,6,89,44,133,190.0
+341,[resumes][refactor] Package routers into folders,0,True,True,2022-10-09T10:53:35Z,2022-10-09T10:53:36Z,0,2,1,12,143,140,283,379.0
+333,[resumes][fix] Fix starred resumes uploader name,0,True,True,2022-10-09T03:35:01Z,2022-10-09T03:35:01Z,0,1,0,1,6,6,12,547.0
+336,[resumes][refactor] Filter comments on FE,0,True,True,2022-10-09T08:45:16Z,2022-10-09T08:45:16Z,0,1,0,3,14,18,32,711.0
+340,[resumes][feat] Display location text in resume browse page,0,True,True,2022-10-09T10:29:53Z,2022-10-09T10:29:53Z,0,1,0,1,5,2,7,183.0
+338,Keane/update-submit-form,0,True,True,2022-10-09T09:55:06Z,2022-10-09T09:55:06Z,0,1,0,2,43,39,82,576.0
+327,[questions][feat] add questions crud,94,True,True,2022-10-09T08:34:17Z,2022-10-09T08:34:17Z,1,2,0,3,280,1,281,73221.0
+334,[resumes][fix] add spinners and responsive UI,269,True,True,2022-10-09T07:24:23Z,2022-10-09T07:24:23Z,1,2,0,6,324,288,612,4505.0
+310,[resumes][feat] submit resume mutation,0,True,True,2022-10-06T09:40:11Z,2022-10-06T09:40:11Z,0,1,0,5,56,11,67,1501.0
+329,[resumes][feat] add required fields and use text area,54,True,True,2022-10-08T15:53:23Z,2022-10-08T15:53:23Z,0,1,0,4,66,81,147,207.0
+323,[questions][feat] add questions models,142,True,True,2022-10-08T17:36:22Z,2022-10-08T17:36:22Z,7,3,2,7,383,12,395,109366.0
+321,[resumes][feat] upload pdf file into file storage,739,True,True,2022-10-09T02:40:22Z,2022-10-09T02:40:22Z,1,2,1,10,2198,1878,4076,147030.0
+325,[resumes][feat] Fetch all resumes in browse page,0,True,True,2022-10-07T16:26:16Z,2022-10-07T16:26:16Z,0,1,0,6,291,238,529,4579.0
+326,[resumes][feat] Fetch resumes for browse tabs,15,True,True,2022-10-08T12:57:04Z,2022-10-08T12:57:04Z,0,1,0,6,158,16,174,12177.0
+328,[resumes][feat] Add basic linking of pages,15,True,True,2022-10-08T13:50:20Z,2022-10-08T13:50:20Z,0,1,0,2,15,2,17,1692.0
+312,[questions][feat] add homepage layout,0,True,True,2022-10-08T08:08:12Z,2022-10-08T08:08:12Z,0,2,0,10,691,5,696,155772.0
+320,[resumes][feat] fetch comments from database ,158,True,True,2022-10-07T16:42:27Z,2022-10-07T16:42:27Z,2,1,0,8,197,17,214,29097.0
+322,[resumes][feat] Fetch resume details from database,181,True,True,2022-10-07T15:33:24Z,2022-10-07T15:33:24Z,0,1,0,12,373,189,562,18775.0
+311,[resume][feat] Add basic browse page,0,True,True,2022-10-06T15:07:16Z,2022-10-06T15:07:16Z,0,1,0,6,478,3,481,18491.0
+319,[resumes][feat] Add missing browse page UI,54,True,True,2022-10-07T08:24:29Z,2022-10-07T08:24:29Z,0,1,0,1,156,253,409,721.0
+324,[resumes][fix] Use clsx instead of classnames function,0,True,True,2022-10-07T14:00:38Z,2022-10-07T14:00:38Z,0,1,0,1,2,5,7,292.0
+315,[ui][text input] change label padding,0,True,False,,2022-10-07T08:34:25Z,0,1,0,1,4,4,8,0
+318,[resumes][refactor] Change to ResumesProfile schema,0,True,True,2022-10-07T08:09:52Z,2022-10-07T08:09:52Z,0,1,0,4,34,14,48,1347.0
+317,[resumes][feat] Add Resume Comments Display,3,True,False,,2022-10-07T07:46:00Z,0,1,0,4,34,14,48,0
+316,[resumes][feat] add resumeprofiles model,0,True,True,2022-10-07T06:30:27Z,2022-10-07T06:30:27Z,0,1,0,3,146,51,197,677.0
+313,[resumes][feat] Add API to submit & query for resume reviews,554,True,True,2022-10-07T06:19:37Z,2022-10-07T06:19:37Z,0,1,0,9,209,25,234,57145.0
+308,[resumes][feat] add resumes schema,134,True,True,2022-10-06T06:59:15Z,2022-10-06T06:59:15Z,8,3,1,3,141,8,149,54426.0
+306,[resumes][feat] Add Resume Review Page,95,True,True,2022-10-06T12:09:40Z,2022-10-06T12:09:40Z,3,4,3,10,420,4,424,80551.0
+309,[resumes][chore] Remove tracking of state in submit form,0,True,True,2022-10-06T06:54:05Z,2022-10-06T06:54:05Z,0,2,3,1,16,27,43,53397.0
+305,[resumes][feat] Add submit form,0,True,False,,2022-10-05T13:57:56Z,4,2,1,4,247,1,248,0
+307,[resumes][feat] submit resume form,0,True,True,2022-10-05T13:59:20Z,2022-10-05T13:59:20Z,0,1,0,4,247,1,248,60.0
+302,contents: fix typo in choosing between companies,92,True,True,2022-10-02T23:23:08Z,2022-10-02T23:23:08Z,1,2,0,1,1,1,2,10190.0
+299,contents: fix typo in array cheatsheet,0,True,True,2022-09-17T12:18:07Z,2022-09-17T12:18:07Z,1,2,0,1,1,1,2,70577.0
+283,3 Month plan: Add missing link,0,True,False,,2022-09-11T02:22:41Z,2,4,1,1,1,1,2,0
+291,"Changed difficulty of ""Maximum Subarray"" to medium",0,True,False,,2022-09-11T02:18:43Z,1,3,1,1,1,1,2,0
+297,updated difficulty level for maximum-subarray,60,True,False,,2022-09-11T01:44:39Z,1,3,1,1,1,1,2,0
+294,website: add Jeanne Toh's success story,29,True,True,2022-08-13T09:54:27Z,2022-08-13T09:54:27Z,1,2,0,1,32,0,32,1383.0
+292,Fix Typo,85,True,False,,2022-08-02T23:40:59Z,0,2,1,1,1,1,2,0
+293,website: add Rahul Senguttuvan's success story,63,True,True,2022-08-02T23:39:49Z,2022-08-02T23:39:49Z,1,2,0,1,25,0,25,21120.0
+286,"blog: add post ""Getting a Tech Job as an Undergraduate""",92,True,True,2022-07-10T04:12:58Z,2022-07-10T04:12:58Z,1,2,1,1,89,0,89,53519.0
+285,contents: fix min stack difficulty,135,True,True,2022-07-02T23:35:09Z,2022-07-02T23:35:09Z,1,2,0,1,1,1,2,7821.0
+282,Algo Monster: Fix Broken Link,0,True,False,,2022-06-20T01:18:48Z,0,2,2,1,1,1,2,0
+279,contents: fix typo and grammar in study cheatsheet,33,True,True,2022-06-03T17:22:00Z,2022-06-03T17:22:00Z,1,2,0,1,1,1,2,21179.0
+280,contents: fix typos in hash table cheatsheet,130,True,True,2022-06-03T13:48:35Z,2022-06-03T13:48:35Z,1,2,1,1,3,3,6,7628.0
+278,"Omitted double ""and"" on home page",0,True,True,2022-05-28T02:27:02Z,2022-05-28T02:27:02Z,1,2,0,1,1,1,2,21255.0
+276,contents(algo): fix typo in math cheat sheet,257,True,True,2022-05-18T03:06:29Z,2022-05-18T03:06:29Z,1,2,0,1,1,1,2,4257.0
+273,contents(algo): fix typo in matrix cheat sheet,51,True,True,2022-05-13T23:00:43Z,2022-05-13T23:00:43Z,1,2,0,1,1,1,2,10476.0
+272,contents: algorithm cheatsheet typos and suggestions,197,True,True,2022-05-13T23:02:26Z,2022-05-13T23:02:26Z,3,2,2,7,9,9,18,41448.0
+254,contents: add more resources for DP,68,True,True,2022-01-05T00:53:28Z,2022-01-05T00:53:29Z,1,2,0,1,1,0,1,5344.0
+269,contents: std::map is not a hash-table,193,True,True,2022-04-20T10:27:04Z,2022-04-20T10:27:04Z,1,2,0,1,1,1,2,7794.0
+268,contents: fix typo in programming languages page,41,True,True,2022-04-14T12:14:54Z,2022-04-14T12:14:54Z,1,2,0,1,1,1,2,5266.0
+265,Switch to gender neutral terms,409,True,False,,2022-04-02T03:45:20Z,2,3,1,12,25,25,50,0
+258,Recommended Resources for Tree Traversal,488,True,False,,2022-02-06T11:06:55Z,0,1,1,1,4,0,4,0
+261,contents: remove repeated sentence in introduction,134,True,True,2022-02-02T21:39:04Z,2022-02-02T21:39:04Z,1,2,1,1,1,1,2,6589.0
+260,contents: fix typo in choosing companies section,0,True,True,2022-02-01T23:08:09Z,2022-02-01T23:08:09Z,1,2,1,1,1,1,2,24385.0
+253,misc: fix typos in introduction,0,True,True,2022-01-03T08:20:33Z,2022-01-03T08:20:33Z,1,2,0,2,2,2,4,78858.0
+250,misc: fix some grammar issues on the STAR format page,0,True,True,2022-01-03T08:19:45Z,2022-01-03T08:19:45Z,1,2,0,1,9,9,18,5322679.0
+244,contents: update negotiation tips,0,True,True,2021-10-31T12:40:23Z,2021-10-31T12:40:23Z,0,1,0,1,1,1,2,144.0
+252,Added Simplify!,28,True,True,2021-12-03T00:55:09Z,2021-12-03T00:55:09Z,1,2,0,1,12,1,13,2112.0
+249,contents: add list of system design videos explained in simple language,0,True,True,2021-11-01T01:39:58Z,2021-11-01T01:39:58Z,1,2,0,1,1,0,1,3014.0
+248,contents: add initial draft for choosing companies,0,True,True,2021-11-01T00:42:46Z,2021-11-01T00:42:47Z,0,1,0,1,60,0,60,5.0
+247,blog: fix typo in Google levels,0,True,True,2021-11-01T00:30:50Z,2021-11-01T00:30:50Z,0,1,0,1,1,1,2,14.0
+245,misc: corrected some grammatical errors in README file,89,True,True,2021-10-31T23:39:00Z,2021-10-31T23:39:00Z,1,2,0,1,5,5,10,36335.0
+246,contents: make the Partition Equal Subset Sum link both,130,True,True,2021-10-31T23:37:59Z,2021-10-31T23:37:59Z,1,2,0,1,1,1,2,25086.0
+243,website: add Zongran success story,0,True,True,2021-10-30T01:52:07Z,2021-10-30T01:52:07Z,1,2,0,1,20,0,20,39660.0
+242,fix: dropbox.com is connected with full stop,81,True,True,2021-10-30T01:49:42Z,2021-10-30T01:49:42Z,1,2,0,1,1,1,2,60289.0
+239,feat: add suggestion problem to knapsack knowledge,0,True,True,2021-10-07T17:19:58Z,2021-10-07T17:19:58Z,1,2,0,1,1,1,2,157096.0
+240,contents: add a new behavioral question,0,True,True,2021-10-07T17:19:29Z,2021-10-07T17:19:29Z,0,2,1,1,1,0,1,35485.0
+237,contents: add Parking Lot question to OOP,125,True,True,2021-10-05T18:07:35Z,2021-10-05T18:07:36Z,1,2,1,1,1,0,1,903.0
+231,Add two questions under hired section,0,True,False,,2021-10-05T17:45:45Z,0,2,5,1,2,0,2,0
+236,"Adds ""Diameter of Binary Tree""",54,True,False,,2021-10-05T16:34:15Z,1,2,1,1,1,0,1,0
+233,content: add new math suggestion,0,True,True,2021-10-05T03:19:58Z,2021-10-05T03:19:58Z,1,2,0,1,2,0,2,2341.0
+232,contents: add suggestion about weaknesses questions,0,True,True,2021-10-05T02:32:33Z,2021-10-05T02:32:33Z,1,2,0,1,1,0,1,402.0
+230,added complexity,0,True,False,,2021-10-04T08:35:46Z,1,2,0,3,14,0,14,0
+229,contents: include a snippet for swapping two variables using bitwise operators,80,True,True,2021-10-02T09:33:25Z,2021-10-02T09:33:25Z,1,2,0,1,1,0,1,46187.0
+227,content: add new matrix question,93,True,True,2021-09-20T18:08:22Z,2021-09-20T18:08:22Z,1,3,0,1,1,0,1,288713.0
+226,content: add new sliding window question,0,True,True,2021-09-16T16:22:01Z,2021-09-16T16:22:01Z,1,3,0,1,1,0,1,976.0
+225,content: add Books section,0,True,True,2021-09-16T16:21:43Z,2021-09-16T16:21:43Z,1,3,0,1,3,0,3,1353.0
+218,New content,0,True,False,,2021-09-09T21:25:29Z,1,2,1,2,30,67,97,0
+220,blog: add front end interview experience blog post,8,True,True,2021-08-31T11:31:52Z,2021-08-31T11:31:52Z,0,2,0,1,157,0,157,17420.0
+219,contents: update coding signals,41,True,True,2021-08-24T01:15:08Z,2021-08-24T01:15:08Z,2,3,0,1,6,6,12,15397.0
+216,build(deps): bump path-parse from 1.0.6 to 1.0.7 in /website,1962,True,True,2021-08-22T11:43:09Z,2021-08-22T11:43:09Z,0,1,0,1,3,3,6,970151.0
+217,Update interview-formats.md,44,True,False,,2021-08-17T10:11:16Z,0,1,0,1,17,1,18,0
+215,build(deps): bump tar from 4.4.10 to 4.4.15 in /website,2266,True,True,2021-08-07T16:42:52Z,2021-08-07T16:42:52Z,0,1,0,1,26,31,57,287164.0
+214,build(deps): bump ws from 6.2.1 to 6.2.2 in /website,2138,True,True,2021-07-17T14:51:12Z,2021-07-17T14:51:12Z,0,1,0,1,6,6,12,269.0
+213,build(deps): bump normalize-url from 4.5.0 to 4.5.1 in /website,1965,True,True,2021-07-17T14:51:05Z,2021-07-17T14:51:05Z,0,1,0,1,1,6,7,263.0
+212,build(deps): bump prismjs from 1.23.0 to 1.24.0 in /website,4151,True,True,2021-07-17T14:50:57Z,2021-07-17T14:50:57Z,0,1,0,1,3,36,39,1623639.0
+210,Added Intervue.io,140,True,False,,2021-06-03T15:01:25Z,0,2,1,1,2,2,4,0
+211,Numbering the 10 ways,184,True,True,2021-06-03T14:57:09Z,2021-06-03T14:57:09Z,1,2,0,1,10,10,20,2202.0
+209,build(deps): bump dns-packet from 1.3.1 to 1.3.4 in /website,2142,True,True,2021-05-28T04:20:53Z,2021-05-28T04:20:53Z,0,1,0,1,6,6,12,21881.0
+206,build(deps): bump lodash from 4.17.19 to 4.17.21 in /website,2482,True,True,2021-05-17T02:32:57Z,2021-05-17T02:32:57Z,0,1,0,1,3,3,6,608312.0
+207,Update resume.md and added career objectives to summary,0,True,True,2021-05-17T02:32:34Z,2021-05-17T02:32:34Z,1,2,0,1,1,0,1,12339.0
+205,build(deps): bump url-parse from 1.4.7 to 1.5.1 in /website,2415,True,True,2021-05-08T15:16:04Z,2021-05-08T15:16:04Z,0,1,0,1,6,6,12,33603.0
+204,build(deps): bump ssri from 6.0.1 to 6.0.2 in /website,2276,True,True,2021-04-19T16:42:57Z,2021-04-19T16:42:58Z,0,1,0,1,6,6,12,1796.0
+202,algo: remove similar question,11,True,True,2021-04-13T01:23:09Z,2021-04-13T01:23:09Z,0,2,0,1,0,1,1,285044.0
+200,Update introduction.md,0,True,False,,2021-04-13T01:22:34Z,0,2,0,1,1,1,2,0
+199,build(deps): bump y18n from 4.0.0 to 4.0.1 in /website,2939,True,True,2021-04-13T01:21:49Z,2021-04-13T01:21:49Z,0,1,0,1,3,3,6,1140428.0
+203,contents: remove Amazon,164,True,True,2021-04-13T01:21:09Z,2021-04-13T01:21:09Z,0,2,0,1,0,18,18,22959.0
+196,content: check if a number is a power of 2,197,True,True,2021-03-29T09:58:59Z,2021-03-29T09:58:59Z,1,2,0,1,1,1,2,2748460.0
+198,build(deps): bump elliptic from 6.5.3 to 6.5.4 in /website,2151,True,True,2021-03-23T09:04:18Z,2021-03-23T09:04:18Z,0,1,0,1,17,17,34,1198962.0
+197,build(deps): bump prismjs from 1.21.0 to 1.23.0 in /website,5982,True,True,2021-03-02T01:33:24Z,2021-03-02T01:33:24Z,0,1,0,1,3,3,6,15926.0
+195,This pull request does not exists.,1,True,False,,2021-01-20T18:04:02Z,0,2,2,1,1,1,2,0
+194,Update introduction.md,0,True,False,,2021-01-11T09:32:55Z,0,2,0,1,2,2,4,0
+193,contents: replace Lago with TheAlgorithms,79,True,True,2021-01-06T18:30:34Z,2021-01-06T18:30:34Z,1,2,0,1,1,1,2,2905.0
+191,build(deps): bump ini from 1.3.5 to 1.3.7 in /website,2329,True,True,2020-12-31T03:27:39Z,2020-12-31T03:27:39Z,0,1,0,1,3,3,6,1681249.0
+189,Update README.md,0,True,False,,2020-10-25T18:54:57Z,0,2,0,1,2,2,4,0
+188,Looks Good,0,True,False,,2020-10-16T16:33:18Z,0,2,2,1,14,14,28,0
+187,contents: add Amazon interview format,30,True,True,2020-10-09T08:15:51Z,2020-10-09T08:15:51Z,1,2,1,1,19,0,19,846.0
+184,Working on issue #93 and Fixed it.,14,True,False,,2020-10-04T08:46:45Z,0,2,1,2,211,0,211,0
+185,search and sorting,117,True,False,,2020-10-04T08:42:44Z,0,2,1,1,221,0,221,0
+186,mapping,153,True,False,,2020-10-04T08:42:56Z,0,2,1,1,431,0,431,0
+183,Added Spiral Matrix Algo,10,True,False,,2020-10-04T08:41:49Z,0,2,1,1,64,0,64,0
+182,contents: add behavioral questions,375,True,True,2020-10-04T08:41:20Z,2020-10-04T08:41:20Z,1,2,0,1,8,0,8,69410.0
+181,Most important tip for the interviews.,0,True,False,,2020-10-02T14:37:32Z,0,2,1,1,1,0,1,0
+180,Update README.md,0,True,False,,2020-10-01T19:53:15Z,0,2,1,1,1,1,2,0
+179,content: Update blob about symmetric encryption,0,True,True,2020-10-01T07:51:58Z,2020-10-01T07:51:58Z,1,2,0,1,4,4,8,2923.0
+173,chore: update link to artist's Dribbble,185,True,False,,2020-09-25T11:24:44Z,4,3,0,1,1,1,2,0
+177,chore: update link to artist's Dribbble,0,True,True,2020-09-25T11:24:11Z,2020-09-25T11:24:11Z,1,2,0,1,1,1,2,5308.0
+175,contents: update linked list insertion and deletion explanation,402,True,True,2020-09-25T08:54:54Z,2020-09-25T08:54:54Z,1,2,0,1,1,1,2,2240834.0
+176,build(deps): bump http-proxy from 1.17.0 to 1.18.1 in /website,5710,True,True,2020-09-25T08:10:27Z,2020-09-25T08:10:27Z,0,1,0,1,11,13,24,1308616.0
+172,build(deps): bump prismjs from 1.20.0 to 1.21.0 in /website,3909,True,True,2020-08-10T07:40:11Z,2020-08-10T07:40:11Z,1,1,0,1,3,3,6,199912.0
+171,contents: add tip on traversing arrays,306,True,True,2020-08-03T07:25:39Z,2020-08-03T07:25:39Z,1,2,0,1,2,0,2,423.0
+170,build(deps): bump elliptic from 6.5.0 to 6.5.3 in /website,2277,True,True,2020-07-30T02:24:02Z,2020-07-30T02:24:02Z,0,1,0,1,6,6,12,1291.0
+169,build(deps): bump lodash from 4.17.14 to 4.17.19 in /website,2569,True,True,2020-07-18T16:56:17Z,2020-07-18T16:56:17Z,0,1,0,1,4,9,13,80819.0
+168,contents: Fix typo in Alice compensation example,737,True,True,2020-07-07T02:51:28Z,2020-07-07T02:51:28Z,1,2,0,1,1,1,2,24362.0
+163,contents: add overcome nervousness page,71,True,False,,2020-06-25T06:26:33Z,1,2,2,2,19,0,19,0
+167,build(deps): bump websocket-extensions from 0.1.3 to 0.1.4 in /website,2575,True,True,2020-06-07T03:11:39Z,2020-06-07T03:11:39Z,0,1,0,1,3,3,6,7451.0
+166,website: add blog and blogpost,169,True,True,2020-05-28T13:52:19Z,2020-05-28T13:52:19Z,3,2,2,2,128,0,128,444.0
+164,misc: create backwards-compatibility README for system design,190,True,True,2020-05-11T02:08:32Z,2020-05-11T02:08:32Z,1,2,1,1,5,0,5,5768.0
+162,Added a Study Link to Permutation page,95,True,False,,2020-04-22T02:57:52Z,1,3,0,1,4,0,4,0
+161,gitpod setup: make the description precise + remove the build task to make the server startup fast.,0,True,True,2020-03-19T09:38:02Z,2020-03-19T09:38:02Z,0,2,0,2,10,3,13,678.0
+159,linwenhe644,3,True,False,,2020-03-14T21:17:41Z,0,3,4,1,1,0,1,0
+160,build(deps): bump acorn from 6.2.0 to 6.4.1 in /website,2392,True,True,2020-03-15T11:35:46Z,2020-03-15T11:35:46Z,1,1,0,1,4,9,13,300.0
+156,contents(oop): add new Elevator question,0,True,True,2020-03-15T05:24:49Z,2020-03-15T05:24:49Z,1,2,0,1,1,0,1,1101892.0
+152,misc: simplify code contributions by automating the dev setup with Gitpod,499,True,True,2020-03-15T05:23:56Z,2020-03-15T05:23:56Z,2,2,1,2,17,0,17,5879976.0
+157,[contents] fix typo in interview formats,0,True,True,2020-03-06T16:41:49Z,2020-03-06T16:41:49Z,1,3,0,1,1,1,2,84606.0
+158,[contents] fix typo in self intro,0,True,True,2020-03-06T16:40:54Z,2020-03-06T16:40:54Z,1,3,0,1,1,1,2,83796.0
+151,Jump Game is better with greedy than dynamic...,0,True,False,,2020-01-26T08:00:49Z,0,2,1,1,1,1,2,0
+155,"Fix Typo (Semantics): Under ""Why do they want you"" section.",47,True,True,2020-01-22T22:35:33Z,2020-01-22T22:35:33Z,0,2,1,1,1,1,2,22050.0
+150,contents: link to LeetCode's Longest Common Subsequence question,0,True,True,2019-12-31T11:42:57Z,2019-12-31T11:42:57Z,1,2,0,1,1,1,2,390490.0
+147,contents: add new general behavioral question,0,True,True,2019-10-15T08:01:43Z,2019-10-15T08:01:43Z,1,2,0,1,1,0,1,150.0
+146,fix: typo,0,True,True,2019-10-06T17:44:25Z,2019-10-06T17:44:25Z,1,2,0,1,1,1,2,250.0
+144,misc: fixed typo in cheatsheet,34,True,True,2019-09-21T22:53:00Z,2019-09-21T22:53:01Z,1,2,0,1,1,1,2,4714.0
+142,fixed typo in Phone Interview section,173,True,True,2019-09-21T20:09:22Z,2019-09-21T20:09:22Z,1,2,0,1,1,1,2,8033.0
+141,Fixing small issue with bfs algorithm,113,True,True,2019-09-21T03:10:13Z,2019-09-21T03:10:13Z,1,2,0,1,1,1,2,680.0
+137,contents: modify graph search algorithm,713,True,True,2019-09-13T18:46:55Z,2019-09-13T18:46:55Z,5,3,5,1,52,8,60,479868.0
+136,contents: fix a typo,16,True,True,2019-09-03T15:35:42Z,2019-09-03T15:35:42Z,1,2,0,1,1,1,2,2482.0
+140,contents: update Google technical interview format,106,True,True,2019-09-11T17:17:13Z,2019-09-11T17:17:13Z,1,2,0,1,4,4,8,122.0
+139,"misc: remove duplicate entry for ""Merge K Sorted Lists""",85,True,True,2019-09-11T13:12:38Z,2019-09-11T13:12:38Z,1,1,1,1,0,1,1,210.0
+138,misc: fix typo,76,True,True,2019-09-11T10:21:27Z,2019-09-11T10:21:27Z,1,2,0,1,1,1,2,22798.0
+134,questions: remove duplicate question from sorting-searching.md,0,True,True,2019-08-25T13:37:54Z,2019-08-25T13:37:54Z,1,2,1,1,0,1,1,28109.0
+133,misc: fix broken link for /interview-formats,49,True,True,2019-08-24T12:53:57Z,2019-08-24T12:53:57Z,1,2,0,1,1,1,2,19613.0
+131,chore: update README.md,39,True,True,2019-08-20T16:08:16Z,2019-08-20T16:08:16Z,1,2,0,1,5,6,11,7288.0
+130,misc: improve image compression,122,True,True,2019-08-20T13:24:28Z,2019-08-20T13:24:28Z,1,2,2,3,32,36,68,145.0
+129,contents: fix typo in landscape,0,True,True,2019-08-20T13:03:00Z,2019-08-20T13:03:00Z,1,2,0,1,1,1,2,315.0
+128,fix typo!,63,True,True,2019-08-19T07:46:40Z,2019-08-19T07:46:40Z,0,2,0,1,1,1,2,1403.0
+127,Add references to compensation data,339,True,True,2019-08-18T21:00:43Z,2019-08-18T21:00:43Z,1,2,1,1,1,1,2,13404.0
+125,fixes the wording,42,True,True,2019-08-18T04:43:11Z,2019-08-18T04:43:11Z,0,3,1,1,1,1,2,2283.0
+126,Fix wording,42,True,True,2019-08-18T06:16:56Z,2019-08-18T06:16:57Z,0,2,1,1,1,1,2,2156.0
+123,algorithms: add link to Longest Common Subsequence problem,176,True,True,2019-07-14T23:05:17Z,2019-07-14T23:05:17Z,1,2,0,1,1,1,2,3403737.0
+121,Fixed grammar,0,True,True,2019-07-14T23:03:19Z,2019-07-14T23:03:19Z,1,2,0,1,1,1,2,9458903.0
+119,Activating Open Collective,1247,True,False,,2019-07-14T23:02:31Z,0,2,1,1,33,0,33,0
+122,deepEqual throws exception,75,True,True,2019-04-03T16:18:00Z,2019-04-03T16:18:01Z,1,2,1,1,1,1,2,1758.0
+118,Add longest consecutive elements sequence question,63,True,True,2019-01-15T04:37:19Z,2019-01-15T04:37:19Z,0,2,0,1,2,0,2,20704.0
+112,Add staircase question to DP,0,True,True,2019-01-15T04:35:40Z,2019-01-15T04:35:40Z,0,3,1,1,1,0,1,6911823.0
+117,Update link to a DP tutorial,0,True,True,2019-01-14T16:43:21Z,2019-01-14T16:43:21Z,0,2,1,1,1,1,2,585.0
+116,Merge pull request #1 from yangshun/master,18,True,False,,2019-01-08T20:50:24Z,0,2,0,0,0,0,0,0
+115,Update README.md,22,True,True,2018-10-31T22:36:02Z,2018-10-31T22:36:02Z,1,2,0,1,1,1,2,626.0
+114,Fixed 2 typos,303,True,True,2018-10-31T17:25:19Z,2018-10-31T17:25:19Z,1,2,1,2,2,2,4,27121.0
+110,Update interview-formats.md,18,True,False,,2018-10-26T14:47:00Z,0,2,1,1,18,0,18,0
+111,Update README.md for /algorithms,0,True,True,2018-10-26T14:41:42Z,2018-10-26T14:41:42Z,0,2,1,1,1,1,2,40333.0
+109,Update security.md to correct wording,0,True,True,2018-10-19T05:52:55Z,2018-10-19T05:52:55Z,1,2,1,1,4,4,8,318.0
+106,Add self introduction paragraph,178,True,True,2018-10-13T18:23:33Z,2018-10-13T18:23:33Z,0,2,1,1,20,2,22,91050.0
+104,Add solutions to Array problems.,153,True,True,2018-10-13T18:16:19Z,2018-10-13T18:16:19Z,0,1,1,1,39,50,89,3791274.0
+108,To reverse a linked list,0,True,False,,2018-10-13T18:15:23Z,0,2,1,1,56,0,56,0
+107,Update basics.md,10,True,True,2018-10-13T00:17:37Z,2018-10-13T00:17:37Z,1,2,1,1,1,1,2,17711.0
+103,Remove duplicate question in behavioral.md,0,True,True,2018-08-23T17:49:34Z,2018-08-23T17:49:34Z,1,2,1,1,0,1,1,2416.0
+101,remove duplicate question,35,True,True,2018-08-10T16:56:29Z,2018-08-10T16:56:29Z,0,2,0,1,0,1,1,2171688.0
+102,questions-to-ask.md: improve phrasing & grammar,280,True,True,2018-08-10T16:55:54Z,2018-08-10T16:55:54Z,1,2,1,1,1,1,2,74.0
+15,Floyd warshall algorithm with path generator,128,True,False,,2018-07-15T22:23:47Z,0,3,2,1,67,0,67,0
+100,remove duplicate question,0,True,True,2018-07-15T22:09:29Z,2018-07-15T22:09:29Z,1,2,2,1,1,2,3,3196.0
+99,Fix grammar/phrasing and typos in behavioral.md,99,True,True,2018-03-29T07:49:40Z,2018-03-29T07:49:40Z,1,2,1,1,12,12,24,4088.0
+98,tech-interview-handbook-Spanish partial translation,68,True,False,,2018-02-24T03:41:53Z,0,2,1,1,124,0,124,0
+97,[update] license year,27,True,True,2018-02-01T23:15:11Z,2018-02-01T23:15:11Z,0,2,1,1,1,1,2,1362.0
+96,Interview questions,83,True,False,,2018-01-20T17:31:26Z,1,2,1,2,29,0,29,0
+94,Create signals.md,0,True,False,,2018-01-13T07:16:04Z,0,2,1,1,4,0,4,0
+95,Fix typo,0,True,True,2018-01-05T04:14:00Z,2018-01-05T04:14:00Z,1,2,0,1,2,2,4,619.0
+92,Merge pull request #1 from yangshun/master,18,True,False,,2017-12-06T21:11:56Z,0,2,1,0,0,0,0,0
+89,Add Prettier,198,True,False,,2017-11-24T04:34:13Z,0,2,1,74,2892,2930,5822,0
+91,Improve answer for enumerating through JS object properties,90,True,True,2017-11-24T03:37:15Z,2017-11-24T03:37:15Z,0,2,1,1,1,0,1,5770.0
+87,improve the answer about closure,94,True,False,,2017-11-18T03:57:56Z,0,2,5,1,1,1,2,0
+88,typo,19,True,True,2017-11-17T03:16:48Z,2017-11-17T03:16:48Z,0,2,1,1,1,1,2,1975.0
+86,fix list mark,0,True,True,2017-11-16T01:53:31Z,2017-11-16T01:53:31Z,0,2,1,1,1,1,2,413.0
+85,Fix typo,0,True,True,2017-11-14T14:26:33Z,2017-11-14T14:26:33Z,0,2,1,1,2,2,4,249.0
+82,Add external link for Explain how `this` works in JavaScript question,187,True,False,,2017-10-31T15:11:43Z,0,2,2,1,1,0,1,0
+83,docs: fix grammatical errors,0,True,True,2017-10-31T15:09:46Z,2017-10-31T15:09:46Z,0,2,1,2,4,4,8,16097.0
+81,Corrected spelling mistake,0,True,True,2017-10-28T01:51:29Z,2017-10-28T01:51:29Z,0,2,1,1,1,1,2,16754.0
+75,Add Readme-ES.md,117,True,False,,2017-10-27T20:19:03Z,0,9,1,16,586,17,603,0
+78,Spanish,46,True,False,,2017-10-27T20:18:40Z,0,2,2,3,199,0,199,0
+80,CSS - Question expansion: What are the different ways to visually hid…,122,True,True,2017-10-27T17:03:22Z,2017-10-27T17:03:22Z,0,2,1,1,9,1,10,96243.0
+79,Added Reference to CSS quesitons,162,True,True,2017-10-26T13:22:16Z,2017-10-26T13:22:16Z,0,2,1,1,8,0,8,366.0
+74,Added official w3c spec reference to question:  data-* attr HTML,169,True,True,2017-10-23T16:59:22Z,2017-10-23T16:59:22Z,0,2,1,1,1,0,1,847.0
+76,Fix grammar,11,True,True,2017-10-25T03:59:04Z,2017-10-25T03:59:04Z,0,2,2,1,1,1,2,33227.0
+77,Fix grammar,23,True,True,2017-10-25T00:30:05Z,2017-10-25T00:30:05Z,0,2,1,1,1,1,2,20087.0
+73,Starting interviewer docs #55,93,True,True,2017-10-21T06:42:07Z,2017-10-21T06:42:07Z,0,2,1,1,20,0,20,16534.0
+71,Add Linked List,59,True,True,2017-10-21T02:39:55Z,2017-10-21T02:39:55Z,0,2,1,1,109,0,109,32192.0
+72,added bit manipulation questions ,0,True,True,2017-10-21T02:38:35Z,2017-10-21T02:38:35Z,0,2,1,1,7,0,7,22283.0
+63,Add bisect_left and bisect_right,0,True,True,2017-10-19T20:58:44Z,2017-10-19T20:58:44Z,0,2,1,1,47,0,47,106.0
+69,Remove broken link in front-end/design,0,True,True,2017-10-20T17:42:30Z,2017-10-20T17:42:30Z,0,2,1,1,0,4,4,343.0
+70,Remove link with SSL error,0,True,True,2017-10-20T17:42:17Z,2017-10-20T17:42:17Z,0,2,1,1,0,4,4,15.0
+67,added some oop questions,0,True,True,2017-10-20T17:21:40Z,2017-10-20T17:21:40Z,0,2,1,1,4,0,4,2432.0
+68,Add min-heap,0,True,True,2017-10-20T17:20:44Z,2017-10-20T17:20:44Z,0,2,0,1,84,0,84,216.0
+66,Add QuickSelect algorithm,228,True,True,2017-10-20T09:29:29Z,2017-10-20T09:29:29Z,0,2,0,1,60,0,60,41840.0
+65,Add Union-Find data structure,0,True,True,2017-10-20T09:28:41Z,2017-10-20T09:28:41Z,0,2,0,1,50,0,50,42839.0
+64,Add Rabin-Karp rolling hash,0,True,True,2017-10-20T09:28:18Z,2017-10-20T09:28:18Z,0,2,0,1,41,0,41,43552.0
+62,Hussain,0,True,False,,2017-10-20T09:27:56Z,0,3,1,4,4,0,4,0
+61,Small Changes,27,True,False,,2017-10-20T09:27:45Z,0,2,1,2,36,1,37,0
+60,Removed 'the' in jsonp answer.,80,True,True,2017-10-19T05:49:14Z,2017-10-19T05:49:14Z,0,2,1,1,1,1,2,180.0
+59,Fix js syntax highlight in interview-questions,161,True,True,2017-10-19T05:13:50Z,2017-10-19T05:13:50Z,0,2,2,1,8,8,16,652.0
+58,Update stack.md,0,True,True,2017-10-18T15:26:24Z,2017-10-18T15:26:25Z,0,2,1,1,1,0,1,73.0
+57,Add two-stack-queue problem,95,True,True,2017-10-18T14:25:40Z,2017-10-18T14:25:40Z,0,2,1,1,1,0,1,761.0
+38,Create mergeSort.js,0,True,True,2017-10-10T02:48:24Z,2017-10-10T02:48:24Z,1,2,2,1,54,0,54,31600.0
+37,Add lonely number problem,0,True,True,2017-10-09T17:44:09Z,2017-10-09T17:44:09Z,0,2,4,1,2,0,2,272.0
+36,Remove duplicate problem,0,True,True,2017-10-09T08:02:58Z,2017-10-09T08:02:58Z,0,2,1,1,0,1,1,21368.0
+56,Add a ton of JS algo snippets,94,True,True,2017-10-18T09:00:48Z,2017-10-18T09:00:48Z,0,1,0,10,136,13,149,514.0
+53,Visual changes,192,True,True,2017-10-17T10:51:23Z,2017-10-17T10:51:23Z,0,2,2,1,4,3,7,14180.0
+54,Fix typo in html.md,0,True,True,2017-10-17T07:54:20Z,2017-10-17T07:54:20Z,0,2,1,1,1,1,2,707.0
+52,Added additional HTML and Interview information,0,True,True,2017-10-17T03:26:16Z,2017-10-17T03:26:17Z,0,2,1,2,12,1,13,16934.0
+51,Fix documentation typos,0,True,True,2017-10-16T18:13:22Z,2017-10-16T18:13:22Z,0,2,1,1,2,2,4,279.0
+50,Fix Missing Link for Trie,11,True,True,2017-10-16T16:07:21Z,2017-10-16T16:07:21Z,0,2,2,1,1,1,2,1311.0
+49,Added Missing Link for Trie Implementation,0,True,False,,2017-10-16T15:45:58Z,0,2,2,1,1,1,2,0
+47,Fix typos,0,True,True,2017-10-16T09:20:36Z,2017-10-16T09:20:36Z,0,2,1,5,7,7,14,461.0
+45,Add legend to cheatsheet,73,True,True,2017-10-15T08:57:11Z,2017-10-15T08:57:11Z,0,2,1,1,3,1,4,6755.0
+46,Add async and await in the Async section,120,True,True,2017-10-15T20:03:24Z,2017-10-15T20:03:24Z,0,2,3,1,1,0,1,1856.0
+43,Fix small typos,74,True,True,2017-10-13T17:08:22Z,2017-10-13T17:08:22Z,0,2,1,1,3,3,6,236.0
+42,Add resume layout,0,True,True,2017-10-12T21:20:47Z,2017-10-12T21:20:47Z,0,3,1,1,9,1,10,510.0
+41,Modify styling of Tic-Tac-Toe,20,True,False,,2017-10-12T05:29:07Z,0,2,1,1,2,2,4,0
+39,Create README.md,0,True,False,,2017-10-09T18:18:12Z,0,2,2,1,19,0,19,0
+35,Added new questions to questions-to-ask.md,235,True,True,2017-10-06T08:14:10Z,2017-10-06T08:14:10Z,0,2,1,1,10,0,10,666.0
+34,Fix mistakes in resume section,61,True,True,2017-10-05T15:01:23Z,2017-10-05T15:01:23Z,0,3,4,1,3,3,6,1499.0
+33,Add resume tips section,9,True,True,2017-10-05T06:08:00Z,2017-10-05T06:08:00Z,0,1,0,2,145,1,146,174.0
+30,Added Elevator Pitch section,0,True,True,2017-10-04T17:00:29Z,2017-10-04T17:00:29Z,2,2,3,1,17,0,17,69500.0
+31,Grammar correction,35,True,True,2017-10-04T10:02:33Z,2017-10-04T10:02:33Z,0,2,1,1,1,1,2,3118.0
+28,Added to Front-End Interview questions: more answers to question,124,True,True,2017-10-03T16:48:32Z,2017-10-03T16:48:32Z,0,2,3,1,1,0,1,2822.0
+27,"Fixed errors in ""undefined and undeclared"" section",183,True,True,2017-10-03T13:54:05Z,2017-10-03T13:54:05Z,0,2,1,1,2,2,4,13325.0
+24,"Flesh out glossary, add references, convert links to md, add transpil…",463,True,True,2017-10-03T04:49:09Z,2017-10-03T04:49:09Z,0,2,1,1,17,12,29,29532.0
+23,Added doubly linked list for javascript examples,48,True,False,,2017-10-02T20:03:36Z,0,2,1,1,114,0,114,0
+22,Sentence clarification,239,True,True,2017-10-02T16:17:34Z,2017-10-02T16:17:34Z,0,2,3,1,1,1,2,2796.0
+21,Sentence clarification,239,True,False,,2017-10-02T15:20:39Z,0,2,2,1,1,1,2,0
+20,Fix typo issue,183,True,True,2017-10-02T13:03:46Z,2017-10-02T13:03:46Z,0,2,1,1,1,1,2,7866.0
+18,Add more marketing content to README,44,True,True,2017-10-02T05:23:59Z,2017-10-02T05:23:59Z,0,1,0,1,11,1,12,490.0
+17,"Grammar fixes for tense, punctuation and wording.",107,True,True,2017-10-01T17:20:37Z,2017-10-01T17:20:37Z,3,2,2,1,2,2,4,4969.0
+16,Couple of grammar/typo edits to README.MD,0,True,True,2017-10-01T11:58:25Z,2017-10-01T11:58:25Z,0,2,1,1,2,2,4,717.0
+14,Update array.md,0,True,False,,2017-10-01T04:08:50Z,0,2,1,1,1,1,2,0
+9,return -1 if target is not in array,84,True,True,2017-09-30T13:51:37Z,2017-09-30T13:51:37Z,2,2,5,2,14,14,28,165060.0
+13,Update README.md,60,True,False,,2017-09-30T13:10:40Z,0,2,1,1,1,1,2,0
+12,Indicate problems that are leetcode premium only,117,True,True,2017-09-29T16:48:35Z,2017-09-29T16:48:35Z,0,2,1,1,6,6,12,594.0
+10,Added Writeup for CSS in front-end folder resources,94,True,True,2017-09-28T17:08:25Z,2017-09-28T17:08:26Z,0,2,1,1,13,4,17,156.0
+8,Implement floor division,0,True,True,2017-09-28T02:53:54Z,2017-09-28T02:53:54Z,0,2,2,1,1,1,2,395.0
+6,Fix grammar,0,True,True,2017-09-26T13:11:56Z,2017-09-26T13:11:56Z,0,2,1,1,1,1,2,10649.0
+5,Fix formatting in the behavioral.md file,97,True,True,2017-09-26T07:48:08Z,2017-09-26T07:48:08Z,0,2,1,1,2,2,4,566.0
+4,Fix links for awesome bot,0,True,True,2017-09-26T07:50:21Z,2017-09-26T07:50:21Z,0,1,0,6,9,10,19,2115.0
+3,Changed to gender neutral rather than male only,0,True,True,2017-09-25T23:39:01Z,2017-09-25T23:39:01Z,1,2,1,1,2,2,4,7897.0
+2,Add awesome_bot to automatically check if links are dead,39401,True,True,2017-09-25T13:28:54Z,2017-09-25T13:28:54Z,0,2,4,1,5,0,5,1760.0
+1,Fix link,0,True,True,2017-09-25T08:03:20Z,2017-09-25T08:03:20Z,1,2,0,1,1,1,2,5873.0

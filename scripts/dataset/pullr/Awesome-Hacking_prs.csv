@@ -1,0 +1,102 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+153,Added nand2tetris in other resources section,124,True,False,,2024-04-13T12:16:38Z,1,4,2,1,1,0,1,0
+160,Update README.md,44,True,True,2024-04-13T12:39:36Z,2024-04-13T12:39:36Z,1,2,1,1,1,0,1,596.0
+137,Add daily updated CVE PoC repository by Trickest,0,True,True,2023-12-10T07:24:03Z,2023-12-10T07:24:03Z,7,9,2,1,1,0,1,55516490.0
+152,feat: add new useful repository for pentest (Cognito Scanner),138,True,False,,2024-04-13T12:11:47Z,10,9,3,1,1,0,1,0
+133,Update README.md,53,True,False,,2024-04-13T12:06:04Z,19,16,6,1,2,1,3,0
+159,Add Cellular Hacking,53,True,True,2024-04-13T12:05:38Z,2024-04-13T12:05:38Z,0,2,1,1,2,1,3,66.0
+158,Mnlhacking,0,True,False,,2024-03-25T05:19:36Z,0,2,0,1,0,0,0,0
+157,Create poem.md,0,True,False,,2024-03-07T14:25:59Z,0,1,0,1,1,0,1,0
+155,Pentest-Ground_option,104,True,False,,2024-01-06T12:52:07Z,0,2,2,1,4,0,4,0
+151,Suggestion to add iSpy to `Awesome Repositories` list.,87,True,False,,2023-12-10T07:33:24Z,1,4,4,1,1,0,1,0
+134,added awesome-rtc-hacking to the list,0,True,True,2022-08-27T11:22:09Z,2022-08-27T11:22:09Z,3,5,3,1,1,0,1,17209977.0
+138,Capitalize headers to follow common styling,90,True,True,2023-12-10T07:26:11Z,2023-12-10T07:26:11Z,11,12,2,1,2,2,4,45645889.0
+150,Rewrite properly,64,True,False,,2023-12-10T07:31:15Z,4,5,1,1,12,10,22,0
+149,my new contribution,54,True,False,,2023-12-10T07:29:51Z,8,9,1,1,2,0,2,0
+143,awsome has been changed to Awesome,100,True,False,,2023-12-10T07:26:49Z,3,5,0,1,13,13,26,0
+148,dead links,0,True,False,,2023-06-10T12:51:40Z,0,2,1,1,2,2,4,0
+141,Ggg,3,True,False,,2022-07-31T19:05:21Z,0,4,3,0,0,0,0,0
+132,add awesome-rl-for-cybersecurity,0,True,True,2022-08-27T11:18:00Z,2022-08-27T11:18:00Z,4,8,4,1,2,1,3,21941799.0
+140,Add files via upload,0,True,False,,2022-07-03T10:53:17Z,4,5,3,1,0,0,0,0
+139,Update README.md,74,True,False,,2022-08-27T11:28:04Z,5,9,9,1,3,0,3,0
+33,added detection lab vagrant repo,0,True,True,2017-12-31T06:28:19Z,2017-12-31T06:28:19Z,0,3,3,1,1,0,1,52376.0
+72,Update README.md,31,True,True,2020-04-21T13:29:28Z,2020-04-21T13:29:28Z,2,4,4,1,1,0,1,9501771.0
+147,soniaman,9,True,False,,2023-04-04T13:48:02Z,0,2,0,1,1,0,1,0
+145,Add IPRanges repo,121,True,False,,2023-03-30T04:23:08Z,2,3,2,1,1,0,1,0
+146,Update README.md Take Over The Internet???,77,True,False,,2023-03-21T02:27:50Z,0,2,0,1,2,1,3,0
+136,Create PayPal INC Support,0,True,False,,2022-08-27T11:23:20Z,2,4,2,1,21,0,21,0
+135,Create ayden lewis,7,True,False,,2022-08-27T11:22:43Z,2,4,0,1,1,0,1,0
+131,Update contributing.md,0,True,False,,2022-08-27T11:16:07Z,0,2,1,1,2,1,3,0
+142,Create azure-webapps-node.yml,0,True,False,,2022-08-26T11:22:51Z,0,2,1,1,79,0,79,0
+130,https://www.facebook.com/profile.php?id=100049332442397,8,True,False,,2021-10-18T13:42:29Z,1,4,1,1,21,0,21,0
+127,Update README.md,33,True,False,,2021-07-31T15:53:26Z,0,4,3,1,1,0,1,0
+112,Fixed Typo,206,True,False,,2021-07-31T15:46:57Z,0,4,2,1,1,1,2,0
+121,Added The Art of Hacking Series,0,True,True,2021-07-31T15:59:58Z,2021-07-31T15:59:58Z,0,4,2,1,1,0,1,25959498.0
+123,Create DDOS file,0,True,False,,2021-07-31T15:58:11Z,2,4,0,1,1,0,1,0
+124,Adding the Capsulecorp Pentest project for learning network penetrati…,300,True,True,2021-07-31T15:58:02Z,2021-07-31T15:58:02Z,0,2,3,1,1,0,1,7499181.0
+126,Adding PenTestKit,0,True,False,,2021-07-31T15:57:09Z,0,2,1,1,1,0,1,0
+120,Added Resourceify,88,True,False,,2021-07-31T15:51:10Z,0,2,1,1,1,0,1,0
+115,Adds awesome vulhub repo to the list,57,True,True,2021-07-31T15:48:03Z,2021-07-31T15:48:03Z,0,2,2,1,1,0,1,26217048.0
+119,change,16,True,False,,2021-07-31T15:49:10Z,0,2,0,1,1,1,2,0
+118,add checklist security,0,True,False,,2021-07-31T15:48:57Z,0,2,1,1,1,1,2,0
+113,Fixed Typo,0,True,False,,2021-07-31T15:46:53Z,0,2,0,1,1,1,2,0
+58,Add GTFOBins,0,True,True,2021-07-31T15:46:16Z,2021-07-31T15:46:16Z,0,2,0,2,2,0,2,57293313.0
+56,rearranged repos in alphabetical order,96,True,False,,2021-07-31T15:44:43Z,0,2,0,1,1,1,2,0
+41,Added the How2Heap repository to the list of awesome repos,60,True,False,,2021-07-31T15:43:21Z,3,7,2,1,1,0,1,0
+125,Create Hack,0,True,False,,2021-05-10T15:13:43Z,0,2,0,1,6,0,6,0
+122,Add Community to the README.md,0,True,False,,2021-02-10T04:22:23Z,0,2,1,1,5,0,5,0
+117,add aspnet security,0,True,False,,2020-10-01T12:20:57Z,0,2,1,1,1,0,1,0
+116,Airgeddon.md,44,True,False,,2020-10-01T12:19:55Z,0,2,1,1,2,1,3,0
+114,Add content for Kuberenetes Security,93,True,False,,2020-10-01T12:16:44Z,0,2,1,1,1,0,1,0
+71,Added Cloud Security Link,0,True,False,,2020-10-01T12:14:23Z,0,2,2,1,1,0,1,0
+96,Smart hacking,22,True,False,,2020-05-29T11:42:06Z,2,5,4,1,1,0,1,0
+66,Updated readme and contributing files. ,53,True,False,,2020-04-21T13:35:01Z,0,2,2,2,2,0,2,0
+73,Create facebook,18,True,False,,2020-02-04T18:49:54Z,0,1,0,1,1,0,1,0
+86,awesome embedded and IoT security list,39,True,True,2020-04-21T13:27:30Z,2020-04-21T13:27:30Z,2,4,2,1,1,0,1,2076065.0
+74,Adding some useful resources and tools,323,True,False,,2020-03-17T19:06:46Z,2,3,0,1,4,0,4,0
+64,Update contributing.md,0,True,False,,2019-11-02T09:48:35Z,0,2,0,1,1,0,1,0
+63,add_contributors,0,True,False,,2019-10-23T07:00:41Z,0,3,1,1,1,0,1,0
+60,Added two useful tools and OWASP cheatsheet,65,True,False,,2019-10-23T06:58:58Z,0,2,2,1,3,0,3,0
+61,Contributing.md,0,True,False,,2019-10-23T07:00:01Z,0,2,2,1,1,0,1,0
+59,Adding new repo list,0,True,False,,2019-10-23T06:52:59Z,0,2,1,2,3,0,3,0
+57,Added HiddenEye tool,0,True,False,,2019-10-23T06:51:39Z,0,2,1,1,1,0,1,0
+54,Added link to Awesome-Asset-Discovery,95,True,True,2019-10-03T15:22:23Z,2019-10-03T15:22:23Z,1,2,0,1,1,0,1,102967.0
+55,Remove link to Malware Scripts due to 404,63,True,True,2019-10-03T15:21:17Z,2019-10-03T15:21:17Z,2,4,0,1,0,1,1,102233.0
+51,Add ARM Exploitation List,0,True,False,,2019-08-11T08:41:28Z,0,1,0,1,1,0,1,0
+52,Fixed gray-hacker-resources broken link,0,True,True,2019-07-31T16:43:23Z,2019-07-31T16:43:23Z,1,3,1,1,1,1,2,1032624.0
+49,Added Advanced Windows Exploitation,0,True,True,2019-04-29T02:38:59Z,2019-04-29T02:38:59Z,0,3,4,1,1,0,1,2307003.0
+50,Add: hacker-roadmap awesome repository,0,True,True,2019-04-26T03:31:38Z,2019-04-26T03:31:38Z,1,3,1,1,1,0,1,1057206.0
+47,add code examples,224,True,False,,2019-03-04T16:01:05Z,0,1,0,1,1,0,1,0
+48,Added the awesome-serverless-security repo,0,True,True,2019-02-09T09:00:42Z,2019-02-09T09:00:42Z,1,2,1,1,1,0,1,475928.0
+46,Merge pull request #1 from Hack-with-Github/master,9,True,False,,2018-11-17T10:42:09Z,0,1,0,0,0,0,0,0
+45,Update README.md,46,True,False,,2018-11-07T12:06:14Z,1,2,0,1,1,0,1,0
+44,readme,23,True,False,,2018-10-31T06:07:02Z,0,2,0,1,1,1,2,0
+42,README.md: header level should increment by 1,37,True,True,2018-10-25T06:33:58Z,2018-10-25T06:33:58Z,1,2,0,1,4,4,8,805230.0
+40,"Adding FuzzDB as an ""Other useful repositories""",48,True,False,,2018-10-09T01:43:36Z,0,2,1,1,1,0,1,0
+25,Adding another section for online communities.,0,True,False,,2017-10-19T06:41:10Z,0,2,2,1,6,0,6,0
+39,docs : Add OWASP (Open Web Application Security Project),95,True,False,,2018-09-02T15:12:14Z,0,2,2,1,6,0,6,0
+27,Add awesome-yara,69,True,True,2017-10-20T05:04:12Z,2017-10-20T05:04:12Z,0,2,3,1,1,0,1,25246.0
+38,add Mobile App Pentest,0,True,False,,2018-07-10T05:15:48Z,0,3,1,1,2,1,3,0
+35,Update README.md,29,True,False,,2018-06-15T15:01:57Z,0,2,2,1,1,0,1,0
+26,add osx security awesome,62,True,False,,2017-12-08T09:36:50Z,0,6,3,1,1,0,1,0
+32,Add Ecommerce Security CheckList section,287,True,False,,2017-12-08T09:35:39Z,0,2,1,1,1,0,1,0
+31,Update README.md,0,True,False,,2017-11-01T04:30:34Z,0,2,1,1,1,0,1,0
+30,Update README.md,0,True,False,,2017-10-31T11:35:32Z,0,1,0,1,1,0,1,0
+29,Update README.md,0,True,False,,2017-10-28T16:20:41Z,0,2,0,1,1,1,2,0
+28,Update README.md,0,True,False,,2017-10-25T02:31:44Z,0,2,2,1,3,0,3,0
+24,Update README.md,133,True,True,2017-10-07T02:20:14Z,2017-10-07T02:20:14Z,0,3,4,1,1,0,1,58096.0
+23,Add freely available programming books,38,True,False,,2017-09-06T14:01:43Z,0,1,1,1,1,0,1,0
+21,ADD Descript -Chinese,28,True,False,,2017-08-18T14:26:47Z,0,2,1,2,77,0,77,0
+14,Update README URLs based on HTTP redirects,517,True,True,2017-08-08T15:37:11Z,2017-08-08T15:37:11Z,0,2,1,1,4,4,8,843.0
+17,"Added ""Lockpicking"" to list",0,True,True,2017-08-09T17:20:29Z,2017-08-09T17:20:29Z,0,3,1,1,1,0,1,27757.0
+16,"Added ""Awesome Malware Analysis"" to list",0,True,False,,2017-08-09T09:03:57Z,0,1,1,1,1,0,1,0
+15,Add cookie link,0,True,False,,2017-08-09T00:58:37Z,0,2,1,1,1,0,1,0
+13,Update a path to the Awesome Vulnerability Research,203,True,True,2017-07-27T17:31:17Z,2017-07-27T17:31:17Z,0,2,0,1,1,1,2,166062.0
+12,Add an Awesome Vulnerability Research,90,True,True,2017-07-25T17:36:56Z,2017-07-25T17:36:56Z,1,2,0,1,1,0,1,151762.0
+6,add osx security awesome,48,True,False,,2017-05-29T12:04:06Z,1,5,5,1,1,0,1,0
+10,Hack+ added,0,True,False,,2017-05-23T03:04:17Z,0,1,1,1,1,0,1,0
+7,Adds awesome-cryptography into lists,0,True,True,2017-04-16T15:18:31Z,2017-04-16T15:18:31Z,0,2,2,1,1,0,1,23872.0
+5,"Removes the word ""awesome"" from unnecessary places",19,True,True,2016-11-22T14:05:57Z,2016-11-22T14:05:57Z,0,2,0,1,56,56,112,404860.0
+4,Added Image,0,True,True,2016-11-15T15:36:06Z,2016-11-15T15:36:06Z,0,1,0,3,3,1,4,27.0
+3,Some proof-reading of the contributing file,81,True,True,2016-11-15T10:12:31Z,2016-11-15T10:12:31Z,0,2,1,1,9,9,18,3018.0
+1,Adding changes and Markdown adjustments,0,True,True,2016-04-02T00:56:36Z,2016-04-02T00:56:36Z,0,2,0,2,94,36,130,20305.0

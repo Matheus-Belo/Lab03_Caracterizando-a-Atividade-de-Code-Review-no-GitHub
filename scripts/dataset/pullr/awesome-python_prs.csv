@@ -1,0 +1,1496 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+2478,Add CustomTkinter,689,True,False,,2024-04-17T16:27:32Z,1,2,0,1,1,0,1,0
+1271,Add Dynaconf,1460,True,False,,2019-11-29T22:56:03Z,0,1,2,1,1,0,1,0
+2578,Add streamlit,1548,True,True,2024-04-15T11:17:22Z,2024-04-15T11:17:22Z,0,2,0,1,1,0,1,176545.0
+2572,Add pdm (Package Management),305,True,False,,2024-03-30T12:27:11Z,0,2,2,1,1,0,1,0
+2121,"Add DVC, CML and MLEM (MLOps Tools) 🚀",776,True,False,,2024-03-26T14:26:52Z,0,2,1,1,3,0,3,0
+2565,add: GUI Development gradio,2247,True,False,,2024-03-25T09:38:14Z,0,1,1,1,98,95,193,0
+2536,Add auto-py-to-exe,649,True,False,,2024-03-20T23:15:41Z,3,5,2,1,1,0,1,0
+1829,Changed the link for the Arcade framework,291,True,False,,2024-03-20T20:22:29Z,1,2,0,1,1,1,2,0
+2122,fix errors in README.md,177,True,True,2022-07-27T03:39:21Z,2022-07-27T03:39:21Z,0,4,2,1,1,1,2,65377.0
+1929,add: aiosonic,314,True,False,,2024-03-08T09:48:04Z,0,1,0,1,1,0,1,0
+2462,Add Pydantic,672,True,False,,2024-03-04T12:06:12Z,10,14,6,1,1,0,1,0
+2530,[Resources] Added Level Up Your Python,435,True,False,,2024-02-29T09:27:16Z,1,6,8,1,1,0,1,0
+2518,Updated psycopg2's homepage link and possibly a new project related to psycopg2,467,True,True,2024-02-22T14:47:02Z,2024-02-22T14:47:02Z,1,3,0,0,0,0,0,13946609.0
+2529,Fixed a Number of Dead Links,625,True,True,2024-02-22T14:45:39Z,2024-02-22T14:45:39Z,3,6,1,1,7,10,17,9198650.0
+2532,Updated some links in README.md,338,True,True,2024-02-22T14:44:33Z,2024-02-22T14:44:33Z,0,3,3,1,5,5,10,8555165.0
+2533,Fix pylint link,264,True,True,2024-02-22T14:40:36Z,2024-02-22T14:40:36Z,0,2,0,1,1,1,2,8470836.0
+2543,Update README.md,220,True,False,,2024-02-22T14:38:00Z,3,5,0,1,1,0,1,0
+2546,Update README.md,36,True,True,2024-02-22T14:37:35Z,2024-02-22T14:37:35Z,3,5,0,1,1,1,2,4069922.0
+1798,Add m2cgen,570,True,False,,2024-02-20T20:55:09Z,0,1,0,1,1,0,1,0
+2561,Add pytube,1124,True,False,,2024-02-19T15:46:32Z,1,2,0,1,1,0,1,0
+2512,Add readme-ai,1463,True,False,,2024-02-07T00:22:55Z,2,3,0,1,1,0,1,0
+2498,added deep learning framework Lighting,205,True,True,2023-07-13T15:37:09Z,2023-07-13T15:37:09Z,3,5,0,1,1,0,1,56781.0
+2560,Add CherryPy,539,True,False,,2024-02-01T07:10:59Z,0,1,1,1,11,10,21,0
+2479,Add mapfun package,534,True,False,,2024-01-20T19:46:28Z,1,3,2,1,1,0,1,0
+2297,Remove abandoned project pyannotate,194,True,True,2023-01-05T12:29:52Z,2023-01-05T12:29:52Z,1,4,2,1,0,1,1,152297.0
+1585,Sort readme and add to docs build,128,True,True,2020-08-02T11:15:33Z,2020-08-02T11:15:33Z,0,4,2,4,61,55,116,15659.0
+2353,Add ruff code linter,1117,True,False,,2023-11-29T11:56:55Z,1,4,2,1,1,0,1,0
+2531,Update README.md,4011,True,False,,2023-11-14T17:13:56Z,1,2,0,1,1,0,1,0
+2350,Update README.md,1089,True,True,2023-03-30T03:40:01Z,2023-03-30T03:40:02Z,2,3,2,1,1,0,1,3878619.0
+2524,Create directiongame.py,220,True,False,,2023-10-17T03:53:31Z,0,1,0,1,64,0,64,0
+1579,Add pyvips,526,True,True,2020-07-27T08:37:01Z,2020-07-27T08:37:02Z,0,3,1,1,1,0,1,55490.0
+2493,add django-imagekit.md,488,True,False,,2023-09-26T19:52:06Z,0,1,0,1,1,0,1,0
+2502,Update README.md,220,True,False,,2023-09-22T17:05:17Z,0,3,2,1,1,1,2,0
+1770,Add Serverless and FastAPI to the list,0,True,False,,2023-08-30T20:20:54Z,0,1,0,1,2,0,2,0
+1727,docs: add data visualization - PyG2Plot ,510,True,False,,2023-08-25T22:57:50Z,0,1,0,1,1,0,1,0
+2507,add kmatch library in Data Validation section,342,True,False,,2023-08-21T11:52:14Z,0,1,0,1,1,1,2,0
+1441,Add weboob to Web Crawling section,846,True,False,,2023-08-07T12:43:47Z,1,3,2,1,1,0,1,0
+1784,Add Sklearn-genetic-opt,1351,True,False,,2023-08-06T02:53:21Z,0,1,0,1,1,0,1,0
+2491,Updates,220,True,False,,2023-07-07T02:08:22Z,0,1,0,0,0,0,0,0
+2343,Update link for Pyston,137,True,True,2023-07-01T08:33:40Z,2023-07-01T08:33:40Z,2,4,1,1,1,1,2,12520174.0
+2247,Fixed outdated link and description,0,True,True,2022-12-04T11:58:03Z,2022-12-04T11:58:03Z,0,3,1,1,1,1,2,95736.0
+1283,Added Cloudsmith (Python Repository),1050,True,False,,2023-05-24T17:14:55Z,4,4,6,1,2,1,3,0
+2307,Update README.md,52,True,False,,2023-05-22T19:27:20Z,0,2,1,1,1,0,1,0
+2476,Add CustomTkinter,593,True,False,,2023-05-17T10:47:48Z,0,1,0,1,1,0,1,0
+1142,Add alembic to database migration tools,463,True,False,,2019-11-06T09:36:41Z,0,2,2,1,7,0,7,0
+2403,Changed files section name,116,True,True,2023-03-27T14:18:30Z,2023-03-27T14:18:30Z,0,2,0,1,2,2,4,227391.0
+2420,Add py-gutenberg,334,True,False,,2023-04-22T16:40:32Z,0,0,0,1,1,0,1,0
+1178,"Add PyStan to the ""Science"" category.",1174,True,False,,2019-11-06T08:36:33Z,0,1,1,1,1,0,1,0
+1738,Added pdbr,340,True,False,,2023-04-12T21:06:55Z,3,4,1,1,1,0,1,0
+2431,spelling correction to redme.md,48,True,False,,2023-04-12T15:40:58Z,1,3,1,1,2,2,4,0
+2003,PyPDF2: Update link,109,True,False,,2023-04-09T14:43:37Z,0,1,1,1,1,1,2,0
+2355,Added link of Python Developer Roadmap,432,True,False,,2023-04-09T04:33:09Z,0,1,0,1,1,0,1,0
+1657,Added Two Files for Change log,397,True,False,,2023-04-07T06:16:51Z,0,1,1,1,59,0,59,0
+1656,Added ChangeLog,220,True,False,,2023-04-07T06:16:51Z,0,1,0,1,75,0,75,0
+2402,Fixed Zappa link,182,True,True,2023-03-27T14:17:32Z,2023-03-27T14:17:32Z,0,2,0,1,1,1,2,236219.0
+2369,fixed README,220,True,False,,2023-02-28T11:29:35Z,0,1,0,1,1,1,2,0
+2368,eine neue Zeile,220,True,False,,2023-02-27T12:21:58Z,0,2,0,1,2,0,2,0
+2364,add Django extensions,329,True,False,,2023-02-25T12:17:37Z,0,2,2,1,957,956,1913,0
+1820,Add pyodbc,573,True,False,,2023-02-17T02:42:13Z,0,1,0,1,2,0,2,0
+2345,Create python-app.yml,220,True,False,,2023-02-08T17:18:00Z,1,2,1,1,39,0,39,0
+2337,Add link to python roadmap,298,True,False,,2023-02-05T23:24:37Z,0,1,0,1,5,0,5,0
+2287,Added streamlit/streamlit for building simple data web applications,152,True,False,,2023-01-18T14:55:54Z,0,1,0,1,1,0,1,0
+2321,Main,220,True,False,,2023-01-18T14:54:40Z,0,1,0,4,182,1363,1545,0
+1567,add ucache,65,True,False,,2023-01-15T17:25:00Z,1,2,0,1,1,0,1,0
+1566,add cacheout,26,True,False,,2023-01-15T17:25:00Z,1,2,0,1,1,0,1,0
+2176,add Shiny for Python,592,True,False,,2023-01-13T20:27:51Z,1,4,2,1,1,0,1,0
+2013,Add aiomysql and aiopg,494,True,False,,2023-01-12T13:59:44Z,0,1,0,1,2,0,2,0
+1794,Update README.md,35,True,True,2021-07-25T12:54:29Z,2021-07-25T12:54:29Z,2,4,0,1,5,5,10,21423.0
+2145,"Add pycryptodome, sagemath",351,True,False,,2022-12-24T04:01:18Z,0,1,0,1,2,0,2,0
+2209,"redirected pyqt to official docs, which is more useful for a beginner",77,True,True,2022-10-24T17:34:27Z,2022-10-24T17:34:27Z,3,4,0,1,1,1,2,117844.0
+2108,Add django-audio-validator,358,True,False,,2022-11-06T18:14:56Z,0,1,0,1,1,0,1,0
+2213,Add strawberry-graphql to GraphQL Libraries,616,True,False,,2022-10-25T11:22:50Z,0,1,1,1,1,0,1,0
+2191,Improved grametical mistakes,220,True,False,,2022-10-24T17:35:07Z,0,2,1,1,1,1,2,0
+1645,Update README.md to include https://learnxinyminutes.com/docs/python/,466,True,False,,2022-10-19T00:25:42Z,1,2,0,1,1,0,1,0
+2078,Added learnpython resources,433,True,False,,2022-10-07T05:04:53Z,0,1,0,1,2,0,2,0
+2192,Update CONTRIBUTING.md,220,True,False,,2022-10-02T15:59:07Z,0,1,0,1,1,1,2,0
+2157,Add Pysha,1338,True,False,,2022-09-08T04:50:17Z,0,1,0,1,1,0,1,0
+1795,Update CONTRIBUTING.md,23,True,True,2021-07-25T12:53:55Z,2021-07-25T12:53:55Z,1,3,0,1,1,1,2,20996.0
+1762,Jina - Neural Search framework,382,True,False,,2022-09-02T04:09:41Z,0,2,1,1,1,0,1,0
+1556,Add Flask-restx,525,True,False,,2022-08-23T15:10:30Z,1,2,0,1,1,0,1,0
+1707,🗑 Remove pygeoip,326,True,True,2021-01-22T10:23:17Z,2021-01-22T10:23:17Z,1,4,1,1,0,1,1,1208441.0
+2128,added https from http in LICENSES,102,True,False,,2022-08-13T04:00:33Z,0,1,0,1,1,1,2,0
+720,Adding PyUpdater,495,True,False,,2019-12-04T00:25:13Z,0,6,10,1,1,0,1,0
+1994,Add Streamlit,380,True,False,,2022-07-29T04:33:42Z,3,2,1,1,1,0,1,0
+2123,Add FastAPI in Asynchronous Web Frameworks,42,True,False,,2022-07-27T19:24:27Z,0,2,2,1,1,0,1,0
+1999,Add raylib-python-cffi,63,True,False,,2022-07-23T03:49:58Z,0,1,0,1,1,0,1,0
+1859,update url linked to github,328,True,False,,2022-07-13T17:32:49Z,1,2,0,1,1,1,2,0
+1548,Add lkpy,27,True,False,,2022-07-10T03:53:12Z,1,2,0,1,1,0,1,0
+2099,Update README.md,220,True,False,,2022-07-07T17:10:30Z,0,1,0,1,1,0,1,0
+1449,updated readme to include pylightxl,1203,True,False,,2022-05-17T02:35:52Z,1,3,2,1,3,0,3,0
+2089,📦 NEW: add pycord,418,True,False,,2022-07-04T00:22:23Z,0,1,0,1,1,0,1,0
+1767,Add Effective-Python,605,True,False,,2022-06-23T20:25:33Z,0,1,0,1,1,0,1,0
+1899,arcade link updated,346,True,True,2021-12-17T04:24:25Z,2021-12-17T04:24:25Z,1,4,1,1,1,1,2,3355.0
+1757,Add AWS Lambda Powertools 🙏🏼 ,2930,True,False,,2022-06-14T19:31:49Z,6,4,6,1,1,1,2,0
+669,Added two podcasts to Weekly Resources,248,True,True,2016-06-24T14:29:37Z,2016-06-24T14:29:37Z,0,2,2,1,6,0,6,60374.0
+719,Add dataset database.,34,True,True,2016-11-03T16:25:56Z,2016-11-03T16:25:56Z,0,2,0,1,2,0,2,4879381.0
+753,Update README.md,282,True,True,2016-11-08T09:30:58Z,2016-11-08T09:30:58Z,1,2,0,1,1,0,1,1556798.0
+787,Added Web2py to Web Frameworks,445,True,True,2017-02-02T07:47:23Z,2017-02-02T07:47:23Z,1,3,3,1,3,0,3,5048655.0
+825,Add surprise,2113,True,True,2017-01-31T09:02:17Z,2017-01-31T09:02:17Z,2,2,0,1,1,0,1,82002.0
+826,Adding Pytorch: deep learning framework that puts Python first.,689,True,True,2017-01-31T17:56:52Z,2017-01-31T17:56:52Z,3,2,0,1,1,0,1,87264.0
+1669,Typo,32,True,True,2020-11-04T17:07:48Z,2020-11-04T17:07:48Z,1,3,0,1,1,1,2,119829.0
+1822,Add python-nmap,585,True,False,,2022-06-06T11:45:41Z,0,1,0,1,1,1,2,0
+1799,Add Flask-socketIO Library to websockets section.,448,True,False,,2022-06-06T00:23:59Z,0,0,0,1,1,0,1,0
+1627,Add Pandas_Alive,1037,True,False,,2022-05-25T00:47:43Z,1,2,0,1,1,0,1,0
+1908,Add Pycord,171,True,False,,2022-05-24T03:53:54Z,0,1,0,1,1,0,1,0
+1676,Add flask-state,603,True,False,,2022-05-23T08:01:17Z,2,3,0,1,1,0,1,0
+2016,Add LocalStack,247,True,False,,2022-05-17T02:30:51Z,0,2,2,1,876,875,1751,0
+1209,Add FastAPI to web frameworks,1910,True,False,,2019-11-06T08:36:49Z,0,2,3,1,1,0,1,0
+993,Added parsy to 'Text Processing / Parsers' section,1029,True,False,,2019-11-29T10:24:51Z,0,2,4,1,1,0,1,0
+1992,instagetter robot,269,True,False,,2022-04-06T11:42:20Z,1,2,0,1,8,0,8,0
+1684,Add two package managers,376,True,False,,2022-04-07T01:45:28Z,0,1,0,1,2,0,2,0
+1460,Add python-viper,435,True,False,,2022-03-29T16:03:15Z,2,5,2,1,1,0,1,0
+1730,Fix dramatiq spelling,46,True,True,2021-02-04T06:00:05Z,2021-02-04T06:00:05Z,1,3,0,1,1,1,2,24029.0
+1544,Add pydebug,600,True,False,,2022-02-20T15:31:53Z,1,2,0,1,1,0,1,0
+1463,added pythonprogramming.net for awesome tutorials,483,True,False,,2022-01-25T11:19:03Z,1,3,2,1,2,0,2,0
+1924,Add GeoPandas,101,True,False,,2022-01-22T20:10:39Z,0,1,0,1,1,0,1,0
+1925,Move Cartopy to #Geolocation,167,True,False,,2022-01-22T20:09:58Z,0,1,0,1,1,1,2,0
+1926,Rename #Geolocation to #Geospatial data processing,147,True,False,,2022-01-22T20:09:35Z,0,1,0,1,2,2,4,0
+1725,Fix gunicorn description,452,True,True,2021-01-25T05:15:25Z,2021-01-25T05:15:25Z,0,3,1,1,1,1,2,11413.0
+1358,add dynaconf in configuration section,1668,True,False,,2019-11-07T10:59:47Z,0,2,1,1,1,0,1,0
+1780,Add easySpeech,435,True,False,,2021-12-03T13:40:13Z,0,1,0,1,1,0,1,0
+918,add PyPInfo,1234,True,False,,2019-11-06T12:36:33Z,0,2,3,1,1,0,1,0
+1871,Add utm to Geolocation,218,True,False,,2021-11-15T16:33:25Z,0,2,2,1,982,982,1964,0
+1751,freecodecamp python article section,65,True,False,,2021-11-06T18:36:07Z,0,1,0,1,1,0,1,0
+1305,Add Frappe Framework,1856,True,False,,2021-10-05T08:13:27Z,3,5,9,1,1,0,1,0
+1779,Add pyreports,864,True,False,,2021-09-12T12:13:38Z,0,1,0,1,1,0,1,0
+1778,Add fontpreview,662,True,False,,2021-09-12T12:14:13Z,0,1,0,1,1,0,1,0
+1777,Add dinosay,584,True,False,,2021-09-12T12:14:28Z,0,1,0,1,2,0,2,0
+1783,Improve PDF section,155,True,False,,2021-09-13T18:19:54Z,0,1,0,1,3,1,4,0
+1793,add discord.py,282,True,False,,2021-08-29T05:56:28Z,0,1,0,1,1,0,1,0
+1796,Add Cornell E2E tests mock server,538,True,False,,2021-07-30T06:59:14Z,0,1,0,1,1,0,1,0
+915,Added pypika to ORM Relational Databases,829,True,False,,2019-11-29T18:24:48Z,5,5,4,1,1,0,1,0
+1612,Add Couler to the list,439,True,False,,2021-07-20T18:45:18Z,2,4,4,1,1,0,1,0
+1745,Additions fontpreview library on Image Processing and dinosay on Command-line Tools,664,True,False,,2021-06-10T08:28:45Z,0,2,1,1,4,0,4,0
+1105,Add Guillotina to the list,2012,True,False,,2019-11-29T07:24:50Z,0,2,4,1,1,0,1,0
+1761,Jina - Neural Search framework,382,True,False,,2021-05-18T09:33:28Z,0,1,1,1,1,0,1,0
+756,Adding Odoo,1068,True,False,,2019-11-06T14:36:34Z,0,2,2,1,1,0,1,0
+1749,add curated python projects link to websites - others section,339,True,False,,2021-04-23T03:28:04Z,0,1,0,1,2,0,2,0
+1733,adding things to README.md,1524,True,False,,2021-03-27T14:21:46Z,1,0,1,1,6,2,8,0
+1741,new file added,220,True,False,,2021-03-11T10:26:42Z,0,2,0,1,1,0,1,0
+1675,Add python-fsutil.,336,True,False,,2021-01-29T11:08:26Z,0,2,2,1,1,0,1,0
+1700,Add Dbader,650,True,False,,2021-01-26T17:43:25Z,0,1,1,1,1,0,1,0
+1720,fixed spelling error,96,True,True,2021-01-22T14:31:55Z,2021-01-22T14:31:55Z,0,2,0,1,1,1,2,113.0
+1718,add SQlite category and sqlite3 driver,271,True,True,2021-01-22T10:24:03Z,2021-01-22T10:24:03Z,0,2,0,1,3,1,4,64530.0
+1706,🗑 Remove profiling,318,True,True,2021-01-22T10:22:54Z,2021-01-22T10:22:54Z,1,3,0,1,0,1,1,1209311.0
+1714,Add clickhouse-driver,305,True,True,2021-01-21T13:21:21Z,2021-01-21T13:21:21Z,0,2,0,1,1,0,1,405583.0
+1681,Add Automate the Boring Stuff with Python,356,True,False,,2021-01-16T15:48:40Z,1,3,2,1,1,0,1,0
+1554,Add Farapy Cms,245,True,False,,2020-06-25T01:27:36Z,0,2,3,1,1,0,1,0
+1685,Readability,57,True,True,2020-12-04T16:13:05Z,2020-12-04T16:13:05Z,0,2,0,1,1,1,2,7381.0
+1188,Add pydantic,615,True,False,,2019-11-06T08:36:42Z,0,5,6,1,1,0,1,0
+1670,"Add resource(book): ""Think Python: How to think like a computer scientist""",868,True,False,,2020-11-18T06:46:33Z,1,3,5,1,1,0,1,0
+1679,"Add ""Enterprise Application Integrations"" to the table of contents.",77,True,True,2020-11-17T17:13:08Z,2020-11-17T17:13:08Z,0,2,0,1,1,0,1,20295.0
+1677,Add Zato to Enterprise Application Integrations.,808,True,True,2020-11-17T04:54:53Z,2020-11-17T04:54:53Z,0,4,3,1,6,0,6,302842.0
+1647,Add  ProxyRequests,399,True,False,,2020-10-28T03:38:48Z,1,2,0,1,1,0,1,0
+1623,"Add xonsh shell is a Python-powered, Unix-gazing shell language and command prompt",882,True,True,2020-10-27T17:33:21Z,2020-10-27T17:33:21Z,1,3,1,1,7,0,7,2872683.0
+1666,Adding some code,271,True,False,,2020-10-25T22:12:25Z,0,3,1,2,3,3,6,0
+1538,Add awesome-python-environment,320,True,False,,2020-10-22T12:51:38Z,1,2,0,1,1,1,2,0
+1664,modernize is renamed and re-homed,105,True,True,2020-10-21T12:42:48Z,2020-10-21T12:42:48Z,0,2,0,1,1,1,2,57191.0
+1663,Fixing celery link,65,True,True,2020-10-17T13:51:40Z,2020-10-17T13:51:40Z,1,4,6,1,1,1,2,106780.0
+1658,Python Program to Convert Celsius To Fahrenheit,268,True,False,,2020-10-06T15:14:52Z,0,2,1,1,1,0,1,0
+1639,Python3 cheatsheed added,256,True,False,,2020-10-06T07:48:36Z,0,2,0,1,2,0,2,0
+1625,Add wtfpython to Resources section,485,True,True,2020-10-06T07:46:45Z,2020-10-06T07:46:45Z,0,2,0,1,1,0,1,958985.0
+1644,doc name,230,True,False,,2020-10-06T07:31:36Z,0,3,1,1,1,1,2,0
+1640,Fixed Grammatical errors in the multiline comment,220,True,False,,2020-10-06T07:36:32Z,0,2,0,1,2,2,4,0
+1628,Change log Added,64,True,False,,2020-10-06T07:36:11Z,0,2,0,2,1387,6,1393,0
+1624,Update sort.py,220,True,False,,2020-10-06T07:33:33Z,0,2,0,1,1,4,5,0
+1632,awesome python,220,True,False,,2020-10-06T07:33:20Z,0,2,0,2,2,1,3,0
+1633,updated documentary for users,220,True,False,,2020-10-06T07:32:54Z,0,2,0,1,1,1,2,0
+1634,Update Docs,220,True,False,,2020-10-06T07:32:42Z,0,2,0,1,2,0,2,0
+1637,improve docs,220,True,False,,2020-10-06T07:32:23Z,0,3,1,1,1,1,2,0
+1642,updated,375,True,False,,2020-10-06T07:31:56Z,0,2,0,1,3,1,4,0
+1648,Add gym,518,True,True,2020-10-05T13:54:02Z,2020-10-05T13:54:02Z,0,2,0,1,1,0,1,182233.0
+1655,Create Function to Calculate area of circle,431,True,False,,2020-10-05T13:53:03Z,0,2,1,1,11,0,11,0
+1631,Create Add Fibonacci Series Using lru_cache.py,815,True,False,,2020-10-05T11:07:17Z,0,2,1,1,17,0,17,0
+1641,Update README.md,220,True,False,,2020-10-05T11:08:03Z,1,3,0,1,1,0,1,0
+1654,Python Program to Illustrate Different Set Operations,274,True,False,,2020-10-05T11:05:47Z,0,2,0,1,17,0,17,0
+1653,calculate length of a string,220,True,False,,2020-10-05T11:05:47Z,0,2,0,1,5,0,5,0
+1652,Check Leap Year using Python,260,True,False,,2020-10-05T11:05:47Z,0,3,1,1,23,0,23,0
+1651," sort even numbers in  ascending order, and in descending  order",343,True,False,,2020-10-05T11:05:46Z,0,3,1,1,31,0,31,0
+1649,Improved Documentation,220,True,False,,2020-10-04T17:56:50Z,0,3,1,1,1,0,1,0
+1626,"Static Type Annotations Generators > pytype, pyannotate",596,True,True,2020-09-26T07:36:24Z,2020-09-26T07:36:24Z,0,2,1,1,2,0,2,24461.0
+1620,Add graphene,147,True,True,2020-09-24T08:20:18Z,2020-09-24T08:20:18Z,1,3,0,1,1,0,1,40553.0
+1589,Add Prefect,647,True,True,2020-09-22T08:08:53Z,2020-09-22T08:08:54Z,21,21,1,1,1,0,1,3654258.0
+1598,Add Ultimate Python study guide,1203,True,True,2020-09-12T07:33:14Z,2020-09-12T07:33:14Z,0,2,2,1,1,0,1,1749448.0
+1350,Add copier,975,True,True,2020-09-08T08:25:20Z,2020-09-08T08:25:20Z,0,7,14,1,2,0,2,31320165.0
+1563,Add key-generator,312,True,False,,2020-09-06T18:35:20Z,0,2,2,1,1,0,1,0
+1610,Add magenta,810,True,True,2020-09-04T07:15:53Z,2020-09-04T07:15:53Z,0,2,0,1,1,0,1,55683.0
+1609,Add MindsDB to the ML,542,True,True,2020-09-04T07:16:09Z,2020-09-04T07:16:09Z,0,2,0,1,1,0,1,68309.0
+1594,Add fsociety,459,True,True,2020-08-21T06:42:36Z,2020-08-21T06:42:36Z,0,2,1,1,7,0,7,71862.0
+1608,Add face_recognition,701,True,True,2020-09-03T10:01:37Z,2020-09-03T10:01:37Z,0,2,0,1,1,0,1,55376.0
+1597,Add social-engineer-toolkit,767,True,True,2020-08-21T13:22:20Z,2020-08-21T13:22:20Z,0,2,0,1,1,0,1,13839.0
+1596,Add sqlmap,950,True,True,2020-08-21T15:42:16Z,2020-08-21T15:42:16Z,0,2,0,1,1,0,1,22809.0
+1606,Replace pybarcode with python-barcode,173,True,True,2020-09-01T15:47:16Z,2020-09-01T15:47:16Z,0,2,1,1,1,1,2,77438.0
+1602,Update SimPy Link,69,True,True,2020-08-27T16:45:48Z,2020-08-27T16:45:48Z,0,2,0,1,1,1,2,83245.0
+1599,Added makesite to static site generators,503,True,True,2020-08-23T14:14:07Z,2020-08-23T14:14:07Z,0,2,0,1,1,0,1,11715.0
+1600,Updates,220,True,False,,2020-08-24T06:40:12Z,0,2,0,0,0,0,0,0
+1593,Add pywal,661,True,True,2020-08-20T07:19:01Z,2020-08-20T07:19:01Z,0,2,0,1,1,0,1,35139.0
+1588,Added DearPyGui,350,True,True,2020-08-20T07:19:25Z,2020-08-20T07:19:25Z,2,4,3,1,1,0,1,816511.0
+1592,Add isort,610,True,True,2020-08-19T07:34:16Z,2020-08-19T07:34:16Z,0,3,1,1,1,0,1,315375.0
+1471,Added Comprehensive Python Cheatsheet to websites,429,True,False,,2020-08-12T15:05:06Z,0,1,0,1,1,0,1,0
+1576,Add structlog,1145,True,True,2020-07-15T17:04:08Z,2020-07-15T17:04:08Z,0,2,1,1,1,0,1,4383.0
+1575,Added Arcade,960,True,True,2020-07-12T16:51:01Z,2020-07-12T16:51:01Z,0,2,0,1,1,0,1,25383.0
+1573,Add Cartopy - Data Visualization,368,True,True,2020-07-10T16:23:48Z,2020-07-10T16:23:48Z,0,2,0,1,1,0,1,37881.0
+1453,"Add docxtpl, loguru",22,True,True,2020-07-09T05:21:41Z,2020-07-09T05:21:41Z,0,3,1,1,2,0,2,15285853.0
+1570,Add BeautifulSoup,379,True,False,,2020-07-09T05:19:31Z,0,2,1,1,2,0,2,0
+1569,Update README.md,335,True,True,2020-07-07T08:58:32Z,2020-07-07T08:58:32Z,0,2,0,1,1,0,1,2782.0
+1568,Add librosa ,324,True,True,2020-07-07T04:05:36Z,2020-07-07T04:05:36Z,0,2,0,1,2,0,2,65813.0
+1561,added pyinfra to README.md,613,True,True,2020-06-29T06:01:36Z,2020-06-29T06:01:36Z,0,2,0,1,1,0,1,501324.0
+1433,Add Schemathesis,1303,True,False,,2019-12-13T16:45:04Z,0,1,0,1,1,0,1,0
+1555,Add Schemathesis,1423,True,True,2020-06-25T18:00:55Z,2020-06-25T18:00:56Z,1,3,0,1,1,0,1,1220960.0
+1562,Add PyMatting,680,True,True,2020-06-25T01:28:20Z,2020-06-25T01:28:20Z,0,2,0,1,1,0,1,54244.0
+1549,Adding hydra library,534,True,True,2020-06-06T19:52:28Z,2020-06-06T19:52:28Z,0,3,2,1,1,0,1,1052242.0
+1557,Updated pyglet site link,34,True,True,2020-06-16T18:02:58Z,2020-06-16T18:02:58Z,0,2,0,1,1,1,2,11324.0
+1551,ADD Miguel Grinberg Blog,425,True,False,,2020-06-06T19:53:12Z,0,2,0,1,1,0,1,0
+1552,Add alive-progress,2276,True,True,2020-06-06T19:51:48Z,2020-06-06T19:51:48Z,1,3,0,1,1,0,1,69356.0
+1342,Add alive-progress,433,True,False,,2019-11-07T10:59:29Z,1,3,10,1,1,0,1,0
+1468,Add diagrams,494,True,True,2020-04-08T12:33:51Z,2020-04-08T12:33:51Z,0,2,0,1,1,0,1,5340888.0
+1531,Fixed broken link for pymssql,284,True,True,2020-04-17T16:26:13Z,2020-04-17T16:26:13Z,0,2,0,1,1,1,2,394055.0
+1532,Add aws-data-wrangler,629,True,True,2020-04-17T16:27:01Z,2020-04-17T16:27:01Z,0,2,0,1,1,0,1,173921.0
+1466,Add extendsclass.com,382,True,False,,2020-04-08T12:31:54Z,0,2,2,1,1,0,1,0
+1480,Add matchering,885,True,True,2020-04-08T12:40:41Z,2020-04-08T12:40:41Z,0,3,1,1,1,0,1,4672229.0
+1474,Add transitions,471,True,False,,2020-04-08T12:38:54Z,0,1,0,1,1,0,1,0
+1473,Added RPyC to RPC Servers section of REAME.md,515,True,True,2020-04-08T12:34:13Z,2020-04-08T12:34:13Z,0,2,0,1,1,0,1,5117895.0
+1467,Adding Tiny Python Projects,284,True,False,,2020-04-08T12:33:25Z,0,2,0,1,1,0,1,0
+1462,Added Arrow to Dates & Times,421,True,True,2020-04-08T12:32:28Z,2020-04-08T12:32:29Z,0,2,0,1,1,0,1,6239603.0
+1472,Add rich,519,True,True,2020-04-08T12:28:24Z,2020-04-08T12:28:24Z,0,2,0,1,1,0,1,5148531.0
+1469,Added tesserocr,722,True,True,2020-04-08T12:18:33Z,2020-04-08T12:18:33Z,1,3,0,1,1,0,1,5308707.0
+1464,Add python-ds,738,True,True,2020-04-08T12:18:07Z,2020-04-08T12:18:07Z,0,2,0,1,1,0,1,6060146.0
+1530,Fix iredis link and litecli link.,136,True,True,2020-04-07T15:13:35Z,2020-04-07T15:13:35Z,0,2,0,1,2,2,4,5368.0
+1470,add more-itertools,1840,True,True,2020-04-07T15:13:02Z,2020-04-07T15:13:02Z,0,2,0,1,1,0,1,5158020.0
+1387,Add Indico,1266,True,True,2020-04-07T12:12:09Z,2020-04-07T12:12:09Z,0,4,4,1,7,0,7,15511721.0
+1461,Add Karate Club,1110,True,True,2020-04-07T13:12:08Z,2020-04-07T13:12:08Z,0,2,0,1,1,0,1,6277483.0
+1478,Add shiv,409,True,False,,2020-04-07T13:06:30Z,0,1,0,1,1,0,1,0
+1504,add iredis to CLI Enhancements. IRedis is part of dbcli.,1736,True,False,,2020-04-07T13:04:47Z,0,1,0,1,1,0,1,0
+1487,PyPy moved to https://foss.heptapod.net/pypy/pypy,65,True,True,2020-04-07T12:59:28Z,2020-04-07T12:59:28Z,1,3,0,1,1,1,2,4232890.0
+1481,Fixed Profig link,41,True,False,,2020-04-07T12:59:06Z,0,2,1,1,1,1,2,0
+1439,Adds dry-python/returns,1052,True,True,2020-04-07T12:09:29Z,2020-04-07T12:09:29Z,0,3,1,1,1,0,1,11809491.0
+1516,Add akshare,1128,True,True,2020-04-07T12:20:05Z,2020-04-07T12:20:05Z,0,2,0,1,1,0,1,3189763.0
+1513,add litecli to Command-line Tools,513,True,True,2020-04-07T12:14:01Z,2020-04-07T12:14:01Z,0,3,1,1,1,0,1,3386937.0
+1518,Profig: fix url to documentation,66,True,True,2020-04-07T12:13:04Z,2020-04-07T12:13:04Z,0,3,2,1,1,1,2,2973527.0
+1389,Add news.python.sc,423,True,True,2020-04-07T12:10:58Z,2020-04-07T12:10:58Z,0,3,5,1,1,0,1,15286022.0
+1476,Add Invoke,546,True,True,2020-04-07T12:07:52Z,2020-04-07T12:07:52Z,0,5,3,1,1,0,1,4729849.0
+1526,Update stanfordnlp (repo moved),157,True,True,2020-04-07T12:07:00Z,2020-04-07T12:07:00Z,0,2,0,1,2,2,4,909430.0
+1527,Add Real Python Podcast,440,True,True,2020-04-07T12:06:36Z,2020-04-07T12:06:36Z,0,2,0,1,1,0,1,663120.0
+1528,Add pyarmor,1015,True,True,2020-04-07T12:05:39Z,2020-04-07T12:05:39Z,0,2,0,1,1,0,1,467134.0
+1427,Add Kite-autocomplete,710,True,False,,2019-12-01T19:57:55Z,0,2,3,1,2,0,2,0
+1456,Add httpx,459,True,True,2020-01-18T10:05:36Z,2020-01-18T10:05:36Z,0,2,0,1,1,0,1,51053.0
+1224,Add Crypto-Vinaigrette,38,True,False,,2019-11-29T09:24:50Z,0,1,4,1,1,0,1,0
+1447,Add Vulture to code analysis tools,512,True,True,2019-12-21T02:14:37Z,2019-12-21T02:14:37Z,0,2,0,1,1,0,1,359400.0
+1436,Add new section Refactoring,284,True,True,2019-12-15T16:00:47Z,2019-12-15T16:00:47Z,0,2,0,1,9,0,9,2156108.0
+1252,"Add 'tartiflette', 'tartiflette-aiohttp' and 'tartiflette-asgi' for Python 3.6.",594,True,True,2019-12-15T15:59:35Z,2019-12-15T15:59:35Z,1,4,3,1,8,0,8,24356792.0
+1437,Add new API-tool: Bearer.sh,403,True,False,,2019-12-15T15:57:47Z,0,2,0,1,1,0,1,0
+1399,Added Kornia to Computer Vision,930,True,True,2019-12-15T15:44:23Z,2019-12-15T15:44:23Z,0,2,0,1,1,0,1,4648376.0
+1434,Add dramatiq to Task Queues,207,True,False,,2019-12-14T12:44:58Z,0,1,0,1,1,0,1,0
+1432,Add proxycrawl,646,True,False,,2019-12-12T02:40:49Z,0,1,0,1,1,0,1,0
+1359,Remove Python Testing podcast,92,True,False,,2019-11-07T10:59:46Z,0,2,1,1,0,1,1,0
+1431,Add cachetools and new type checkers,588,True,False,,2019-12-10T15:26:02Z,0,1,0,1,4,1,5,0
+1430,Add test-junkie,1472,True,False,,2019-12-09T21:08:05Z,0,1,0,1,1,0,1,0
+1409,Add pyright,822,True,False,,2019-12-07T19:01:18Z,0,2,1,1,1,0,1,0
+1429,Add Selinon - a task flow orchestrator on top of Celery project,1474,True,False,,2019-12-07T11:01:18Z,0,1,1,1,2,0,2,0
+1428,Add Import Linter,1256,True,False,,2019-12-06T20:06:29Z,0,1,0,1,1,0,1,0
+916,Added dockerface,1203,True,False,,2019-12-06T05:06:29Z,0,3,4,1,1,0,1,0
+1307,Add Semaphore to list of CI services,0,True,False,,2019-12-05T15:16:42Z,0,1,2,1,10,0,10,0
+1346,Add pyinstrument 📈📉,1503,True,False,,2019-12-05T12:16:45Z,0,1,2,1,1,0,1,0
+990,Add pycoinmon 💰,949,True,False,,2019-12-05T12:16:44Z,0,1,2,1,1,0,1,0
+1267,Added tinyrpc,711,True,False,,2019-12-03T14:36:11Z,0,1,2,1,1,0,1,0
+1421,Add The Python Arcade Library,653,True,False,,2019-12-03T00:36:11Z,0,3,3,1,1,0,1,0
+1425,Add beautifulsoup4,1023,True,False,,2019-12-02T11:33:43Z,0,2,1,1,1,0,1,0
+1228,Add cupy to Science category,384,True,False,,2019-12-02T07:33:42Z,0,1,2,1,1,0,1,0
+1426,Add git-me-the-url,1059,True,False,,2019-12-01T06:57:55Z,0,1,0,1,1,0,1,0
+1281,Add DepHell,610,True,False,,2019-11-30T16:56:01Z,0,1,1,1,1,0,1,0
+1424,Added getit CLI tool #1015,463,True,False,,2019-11-30T14:56:00Z,0,2,2,1,1,0,1,0
+793,Add django-material,560,True,False,,2019-11-30T11:56:00Z,0,1,3,1,1,0,1,0
+655,add uliweb to Web Frameworks list,197,True,False,,2019-11-30T03:56:00Z,0,1,1,1,1,0,1,0
+1423,Added OSINT category & phoneinfoga under OSINT,1033,True,False,,2019-11-30T01:56:00Z,0,1,0,1,377,320,697,0
+693,Adding ObjectPath,436,True,False,,2019-11-29T23:56:00Z,0,1,2,1,2,0,2,0
+1021,Add Parris entry to Machine Learning section.,909,True,False,,2019-11-29T22:56:04Z,0,1,2,1,1,0,1,0
+1248,Add the Square payments SDK,415,True,False,,2019-11-29T21:24:48Z,0,2,2,1,1,0,1,0
+874,Add AppImage,1289,True,False,,2019-11-29T20:24:51Z,0,3,6,1,1,0,1,0
+1422,Update README.md,334,True,False,,2019-11-29T20:24:50Z,0,1,0,1,1,0,1,0
+919,Add Cheroot to list,442,True,False,,2019-11-29T19:24:50Z,0,1,1,1,1,0,1,0
+1376,Add inspectortiger to linters,507,True,False,,2019-11-07T10:59:34Z,0,1,2,1,1,0,1,0
+1420,Add Teaching Python podcast,394,True,False,,2019-11-29T18:24:49Z,0,1,0,1,1,0,1,0
+1335,"Add ""ab"" to awesome-python Testing category.",811,True,False,,2019-11-29T17:24:51Z,0,1,1,1,2,0,2,0
+1158,Added pyfunctional library,493,True,False,,2019-11-29T15:24:55Z,0,1,2,1,1,0,1,0
+1097,"Add Acra, database protection suite [security]",1570,True,False,,2019-11-29T15:24:54Z,0,1,2,1,7,0,7,0
+1094,"Add Themis, multi-platform cryptography library",1611,True,False,,2019-11-29T15:24:52Z,0,1,2,1,1,0,1,0
+939,Add requests-futures to the HTTP section,1273,True,False,,2019-11-29T15:24:51Z,0,1,1,1,1,0,1,0
+1309,Add cmd2 to Command-line Application Development section,813,True,False,,2019-11-29T14:24:51Z,0,1,3,1,1,0,1,0
+971,Add Dependency Injector,906,True,False,,2019-11-29T14:24:50Z,4,2,1,1,1,0,1,0
+1052,Added Curated Python Resources,324,True,False,,2019-11-29T13:24:53Z,0,2,2,1,1,0,1,0
+959,Adding awesome-python-in-education,540,True,False,,2019-11-29T13:24:52Z,0,2,2,1,1,0,1,0
+896,Add Slash to the list of testing frameworks,1517,True,False,,2019-11-29T13:24:51Z,1,3,7,1,1,0,1,0
+836,Add weboob to Web Crawling section,846,True,False,,2019-11-29T11:24:51Z,3,2,7,1,1,0,1,0
+1146,The Best Python Videos,2715,True,False,,2019-11-29T11:24:54Z,0,1,2,1,1,0,1,0
+1112,Add PyXLL,835,True,False,,2019-11-29T11:24:53Z,1,3,4,1,4,3,7,0
+1045,Add poetry to Package Management section,1125,True,False,,2019-11-29T11:24:52Z,0,2,2,1,1,0,1,0
+1289,Add pyramid_openapi3 to list of Pyramid-based API frameworks,530,True,False,,2019-11-29T10:24:52Z,0,1,3,1,1,0,1,0
+1154,Add Kubernetes Python client,335,True,False,,2019-11-29T10:24:53Z,0,2,2,1,1,0,1,0
+1084,Adding `adaptive`,1437,True,False,,2019-11-29T08:24:49Z,0,1,3,1,1,0,1,0
+1336,Add Neuraxle,4879,True,False,,2019-11-29T07:24:51Z,0,1,2,1,1,0,1,0
+1419,add mlxtend,599,True,False,,2019-11-28T20:51:55Z,0,1,0,1,1,0,1,0
+1418,"added ""Exploit Development"" section",0,True,False,,2019-11-28T07:51:55Z,0,1,0,1,14,0,14,0
+1410,Add pypette,705,True,False,,2019-11-28T03:14:05Z,0,1,0,1,7,0,7,0
+1411,Add sanic-openapi,443,True,False,,2019-11-28T02:14:19Z,0,1,0,1,1,0,1,0
+1412,Add streamlit,593,True,False,,2019-11-28T02:14:18Z,0,1,0,1,1,0,1,0
+1413,Add prefect,574,True,False,,2019-11-28T02:14:17Z,0,1,0,1,7,0,7,0
+1415,Add daphne,564,True,False,,2019-11-28T02:14:16Z,0,1,0,1,7,0,7,0
+1417,Add startlette,583,True,False,,2019-11-28T02:14:15Z,0,1,0,1,7,0,7,0
+1416,Add uvicorn,680,True,False,,2019-11-28T02:14:14Z,0,1,0,1,7,0,7,0
+1414,Add pytype,981,True,False,,2019-11-28T02:14:13Z,0,1,0,1,1,0,1,0
+1408,added merge sort,284,True,False,,2019-11-27T15:14:05Z,0,1,0,1,75,0,75,0
+1407,awesome-python,162,True,False,,2019-11-26T12:24:52Z,0,1,0,1,2,0,2,0
+1406,Adding aiosonic HTTP client,366,True,False,,2019-11-26T08:24:52Z,2,2,0,1,1,0,1,0
+1405,Adds knackpy to Third Party APIs,473,True,False,,2019-11-25T14:20:14Z,0,1,0,1,1,0,1,0
+1404,Add scikit-opt to Science,543,True,False,,2019-11-25T11:20:13Z,0,1,0,1,1,0,1,0
+1256,Add PEP 8 Speaks to Services -> Code Quality section,2242,True,True,2019-05-25T09:24:53Z,2019-05-25T09:24:53Z,0,2,2,1,1,0,1,6196285.0
+1373,Add PySnooper,905,True,False,,2019-11-22T05:17:29Z,0,2,1,1,1,0,1,0
+1400,add PySnooper to debugging list,284,True,False,,2019-11-22T04:17:31Z,0,2,1,1,1,0,1,0
+1396,Add Chainer,327,True,False,,2019-11-20T10:03:40Z,1,2,0,1,1,0,1,0
+1398,Add Pympler,920,True,False,,2019-11-20T09:03:40Z,0,1,0,1,1,0,1,0
+1397,Add py-couchdb,720,True,False,,2019-11-20T07:03:39Z,0,1,0,1,1,0,1,0
+1392,Add signale.py,257,True,False,,2019-11-17T19:09:20Z,0,1,0,1,1,0,1,0
+1393,Serialization - ujson - Blazing fast JSON serialization,160,True,False,,2019-11-17T17:03:03Z,0,1,0,1,1,0,1,0
+1391,Added Security category and Z3 to scientific category,337,True,False,,2019-11-15T13:21:38Z,0,1,0,1,8,0,8,0
+1388,Add Plotly in Data Visualization,1324,True,False,,2019-11-14T21:21:37Z,0,1,0,1,1,0,1,0
+1390,added pygorithm in readme,284,True,False,,2019-11-13T09:05:09Z,0,1,0,1,1,1,2,0
+1301,Add kedro,761,True,False,,2019-11-10T01:06:26Z,0,1,1,1,1,0,1,0
+1384,Add Chatterbot,428,True,False,,2019-11-08T14:22:46Z,0,1,0,1,2,0,2,0
+1340,Add PySnooper for debugging,673,True,False,,2019-11-07T10:59:55Z,1,3,2,1,1,0,1,0
+1360,Update PyWin32 link,152,True,True,2019-11-08T01:39:27Z,2019-11-08T01:39:27Z,1,4,2,1,1,1,2,3260570.0
+1088,Add Pottery to NoSQL Databases section,884,True,False,,2019-11-07T10:59:56Z,0,1,1,1,1,0,1,0
+1345,Add ML Workspace,925,True,False,,2019-11-07T12:59:27Z,0,1,1,1,1,0,1,0
+1343,Add Dynamic Analysis section,3565,True,False,,2019-11-07T11:59:27Z,0,1,1,1,7,0,7,0
+1101,add pyvips,435,True,False,,2019-11-07T10:59:53Z,1,3,5,1,1,0,1,0
+1381,Add httpx,274,True,False,,2019-11-07T10:59:27Z,2,2,1,1,1,0,1,0
+1107,Add pyecharts,1101,True,False,,2019-11-07T10:59:54Z,1,8,7,1,1,0,1,0
+1232,Add Ralph CMDB/Asset Mgmt System to the list.,630,True,False,,2019-11-07T10:59:52Z,0,1,0,1,3,1,4,0
+1206,Add Loguru (logging),593,True,False,,2019-11-07T10:59:51Z,1,3,1,1,1,0,1,0
+1351,Add cornac,479,True,False,,2019-11-07T10:59:50Z,0,1,0,1,1,0,1,0
+1352,Add python-benedict,770,True,False,,2019-11-07T10:59:49Z,0,1,0,1,1,0,1,0
+1357,Adding Dramatiq to Queues section.,1500,True,False,,2019-11-07T10:59:48Z,0,1,0,1,1,0,1,0
+1361,"added Puput, powerful and simple Django blog app",134,True,False,,2019-11-07T10:59:45Z,0,1,0,1,1,0,1,0
+1362,added django cachalot -  Caches Django ORM queries,90,True,False,,2019-11-07T10:59:44Z,0,1,0,1,1,0,1,0
+1363,added Django-Kaio -  Class based settings for Django,100,True,False,,2019-11-07T10:59:43Z,0,1,0,1,1,0,1,0
+1364,Add Inflect Python Library,764,True,False,,2019-11-07T10:59:42Z,0,1,0,1,1,0,1,0
+1365,Add dontpady,741,True,False,,2019-11-07T10:59:41Z,0,1,0,1,1,0,1,0
+1366,Add Vaex to the Data Analysis section,318,True,False,,2019-11-07T10:59:40Z,0,1,0,1,1,0,1,0
+1368,Add PyAudio,197,True,False,,2019-11-07T10:59:39Z,0,1,0,1,1,0,1,0
+1369,Add jsonbender,284,True,False,,2019-11-07T10:59:38Z,0,1,0,1,1,0,1,0
+1371,Add webbrowser,1212,True,False,,2019-11-07T10:59:37Z,0,1,0,1,1,0,1,0
+1374,Add bake,915,True,False,,2019-11-07T10:59:36Z,0,1,0,1,1,0,1,0
+1375,Add Shell functools,685,True,False,,2019-11-07T10:59:35Z,0,1,0,1,1,0,1,0
+1377,Add Taiga,387,True,False,,2019-11-07T10:59:33Z,0,1,0,1,2,1,3,0
+1378,Add MLflow.,2183,True,False,,2019-11-07T10:59:32Z,0,1,0,1,1,0,1,0
+1379,Aded Scikit-Image,0,True,False,,2019-11-07T10:59:31Z,0,1,0,1,1,0,1,0
+1380,Python,0,True,False,,2019-11-07T10:59:30Z,0,1,0,1,4,0,4,0
+1383,add cache-alchemy,296,True,False,,2019-11-07T10:59:28Z,0,1,0,1,1,0,1,0
+683,"Added Connexion to ""RESTful API"" section",789,True,False,,2019-11-06T19:36:50Z,0,1,1,1,1,0,1,0
+646,Add NSenter to DevOps Tools section,339,True,False,,2019-11-06T19:36:49Z,0,1,1,1,1,0,1,0
+682,"Added ExpAn to ""Testing"" section",402,True,False,,2019-11-06T19:36:48Z,0,1,1,1,1,0,1,0
+673,Ultisnips,40,True,False,,2019-11-06T19:36:47Z,0,0,1,1,1,0,1,0
+640,"Add pytify, a spotify cli remote",282,True,False,,2019-11-06T19:36:46Z,0,2,5,1,1,0,1,0
+639,"Add gitsome, a Git/shell completer with GitHub integration.",503,True,False,,2019-11-06T19:36:45Z,0,1,1,1,1,0,1,0
+630,Add feather ,337,True,False,,2019-11-06T19:36:44Z,0,1,1,1,1,0,1,0
+624,Add CoolProp library to Science and Data Analysis,452,True,False,,2019-11-06T19:36:43Z,0,1,1,1,1,0,1,0
+611,Update Biopython link,163,True,False,,2019-11-06T19:36:42Z,0,1,1,1,1,1,2,0
+594,Added DreamPie REPL,1125,True,False,,2019-11-06T19:36:41Z,0,0,1,1,1,0,1,0
+569,Records,177,True,False,,2019-11-06T19:36:40Z,0,3,6,1,1,0,1,0
+589,Added PySciter,589,True,False,,2019-11-06T19:36:39Z,0,2,4,1,1,0,1,0
+586,Add nanomsg,853,True,False,,2019-11-06T19:36:38Z,0,1,1,1,1,0,1,0
+573,Added Apache Thrift to RPC section,101,True,False,,2019-11-06T19:36:37Z,0,1,1,1,1,0,1,0
+568,sql,125,True,False,,2019-11-06T19:36:36Z,0,1,1,1,1,0,1,0
+567,Postgres.py,205,True,False,,2019-11-06T19:36:35Z,0,1,1,1,1,0,1,0
+560,Added Flit to README.md,129,True,False,,2019-11-06T19:36:34Z,0,1,1,1,1,0,1,0
+563,Add pipgh (under Libraries for package and dependency management.),126,True,False,,2019-11-06T19:36:33Z,0,1,1,1,1,0,1,0
+590,Add diff-so-fancy,203,True,False,,2019-11-06T17:36:49Z,0,1,1,1,1,0,1,0
+958,Add pypandoc in section `Specific Formats Processing`,1329,True,False,,2019-11-06T18:36:58Z,0,1,1,1,1,0,1,0
+947,Add atomic message queue (built-in),413,True,False,,2019-11-06T18:36:57Z,0,0,1,1,1,0,1,0
+945,Added django-geojson,568,True,False,,2019-11-06T18:36:56Z,0,1,1,1,2,0,2,0
+940,Add Habu - Python Network Hacking Toolkit,813,True,False,,2019-11-06T18:36:55Z,0,1,1,1,1,0,1,0
+937,Added Monique Dashboards,779,True,False,,2019-11-06T18:36:54Z,0,1,1,1,1,0,1,0
+904,Add Boolean section to README,1108,True,False,,2019-11-06T18:36:53Z,0,2,4,1,7,0,7,0
+923,added mistletoe under Markdown,845,True,False,,2019-11-06T18:36:52Z,0,1,1,1,1,0,1,0
+914,Add MIDIUtil to Audio section,0,True,False,,2019-11-06T18:36:51Z,0,1,1,1,1,0,1,0
+885,Add Torsimany,799,True,False,,2019-11-06T18:36:50Z,0,2,3,1,1,0,1,0
+901,Added logzero,856,True,False,,2019-11-06T18:36:49Z,0,1,1,1,1,0,1,0
+899,Add Turtle module to Game Development section.,1011,True,False,,2019-11-06T18:36:48Z,0,1,1,1,1,0,1,0
+884,Add Sioux ,63,True,False,,2019-11-06T18:36:47Z,0,1,1,1,2,0,2,0
+882,add pip-upgrader in Package Management,642,True,False,,2019-11-06T18:36:46Z,0,1,1,1,1,0,1,0
+856,Add xweb,510,True,False,,2019-11-06T18:36:45Z,0,2,3,1,1,0,1,0
+844,Added links for Splinter and Coursera-dl,130,True,False,,2019-11-06T18:36:44Z,0,1,1,1,2,0,2,0
+835,Add buildbot,317,True,False,,2019-11-06T18:36:43Z,0,1,1,1,1,0,1,0
+811,add Network Virtualization,284,True,False,,2019-11-06T18:36:42Z,0,1,1,1,5,0,5,0
+809,Add uncompyle6 Python bytecode decompiler,1263,True,False,,2019-11-06T18:36:41Z,0,1,1,1,2,1,3,0
+790,Added Official Neo4j package to NoSQL Databases,453,True,False,,2019-11-06T18:36:40Z,0,1,1,1,1,0,1,0
+784,add: videos as resource for packages,142,True,False,,2019-11-06T18:36:39Z,0,1,1,1,4,0,4,0
+776,add: MOOCs / courses as resource for packages,218,True,False,,2019-11-06T18:36:38Z,0,1,2,1,17,0,17,0
+770,Update README.md,320,True,False,,2019-11-06T18:36:37Z,0,1,1,1,1,0,1,0
+751,Added the geonamescache package,673,True,False,,2019-11-06T18:36:36Z,0,1,1,1,1,0,1,0
+631,Add quick.py,490,True,False,,2019-11-06T18:36:35Z,0,1,2,1,1,0,1,0
+729,"Added minio-py, Minio Python Library for Amazon S3 Compatible Cloud",412,True,False,,2019-11-06T18:36:34Z,0,1,1,1,1,0,1,0
+697,Add Ziggurat Foundations,873,True,False,,2019-11-06T18:36:33Z,0,1,1,1,1,0,1,0
+578,Added pyrsistent module,0,True,False,,2019-11-06T17:37:01Z,0,1,1,1,1,0,1,0
+577,Added 'permission' module,0,True,False,,2019-11-06T17:37:00Z,0,2,1,1,1,0,1,0
+572,Add little_pger,174,True,False,,2019-11-06T17:36:59Z,0,2,2,1,1,0,1,0
+576,Added Flask-RESTPlus,0,True,False,,2019-11-06T17:36:58Z,0,1,1,1,1,0,1,0
+574,Re-add pew.,19,True,False,,2019-11-06T17:36:57Z,0,2,2,1,1,0,1,0
+566,Added Olaf to the Package Management section.,0,True,False,,2019-11-06T17:36:56Z,0,2,4,1,1,0,1,0
+547,added sqlite3 in databases,247,True,False,,2019-11-06T17:36:55Z,0,1,1,1,1,0,1,0
+559,Add pythondigest.ru (russian digest) to section 'weekly',4,True,False,,2019-11-06T17:36:54Z,0,2,3,1,1,0,1,0
+542,Add petl,105,True,False,,2019-11-06T17:36:53Z,1,3,3,1,1,0,1,0
+1183,Add pyodbc,358,True,False,,2019-11-06T17:36:52Z,0,1,1,1,1,0,1,0
+1204,Add filepy,484,True,False,,2019-11-06T17:36:51Z,0,1,1,1,1,0,1,0
+598,Add directree,464,True,False,,2019-11-06T17:36:50Z,0,2,2,1,1,0,1,0
+893,Add ModernGL,1520,True,False,,2019-11-06T17:36:48Z,0,1,1,1,1,0,1,0
+1246,Added Pycro,1288,True,False,,2019-11-06T17:36:47Z,0,1,2,1,2,0,2,0
+1240,added a library of websocket,0,True,False,,2019-11-06T17:36:46Z,0,1,1,1,1,0,1,0
+1211,add cosmic-ray,308,True,False,,2019-11-06T17:36:45Z,0,1,1,1,1,0,1,0
+1069,Added rebound to command-line tools,714,True,False,,2019-11-06T17:36:44Z,0,1,1,1,1,0,1,0
+860,Update/nanobox,731,True,False,,2019-11-06T17:36:43Z,0,1,3,1,3,0,3,0
+1064,add folium to dataviz,338,True,False,,2019-11-06T17:36:42Z,0,1,1,1,1,0,1,0
+1051,Added PuLP - A Linear Programming Optimization Modeler,284,True,False,,2019-11-06T17:36:41Z,1,3,3,1,1,0,1,0
+1040,Add ToPy and vkapi,379,True,False,,2019-11-06T17:36:40Z,0,1,1,1,2,0,2,0
+1033,Add django-admin-interface to Admin panels,514,True,False,,2019-11-06T17:36:39Z,0,1,1,1,1,0,1,0
+962,Added logzero to logging,687,True,False,,2019-11-06T17:36:38Z,0,2,2,1,2,0,2,0
+1002,added OSMNames and OpenMapTiles,600,True,False,,2019-11-06T17:36:37Z,0,1,1,1,2,0,2,0
+997,Added quandl-metabase,642,True,False,,2019-11-06T17:36:36Z,0,1,1,1,1,0,1,0
+992,Added librosa library,434,True,False,,2019-11-06T17:36:35Z,0,1,1,1,1,0,1,0
+984,Add EliteQuant backtest and live trading framework,546,True,False,,2019-11-06T17:36:34Z,0,1,1,1,1,0,1,0
+982,Added Smores,1207,True,False,,2019-11-06T17:36:33Z,0,1,1,1,1,0,1,0
+766,Add paco package,474,True,False,,2019-11-06T14:36:38Z,0,1,1,1,1,0,1,0
+674,Add pbr,705,True,False,,2019-11-06T16:37:01Z,1,5,4,1,1,0,1,0
+679,Added pymorphy2 to Natural Language Processing,966,True,False,,2019-11-06T16:37:00Z,0,2,2,1,1,1,2,0
+681,Add progressbar2,223,True,False,,2019-11-06T16:36:59Z,0,3,3,1,3,2,5,0
+676,Update list of Code Analysis libraries,552,True,False,,2019-11-06T16:36:58Z,0,1,1,1,1,0,1,0
+661,Agent-based modeling in Python3,487,True,False,,2019-11-06T16:36:57Z,0,1,1,1,3,0,3,0
+654,added gensim,291,True,False,,2019-11-06T16:36:56Z,0,1,1,1,1,0,1,0
+653,awesome python financial library developed by the Thalesians,134,True,False,,2019-11-06T16:36:55Z,0,2,1,1,1,0,1,0
+652,awesome tensor flow examples with python notebooks,0,True,False,,2019-11-06T16:36:54Z,0,3,2,1,1,0,1,0
+644,Add dryscrape into Web Crawling section.,375,True,False,,2019-11-06T16:36:53Z,0,1,1,1,1,0,1,0
+650,Add pla workflow automation tool,293,True,False,,2019-11-06T16:36:52Z,0,1,2,1,1,0,1,0
+638,Add Ruffus pipeline library,0,True,False,,2019-11-06T16:36:51Z,0,1,1,1,1,0,1,0
+635,pybluez Bluetooth module,336,True,False,,2019-11-06T16:36:50Z,0,1,1,1,2,1,3,0
+641,"Added aeries, a grade book viewer",467,True,False,,2019-11-06T16:36:49Z,0,1,1,1,1,0,1,0
+627,add cx_Oracle,17,True,False,,2019-11-06T16:36:48Z,0,1,1,1,2,0,2,0
+632,Add kaptan (configuration manager),421,True,False,,2019-11-06T16:36:47Z,0,1,1,1,1,0,1,0
+633,Add tmuxp - tmux session manager,447,True,False,,2019-11-06T16:36:46Z,0,1,2,1,2,0,2,0
+623,Add Reactive Programming section and RxPY,526,True,False,,2019-11-06T16:36:45Z,0,2,2,1,8,2,10,0
+634,Add vcspull - mass clone/update projects from vcs,608,True,False,,2019-11-06T16:36:44Z,0,1,1,1,1,0,1,0
+621,Added Ninja IDE,305,True,False,,2019-11-06T16:36:43Z,0,1,1,1,1,0,1,0
+619,Attach stars count and last pushed for each GitHub repo,461,True,False,,2019-11-06T16:36:42Z,0,1,1,1,1336,0,1336,0
+615,Add Flask-AppBuilder,354,True,False,,2019-11-06T16:36:41Z,0,1,1,1,1,0,1,0
+616,Add tflearn,332,True,False,,2019-11-06T16:36:40Z,0,1,1,1,1,0,1,0
+614,Add metapensiero.pj,257,True,False,,2019-11-06T16:36:39Z,0,1,1,1,1,0,1,0
+613,Add arcade,341,True,False,,2019-11-06T16:36:38Z,0,1,1,1,1,0,1,0
+617,Add keras,618,True,False,,2019-11-06T16:36:37Z,0,1,1,1,1,0,1,0
+603,Add shellish to command line section.,440,True,False,,2019-11-06T16:36:36Z,0,2,3,1,1,0,1,0
+609,Add coursera-dl,268,True,False,,2019-11-06T16:36:35Z,0,1,1,1,1,0,1,0
+606,wad - allows to get quick overview of web app technologies,331,True,False,,2019-11-06T16:36:34Z,0,1,1,1,1,0,1,0
+583,Add Pomp,32,True,False,,2019-11-06T16:36:33Z,0,1,2,1,1,0,1,0
+757,Add py-lmdb,293,True,False,,2019-11-06T15:37:00Z,0,1,1,1,1,0,1,0
+759,added Windows10ToastNotifications,294,True,False,,2019-11-06T15:36:59Z,1,2,2,1,1,0,1,0
+746,added tweepy,356,True,False,,2019-11-06T15:36:58Z,0,1,1,1,1,0,1,0
+750,Adding Automatron,1390,True,False,,2019-11-06T15:36:57Z,0,1,1,1,1,0,1,0
+739,add m2crypto,333,True,False,,2019-11-06T15:36:56Z,0,2,2,1,1,0,1,0
+736,"validr: a simple,fast,extensible library for data validation",581,True,False,,2019-11-06T15:36:55Z,0,1,1,1,1,0,1,0
+728,Data science and machine learning related additions,1072,True,False,,2019-11-06T15:36:54Z,0,1,1,1,16,0,16,0
+727,Add regex,479,True,False,,2019-11-06T15:36:53Z,0,2,2,1,1,0,1,0
+731,SimPy: yet another awesome tool,548,True,False,,2019-11-06T15:36:52Z,0,1,1,1,1,0,1,0
+718, Add flask-restplus ,332,True,False,,2019-11-06T15:36:51Z,0,2,1,1,2,0,2,0
+721,Add Clastic,783,True,False,,2019-11-06T15:36:50Z,0,2,2,1,1,0,1,0
+709,Refine description of envelopes.,100,True,False,,2019-11-06T15:36:49Z,0,1,1,1,1,1,2,0
+708,dogpile.cache is not full replacement for Beaker.,121,True,False,,2019-11-06T15:36:49Z,0,1,1,1,1,1,2,0
+710,Refine description of geopy and pygeoip.,66,True,False,,2019-11-06T15:36:48Z,0,1,1,1,2,2,4,0
+711,Move httpie from productivity to HTTP.,62,True,False,,2019-11-06T15:36:46Z,0,1,1,1,1,1,2,0
+712,Refine description of TinyDB.,95,True,False,,2019-11-06T15:36:45Z,0,1,1,1,1,1,2,0
+704,Add Injector,794,True,False,,2019-11-06T15:36:44Z,0,1,1,1,1,0,1,0
+707,Provide link to curated list of Python object-oriented programming re…,0,True,False,,2019-11-06T15:36:43Z,0,1,1,1,1,0,1,0
+703,Add RhodeCode,521,True,False,,2019-11-06T15:36:42Z,0,3,4,1,1,0,1,0
+699,Added pywinauto,488,True,False,,2019-11-06T15:36:41Z,0,1,1,1,1,0,1,0
+698,Added fakeredis module,186,True,False,,2019-11-06T15:36:40Z,0,1,1,1,1,0,1,0
+691,Add MattermostBot,251,True,False,,2019-11-06T15:36:39Z,0,1,1,1,1,0,1,0
+692,Add django-db-mailer,646,True,False,,2019-11-06T15:36:38Z,0,1,1,1,1,0,1,0
+684,Add imbalanced-learn,540,True,False,,2019-11-06T15:36:37Z,0,1,1,1,1,0,1,0
+686,Added PythonVSCode,276,True,False,,2019-11-06T15:36:36Z,0,1,1,1,2,0,2,0
+690,Update README Websites Section,50,True,False,,2019-11-06T15:36:35Z,0,1,1,1,1,0,1,0
+687,RethinkDB driver.,700,True,False,,2019-11-06T15:36:34Z,0,1,1,1,2,1,3,0
+850,Added `django-smart-autoregister` in the `Libraries for administrativ…,757,True,False,,2019-11-06T14:36:58Z,0,1,1,1,1,0,1,0
+1341,Add Recommenders,284,True,False,,2019-11-06T14:36:57Z,0,1,1,1,1,0,1,0
+849,Added `django-dynamic-fixture` in `Object Factories`,747,True,False,,2019-11-06T14:36:56Z,0,1,1,1,1,0,1,0
+847,Add LTP in Natural language processing block,1025,True,False,,2019-11-06T14:36:55Z,0,1,1,1,1,0,1,0
+845,ISC: Inter-service communication layer for building distributed microservices.,622,True,False,,2019-11-06T14:36:54Z,0,1,1,1,1,0,1,0
+840,"Add ieighteen for i18n, Automation of Translation",425,True,False,,2019-11-06T14:36:53Z,0,1,1,1,1,0,1,0
+834,adds pg_simple to Database section,284,True,False,,2019-11-06T14:36:52Z,0,1,1,1,1,0,1,0
+828,"Adding Japronto: a screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework",811,True,False,,2019-11-06T14:36:51Z,0,1,1,1,1,0,1,0
+832,adds flask profiler,333,True,False,,2019-11-06T14:36:50Z,0,1,1,1,1,0,1,0
+804,Added Flask-Ask to Natural Language Processing,682,True,False,,2019-11-06T14:36:49Z,0,1,1,1,2,1,3,0
+808,"Adding ""Proof"" to Data Analysis",92,True,False,,2019-11-06T14:36:48Z,0,1,1,1,3,0,3,0
+805,Adding moto to README.md,509,True,False,,2019-11-06T14:36:47Z,0,3,2,1,6,0,6,0
+824,Add Pycycle Command-Line-Tool,734,True,False,,2019-11-06T14:36:46Z,0,1,1,1,1,0,1,0
+801,Add Themis crypto library,1098,True,False,,2019-11-06T14:36:45Z,0,2,1,1,1,0,1,0
+797,Add aiengine,1917,True,False,,2019-11-06T14:36:44Z,0,1,1,1,1,0,1,0
+791,Added micropython,543,True,False,,2019-11-06T14:36:43Z,0,1,1,1,1,1,2,0
+796,Add kivEnt,646,True,False,,2019-11-06T14:36:42Z,0,1,1,1,1,0,1,0
+788,Add requests-mock,284,True,False,,2019-11-06T14:36:41Z,0,1,1,1,1,0,1,0
+780,Add a link to curio,483,True,False,,2019-11-06T14:36:40Z,0,1,1,1,1,0,1,0
+775,Adding rows to README.md,409,True,False,,2019-11-06T14:36:39Z,0,3,3,1,1,0,1,0
+765,Added Hprose,454,True,False,,2019-11-06T14:36:37Z,0,1,1,1,1,0,1,0
+767,add Autosub,80,True,False,,2019-11-06T14:36:36Z,0,1,1,1,1,0,1,0
+769,Graph Databases,25,True,False,,2019-11-06T14:36:35Z,0,1,1,1,2,0,2,0
+758,Added a couple more useful links,282,True,False,,2019-11-06T14:36:33Z,1,2,1,1,21,0,21,0
+917,Added mongomock,361,True,False,,2019-11-06T13:36:58Z,0,1,1,1,1,0,1,0
+908,Add Tapioca Wrapper,687,True,False,,2019-11-06T13:36:57Z,0,1,1,1,1,0,1,0
+907,Add pyenchant,781,True,False,,2019-11-06T13:36:56Z,0,1,1,1,1,0,1,0
+909,Added PySynth to Audio,578,True,False,,2019-11-06T13:36:55Z,0,1,1,1,1,0,1,0
+902,Added Pyautogui module to the gui list,569,True,False,,2019-11-06T13:36:54Z,0,3,9,1,1,0,1,0
+898,Add Rexy to the list of recommendation systems,1162,True,False,,2019-11-06T13:36:53Z,0,1,1,1,1,1,2,0
+897,Add CompressedCrack,107,True,False,,2019-11-06T13:36:52Z,0,2,2,1,1,0,1,0
+892,Adds Storyblok to CMS list.,867,True,False,,2019-11-06T13:36:51Z,0,1,1,1,1,0,1,0
+895,Add IPTCInfo,379,True,False,,2019-11-06T13:36:50Z,0,1,1,1,1,0,1,0
+894,"Adds auto_ml, automated ML for engineers",971,True,False,,2019-11-06T13:36:49Z,0,1,1,1,1,0,1,0
+891,Fixed broken link to Pysonar2,92,True,False,,2019-11-06T13:36:48Z,3,3,1,1,1,1,2,0
+889,added suggestion for pika,341,True,False,,2019-11-06T13:36:47Z,0,1,1,1,1,0,1,0
+890,added gREST to Flask (under RESTful API category),655,True,False,,2019-11-06T13:36:46Z,0,2,3,1,1,0,1,0
+888,Add cx_Freeze in distribution.,811,True,False,,2019-11-06T13:36:45Z,0,3,3,1,1,0,1,0
+886,Add tasktiger,342,True,False,,2019-11-06T13:36:44Z,0,1,1,1,1,0,1,0
+878,README.md: Add fecon235 for economics under Science,2334,True,False,,2019-11-06T13:36:43Z,0,1,2,1,1,0,1,0
+871,Add cx_Oracle link,199,True,False,,2019-11-06T13:36:42Z,0,1,2,1,3,0,3,0
+868,Add Module Linker,612,True,False,,2019-11-06T13:36:41Z,0,1,1,1,2,0,2,0
+869,Add GitHub Pull Requests Cleaner,608,True,False,,2019-11-06T13:36:40Z,0,3,3,1,1,0,1,0
+872,Add djsw-wrapper,539,True,False,,2019-11-06T13:36:39Z,0,2,2,1,1,0,1,0
+867,Add mist.io,844,True,False,,2019-11-06T13:36:38Z,0,1,1,1,1,0,1,0
+864,add snapcraft ,512,True,False,,2019-11-06T13:36:37Z,0,0,1,1,1,0,1,0
+863,Add pprofile,579,True,False,,2019-11-06T13:36:36Z,0,1,1,1,1,0,1,0
+859,"Add cachecontrol, which adds caching to requests",469,True,False,,2019-11-06T13:36:35Z,0,1,1,1,1,0,1,0
+855,webdriver_manager added to testing section,422,True,False,,2019-11-06T13:36:34Z,0,1,2,1,1,0,1,0
+851,add microurl(url minifier) to URL Manipulation,364,True,False,,2019-11-06T13:36:33Z,0,2,2,1,1,0,1,0
+977,Adding weboob in the Web Crawling section,1182,True,False,,2019-11-06T12:36:56Z,0,1,3,1,1,0,1,0
+972,Adds Halo to Command-Line Application Development Section,1047,True,False,,2019-11-06T12:36:55Z,0,1,1,1,1,0,1,0
+964,Added win10toast,149,True,False,,2019-11-06T12:36:54Z,0,1,1,1,1,0,1,0
+966,Add plumbum,997,True,False,,2019-11-06T12:36:53Z,0,1,1,1,1,0,1,0
+961,Add natsort to the Miscellaneous section.,658,True,False,,2019-11-06T12:36:52Z,0,1,1,1,1,0,1,0
+963,Add butterflow,717,True,False,,2019-11-06T12:36:51Z,0,1,1,1,1,0,1,0
+960,Adding satchmo to e-commerce section,631,True,False,,2019-11-06T12:36:50Z,0,1,1,1,1,0,1,0
+951,Added bitstruct,611,True,False,,2019-11-06T12:36:49Z,0,1,1,1,1,0,1,0
+953,added TBone to RESTful APIs,884,True,False,,2019-11-06T12:36:48Z,0,2,2,1,1,0,1,0
+954,"added hodor to ""HTML Manipulation""",667,True,False,,2019-11-06T12:36:47Z,0,1,1,1,1,0,1,0
+955,Add opsdroid,1053,True,False,,2019-11-06T12:36:46Z,0,1,1,1,1,0,1,0
+943,Add Selinon - a task flow orchestrator on top of Celery project,1515,True,False,,2019-11-06T12:36:45Z,1,2,4,1,1,0,1,0
+949,Added spidy Web Crawler,525,True,False,,2019-11-06T12:36:44Z,0,1,1,1,1,0,1,0
+934,"Add ""atq"" to the ""Queue"" section",498,True,False,,2019-11-06T12:36:43Z,0,1,1,1,1,0,1,0
+932,"Add ""doubledouble"" library",310,True,False,,2019-11-06T12:36:42Z,0,1,1,1,1,0,1,0
+935,Add RPC clients category and Zeep as SOAP client.,871,True,False,,2019-11-06T12:36:41Z,0,1,1,1,7,0,7,0
+931,"Add ""Art"" section, add ""Flat"" library",250,True,False,,2019-11-06T12:36:40Z,0,1,1,1,7,0,7,0
+930,Add awesome-finder,504,True,False,,2019-11-06T12:36:39Z,0,1,1,1,1,0,1,0
+925,Added Bugsnag to Logging,397,True,False,,2019-11-06T12:36:38Z,0,1,1,1,1,0,1,0
+929,An enhanced hot reload library with no similar projects,535,True,False,,2019-11-06T12:36:37Z,0,1,1,1,8,1,9,0
+926,Added HashLib4Python,284,True,False,,2019-11-06T12:36:36Z,0,2,3,1,1,0,1,0
+922,Data Visualization > Mayavi: 3D visualization of scientific data in P…,0,True,False,,2019-11-06T12:36:35Z,0,1,1,1,1,0,1,0
+920,Added asynccli,836,True,False,,2019-11-06T12:36:34Z,0,2,2,1,1,0,1,0
+1062,Add usage-gui,1180,True,False,,2019-11-06T11:36:59Z,0,1,1,1,1,0,1,0
+1057,Add Security + Virgil Crypto Library and SDK,769,True,False,,2019-11-06T11:36:58Z,0,1,1,1,7,0,7,0
+1046,Add pip-compile-multi,662,True,False,,2019-11-06T11:36:57Z,0,1,1,1,1,0,1,0
+1038,Add PyCryptodome as Pycrypto replacement,284,True,False,,2019-11-06T11:36:56Z,0,1,1,1,2,0,2,0
+1041,Add Patchify,322,True,False,,2019-11-06T11:36:55Z,0,2,2,1,1,0,1,0
+1044,"Add lupin, a serialization/deserialization library",1178,True,False,,2019-11-06T11:36:54Z,0,2,2,1,1,0,1,0
+1025,Added curated python resources,324,True,False,,2019-11-06T11:36:53Z,0,1,1,1,1,0,1,0
+1031,Add Wallaroo to Frameworks and libraries for MapReduce,284,True,False,,2019-11-06T11:36:52Z,0,1,1,1,1,0,1,0
+1022,Add trafaret library,820,True,False,,2019-11-06T11:36:51Z,1,3,3,1,1,0,1,0
+1037,add packerlicious - packer template generation in python,1357,True,False,,2019-11-06T11:36:50Z,0,1,1,1,1,0,1,0
+1013,URL manipulation and metadata extraction projects added,576,True,False,,2019-11-06T11:36:49Z,0,2,2,1,3,0,3,0
+1019,django-antispam package,407,True,False,,2019-11-06T11:36:48Z,0,2,2,1,1,0,1,0
+1018,adding django-carrot to task queues,488,True,False,,2019-11-06T11:36:47Z,0,1,1,1,1,0,1,0
+1012,Added Community Curated Resources,284,True,False,,2019-11-06T11:36:46Z,0,1,1,1,1,0,1,0
+1005,Adding robot-blocks,686,True,False,,2019-11-06T11:36:45Z,0,1,1,1,1,0,1,0
+1011,Join Intelligent Algorithm & Logic Programming,416,True,False,,2019-11-06T11:36:44Z,0,1,3,1,23,0,23,0
+1008,Add modAL,7221,True,False,,2019-11-06T11:36:43Z,0,1,1,1,1,0,1,0
+1001,add PubDNS library,661,True,False,,2019-11-06T11:36:42Z,0,1,1,1,1,0,1,0
+1000,Add IMAPClient,472,True,False,,2019-11-06T11:36:41Z,0,2,3,1,1,0,1,0
+1003,Add Historio.gRPC service,350,True,False,,2019-11-06T11:36:40Z,0,1,1,1,1,0,1,0
+998,Add 'snake' vim plugin to the list,494,True,False,,2019-11-06T11:36:39Z,0,2,2,1,1,0,1,0
+994,Remove links to Python design patterns repository,2949,True,False,,2019-11-06T11:36:38Z,1,3,3,1,2,2,4,0
+996,Add 'deco' library,749,True,False,,2019-11-06T11:36:37Z,0,1,2,1,1,0,1,0
+991,Added python-socketio to the websocket section,393,True,False,,2019-11-06T11:36:36Z,0,1,1,1,1,0,1,0
+986,added the Serverless ramework to serverless frameworks section,1111,True,False,,2019-11-06T11:36:35Z,0,1,1,1,1,0,1,0
+989,Added tweepy,418,True,False,,2019-11-06T11:36:34Z,0,2,2,1,1,1,2,0
+987,added newspaper to web crawling,671,True,False,,2019-11-06T11:36:33Z,0,2,2,1,1,0,1,0
+1311,Added aioload test utility,532,True,False,,2019-11-06T06:36:42Z,0,1,2,1,1,0,1,0
+1124,Add Uplink to HTTP Section,872,True,False,,2019-11-06T10:36:58Z,0,1,1,1,1,0,1,0
+1126,Adding epdb to pdb-like Debugger,365,True,False,,2019-11-06T10:36:57Z,0,1,1,1,1,0,1,0
+1120,Add yaspin,1186,True,False,,2019-11-06T10:36:56Z,0,2,4,1,1,0,1,0
+1122,Add RESTful API / flask-rest-api,1295,True,False,,2019-11-06T10:36:55Z,0,1,1,1,1,0,1,0
+1123,Add ORM / NoSQL Databases / µMongo,799,True,False,,2019-11-06T10:36:54Z,0,1,1,1,1,0,1,0
+1121,Add aiochan,1169,True,False,,2019-11-06T10:36:53Z,0,1,1,1,1,0,1,0
+1118,Add python-nubia,399,True,False,,2019-11-06T10:36:52Z,0,1,1,1,1,0,1,0
+1115,add safrs,541,True,False,,2019-11-06T10:36:51Z,1,2,1,1,1,0,1,0
+1116,Added scientific library cctbx,127,True,False,,2019-11-06T10:36:50Z,1,2,1,1,1,0,1,0
+1114,added spurplus,764,True,False,,2019-11-06T10:36:49Z,1,2,1,1,1,0,1,0
+1110,Add CxFreeze to the build section,399,True,False,,2019-11-06T10:36:48Z,1,2,1,1,1,0,1,0
+1111,Add Snips NLU library in Natural Language Processing section,1680,True,False,,2019-11-06T10:36:47Z,1,2,1,1,1,0,1,0
+1113,added spur,414,True,False,,2019-11-06T10:36:46Z,1,2,1,1,1,0,1,0
+1108,Python Vim Plugins,385,True,False,,2019-11-06T10:36:45Z,1,2,1,1,2,0,2,0
+1104,Add Pyxel,739,True,False,,2019-11-06T10:36:44Z,0,1,1,1,2,0,2,0
+1103,add appkernel microservice framework,955,True,False,,2019-11-06T10:36:43Z,0,1,1,1,1,0,1,0
+1098,Remove abandoned code2flow & pycallgraph,321,True,False,,2019-11-06T10:36:42Z,0,2,4,1,2,2,4,0
+1096,Added arrow module for date and time segment,1295,True,False,,2019-11-06T10:36:41Z,0,1,1,1,1,0,1,0
+1095,TemPy added to Templating engines.,656,True,False,,2019-11-06T10:36:40Z,0,1,1,1,1,0,1,0
+1092,Gentoo Portage,861,True,False,,2019-11-06T10:36:39Z,0,1,1,1,1,0,1,0
+1085,Add telegram bot api,276,True,False,,2019-11-06T10:36:38Z,0,1,1,1,2,0,2,0
+1081,Add to everbug to Debugging Tools:Others,562,True,False,,2019-11-06T10:36:37Z,0,1,1,1,1,0,1,0
+1080,Add to anishot to misc,386,True,False,,2019-11-06T10:36:36Z,0,1,1,1,1,0,1,0
+1077,Add rtfd-cli in Command Line tools,323,True,False,,2019-11-06T10:36:35Z,0,1,1,1,2,1,3,0
+1070,Please add Lomond to the WebSocket section,935,True,False,,2019-11-06T10:36:34Z,0,1,1,1,1,0,1,0
+1065,Add link to the awesome list of python models.,437,True,False,,2019-11-06T10:36:33Z,0,1,1,1,1,0,1,0
+1130,"Added Lark, a popular parsing library",602,True,False,,2019-11-06T09:36:39Z,0,1,2,1,1,0,1,0
+1177,Add mechanize to GUI/Web Testing.,548,True,False,,2019-11-06T09:36:57Z,0,1,1,1,1,0,1,0
+1173,"fixing links for talkbox, shuup, pysdl2, joblib, and openpyxl",61,True,False,,2019-11-06T09:36:56Z,1,2,3,1,8,4,12,0
+1166,OPEM added,1337,True,False,,2019-11-06T09:36:55Z,0,1,1,1,1,0,1,0
+1160,Add discord.py,495,True,False,,2019-11-06T09:36:54Z,0,2,2,1,1,0,1,0
+1157,Add the pg8000 pure Python PostgresQL Driver,863,True,False,,2019-11-06T09:36:53Z,0,1,1,1,1,0,1,0
+1156,add Requestium,1271,True,False,,2019-11-06T09:36:52Z,0,1,1,1,1,0,1,0
+1155,updated GUI list,57,True,False,,2019-11-06T09:36:51Z,0,1,1,1,2,1,3,0
+1150,Add molten in Web Frameworks. ,455,True,False,,2019-11-06T09:36:50Z,0,1,1,1,1,0,1,0
+1151,Added r2pipe to the list of libraries.,644,True,False,,2019-11-06T09:36:49Z,0,1,1,1,1,0,1,0
+1153,Added num2words to Miscellaneous,514,True,False,,2019-11-06T09:36:48Z,0,1,2,1,4,0,4,0
+1152,Added programiz.com as a resource website,1014,True,False,,2019-11-06T09:36:47Z,0,1,1,1,1,0,1,0
+1145,Add Authlib,401,True,False,,2019-11-06T09:36:46Z,0,1,1,1,1,0,1,0
+1147,Add a python library to extract data from pdf invoices,679,True,False,,2019-11-06T09:36:45Z,0,1,1,1,1,0,1,0
+1140,Add betamax,653,True,False,,2019-11-06T09:36:44Z,0,1,1,1,1,0,1,0
+1138,Add pytest-cov plugin,798,True,False,,2019-11-06T09:36:43Z,0,1,1,1,1,0,1,0
+1139,Add kubernetes client library,426,True,False,,2019-11-06T09:36:42Z,0,1,1,1,1,0,1,0
+1144,Add pyfield,329,True,False,,2019-11-06T09:36:40Z,0,1,1,1,1,0,1,0
+1132,"Add ""dynaconf"" to ""Configuration"" section",763,True,False,,2019-11-06T09:36:38Z,0,1,1,1,1,0,1,0
+1133,adding aiohttp,429,True,False,,2019-11-06T09:36:37Z,0,1,1,1,1,0,1,0
+1131,add to GUI: remi - a remote interface,608,True,False,,2019-11-06T09:36:36Z,0,1,1,1,1,0,1,0
+1129,PyYAML-tags library,456,True,False,,2019-11-06T09:36:35Z,0,1,1,1,1,0,1,0
+1128,Add Bottle to Web Frameworks section,906,True,False,,2019-11-06T09:36:34Z,0,2,3,1,1,0,1,0
+1127,Add Wallaroo to Cluster Computing,1080,True,False,,2019-11-06T09:36:33Z,0,1,1,1,1,0,1,0
+1235,Add Peter Norvig's Pytudes.,858,True,False,,2019-11-06T08:37:00Z,0,1,1,1,1,0,1,0
+1237,Buildbot added to Build Tools,284,True,False,,2019-11-06T08:36:59Z,0,1,1,1,1,0,1,0
+1229,Add Tortoise ORM,0,True,False,,2019-11-06T08:36:58Z,0,1,1,1,1,0,1,0
+1227,adds django crm,643,True,False,,2019-11-06T08:36:57Z,0,2,2,1,5,0,5,0
+1230,Adds DJ-Models (Pluggable Django ORM),657,True,False,,2019-11-06T08:36:56Z,0,1,1,1,1,0,1,0
+1222,Add python-postfinance,608,True,False,,2019-11-06T08:36:55Z,0,1,1,1,1,0,1,0
+1223,"Added PRAW to ""Third Party API"" section",476,True,False,,2019-11-06T08:36:54Z,0,1,1,1,1,0,1,0
+1226,"Added FunctionShield, a free security protection library for serverless applications",690,True,False,,2019-11-06T08:36:53Z,0,1,1,1,95,93,188,0
+1214,Add Python-Chess to Game Development list,284,True,False,,2019-11-06T08:36:52Z,0,1,1,1,1,0,1,0
+1217,Add xarray,1735,True,False,,2019-11-06T08:36:51Z,0,1,1,1,2,0,2,0
+1208,add pdfrw,604,True,False,,2019-11-06T08:36:50Z,0,1,1,1,1,0,1,0
+1197,Add dev.to Python tag,112,True,False,,2019-11-06T08:36:48Z,0,1,1,1,1,0,1,0
+1195,Merge pull request #1 from vinta/master,328,True,False,,2019-11-06T08:36:47Z,0,1,1,0,0,0,0,0
+1201,python-rrdtool,344,True,False,,2019-11-06T08:36:46Z,0,2,1,1,1,0,1,0
+1199,Add bottle framework,20,True,False,,2019-11-06T08:36:45Z,0,2,2,1,1,0,1,0
+1196,Add a fancy data visualization library,350,True,False,,2019-11-06T08:36:44Z,0,1,1,1,1,0,1,0
+1186,add awesome erp project,316,True,False,,2019-11-06T08:36:43Z,0,1,1,1,8,0,8,0
+1190,Add Featuretools,993,True,False,,2019-11-06T08:36:41Z,0,1,1,1,1,0,1,0
+1192,Add python-firebase,328,True,False,,2019-11-06T08:36:40Z,0,1,1,1,1,0,1,0
+1185,Added yattag to libraries for working with HTTP,651,True,False,,2019-11-06T08:36:39Z,0,1,1,1,2,0,2,0
+1179,Add pymdptoolbox to Science.,712,True,False,,2019-11-06T08:36:38Z,0,1,1,1,1,0,1,0
+1181,Patch 1,909,True,False,,2019-11-06T08:36:37Z,0,1,1,1,1,0,1,0
+1184,Add asyncpg - async PostgreSQL client library,741,True,False,,2019-11-06T08:36:36Z,0,1,1,1,1,0,1,0
+1180,Add roslibpy to robotics,915,True,False,,2019-11-06T08:36:35Z,0,1,1,1,1,0,1,0
+1171,Added Boto3 for Sending Email in Email Section,607,True,False,,2019-11-06T08:36:34Z,0,2,2,1,1,0,1,0
+1298,Add ERPNext,522,True,False,,2019-11-06T07:36:55Z,0,1,1,1,7,0,7,0
+1292,add pycro,2175,True,False,,2019-11-06T07:36:54Z,0,1,1,1,1,0,1,0
+1287,Add folium: map visualization,751,True,False,,2019-11-06T07:36:53Z,0,2,2,1,2,1,3,0
+1294,Add ezdxf,995,True,False,,2019-11-06T07:36:52Z,0,1,1,1,3,1,4,0
+1286,Consider adding TemplateMail,1005,True,False,,2019-11-06T07:36:51Z,0,1,1,1,1,0,1,0
+1282,adding parse_it,572,True,False,,2019-11-06T07:36:50Z,0,1,1,1,1,0,1,0
+1273,Add dfply,578,True,False,,2019-11-06T07:36:49Z,0,1,1,1,1,0,1,0
+1277,Added Plotly.py to Data Visualizations,773,True,False,,2019-11-06T07:36:48Z,0,1,1,1,1,0,1,0
+1275,Added book on Test Driven Development,822,True,False,,2019-11-06T07:36:47Z,0,1,1,1,1,0,1,0
+1272,Adding the Atlas toolkit to the GUI section.,1721,True,False,,2019-11-06T07:36:46Z,0,1,1,1,1,0,1,0
+1264,Add ScrapydWeb,1023,True,False,,2019-11-06T07:36:45Z,0,1,1,1,1,0,1,0
+1258,Add wikilink in Web Content Extracting section,360,True,False,,2019-11-06T07:36:44Z,0,1,1,1,1,0,1,0
+1259,Add recommender into Recommender Systems section,391,True,False,,2019-11-06T07:36:43Z,0,1,1,1,1,0,1,0
+1260,add datedelta,781,True,False,,2019-11-06T07:36:42Z,0,1,1,1,2,1,3,0
+1249,Add jsons to serialization,672,True,False,,2019-11-06T07:36:41Z,0,1,1,1,1,0,1,0
+1243,Added ludwig to Deep Learning,941,True,False,,2019-11-06T07:36:40Z,0,2,2,1,1,0,1,0
+1251,Add Jet Admin,1341,True,False,,2019-11-06T07:36:39Z,0,1,1,1,1,0,1,0
+1244,Add area4,353,True,False,,2019-11-06T07:36:38Z,0,1,1,1,3,1,4,0
+1241,Adds Arrow to Date and Time section.,760,True,False,,2019-11-06T07:36:37Z,0,2,2,1,1,0,1,0
+1238,Adding cattrs serializer.,409,True,False,,2019-11-06T07:36:36Z,0,1,1,1,1,0,1,0
+1242,Added RESTPie3 REST API Server,1222,True,False,,2019-11-06T07:36:35Z,0,1,1,1,1,0,1,0
+1239,Adding addict extension.,410,True,False,,2019-11-06T07:36:34Z,0,1,1,1,1,0,1,0
+1236,Viewflow - Workflow librery added,816,True,False,,2019-11-06T07:36:33Z,0,1,1,1,1,0,1,0
+1338,Add auton project to README.md,284,True,False,,2019-11-06T06:36:53Z,0,1,1,1,1,0,1,0
+1212,Added PySide2,504,True,False,,2019-11-06T06:36:52Z,0,1,3,1,3,1,4,0
+1334,feat():Add new web framework:Bottle,284,True,False,,2019-11-06T06:36:51Z,0,1,1,1,1,0,1,0
+1327,Add MSS,874,True,False,,2019-11-06T06:36:50Z,0,1,1,1,1,0,1,0
+1325,Add python-codicefiscale,787,True,False,,2019-11-06T06:36:49Z,0,1,1,1,1,0,1,0
+1322,Add django-admin-interface,1092,True,False,,2019-11-06T06:36:48Z,0,1,1,1,1,0,1,0
+1323,Add django-maintenance-mode,711,True,False,,2019-11-06T06:36:47Z,0,1,1,1,1,0,1,0
+1319,Update README.md,21,True,False,,2019-11-06T06:36:46Z,0,1,1,1,1,1,2,0
+1318,Activating Open Collective,987,True,False,,2019-11-06T06:36:45Z,0,1,1,1,31,1,32,0
+1053,Add pipenv ,628,True,False,,2019-11-06T06:36:44Z,0,4,8,1,1,0,1,0
+1316,Add begins,1038,True,False,,2019-11-06T06:36:43Z,0,2,3,1,1,0,1,0
+1310,Add Prophet framework to Machine Learning,461,True,False,,2019-11-06T06:36:41Z,0,1,1,1,2,0,2,0
+1308,Add Python Dev Bookmarks to Websites,316,True,False,,2019-11-06T06:36:40Z,0,1,1,1,1,0,1,0
+1304,Add Polyaxon to the ML section,615,True,False,,2019-11-06T06:36:38Z,0,1,1,1,1,0,1,0
+1302,Add Prodmodel,712,True,False,,2019-11-06T06:36:37Z,0,1,1,1,1,0,1,0
+1300,Add FastAPI framework to README.md,1409,True,False,,2019-11-06T06:36:36Z,0,1,1,1,2,0,2,0
+1295,Add maildown,518,True,False,,2019-11-06T06:36:35Z,0,1,1,1,1,0,1,0
+1299,Update README.md,622,True,False,,2019-11-06T06:36:34Z,0,1,1,1,4,0,4,0
+1296,Add PySnooper,407,True,False,,2019-11-06T06:36:33Z,0,1,1,1,1,0,1,0
+677,Added Computer vision library Mahotas,331,True,False,,2019-11-06T03:32:08Z,0,1,1,1,1,0,1,0
+795,Add ntfy,476,True,False,,2019-11-04T20:46:59Z,0,2,2,1,1,0,1,0
+738,Added neo4j-driver in awesome,0,True,False,,2019-11-04T17:46:11Z,0,1,1,1,1,0,1,0
+1078,add Data Visualization library: plotly.py,69,True,False,,2019-11-04T11:15:19Z,0,3,3,1,1,0,1,0
+1261,Add async-sender,394,True,False,,2019-11-02T19:48:50Z,0,1,1,1,1,0,1,0
+900,Django Auditlog App,638,True,False,,2019-11-01T18:27:01Z,0,3,3,1,8,0,8,0
+1159,Add goatools to science category,535,True,False,,2019-10-31T22:08:04Z,0,1,1,1,1,0,1,0
+717,Adding NetAddr and Pyodbc,1080,True,False,,2019-10-31T20:04:50Z,0,1,1,1,2,0,2,0
+600,Add https://automatetheboringstuff.com,545,True,False,,2019-10-31T14:41:08Z,0,1,2,1,1,0,1,0
+1148,Add plotnine,450,True,False,,2019-10-31T08:46:00Z,0,2,2,1,1,0,1,0
+581,add dpkt,132,True,False,,2019-10-31T04:48:21Z,0,1,2,1,2,0,2,0
+852,Add SideCI,573,True,False,,2019-10-31T01:50:17Z,0,1,1,1,1,0,1,0
+974,Added Pipeline.py,737,True,False,,2019-10-30T19:31:32Z,0,1,1,1,1,0,1,0
+973,Added RichConsole.py,564,True,False,,2019-10-30T19:30:32Z,0,1,1,1,1,0,1,0
+734,Add awesome-wagtail list,291,True,False,,2019-10-30T19:29:28Z,0,1,2,1,1,0,1,0
+800,Updated Ajenti repo in README.md,63,True,False,,2019-10-30T19:18:22Z,0,1,1,1,1,1,2,0
+760,Adding pyflakes to code analysis and linter section,950,True,False,,2019-10-30T19:18:14Z,0,1,1,1,1,0,1,0
+842,"Added PythonBuddy to ""Editor Plugins and IDEs""",932,True,False,,2019-10-30T17:14:36Z,0,1,1,1,3,0,3,0
+981,Adds Pygmy pure Python URL shortener in URL manipulation section,1580,True,False,,2019-10-30T12:56:49Z,0,1,1,1,1,0,1,0
+1321,Added pdoc3 python documentation generator,308,True,False,,2019-10-30T08:08:48Z,0,2,2,1,1,0,1,0
+1401,adding pythonic news,129,True,False,,2019-10-26T16:22:34Z,0,2,2,1,1,0,1,0
+1402,Added BeautifulSoup to web-crawling sectionh ,601,True,False,,2019-10-25T16:24:17Z,0,2,1,1,1,0,1,0
+1403,Fixed typo,0,True,True,2019-10-25T16:23:02Z,2019-10-25T16:23:02Z,0,2,0,1,3,3,6,23255.0
+1394,README.md Updated,353,True,False,,2019-10-24T18:34:21Z,2,3,2,1,1,0,1,0
+1395,Fix requests url,68,True,True,2019-10-19T17:16:32Z,2019-10-19T17:16:32Z,0,2,0,1,1,1,2,406.0
+1386,removed Resource > Website > Python Hackers due to dead link (status …,79,True,True,2019-10-17T14:51:26Z,2019-10-17T14:51:26Z,0,2,0,1,0,1,1,582943.0
+1385,Add jet-bridge,948,True,True,2019-10-17T14:50:50Z,2019-10-17T14:50:50Z,0,6,4,1,1,0,1,688950.0
+1303,Add Python & Algorithms Project,412,True,False,,2019-10-09T20:05:44Z,0,1,0,1,94,92,186,0
+1382,add cache-alchemy,296,True,False,,2019-10-08T06:00:42Z,0,1,0,1,1,0,1,0
+1372,Add Arrow,305,True,False,,2019-10-05T09:26:08Z,0,1,0,1,1,0,1,0
+1370,Update README.md,1212,True,False,,2019-10-04T19:29:15Z,0,1,0,1,1,0,1,0
+1348,Adds wemake-python-styleguide,471,True,True,2019-10-03T16:11:47Z,2019-10-03T16:11:47Z,0,3,3,1,1,0,1,2089261.0
+1218,Add awe framework,929,True,False,,2019-09-18T07:10:16Z,0,1,0,1,1,0,1,0
+1349,Adds awesome-python-typing link,381,True,True,2019-09-16T03:31:51Z,2019-09-16T03:31:51Z,0,2,0,1,1,1,2,395238.0
+1344,Add ML Workspace,925,True,False,,2019-09-05T11:51:10Z,0,1,1,1,2,0,2,0
+1337,Add awesome-flake8-extensions,255,True,True,2019-09-03T06:11:36Z,2019-09-03T06:11:36Z,0,2,0,1,1,0,1,681542.0
+1339,Hotfix/grammar fix,266,True,True,2019-09-03T06:10:53Z,2019-09-03T06:10:53Z,2,4,0,1,2,2,4,405161.0
+723,"Added ""church"" to Testing",418,True,True,2016-09-28T20:20:22Z,2016-09-28T20:20:22Z,0,3,12,1,1,0,1,1307596.0
+1331,Minor code fix,284,True,True,2019-08-08T10:11:27Z,2019-08-08T10:11:27Z,0,2,0,1,5,3,8,16820.0
+1330,Replace ggpy with plotnine,101,True,True,2019-08-07T15:37:51Z,2019-08-07T15:37:51Z,4,3,0,1,1,1,2,19550.0
+1314,Add python-codicefiscale,787,True,False,,2019-07-25T12:33:01Z,2,2,2,1,2,0,2,0
+666,add pyuv,688,True,False,,2019-07-17T22:05:17Z,0,2,2,1,1,0,1,0
+1293,Add tqdm,670,True,False,,2019-05-27T12:31:18Z,0,2,3,1,1,0,1,0
+1143,Database comes before database driver,17,True,True,2019-05-25T06:02:43Z,2019-05-25T06:02:43Z,0,2,0,1,1,1,2,20233653.0
+1141,Add black code formatter,597,True,False,,2019-05-25T13:20:16Z,0,2,1,1,1,0,1,0
+1297,Fix plurality in the CLI apps description.,22,True,True,2019-05-27T11:56:40Z,2019-05-27T11:56:41Z,0,2,1,1,1,1,2,9486.0
+662,Add tqdm,277,True,False,,2019-05-27T12:31:18Z,0,5,8,1,1,0,1,0
+1136,Update README.md,284,True,False,,2019-05-25T09:56:53Z,0,2,0,1,1,1,2,0
+1137,Update README.md,284,True,False,,2019-05-25T09:56:35Z,0,2,0,1,1,1,2,0
+1161,Update README.md,315,True,False,,2019-05-25T09:56:13Z,0,2,0,1,1,0,1,0
+1162,Update README.md,284,True,False,,2019-05-25T09:55:53Z,0,2,0,1,1,1,2,0
+1193,Update README.md,29,True,False,,2019-05-25T09:55:17Z,0,2,0,1,1,1,2,0
+557,"CONTRIBUTING.md - Don't add your own, wait for it",0,True,False,,2019-05-25T09:53:22Z,0,3,1,1,1,0,1,0
+730,Update README.md,312,True,False,,2019-05-25T09:49:45Z,0,2,1,1,70,70,140,0
+762,Update README.md,284,True,False,,2019-05-25T09:49:17Z,0,2,0,1,1,1,2,0
+887,Add django-jet the list of Admin Panels,0,True,False,,2019-05-25T09:46:39Z,0,2,1,1,3,1,4,0
+950,Updated README.md,338,True,True,2019-05-25T09:44:05Z,2019-05-25T09:44:05Z,0,2,0,1,4,1,5,51154675.0
+1028,Adds Masonite Python framework to Web Frameworks,1057,True,True,2019-05-25T09:42:43Z,2019-05-25T09:42:43Z,0,2,2,1,1,0,1,39334521.0
+1056,Update README.md,66,True,False,,2019-05-25T09:41:45Z,0,3,3,1,1,0,1,0
+1134,Update README.md,284,True,False,,2019-05-25T09:40:40Z,0,2,0,1,1,1,2,0
+1135,Update README.md,284,True,False,,2019-05-25T09:40:10Z,1,3,0,1,1,0,1,0
+1176,"Add the ""Test and Code"" podcast.",411,True,True,2019-05-25T09:39:10Z,2019-05-25T09:39:10Z,0,2,0,1,1,0,1,18201173.0
+1187,Update sort.py,338,True,False,,2019-05-25T09:38:23Z,0,2,0,1,2,0,2,0
+1216,Added link to Python-for-Scientists,275,True,False,,2019-05-25T09:38:06Z,1,2,1,1,1,0,1,0
+1253,Add pythoncheatsheet.org to Websites,613,True,False,,2019-05-25T09:33:12Z,0,1,0,1,93,92,185,0
+1255,Guide to Django E-Commerce,474,True,False,,2019-05-25T09:28:23Z,0,2,1,1,4,0,4,0
+1290,Added micropython to hardware section,303,True,False,,2019-05-25T09:23:59Z,0,2,1,1,1,0,1,0
+1071,Updating the link to Stackless Python repo,456,True,False,,2019-05-25T06:06:13Z,0,2,1,1,1,1,2,0
+1163,Fix some broken links,46,True,False,,2019-05-25T06:01:57Z,0,2,1,1,5,5,10,0
+1164,Create new_file.md,284,True,False,,2019-05-25T06:00:01Z,0,2,0,1,1,0,1,0
+1165,Create new_file.md,284,True,False,,2019-05-25T05:59:53Z,0,2,0,1,1,0,1,0
+1219,added .idea & .vscode to gitignore,284,True,False,,2019-05-25T05:59:07Z,0,4,2,1,2,0,2,0
+1263,Python Programmers Community in Russia [Website],430,True,True,2019-05-18T11:39:01Z,2019-05-18T11:39:01Z,0,2,3,1,1,0,1,5080672.0
+927,Add Qt awesome list,376,True,False,,2019-05-09T00:10:00Z,0,2,3,1,1,0,1,0
+1288,Update .gitignore,284,True,False,,2019-05-07T13:29:37Z,0,1,0,1,1,1,2,0
+779,Add django-th (trigger happy),688,True,False,,2019-05-02T16:46:41Z,3,3,1,1,7,0,7,0
+741,Adding sched module,620,True,False,,2019-05-01T22:44:43Z,0,2,1,1,1,0,1,0
+1083,Add easylogging lib,66,True,False,,2019-04-29T18:52:43Z,0,1,0,1,1,0,1,0
+1174,Add Cloudsmith (a PyPi-compatible service),1186,True,False,,2019-04-27T08:52:53Z,0,1,0,1,1,0,1,0
+1280,addking dask for issue #1279 from issues in awesome-python,425,True,False,,2019-04-22T03:19:48Z,0,2,1,1,2,0,2,0
+1016,Add pdir2 - library for dir() pretty printing,417,True,False,,2019-04-18T17:19:36Z,0,1,0,1,1,0,1,0
+1234,Added Data Science with Python,94,True,False,,2019-04-12T11:51:48Z,0,1,0,1,1,0,1,0
+1269,Added django-bootstrap4 to Forms section,370,True,True,2019-04-04T10:32:01Z,2019-04-04T10:32:01Z,0,2,0,1,1,0,1,74551.0
+1268,awesome-django old link is down,473,True,True,2019-04-03T05:37:21Z,2019-04-03T05:37:21Z,0,2,0,1,1,1,2,77102.0
+778,Apache Airflow,444,True,False,,2019-03-30T14:18:41Z,0,4,3,1,1,0,1,0
+1262,Fix package repositories md link format,166,True,True,2019-03-23T18:29:08Z,2019-03-23T18:29:08Z,0,2,0,1,1,1,2,334543.0
+1254,Added RESTEasyCLI,1156,True,False,,2019-03-16T09:55:28Z,0,1,0,1,1,0,1,0
+1250,CSS Changes,50,True,True,2019-03-03T10:48:32Z,2019-03-03T10:48:32Z,0,3,1,2,7,38,45,7932.0
+1247,Update .travis.yml for automatic deployment,169,True,True,2019-03-02T15:09:07Z,2019-03-02T15:09:07Z,0,2,3,2,19,10,29,281139.0
+1170,Add Ray to Cluster computing,1052,True,True,2019-02-18T04:21:43Z,2019-02-18T04:21:43Z,0,5,3,1,1,0,1,10223356.0
+1100,Added PySimpleGUI,1115,True,True,2018-10-21T03:25:01Z,2018-10-21T03:25:01Z,0,2,4,1,1,0,1,6767036.0
+1220,Updated PySimpleGUI info (this project was previously merged),403,True,True,2019-02-11T17:53:16Z,2019-02-11T17:53:16Z,0,2,0,1,1,1,2,1380360.0
+831,Adding Harfang3D to Game development section,1604,True,True,2019-02-11T17:51:50Z,2019-02-11T17:51:50Z,0,2,0,1,1,0,1,63454674.0
+1225,Add StanfordNLP,331,True,True,2019-02-03T06:59:58Z,2019-02-03T06:59:58Z,1,3,0,1,1,0,1,38182.0
+1221,Add Apache Airflow,1656,True,True,2019-01-28T08:15:05Z,2019-01-28T08:15:05Z,0,2,0,1,2,0,2,105.0
+848,Added Jasper to Testing Frameworks section,967,True,False,,2019-01-27T17:04:08Z,0,1,0,1,1,0,1,0
+1210,Fixed PySDL2 URL.,10,True,True,2019-01-22T03:24:39Z,2019-01-22T03:24:39Z,0,3,1,1,1,1,2,1965683.0
+556,Add urlobject library,0,True,False,,2019-01-21T21:18:10Z,0,2,3,1,1,0,1,0
+1213,Added a visualisation of code evolution,40,True,False,,2019-01-11T11:27:58Z,0,2,1,1,9,0,9,0
+1048,Add opencollect,480,True,False,,2019-01-09T06:42:37Z,0,1,0,1,1,0,1,0
+562,Add Watson CLI (in productivity tools),50,True,False,,2018-12-21T08:16:36Z,0,1,1,1,1,0,1,0
+1189,Fix broken URL for ConfigObj library,91,True,True,2018-11-02T02:58:37Z,2018-11-02T02:58:37Z,0,2,0,1,1,1,2,9768.0
+1087,add dramatiq,398,True,False,,2018-12-02T09:06:45Z,0,1,0,1,1,0,1,0
+313,Add Pypsi,155,True,False,,2017-01-07T06:16:03Z,0,3,1,1,1,0,1,0
+1182,Updated to the (new) github link,0,True,True,2018-10-28T06:22:55Z,2018-10-28T06:22:55Z,0,2,0,1,1,1,2,36951.0
+1172,[#1168] fix broken link,34,True,True,2018-10-23T04:06:15Z,2018-10-23T04:06:15Z,0,2,0,1,1,1,2,18664.0
+1169,Fix pyparsing link,104,True,True,2018-10-22T03:49:42Z,2018-10-22T03:49:43Z,0,2,0,1,1,1,2,52346.0
+911,Pyoko ORM added,342,True,False,,2018-10-20T08:45:12Z,0,1,1,1,1,0,1,0
+1125,Added robotics section,878,True,True,2018-10-16T17:23:57Z,2018-10-16T17:23:57Z,0,2,0,1,8,0,8,2578538.0
+944,add Parallel Python,541,True,False,,2018-10-13T06:43:05Z,0,1,0,1,1,0,1,0
+701,Added Database Migration section,69,True,False,,2018-10-12T10:48:24Z,0,1,0,1,11,0,11,0
+675,2016-07-01,616,True,False,,2018-09-17T15:23:09Z,0,1,0,1,1,0,1,0
+827,Adds Coconut,804,True,True,2018-09-10T04:50:20Z,2018-09-10T04:50:20Z,0,4,3,1,1,0,1,50705227.0
+1106,"nit: remove hyphen in ""python-fire""",284,True,True,2018-09-03T16:58:34Z,2018-09-03T16:58:34Z,0,2,0,1,1,1,2,1640331.0
+830,add Chainer,326,True,False,,2018-08-09T06:49:05Z,0,1,0,1,1,0,1,0
+1086,Update Passlib hyperlink in README.md,34,True,True,2018-08-04T10:49:41Z,2018-08-04T10:49:41Z,0,2,0,1,1,1,2,3481061.0
+1099,"added Vibora, fast, efficient and asynchronous Web framework",912,True,True,2018-08-02T16:31:36Z,2018-08-02T16:31:36Z,0,3,1,1,1,0,1,34647.0
+1029,Add Using Python to Websites section,177,True,False,,2018-07-11T21:45:53Z,0,1,0,1,1,0,1,0
+1020,Add authenticatorpy to the list.,471,True,False,,2018-07-11T12:41:54Z,0,1,0,1,1,0,1,0
+1032,Add IceCream to Debugging Tools/Other.,1086,True,True,2018-07-05T06:39:49Z,2018-07-05T06:39:49Z,0,2,0,1,1,0,1,10290063.0
+1090,add H2O to machine learning section,775,True,True,2018-07-05T06:38:01Z,2018-07-05T06:38:01Z,0,2,0,1,1,0,1,1232.0
+667,Add Windows environment setup link,223,True,False,,2018-07-05T03:04:08Z,0,1,0,1,1,0,1,0
+965,add dramatiq,398,True,False,,2018-06-25T05:31:18Z,0,1,0,1,1,0,1,0
+1075,Add Real Python to Resources section,659,True,True,2018-06-05T16:44:49Z,2018-06-05T16:44:49Z,0,3,1,1,3,0,3,217074.0
+1076,Update algorithms project,138,True,True,2018-06-06T15:49:10Z,2018-06-06T15:49:10Z,0,2,0,1,1,1,2,13604.0
+1072,Add Pyre,343,True,True,2018-05-26T08:01:52Z,2018-05-26T08:01:52Z,0,2,0,1,1,0,1,85283.0
+1068,add Python for Social Good list,847,True,True,2018-05-04T15:47:36Z,2018-05-04T15:47:36Z,0,2,0,1,1,0,1,7785.0
+1067,Update README.md - added QuTiP library in science section,417,True,True,2018-05-04T09:17:12Z,2018-05-04T09:17:12Z,0,2,0,1,1,0,1,1288.0
+1063,Update README.md Grammar,348,True,True,2018-04-30T03:52:28Z,2018-04-30T03:52:28Z,0,2,1,1,7,7,14,406.0
+854,Fix python-mode url,46,True,False,,2018-04-26T15:01:25Z,1,1,0,1,1,1,2,0
+1060,Add TextDistance,386,True,True,2018-04-24T17:02:56Z,2018-04-24T17:02:56Z,0,2,0,1,1,0,1,34875.0
+1061,Added Entry to Recommender System,402,True,True,2018-04-24T17:02:12Z,2018-04-24T17:02:12Z,0,2,0,1,1,0,1,5098.0
+1059,Improve web crawler section,453,True,True,2018-04-23T03:48:40Z,2018-04-23T03:48:40Z,0,2,1,1,3,3,6,22999.0
+1050,Add Optimus to Data Analysis section,722,True,True,2018-04-10T03:59:14Z,2018-04-10T03:59:14Z,0,2,1,1,1,0,1,18970.0
+1049,Add PyTorch-NLP,930,True,True,2018-04-10T03:59:52Z,2018-04-10T03:59:52Z,0,3,2,1,1,0,1,54108.0
+1043,Add link to awesome-jupyter in Interactive Interpreter section,699,True,True,2018-04-05T17:49:57Z,2018-04-05T17:49:57Z,3,2,1,1,1,0,1,11606.0
+596,Add django-mock-queries to README Mock section,531,True,False,,2018-04-02T14:58:47Z,0,1,0,1,1,0,1,0
+1039,Update python version for standard libraries,0,True,True,2018-03-26T16:42:56Z,2018-03-26T16:42:56Z,0,2,0,1,14,14,28,12084.0
+967,Add deoplete-jedi as autocomplete source for vim,226,True,False,,2018-03-21T13:55:50Z,0,1,0,1,1,0,1,0
+1036,pipelinedb is not implemented in Python -> removing,0,True,True,2018-03-19T03:29:50Z,2018-03-19T03:29:50Z,0,2,0,1,0,1,1,36894.0
+1035,Added Scoop,765,True,True,2018-03-17T08:51:50Z,2018-03-17T08:51:50Z,0,2,0,1,1,0,1,49708.0
+1030,Add Pyflame,663,True,True,2018-03-02T18:54:26Z,2018-03-02T18:54:26Z,0,2,0,1,1,0,1,4478.0
+983,"Add ""Colour"".",7759,True,True,2018-02-15T07:04:32Z,2018-02-15T07:04:32Z,0,9,8,1,1,0,1,6467312.0
+1023,Add python-pptx to Awesome List!,754,True,True,2018-02-15T05:03:02Z,2018-02-15T05:03:02Z,0,2,0,1,1,0,1,6700.0
+1017,"Spelling of ""compiler""",31,True,True,2018-02-06T15:48:18Z,2018-02-06T15:48:18Z,0,2,0,1,1,1,2,76314.0
+980,Add Dash - web app framework,761,True,True,2018-02-01T16:10:05Z,2018-02-01T16:10:05Z,0,2,2,1,2,0,2,5981772.0
+956,Adding Mocket,1219,True,True,2018-01-30T17:50:33Z,2018-01-30T17:50:33Z,0,2,1,1,1,0,1,9103191.0
+1014,API for every website,335,True,True,2018-01-23T16:15:04Z,2018-01-23T16:15:04Z,0,2,0,1,1,0,1,21932.0
+1010,Added MonkeyType to 'Code Analysis and Linter',760,True,True,2018-01-19T17:14:01Z,2018-01-19T17:14:01Z,0,2,0,1,2,0,2,27386.0
+1007,Added awesomo to list of lists,374,True,True,2018-01-17T11:48:31Z,2018-01-17T11:48:31Z,0,2,0,1,1,0,1,585889.0
+763,Added pdb++,694,True,False,,2018-01-17T11:52:22Z,0,2,1,0,0,0,0,0
+1006,Add Eel to GUI section,455,True,True,2018-01-17T11:49:52Z,2018-01-17T11:49:52Z,0,2,0,1,1,0,1,607028.0
+1004,Add apistar framework to web-framework section,879,True,False,,2018-01-07T15:44:45Z,0,2,1,1,1,0,1,0
+999,Remove trailing whitespace,285,True,True,2018-01-02T14:19:01Z,2018-01-02T14:19:01Z,0,3,0,1,1,1,2,21276.0
+995,Updated Date and Time to add Maya,617,True,True,2018-01-01T10:14:37Z,2018-01-01T10:14:37Z,0,3,2,1,1,0,1,114819.0
+957,Added Serpent.AI,1265,True,True,2017-12-29T03:14:34Z,2017-12-29T03:14:34Z,0,2,1,1,1,0,1,6258502.0
+988,Fixed link and description for Sentry.,318,True,True,2017-12-18T06:34:56Z,2017-12-18T06:34:56Z,0,3,1,1,1,1,2,9313.0
+948,Adds Dopyter,430,True,False,,2017-12-12T09:48:45Z,0,1,0,1,1,0,1,0
+985,Fixed URL for pyparser,169,True,True,2017-12-11T17:17:19Z,2017-12-11T17:17:19Z,0,2,0,1,1,1,2,4029.0
+645,add python-ldap and captcha,164,True,False,,2017-12-11T01:58:24Z,0,1,0,1,2,0,2,0
+620,Add PyPrinter to the Text Processing section,491,True,False,,2017-12-05T21:38:11Z,0,1,0,1,3,2,5,0
+946,Adding bqplot to the data visualization section,578,True,True,2017-11-30T17:41:45Z,2017-11-30T17:41:45Z,0,2,2,1,1,0,1,4919887.0
+979,Improved Podcasts info,338,True,True,2017-11-22T17:53:39Z,2017-11-22T17:53:39Z,0,2,0,1,4,0,4,17726.0
+978,Add Saleor to e-commerce section,417,True,True,2017-11-20T16:51:19Z,2017-11-20T16:51:19Z,0,2,0,1,1,0,1,22777.0
+843,Add elasticpypi,544,True,False,,2017-11-17T14:31:22Z,0,1,0,1,1,0,1,0
+976,Add Django-channels to WebSocket section,447,True,True,2017-11-16T11:23:41Z,2017-11-16T11:23:41Z,0,2,0,1,1,0,1,254474.0
+975,Added plumbum,420,True,False,,2017-11-14T15:46:20Z,0,2,1,1,1,0,1,0
+969,Adds TensorRec,1039,True,True,2017-10-31T04:50:00Z,2017-10-31T04:50:00Z,0,2,0,1,1,0,1,31078.0
+968,Adding apistar in the REST APIs section,389,True,True,2017-10-27T19:51:56Z,2017-10-27T19:51:56Z,0,2,0,1,1,0,1,7897.0
+879,Add Dependency Injector,3155,True,False,,2017-10-19T21:34:37Z,0,1,1,1,1,0,1,0
+952,Added mypy and Static Type Checker section,592,True,True,2017-10-15T07:40:48Z,2017-10-15T07:40:48Z,0,2,0,1,2,0,2,55514.0
+694,Adding NAPALM,453,True,True,2017-10-01T16:22:05Z,2017-10-01T16:22:05Z,0,6,6,1,1,0,1,35620247.0
+942,Add tqdm,335,True,False,,2017-09-29T20:14:26Z,0,1,1,1,1,0,1,0
+938,"added ""keyboard"" and ""mouse"" by @boppreh to ""Hardware""",1565,True,True,2017-09-20T08:45:55Z,2017-09-20T08:45:55Z,0,2,0,1,2,0,2,8578.0
+602,adding MNE to science toolkits,586,True,False,,2017-09-17T00:47:24Z,0,1,0,1,1,0,1,0
+936,Add Dask to MapReduce Section,264,True,True,2017-09-15T14:15:59Z,2017-09-15T14:15:59Z,0,2,0,1,1,0,1,25538.0
+875,Add attrs,1430,True,True,2017-09-15T05:50:11Z,2017-09-15T05:50:11Z,0,5,3,1,1,0,1,13153860.0
+610,Added polyglot to NLP section,413,True,False,,2017-09-14T05:58:41Z,0,3,2,1,1,0,1,0
+933,Remove PySonar2,34,True,True,2017-09-13T05:05:39Z,2017-09-13T05:05:39Z,0,2,0,1,0,1,1,13163.0
+928,Re-add Cython to the list.,143,True,True,2017-09-09T15:58:30Z,2017-09-09T15:58:30Z,0,2,0,1,2,1,3,5215.0
+663,Add http-prompt,294,True,False,,2017-09-06T06:43:28Z,0,1,0,1,1,0,1,0
+921,Correct Authomatic URL,80,True,True,2017-08-30T17:11:40Z,2017-08-30T17:11:40Z,0,2,0,1,1,1,2,10331.0
+716,add family,550,True,False,,2017-08-22T06:30:39Z,0,1,1,1,1,0,1,0
+913,Bringing fork up to date,21,True,False,,2017-08-11T12:05:56Z,0,1,0,0,0,0,0,0
+912,Merge pull request #1 from vinta/master,309,True,False,,2017-08-11T12:00:09Z,0,1,1,0,0,0,0,0
+664,Adds VUI Section. Adds Flask-Ask to VUI.,796,True,False,,2017-08-10T00:31:15Z,0,1,0,1,7,0,7,0
+910,add pypinyin,341,True,True,2017-08-07T08:13:16Z,2017-08-07T08:13:16Z,0,2,0,1,1,0,1,146046.0
+816,Circle CI now fully supports BitBucket and multiple other alternatives.,94,True,False,,2017-07-29T03:38:39Z,0,0,0,1,1,1,2,0
+544,loxun - write large XML files,248,True,False,,2017-07-27T07:02:29Z,0,1,0,1,1,0,1,0
+905,"Update deprecated envoy -> delegator.py, stale link name church -> mimesis.",112,True,True,2017-07-24T06:05:19Z,2017-07-24T06:05:19Z,0,2,0,1,2,2,4,123527.0
+903,Update README URLs based on HTTP redirects,5183,True,True,2017-07-19T08:37:36Z,2017-07-19T08:37:36Z,0,2,1,1,70,70,140,57766.0
+857,add gdbgui,600,True,False,,2017-07-03T15:34:52Z,0,1,0,1,1,0,1,0
+604,Add slash to testing tools,474,True,False,,2017-06-27T09:01:12Z,0,1,0,1,1,0,1,0
+749,Adding Ninja-IDE,1027,True,False,,2017-06-08T15:09:03Z,0,2,3,1,1,0,1,0
+846,add link for pipenv in Environment Management,191,True,False,,2017-06-04T17:22:56Z,0,1,0,1,1,0,1,0
+688,Add fades to the list of environment managers,177,True,False,,2017-06-03T17:30:22Z,0,2,1,1,1,0,1,0
+601,Add Airbnb Caravel to data visualization libraries,383,True,False,,2017-05-15T10:28:17Z,0,5,5,1,1,0,1,0
+881,Added awesome pysolr library to Search section.,654,True,True,2017-05-03T13:46:07Z,2017-05-03T13:46:07Z,0,3,1,1,1,0,1,102725.0
+870,Adding ObsPy,867,True,True,2017-04-12T16:33:39Z,2017-04-12T16:33:39Z,0,3,3,1,1,0,1,14598.0
+880,Adding SimPy to the Science section,862,True,True,2017-04-25T06:21:11Z,2017-04-25T06:21:11Z,0,3,1,1,1,0,1,20062.0
+506,Add pdb++,116,True,False,,2017-01-07T06:18:26Z,0,2,0,1,1,0,1,0
+877,Added pyAudioAnalysis,188,True,True,2017-04-20T16:35:05Z,2017-04-20T16:35:05Z,0,2,0,1,1,0,1,2906.0
+876,Merge pull request #2 from vinta/master,24,True,False,,2017-04-20T08:02:07Z,0,1,0,0,0,0,0,0
+873,Update httplib2 link,143,True,True,2017-04-15T06:51:41Z,2017-04-15T06:51:42Z,0,2,0,1,1,1,2,29477.0
+546,Added Cx_Oracle to database drivers,0,True,False,,2017-04-12T16:48:04Z,0,2,2,1,2,0,2,0
+253,Added the cx_Oracle database driver,59,True,False,,2016-01-15T23:12:52Z,0,1,1,1,1,0,1,0
+810,Add pywebview,982,True,True,2017-04-06T14:40:37Z,2017-04-06T14:40:37Z,0,5,3,1,1,0,1,7517010.0
+747,add Sanic web server,545,True,True,2017-04-04T14:36:08Z,2017-04-04T14:36:08Z,0,4,2,1,1,0,1,14665516.0
+866,Updated URL for CPython,228,True,True,2017-04-01T03:10:23Z,2017-04-01T03:10:23Z,0,2,0,1,1,1,2,29234.0
+865,Update furl's description.,45,True,True,2017-03-31T05:38:26Z,2017-03-31T05:38:26Z,0,2,2,1,1,1,2,19375.0
+543,add hustcc/wrapcache,119,True,False,,2017-03-22T15:32:22Z,0,1,0,1,1,0,1,0
+862,Update README.md,310,True,False,,2017-03-17T18:20:48Z,0,1,0,1,1,0,1,0
+861,Merge pull request #1 from vinta/master,290,True,False,,2017-03-17T12:03:05Z,0,1,0,0,0,0,0,0
+858,Update README.md,1018,True,True,2017-03-16T14:15:25Z,2017-03-16T14:15:25Z,0,2,0,1,0,1,1,3840.0
+695,Added chalice to serverless frameworks.,387,True,False,,2017-03-15T15:46:27Z,0,1,0,1,1,0,1,0
+853,Add python fire,799,True,True,2017-03-15T03:03:24Z,2017-03-15T03:03:24Z,1,2,0,1,1,0,1,205017.0
+837,Added forex-python,813,True,True,2017-03-07T01:28:38Z,2017-03-07T01:28:38Z,0,2,0,1,1,0,1,1093178.0
+838,fix Ajenti,18,True,True,2017-03-07T01:27:55Z,2017-03-07T01:27:55Z,0,2,0,1,1,1,2,1081422.0
+628,Add GUI automation tools and popular CI services.,554,True,False,,2017-02-28T20:54:14Z,0,1,0,1,4,0,4,0
+839,Added PyFormat.info to Text Processing section,432,True,False,,2017-02-24T06:39:30Z,0,2,1,1,1,0,1,0
+651,Add python-inquirer to command-line tools,309,True,False,,2017-02-15T07:40:52Z,0,1,0,1,1,0,1,0
+798,Add vprof to profilers section,478,True,True,2017-02-02T06:42:35Z,2017-02-02T06:42:35Z,0,3,1,1,1,0,1,4047360.0
+829,XGBoost is a Kaggle favorite!,881,True,True,2017-02-02T06:39:04Z,2017-02-02T06:39:04Z,0,2,0,1,1,0,1,6209.0
+823,Remove pycrypto (vinta/awesome-python#819),536,True,True,2017-01-27T13:30:19Z,2017-01-27T13:30:19Z,0,2,0,1,0,1,1,167.0
+822,Update README.md,284,True,False,,2017-01-26T13:53:34Z,0,1,0,1,1,0,1,0
+817,tool bug presented,108,True,False,,2017-01-24T09:25:24Z,0,1,1,1,1,1,2,0
+549,Adding Orator ORM,496,True,True,2017-01-19T06:29:21Z,2017-01-19T06:29:21Z,0,2,5,1,1,0,1,31306907.0
+774,"Added talk python twitter, and python bytes podcast",435,True,True,2017-01-18T06:52:33Z,2017-01-18T06:52:33Z,0,3,2,1,3,0,3,5616280.0
+814,logbook url change,0,True,True,2017-01-16T06:43:43Z,2017-01-16T06:43:43Z,0,2,0,1,1,1,2,52.0
+813,Fix mutagen link to Github,115,True,True,2017-01-14T08:24:47Z,2017-01-14T08:24:47Z,0,3,0,1,1,1,2,23645.0
+771,"Update sort.py to make the list ""alphabetically sorted""",97,True,True,2016-11-12T14:05:31Z,2016-11-12T14:05:31Z,1,3,1,1,30,1,31,87331.0
+754,add: implementations of python,66,True,True,2017-01-12T06:44:36Z,2017-01-12T06:44:36Z,0,2,2,1,19,13,32,7140338.0
+792,added blender,650,True,False,,2017-01-11T18:34:43Z,1,2,0,1,1,0,1,0
+406,Add few more debugging tools.,0,True,True,2017-01-07T12:04:29Z,2017-01-07T12:04:29Z,0,2,3,1,3,1,4,48976581.0
+541,cx_freeze - distribution,0,True,False,,2017-01-07T06:18:52Z,0,2,0,1,1,0,1,0
+539,add ispy,75,True,False,,2017-01-07T06:18:52Z,0,3,3,1,1,0,1,0
+538,Adding testinfra,0,True,False,,2017-01-07T06:18:52Z,0,3,2,1,1,0,1,0
+537,Update README.md,0,True,False,,2017-01-07T06:18:52Z,0,2,0,1,2,0,2,0
+534,Add Yowsup 2 (Whatsapp Unofficial API),195,True,False,,2017-01-07T06:18:52Z,0,2,1,1,1,0,1,0
+530,Add the Weboob project to scraping frameworks,244,True,False,,2017-01-07T06:18:52Z,0,3,1,1,1,0,1,0
+527,add a link for pygrok,1032,True,False,,2017-01-07T06:18:52Z,0,2,0,1,1,0,1,0
+523,added neomodel ORM (OGM) to the orm section,44,True,False,,2017-01-07T06:18:52Z,0,2,0,1,1,0,1,0
+520,take the control of your data with this opensource clone of IFTTT,0,True,False,,2017-01-07T06:18:52Z,0,2,0,1,1,0,1,0
+519,Add radish-bdd to Testing Frameworks,273,True,False,,2017-01-07T06:18:52Z,0,2,0,1,1,0,1,0
+518,Add sure to list of Testing Frameworks,529,True,False,,2017-01-07T06:18:52Z,0,2,0,1,1,0,1,0
+515,Imapy,145,True,False,,2017-01-07T06:18:52Z,0,3,1,1,1,0,1,0
+511,"Added rc, Redis cache cluster system",954,True,False,,2017-01-07T06:18:52Z,0,2,0,1,1,0,1,0
+510,Added new DevOps tool - Ralph,51,True,False,,2017-01-07T06:18:26Z,0,2,0,1,1,0,1,0
+508,"Added pgmpy in libraries for science and data analysis (pgmpy has participated in GSOC 2014,15)",151,True,False,,2017-01-07T06:18:26Z,0,2,0,1,1,0,1,0
+503,Adding pwntools,84,True,False,,2017-01-07T06:18:26Z,0,2,0,1,1,0,1,0
+502,Add How to think like a computer scientist,0,True,False,,2017-01-07T06:18:26Z,0,3,1,1,1,0,1,0
+500,Added Circuits,11,True,False,,2017-01-07T06:18:26Z,0,2,0,1,124,122,246,0
+499,Add Clize closes #374,73,True,False,,2017-01-07T06:18:26Z,0,2,0,1,1,0,1,0
+495,Added python-frog (NLP),419,True,False,,2017-01-07T06:18:26Z,0,2,0,1,1,0,1,0
+494,Added Colibri Core (NLP),270,True,False,,2017-01-07T06:18:26Z,0,2,0,1,1,0,1,0
+493,Added FoLiA-Tools and PyNLPl   (NLP) ,1060,True,False,,2017-01-07T06:18:26Z,0,2,0,1,3,0,3,0
+492,Added CLAM: a high-level tool to quickly build RESTful webservices,731,True,False,,2017-01-07T06:18:26Z,0,2,0,1,2,0,2,0
+491,"added python-ucto, python binding to a tokenizer",210,True,False,,2017-01-07T06:18:26Z,0,2,0,1,1,0,1,0
+490,Added python-timbl (machine learning),212,True,False,,2017-01-07T06:18:26Z,0,2,0,1,1,0,1,0
+488,Add MagicPython - syntax highlighter for ST & Atom,114,True,False,,2017-01-07T06:18:25Z,0,2,3,1,1,0,1,0
+485,Add the uber doubles library,260,True,False,,2017-01-07T06:18:25Z,0,2,0,1,1,0,1,0
+484,Added data-science-ipython-notebooks.,169,True,False,,2017-01-07T06:18:25Z,0,2,0,1,1,0,1,0
+483,Added interactive-coding-challenges: algorithms and data structures,543,True,False,,2017-01-07T06:18:25Z,0,2,0,1,1,0,1,0
+481,Added Storm to ORMs,0,True,False,,2017-01-07T06:18:25Z,0,3,4,1,1,0,1,0
+480,Added SQLObject to ORM,58,True,False,,2017-01-07T06:18:25Z,0,2,0,1,1,0,1,0
+479,Adding Gearman,90,True,False,,2017-01-07T06:18:25Z,0,2,0,1,1,1,2,0
+475,added ramses to rest apis section,170,True,False,,2017-01-07T06:18:25Z,0,2,0,1,1,0,1,0
+470,Python Queries,0,True,False,,2017-01-07T06:18:25Z,0,3,2,1,53,0,53,0
+467,Add joe,85,True,False,,2017-01-07T06:18:25Z,0,2,0,1,1,0,1,0
+465,cmd for building line-oriented command processors,224,True,False,,2017-01-07T06:18:24Z,0,3,6,1,1,0,1,0
+461,Add PyMOTW,0,True,False,,2017-01-07T06:18:24Z,0,2,1,1,1,0,1,0
+453,Add a mention to deap.,303,True,False,,2017-01-07T06:17:47Z,0,2,0,1,3,1,4,0
+449,"Add tabular, CSV and NLP libs",115,True,False,,2017-01-07T06:17:47Z,0,2,1,1,18,11,29,0
+448,add pafy youtube downloader,42,True,False,,2017-01-07T06:17:47Z,0,2,2,1,1,0,1,0
+447,New Library added,68,True,False,,2017-01-07T06:17:47Z,0,2,1,1,1,0,1,0
+445,README: Add link to Python Packaging User guide,54,True,False,,2017-01-07T06:17:47Z,0,3,1,1,10,7,17,0
+444,add PyLogging to Logging section,62,True,False,,2017-01-07T06:17:47Z,0,2,0,1,1,0,1,0
+443,"added Security Frameworks section, moving authomatic to it and added 2 projects-- privacyidea and Yosai",11,True,False,,2017-01-07T06:17:47Z,0,3,2,1,8,1,9,0
+439,Added Docbuilder to Documentation,19,True,False,,2017-01-07T06:17:47Z,0,2,0,1,1,0,1,0
+437,Add JSL as a data validation library,0,True,False,,2017-01-07T06:17:47Z,0,2,0,1,1,0,1,0
+433,"Add pymat2, a Python-to-Matlab interface.",0,True,False,,2017-01-07T06:17:47Z,0,2,0,1,1,0,1,0
+428,"Easy mail sending by doing all the magic for you (attachments, html, …",102,True,False,,2017-01-07T06:17:47Z,0,2,0,1,1,0,1,0
+427,Added the Hitch integration testing framework.,0,True,False,,2017-01-07T06:17:47Z,0,4,10,1,2,0,2,0
+426,Link iso4217,46,True,False,,2017-01-07T06:17:47Z,0,2,0,1,1,0,1,0
+424,Adding the circuits framework,18,True,False,,2017-01-07T06:17:47Z,0,3,3,1,6,0,6,0
+423,add pyramid_sacrud admin interface,0,True,False,,2017-01-07T06:17:46Z,0,2,0,1,1,0,1,0
+420,add 'graceful' to list of RESTful API libraries,63,True,False,,2017-01-07T06:17:46Z,0,2,0,1,1,0,1,0
+414,Include Pdfkit,99,True,False,,2017-01-07T06:17:46Z,0,3,1,1,1,0,1,0
+412,Add hre lib.,44,True,False,,2017-01-07T06:17:46Z,0,2,0,1,1,0,1,0
+411,add highlander - A Python decorator that helps ensure that a Python P…,27,True,False,,2017-01-07T06:17:46Z,0,3,0,1,1,0,1,0
+407,Expand Nikola description,109,True,False,,2017-01-07T06:17:46Z,0,2,0,1,1,1,2,0
+404,added ramses,0,True,False,,2017-01-07T06:17:46Z,0,2,0,1,1,0,1,0
+403,Add Visual Studio Community 2013 in the IDEs section.,53,True,False,,2017-01-07T06:17:46Z,0,2,0,1,1,0,1,0
+402,Add Slacker to third-party APIs.,0,True,False,,2017-01-07T06:17:46Z,0,2,0,1,3,2,5,0
+395,Add pyvideo to websites section,0,True,False,,2017-01-07T06:17:46Z,0,3,1,1,1,0,1,0
+393,Added aiohttp in HTTP section,0,True,False,,2017-01-07T06:17:05Z,0,2,0,1,1,0,1,0
+392,Added aiopg and asyncio-mongo,0,True,False,,2017-01-07T06:17:05Z,0,2,0,1,2,0,2,0
+391,Add Rodeo Browser-based IDE to Interactive Interpretersection.,0,True,False,,2017-01-07T06:17:05Z,0,2,0,1,1,0,1,0
+390,Added > E-comerce + Tryton,561,True,False,,2017-01-07T06:17:05Z,0,2,0,1,1,0,1,0
+389,added kuyruk,32,True,False,,2017-01-07T06:17:05Z,0,2,0,1,1,0,1,0
+387,python-eve can also be used SQLAlchemy,94,True,False,,2017-01-07T06:17:05Z,0,2,0,1,1,1,2,0
+376,add factory_boy,0,True,False,,2017-01-07T06:17:05Z,0,2,0,1,1,0,1,0
+373,Adding Django Hackathon Starter to boilerplate section,136,True,False,,2017-01-07T06:17:05Z,0,2,0,1,7,0,7,0
+372,Added fake-useragent.,0,True,False,,2017-01-07T06:17:05Z,0,2,0,1,1,0,1,0
+370,Changes to data viz section,92,True,False,,2017-01-07T06:17:05Z,0,3,2,1,5,3,8,0
+369,Add database management section and yoyo-migrations.,85,True,False,,2017-01-07T06:17:05Z,0,2,0,1,9,2,11,0
+368,Add Briefly.,0,True,False,,2017-01-07T06:17:05Z,0,2,0,1,1,0,1,0
+366,Add passpie to command line tools,0,True,False,,2017-01-07T06:17:05Z,0,2,0,1,1,0,1,0
+365,Add marshmallow,87,True,False,,2017-01-07T06:17:05Z,0,2,0,1,1,0,1,0
+364,Update README.md,55,True,False,,2017-01-07T06:17:05Z,0,2,0,1,3,0,3,0
+359,add aiohttp to HTTP part,0,True,False,,2017-01-07T06:17:05Z,0,2,0,1,1,0,1,0
+356,add Pingo,273,True,False,,2017-01-07T06:17:04Z,0,2,0,1,1,0,1,0
+353,Add Morepath web framework,0,True,False,,2017-01-07T06:17:04Z,0,2,0,1,1,0,1,0
+351,Add Ryu,0,True,False,,2017-01-07T06:17:04Z,0,3,1,1,1,0,1,0
+350,Update README.md,35,True,False,,2017-01-07T06:17:04Z,0,3,3,1,66,8,74,0
+348,Add lettuce and paver information,154,True,False,,2017-01-07T06:17:04Z,0,2,1,1,3,0,3,0
+345,Add gnsq.,0,True,False,,2017-01-07T06:17:04Z,0,2,0,1,1,0,1,0
+344,add cx_Oracle,0,True,False,,2017-01-07T06:17:04Z,0,2,0,1,1,0,1,0
+343,Add MyHDL (Hardware category),0,True,False,,2017-01-07T06:17:04Z,0,2,0,1,1,0,1,0
+341,Update README.md,24,True,False,,2017-01-07T06:17:04Z,0,2,0,1,1,0,1,0
+340,redispapa - redis monitor,56,True,False,,2017-01-07T06:16:04Z,0,2,0,1,1,0,1,0
+339,Data Manipulation section and Butler library added ,0,True,False,,2017-01-07T06:16:04Z,0,2,3,1,6,0,6,0
+336,Add link to pie,0,True,False,,2017-01-07T06:16:04Z,0,2,0,1,1,0,1,0
+332,django-mssql and django-pymssql added,0,True,False,,2017-01-07T06:16:04Z,0,2,0,1,2,0,2,0
+331,Add HoloViews,374,True,False,,2017-01-07T06:16:03Z,0,2,0,1,1,0,1,0
+330,"Adding a ""Property Based Testing"" sub-section",0,True,False,,2017-01-07T06:16:03Z,0,2,0,1,4,0,4,0
+329,Add initpy,0,True,False,,2017-01-07T06:16:03Z,0,2,0,1,1,0,1,0
+326,Add django-memoize,0,True,False,,2017-01-07T06:16:03Z,0,2,0,1,3,0,3,0
+325,Added link to remodel,0,True,False,,2017-01-07T06:16:03Z,0,2,0,1,1,0,1,0
+324,Add Buildbot to DevOps Tools section,143,True,False,,2017-01-07T06:16:03Z,0,2,0,1,1,0,1,0
+322,Add pypiserver to Package Repositories section,105,True,False,,2017-01-07T06:16:03Z,0,2,0,1,1,0,1,0
+321,add structlog,0,True,False,,2017-01-07T06:16:03Z,0,2,0,1,1,0,1,0
+320,Add RxPY to Functional Programming section,0,True,False,,2017-01-07T06:16:03Z,0,2,0,1,1,0,1,0
+319,Add wget and PyDictionary Modules,63,True,False,,2017-01-07T06:16:03Z,0,2,0,1,2,0,2,0
+314,add yolk3k,148,True,False,,2017-01-07T06:16:03Z,0,2,0,1,1,0,1,0
+309,Under debugging tools add my debugger entry into the ring. ,505,True,False,,2017-01-07T06:16:03Z,0,4,0,1,3,2,5,0
+307,add lettuce to testing framework,36,True,False,,2017-01-07T06:16:03Z,0,2,0,1,3,2,5,0
+305,add Pyro4,0,True,False,,2017-01-07T06:16:03Z,0,2,0,1,1,0,1,0
+304,Added sure to Testing,0,True,False,,2017-01-07T06:16:03Z,0,2,0,1,2,0,2,0
+303,Update README.md,0,True,False,,2017-01-07T06:16:03Z,0,2,0,1,1,0,1,0
+302,Index secretary,98,True,False,,2017-01-07T06:16:02Z,0,2,0,1,1,0,1,0
+300,Update README.md,49,True,False,,2017-01-07T06:16:02Z,0,2,0,1,1,0,1,0
+298,Add expects assertion library,0,True,False,,2017-01-07T06:16:02Z,0,2,0,1,1,0,1,0
+297,Adding viper as PyPI server,46,True,False,,2017-01-07T06:16:02Z,0,3,1,1,1,0,1,0
+295,Added PyScribe as a debugging tool,0,True,False,,2017-01-07T06:14:22Z,0,2,0,1,1,0,1,0
+802,fix a broken link.,23,True,True,2016-12-22T10:30:39Z,2016-12-22T10:30:39Z,0,1,1,1,1,1,2,706.0
+773,Adds MagicPython,478,True,True,2016-12-22T06:42:54Z,2016-12-22T06:42:54Z,0,2,2,1,1,0,1,3363311.0
+799,Updated the High Performance node,630,True,True,2016-12-18T15:02:38Z,2016-12-18T15:02:38Z,0,2,0,1,1,0,1,2796.0
+794,Switch boto to boto3,321,True,True,2016-12-16T05:17:07Z,2016-12-16T05:17:07Z,0,2,0,1,1,1,2,18577.0
+272,added virtualenv-mgr under Environment Management,305,True,False,,2016-12-13T17:31:25Z,0,3,2,1,1,0,1,0
+223,Add noseOfYeti to the testing list,82,True,False,,2016-12-13T17:31:03Z,0,2,1,1,1,0,1,0
+276,Add pex within environment management section,127,True,False,,2016-12-13T17:31:25Z,0,2,1,1,1,0,1,0
+259,Add BLLIP Parser to Natural Language Processing,0,True,False,,2016-12-13T17:31:25Z,0,2,1,1,1,0,1,0
+280,Specify encoding explicitly,782,True,False,,2016-12-13T17:31:25Z,0,4,2,1,7,2,9,0
+278,Update README.md,22,True,False,,2016-12-13T17:31:25Z,0,2,0,1,8,3,11,0
+270,added pyaddress to parsers,0,True,False,,2016-12-13T17:31:25Z,0,2,0,1,1,0,1,0
+260,Added pefile to list,101,True,False,,2016-12-13T17:31:25Z,0,2,0,1,1,0,1,0
+251,Added marshmallow,146,True,False,,2016-12-13T17:31:25Z,0,2,0,1,1,0,1,0
+250,Adding Py2docx,103,True,False,,2016-12-13T17:31:25Z,0,2,0,1,1,0,1,0
+248,Added Py2/Py3,463,True,False,,2016-12-13T17:31:25Z,0,2,1,1,202,201,403,0
+246,Add rotunicode.,169,True,False,,2016-12-13T17:31:24Z,0,2,0,1,1,0,1,0
+245,Add genty.,146,True,False,,2016-12-13T17:31:03Z,0,2,0,1,2,0,2,0
+244,Added flaky - Nose and py.test plugin to automatically retry flaky tests...,4,True,False,,2016-12-13T17:31:03Z,0,2,0,1,1,0,1,0
+240,Add Sider: a persistent object library based on Redis.,12,True,False,,2016-12-13T17:31:03Z,0,2,0,1,1,0,1,0
+239,added pycurl,42,True,False,,2016-12-13T17:31:03Z,0,2,0,1,1,0,1,0
+228,added link to `pex`,43,True,False,,2016-12-13T17:31:03Z,0,2,0,1,2,0,2,0
+224,Added link to Python Koans under 'learning tools',181,True,False,,2016-12-13T17:31:03Z,0,1,0,1,4,0,4,0
+222,Add Hylang and new section for programming languages,126,True,False,,2016-12-13T17:31:02Z,0,2,0,1,6,0,6,0
+218,Added aiohttp in HTTP section.,0,True,False,,2016-12-13T17:31:02Z,0,2,0,1,1,0,1,0
+208,Add WeChat Third-party API,125,True,False,,2016-12-13T17:31:02Z,0,2,1,1,1,0,1,0
+205,Two projects added to Productivity Tools :cake:,53,True,False,,2016-12-13T17:31:02Z,0,2,0,1,2,0,2,0
+202,Add Radon and Xenon to Linter section,0,True,False,,2016-12-13T17:31:02Z,0,2,0,1,2,0,2,0
+201,Add mando to Command Line section,0,True,False,,2016-12-13T17:31:02Z,0,2,0,1,1,0,1,0
+187,Add fbconsole to the list,67,True,False,,2016-12-13T17:31:02Z,0,2,0,1,2,1,3,0
+174,Adding pyqrnative,0,True,False,,2016-12-13T17:31:02Z,0,2,3,1,1,0,1,0
+168,Add zipa,38,True,False,,2016-12-13T17:31:02Z,0,3,1,1,1,0,1,0
+135,Update README.md,34,True,False,,2016-12-13T17:31:01Z,0,2,0,1,8,0,8,0
+18,add rapportive.py API interface.,49,True,False,,2016-12-13T17:31:01Z,0,2,0,1,1,0,1,0
+786,Add configure package to the Configuration section,742,True,False,,2016-12-05T13:41:20Z,0,2,3,1,1,0,1,0
+660,"Add MicroPython to ""Hardware"" section.",627,True,False,,2016-11-24T08:45:31Z,0,7,9,1,1,0,1,0
+783,Merge pull request #1 from vinta/master,291,True,False,,2016-11-22T06:32:29Z,0,1,0,0,0,0,0,0
+782,Merge pull request #1 from vinta/master,291,True,False,,2016-11-22T06:31:54Z,0,1,0,0,0,0,0,0
+781,Merge pull request #1 from vinta/master,291,True,False,,2016-11-22T06:30:29Z,0,1,0,0,0,0,0,0
+755,Added expynent to Text Processing,512,True,False,,2016-11-21T00:50:50Z,0,1,0,1,1,0,1,0
+725,added PyPattyrn to design patterns section.,1145,True,True,2016-11-18T06:36:50Z,2016-11-18T06:36:50Z,3,3,0,1,1,0,1,5425386.0
+772,Adds Visual Studio Code Python extension,377,True,True,2016-11-13T08:01:38Z,2016-11-13T08:01:38Z,0,2,2,1,2,0,2,54317.0
+768,Alphabetical sorting of blocks and inner blocks,320,True,False,,2016-11-12T14:35:17Z,0,2,3,1,848,845,1693,0
+626,Adding graph database,33,True,False,,2016-11-11T06:03:02Z,0,1,0,1,2,0,2,0
+761,Fix minor en dash/hyphen inconsistencies,105,True,True,2016-10-31T07:50:28Z,2016-10-31T07:50:28Z,0,2,0,1,5,5,10,35431.0
+696,Add Pendulum to Date and Time libraries,1805,True,True,2016-10-21T04:31:52Z,2016-10-21T04:31:52Z,0,2,2,1,1,0,1,5664447.0
+752,Updating pagan description,139,True,True,2016-10-20T03:54:25Z,2016-10-20T03:54:25Z,0,2,0,1,1,1,2,50855.0
+748,Fix minor typo,57,True,True,2016-10-17T07:51:28Z,2016-10-17T07:51:28Z,0,2,0,1,1,1,2,6726.0
+744,Adding Keras.,713,True,True,2016-10-13T05:42:18Z,2016-10-13T05:42:18Z,0,2,0,1,1,0,1,41553.0
+743,Fixed pypi url (warehouse),220,True,True,2016-10-12T03:34:42Z,2016-10-12T03:34:42Z,0,2,1,1,1,1,2,28513.0
+740,"Dynaconf, Manage, Flasgger, Nameko, FauxFactory, BlinkerHerald, impor…",0,True,False,,2016-10-06T17:56:21Z,0,1,1,1,8,0,8,0
+429,Added some software and fixed a url,0,True,False,,2016-10-06T17:25:14Z,0,2,0,1,12,1,13,0
+671,Adding Test & Code Podcast,242,True,False,,2016-10-03T14:35:07Z,0,1,0,1,1,0,1,0
+735,Merge pull request #1 from vinta/master,289,True,False,,2016-10-01T00:12:46Z,0,1,0,0,0,0,0,0
+733,Added 'pagan' to Imagery,938,True,True,2016-09-29T14:57:31Z,2016-09-29T14:57:31Z,0,2,0,1,1,0,1,6387.0
+726,fix typo in README.md,0,True,True,2016-09-17T07:33:03Z,2016-09-17T07:33:03Z,0,2,0,1,1,1,2,31553.0
+724,Update Makefile,282,True,False,,2016-09-15T08:07:04Z,0,2,0,1,2,0,2,0
+656,Add Seaborn into Data Visualization part,451,True,False,,2016-09-13T06:37:39Z,0,2,1,1,1,0,1,0
+713,Add seaborn,1116,True,True,2016-09-13T06:36:56Z,2016-09-13T06:36:56Z,0,3,1,1,1,0,1,1361453.0
+722,xhtml2pdf is officially deprecated in favor of WeasyPrint,493,True,True,2016-09-11T15:29:41Z,2016-09-11T15:29:41Z,0,2,0,1,1,1,2,21877.0
+702,Readme: Fix link for faker,90,True,True,2016-08-20T17:06:42Z,2016-08-20T17:06:42Z,0,2,1,1,1,1,2,83010.0
+678,add uvloop the fast implementation of asyncio event loop on top of libuv.,377,True,True,2016-08-20T17:08:01Z,2016-08-20T17:08:01Z,0,2,1,1,1,0,1,3777645.0
+226,Added ObjectPath,0,True,False,,2016-08-15T00:50:54Z,0,1,0,1,2,0,2,0
+689,Replace broken Cool github projects link with subreddit,349,True,True,2016-08-01T11:19:28Z,2016-08-01T11:19:28Z,0,2,0,1,1,1,2,1394.0
+685,Fix a link,7,True,True,2016-07-20T07:04:18Z,2016-07-20T07:04:18Z,0,2,1,1,1,1,2,14812.0
+487,brew and spaCy added,424,True,False,,2016-07-19T13:52:25Z,0,1,0,0,0,0,0,0
+672,Add xmldataset,690,True,True,2016-06-29T08:54:06Z,2016-06-29T08:54:06Z,0,6,4,1,1,0,1,87135.0
+591,Adding two weekly podcasts,360,True,False,,2016-06-23T21:36:09Z,0,1,0,1,2,0,2,0
+665,Fix a link,10,True,True,2016-06-20T12:17:05Z,2016-06-20T12:17:06Z,0,2,0,1,1,1,2,102769.0
+386,add SublimeAutoPEP8 at Editor Plugins,68,True,False,,2016-06-15T02:39:33Z,0,1,0,1,1,0,1,0
+659,Add 'Awesome Ptyhon @LibHunt' to the Resources/Websites section,387,True,True,2016-06-13T08:34:36Z,2016-06-13T08:34:36Z,0,2,0,1,1,0,1,2863.0
+636,Add dependency-injector,987,True,False,,2016-06-12T11:58:32Z,0,2,2,1,1,0,1,0
+358,Add igraph to Science and Data Analysis section,0,True,False,,2016-06-11T22:26:26Z,0,1,0,1,1,0,1,0
+575,add pysciter,0,True,False,,2016-06-11T07:22:24Z,0,1,0,1,1,0,1,0
+642,Update README.md,22,True,False,,2016-06-07T18:04:37Z,0,2,0,1,1,1,2,0
+658,new thing,223,True,False,,2016-06-07T18:03:30Z,0,2,0,1,1,1,2,0
+657,Newbranch,267,True,False,,2016-06-07T18:03:30Z,0,2,1,1,5,0,5,0
+647,"Missing space - pydeep, ML",0,True,True,2016-05-21T11:58:50Z,2016-05-21T11:58:50Z,0,2,1,1,1,1,2,16991.0
+643,Errbot chatbot (http://errbot.io),747,True,True,2016-05-17T05:57:34Z,2016-05-17T05:57:34Z,0,3,1,1,1,0,1,47077.0
+637,Fix broken link for xlsxwriter,10,True,True,2016-05-09T09:32:31Z,2016-05-09T09:32:31Z,0,2,0,1,1,1,2,610.0
+460,Several new packages,0,True,False,,2016-05-06T12:48:59Z,0,1,1,1,6,0,6,0
+301,free Model-based testing framework added,43,True,False,,2016-05-04T08:43:48Z,0,1,0,1,1,0,1,0
+618,Add quick.py,490,True,False,,2016-04-29T15:24:17Z,0,2,0,1,4,2,6,0
+622,Add coala,569,True,True,2016-04-21T06:35:05Z,2016-04-21T06:35:05Z,0,2,0,1,3,2,5,5965.0
+607,Add hug to REST frameworks list,270,True,True,2016-04-18T06:38:17Z,2016-04-18T06:38:17Z,0,4,16,1,1,0,1,389452.0
+605,Added polyglot to NLP libraries,163,True,False,,2016-04-14T11:37:16Z,0,1,0,1,1,0,1,0
+608,add coursera-dl,268,True,False,,2016-04-14T08:25:46Z,0,1,0,1,1,0,1,0
+588,Add try - It's never been easier to try a package,620,True,True,2016-04-07T09:12:44Z,2016-04-07T09:12:44Z,0,4,5,1,1,0,1,986184.0
+595,Jinja2 repo reallocated to Pallets project,298,True,True,2016-04-02T18:47:11Z,2016-04-02T18:47:11Z,0,2,1,1,1,1,2,4741.0
+593,Update two repos redirections - this commit fixes #592,216,True,True,2016-03-30T12:47:16Z,2016-03-30T12:47:16Z,0,2,0,1,2,2,4,2118.0
+275,Add alts.io,0,True,False,,2016-03-29T19:36:00Z,0,2,2,1,1,0,1,0
+587,Added DiskCache reference under Caching,845,True,True,2016-03-25T18:29:32Z,2016-03-25T18:29:32Z,0,2,1,1,1,0,1,3673.0
+306,Add tox to environment management category.,111,True,False,,2016-03-25T15:12:18Z,0,1,0,1,1,0,1,0
+504,Please add asciimatics,1097,True,True,2016-03-20T15:40:24Z,2016-03-20T15:40:24Z,0,3,5,1,1,0,1,11490823.0
+584,Added a robust Natural Langauge Processing Library,0,True,True,2016-03-20T16:56:34Z,2016-03-20T16:56:34Z,0,3,1,1,2,0,2,102678.0
+564,NeuroImaging in Python,159,True,True,2016-03-20T13:17:42Z,2016-03-20T13:17:42Z,0,2,0,1,1,0,1,3254993.0
+585,Add tox,56,True,True,2016-03-20T12:57:32Z,2016-03-20T12:57:32Z,0,3,1,1,1,0,1,12949.0
+582,Update Full Stack Python link,23,True,True,2016-03-16T15:44:58Z,2016-03-16T15:44:58Z,0,2,0,1,1,1,2,9089.0
+580,Added a section for challenge sites and added Kaggle,85,True,False,,2016-03-14T01:09:12Z,0,1,0,1,7,0,7,0
+531,Added KoNLPy-Korean NLP,23,True,False,,2016-03-13T11:38:52Z,0,1,0,1,1,0,1,0
+471,Added marshmellow,0,True,True,2016-03-07T07:51:04Z,2016-03-07T07:51:04Z,0,5,8,1,7,0,7,13027176.0
+377,Add validata to Data Validtation,0,True,False,,2016-02-21T21:37:59Z,0,1,0,1,1,0,1,0
+571,Update csvkit link,0,True,True,2016-02-16T21:11:02Z,2016-02-16T21:11:02Z,0,2,0,1,1,1,2,8124.0
+570,Added twitter account of importpython to the Twitter List,50,True,True,2016-02-15T09:08:43Z,2016-02-15T09:08:43Z,0,2,0,1,1,0,1,2732.0
+565,Update HTTP 301 redirects,84,True,True,2016-02-12T19:14:17Z,2016-02-12T19:14:17Z,0,2,0,1,4,4,8,79088.0
+451,Add NIPY/PyMVPA,49,True,False,,2016-02-11T19:40:13Z,0,1,0,1,2,0,2,0
+561,Update README URLs based on HTTP redirects,233,True,True,2016-02-08T15:58:22Z,2016-02-08T15:58:22Z,0,2,0,1,5,4,9,2408.0
+486,Add prettyconf in Configuration section,253,True,False,,2016-02-01T15:34:10Z,0,4,4,1,1,0,1,0
+555,Fix typo: Kotte -> Kotti,0,True,True,2016-01-30T23:09:05Z,2016-01-30T23:09:05Z,0,2,0,1,1,1,2,1472.0
+553,Add pgcli,76,True,True,2016-01-28T03:55:05Z,2016-01-28T03:55:05Z,0,2,0,1,1,0,1,40477.0
+554,Update url of dateutil to its repo,28,True,True,2016-01-27T17:14:28Z,2016-01-27T17:14:28Z,0,2,0,1,1,1,2,1832.0
+472,Add radon,78,True,False,,2016-01-27T16:37:58Z,0,1,0,0,0,0,0,0
+551,add Lektor to the static site generators,139,True,True,2016-01-26T17:34:28Z,2016-01-26T17:34:28Z,0,2,0,1,1,0,1,2034.0
+550,Added Codacy,0,True,True,2016-01-26T13:33:27Z,2016-01-26T13:33:27Z,0,2,0,1,1,0,1,5333.0
+540,Correct flask-admin url,126,True,True,2015-12-27T07:32:00Z,2015-12-27T07:32:00Z,0,2,0,1,1,1,2,2173.0
+535,add mycli,81,True,True,2015-12-20T02:28:14Z,2015-12-20T02:28:15Z,0,2,1,1,1,0,1,3549.0
+533,Feature/awesome bot,10,True,True,2015-12-20T01:49:52Z,2015-12-20T01:49:52Z,0,1,0,2,80,73,153,40760.0
+528,add mycli & ultramysql,128,True,False,,2015-12-20T01:19:28Z,0,3,7,1,1,0,1,0
+529,Added pydeep,36,True,True,2015-12-18T09:50:51Z,2015-12-18T09:50:51Z,0,2,0,1,1,0,1,84530.0
+526,Update README.md,110,True,False,,2015-12-17T10:18:05Z,0,2,3,1,15,1,16,0
+525,Added Quantified code - Hosted code quality and analysis software,285,True,False,,2015-12-13T19:09:43Z,0,2,2,1,1,0,1,0
+524,Add a link to TensorFlow project,104,True,True,2015-12-13T11:15:03Z,2015-12-13T11:15:03Z,0,2,0,1,1,1,2,1915.0
+522,add howdoi,57,True,True,2015-12-13T07:24:49Z,2015-12-13T07:24:49Z,0,4,3,1,1,0,1,279383.0
+517,Merge pull request #1 from vinta/master,20,True,False,,2015-12-08T15:53:36Z,0,1,0,0,0,0,0,0
+478,Added Podcasts section,41,True,False,,2015-12-03T05:44:36Z,0,2,1,1,5,0,5,0
+516,Added PyPI Ranking website,0,True,True,2015-11-30T10:58:10Z,2015-11-30T10:58:10Z,0,2,1,1,1,0,1,4441.0
+514,Add skflow,0,True,True,2015-11-29T15:32:53Z,2015-11-29T15:32:53Z,0,2,0,1,1,0,1,253004.0
+352,Added PyICU in Internationalization,0,True,False,,2015-11-27T05:43:13Z,0,1,0,1,1,0,1,0
+513,"Rename ""IPython"" to ""Jupyter Notebook""",1223,True,True,2015-11-26T07:07:31Z,2015-11-26T07:07:31Z,0,2,0,1,1,1,2,504.0
+474,Add SST (Selenium Simple Test),218,True,False,,2015-11-21T19:53:25Z,0,2,3,1,2,0,2,0
+512,typo in MapReduce section,0,True,True,2015-11-20T18:31:40Z,2015-11-20T18:31:40Z,0,2,0,1,1,1,2,17017.0
+509,Update link for solrpy,77,True,True,2015-11-18T05:15:08Z,2015-11-18T05:15:08Z,0,2,0,1,1,1,2,27317.0
+507,Update redirects in Readme,54,True,True,2015-11-16T06:35:01Z,2015-11-16T06:35:01Z,0,3,2,1,46,46,92,208516.0
+410,Updating the link to the newest version of PyMC,94,True,True,2015-07-02T03:43:57Z,2015-07-02T03:43:57Z,0,2,0,1,1,1,2,16990.0
+505,Pdbpp,116,True,False,,2015-11-12T16:53:41Z,0,1,0,1,2,0,2,0
+335,Add entry for green.,72,True,True,2015-11-04T02:50:17Z,2015-11-04T02:50:17Z,0,4,3,1,1,0,1,19123351.0
+498,Added Tornado as a web framework,110,True,False,,2015-10-30T00:44:28Z,0,3,3,1,1,0,1,0
+501,Moved tornado to web framework section.,121,True,True,2015-10-30T09:20:22Z,2015-10-30T09:20:22Z,0,2,0,1,1,1,2,30819.0
+497,Update README.md,33,True,True,2015-10-29T05:16:21Z,2015-10-29T05:16:21Z,0,2,1,1,1,1,2,8534.0
+496,Correction for broken link to blaze on Science and Data Analysis section,148,True,True,2015-10-26T19:26:20Z,2015-10-26T19:26:20Z,0,2,0,1,1,1,2,539.0
+462,add brew - MCS Python API in Machine Learning.,0,True,False,,2015-10-19T16:14:12Z,0,1,0,1,2,0,2,0
+482,Added SAWS - A Supercharged AWS CLI.,674,True,True,2015-10-19T07:10:03Z,2015-10-19T07:10:03Z,0,2,1,1,1,0,1,101647.0
+476,Added pymssql on Database Drivers,0,True,True,2015-10-16T06:51:55Z,2015-10-16T06:51:55Z,0,2,2,1,1,0,1,217379.0
+477,Added NeuPy,85,True,True,2015-10-16T06:51:13Z,2015-10-16T06:51:13Z,0,2,0,1,1,0,1,30703.0
+419,Added 2 ORMs and 2 Web Frameworks,85,True,False,,2015-10-15T22:06:07Z,0,1,0,1,4,0,4,0
+469,Falcon - The minimalist Python WSGI framework,0,True,False,,2015-10-08T02:18:54Z,0,2,1,1,1,0,1,0
+468,Add PeachPy,140,True,True,2015-10-07T05:29:35Z,2015-10-07T05:29:35Z,0,2,2,1,1,0,1,175.0
+450,Added pip-tools,33,True,True,2015-10-03T08:49:19Z,2015-10-03T08:49:19Z,0,2,0,1,1,0,1,1971215.0
+463,"New GUI > PyGObject, Flexx.",0,True,True,2015-10-03T08:45:52Z,2015-10-03T08:45:52Z,0,2,0,1,2,0,2,415542.0
+464,Pingo - hardware,0,True,True,2015-09-29T18:53:53Z,2015-09-29T18:53:53Z,0,4,2,1,1,0,1,105539.0
+452,Add miscellaneous business related projects,105,True,True,2015-09-26T14:01:07Z,2015-09-26T14:01:07Z,0,3,1,1,3,0,3,1288865.0
+459,Including mingus package,324,True,True,2015-09-23T03:56:32Z,2015-09-23T03:56:32Z,0,2,0,1,1,0,1,3842.0
+455,Added sortedcontainers to Algorithms section,220,True,True,2015-09-19T10:56:00Z,2015-09-19T10:56:00Z,0,2,0,1,1,0,1,60200.0
+454,Add SnakeViz to the list,47,True,True,2015-09-18T09:47:14Z,2015-09-18T09:47:14Z,0,2,0,1,1,0,1,3877.0
+327,add pynamodb,513,True,False,,2015-09-17T18:02:47Z,0,2,0,1,3,2,5,0
+441,"Add ""Continuous Integration services"" section",73,True,True,2015-09-03T12:18:02Z,2015-09-03T12:18:02Z,0,4,4,1,12,1,13,642741.0
+431,Add PyAutoGUI model at Testing Frameworks,214,True,True,2015-08-31T17:45:06Z,2015-08-31T17:45:06Z,0,2,0,1,1,0,1,1782227.0
+430,Added Awesome badge to README.md,0,True,True,2015-08-31T17:44:19Z,2015-08-31T17:44:19Z,0,2,0,1,1,1,2,2107170.0
+440,A handful of additions.,26,True,True,2015-08-31T17:43:26Z,2015-08-31T17:43:26Z,0,2,0,1,11,0,11,820359.0
+442,Add PTVS in Editor Plugins section,0,True,True,2015-08-31T16:14:34Z,2015-08-31T16:14:34Z,0,2,0,1,2,0,2,312475.0
+438,Splinter link update. Closes #436,0,True,True,2015-08-14T14:47:02Z,2015-08-14T14:47:02Z,0,2,1,1,1,1,2,7202.0
+347,Add RobotFramework,52,True,True,2015-08-05T21:20:47Z,2015-08-05T21:20:47Z,0,2,0,1,1,0,1,10045220.0
+432,Fixed typo in description of geojson,0,True,True,2015-08-12T07:47:52Z,2015-08-12T07:47:52Z,0,2,0,1,1,1,2,1354.0
+434,mutagen has moved to Bitbucket,0,True,True,2015-08-12T07:47:16Z,2015-08-12T07:47:16Z,0,2,1,1,1,1,2,1154.0
+397,"Added PyDev, an editor plugin for Eclipse",0,True,False,,2015-08-05T07:14:51Z,0,1,0,1,8,0,8,0
+425,Delete unmaintained visualizing data libs,65,True,True,2015-07-27T02:57:24Z,2015-07-27T02:57:24Z,0,2,0,1,0,2,2,22236.0
+422,Add line_profiler to Debugging Tools,79,True,True,2015-07-21T15:45:09Z,2015-07-21T15:45:09Z,0,2,0,1,1,0,1,112901.0
+421,adding PyBuilder a continuous build tool written in pure Python,27,True,True,2015-07-18T15:44:58Z,2015-07-18T15:44:58Z,0,2,0,1,1,0,1,270769.0
+195,"Added Sage Software, Ran sort.py",173,True,False,,2015-07-15T10:13:01Z,0,1,1,1,276,275,551,0
+418,Added 2 ORMs and 2 Web Frameworks,85,True,False,,2015-07-12T15:27:00Z,0,1,0,1,4,0,4,0
+173,Adding `fabricate` build tool,0,True,True,2014-07-31T01:43:55Z,2014-07-31T01:43:55Z,0,2,0,1,1,0,1,78098.0
+417,Adds Cerberus to Data Validation,82,True,True,2015-07-09T03:31:42Z,2015-07-09T03:31:42Z,0,2,0,1,1,0,1,1829.0
+415,Adding a seperate section called Graphing tools,63,True,False,,2015-07-07T14:58:44Z,0,2,1,1,3,0,3,0
+416,added new command line example,78,True,True,2015-07-07T14:34:01Z,2015-07-07T14:34:01Z,0,2,0,1,1,0,1,1969.0
+413,Add Hypothesis project (property based testing library),0,True,True,2015-07-06T08:03:00Z,2015-07-06T08:03:00Z,0,2,0,1,1,0,1,232922.0
+409,Added ripozo to RESTful APIs,0,True,True,2015-07-06T08:02:30Z,2015-07-06T08:02:30Z,0,2,1,1,1,0,1,405182.0
+408,Added remote debug info for winpdb,110,True,True,2015-06-29T11:20:01Z,2015-06-29T11:20:01Z,0,2,0,1,1,1,2,302.0
+252,Added kbknapp/clapp-py to the list,123,True,False,,2015-06-17T17:13:30Z,0,3,4,1,1,0,1,0
+349,Update README.md,11,True,False,,2015-06-15T09:26:26Z,0,1,1,1,1,0,1,0
+401,Added Eliot logging system.,77,True,True,2015-06-13T12:40:34Z,2015-06-13T12:40:34Z,0,2,0,1,1,0,1,101892.0
+399,Add Bandersnatch to Pacakge Repositories list,0,True,True,2015-06-12T05:54:43Z,2015-06-12T05:54:43Z,0,2,3,1,1,0,1,241117.0
+400,Fix broken link for cliff,12,True,True,2015-06-09T17:57:35Z,2015-06-09T17:57:35Z,0,2,1,1,1,1,2,5562.0
+398,Add IDEs section,56,True,True,2015-06-09T04:23:59Z,2015-06-09T04:23:59Z,0,2,0,1,11,0,11,21234.0
+396,Couple of typo fixes and amendments,138,True,True,2015-06-05T05:43:41Z,2015-06-05T05:43:41Z,0,2,1,1,13,13,26,33243.0
+65,"Added ""uWSGI"" application server container",0,True,False,,2015-05-29T04:15:26Z,0,2,1,1,1,0,1,0
+388,Add wdb - web debugger through WebSockets.,0,True,True,2015-05-29T04:11:55Z,2015-05-29T04:11:55Z,0,2,0,1,1,0,1,26039.0
+381,Add uWSGI and APSW,0,True,True,2015-05-29T04:11:14Z,2015-05-29T04:11:14Z,0,2,0,1,2,0,2,397874.0
+383,Update README.md,0,True,True,2015-05-26T08:16:10Z,2015-05-26T08:16:10Z,0,2,0,1,1,0,1,348.0
+378,add doitlive to Productivity Tools,0,True,True,2015-05-25T14:12:40Z,2015-05-25T14:12:40Z,0,2,0,1,1,0,1,481925.0
+380,Add uWSGI and APSW,0,True,False,,2015-05-24T13:38:42Z,0,1,2,1,2,1,3,0
+379,Add 'realpython/list-of-python-api-wrappers' to list of lists,62,True,False,,2015-05-23T08:14:59Z,0,2,2,1,1,0,1,0
+247,Added pafy,0,True,False,,2015-05-15T18:52:12Z,0,1,0,1,1,0,1,0
+279,Add Jython,0,True,False,,2015-05-15T18:49:45Z,0,2,8,1,1,0,1,0
+367,"Add s4cmd, a faster S3 command-line tool.",0,True,True,2015-05-14T18:12:43Z,2015-05-14T18:12:43Z,0,3,1,1,1,0,1,942960.0
+371,Added django-rules in Permissions section,0,True,True,2015-05-05T17:53:37Z,2015-05-05T17:53:37Z,0,2,1,1,1,0,1,30094.0
+360,Add a excel parsing library called openpyxl.,56,True,False,,2015-04-25T06:27:02Z,0,1,0,1,316,315,631,0
+355,Add PyFormat,0,True,True,2015-04-25T05:44:53Z,2015-04-25T05:44:53Z,0,2,0,1,1,0,1,837324.0
+357,Add alipay,35,True,True,2015-04-16T14:43:12Z,2015-04-16T14:43:12Z,0,2,0,1,1,0,1,26820.0
+354,Update fig to docker-compose.,0,True,True,2015-04-15T11:43:55Z,2015-04-15T11:43:55Z,0,2,0,1,1,1,2,1141.0
+346,Added VisPy,116,True,True,2015-04-11T10:52:54Z,2015-04-11T10:52:54Z,0,2,0,1,1,0,1,48958.0
+342,Update link,32,True,True,2015-04-06T16:04:56Z,2015-04-06T16:04:56Z,0,1,0,1,1,1,2,675.0
+338,Removed link,40,True,True,2015-04-02T01:13:11Z,2015-04-02T01:13:11Z,0,1,0,1,0,1,1,20818.0
+333,Added WinPython,0,True,True,2015-04-01T12:23:51Z,2015-04-01T12:23:51Z,0,2,0,1,2,1,3,847663.0
+334,Delete broken link,36,True,True,2015-03-25T05:54:11Z,2015-03-25T05:54:11Z,0,2,0,1,0,1,1,30118.0
+323,Correct spelling (woking -> working),0,True,True,2015-03-17T04:58:58Z,2015-03-17T04:58:58Z,0,2,2,1,3,3,6,2608.0
+310,Add pypiserver to Package Repositories section,105,True,False,,2015-03-17T04:03:33Z,0,1,0,1,1,0,1,0
+318,Add  PyWin32 and PythonNet Modules,204,True,True,2015-03-13T07:04:41Z,2015-03-13T07:04:41Z,0,2,0,1,2,0,2,538.0
+317,added Grab to Web Crawling section,0,True,True,2015-03-12T08:23:01Z,2015-03-12T08:23:01Z,0,2,0,1,1,0,1,3446.0
+315,Add awesome pyramid,41,True,True,2015-03-09T06:05:18Z,2015-03-09T06:05:18Z,0,2,0,1,1,0,1,31970.0
+312,Add Supervisor to DevOps Tools section,141,True,True,2015-03-04T05:26:15Z,2015-03-04T05:26:15Z,0,4,2,1,1,0,1,91316.0
+311,Update README.md,80,True,True,2015-03-03T11:06:39Z,2015-03-03T11:06:39Z,0,2,0,1,1,0,1,78560.0
+308,Under debugging tools add my debugger entry into the ring.,505,True,False,,2015-02-14T02:06:59Z,0,3,0,1,4,1,5,0
+290,add 'caniusepython3',64,True,True,2015-01-22T16:04:19Z,2015-01-22T16:04:19Z,0,2,1,1,1,0,1,1702024.0
+269,OCR Tools for Python,67,True,True,2015-01-22T16:53:34Z,2015-01-22T16:53:34Z,0,3,1,1,7,0,7,4767401.0
+266,add two python crawling frameworks: cola and pyspider,0,True,True,2015-01-22T16:33:15Z,2015-01-22T16:33:15Z,0,2,0,1,2,0,2,5543159.0
+293,Add Awesome Remote Job,0,True,False,,2015-01-22T16:11:27Z,0,2,1,1,1,0,1,0
+296,added party task runner,0,True,False,,2015-01-20T18:31:31Z,0,1,0,1,1,0,1,0
+277,Add PyGTK under GUI,0,True,False,,2015-01-20T10:11:43Z,0,3,2,1,1,0,1,0
+294,Added hgapi and gitapi,108,True,True,2015-01-06T03:22:31Z,2015-01-06T03:22:31Z,0,3,1,1,3,1,4,44181.0
+291,Add SubDownloader,0,True,False,,2015-01-05T06:29:05Z,0,1,0,1,1,0,1,0
+289,Spelling Correction from Dawson's Spelling Bee,152,True,True,2015-01-02T09:08:12Z,2015-01-02T09:08:12Z,0,2,2,1,1,1,2,25697.0
+288,Added Python hackers,0,True,True,2014-12-31T11:13:28Z,2014-12-31T11:13:28Z,0,2,0,1,1,0,1,1652.0
+287,Fix cement URL,73,True,True,2014-12-30T05:42:03Z,2014-12-30T05:42:03Z,0,2,0,1,1,1,2,22145.0
+286,Add `fake2db`,0,True,True,2014-12-27T05:50:53Z,2014-12-27T05:50:53Z,0,2,0,1,1,0,1,1879.0
+284,Add entry for Nuitka,288,True,True,2014-12-26T15:58:45Z,2014-12-26T15:58:45Z,0,2,0,1,1,0,1,436630.0
+285,Update README.md,50,True,True,2014-12-26T15:50:19Z,2014-12-26T15:50:19Z,0,2,0,1,1,0,1,15565.0
+261,Add Migration Utilities,11,True,True,2014-12-08T16:07:26Z,2014-12-08T16:07:26Z,0,3,0,1,9,0,9,1999554.0
+274,remove oauth2 as it is abandoned package,208,True,True,2014-12-07T19:02:05Z,2014-12-07T19:02:05Z,0,4,2,1,0,1,1,287912.0
+271,Add pyes,0,True,True,2014-12-02T08:36:42Z,2014-12-02T08:36:42Z,0,2,0,1,1,0,1,138433.0
+273,Update README.md,101,True,True,2014-12-02T08:35:03Z,2014-12-02T08:35:03Z,0,2,0,1,1,0,1,1489.0
+258,Added cerberus to Data Validation section,87,True,True,2014-11-24T11:48:52Z,2014-11-24T11:48:52Z,0,2,0,1,1,0,1,870410.0
+268,Rename feedly,59,True,True,2014-11-24T11:48:50Z,2014-11-24T11:48:50Z,0,2,0,1,2,1,3,2808.0
+267,Add ReportLab and OpenPyXL,0,True,True,2014-11-24T08:40:13Z,2014-11-24T08:40:13Z,0,2,0,1,2,0,2,98890.0
+264,Add pyspider,0,True,True,2014-11-19T20:47:56Z,2014-11-19T20:47:56Z,0,3,1,1,1,0,1,126803.0
+265,Add debug and move pdb into secondary links,81,True,True,2014-11-19T20:49:02Z,2014-11-19T20:49:02Z,0,2,0,1,2,2,4,37430.0
+263,Mutagen has moved to bitbucket,30,True,True,2014-11-16T21:38:12Z,2014-11-16T21:38:13Z,0,2,0,1,1,1,2,23107.0
+256,Add period when finished sentence.,0,True,True,2014-11-14T07:54:32Z,2014-11-14T07:54:32Z,0,2,0,1,1,1,2,4091.0
+255,Update README.md,37,True,True,2014-11-11T06:19:47Z,2014-11-11T06:19:47Z,0,2,0,1,1,0,1,9834.0
+254,Add pythonpy.,60,True,False,,2014-11-03T13:59:54Z,0,2,2,1,1,0,1,0
+249,Add flask-restless,186,True,True,2014-10-25T05:33:38Z,2014-10-25T05:33:38Z,0,2,0,1,1,0,1,251312.0
+243,Added genty.,0,True,False,,2014-10-17T20:30:44Z,0,1,0,1,2,0,2,0
+238,Add awesome-sphinxdoc: a curated list of awesome tools for Sphinx Python Documentation Generator.,24,True,True,2014-10-16T01:18:29Z,2014-10-16T01:18:29Z,0,2,0,1,1,0,1,235144.0
+242,added pyqtgraph,0,True,True,2014-10-16T01:17:50Z,2014-10-16T01:17:50Z,0,2,0,1,1,0,1,35470.0
+241,Add Korean: A library for Korean morphology.,46,True,True,2014-10-14T09:04:50Z,2014-10-14T09:04:50Z,0,2,0,1,1,0,1,2996.0
+237,Add 3 JSON Web signature/token libraries,142,True,True,2014-10-10T08:39:31Z,2014-10-10T08:39:31Z,0,3,1,1,3,0,3,62983.0
+235,Add YouCompleteMe to Editor Plugins,0,True,True,2014-10-10T08:35:32Z,2014-10-10T08:35:32Z,0,2,0,1,1,0,1,75642.0
+229,added Vowpal_porpoise,0,True,True,2014-10-10T08:34:43Z,2014-10-10T08:34:43Z,0,3,2,1,1,0,1,1350069.0
+236,add flask-debugtoolbar to Debugging tools,0,True,True,2014-10-10T08:19:16Z,2014-10-10T08:19:16Z,0,2,0,1,1,0,1,71691.0
+234,add profiling to Debugging Tools section,0,True,True,2014-10-09T08:46:47Z,2014-10-09T08:46:48Z,0,2,1,1,1,0,1,621.0
+232,++ prompt-toolkit for CLI application,179,True,True,2014-10-09T05:13:12Z,2014-10-09T05:13:12Z,0,3,1,1,3,0,3,726978.0
+231,"Add stop-words, currencies, django-markwha, short_url, sanitize",443,True,True,2014-10-04T02:22:21Z,2014-10-04T02:22:21Z,0,2,1,1,5,0,5,564305.0
+230,Update README.md,53,True,True,2014-09-26T22:07:14Z,2014-09-26T22:07:14Z,0,2,0,1,1,0,1,26773.0
+227,Update README.md,15,True,True,2014-09-24T18:31:08Z,2014-09-24T18:31:08Z,0,2,0,1,1,0,1,161069.0
+225,Added pickleDB,15,True,True,2014-09-17T16:32:42Z,2014-09-17T16:32:42Z,0,2,0,1,1,0,1,149286.0
+221,Add Gunnery,40,True,True,2014-09-11T05:10:08Z,2014-09-11T05:10:08Z,0,2,1,1,1,0,1,45518.0
+220,Update README.md,14,True,False,,2014-09-10T07:54:51Z,0,2,1,1,1,0,1,0
+219,added demiurge,24,True,True,2014-09-10T07:49:05Z,2014-09-10T07:49:05Z,0,2,0,1,1,0,1,362071.0
+217,A new branch file,0,True,False,,2014-09-02T11:04:39Z,0,1,0,1,1,0,1,0
+216,Fixed typo in Atom.io package,0,True,True,2014-09-01T14:52:00Z,2014-09-01T14:52:00Z,0,2,0,1,1,1,2,528.0
+215,Update README.md,0,True,True,2014-09-01T09:49:52Z,2014-09-01T09:49:52Z,0,2,0,1,1,0,1,310713.0
+214,Added passlib for secure password storage,0,True,True,2014-09-01T09:49:16Z,2014-09-01T09:49:16Z,0,2,0,1,1,0,1,314475.0
+213,Updated with virtualenv for Atom.io,0,True,True,2014-09-01T09:48:23Z,2014-09-01T09:48:23Z,0,2,0,1,2,0,2,442069.0
+210,Update README.md,0,True,True,2014-09-01T09:47:09Z,2014-09-01T09:47:09Z,0,2,0,1,1,0,1,586099.0
+209,Added some chemo and bio informatics libraries,53,True,True,2014-09-01T09:45:25Z,2014-09-01T09:45:25Z,0,3,2,1,9,0,9,605733.0
+211,Added Atom plugins,132,True,True,2014-08-27T05:45:56Z,2014-08-27T05:45:56Z,0,4,2,1,3,0,3,137457.0
+212,Updated python-docx repo link.,25,True,True,2014-08-27T05:44:39Z,2014-08-27T05:44:39Z,0,2,1,1,1,1,2,56966.0
+207,Added automated gui creation library for command line apps,0,True,True,2014-08-26T15:08:46Z,2014-08-26T15:08:46Z,0,4,3,1,1,0,1,165978.0
+200,Added PyVows,0,True,True,2014-08-23T09:59:12Z,2014-08-23T09:59:12Z,0,2,0,1,1,0,1,374672.0
+55,Update html2text repo URL,42,True,True,2014-08-23T11:01:47Z,2014-08-23T11:01:47Z,0,2,1,1,1,1,2,4446900.0
+197,Update README.md,0,True,True,2014-08-23T10:44:32Z,2014-08-23T10:44:32Z,0,2,0,1,2,0,2,432697.0
+199,Update README.md,0,True,True,2014-08-23T10:36:40Z,2014-08-23T10:36:40Z,0,2,0,1,1,0,1,410307.0
+203,"Added ""Package Repositories"" section, and making a start with ""devpi""",0,True,True,2014-08-23T10:33:38Z,2014-08-23T10:33:38Z,0,2,0,1,11,0,11,240129.0
+206,sixpack testing f/w added,0,True,True,2014-08-23T10:25:05Z,2014-08-23T10:25:05Z,0,2,0,1,2,0,2,52124.0
+204,I think that `clint` is not so awesom as `click`,29,True,False,,2014-08-23T10:07:37Z,0,3,2,1,0,1,1,0
+196,Added dataset,0,True,True,2014-08-18T09:44:05Z,2014-08-18T09:44:05Z,0,2,0,1,1,0,1,4395.0
+125,Added statsd libraries for data and performance analysis,0,True,True,2014-08-13T14:41:53Z,2014-08-13T14:41:53Z,0,2,1,1,2,0,2,2951351.0
+194,Add HappyBase and Plyvel to NoSQL database section,195,True,True,2014-08-13T15:14:08Z,2014-08-13T15:14:08Z,0,2,1,1,2,0,2,505.0
+104,added application monitoring tools for python apps ,0,True,False,,2014-08-13T14:32:46Z,0,2,0,1,10,1,11,0
+172,"Insert web frameworks, CMS and resources of books",97,True,False,,2014-08-13T14:32:06Z,0,2,0,1,103,544,647,0
+190,PyCLI and ForgeryPy,63,True,True,2014-08-13T14:30:45Z,2014-08-13T14:30:45Z,0,2,0,1,2,0,2,347782.0
+192,queries - wrapper of the psycopg2 library,0,True,True,2014-08-13T14:25:19Z,2014-08-13T14:25:19Z,0,2,0,1,1,0,1,28605.0
+191,"Added splinter, the open source tool for testing web applications",0,True,True,2014-08-13T14:25:19Z,2014-08-13T14:25:19Z,0,2,0,1,1,0,1,293596.0
+193,Update README.md,36,True,True,2014-08-13T14:15:03Z,2014-08-13T14:15:03Z,0,2,0,1,1,0,1,24291.0
+189,adding grequests,102,True,True,2014-08-13T14:09:33Z,2014-08-13T14:09:33Z,0,2,0,1,1,0,1,353217.0
+188,Add m3u8,29,True,True,2014-08-09T07:19:39Z,2014-08-09T07:19:39Z,0,2,0,1,1,0,1,13690.0
+183,Added honcho,0,True,False,,2014-08-08T16:59:35Z,0,2,1,1,2,1,3,0
+186,Added the mechanize library,0,True,True,2014-08-08T16:58:47Z,2014-08-08T16:58:47Z,0,2,0,1,1,0,1,49211.0
+185,Added pdoc api doc generator to Documentation.,365,True,True,2014-08-08T01:48:43Z,2014-08-08T01:48:43Z,0,2,0,1,1,0,1,5748.0
+184,savory-pie Restful API Framework,234,True,True,2014-08-08T01:47:18Z,2014-08-08T01:47:18Z,0,2,0,1,1,0,1,9829.0
+181,Update README.md,70,True,True,2014-08-07T01:47:37Z,2014-08-07T01:47:37Z,0,2,0,1,1,0,1,107130.0
+182,Add Talon,61,True,True,2014-08-07T01:41:46Z,2014-08-07T01:41:46Z,0,2,0,1,1,0,1,90167.0
+180,Data Validation updates,42,True,True,2014-08-04T12:17:40Z,2014-08-04T12:17:40Z,0,2,0,1,2,2,4,96776.0
+144,Update README.md,115,True,True,2014-08-03T06:32:04Z,2014-08-03T06:32:04Z,0,2,1,1,6,0,6,1505256.0
+179,add `hashids` under Cryptography  Section,221,True,True,2014-08-02T11:56:22Z,2014-08-02T11:56:22Z,0,2,0,1,1,0,1,27906.0
+176,Add subliminal to downloaders,0,True,True,2014-07-31T01:48:37Z,2014-07-31T01:48:37Z,0,2,0,1,1,0,1,75388.0
+177,Add kmatch to Data Validation,105,True,True,2014-07-31T20:16:17Z,2014-07-31T20:16:17Z,0,2,0,1,1,0,1,46781.0
+178,Add options and fix spelling on CONTRIBUTING.md,0,True,True,2014-07-31T20:15:21Z,2014-07-31T20:15:21Z,0,2,0,1,5,1,6,4582.0
+175,Add more Python lists and Kotti CMS built on Pyramid,0,True,True,2014-07-31T01:47:52Z,2014-07-31T01:47:52Z,0,2,0,1,7,0,7,75788.0
+33,Update README.md: Add pathlib,0,True,True,2014-07-02T01:54:58Z,2014-07-02T01:54:58Z,0,2,1,1,1,0,1,15328.0
+34,Update README.md: Add cornice REST framework,0,True,True,2014-07-02T01:55:08Z,2014-07-02T01:55:08Z,0,2,1,1,1,0,1,15233.0
+171,added widgy cms,70,True,True,2014-07-28T09:22:12Z,2014-07-28T09:22:12Z,0,2,0,1,2,0,2,166900.0
+67,"Proposing ""Image processing"" instead of ""Imagery""",90,True,False,,2014-07-28T09:20:35Z,0,2,0,1,2,2,4,0
+132,add link to list of awesome lists,95,True,False,,2014-07-28T09:20:24Z,0,2,0,1,4,0,4,0
+141,adding list,0,True,False,,2014-07-28T09:20:09Z,0,2,0,1,1,0,1,0
+165,Update README.md,191,True,True,2014-07-26T10:40:01Z,2014-07-26T10:40:01Z,0,2,1,1,1,0,1,148896.0
+170,Add SSH module Paramiko,119,True,True,2014-07-26T10:39:07Z,2014-07-26T10:39:07Z,0,2,0,1,1,0,1,18126.0
+155,Add APScheduler (Advanced Python Scheduler),81,True,True,2014-07-25T06:34:03Z,2014-07-25T06:34:03Z,0,2,0,1,1,0,1,259636.0
+156,Updated Readme,76,True,True,2014-07-25T06:26:42Z,2014-07-25T06:26:42Z,0,2,0,1,6,0,6,249541.0
+166,Adding spyder under Science and Data Analysis,0,True,True,2014-07-25T05:37:47Z,2014-07-25T05:37:47Z,0,2,0,1,1,0,1,37626.0
+157,"++ Python(x,y) in Miscellaneous section",423,True,True,2014-07-25T05:37:47Z,2014-07-25T05:37:47Z,0,2,0,1,1,0,1,239124.0
+163,add pyshould as useful library for testing,85,True,True,2014-07-25T04:00:51Z,2014-07-25T04:00:51Z,0,2,0,1,2,0,2,67744.0
+167,Add entry on Data Validation,10,True,True,2014-07-25T03:52:43Z,2014-07-25T03:52:43Z,0,2,0,1,1,0,1,19473.0
+162,gspread Google Spreadsheets Python API,0,True,True,2014-07-22T23:12:36Z,2014-07-22T23:12:36Z,0,2,0,1,1,0,1,14509.0
+158,++ Christoph Gohlke's great pythonlibs for Windows,433,True,True,2014-07-22T23:11:42Z,2014-07-22T23:11:42Z,0,2,0,1,1,0,1,42572.0
+161,Change Crossbar from websocket to networking category according to author,78,True,True,2014-07-22T23:00:17Z,2014-07-22T23:00:17Z,0,2,0,1,1,1,2,20349.0
+160,Added cookiecutter,213,True,True,2014-07-22T16:56:15Z,2014-07-22T16:56:15Z,0,2,0,1,1,0,1,2327.0
+154,Add job Scheduler,0,True,True,2014-07-21T22:04:22Z,2014-07-21T22:04:22Z,0,2,0,1,8,0,8,30244.0
+152,added pytz library under date & time,0,True,True,2014-07-19T15:41:38Z,2014-07-19T15:41:38Z,0,2,0,1,1,0,1,20083.0
+151,Add PySFML to Game Development part,0,True,True,2014-07-18T11:25:28Z,2014-07-18T11:25:28Z,0,2,0,1,1,0,1,10466.0
+150,Add cement to command-line app development,25,True,True,2014-07-17T21:32:17Z,2014-07-17T21:32:17Z,0,2,0,1,1,0,1,3925.0
+149,Add Jinja-Assets-Compressor,0,True,True,2014-07-17T21:31:41Z,2014-07-17T21:31:41Z,0,2,0,1,1,0,1,7792.0
+148,Add WTForms-JSON,0,True,True,2014-07-17T21:31:22Z,2014-07-17T21:31:22Z,0,2,0,1,1,0,1,7934.0
+147,add crossbar,15,True,True,2014-07-17T21:30:55Z,2014-07-17T21:30:55Z,0,2,0,1,1,0,1,18415.0
+146,Added Static Site Generator Category,97,True,True,2014-07-17T21:30:42Z,2014-07-17T21:30:42Z,0,2,0,1,12,0,12,57075.0
+145,Added txZMQ (zeromq for twisted),0,True,True,2014-07-17T21:29:18Z,2014-07-17T21:29:18Z,0,2,0,1,1,0,1,85044.0
+113,Add djedi-cms,84,True,True,2014-07-16T20:46:36Z,2014-07-16T20:46:36Z,0,2,0,1,1,0,1,638514.0
+142,add admin-plus,21,True,False,,2014-07-15T14:18:40Z,0,1,1,1,1,0,1,0
+143,Added 'Flask-Assets' to Asset Management,40,True,True,2014-07-15T14:14:09Z,2014-07-15T14:14:09Z,0,2,0,1,1,0,1,22386.0
+140,Forgotten table of content entry for RPC servers,0,True,True,2014-07-14T14:42:40Z,2014-07-14T14:42:40Z,0,2,0,1,1,0,1,670.0
+138,Add mysqlclient-python and PyMySQL,0,True,True,2014-07-14T14:12:14Z,2014-07-14T14:12:14Z,0,2,0,1,2,0,2,27426.0
+139,Add a few RPC server implementations,0,True,True,2014-07-14T14:11:39Z,2014-07-14T14:11:39Z,0,2,0,1,8,0,8,21551.0
+134,Added dh-virtualenv,70,True,True,2014-07-13T15:52:32Z,2014-07-13T15:52:32Z,0,2,0,1,1,0,1,85317.0
+120,Added a link to a list of other awesome lists,0,True,True,2014-07-12T13:19:03Z,2014-07-12T13:19:03Z,0,2,0,1,4,0,4,200422.0
+131,Update README.md,157,True,True,2014-07-12T13:10:38Z,2014-07-12T13:10:38Z,0,2,0,1,2,0,2,22301.0
+133,Added New Package Manager.,72,True,True,2014-07-12T13:07:20Z,2014-07-12T13:07:20Z,0,2,0,1,1,0,1,8902.0
+128,"Added txpostgres, py2neo, telephus, txredis",0,True,True,2014-07-12T13:06:42Z,2014-07-12T13:06:42Z,0,2,0,1,4,0,4,169878.0
+129,Added awesome-slugify,168,True,True,2014-07-12T13:00:28Z,2014-07-12T13:00:28Z,0,2,0,1,3,2,5,158670.0
+127,Added pyparsing under text processing / parsers,0,True,True,2014-07-12T12:59:24Z,2014-07-12T12:59:24Z,0,2,0,1,1,0,1,170154.0
+126,adding restless API library and Full Stack Python to list,105,True,True,2014-07-12T12:58:34Z,2014-07-12T12:58:34Z,0,2,0,1,2,0,2,173640.0
+124,Added mailjet API library to the mail section,0,True,True,2014-07-12T12:53:13Z,2014-07-12T12:53:13Z,0,2,0,1,1,0,1,180241.0
+123,Added netius as a WSGI server,87,True,True,2014-07-12T12:53:04Z,2014-07-12T12:53:04Z,0,2,0,1,1,0,1,185269.0
+122,Added Authomatic to the Authentication section,67,True,True,2014-07-12T12:52:35Z,2014-07-12T12:52:35Z,0,2,0,1,1,0,1,189317.0
+130,Some spelling corrections,89,True,True,2014-07-10T18:57:51Z,2014-07-10T18:57:51Z,0,2,0,1,3,3,6,903.0
+107,add module HTTPretty,43,True,True,2014-07-10T05:49:17Z,2014-07-10T05:49:17Z,0,2,0,1,1,0,1,116589.0
+118,Fix spelling,0,True,True,2014-07-10T05:49:17Z,2014-07-10T05:49:17Z,0,2,0,1,1,1,2,36760.0
+119,httplib2 added to HTTP section,0,True,True,2014-07-10T05:23:23Z,2014-07-10T05:23:23Z,0,2,0,1,1,0,1,34747.0
+117,pygal added to Data Visualization,17,True,True,2014-07-10T05:22:14Z,2014-07-10T05:22:14Z,0,2,1,1,1,0,1,36415.0
+116,added api resource,0,True,True,2014-07-10T05:21:16Z,2014-07-10T05:21:16Z,0,2,0,1,1,0,1,43780.0
+115,Add django-formapi,117,True,True,2014-07-10T05:20:09Z,2014-07-10T05:20:09Z,0,2,0,1,1,0,1,64074.0
+114,Add django-viewlet,41,True,True,2014-07-10T05:19:08Z,2014-07-10T05:19:08Z,0,2,0,1,1,0,1,64426.0
+110,Add Rainbow Stream (Command line Tools),44,True,True,2014-07-10T05:16:59Z,2014-07-10T05:16:59Z,0,2,0,1,1,0,1,76662.0
+109,Added Vex in Environment Management tools,0,True,True,2014-07-10T05:16:43Z,2014-07-10T05:16:43Z,0,2,0,1,1,0,1,77621.0
+108,Add libsass-python,35,True,True,2014-07-10T05:16:14Z,2014-07-10T05:16:14Z,0,2,0,1,1,0,1,99968.0
+111,Add Toolz and CyToolz,129,True,True,2014-07-09T11:25:18Z,2014-07-09T11:25:18Z,0,2,3,1,2,0,2,11672.0
+112,Add djedi-cms,69,True,False,,2014-07-09T11:22:54Z,0,1,0,0,0,0,0,0
+106,add module freezegun,47,True,True,2014-07-09T04:48:53Z,2014-07-09T04:48:53Z,0,2,0,1,1,0,1,26862.0
+105,Add PEW of python environment management tool,50,True,True,2014-07-09T04:47:32Z,2014-07-09T04:47:32Z,0,2,0,1,1,0,1,27916.0
+95,add 'treq' under HTTP section,0,True,True,2014-07-08T02:05:05Z,2014-07-08T02:05:05Z,0,2,0,1,1,0,1,64016.0
+93,Add jedi to vim plugins,0,True,True,2014-07-07T06:49:40Z,2014-07-07T06:49:40Z,0,2,0,1,1,0,1,8105.0
+94,Add logbook to logging systems,0,True,True,2014-07-07T06:51:20Z,2014-07-07T06:51:20Z,0,2,0,1,1,0,1,8195.0
+96,Add plan to DevOps Tools,0,True,True,2014-07-08T01:35:35Z,2014-07-08T01:35:35Z,0,3,1,1,1,0,1,58676.0
+69,added carteblanche,56,True,True,2014-07-08T02:45:26Z,2014-07-08T02:45:26Z,0,2,0,1,8,0,8,360706.0
+100,Added the awesome urllib3 library,0,True,True,2014-07-08T01:34:22Z,2014-07-08T01:34:22Z,0,2,0,1,1,0,1,25450.0
+97,Add TimeSide (audio),0,True,True,2014-07-08T01:32:02Z,2014-07-08T01:32:02Z,0,2,0,1,1,0,1,43217.0
+101,Add glue,29,True,True,2014-07-08T01:31:10Z,2014-07-08T01:31:10Z,0,2,0,1,1,0,1,21753.0
+98,adding pycco,21,True,True,2014-07-08T01:30:11Z,2014-07-08T01:30:11Z,0,2,0,1,2,0,2,37943.0
+78,Added oursql to relational database connectors,0,True,True,2014-07-05T14:19:05Z,2014-07-05T14:19:05Z,0,2,0,1,1,0,1,1093.0
+87,add mysql-connector-python,128,True,True,2014-07-07T01:02:29Z,2014-07-07T01:02:29Z,0,2,0,1,1,0,1,36638.0
+92,Added 'conda' to Package Management,44,True,True,2014-07-07T02:01:52Z,2014-07-07T02:01:52Z,0,2,0,1,1,0,1,112.0
+77,Add a workflow execution section,165,True,True,2014-07-07T01:50:33Z,2014-07-07T01:50:33Z,0,2,0,1,10,0,10,156953.0
+64,+WikiTeam tools for preserving wikis,127,True,True,2014-07-07T01:45:26Z,2014-07-07T01:45:26Z,0,2,0,1,1,0,1,303577.0
+80,Few python libs that I use,81,True,False,,2014-07-07T01:42:57Z,0,3,1,1,8,1,9,0
+84,Add Open Mining on data analyzing section,0,True,True,2014-07-07T01:42:36Z,2014-07-07T01:42:36Z,0,2,0,1,1,0,1,68164.0
+89,add talkbox in audio section,65,True,True,2014-07-07T01:41:55Z,2014-07-07T01:41:55Z,0,2,0,1,1,0,1,23374.0
+90,Added mixer and pylama.,12,True,True,2014-07-07T01:15:52Z,2014-07-07T01:15:52Z,0,2,0,1,2,0,2,21154.0
+88,Added envelopes,0,True,True,2014-07-07T01:14:02Z,2014-07-07T01:14:02Z,0,2,0,1,1,0,1,27229.0
+86,Add audiolazy on audio section,25,True,True,2014-07-07T01:13:33Z,2014-07-07T01:13:33Z,0,2,0,1,1,0,1,41952.0
+85,Add BitBake on Build Tools section,0,True,True,2014-07-07T01:13:12Z,2014-07-07T01:13:12Z,0,2,0,1,1,0,1,53785.0
+83,added untangle,0,True,True,2014-07-07T01:11:41Z,2014-07-07T01:11:41Z,0,2,0,1,1,0,1,81751.0
+82,add the python Reddit API wrapper,0,True,True,2014-07-07T01:11:23Z,2014-07-07T01:11:23Z,0,3,0,1,1,0,1,91117.0
+81,"added sanction, jose to auth libs",0,True,True,2014-07-07T01:11:07Z,2014-07-07T01:11:07Z,0,2,0,1,2,0,2,100893.0
+79,Added django-suit admin panel,65,True,True,2014-07-07T01:09:33Z,2014-07-07T01:09:33Z,0,2,0,1,1,0,1,112869.0
+91,Added provy on devops section,53,True,True,2014-07-07T01:03:13Z,2014-07-07T01:03:13Z,0,3,1,1,1,0,1,17267.0
+20,Added rainbowstream to Command-line Tools section,0,True,False,,2014-07-05T15:56:59Z,0,1,0,1,10,0,10,0
+75,Added wifi to Networking section,40,True,True,2014-07-05T14:52:07Z,2014-07-05T14:52:08Z,0,2,0,1,1,0,1,49827.0
+76,Added pyfiglet.,46,True,True,2014-07-05T14:31:19Z,2014-07-05T14:31:19Z,0,2,0,1,1,0,1,32099.0
+72,"mention Elpy, the Emacs Lisp Python Environment",0,True,True,2014-07-05T14:23:07Z,2014-07-05T14:23:07Z,0,2,0,1,1,1,2,57472.0
+73,Added pycallgraph,91,True,True,2014-07-05T14:22:15Z,2014-07-05T14:22:15Z,0,2,0,1,1,0,1,57237.0
+74,Update README.md,23,True,True,2014-07-05T14:21:47Z,2014-07-05T14:21:47Z,0,2,0,1,1,1,2,55071.0
+71,added pexpect to DevOps tools,66,True,True,2014-07-04T17:43:19Z,2014-07-04T17:43:19Z,0,2,0,1,1,0,1,29699.0
+66,"adding ""cliff"" for crafting multi-level command",361,True,True,2014-07-04T06:08:10Z,2014-07-04T06:08:10Z,0,2,0,1,1,0,1,41908.0
+68,Add facepy and opengraph libs,0,True,True,2014-07-04T06:01:00Z,2014-07-04T06:01:01Z,0,2,0,1,2,0,2,35620.0
+63,Add pyPDF2 to Text processing,71,True,True,2014-07-03T14:17:04Z,2014-07-03T14:17:04Z,0,2,0,1,1,0,1,7789.0
+62,Added pycassa - Python Thrift driver for Apache Cassandra.,58,True,True,2014-07-03T14:16:27Z,2014-07-03T14:16:27Z,0,2,0,1,2,0,2,9262.0
+61,add pyinstaller to distribution,0,True,True,2014-07-03T10:58:22Z,2014-07-03T10:58:22Z,0,2,0,1,1,0,1,3112.0
+60,"Add Clime, Grappelli, pudb and bpython",95,True,True,2014-07-03T10:58:15Z,2014-07-03T10:58:15Z,0,2,1,1,4,0,4,5121.0
+47,Command-line tools,127,True,True,2014-07-03T08:20:18Z,2014-07-03T08:20:18Z,0,2,0,1,2,0,2,63492.0
+58,Add scikit-image for image manipulation,0,True,True,2014-07-03T07:44:58Z,2014-07-03T07:44:58Z,0,2,0,1,1,0,1,24701.0
+28,added scikit-image and scikit-video,153,True,True,2014-07-03T07:44:58Z,2014-07-03T07:44:58Z,0,2,2,1,2,0,2,133562.0
+49,Add Werkzeug,0,True,True,2014-07-03T07:38:40Z,2014-07-03T07:38:40Z,0,2,0,1,1,0,1,55077.0
+53,"++ PyRun, a single-file based Python distro",496,True,True,2014-07-03T06:37:43Z,2014-07-03T06:37:43Z,0,2,0,1,1,0,1,37986.0
+54,Sorting,223,True,True,2014-07-03T06:30:44Z,2014-07-03T06:30:44Z,0,1,2,1,47,0,47,27924.0
+59,Flask-API-Utils extension,0,True,True,2014-07-03T05:36:38Z,2014-07-03T05:36:38Z,0,2,0,1,1,0,1,7991.0
+56,Add Django MongoDB Backend,0,True,True,2014-07-03T05:35:01Z,2014-07-03T05:35:01Z,0,2,0,1,1,0,1,20640.0
+41,Added Plotly,66,True,True,2014-07-02T13:23:05Z,2014-07-02T13:23:05Z,0,3,2,1,1,0,1,19799.0
+50,Adds PyQt and modifies PySide to indicate which version of Qt is supported,0,True,True,2014-07-02T20:04:04Z,2014-07-02T20:04:04Z,0,2,0,1,2,1,3,10768.0
+51,Adds pybarcode,0,True,True,2014-07-02T20:06:09Z,2014-07-02T20:06:09Z,0,2,0,1,1,0,1,10368.0
+52,"Configuration, distribution, and WSGI libraries",76,True,True,2014-07-02T20:05:14Z,2014-07-02T20:05:14Z,0,2,1,1,38,3,41,9802.0
+45,Added the Data Validation section.,42,True,True,2014-07-02T13:44:04Z,2014-07-02T13:44:04Z,0,2,0,1,9,0,9,338.0
+46,Fix typo in science and data analysis,0,True,True,2014-07-02T13:43:56Z,2014-07-02T13:43:56Z,0,2,0,1,1,1,2,107.0
+42,Add Contexts test framework to list,116,True,True,2014-07-02T13:23:26Z,2014-07-02T13:23:26Z,0,2,0,1,1,0,1,16825.0
+40,Added django-allauth to authentication section,0,True,True,2014-07-02T13:31:08Z,2014-07-02T13:31:08Z,0,2,0,1,1,0,1,22326.0
+44,Added PyCA's Cryptography,0,True,True,2014-07-02T13:23:52Z,2014-07-02T13:23:52Z,0,2,0,1,4,0,4,5963.0
+39,Mistune and OAuthLib,85,True,True,2014-07-02T13:22:01Z,2014-07-02T13:22:01Z,0,2,0,1,3,0,3,23500.0
+37,Included deform and dogpile cache,0,True,True,2014-07-02T13:21:46Z,2014-07-02T13:21:46Z,0,2,0,1,2,0,2,24792.0
+29,"Added ""Build Tools"" section",36,True,True,2014-07-02T13:20:59Z,2014-07-02T13:20:59Z,0,2,1,1,10,2,12,66061.0
+38,Added Python-mode Vim Plugin,185,True,True,2014-07-02T06:48:51Z,2014-07-02T06:48:51Z,0,2,0,1,1,1,2,1096.0
+35,"Update README.md: Add fanstatic, file conveyer, and webassets",0,True,True,2014-07-02T02:08:52Z,2014-07-02T02:08:52Z,0,2,0,1,3,0,3,15676.0
+36,Added Marrow Mailer package reference.,0,True,True,2014-07-02T01:55:24Z,2014-07-02T01:55:24Z,0,2,0,1,1,0,1,12261.0
+32,Fix typo,0,True,True,2014-07-02T01:54:06Z,2014-07-02T01:54:06Z,0,2,1,1,1,1,2,15439.0
+31,Add webassets,79,True,True,2014-07-02T01:53:32Z,2014-07-02T01:53:32Z,0,2,0,1,1,0,1,16368.0
+30,add huey and mrq,0,True,True,2014-07-02T01:51:36Z,2014-07-02T01:51:36Z,0,2,0,1,2,0,2,21063.0
+27,Add pyshorteners on URL Manipulation section,0,True,True,2014-07-01T18:40:50Z,2014-07-01T18:40:50Z,0,2,0,1,1,0,1,8366.0
+26,"add Wikipedia, python-instagram on 3rd party apis",0,True,True,2014-07-01T15:04:28Z,2014-07-01T15:04:28Z,0,2,0,1,3,0,3,668.0
+23,Added entries on Template Engine,42,True,True,2014-07-01T14:50:27Z,2014-07-01T14:50:27Z,0,3,4,1,3,0,3,6548.0
+22,added a bunch of stuff,0,True,True,2014-07-01T14:50:27Z,2014-07-01T14:50:27Z,0,2,0,1,13,0,13,14358.0
+25,fixing typo: Aanalysis -> Analysis,0,True,True,2014-07-01T14:31:55Z,2014-07-01T14:31:55Z,0,2,0,1,1,1,2,2366.0
+21,Add mamba & doublex,0,True,True,2014-07-01T13:59:08Z,2014-07-01T13:59:08Z,0,2,0,1,2,0,2,19012.0
+19,added fuckit and tkinter ,38,True,True,2014-07-01T13:55:35Z,2014-07-01T13:55:35Z,0,2,0,1,5,1,6,23920.0
+17,add you-get and coursera on video,0,True,True,2014-07-01T13:36:27Z,2014-07-01T13:36:27Z,0,2,0,1,4,0,4,34095.0
+16,Adding PonyORM to ORM section,16,True,True,2014-07-01T03:30:58Z,2014-07-01T03:30:58Z,0,2,0,1,1,0,1,5643.0
+15,Adding Unipath and Name Parser to the list,0,True,True,2014-07-01T03:30:49Z,2014-07-01T03:30:49Z,0,2,0,1,2,0,2,14874.0
+13,Adding MkDocs in Documentation section.,87,True,True,2014-07-01T03:29:54Z,2014-07-01T03:29:54Z,0,2,0,1,1,0,1,27029.0
+12,Added entries on Docs and Web Frameworks,36,True,True,2014-07-01T03:26:07Z,2014-07-01T03:26:07Z,0,2,0,1,16,11,27,33483.0
+11,Melignus high performance,54,True,True,2014-07-01T03:19:01Z,2014-07-01T03:19:01Z,0,3,1,1,7,0,7,33217.0
+10,Add TurboGears and Grok on Web Frameworks,0,True,False,,2014-06-30T18:07:15Z,0,1,0,2,3,4,7,0
+9,"Added games category, a few gui modules, a few science modules.",115,True,True,2014-06-30T17:47:15Z,2014-06-30T17:47:15Z,0,3,3,1,11,0,11,1213.0
+8,Add game development section and pyglet to GUI section,0,True,True,2014-06-30T17:24:05Z,2014-06-30T17:24:06Z,0,2,0,1,12,0,12,1088.0
+7,Add Opps CMS,0,True,True,2014-06-30T16:54:58Z,2014-06-30T16:54:58Z,0,2,0,1,5,3,8,1182.0
+6,Additions to Third-party APIs,0,True,True,2014-06-30T16:45:51Z,2014-06-30T16:45:51Z,0,2,0,1,5,2,7,7169.0
+5,Added Anti-spam Libraries,0,True,True,2014-06-30T15:41:31Z,2014-06-30T15:41:31Z,0,2,0,1,2,1,3,4024.0
+4,Add Beaker under caching libraries in the README.md,40,True,True,2014-06-30T15:41:19Z,2014-06-30T15:41:19Z,0,2,0,1,2,1,3,4415.0
+3,Added Pattern to NLP and web2py to web frameworks,256,True,False,,2014-06-30T14:42:09Z,0,2,1,1,3,1,4,0
+2,added Quokka to CMS and web2py to frameworks,136,True,True,2014-06-30T14:22:17Z,2014-06-30T14:22:17Z,0,2,0,1,3,1,4,1792.0
+1,Added wand lib to Imagery list,0,True,True,2014-06-30T04:12:56Z,2014-06-30T04:12:56Z,0,2,0,1,2,1,3,6629.0

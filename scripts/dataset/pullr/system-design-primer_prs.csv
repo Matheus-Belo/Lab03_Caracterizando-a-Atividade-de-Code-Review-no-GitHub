@@ -1,0 +1,302 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+835,en: Fixed issue #816 - Updated the URL for Elasticache caching strategy in README.md [English version],626,True,False,,2024-04-09T18:54:59Z,0,1,0,1,1,1,2,0
+833,Create demo.txt,19,True,False,,2024-03-15T03:57:31Z,0,1,1,1,1,0,1,0
+846,Create ewrewr,291,True,False,,2024-03-12T03:11:51Z,0,1,2,1,1,0,1,0
+845,Create t,293,True,False,,2024-03-12T02:02:54Z,0,1,1,1,1,0,1,0
+667,Fix typo,97,True,False,,2024-03-01T19:33:48Z,0,2,2,3,5,5,10,0
+740,zh-TW: Fix anchors,147,True,False,,2024-02-02T13:34:40Z,0,2,0,1,2,2,4,0
+264,Add a little bit more description about profiling,64,True,False,,2024-01-29T03:43:43Z,1,3,0,1,1,1,2,0
+817,added jekyll themes,291,True,False,,2024-01-17T14:46:50Z,0,1,3,2,5,0,5,0
+577,German Translation README-de.md,291,True,False,,2024-01-09T11:02:53Z,2,4,0,1,1853,0,1853,0
+815,Typo fixed in README,10,True,False,,2023-12-03T09:59:05Z,0,1,0,1,1,1,2,0
+814,Fixed a typo in README,43,True,False,,2023-12-02T14:45:09Z,0,1,0,1,1,1,2,0
+557,add git action for generating epub and upload artifacts,428,True,False,,2023-12-02T06:26:01Z,2,4,2,1,18,0,18,0
+701,eng: ADDED the post scriptum hint ,164,True,False,,2023-09-13T18:49:14Z,1,3,0,1,1,0,1,0
+793,Update TRANSLATIONS.md,291,True,False,,2023-08-07T18:16:42Z,0,1,0,1,1,1,2,0
+795,test,291,True,False,,2023-08-07T18:15:31Z,0,41,0,46,193,192,385,0
+794,Update README.md,291,True,False,,2023-08-07T18:07:17Z,0,1,1,1,1,1,2,0
+781,update image background from transparent to white,0,True,False,,2023-08-04T19:30:52Z,0,2,3,1,0,0,0,0
+750,Fix Scalability Article links,353,True,True,2023-03-16T09:58:20Z,2023-03-16T09:58:20Z,1,2,1,1,5,5,10,647748.0
+538,Add Notion's data model,65,True,False,,2023-05-01T05:51:50Z,0,2,0,1,2,0,2,0
+772,Create Simple program on python,458,True,False,,2023-04-23T05:12:50Z,0,1,0,1,5,0,5,0
+746,Use wayback machine for lecloud.net links,41,True,False,,2023-04-10T09:35:39Z,0,2,0,1,5,5,10,0
+745,Added link of System Design Roadmap,473,True,False,,2023-04-09T05:17:57Z,0,2,0,1,1,0,1,0
+739,Solved Broken Link Issue #683,57,True,False,,2023-03-28T16:25:42Z,0,2,0,1,1,1,2,0
+661,Fix typos,0,True,True,2022-04-23T13:14:45Z,2022-04-23T13:14:45Z,1,3,3,3,3,3,6,508368.0
+634,Added white background to all images (#630),195,True,False,,2023-02-20T23:12:22Z,4,6,4,54,0,0,0,0
+735,deleted,291,True,False,,2023-01-24T15:18:05Z,0,1,1,2,0,3625,3625,0
+436,Add status of translations,0,True,True,2020-07-03T01:11:07Z,2020-07-03T01:11:07Z,0,1,1,1,163,0,163,903.0
+722,Remove anki links,291,True,False,,2022-12-18T12:09:06Z,0,1,0,11,2,5717,5719,0
+717,Fix top k requests link,291,True,True,2022-12-11T20:06:51Z,2022-12-11T20:06:51Z,2,3,1,1,1,1,2,1845441.0
+716,Update latency vs throughput blog link,291,True,True,2022-11-13T21:04:18Z,2022-11-13T21:04:18Z,1,2,1,1,1,1,2,615726.0
+715,"Add README-vi.md, translate motivation section",291,True,False,,2022-11-05T04:44:19Z,0,1,1,1,1838,0,1838,0
+451,Fix translations link in PR template,36,True,True,2020-08-02T18:13:18Z,2020-08-02T18:13:18Z,1,3,2,1,1,1,2,623143.0
+703,Changes,291,True,False,,2022-09-25T09:57:23Z,0,1,1,1,1,0,1,0
+631,Fix memcache architecture URL,61,True,True,2022-02-13T02:52:00Z,2022-02-13T02:52:00Z,1,2,1,4,4,4,8,4454876.0
+694,Fix Typo,10,True,True,2022-07-31T16:44:43Z,2022-07-31T16:44:43Z,1,2,1,1,1,1,2,70861.0
+698,efew,291,True,False,,2022-08-28T02:02:56Z,0,36,0,45,184,183,367,0
+585,Update generate-epub.sh,291,True,False,,2022-08-07T05:53:50Z,0,2,1,1,2,1,3,0
+680,Updated f-string formats,357,True,False,,2022-06-07T06:21:22Z,0,1,0,8,8,8,16,0
+641,Propose reliability non-functional requirements in the initial readme,1583,True,False,,2022-05-13T16:20:22Z,0,2,1,1,3,0,3,0
+651,Replace broken weighted round robin link (#650),291,True,True,2022-04-20T00:37:02Z,2022-04-20T00:37:02Z,1,3,1,1,1,1,2,2346492.0
+217,Fix #397: Change master/slave to primary/replica,1693,True,False,,2022-04-15T11:11:49Z,6,6,5,11,33,33,66,0
+468,docs: add links to top with jump2header,265,True,False,,2022-04-12T08:23:02Z,0,2,0,1,145,145,290,0
+656,Switch to gender neutral terms,409,True,False,,2022-03-30T22:17:53Z,0,2,1,2,2,2,4,0
+654,Switch to gender neutral terms,220,True,False,,2022-03-30T19:35:00Z,0,1,0,13,23,23,46,0
+652,"fix: fix ""How to Ace a Systems Design Interview"" link",291,True,False,,2022-03-27T14:44:52Z,0,1,1,4,4,4,8,0
+434,Update contributing guidelines for translations,0,True,True,2020-07-02T00:48:44Z,2020-07-02T00:48:44Z,0,1,0,1,20,14,34,731.0
+611,En: Add Apache SystemDS as ML system for data science,126,True,False,,2022-01-29T14:17:53Z,0,1,0,1,2,0,2,0
+355,Fix link,41,True,True,2020-01-21T00:26:10Z,2020-01-21T00:26:10Z,1,2,1,1,1,1,2,161633.0
+594,Update GitHub Engineer Blog link,365,True,True,2021-11-17T12:26:09Z,2021-11-17T12:26:09Z,1,2,1,4,4,4,8,3277144.0
+504,de: Add translation,291,True,False,,2021-10-16T19:06:51Z,0,5,3,1,322,0,322,0
+580,Added Freshworks company engineering blog,197,True,False,,2021-10-02T18:26:25Z,0,1,0,1,1,0,1,0
+570,en: removed a dead link,408,True,False,,2021-09-10T05:28:47Z,0,2,2,1,0,1,1,0
+483,changed user_id size from 32 bytes to 8 bytes,118,True,False,,2021-08-15T23:45:45Z,0,2,0,1,1,1,2,0
+556,add lint and pdf,291,True,False,,2021-08-14T00:11:20Z,0,1,0,3,28,1,29,0
+552,Add Vietnamese translation,319,True,False,,2021-08-04T13:43:33Z,0,1,1,1,1884,0,1884,0
+511,Fix capitalization of Dropbox,143,True,True,2021-05-09T18:20:50Z,2021-05-09T18:20:50Z,2,3,1,1,1,1,2,6534870.0
+395,Remove invalid link,19,True,False,,2021-04-16T02:52:46Z,1,4,4,1,1,1,2,0
+444,Included kakfa for message queuing,291,True,False,,2021-04-02T23:18:42Z,0,9,1,1,4,0,4,0
+509,Merge pull request #1 from donnemartin/master,298,True,False,,2021-02-16T07:38:01Z,0,1,0,0,0,0,0,0
+505,Fix LRU cache link,112,True,True,2021-02-16T02:14:06Z,2021-02-16T02:14:06Z,1,2,1,1,1,1,2,1153753.0
+500,Update indieflashblog link,429,True,True,2021-02-16T02:10:04Z,2021-02-16T02:10:04Z,1,2,0,4,4,4,8,1960946.0
+488,Add German translation,44,True,False,,2021-02-01T08:11:47Z,0,2,1,1,1836,0,1836,0
+486,Fix Celery url,28,True,True,2020-12-29T02:51:33Z,2020-12-29T02:51:33Z,1,2,1,1,1,1,2,4201494.0
+348,Fix broken link in CAP theorem section,0,True,True,2020-02-17T02:00:45Z,2020-02-17T02:00:45Z,1,2,1,1,1,1,2,3478028.0
+440,Redesign front Diagram,253,True,False,,2020-11-28T05:01:03Z,0,2,0,1,2,1,3,0
+481,Update broken HBase architecture link,271,True,True,2020-10-30T01:14:46Z,2020-10-30T01:14:46Z,1,2,1,1,2,2,4,1750371.0
+489,Merge pull request #1 from donnemartin/master,303,True,False,,2020-11-13T21:54:18Z,0,1,0,0,0,0,0,0
+458,Merge pull request #1 from donnemartin/master,354,True,False,,2020-08-27T22:29:47Z,0,3,1,0,0,0,0,0
+456,Merge pull request #1 from donnemartin/master,307,True,False,,2020-08-06T01:30:31Z,0,1,0,0,0,0,0,0
+447,Fix #335: Update OSI image to Open Systems Interconnection ,291,True,True,2020-08-02T18:10:23Z,2020-08-02T18:10:23Z,2,2,3,1,0,0,0,1475249.0
+168,Remove Imgur dependency by storing images locally,0,True,True,2020-07-18T01:15:48Z,2020-07-18T01:15:48Z,2,3,4,40,152,152,304,63494383.0
+314,Add clarity to availability pattern description,47,True,False,,2020-07-14T01:22:54Z,0,2,1,1,4,1,5,0
+393,Remove extraneous __init__.py,0,True,True,2020-07-12T16:02:45Z,2020-07-12T16:02:45Z,1,1,0,1,0,0,0,9751270.0
+441,Resolve #281: Add design stock exchange links,10,True,True,2020-07-12T16:00:04Z,2020-07-12T16:00:04Z,1,2,1,1,1,0,1,475611.0
+295,Change disk to HDD for clarity,212,True,True,2020-07-11T01:01:12Z,2020-07-11T01:01:13Z,4,5,2,1,3,3,6,32596303.0
+408,Included apache kafka for event queuing,94,True,False,,2020-07-10T10:58:46Z,4,9,1,1,4,0,4,0
+425,Fix: metadata-file,222,True,False,,2020-07-10T01:18:58Z,10,3,4,1,1,1,2,0
+310,Clarify CDN advantages,131,True,True,2020-07-10T00:49:44Z,2020-07-10T00:49:44Z,3,4,1,1,1,1,2,30004668.0
+319,Add links for latency based and geolocation based routing,107,True,True,2020-07-10T00:48:47Z,2020-07-10T00:48:47Z,1,2,1,1,2,2,4,26333355.0
+321,Update dead links,0,True,True,2020-07-09T00:10:17Z,2020-07-09T00:10:17Z,5,4,2,1,2,3,5,26137171.0
+336,Update url for weighted round robin,100,True,False,,2020-07-09T00:08:56Z,2,3,1,1,2,2,4,0
+394,Remove redundant space,22,True,False,,2020-07-08T00:57:49Z,0,2,1,1,1,1,2,0
+396,"Fix the loop over ""self.cards""",0,True,True,2020-07-08T00:56:06Z,2020-07-08T00:56:06Z,1,2,1,1,1,1,2,8034978.0
+400,Add CAP theorem video,66,True,True,2020-07-08T00:54:02Z,2020-07-08T00:54:02Z,1,4,3,1,1,0,1,7372554.0
+418,Fix typo: Change replication to federation,164,True,True,2020-07-04T14:53:57Z,2020-07-04T14:53:57Z,1,2,1,1,1,1,2,3579167.0
+405,Remove redundant SQL index in Pastebin exercise,150,True,True,2020-07-07T01:05:51Z,2020-07-07T01:05:51Z,1,2,1,1,1,1,2,6673785.0
+409,Fix Mint exercise bugs and typos,0,True,True,2020-07-07T01:00:34Z,2020-07-07T01:00:34Z,1,2,1,1,8,8,16,5375695.0
+433,Add system design template link,0,True,True,2020-07-05T14:53:29Z,2020-07-05T14:53:29Z,2,2,3,1,1,0,1,413853.0
+356,update readme.md,197,True,False,,2020-07-05T15:00:39Z,0,2,1,1,1,1,2,0
+340,kr: Fix Korean translation link in language index,174,True,True,2020-07-05T14:57:58Z,2020-07-05T14:57:58Z,2,3,1,4,4,4,8,18363935.0
+428,"Write word ""Korean"" in Korean language.",63,True,False,,2020-07-05T14:58:57Z,1,3,2,4,4,4,8,0
+439,Fix #313: Clarify availability patterns,28,True,True,2020-07-05T14:50:31Z,2020-07-05T14:50:31Z,1,3,1,1,1,1,2,42686.0
+438,Fix typos in Twitter and web crawler exercises,72,True,True,2020-07-05T14:48:23Z,2020-07-05T14:48:23Z,1,2,1,2,3,3,6,80304.0
+293,Use epub-metadata option,118,True,False,,2020-07-04T15:19:22Z,0,3,2,1,1,1,2,0
+269,Removed confusing and duplicated diagram from the header.,0,True,False,,2020-07-04T15:16:31Z,0,2,1,1,0,5,5,0
+391,"Revert ""zh-cn: Sync with upstream to keep it up-to-date (#374)""",80,True,True,2020-03-10T01:46:03Z,2020-03-10T01:46:03Z,0,1,1,9,1466,1458,2924,103.0
+414,Update design Twitter back-of-the-envelope calculations,85,True,True,2020-07-04T14:55:43Z,2020-07-04T14:55:43Z,1,2,1,1,1,0,1,4132407.0
+154,"Fixed grammar in ""Learn how to design large-scale systems""",0,True,False,,2020-07-04T14:40:44Z,2,3,1,1,2,2,4,0
+283,Resolve #271: Add a Gitter chat badge,0,True,False,,2019-05-30T00:11:56Z,0,1,0,0,0,0,0,0
+406,Check dependencies in Ebook gen script,44,True,True,2020-07-04T01:24:24Z,2020-07-04T01:24:24Z,2,3,3,1,15,1,16,6026700.0
+350,Resolve #164 - Fix phrasing with availability and partition tolerance,152,True,True,2020-07-04T01:22:03Z,2020-07-04T01:22:03Z,2,3,1,1,1,1,2,15329103.0
+437,Highlight translation request,0,True,True,2020-07-03T01:18:37Z,2020-07-03T01:18:37Z,0,1,0,1,2,0,2,27.0
+435,Add pull request template,0,True,True,2020-07-02T00:54:06Z,2020-07-02T00:54:06Z,0,1,0,1,11,0,11,34.0
+317,Fix a typo in Layer 7 load balancer of README.md,0,True,True,2020-07-01T00:56:56Z,2020-07-01T00:56:56Z,1,2,1,1,1,1,2,26283204.0
+398,fix: typo,39,True,True,2020-07-01T00:42:25Z,2020-07-01T00:42:25Z,2,3,1,1,2,2,4,7220418.0
+399,Missing comma,0,True,True,2020-07-01T00:37:50Z,2020-07-01T00:37:50Z,2,3,1,1,1,1,2,6855680.0
+432,Added system design template,0,True,False,,2020-06-30T19:46:48Z,0,1,0,1,90,0,90,0
+411,"Update ""Scaling up to your first 10 million users"" link",148,True,True,2020-05-26T01:59:02Z,2020-05-26T01:59:02Z,1,2,1,1,4,4,8,1435560.0
+392,zh-Hans: Translate solutions,13,True,True,2020-03-30T00:40:50Z,2020-03-30T00:40:51Z,1,8,2,9,2525,10,2535,1703917.0
+374,zh-cn: Sync with upstream to keep it up-to-date,0,True,True,2020-03-10T01:34:19Z,2020-03-10T01:34:19Z,1,8,4,9,1458,1466,2924,980721.0
+361,Merge pull request #1 from donnemartin/master,19,True,False,,2020-02-15T11:17:11Z,0,1,0,0,0,0,0,0
+351,Fix broken 'round robin' links,144,True,True,2020-01-15T15:04:08Z,2020-01-15T15:04:08Z,1,2,1,1,2,2,4,219325.0
+345,raise NotImplemented —> raise NotImplementedError,266,True,True,2019-12-27T01:11:58Z,2019-12-27T01:11:58Z,1,2,1,1,1,1,2,61558.0
+305,ja: Fix mistranslation in SQL tuning section,56,True,True,2019-12-09T03:35:45Z,2019-12-09T03:35:45Z,3,3,3,1,11,11,22,12397365.0
+318,change CN translation to make it more accurate,66,True,True,2019-12-09T03:34:17Z,2019-12-09T03:34:17Z,2,3,1,1,1,1,2,8562644.0
+320,Update DMOZ link - archive,115,True,False,,2019-11-26T04:40:09Z,0,2,1,1,1,1,2,0
+328,Add API security checklist inside Security section,138,True,True,2019-11-03T10:56:25Z,2019-11-03T10:56:25Z,0,2,1,1,1,0,1,2012969.0
+332,Fixed typo.,0,True,False,,2019-11-03T10:50:01Z,1,2,0,1,4,4,8,0
+333,Merge pull request #1 from donnemartin/master,4,True,False,,2019-11-03T10:47:08Z,1,2,0,0,0,0,0,0
+292,ja: Fix typo of Big-O notation in KVS section,711,True,True,2019-07-06T15:07:14Z,2019-07-06T15:07:14Z,1,3,3,1,1,1,2,1486088.0
+315,Merge pull request #1 from donnemartin/master,19,True,False,,2019-08-24T00:23:30Z,0,1,0,0,0,0,0,0
+308,ja: Fix translation in Service Discovery section,259,True,True,2019-08-13T23:51:20Z,2019-08-13T23:51:20Z,2,3,2,1,1,1,2,1841984.0
+307,ja: Fix translation in Load balancer section,211,True,True,2019-08-13T23:50:53Z,2019-08-13T23:50:53Z,2,3,2,1,1,1,2,1842033.0
+306,ja: Fix translation in Anki flashcards section,120,True,True,2019-08-13T23:50:10Z,2019-08-13T23:50:10Z,2,3,2,1,1,1,2,1842063.0
+303,ja: Fix translation in Federation section,633,True,True,2019-08-05T00:30:54Z,2019-08-05T00:30:54Z,2,3,1,1,1,1,2,2192580.0
+302,ja: Fix translation in reverse proxy (web server) section,101,True,True,2019-08-03T14:08:19Z,2019-08-03T14:08:19Z,2,3,1,1,1,1,2,2069682.0
+301,ja: Fix translation in horizontal scaling section,156,True,True,2019-08-03T14:07:59Z,2019-08-03T14:07:59Z,2,4,3,1,1,1,2,2239802.0
+300,ja: Fix translation in push CDNs section,104,True,True,2019-08-03T14:07:35Z,2019-08-03T14:07:35Z,2,3,1,1,1,1,2,2240472.0
+299,ja: Fix translation in weak consistency section,190,True,True,2019-08-03T14:06:58Z,2019-08-03T14:06:58Z,2,3,2,1,2,2,4,2491323.0
+298,Merge pull request #1 from donnemartin/master,17,True,False,,2019-07-05T02:32:49Z,0,1,0,0,0,0,0,0
+273,zh-Hans: Translate Pastebin solution,21,True,True,2019-06-16T15:21:22Z,2019-06-16T15:21:22Z,8,3,6,2,331,1,332,4441772.0
+286,Add Hebrew translation link,0,True,True,2019-05-31T00:25:27Z,2019-05-31T00:25:27Z,0,1,0,4,4,4,8,87102.0
+282,Add a Gitter chat badge to README.md,392,True,False,,2019-05-18T02:42:39Z,0,4,0,3,1789,0,1789,0
+280,Update language list in translations,0,True,True,2019-05-14T01:56:37Z,2019-05-14T01:56:37Z,0,1,0,3,4,2,6,137197.0
+237,Add availability in numbers section,136,True,True,2019-05-12T11:19:23Z,2019-05-12T11:19:23Z,7,5,7,1,47,0,47,14545822.0
+207,Add Ebook generation script,299,True,True,2019-05-12T10:21:15Z,2019-05-12T10:21:15Z,1,3,6,7,164,120,284,21741624.0
+252,Translate language list,152,True,True,2019-05-11T16:42:59Z,2019-05-11T16:42:59Z,1,2,4,1,1,1,2,7776740.0
+275,Update HDFS design link to the latest version,0,True,True,2019-05-07T10:22:13Z,2019-05-07T10:22:13Z,1,2,1,1,1,1,2,407989.0
+268,Enable syntax highlighting in all python code snippets,173,True,True,2019-05-07T10:24:42Z,2019-05-07T10:24:42Z,1,2,1,10,30,30,60,2065128.0
+124,"Add article link: How Twitter Handles 3,000 Images/sec",0,True,True,2019-04-10T00:47:00Z,2019-04-10T00:47:00Z,3,2,3,1,1,1,2,39613160.0
+238,--fix: Missing `path` in argument.,107,True,False,,2019-04-10T00:44:49Z,2,3,1,1,1,1,2,0
+253,add line engineering blog,54,True,False,,2019-04-10T00:42:51Z,0,2,1,1,1,1,2,0
+266,Add Stripe engineering blog to README.md,0,True,False,,2019-04-10T00:42:28Z,0,2,1,1,1,0,1,0
+263,Merge pull request #1 from donnemartin/master,27,True,False,,2019-04-04T19:20:42Z,0,1,1,0,0,0,0,0
+258,Fix broken SQL link in Scaling AWS exercise,134,True,True,2019-03-18T00:55:20Z,2019-03-18T00:55:20Z,1,2,1,1,1,1,2,1303903.0
+259,Merge pull request #1 from donnemartin/master,15,True,False,,2019-03-10T08:13:55Z,0,1,0,0,0,0,0,0
+257,Enable Python syntax highlighting in Pastebin sample code,90,True,True,2019-03-04T03:28:44Z,2019-03-04T03:28:44Z,1,2,1,1,1,1,2,305417.0
+255,Update document-store to document store,36,True,True,2019-02-28T11:55:51Z,2019-02-28T11:55:51Z,1,2,1,1,2,2,4,657827.0
+251,Fix typo in Twitter timeline and search solution,0,True,True,2019-02-11T10:48:37Z,2019-02-11T10:48:37Z,2,3,1,1,1,1,2,120420.0
+247,Fix grammar in document store section,53,True,True,2019-02-03T12:35:25Z,2019-02-03T12:35:25Z,1,2,1,1,1,1,2,843319.0
+246,zh-Hans: Fix typo,0,True,True,2019-01-20T19:59:43Z,2019-01-20T19:59:43Z,2,3,1,1,1,1,2,494541.0
+245,Add missing word in cache write through discussion,0,True,True,2019-01-05T17:20:17Z,2019-01-05T17:20:17Z,1,2,1,1,1,1,2,561542.0
+242,Add Bengali translation link,0,True,True,2018-12-28T00:39:12Z,2018-12-28T00:39:12Z,0,1,0,1,1,1,2,1109553.0
+233,Fix #228: Address mutex latency discrepancy,23,True,True,2018-12-19T02:17:01Z,2018-12-19T02:17:01Z,4,3,4,4,4,4,8,2912786.0
+230,Proper text formatting,78,True,False,,2018-12-15T04:10:09Z,1,2,1,1,7,1,8,0
+232,fixes mutex latency for zh,24,True,False,,2018-12-15T04:01:20Z,0,2,1,1,1,1,2,0
+231,fixes mutex latency for ja,23,True,False,,2018-12-15T04:01:11Z,0,2,1,1,1,1,2,0
+229,Add Link: A 360 Degree View Of The Entire Netflix Stack,49,True,True,2018-11-14T01:23:22Z,2018-11-14T01:23:22Z,1,2,2,1,1,1,2,1086009.0
+227,zh-TW: Update index anchors,199,True,True,2018-10-31T22:34:52Z,2018-10-31T22:34:52Z,2,4,4,1,20,20,40,1130814.0
+93,Add automated testing,299,True,False,,2018-10-28T21:25:17Z,2,4,12,1,11,0,11,0
+226,ja: Fix typo,169,True,True,2018-10-26T00:20:27Z,2018-10-26T00:20:27Z,1,3,4,1,7,7,14,895550.0
+224,Update Scalability for Dummies link,0,True,True,2018-10-11T01:13:43Z,2018-10-11T01:13:43Z,2,3,1,4,4,4,8,205528.0
+218,Resolve #214: Add reference links to message queues section,10,True,True,2018-10-01T00:38:29Z,2018-10-01T00:38:29Z,1,2,1,2,4,4,8,750173.0
+216,Update README intro,0,True,True,2018-09-24T00:12:12Z,2018-09-24T00:12:12Z,1,2,0,1,1,1,2,345593.0
+213,Update Cassandra architecture links,551,True,True,2018-09-19T00:10:27Z,2018-09-19T00:10:27Z,4,3,2,1,2,2,4,278267.0
+209, zh-Hans: Update translation,27,True,True,2018-09-16T07:48:51Z,2018-09-16T07:48:51Z,3,4,2,1,4,4,8,862233.0
+212, zh-Hans: Update translation,0,True,True,2018-09-15T07:29:04Z,2018-09-15T07:29:04Z,3,4,2,1,1,1,2,73462.0
+208,zh-Hans: Fix translation,0,True,True,2018-09-14T21:10:40Z,2018-09-14T21:10:40Z,3,4,2,1,1,1,2,893984.0
+210,Fix typo in Design Pastebin.com exercise,0,True,True,2018-09-08T00:47:44Z,2018-09-08T00:47:44Z,3,4,1,1,1,1,2,106823.0
+206,Fix #126: Update link to Anki decks,168,True,True,2018-09-02T18:10:43Z,2018-09-02T18:10:43Z,1,2,1,1,3,3,6,168999.0
+204,Fix broken links,250,True,True,2018-08-29T00:56:39Z,2018-08-29T00:56:39Z,1,2,1,1,10,11,21,518650.0
+205,Fix typo in CAP theorem section,50,True,True,2018-08-24T06:24:59Z,2018-08-24T06:24:59Z,1,2,1,1,1,1,2,48269.0
+202,Update Twitter/Facebook exercise description,98,True,True,2018-08-20T04:38:44Z,2018-08-20T04:38:44Z,1,2,1,1,1,1,2,141684.0
+200,zh-Hans: Fix typo: 'Twitter' ,0,True,True,2018-08-14T02:32:16Z,2018-08-14T02:32:16Z,1,2,1,1,1,1,2,156933.0
+199,Resolve #195: Fix broken GitHub URLs,13,True,True,2018-08-13T00:49:30Z,2018-08-13T00:49:31Z,1,2,1,5,5,5,10,65596.0
+197,Fix wording in call center solution,28,True,True,2018-08-09T12:01:27Z,2018-08-09T12:01:27Z,1,3,1,1,2,2,4,104236.0
+196,Fix error in Twitter timeline solution,24,True,True,2018-08-07T01:25:00Z,2018-08-07T01:25:00Z,1,2,1,1,1,1,2,33948.0
+191,Update CONTRIBUTING.md,103,True,False,,2018-08-07T01:29:18Z,0,2,1,1,5,5,10,0
+192, Added link to Stripe engineering blog,0,True,False,,2018-08-05T13:56:50Z,0,2,1,1,1,0,1,0
+194,Fix broken URL,52,True,True,2018-08-05T13:52:04Z,2018-08-05T13:52:04Z,1,2,1,1,1,1,2,70591.0
+190,Add Thai translation link,0,True,True,2018-08-01T22:18:42Z,2018-08-01T22:18:42Z,0,1,0,1,1,1,2,66348.0
+188,Add German translation link,0,True,True,2018-07-30T02:05:41Z,2018-07-30T02:05:41Z,0,1,0,1,1,1,2,84859.0
+185,Translation for 7 Layers OSI Model,18,True,False,,2018-07-27T02:04:01Z,1,2,0,1,2,2,4,0
+180,Fix broken links,0,True,True,2018-07-25T01:55:55Z,2018-07-25T01:55:55Z,2,3,1,4,15,15,30,496723.0
+182,Fix typo in LRU cache solution,0,True,True,2018-07-23T06:13:03Z,2018-07-23T06:13:03Z,1,2,1,1,1,1,2,153581.0
+184,sertyuiop,0,True,False,,2018-07-23T06:12:15Z,1,3,0,5,8,6,14,0
+183,Add Arabic translation link,0,True,False,,2018-07-21T16:52:25Z,0,2,0,1,1,1,2,0
+176,zh-TW: Improve translations,0,True,True,2018-07-20T04:46:36Z,2018-07-20T04:46:36Z,1,5,5,1,4,4,8,333491.0
+173,Add newlines - PEP8 style,759,True,True,2018-07-19T06:09:09Z,2018-07-19T06:09:10Z,1,2,1,3,3,1,4,346388.0
+174,add Contactually tech blog,46,True,False,,2018-07-19T06:06:29Z,0,2,1,1,1,0,1,0
+177,Add Arabic translation link,0,True,True,2018-07-18T04:58:14Z,2018-07-18T04:58:14Z,0,1,0,1,1,1,2,88097.0
+162,Temporarily supress flake8 testing of social_graph_snippets.py,99,True,False,,2018-07-15T05:58:34Z,0,2,3,1,3,0,3,0
+167,Fix #148: Add State(Enum) to social_graph_snippets.py,36,True,True,2018-07-15T00:01:58Z,2018-07-15T00:01:58Z,1,2,1,1,6,0,6,129788.0
+169,ja: Swap VARCHAR and CHAR translation error,217,True,True,2018-07-15T00:05:15Z,2018-07-15T00:05:15Z,1,3,2,1,1,1,2,52304.0
+166,zh-Hans: Fix PostgreSQL typo,24,True,True,2018-07-13T11:32:15Z,2018-07-13T11:32:15Z,1,2,1,1,1,1,2,332477.0
+165,New Update from master,0,True,False,,2018-07-09T10:51:37Z,0,0,1,1,1,0,1,0
+163,Replace broken SQL tuning links,66,True,True,2018-06-29T03:18:12Z,2018-06-29T03:18:12Z,1,2,1,1,2,2,4,562034.0
+161,zh-Hans: Fix typo,22,True,True,2018-06-16T05:30:42Z,2018-06-16T05:30:42Z,2,4,1,1,1,1,2,1639564.0
+159,Change variable seller to category in Mint solution,185,True,True,2018-05-23T03:15:43Z,2018-05-23T03:15:43Z,1,2,1,1,1,1,2,2319057.0
+157,Add missing enum imports,578,True,True,2018-05-07T01:26:02Z,2018-05-07T01:26:02Z,1,2,2,2,6,2,8,1787542.0
+158,Adding missing self variable,120,True,True,2018-05-07T01:25:32Z,2018-05-07T01:25:32Z,1,2,1,1,1,1,2,931288.0
+149,Fix coding errors,297,True,True,2018-04-26T01:19:05Z,2018-04-26T01:19:05Z,1,2,2,3,5,5,10,3676049.0
+153,Fix dict KeyError,39,True,True,2018-04-26T01:22:26Z,2018-04-26T01:22:26Z,2,2,1,1,2,2,4,1996123.0
+152,Fix dict KeyError,53,True,True,2018-04-26T01:22:06Z,2018-04-26T01:22:06Z,2,2,1,1,2,2,4,1996180.0
+155,zh-TW: Fix comment format,79,True,True,2018-04-11T00:28:16Z,2018-04-11T00:28:16Z,2,3,4,1,1,1,2,664308.0
+146,Change LARGE to VehicleSize.LARGE in parking lot solution,63,True,True,2018-04-09T00:25:12Z,2018-04-09T00:25:12Z,2,2,4,1,2,2,4,2584080.0
+70,zh-Hans: Change misleading translation,58,True,False,,2018-04-09T00:32:18Z,0,3,4,1,2,2,4,0
+151,Merge pull request #2 from donnemartin/master,13,True,False,,2018-03-29T17:11:16Z,0,2,0,0,0,0,0,0
+147,Add deque import to Social Graph solution,84,True,True,2018-03-24T23:38:34Z,2018-03-24T23:38:34Z,1,2,0,1,2,0,2,1268638.0
+145,Add missing self variables to Deck of Cards solution,18,True,True,2018-03-18T13:21:53Z,2018-03-18T13:21:53Z,1,2,1,1,3,3,6,978548.0
+143,Add missing colons to class methods,72,True,True,2018-03-18T13:19:08Z,2018-03-18T13:19:08Z,0,2,1,2,2,2,4,979531.0
+144,deck_of_cards: Do not forget 'self',0,True,False,,2018-03-07T05:33:08Z,0,1,0,1,3,3,6,0
+142,Add Spanish translation link,0,True,True,2018-03-08T01:38:50Z,2018-03-08T01:38:50Z,0,1,0,1,1,1,2,89557.0
+141,zh-Hans: Fix typos,0,True,True,2018-03-08T01:37:46Z,2018-03-08T01:37:46Z,1,3,2,1,7,7,14,233053.0
+98,Convert all .py files to be valid Python,226,True,True,2018-03-07T00:37:47Z,2018-03-07T00:37:47Z,3,2,8,7,78,39,117,17601508.0
+140,Add Greek translation link,0,True,True,2018-03-06T01:29:08Z,2018-03-06T01:29:08Z,0,1,0,1,1,1,2,109342.0
+139,zh-TW: Add proper line break to links,119,True,True,2018-03-04T19:14:45Z,2018-03-04T19:14:45Z,1,2,1,1,16,16,32,183316.0
+133,Add Traditional Chinese translation,203,True,True,2018-02-28T02:41:24Z,2018-02-28T02:41:24Z,8,4,23,2,1787,1,1788,1201820.0
+137,Update re:Invent url to 2017 version,158,True,True,2018-02-27T02:28:05Z,2018-02-27T02:28:05Z,1,2,1,3,18,18,36,135391.0
+135,Update contributing guidelines - PR squash,0,True,True,2018-02-23T03:49:18Z,2018-02-23T03:49:18Z,0,1,0,1,1,0,1,274465.0
+132,Fix a formatting inconsistency in the first line,0,True,False,,2018-02-16T04:03:18Z,0,2,4,1,1,1,2,0
+125,Add Facebook Live Streams,0,True,True,2018-02-16T01:37:46Z,2018-02-16T01:37:46Z,1,2,1,1,1,1,2,3500837.0
+129,Update master-slave section anchor,82,True,True,2018-02-08T00:57:01Z,2018-02-08T00:57:01Z,1,2,1,4,4,4,8,1051546.0
+123,Add Scaling Uber in Company Architecture,0,True,True,2018-02-02T23:08:50Z,2018-02-02T23:08:50Z,1,2,1,1,1,1,2,2369053.0
+128,Add Vietnamese translation link,0,True,True,2018-01-24T05:26:59Z,2018-01-24T05:27:00Z,0,1,0,1,1,1,2,91180.0
+122,Add Netflix in Company Architectures,0,True,True,2018-01-21T16:55:00Z,2018-01-21T16:55:00Z,2,3,1,1,1,0,1,1310105.0
+121,add Netflix in Company Architecture,0,True,False,,2018-01-21T16:51:13Z,1,2,2,1,4,3,7,0
+120,Minor wording/formatting changes,0,True,True,2018-01-06T00:25:20Z,2018-01-06T00:25:20Z,0,1,0,1,8,10,18,524441.0
+119,ja: Fix typo ,692,True,True,2017-12-08T01:18:26Z,2017-12-08T01:18:26Z,1,3,4,1,1,1,2,123313.0
+118,Update Japanese translation link,0,True,True,2017-12-03T12:09:42Z,2017-12-03T12:09:42Z,0,1,0,1,1,1,2,77774.0
+117,Add Japanese Translation (#114),0,True,True,2017-12-02T01:28:00Z,2017-12-02T01:28:00Z,0,1,1,1,1787,0,1787,35.0
+114,Add Japanese Translation,40,True,True,2017-12-02T01:15:57Z,2017-12-02T01:15:57Z,6,5,9,1,1787,0,1787,3098108.0
+116,Correct Redis list structure in Twitter solution,255,True,True,2017-11-30T01:12:16Z,2017-11-30T01:12:16Z,1,2,1,1,1,1,2,864058.0
+36,"Update service discovery section to include consul, etcd, and additional details",0,True,True,2017-03-28T11:45:13Z,2017-03-28T11:45:13Z,3,5,1,1,1,1,2,154024.0
+115,Add Persian translation link,0,True,True,2017-11-03T00:03:29Z,2017-11-03T00:03:29Z,0,1,0,1,2,2,4,173707.0
+113,Simplify logic for is_ace and is_face_card in deck of cards solution,0,True,True,2017-10-25T01:06:00Z,2017-10-25T01:06:00Z,1,2,1,1,2,2,4,277757.0
+111,Add Korean translation link,0,True,True,2017-10-14T00:26:47Z,2017-10-14T00:26:47Z,0,1,0,1,1,1,2,548614.0
+108,Add API rate limiter design link,0,True,True,2017-10-09T00:52:45Z,2017-10-09T00:52:45Z,1,2,2,1,1,0,1,844929.0
+109,Fix typo: considering -> consider in scaling AWS solution,91,True,True,2017-10-07T16:06:38Z,2017-10-07T16:06:38Z,1,2,1,1,1,1,2,480230.0
+106,Add Italian translation link,0,True,True,2017-09-24T11:43:55Z,2017-09-24T11:43:55Z,0,1,0,1,1,1,2,78251.0
+105,Add traditional Chinese translation link,0,True,True,2017-09-19T23:30:45Z,2017-09-19T23:30:45Z,0,1,0,1,1,1,2,54.0
+101,Add Japanese translation link,0,True,True,2017-09-15T01:05:02Z,2017-09-15T01:05:02Z,0,1,0,1,1,1,2,45.0
+99,Treat solution subdirectories as containing Python packages,0,True,True,2017-08-30T00:13:03Z,2017-08-30T00:13:03Z,0,1,0,1,0,0,0,606899.0
+97,Merge pull request #1 from donnemartin/master,20,True,False,,2017-07-29T04:49:29Z,0,1,1,0,0,0,0,0
+91,Add Russian translation link,0,True,True,2017-07-23T16:07:36Z,2017-07-23T16:07:36Z,0,1,0,1,1,1,2,1268655.0
+96,Mention policy for adding new blogs to Company engineering blogs section,18,True,True,2017-07-18T02:29:29Z,2017-07-18T02:29:29Z,1,2,1,1,2,0,2,226.0
+92,Add Grab Engineering Blog link,237,True,False,,2017-07-18T02:13:02Z,1,2,3,2,2,0,2,0
+94,Merge pull request #1 from donnemartin/master,5,True,False,,2017-07-18T02:14:46Z,0,2,0,0,0,0,0,0
+95,Fix typo in denormalization section,0,True,True,2017-07-18T02:08:37Z,2017-07-18T02:08:37Z,1,2,1,1,1,1,2,43440.0
+89,Add polish translation link,0,True,True,2017-07-01T16:07:08Z,2017-07-01T16:07:08Z,0,1,0,1,1,1,2,392.0
+85,Fix reducer argument in pastebin exercise,204,True,True,2017-06-14T00:43:11Z,2017-06-14T00:43:11Z,1,2,1,1,1,1,2,638599.0
+82,Add prev to Node class,90,True,True,2017-06-06T00:25:04Z,2017-06-06T00:25:04Z,0,2,1,1,2,1,3,644624.0
+83,Init spot_size member in parking lot exercise,29,True,True,2017-05-30T00:55:33Z,2017-05-30T00:55:33Z,1,2,1,1,1,1,2,29265.0
+78,Add license disclaimer,27,True,False,,2017-05-27T00:34:53Z,1,2,0,2,10,0,10,0
+75,Fix typo,0,True,True,2017-05-27T00:32:45Z,2017-05-27T00:32:45Z,1,2,1,1,1,1,2,1508482.0
+81,Fix #79: Inaccuracy in Twitter timeline and search example,0,True,True,2017-05-27T00:31:32Z,2017-05-27T00:31:32Z,1,2,1,1,1,1,2,168256.0
+80,re-base,0,True,False,,2017-05-23T12:42:28Z,0,1,0,0,0,0,0,0
+69,Fix asynchronism link in mint README,0,True,True,2017-05-16T04:10:52Z,2017-05-16T04:10:52Z,2,3,1,1,1,1,2,2088239.0
+74,Fix lowercase typo in Layer 7 load balancing title,50,True,True,2017-05-16T04:17:24Z,2017-05-16T04:17:24Z,1,2,1,1,1,1,2,1154933.0
+76,Add license disclaimer,77,True,True,2017-05-12T04:49:37Z,2017-05-12T04:49:37Z,0,1,0,2,10,0,10,86.0
+73,Merge pull request #1 from donnemartin/master,17,True,False,,2017-04-26T13:08:17Z,0,1,0,0,0,0,0,0
+72,Merge pull request #1 from donnemartin/master,17,True,False,,2017-04-26T13:05:39Z,0,1,0,0,0,0,0,0
+71,Merge pull request #1 from donnemartin/master,17,True,False,,2017-04-26T13:02:42Z,0,1,0,0,0,0,0,0
+62,zh-cn: Add Simplified Chinese translation v1.0,122,True,True,2017-04-15T13:32:32Z,2017-04-15T13:32:32Z,1,2,4,1,1797,0,1797,20892.0
+65,Update translation links,130,True,True,2017-04-16T22:06:31Z,2017-04-16T22:06:31Z,0,1,0,1,3,8,11,128.0
+64,zh-cn: Rename README-zh-Hant.md to README-zh-Hans.md,84,True,True,2017-04-16T21:49:16Z,2017-04-16T21:49:16Z,1,2,2,1,0,0,0,66724.0
+60,Simplified Chinese translation v1.0,200,True,False,,2017-04-15T07:59:20Z,0,7,3,1,1797,0,1797,0
+61,Update translations section in contributing guidelines,97,True,True,2017-04-15T00:35:51Z,2017-04-15T00:35:51Z,0,1,0,1,5,4,9,26.0
+59,"Fix ""Coding deck"" link typo",0,True,True,2017-04-14T01:04:39Z,2017-04-14T01:04:39Z,0,2,1,1,1,1,2,108953.0
+57,Update Translations section,0,True,True,2017-04-10T11:04:43Z,2017-04-10T11:04:43Z,0,1,0,1,8,4,12,19.0
+56,Update system design flashcards,0,True,True,2017-04-09T17:15:58Z,2017-04-09T17:15:58Z,0,1,0,1,0,0,0,14.0
+55,Change Pull CDN wording for clarity,0,True,True,2017-04-08T00:20:38Z,2017-04-08T00:20:38Z,1,2,1,1,1,1,2,2173.0
+51,Fix grammar README.md,16,True,False,,2017-04-06T07:02:45Z,0,1,1,1,1,1,2,0
+50,Change AP wording for clarity,287,True,True,2017-04-04T09:56:39Z,2017-04-04T09:56:39Z,1,2,1,1,1,1,2,5365.0
+49,Add reference to interactive coding challenges repo,0,True,True,2017-04-03T10:41:01Z,2017-04-03T10:41:01Z,0,1,0,1,13,0,13,237.0
+48,Resolve #15: Add OmniGraffle template and diagrams,436,True,True,2017-04-02T12:34:48Z,2017-04-02T12:34:48Z,0,2,0,18,0,0,0,67.0
+47,"Polish up HTTP, RPC, and intro sections",130,True,True,2017-04-02T12:09:51Z,2017-04-02T12:09:51Z,0,1,0,1,11,10,21,45.0
+46,系统设计入门 第二部分 翻译完成,0,True,False,,2017-03-31T20:18:40Z,0,2,0,1,1773,0,1773,0
+35,Explain difference between PUT & PATCH,134,True,True,2017-03-29T10:19:15Z,2017-03-29T10:19:15Z,1,2,2,1,2,0,2,300551.0
+37,Add translations to contributing guidelines,0,True,True,2017-03-27T11:21:08Z,2017-03-27T11:21:08Z,0,1,0,1,29,0,29,30.0
+34,change the service discovery documenation example to use consul/etcd,81,True,False,,2017-03-26T17:02:10Z,2,3,4,1,4,1,5,0
+29,Fix typo,0,True,True,2017-03-23T02:53:16Z,2017-03-23T02:53:16Z,2,3,1,1,1,1,2,36535.0
+33,Fix typos,0,True,True,2017-03-24T02:42:03Z,2017-03-24T02:42:03Z,1,2,1,1,2,2,4,15113.0
+30,Add call for translations link,0,True,True,2017-03-23T03:20:58Z,2017-03-23T03:20:58Z,0,1,0,1,4,0,4,15.0
+26,Declare variable key in the get_user example,212,True,True,2017-03-21T11:39:11Z,2017-03-21T11:39:11Z,1,2,1,1,1,0,1,132301.0
+23,Fix #6: Migrate links from exercises/solutions to use internal links,224,True,True,2017-03-19T19:23:03Z,2017-03-19T19:23:03Z,1,2,2,8,35,35,70,246838.0
+25,Fix typo JSS -> JS,35,True,True,2017-03-19T19:24:13Z,2017-03-19T19:24:13Z,1,2,1,1,1,1,2,95913.0
+24,"Delete duplicate word ""does"" in design exercises",0,True,True,2017-03-18T15:37:17Z,2017-03-18T15:37:17Z,1,2,1,3,3,3,6,40775.0
+22,Add high scalability to credits,0,True,True,2017-03-15T10:59:28Z,2017-03-15T10:59:28Z,0,2,1,1,1,0,1,14.0
+18,Add trivago Techblog,0,True,False,,2017-03-12T22:17:14Z,0,2,3,1,1,0,1,0
+21,Update OO exercises index,0,True,True,2017-03-13T10:42:36Z,2017-03-13T10:42:36Z,0,1,0,1,2,2,4,13.0
+20,Update Study guide section,0,True,True,2017-03-13T10:40:03Z,2017-03-13T10:40:03Z,0,1,0,1,8,8,16,16.0
+19,Update Motivation section,0,True,True,2017-03-12T21:17:30Z,2017-03-12T21:17:30Z,0,1,0,1,3,3,6,209.0
+17,Fix typo in RPC section,67,True,True,2017-03-11T16:59:59Z,2017-03-11T16:59:59Z,1,2,2,1,1,1,2,759.0
+13,Add Dyn DDoS attack link,3,True,True,2017-03-11T02:07:51Z,2017-03-11T02:07:51Z,1,2,1,1,1,1,2,77815.0
+14,Fix multiple typos,0,True,True,2017-03-11T02:06:35Z,2017-03-11T02:06:35Z,1,3,1,1,8,8,16,65559.0
+9,Add more disadvantages of REST,0,True,True,2017-03-10T00:40:13Z,2017-03-10T00:40:13Z,0,3,4,1,2,0,2,51467.0
+11,Fix typo - lobsided -> lopsided,0,True,True,2017-03-10T00:37:40Z,2017-03-10T00:37:40Z,1,2,1,1,1,1,2,36971.0
+10,Fix typo in Study Guide section,78,True,True,2017-03-10T00:36:12Z,2017-03-10T00:36:12Z,1,2,1,1,2,2,4,49538.0
+8,Fix #1: Update reverse proxy image,0,True,True,2017-03-09T04:31:09Z,2017-03-09T04:31:09Z,0,1,0,1,2,2,4,43.0
+5,Resolve #3: Fix broken links in exercises,0,True,True,2017-03-09T03:20:24Z,2017-03-09T03:20:24Z,0,1,0,8,403,403,806,67.0

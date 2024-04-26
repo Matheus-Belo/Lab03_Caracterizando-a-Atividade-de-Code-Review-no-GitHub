@@ -1,0 +1,150 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+993,Update 02.语言元素.md,15,True,False,,2024-04-22T03:41:28Z,0,1,0,1,2,2,4,0
+687,格式化代码【format code】,17,True,False,,2024-04-09T10:49:23Z,0,1,1,2,8,17,25,0
+1018,Bourbon,0,True,False,,2024-03-24T01:27:20Z,0,1,0,3,20,0,20,0
+877,Update 08.面向对象编程基础.md,56,True,False,,2024-03-12T08:03:07Z,0,1,1,1,3,1,4,0
+999,Converted the Readme.md file to English,0,True,False,,2024-01-10T15:04:32Z,0,2,1,1,444,444,888,0
+153,Update Python语言进阶.md,32,True,False,,2023-12-09T11:30:33Z,0,1,0,1,4,5,9,0
+521,修复按位或赋值运算符与markdown语法冲突的小错误,22,True,False,,2023-12-08T02:00:51Z,0,1,0,1,1,1,2,0
+774,Update 42.深入模型.md 增加测试传参注释,17,True,False,,2023-11-09T15:02:16Z,0,2,1,1,2,0,2,0
+942,type fix,0,True,True,2023-10-30T05:39:15Z,2023-10-30T05:39:15Z,0,2,0,0,0,0,0,27743939.0
+981,Update 16-20.Python语言进阶.md,11,True,False,,2023-10-23T07:27:57Z,0,16,15,1,2,3,5,0
+990,Create attacks.py,0,True,False,,2023-10-17T03:53:31Z,0,1,0,1,55,0,55,0
+867,"修改""06.函数和模块的使用.md""缺字",65,True,False,,2023-10-10T08:47:46Z,0,1,0,1,1,1,2,0
+935,Update 16-20.Python语言进阶.md,69,True,False,,2023-06-22T12:16:11Z,0,1,0,1,3,1,4,0
+835,获取最新,0,True,False,,2023-06-11T16:58:59Z,0,17,16,0,0,0,0,0
+963,Update 14.网络编程入门和网络应用开发.md,0,True,False,,2023-05-10T14:18:02Z,0,1,0,1,2,2,4,0
+175,Update 字符串和常用数据结构.md,0,True,False,,2023-04-15T12:25:25Z,0,1,0,1,2,3,5,0
+604,Update 100.Python面试题集.md,14,True,False,,2023-04-12T09:11:53Z,0,1,1,1,2,2,4,0
+901,修改目录,16,True,False,,2023-04-06T06:55:05Z,0,1,0,1,1,1,2,0
+962,Update 14.网络编程入门和网络应用开发.md,0,True,False,,2023-04-03T07:56:36Z,0,1,0,1,2,2,4,0
+960,1,1,True,False,,2023-03-16T10:11:52Z,0,1,0,12,8111,0,8111,0
+859,Bump ipython from 7.13.0 to 7.16.3 in /公开课/文档/年薪50W+的Python程序员如何写代码/code/Python/opencourse,2357,True,False,,2023-02-10T22:47:53Z,0,0,1,1,1,1,2,0
+550,Update 07.字符串和常用数据结构.md,151,True,False,,2023-01-28T07:29:20Z,0,1,0,1,2,1,3,0
+197,20190614从原作者处更新,15,True,False,,2023-01-23T01:56:13Z,0,2,2,0,0,0,0,0
+947,Create python,0,True,False,,2023-01-13T10:18:31Z,0,14,13,1,1,0,1,0
+357,add wiki link for Fibonacci number,90,True,False,,2022-11-23T11:39:07Z,0,1,0,1,1,1,2,0
+564,修复图片显示问题,72,True,False,,2022-09-25T14:22:17Z,0,2,1,0,0,0,0,0
+929,update,6,True,False,,2022-10-11T02:40:30Z,0,1,0,0,0,0,0,0
+928,为不懂中文的人添加英文README,0,True,False,,2022-10-09T01:11:44Z,0,2,0,26,3787,0,3787,0
+668,Merge pull request #1 from jackfrued/master,11,True,False,,2022-09-07T00:50:59Z,0,1,1,0,0,0,0,0
+918,Merge pull request #1 from jackfrued/master,2,True,False,,2022-08-31T05:15:56Z,0,1,0,0,0,0,0,0
+882,Fix some typos.,0,True,False,,2022-08-18T16:32:24Z,0,1,0,3,4,4,8,0
+902,markdown|的显示上的修改,66,True,False,,2022-07-28T12:11:02Z,0,1,0,1,2,2,4,0
+903,修改变量未定义,0,True,False,,2022-07-24T02:18:22Z,0,1,0,1,1,1,2,0
+284,Update 11.文件和异常.md,10,True,False,,2022-07-07T07:20:35Z,0,1,0,1,3,3,6,0
+844,Bump lxml from 4.5.0 to 4.6.5 in /公开课/文档/年薪50W+的Python程序员如何写代码/code/Python/opencourse,3579,True,False,,2022-07-06T20:57:28Z,0,0,1,1,1,1,2,0
+811,Update 02.语言元素.md,18,True,False,,2022-07-01T09:28:48Z,0,1,0,1,2,2,4,0
+858,重新修改五角星画法，五角星不再出现空心,20,True,False,,2022-07-01T06:23:49Z,0,1,0,1,8,12,20,0
+896,Cyc,13,True,False,,2022-07-01T01:11:15Z,0,1,0,12,82,23,105,0
+294,Update README.md,0,True,False,,2022-06-15T09:05:39Z,0,16,15,1,1,2,3,0
+186,Update example23.py,7,True,False,,2022-05-09T14:46:05Z,0,1,0,1,1,1,2,0
+742,"fix:Repair the link of ""Python编程惯例"" in README.md.",63,True,False,,2022-04-30T12:46:55Z,0,0,0,1,1,1,2,0
+883,add,18,True,False,,2022-04-24T01:57:16Z,0,2,1,1,1,0,1,0
+379,Update 100.Python面试题集.md,14,True,False,,2022-04-21T14:59:45Z,0,1,0,1,960,75,1035,0
+873,Switch to gender neutral terms,409,True,False,,2022-03-31T15:53:10Z,0,1,0,2,3,3,6,0
+773,Merge pull request #1 from jackfrued/master,16,True,False,,2022-03-14T06:39:29Z,0,1,0,0,0,0,0,0
+855,update forks,12,True,False,,2022-01-17T02:24:02Z,0,1,1,0,0,0,0,0
+767,Bump lxml from 4.5.0 to 4.6.3 in /公开课/文档/年薪50W+的Python程序员如何写代码/code/Python/opencourse,3634,True,False,,2021-12-13T20:49:16Z,0,0,1,1,1,1,2,0
+842,Update 61.网络爬虫和相关工具.md,0,True,False,,2021-12-10T06:06:28Z,0,1,0,1,1,1,2,0
+285,Merge pull request #1 from jackfrued/master,4,True,False,,2021-11-17T12:04:43Z,0,1,0,0,0,0,0,0
+825,Be editing,0,True,False,,2021-10-27T01:39:53Z,0,1,0,7,634,3,637,0
+823,Test,0,True,False,,2021-10-25T02:01:29Z,0,1,0,7,371,3,374,0
+818,Test,32,True,False,,2021-10-14T01:23:17Z,0,1,0,4,225,3,228,0
+810,Merge branch 'master' of https://github.com/jackfrued/Python-100-Days,0,True,False,,2021-09-17T03:17:52Z,0,1,0,2,2,0,2,0
+799,Update 01.初识Python.md,6,True,False,,2021-07-19T05:22:40Z,0,1,0,1,1,1,2,0
+787,Merge pull request #1 from jackfrued/master,54,True,False,,2021-06-01T19:10:29Z,0,1,0,0,0,0,0,0
+728,Bump lxml from 4.5.0 to 4.6.2 in /公开课/文档/年薪50W+的Python程序员如何写代码/code/Python/opencourse,3794,True,False,,2021-03-31T20:10:54Z,0,0,1,1,1,1,2,0
+732,Open a pull request,19,True,False,,2021-01-12T01:51:54Z,0,1,1,0,0,0,0,0
+238,修改几个小问题,33,True,False,,2021-01-06T08:39:50Z,0,1,1,2,5,6,11,0
+727,Pull,0,True,False,,2021-01-05T03:17:11Z,0,1,0,0,0,0,0,0
+232,Update 02.语言元素.md,14,True,False,,2020-12-12T05:58:42Z,1,2,1,1,1,1,2,0
+656,Merge pull request #1 from jackfrued/master,11,True,False,,2020-08-17T16:45:15Z,0,1,2,0,0,0,0,0
+679,Merge pull request #1 from jackfrued/master,4,True,False,,2020-11-05T06:28:58Z,0,1,0,0,0,0,0,0
+678,Merge pull request #1 from jackfrued/master,6,True,False,,2020-09-30T08:15:15Z,0,1,0,0,0,0,0,0
+665,Merge pull request #1 from jackfrued/master,11,True,False,,2020-08-31T10:24:35Z,0,1,0,0,0,0,0,0
+664,Merge pull request #1 from jackfrued/master,6,True,False,,2020-08-30T12:07:22Z,0,1,1,0,0,0,0,0
+601,0604,4,True,False,,2020-06-04T07:27:58Z,0,1,1,0,0,0,0,0
+594,Merge pull request #1 from jackfrued/master,6,True,False,,2020-05-29T09:01:44Z,0,1,0,0,0,0,0,0
+591,Merge pull request #1 from jackfrued/master,7,True,False,,2020-05-27T03:28:49Z,0,1,0,0,0,0,0,0
+557,update,0,True,False,,2020-04-24T01:33:23Z,0,1,0,0,0,0,0,0
+555,Merge pull request #1 from jackfrued/master,0,True,False,,2020-04-21T12:26:24Z,0,1,0,0,0,0,0,0
+70,修复DAY1~DAY15文档中错误,404,True,True,2019-05-18T15:35:04Z,2019-05-18T15:35:04Z,0,5,5,20,52,52,104,797465.0
+511,Merge pull request #1 from jackfrued/master,35,True,False,,2020-03-19T13:41:16Z,0,1,0,0,0,0,0,0
+505,test,0,True,False,,2020-03-16T13:40:51Z,0,1,1,2,0,337,337,0
+495,Update 04.循环结构.md,4,True,False,,2020-03-02T02:08:13Z,0,2,1,1,1,1,2,0
+476,Update Repository.,0,True,False,,2020-02-24T09:04:05Z,0,1,0,0,0,0,0,0
+460,Merge pull request #1 from jackfrued/master,12,True,False,,2020-02-19T03:25:32Z,0,1,0,0,0,0,0,0
+445,update fork,0,True,False,,2020-02-04T16:25:10Z,0,1,0,7,81,1,82,0
+436,Update Repository.,0,True,False,,2020-01-21T07:43:25Z,0,1,0,0,0,0,0,0
+413,Update 02.语言元素.md,6,True,False,,2020-01-09T08:11:18Z,0,1,0,1,1,1,2,0
+414,Update 02.语言元素.md,4,True,False,,2020-01-09T08:11:04Z,0,1,0,1,1,1,2,0
+428,Merge pull request #1 from jackfrued/master,4,True,False,,2020-01-08T06:18:54Z,0,1,0,0,0,0,0,0
+421,Revert 1 master,0,True,False,,2020-01-04T17:27:05Z,0,1,0,33,274,352,626,0
+417,修正一些错误,0,True,False,,2019-12-30T04:38:47Z,0,1,1,2,3,3,6,0
+412,Merge pull request #1 from jackfrued/master,5,True,False,,2019-12-27T02:49:59Z,0,1,1,0,0,0,0,0
+259,update  python之禅,43,True,False,,2019-12-24T09:37:53Z,0,1,0,1,54,1,55,0
+398,Merge pull request #1 from jackfrued/master,7,True,False,,2019-12-15T06:10:43Z,0,1,0,0,0,0,0,0
+397,Merge pull request #1 from jackfrued/master,7,True,False,,2019-12-15T06:09:02Z,0,1,1,0,0,0,0,0
+386,Merge pull request #1 from jackfrued/master,11,True,False,,2019-12-07T11:56:48Z,0,1,1,0,0,0,0,0
+378,Update my answers,17,True,False,,2019-11-24T13:04:42Z,0,1,0,1,960,75,1035,0
+371,Merge pull request #1 from jackfrued/master,21,True,False,,2019-11-20T08:05:21Z,0,1,0,0,0,0,0,0
+350,Merge pull request #1 from jackfrued/master,3,True,False,,2019-10-29T10:05:36Z,0,1,0,0,0,0,0,0
+349,Merge pull request #1 from jackfrued/master,6,True,False,,2019-10-28T08:42:03Z,0,1,1,0,0,0,0,0
+345,11,2,True,False,,2019-10-23T15:51:26Z,0,1,0,3,4,2,6,0
+339,Merge pull request #1 from jackfrued/master,6,True,False,,2019-10-22T05:13:54Z,0,1,0,0,0,0,0,0
+338,Merge pull request #1 from jackfrued/master,6,True,False,,2019-10-22T05:13:08Z,0,1,0,0,0,0,0,0
+64,修复了DAY1~15文档的错误,95,True,False,,2019-05-09T08:20:56Z,0,2,1,0,0,0,0,0
+317,Update 03.分支结构.md 百分制成绩转等级制成绩更新建议,25,True,False,,2019-10-15T06:01:15Z,0,2,0,2,14,15,29,0
+322,改正错别字-非诚相似-非常相似,40,True,False,,2019-10-08T01:06:40Z,0,1,0,1,1,1,2,0
+314,Update Repository.,0,True,False,,2019-09-19T15:10:04Z,0,1,0,0,0,0,0,0
+313,Update Respository.,0,True,False,,2019-09-19T15:08:44Z,0,1,0,0,0,0,0,0
+279,Day 09 面向对象进阶 @property装饰器解释不太清晰,72,True,False,,2019-08-20T09:57:33Z,0,1,0,0,0,0,0,0
+147,修改（处理Excel电子表格、处理Word文档）描述，增加（处理Word文档）链接,0,True,False,,2019-08-16T08:51:40Z,0,1,1,1,3,4,7,0
+231,Merge pull request #1 from jackfrued/master,5,True,False,,2019-07-03T19:01:58Z,0,1,0,0,0,0,0,0
+229,Update 16-20.Python语言进阶.md,7,True,False,,2019-07-03T05:33:31Z,0,1,0,1,1,2,3,0
+219,fix typo in example text to avoid confusion,0,True,False,,2019-06-27T22:22:25Z,0,1,0,1,2,2,4,0
+208,fix command,40,True,False,,2019-06-25T06:58:56Z,0,1,0,1,1,1,2,0
+177,Remove .DS_Store,48,True,False,,2019-06-12T23:58:54Z,0,1,0,2,1,1,2,0
+86,修改 练习1 中的错误,0,True,False,,2019-05-18T15:29:27Z,0,2,0,1,4,2,6,0
+123,Update 03.静态资源和Ajax请求.md,6,True,False,,2019-05-18T15:09:46Z,0,3,2,1,2,2,4,0
+133,Update NoSQL入门.md,25,True,False,,2019-05-20T14:38:06Z,0,2,1,1,2,2,4,0
+136,fix(docs): 修改 Day02 文档中的笔误,60,True,True,2019-05-20T14:37:22Z,2019-05-20T14:37:22Z,0,2,1,1,1,1,2,14049.0
+135,Update clock.py,13,True,False,,2019-05-20T08:14:57Z,0,1,0,1,1,1,2,0
+112,Update perfect.py,0,True,False,,2019-05-18T15:19:03Z,0,3,2,1,1,1,2,0
+129,Tang jm,0,True,False,,2019-05-19T00:48:46Z,0,1,0,15,310,2,312,0
+69,Set theme jekyll-theme-slate,0,True,False,,2019-05-18T15:37:25Z,0,2,0,1,1,0,1,0
+54,补充sublime text 手动下载package control插件说明,0,True,True,2019-05-18T15:36:57Z,2019-05-18T15:36:57Z,0,2,0,1,9,4,13,980039.0
+56,注释范例可能存在错误,19,True,False,,2019-05-18T15:36:05Z,0,2,0,1,2,2,4,0
+75,修正了文档内练习2不能保证每次生成的验证码由字母和数字共同组成的bug,75,True,False,,2019-05-18T15:35:22Z,0,2,0,1,31,3,34,0
+77,修复代码错误,22,True,False,,2019-05-18T15:32:07Z,0,2,1,1,1,1,2,0
+85,Update 字符串和常用数据结构.md,12,True,False,,2019-05-18T15:30:28Z,0,2,0,1,3,3,6,0
+87,Update 面向对象编程基础.md,6,True,False,,2019-05-18T15:29:08Z,0,2,0,1,2,2,4,0
+88,Update 面向对象编程基础.md,11,True,False,,2019-05-18T15:28:59Z,0,2,0,1,2,1,3,0
+99,为新开发人员简化打码,77,True,True,2019-05-18T15:27:03Z,2019-05-18T15:27:03Z,0,2,0,2,9,0,9,368723.0
+101,Change name: string.py to strings.py,265,True,True,2019-05-18T15:23:31Z,2019-05-18T15:23:31Z,0,2,1,1,0,0,0,352273.0
+106,Update 面向对象编程基础.md,8,True,False,,2019-05-18T15:22:29Z,0,2,1,1,2,2,4,0
+107,Update craps.py,29,True,False,,2019-05-18T15:22:07Z,0,2,0,1,2,2,4,0
+102,Update 字符串和常用数据结构.md,18,True,False,,2019-05-18T15:21:20Z,0,2,0,1,2,2,4,0
+110,Update 面向对象编程基础.md,7,True,False,,2019-05-18T15:19:28Z,0,2,1,1,2,2,4,0
+113,Update 面向对象编程基础.md,15,True,False,,2019-05-18T15:18:27Z,0,2,0,1,2,1,3,0
+114,Dev,0,True,False,,2019-05-18T15:17:57Z,0,2,1,1,1,2,3,0
+119,Update 关系型数据库MySQL.md,19,True,True,2019-05-18T15:14:48Z,2019-05-18T15:14:48Z,0,2,1,1,2,2,4,168846.0
+124,Update for2.py,0,True,False,,2019-05-18T15:08:19Z,0,2,0,1,1,0,1,0
+125,修正定义类示例代码,10,True,True,2019-05-18T15:06:51Z,2019-05-18T15:06:51Z,0,2,1,2,1,1,2,95327.0
+126,更正Day08练习1示例代码错误,0,True,False,,2019-05-18T15:05:55Z,0,2,0,1,4,2,6,0
+55,Update 初识Python.md,9,True,True,2019-05-08T09:22:51Z,2019-05-08T09:22:51Z,0,2,1,1,1,1,2,77399.0
+58,Update 初识Python.md,60,True,True,2019-05-08T09:21:46Z,2019-05-08T09:21:46Z,0,2,0,1,7,0,7,63678.0
+57,Update 图形用户界面和游戏开发.md,30,True,False,,2019-05-07T15:36:35Z,0,1,0,1,3,2,5,0
+42,Update 文件和异常.md,56,True,False,,2019-05-06T16:05:18Z,0,2,1,1,3,3,6,0
+45,Update 面向对象编程基础.md,102,True,False,,2019-05-06T16:09:07Z,0,2,1,1,3,3,6,0
+41,Update 面向对象编程基础.md,40,True,False,,2019-05-05T02:26:24Z,0,1,0,1,2,1,3,0
+26,Update 文件和异常.md,6,True,False,,2019-05-04T02:19:48Z,0,2,1,1,3,4,7,0
+25,Update 图形用户界面和游戏开发.md,8,True,True,2019-05-04T02:17:51Z,2019-05-04T02:17:51Z,0,2,1,1,1,1,2,8208955.0
+27,补上Selenium官网地址 https://www.seleniumhq.org,0,True,True,2019-05-04T02:15:29Z,2019-05-04T02:15:29Z,0,2,0,1,2,2,4,6265423.0
+28,Fix IndentationError in example01.py,788,True,False,,2019-04-26T15:15:36Z,0,2,3,1,1,1,2,0
+32,修正IndentationError,0,True,False,,2019-05-03T13:22:00Z,1,4,2,1,3,3,6,0
+14,Translation to english,528,True,False,,2018-10-01T20:07:15Z,0,3,3,11,923,21,944,0
+19,Merge pull request #1 from jackfrued/master,4,True,False,,2018-10-16T08:24:59Z,0,1,0,0,0,0,0,0
+6,Update PEP 8风格指南.md,0,True,False,,2018-06-25T14:35:05Z,1,3,3,1,1,1,2,0
+8,fix typo,8,True,True,2018-06-23T03:46:36Z,2018-06-23T03:46:36Z,0,2,0,1,1,1,2,1267806.0

@@ -1,0 +1,1605 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+2081,Bump vite from 5.0.10 to 5.0.12,3035,True,True,2024-01-21T10:46:33Z,2024-01-21T10:46:33Z,0,1,0,1,3,3,6,131905.0
+2080,Bump vite from 4.4.9 to 4.5.1,4439,True,False,,2023-12-18T12:17:51Z,0,0,1,1,3,3,6,0
+2079,Create 40-seconds-of-code,944,True,False,,2023-11-05T21:16:45Z,0,2,1,1,80,0,80,0
+2078,Content updates,0,True,True,2023-11-05T18:19:13Z,2023-11-05T18:19:13Z,0,1,0,5,350,506,856,539.0
+2077,Content updates,0,True,True,2023-11-04T16:02:13Z,2023-11-04T16:02:13Z,0,2,1,6,54,36,90,44.0
+2072,Content updates ,0,True,True,2023-11-01T21:20:22Z,2023-11-01T21:20:22Z,0,1,0,10,177,162,339,28.0
+2020,refactor: modify condition based on es2020,62,True,True,2023-09-29T07:25:52Z,2023-09-29T07:25:52Z,1,2,1,1,2,2,4,148344.0
+2048,Bump undici from 5.25.1 to 5.26.3,4299,True,False,,2023-10-31T20:52:36Z,0,1,4,45,563,506,1069,0
+2009,Bump qs from 6.5.2 to 6.5.3,3458,True,False,,2023-10-31T20:52:05Z,0,1,2,35,306,366,672,0
+2050,Bump @babel/traverse from 7.22.20 to 7.23.2,8444,True,False,,2023-10-31T20:50:27Z,0,2,3,46,574,505,1079,0
+2071,"Clean up card actions, icons & styles",0,True,True,2023-10-31T20:34:00Z,2023-10-31T20:34:00Z,0,1,0,33,96,1567,1663,437.0
+2070,Content updates,0,True,True,2023-10-29T15:19:40Z,2023-10-29T15:19:40Z,0,1,0,11,96,75,171,90.0
+2069,Clean up actions & improve code references,0,True,True,2023-10-29T14:03:52Z,2023-10-29T14:03:52Z,0,1,0,22,83,202,285,6802.0
+2037,Create set-bits.md Snippet,145,True,False,,2023-10-24T05:42:44Z,0,2,1,1,33,0,33,0
+2066,Prepared queries - Page performance,0,True,True,2023-10-23T09:17:15Z,2023-10-23T09:17:15Z,0,1,0,3,119,1,120,46.0
+2067,Content updates & prepared queries housekeeping,0,True,True,2023-10-23T14:28:14Z,2023-10-23T14:28:15Z,0,1,0,10,190,34,224,1749.0
+2065,"No more cookies, no more ads",36,True,False,,2023-10-26T14:51:41Z,0,1,0,11,3,277,280,0
+2068,Update references,68,True,True,2023-10-26T14:51:40Z,2023-10-26T14:51:40Z,0,1,0,15,10,284,294,70.0
+2045,Added method that returns value from nested and untested object,87,True,False,,2023-10-24T07:03:03Z,1,2,0,1,57,0,57,0
+2047,This snippets explain  about power of meta tags,105,True,False,,2023-10-24T05:42:25Z,0,2,0,1,17,0,17,0
+2059,Add an example to display both local and remote branches,0,True,False,,2023-10-24T05:42:12Z,0,2,0,1,10,1,11,0
+2043,Added python median-heap.md Snippet,133,True,False,,2023-10-23T05:33:05Z,0,3,0,1,73,0,73,0
+2064,Content updates,0,True,True,2023-10-22T17:47:09Z,2023-10-22T17:47:09Z,0,1,0,8,116,64,180,78.0
+2063,Prepared queries enhancements,0,True,True,2023-10-21T19:50:31Z,2023-10-21T19:50:32Z,0,1,0,1,45,22,67,33.0
+2058,Add more examples,0,True,True,2023-10-21T04:16:08Z,2023-10-21T04:16:08Z,1,2,0,1,6,0,6,27629.0
+2061,Watch mode - Snippets,234,True,True,2023-10-21T17:21:25Z,2023-10-21T17:21:25Z,0,1,0,7,345,142,487,144.0
+2062,Content updates,0,True,True,2023-10-21T17:21:10Z,2023-10-21T17:21:10Z,0,1,0,2,6,7,13,78.0
+2056,fix git syntax,0,True,True,2023-10-21T04:15:15Z,2023-10-21T04:15:15Z,1,2,0,1,1,1,2,28502.0
+2060,fix typo,0,True,True,2023-10-21T04:12:58Z,2023-10-21T04:12:58Z,1,2,0,1,1,1,2,26243.0
+2055,Remove authors system,0,True,True,2023-10-20T09:18:07Z,2023-10-20T09:18:07Z,0,1,0,507,4,602,606,61.0
+2051,fix the link to git-fast-forward.png and some typo corrections,0,True,False,,2023-10-20T08:32:33Z,0,2,0,1,2,2,4,0
+2053,Content updates,0,True,True,2023-10-20T08:32:14Z,2023-10-20T08:32:14Z,0,1,0,61,87,85,172,57.0
+2052,Update link to disable-fast-forward.png,0,True,False,,2023-10-20T03:40:18Z,0,1,0,1,1,1,2,0
+2046,feat: added python snippet to check is-valid-email,362,True,False,,2023-10-19T20:48:12Z,0,1,0,1,38,0,38,0
+2049,Cleaning up grammar in 5-tips-for-better-pull-requests.md,0,True,True,2023-10-19T06:07:15Z,2023-10-19T06:07:15Z,1,2,0,1,1,1,2,41606.0
+2044,Content updates,0,True,True,2023-10-11T17:16:03Z,2023-10-11T17:16:04Z,0,1,0,5,76,70,146,30.0
+2042,Set up infrastructure for prepared queries,225,True,True,2023-10-11T16:34:58Z,2023-10-11T16:34:59Z,0,1,0,2,102,0,102,269162.0
+2041,Content updates,0,True,True,2023-10-08T10:53:41Z,2023-10-08T10:53:41Z,0,1,0,5,75,54,129,18.0
+2040,Bump postcss from 8.4.30 to 8.4.31,1985,True,True,2023-10-08T08:47:23Z,2023-10-08T08:47:23Z,1,1,0,1,5,5,10,16959.0
+2038,Content updates,0,True,True,2023-10-07T10:46:22Z,2023-10-07T10:46:22Z,0,1,0,11,158,175,333,1313.0
+2036,Content updates,0,True,True,2023-10-06T17:17:53Z,2023-10-06T17:17:53Z,0,1,0,21,110,126,236,3526.0
+2024,updated variable-hoisting.md,21,True,False,,2023-10-06T06:53:37Z,0,13,1,2052,76007,23,76030,0
+2006,Added extract numbers from string in python,108,True,False,,2023-10-06T06:53:37Z,0,13,0,2053,75960,23,75983,0
+2003,Add target-sum-in-list,0,True,False,,2023-10-06T06:53:36Z,1,12,1,1859,50516,23,50539,0
+1993,snippets/js: set-nested-property-value,0,True,False,,2023-10-06T06:53:35Z,0,11,1,1859,50538,23,50561,0
+1987,snippets/js: dynamically-computed-properties-with-proxy,0,True,False,,2023-10-06T06:53:35Z,0,11,1,1859,50536,23,50559,0
+1986,snippets/js: asynchronous-iteration-with-for-await...of,0,True,False,,2023-10-06T06:53:34Z,0,11,1,1859,50560,23,50583,0
+1985,snippets/js: deep-freeze-object-with-proxies,0,True,False,,2023-10-06T06:53:34Z,0,11,1,1859,50565,23,50588,0
+1984,snippets/js: asynchronous-generator-pipeline,0,True,False,,2023-10-06T06:53:33Z,0,11,1,1859,50547,23,50570,0
+1983,snippets/js: async promise execution in limited parallelism,0,True,False,,2023-10-06T06:53:32Z,0,11,1,1859,50549,23,50572,0
+1982,snippets/js: pagination with infinite scroll,80,True,False,,2023-10-06T06:53:32Z,0,11,1,1859,50558,23,50581,0
+2031,Git magic links and some heading updates,0,True,True,2023-10-04T16:27:09Z,2023-10-04T16:27:09Z,0,1,0,8,234,15,249,38.0
+2030,Fix/ footer setting path And URL redirection,178,True,True,2023-10-03T13:14:22Z,2023-10-03T13:14:22Z,1,2,3,1,1,1,2,2036.0
+2028,Switch to ESM,0,True,True,2023-10-01T11:37:02Z,2023-10-01T11:37:03Z,0,1,0,87,7263,11264,18527,48193.0
+2026,Housekeeping (Orion 9.0.0),0,True,True,2023-09-30T17:31:24Z,2023-09-30T17:31:24Z,0,1,0,5,127,54,181,1713.0
+2005,new python snippet: adding to middle of stack,0,True,False,,2023-09-29T10:25:14Z,0,2,2,1,35,0,35,0
+1971,Created new python snippet for regex code,53,True,False,,2023-09-29T10:41:56Z,0,2,2,1,42,0,42,0
+1991,Added a HSLToHexadecimal code snippet,0,True,False,,2023-09-28T06:47:24Z,0,2,2,1,61,0,61,0
+1948,I created a new snippet named binary,147,True,False,,2023-09-27T17:35:09Z,0,2,4,1,39,0,39,0
+1962,Added new python snippet,0,True,False,,2023-09-29T10:28:54Z,2,3,3,1,21,0,21,0
+2001,Added a python snippet to reverse vowels in a string,0,True,False,,2023-09-29T10:27:48Z,0,2,1,1,44,0,44,0
+2002,Python ThreadPoolExecutor snippet,455,True,False,,2023-09-29T10:27:02Z,0,2,1,1,54,0,54,0
+2004,Added a python snippet to check if a number is an Armstrong number,0,True,False,,2023-09-29T07:44:47Z,2,3,1,1,38,0,38,0
+2007,Created python snippets that allow for conversion from Inches to Centimeters and Vice-Versa,0,True,False,,2023-09-29T07:30:44Z,0,2,1,2,43,0,43,0
+2000,Added CSS snippet for inline-block elements,0,True,False,,2023-09-29T07:28:51Z,0,2,1,1,44,0,44,0
+1996,Added snippet for Javascript notification.,227,True,False,,2023-09-29T07:20:48Z,0,3,3,1,28,0,28,0
+1980,Add Random Password Generator Snippet,651,True,False,,2023-09-29T07:09:52Z,0,2,1,1,52,0,52,0
+2025,Fix unnecessary parameters in Queue class method and elaborated on explanation,443,True,True,2023-09-28T06:38:11Z,2023-09-28T06:38:11Z,1,2,0,1,3,3,6,13759.0
+2018,Added js snippet to generate unique id,45,True,False,,2023-09-27T18:19:57Z,0,3,2,1,25,0,25,0
+1973,Create pyramid pattern,66,True,False,,2023-09-27T18:18:24Z,0,2,2,1,40,0,40,0
+1955,custom-toast-component-react-snippet added,0,True,False,,2023-09-27T17:36:25Z,0,3,4,1,104,0,104,0
+1956,Added audio-in-javascript.md,0,True,False,,2023-09-14T01:08:54Z,0,2,4,2,47,0,47,0
+1959,Added snippet for Responsive Image with srcset,85,True,False,,2023-09-06T01:08:56Z,0,2,2,1,27,0,27,0
+1961,added new python snipped ,43,True,False,,2023-09-09T01:08:44Z,0,2,2,1,24,0,24,0
+1966,find-nth-maximum-distinct method created,83,True,False,,2023-09-17T01:09:10Z,0,2,2,1,39,0,39,0
+1957,Add new js snippet,0,True,False,,2023-09-01T01:09:19Z,0,2,2,1,33,0,33,0
+1953,Added is-even-bitwise.md,97,True,False,,2023-08-28T12:35:23Z,1,3,2,1,36,0,36,0
+1968,Update is-even.md,72,True,False,,2023-09-23T01:08:46Z,0,2,2,1,13,0,13,0
+1969,Update is-odd.md,63,True,False,,2023-09-23T01:08:44Z,0,2,2,1,13,0,13,0
+1960,Add new snippet in python.,134,True,False,,2023-09-07T01:08:59Z,0,2,2,2,28,0,28,0
+1958, added useInputStateHook,146,True,False,,2023-09-02T01:08:44Z,0,2,2,1,22,0,22,0
+1963,how-js-code-runs-snippet,47,True,False,,2023-09-14T01:08:52Z,0,2,2,1,65,0,65,0
+1967,Update swap-variables.md in python,51,True,False,,2023-09-23T01:08:48Z,0,2,2,1,16,0,16,0
+1972,Update throttle-function.md,112,True,False,,2023-09-27T01:09:00Z,0,2,2,1,2,4,6,0
+1970,create new snippets to check string is palindrome or not,0,True,False,,2023-09-24T01:09:13Z,0,2,2,1,23,0,23,0
+1995,[BUG] Fix Cookie Parsing Bug for Complex Values,714,True,False,,2023-09-27T17:22:37Z,0,2,1,1,6,2,8,0
+2017,footer space style fix,54,True,True,2023-09-27T17:13:26Z,2023-09-27T17:13:26Z,1,2,0,1,1,1,2,186726.0
+2016,Issue #2015 Fix typo in event loop explanation,202,True,True,2023-09-25T08:38:42Z,2023-09-25T08:38:42Z,1,2,0,1,1,1,2,4281.0
+2014,Clean up `dateModified` field,0,True,True,2023-09-24T15:48:12Z,2023-09-24T15:48:12Z,0,1,0,1252,1252,1252,2504,70.0
+2013,Update deploy workflows,113,True,True,2023-09-22T20:53:20Z,2023-09-22T20:53:20Z,0,1,0,4,33,33,66,37.0
+2011,Delete .DS_STORE,0,True,True,2023-09-22T19:58:25Z,2023-09-22T19:58:25Z,0,1,0,1,0,0,0,23.0
+2010,Fix broken GitHub links,0,True,True,2023-09-22T19:56:32Z,2023-09-22T19:56:32Z,0,1,0,1,1,1,2,47.0
+2008,Merge web infrastucture and design guidelines,89,True,True,2023-09-22T19:49:23Z,2023-09-22T19:49:23Z,0,1,1,2047,25455,16,25471,1838.0
+1981,I have added a snippet for conversion from Decimal to Binary,86,True,False,,2023-09-19T09:50:31Z,0,1,0,1,40,0,40,0
+1997,Catch errors and try again,63,True,False,,2023-09-05T14:21:51Z,0,1,0,1,42,0,42,0
+1999,fixes typo,18,True,True,2023-09-03T18:39:15Z,2023-09-03T18:39:15Z,1,2,0,2,2,2,4,1316.0
+1998,Merge pull request #1 from 30-seconds/master,3,True,False,,2023-09-02T11:41:48Z,0,1,0,0,0,0,0,0
+1979,"Minor grammar, spelling and wording fixes.",39,True,False,,2023-08-17T14:00:23Z,0,2,0,1,7,6,13,0
+1975,Update README.md . Block quote not matching 30secondsofcode website's heading.,280,True,True,2023-08-16T06:48:56Z,2023-08-16T06:48:56Z,1,2,0,1,1,1,2,315847.0
+1942,Git storify (3),0,True,True,2023-05-25T21:03:46Z,2023-05-25T21:03:46Z,0,1,0,7,85,83,168,50.0
+1952,Combine take and take-right,20,True,True,2023-07-09T05:32:23Z,2023-07-09T05:32:23Z,0,1,0,4,76,48,124,2023012.0
+1949,Fixes Typo,0,True,True,2023-06-06T17:28:34Z,2023-06-06T17:28:34Z,1,2,0,1,1,1,2,8506.0
+1944,Move redirects to content repo,0,True,True,2023-05-27T10:52:20Z,2023-05-27T10:52:20Z,0,1,0,1,1896,0,1896,167.0
+1943,Convert git snippets to stories (4),0,True,True,2023-05-27T09:55:51Z,2023-05-27T09:55:51Z,0,1,0,8,97,112,209,44.0
+1941,Add alternating text snippet,0,True,True,2023-05-25T19:51:16Z,2023-05-25T19:51:16Z,1,2,0,1,50,0,50,27693.0
+1940,added a snippet for prime factors in python,0,True,True,2023-05-25T19:39:16Z,2023-05-25T19:39:16Z,1,3,0,1,31,0,31,94576.0
+1937,Squash some git pieces,0,True,True,2023-05-23T20:40:50Z,2023-05-23T20:40:50Z,0,1,0,7,74,82,156,456.0
+1936,Added is-perm,96,True,True,2023-05-23T20:40:35Z,2023-05-23T20:40:35Z,1,2,0,1,29,0,29,16394.0
+1935,Turn some existing git snippets into stories,0,True,True,2023-05-21T13:57:39Z,2023-05-21T13:57:39Z,0,1,0,2,21,24,45,33.0
+1934,Content optimization,0,True,True,2023-05-21T13:18:32Z,2023-05-21T13:18:32Z,0,1,0,6,20,17,37,23.0
+1933,HTML snippets (new and updated),0,True,True,2023-05-20T12:38:08Z,2023-05-20T12:38:08Z,0,1,0,4,60,2,62,54.0
+1932,HTML collections,0,True,True,2023-05-20T11:55:25Z,2023-05-20T11:55:25Z,0,1,0,25,77,137,214,79.0
+1931,Create stale.yml,34,True,True,2023-05-20T08:14:04Z,2023-05-20T08:14:04Z,0,1,0,1,31,0,31,56.0
+1930,Test labeler action,0,True,False,,2023-05-20T08:05:49Z,0,1,0,1,1,0,1,0
+1929,Add labeler action,19,True,True,2023-05-20T08:04:14Z,2023-05-20T08:04:14Z,0,1,0,2,41,0,41,40.0
+1924,Community guidelines 2023,0,True,True,2023-05-19T20:46:07Z,2023-05-19T20:46:07Z,0,1,0,13,221,15,236,672.0
+1922,Reslug snippets,0,True,True,2023-05-19T19:15:51Z,2023-05-19T19:15:51Z,0,1,0,545,311,311,622,79968.0
+1921,Reslug collections,0,True,True,2023-05-14T19:48:33Z,2023-05-14T19:48:33Z,0,1,0,68,108,108,216,332.0
+1920,Merge all content sources,72,True,True,2023-05-07T16:48:00Z,2023-05-07T16:48:00Z,0,3,0,1783,31657,11,31668,508150.0
+1919,Updated frontmatter,0,True,True,2023-04-28T20:03:44Z,2023-04-28T20:03:44Z,0,1,0,578,1734,1680,3414,2020.0
+1918,Kebab file names,0,True,True,2023-04-27T19:05:18Z,2023-04-27T19:05:18Z,0,1,0,440,0,0,0,383.0
+1917,Update covers,42,True,True,2023-02-18T21:15:21Z,2023-02-18T21:15:21Z,0,1,0,575,575,604,1179,2093.0
+1858,Fix RGBtoHSB edge-cases returning NaN,222,True,True,2021-08-26T18:26:10Z,2021-08-26T18:26:10Z,1,2,0,1,1,1,2,7288.0
+1916,Fix typo,0,True,True,2022-09-13T08:58:44Z,2022-09-13T08:58:44Z,1,2,0,1,1,1,2,3727.0
+1903,Add cryptographicallyRandomString snippet,149,True,False,,2022-03-31T13:12:58Z,0,3,0,1,30,0,30,0
+1856,Added matrixMultiplication,0,True,False,,2022-03-31T11:45:37Z,3,6,0,1,29,0,29,0
+1850,Added countSort.md,39,True,False,,2022-03-31T11:40:51Z,0,5,2,1,39,0,39,0
+1843,Radix Sort ,135,True,False,,2022-03-31T11:39:08Z,5,5,1,1,55,0,55,0
+1892,add parseJWT to get object,450,True,False,,2022-03-31T10:30:48Z,1,4,0,1,39,0,39,0
+1859,added sanitize string snippet,82,True,False,,2022-03-31T10:27:04Z,1,3,0,2,58,0,58,0
+1915,Make expertise a field,0,True,True,2022-03-02T07:45:47Z,2022-03-02T07:45:47Z,0,2,0,543,1086,543,1629,47816.0
+1914,Retitle snippets,0,True,True,2022-02-18T19:01:52Z,2022-02-18T19:01:52Z,1,2,0,542,559,557,1116,437668.0
+1913,docs: Use oxford comma in Readme,0,True,False,,2021-10-24T12:38:10Z,1,2,0,1,3,3,6,0
+1912,allEqualBy - return true for zero sized array,0,True,False,,2021-10-24T12:37:11Z,1,2,0,1,2,0,2,0
+1911,bugfix: addDaysToDate for all timezones,97,True,False,,2021-10-24T12:35:57Z,1,3,0,1,3,1,4,0
+1909,added colorLighten,70,True,False,,2021-10-24T12:30:31Z,1,2,0,1,49,0,49,0
+1906,add dayDIf,0,True,False,,2021-10-24T12:29:59Z,1,2,0,1,18,0,18,0
+1908,add longFormatDateWithDayPostfix.md to snippets,119,True,False,,2021-10-24T12:29:27Z,0,2,0,1,37,0,37,0
+1905,add OLToArray to get Array from OL HTML Tag,56,True,False,,2021-10-24T12:28:44Z,0,2,0,1,88,0,88,0
+1902,add findLongestr,0,True,False,,2021-10-16T13:20:07Z,1,2,0,1,21,0,21,0
+1901,todoList was created,17,True,False,,2021-10-15T17:51:32Z,1,2,0,2,32,0,32,0
+1900,Added decodeJWT function,0,True,False,,2021-10-15T10:53:48Z,0,1,1,1,36,0,36,0
+1899,added create httpserver in node,0,True,False,,2021-10-14T18:29:34Z,1,2,0,3,47,0,47,0
+1897,Add reverse,34,True,False,,2021-10-08T13:43:45Z,1,2,0,1,21,0,21,0
+1896,Fixed Grammar,49,True,False,,2021-10-03T13:18:21Z,0,2,0,2,6,6,12,0
+1895,Fixed Grammar mistakes,84,True,False,,2021-10-02T21:18:17Z,0,1,0,2,6,6,12,0
+1894,added changeTimeFormat.md,78,True,False,,2021-10-02T16:27:10Z,1,2,0,1,42,0,42,0
+1893,contribute todoList creation,37,True,False,,2021-10-02T15:20:57Z,1,2,0,2,36,0,36,0
+1889,Added code snippet for creating hexagon using CSS,0,True,False,,2021-10-02T13:55:52Z,1,2,0,1,50,0,50,0
+1888,Add oncontextmenu ,109,True,False,,2021-10-02T13:53:03Z,1,2,0,1,37,0,37,0
+1891,Create largeFactorial.md,72,True,False,,2021-10-02T13:48:27Z,1,2,0,1,155,0,155,0
+1886,Add arrayNegativeIndex,48,True,False,,2021-09-28T05:57:01Z,1,2,0,1,35,0,35,0
+1887,oncontextmenu event,0,True,False,,2021-09-28T05:56:08Z,1,2,0,1,26,0,26,0
+1884,Add toPascalCase,75,True,True,2021-09-23T15:22:50Z,2021-09-23T15:22:50Z,1,2,0,1,27,0,27,164102.0
+1878,Added haversineDistance.md,200,True,False,,2021-09-19T13:38:47Z,1,2,0,2,37,1,38,0
+1883,Created blank space for clarity,41,True,False,,2021-09-20T06:11:29Z,0,2,1,1,2,1,3,0
+1877,Add useWindowSize React Hook,59,True,False,,2021-09-17T13:44:56Z,0,2,0,1,60,0,60,0
+1876,Used const instead of let on some files,48,True,False,,2021-09-16T06:27:26Z,0,2,1,24,73,66,139,0
+1875,Created StringToBase64.md,75,True,False,,2021-09-14T13:49:54Z,2,2,0,1,23,0,23,0
+1872,baseAToBaseB function,0,True,False,,2021-09-10T15:37:23Z,0,2,1,1,22,0,22,0
+1871,Adding useDropdown Hook,0,True,False,,2021-09-10T15:35:38Z,0,2,1,1,36,0,36,0
+1869,Crackle pop,25,True,False,,2021-09-07T18:26:44Z,0,2,0,1,49,0,49,0
+1866,Added JStoJSON.md,55,True,False,,2021-09-06T08:42:10Z,1,2,0,1,41,0,41,0
+1862,Make Changes in project to solve issues #1861,1435,True,False,,2021-08-31T09:37:07Z,1,3,0,15,145,56,201,0
+1863,Check for requiring values be passed for a given argument,72,True,False,,2021-08-31T09:38:06Z,1,2,0,1,26,0,26,0
+1855,Added dijkstra,39,True,False,,2021-08-26T07:50:30Z,1,3,0,2,121,0,121,0
+1854,Added 2 files that finds a palindrome number greater and smaller than a given number  ,321,True,False,,2021-08-26T07:49:06Z,1,2,0,2,61,0,61,0
+1853,Added 2 files that finds palindrome greater and smaller than a given number,321,True,False,,2021-08-19T16:19:15Z,0,1,0,2,59,0,59,0
+1846,Update mergeSort.md,62,True,False,,2021-08-16T13:42:33Z,0,2,0,1,26,14,40,0
+1848,Added the snippet for rotating an array by k units to right or to left.,39,True,False,,2021-08-16T13:44:48Z,1,2,0,1,44,0,44,0
+1847,added functionExistance snippet,0,True,False,,2021-08-16T13:44:06Z,1,2,1,1,21,0,21,0
+1844,Created 3 new snippets,181,True,False,,2021-08-16T13:39:26Z,1,2,0,3,101,0,101,0
+1845,Corrected function call,86,True,True,2021-08-16T13:38:20Z,2021-08-16T13:38:20Z,1,2,0,1,1,1,2,1525852.0
+1851,Dveloper,26,True,False,,2021-08-15T09:59:39Z,0,2,0,2,0,0,0,0
+1812,Update snippets metadata,0,True,True,2021-06-17T14:46:13Z,2021-06-17T14:46:13Z,0,2,0,532,1065,92,1157,359287.0
+1842,Create SECURITY.md,11,True,False,,2021-07-24T15:12:07Z,0,2,4,1,21,0,21,0
+1841,Added reduceRightSingle.md and reverseArray.md files in the snippets folder,247,True,False,,2021-07-24T07:18:08Z,1,2,0,2,41,0,41,0
+1832,add: returning random item in array,57,True,False,,2021-07-23T13:18:48Z,2,3,1,1,20,0,20,0
+1840,Created 3 new snippets,181,True,False,,2021-07-23T13:41:58Z,1,2,0,3,101,0,101,0
+1814,Added Radix sort to the snippets,280,True,False,,2021-07-23T13:36:39Z,1,2,0,1,54,0,54,0
+1821,Fix luhnsCheck's miscalculation for some credit card numbers,138,True,False,,2021-07-23T13:32:58Z,2,3,0,1,1,2,3,0
+1824,extractEmailsFromString snippet created,0,True,False,,2021-07-23T13:24:13Z,1,2,0,1,24,0,24,0
+1826,Add parse url,107,True,False,,2021-07-23T13:21:21Z,1,2,0,1,60,0,60,0
+1831,Add flattenDeep,0,True,False,,2021-07-23T13:20:15Z,2,2,0,1,19,0,19,0
+1833,Add 3 new snippets,75,True,False,,2021-07-23T13:17:33Z,2,3,0,3,135,0,135,0
+1836,Add findObject,69,True,False,,2021-07-23T13:16:44Z,5,3,1,1,36,0,36,0
+1837,Support for initializing data and passing parameters,86,True,False,,2021-07-23T13:13:46Z,1,2,0,1,15,5,20,0
+1838,fix snippets/hide.md,74,True,True,2021-07-23T13:09:28Z,2021-07-23T13:09:28Z,1,2,0,1,2,2,4,231686.0
+1835,"Fix : using ""func"" instead of ""fn"" as the short term for function",200,True,False,,2021-07-23T11:24:22Z,2,3,0,1,2,2,4,0
+1834,Add randomCapitalize,0,True,False,,2021-07-23T11:22:27Z,4,3,0,1,29,0,29,0
+1820,Fix typo 'toKebabCase' -> 'toSnakeCase',0,True,True,2021-07-23T11:14:28Z,2021-07-23T11:14:28Z,1,2,0,1,2,2,4,2151873.0
+1823,Fix bubbleSort,150,True,True,2021-07-13T15:30:04Z,2021-07-13T15:30:04Z,3,4,0,1,1,1,2,1143846.0
+1811,Update toCamelCase snippet to use const instead of let,55,True,True,2021-06-20T10:02:15Z,2021-06-20T10:02:15Z,2,5,4,1,1,1,2,1020946.0
+1816,New function to determine if two lines collide,52,True,False,,2021-07-05T14:08:49Z,0,1,0,1,30,0,30,0
+1819,Valo,180,True,False,,2021-06-28T05:27:50Z,0,3,0,1,12,0,12,0
+1798, added getAllDatesBetweenTwoDates.md,0,True,False,,2021-06-20T09:39:29Z,1,3,2,1,20,0,20,0
+1813,Created a sortOddOnly snippet,162,True,False,,2021-06-20T10:02:37Z,1,2,0,1,27,0,27,0
+1810,Add snippet for getMonthDays,0,True,True,2021-06-20T09:57:38Z,2021-06-20T09:57:38Z,1,2,0,1,20,0,20,1545263.0
+1807,Add consoleInput snippet,177,True,False,,2021-05-31T10:19:32Z,1,2,1,1,34,0,34,0
+1808,new snippet length of last word,38,True,False,,2021-05-31T10:18:56Z,2,4,3,1,76,0,76,0
+1448,added stringRotation.md,0,True,False,,2020-10-09T05:51:29Z,0,4,4,1,28,0,28,0
+1802,Linkedin create post,4,True,False,,2021-05-20T14:40:59Z,0,2,0,1,1,0,1,0
+1803,Linkedin create post,4,True,False,,2021-05-21T12:54:59Z,0,2,0,1,1,0,1,0
+1797,Add mysqlQueryNoParams snippet,128,True,False,,2021-05-18T06:16:20Z,1,2,0,1,44,0,44,0
+1791,Add snippet for formatSeconds,0,True,True,2021-05-17T06:00:02Z,2021-05-17T06:00:02Z,11,9,1,1,33,0,33,677640.0
+1793,Add snippet,0,True,False,,2021-05-13T05:48:02Z,2,3,0,1,25,0,25,0
+1796,Add toArabicDigits snippet,0,True,False,,2021-05-13T05:46:06Z,1,2,0,1,29,0,29,0
+1160,Update: update JSONToFile.md,584,True,True,2020-06-18T10:02:27Z,2020-06-18T10:02:27Z,1,2,0,1,2,2,4,11103.0
+1771,Update get.md,0,True,False,,2021-04-27T16:37:26Z,0,1,0,1,1,2,3,0
+1717,Feature/get difference in seconds,0,True,True,2021-04-24T09:41:52Z,2021-04-24T09:41:52Z,5,7,1,1,20,0,20,10437950.0
+1764,Added reverseWords snippet,0,True,False,,2021-04-24T09:14:54Z,1,2,0,1,27,0,27,0
+1757,Add reverseArrayInPlace,0,True,False,,2021-04-23T18:48:30Z,1,2,0,1,26,0,26,0
+1759,Create HashFromString,66,True,False,,2021-04-23T18:43:51Z,1,2,0,1,32,0,32,0
+1748,Updated README.md,146,True,False,,2021-04-18T09:40:13Z,0,2,0,1,5,5,10,0
+1743,Device Information,82,True,False,,2021-04-14T20:25:10Z,1,3,3,1,49,0,49,0
+1744,"added CSS example to addClass.md snippet, @5usana",292,True,False,,2021-04-14T20:34:06Z,1,2,0,1,8,0,8,0
+1746,Create express.js,0,True,False,,2021-04-14T20:32:47Z,1,3,1,1,28,0,28,0
+1745,For React Hook - add snippet for useHistory,0,True,False,,2021-04-14T20:32:41Z,1,2,0,1,18,0,18,0
+1742,Device Information,82,True,False,,2021-04-14T20:25:33Z,0,2,0,1,49,0,49,0
+1741,Added an Email Validation Function,0,True,False,,2021-04-07T06:04:52Z,1,2,0,1,20,0,20,0
+1710,Updated Pase Cookie Example check if values have double quotes,112,True,False,,2021-04-02T10:11:16Z,3,5,2,1,10,1,11,0
+1740,Add binaryToDecimal,0,True,False,,2021-04-03T13:03:15Z,1,2,0,1,16,0,16,0
+1708,getMousePosition,85,True,False,,2021-04-02T13:52:10Z,2,3,0,1,29,0,29,0
+1737,added nor snippet,261,True,True,2021-04-02T13:47:51Z,2021-04-02T13:47:51Z,2,4,0,1,19,0,19,328845.0
+1713,Added new intersectionObserverFactory snippet,0,True,False,,2021-04-02T13:41:42Z,1,2,0,1,41,0,41,0
+1722,Adds new counting sort snippet,178,True,False,,2021-04-02T13:33:50Z,1,3,0,1,57,0,57,0
+1736,Adds new snippet for random rgba color,75,True,False,,2021-04-02T12:06:16Z,2,3,0,1,26,0,26,0
+1725,Fix issue #1709,129,True,False,,2021-04-02T10:11:23Z,0,2,1,1,3,1,4,0
+1738,Patch 1,0,True,False,,2021-04-01T09:07:03Z,0,2,0,1,3,3,6,0
+1739,Update addWeekDays.md,0,True,False,,2021-04-01T09:07:13Z,0,2,0,1,4,4,8,0
+1734,Create SECURITY.md1,0,True,False,,2021-03-22T14:40:29Z,0,2,0,1,21,0,21,0
+1733,New Snippet: Reversing an Array,128,True,False,,2021-03-19T07:56:38Z,1,2,0,1,28,0,28,0
+1732,Add random color snippets,114,True,False,,2021-03-16T14:53:04Z,1,2,0,5,140,0,140,0
+1730,hayangkawin,8,True,False,,2021-02-24T09:05:40Z,2,1,0,1,1,0,1,0
+1727,Get window size,42,True,False,,2021-02-20T19:15:24Z,1,2,0,2,74,0,74,0
+1729,add randomSortArray,46,True,False,,2021-02-20T19:08:40Z,1,2,0,1,18,0,18,0
+1726,code for BODY MASS INDEX (BMI),20,True,False,,2021-02-18T20:32:18Z,1,2,0,1,53,0,53,0
+1721,added a new snippet,40,True,False,,2021-01-08T17:10:11Z,1,2,0,1,20,0,20,0
+1720,Added storage function,0,True,False,,2021-01-08T17:09:40Z,1,2,0,1,47,0,47,0
+1716,Added snippet for isAlphabetOnly,0,True,True,2020-12-31T12:01:57Z,2020-12-31T12:01:57Z,1,2,0,1,18,0,18,619731.0
+1719,Algorithmic snippets,0,True,True,2020-12-29T11:07:37Z,2020-12-29T11:07:37Z,1,2,0,32,580,16,596,51512.0
+1715,feat: add currentRotation snippet,51,True,False,,2020-12-23T07:06:09Z,0,2,1,1,59,0,59,0
+1714,Update README.md,54,True,False,,2020-12-20T07:40:16Z,0,2,0,1,3,1,4,0
+1712,fixes spaces,35,True,False,,2020-12-18T14:58:12Z,0,2,0,6,16,12,28,0
+1711,Update differenceWith.md,0,True,False,,2020-12-17T14:01:04Z,0,2,1,1,5,0,5,0
+1701,Update takeWhile.md,373,True,True,2020-11-29T09:23:24Z,2020-11-29T09:23:24Z,1,2,0,1,4,4,8,616360.0
+1707,The product of the numbers of a list,42,True,False,,2020-11-30T07:15:25Z,1,2,0,1,23,0,23,0
+1706,feat: add isISOString snippet,120,True,False,,2020-11-29T10:09:01Z,1,2,1,1,21,0,21,0
+1627,Add Minutes To Given Date Time or Date Only,0,True,True,2020-11-28T17:27:46Z,2020-11-28T17:27:46Z,4,4,1,1,24,0,24,3503169.0
+1670,feat: add compactObject snippet,107,True,True,2020-11-27T11:57:41Z,2020-11-27T11:57:41Z,2,3,2,1,43,0,43,3201035.0
+1704,feat: add saveObjectToLocalStorage snippet,0,True,False,,2020-11-25T19:21:31Z,1,3,0,1,17,0,17,0
+1703,feat: add numberWithCommas.md,95,True,False,,2020-11-24T21:55:16Z,1,3,1,1,37,0,37,0
+1702,created mode.md,53,True,False,,2020-11-23T19:56:27Z,1,2,0,1,26,0,26,0
+1700,Create closure.md at snippet folder ,0,True,False,,2020-11-19T07:48:14Z,1,2,1,1,40,0,40,0
+1697,feat: add findKeys snippet,99,True,True,2020-11-15T12:44:20Z,2020-11-15T12:44:20Z,1,2,0,1,24,0,24,1830842.0
+1661,Adding snippet for downloading js Objects as JSON files,243,True,False,,2020-11-15T12:38:43Z,1,3,0,1,27,0,27,0
+1582,Javascript array isSubsetByComparator,311,True,False,,2020-11-15T12:33:40Z,0,3,3,1,20,0,20,0
+1699,add changeLightness snippet,471,True,True,2020-10-31T14:38:18Z,2020-10-31T14:38:18Z,1,2,0,1,29,0,29,412239.0
+1657,add query string to object function,251,True,True,2020-10-27T14:36:23Z,2020-10-27T14:36:23Z,4,4,0,1,22,0,22,594392.0
+1348,Added linear interpolation snippet,0,True,False,,2020-10-06T09:07:57Z,1,2,1,1,16,0,16,0
+1698,add addListAria,0,True,False,,2020-10-26T08:43:49Z,1,2,0,1,35,0,35,0
+1679,Update bind.md,58,True,False,,2020-10-22T05:51:51Z,1,2,0,1,17,0,17,0
+1696,Create optionalProperty.md,45,True,False,,2020-10-22T18:13:36Z,1,2,0,1,16,0,16,0
+1694,Create nextYear.md,0,True,False,,2020-10-22T18:11:44Z,3,3,0,1,28,0,28,0
+1695,New Snippet,59,True,False,,2020-10-22T18:12:46Z,6,3,0,2,54,0,54,0
+1693,Added a function to check if two numbers are coprime,93,True,False,,2020-10-22T18:10:32Z,2,3,0,1,22,0,22,0
+1692,Added keyify function,0,True,False,,2020-10-22T18:09:02Z,2,3,0,1,41,0,41,0
+1691,Added snippets that contains operations on matrices,394,True,False,,2020-10-22T18:06:52Z,1,2,0,3,111,0,111,0
+1688,Add a new snippets named findeItem,955,True,False,,2020-10-22T18:05:48Z,1,2,0,1,37,0,37,0
+1690,Bubble sort algorithm,60,True,False,,2020-10-22T18:03:09Z,2,3,0,1,33,0,33,0
+1689,Future Date function,43,True,False,,2020-10-22T13:19:46Z,1,2,0,1,19,0,19,0
+1687,Add easeInQuad snippet,0,True,False,,2020-10-22T07:27:23Z,1,2,0,1,16,0,16,0
+1686,Adding a snippet that returns current date,121,True,False,,2020-10-22T06:58:59Z,1,2,0,1,26,0,26,0
+1681,Added greeting snippet,0,True,False,,2020-10-22T06:00:22Z,1,2,0,1,34,0,34,0
+1682,removeFrom snippet,18,True,False,,2020-10-22T05:58:07Z,1,2,1,1,16,0,16,0
+1684,Issue 1683 : Add 'httpOptions' code ,390,True,False,,2020-10-22T05:54:33Z,1,2,0,1,33,0,33,0
+1663,Add new snippet for getURLQueryVariable.,0,True,False,,2020-10-21T12:20:43Z,1,3,2,1,33,0,33,0
+1673,Use underscore for unused argument,60,True,True,2020-10-21T17:38:29Z,2020-10-21T17:38:30Z,1,2,0,1,1,1,2,8316.0
+1655,added getLocaleDate snippet,32,True,False,,2020-10-20T20:03:58Z,1,2,1,1,157,0,157,0
+1678,add RemoveArrayElement,76,True,False,,2020-10-21T17:45:07Z,1,2,0,1,24,0,24,0
+1677,Add Caesar Cipher,41,True,False,,2020-10-21T17:43:38Z,1,2,0,1,42,0,42,0
+1675,Simplify the code,79,True,False,,2020-10-21T17:42:42Z,1,2,0,1,6,8,14,0
+1674,Fix date in example,105,True,False,,2020-10-21T17:41:13Z,1,2,0,1,1,1,2,0
+1676,Update averageBy.md,55,True,False,,2020-10-21T17:39:50Z,1,2,0,1,2,2,4,0
+1666,feat: implementation of underscore pluck function,28,True,True,2020-10-21T14:09:10Z,2020-10-21T14:09:10Z,1,2,0,1,22,0,22,21366.0
+1672,add CSVDataJSONForAngular5Csv,0,True,False,,2020-10-21T14:10:10Z,1,2,0,1,47,0,47,0
+1667,Moves all the Zeroes to end of array,0,True,False,,2020-10-21T14:04:18Z,1,2,0,1,34,0,34,0
+1668,Merge Sort Algorithm implemented,118,True,False,,2020-10-21T14:03:32Z,1,2,0,1,51,0,51,0
+1660,Added inlineJSON snippet,85,True,False,,2020-10-21T12:18:39Z,1,3,1,1,20,0,20,0
+1669,Create kg to lbs and lbs to kg,54,True,False,,2020-10-21T12:16:10Z,4,3,0,2,32,0,32,0
+1671,Fix variable name in milesToKm,12,True,True,2020-10-21T12:15:22Z,2020-10-21T12:15:22Z,2,3,0,1,1,1,2,5086.0
+1665,feat: add case,0,True,True,2020-10-21T06:14:33Z,2020-10-21T06:14:33Z,1,2,0,1,1,0,1,242.0
+1664,added file wordcount,144,True,False,,2020-10-21T06:13:43Z,1,2,0,1,18,0,18,0
+1649,fix: refactor by a simple way & add a case,0,True,False,,2020-10-20T06:31:16Z,1,2,1,1,3,3,6,0
+1662,Create randomItemInArray.md,47,True,False,,2020-10-21T04:25:06Z,1,2,0,1,21,0,21,0
+1659,Add snippet to sum N squares,59,True,False,,2020-10-20T20:09:46Z,1,2,1,1,16,0,16,0
+1658,age,34,True,False,,2020-10-20T20:07:53Z,2,3,0,4,86,0,86,0
+1656,Create WeekDayBetweenCount.md,21,True,False,,2020-10-20T20:05:47Z,1,2,0,1,27,0,27,0
+1654,Moving an HTML Id with animation.,13,True,False,,2020-10-20T20:03:11Z,1,2,0,1,21,0,21,0
+1650,Added a snippet that removes array duplicates,0,True,False,,2020-10-20T12:47:32Z,1,2,0,1,12,0,12,0
+1645,"ADDED: util method to detect, if device is offLine or onLine",15,True,False,,2020-10-20T05:57:21Z,1,2,0,1,18,0,18,0
+1646,Add getPorcentage snippet,0,True,False,,2020-10-20T05:53:37Z,1,2,0,1,24,0,24,0
+1647,Start Of day in Millis,0,True,False,,2020-10-20T05:51:46Z,1,2,0,1,19,0,19,0
+1648,Remove duplicate elements from an array of strings,0,True,False,,2020-10-20T05:49:03Z,1,2,0,1,16,0,16,0
+1644,ADDING: New method to getCurrentTimestampInMilliseconds,0,True,False,,2020-10-19T19:24:40Z,1,2,0,1,18,0,18,0
+1643,ADDED: a new JavaScript snippet to getFormattedDuration from seconds count.,0,True,False,,2020-10-19T19:23:27Z,1,2,0,1,47,0,47,0
+1642,Remainder Snippet,159,True,False,,2020-10-19T19:22:44Z,1,2,0,1,23,0,23,0
+1641,Add color Generator snippet,274,True,False,,2020-10-19T19:21:37Z,1,2,0,1,25,0,25,0
+1640,Converting object to array in JS,85,True,False,,2020-10-19T19:20:47Z,1,2,0,1,32,0,32,0
+1639,Added allUnique snippet,103,True,True,2020-10-19T19:18:49Z,2020-10-19T19:18:49Z,2,2,0,1,18,0,18,8817.0
+1635,Create CenterObjectWith1CSScode.md,84,True,False,,2020-10-19T18:54:48Z,1,2,0,1,21,0,21,0
+1634,Adding new snippet,57,True,False,,2020-10-19T18:53:35Z,1,2,0,2,45,0,45,0
+1628,add numberToArrayOfNumber,0,True,False,,2020-10-19T07:17:16Z,1,2,1,1,17,0,17,0
+1633,Add naturalSort.md,364,True,False,,2020-10-19T10:11:36Z,1,2,0,1,32,0,32,0
+1620,Add eventProgess snippet,71,True,False,,2020-10-19T05:49:24Z,1,2,1,1,27,0,27,0
+1563,Add truncateAtSpace,141,True,True,2020-10-19T08:11:34Z,2020-10-19T08:11:34Z,1,2,0,1,26,0,26,392235.0
+1629,created snippet 2d-transforms,98,True,False,,2020-10-19T07:21:38Z,1,2,0,1,108,0,108,0
+1624,Easy slug snippet,136,True,False,,2020-10-19T05:59:50Z,2,4,3,1,34,0,34,0
+1625,Added snippet for finding unique array of objects,73,True,False,,2020-10-19T06:01:10Z,1,3,2,1,55,0,55,0
+1626,Added logical implication snippet,0,True,False,,2020-10-19T06:02:10Z,1,2,1,1,19,0,19,0
+1623,formatStringOfNames,0,True,False,,2020-10-19T05:58:35Z,1,2,0,1,35,0,35,0
+1622,Adds isWithinDistance,197,True,False,,2020-10-19T05:57:50Z,1,2,0,1,18,0,18,0
+1621,convert hexadecimal to rgb,0,True,False,,2020-10-19T05:54:57Z,1,2,0,1,18,0,18,0
+1631,Update redirect.md to prevent XSS,129,True,False,,2020-10-19T05:44:06Z,1,2,0,1,1,1,2,0
+1630,Update redirect.md to prevent XSS,129,True,False,,2020-10-19T05:36:40Z,0,1,1,1,1,1,2,0
+1619,cleaner names inside toRGBObject,275,True,True,2020-10-17T17:19:00Z,2020-10-17T17:19:00Z,1,2,0,1,3,3,6,8011.0
+1609,Improve mapObject snippet,273,True,False,,2020-10-16T17:32:05Z,1,2,0,1,15,5,20,0
+1606,added new snippet to add suffix to a string using function factories,360,True,False,,2020-10-16T12:31:41Z,1,2,0,1,26,0,26,0
+1618,Function to convert array to object,0,True,False,,2020-10-16T18:50:43Z,1,2,0,1,27,0,27,0
+1615,Create fibonacciNthTerm.md,0,True,False,,2020-10-16T18:49:23Z,1,2,0,1,29,0,29,0
+1617,add toHSLObject,461,True,True,2020-10-16T18:48:31Z,2020-10-16T18:48:31Z,1,2,1,1,21,0,21,631.0
+1616,add toHSLArray,284,True,True,2020-10-16T18:46:30Z,2020-10-16T18:46:30Z,1,2,1,1,17,0,17,1038.0
+1613,Add a function to check the parity of an integer (IE: Even vs. Odd),413,True,False,,2020-10-16T17:22:35Z,1,2,1,1,36,0,36,0
+1614,Update README.md,0,True,False,,2020-10-16T18:16:00Z,0,2,0,1,1,1,2,0
+1608,ADD: mediaQueries,0,True,False,,2020-10-16T17:28:52Z,1,2,0,1,117,0,117,0
+1610,calculate the arial distance between two coordinates,71,True,False,,2020-10-16T17:25:48Z,1,2,0,1,42,0,42,0
+1611,Minmax,159,True,False,,2020-10-16T17:25:18Z,1,2,0,1,22,0,22,0
+1612,Add new snippet ( generateUniqueString ),470,True,False,,2020-10-16T17:23:39Z,1,2,0,1,18,0,18,0
+1579,add string concactenation using template litteral,0,True,False,,2020-10-15T10:11:54Z,1,2,1,1,26,0,26,0
+1607,Added MinToYears which converts Minutes to Years and days.,0,True,False,,2020-10-16T12:34:43Z,1,2,0,1,20,0,20,0
+1605,Add factorQuadratic snippet,0,True,False,,2020-10-16T09:04:50Z,1,2,0,1,28,0,28,0
+1604,Create CSharpUrlToFile,41,True,False,,2020-10-16T08:54:20Z,1,2,0,1,14,0,14,0
+1599,Add a snippet for nand operator,106,True,False,,2020-10-16T05:39:14Z,1,2,0,1,18,0,18,0
+1603,Finding slope/gradient of a line,0,True,False,,2020-10-16T05:16:28Z,1,2,0,1,18,0,18,0
+1602,Add RGBAToHex Snippet,31,True,False,,2020-10-16T05:15:10Z,1,2,0,1,16,0,16,0
+1601,[Hacktoberfest] add javascript snippet,42,True,False,,2020-10-16T05:13:31Z,1,2,0,1,18,0,18,0
+1600,Add Copy to Clipboard Snippet,0,True,False,,2020-10-16T05:11:52Z,1,2,0,1,14,25,39,0
+1573,clearAllTimers snippet,36,True,False,,2020-10-15T19:36:32Z,1,2,2,1,24,0,24,0
+1565,add getVisibleChildNodes,0,True,False,,2020-10-15T19:26:04Z,1,2,2,1,33,0,33,0
+1572,Add rafCycle.md,135,True,False,,2020-10-15T19:32:19Z,1,2,0,1,29,0,29,0
+1597,Create replaceAllStringOccurrences.md,0,True,False,,2020-10-15T19:27:33Z,1,2,0,1,18,0,18,0
+1546,adds newCSSRule(),0,True,True,2020-10-15T19:18:16Z,2020-10-15T19:18:16Z,2,4,8,1,24,0,24,200517.0
+1595,Add binaryDataToBase64String snippet,0,True,False,,2020-10-15T19:13:51Z,1,2,0,1,24,0,24,0
+1596,Add email validator,97,True,False,,2020-10-15T19:08:59Z,1,2,0,1,20,0,20,0
+1593,adds getWordCount(),0,True,False,,2020-10-15T17:17:20Z,1,2,0,1,19,0,19,0
+1594,adds convertToBase(),0,True,False,,2020-10-15T17:16:41Z,1,2,0,1,20,0,20,0
+1590,Add factorial,136,True,False,,2020-10-15T17:22:40Z,1,2,2,1,29,0,29,0
+1578,Add SearchingInArray snippet,0,True,False,,2020-10-15T17:25:54Z,1,2,0,1,21,0,21,0
+1583,Added Timesince script,0,True,False,,2020-10-15T17:25:25Z,1,2,0,1,47,0,47,0
+1581,Add getDataType snippet,0,True,False,,2020-10-15T17:23:47Z,1,2,0,1,23,0,23,0
+1584,Add getFullMonthName snippet,0,True,False,,2020-10-15T17:22:50Z,1,2,0,1,16,0,16,0
+1585,Add toBRLFormat snippet,0,True,False,,2020-10-15T17:22:20Z,1,2,0,1,22,0,22,0
+1591,Add getShortMonthName snippet,38,True,False,,2020-10-15T17:20:00Z,1,2,0,1,16,0,16,0
+1589,Add snippet for checking if at least one element in the array return true for provided callaback (JS),0,True,False,,2020-10-15T17:06:33Z,1,2,0,4,92,0,92,0
+1588,Add snippet for checking if all elements in the array return true for provided callaback (JS),0,True,False,,2020-10-15T17:06:04Z,1,2,0,3,64,0,64,0
+1587,Add snippet for converting binary to decimal number (JS),0,True,False,,2020-10-15T17:05:32Z,1,2,0,2,36,0,36,0
+1586,Add snippet for converting decimal to binary number (JS),0,True,False,,2020-10-15T17:04:53Z,1,2,0,1,19,0,19,0
+1592,Updated  CODE_OF_CONDUCT.md,0,True,False,,2020-10-15T17:03:23Z,1,3,0,1,11,11,22,0
+1580,Added new snippet distanceFromLatitudeLongitude,117,True,False,,2020-10-15T10:13:52Z,1,2,0,1,31,0,31,0
+1571,add focusTrap object,0,True,False,,2020-10-15T06:36:42Z,1,2,0,1,96,0,96,0
+1567,Add formatDate,0,True,False,,2020-10-15T06:35:34Z,1,2,0,1,65,0,65,0
+1570,Adds another example to frequencies snippet,115,True,True,2020-10-15T06:34:43Z,2020-10-15T06:34:43Z,1,2,0,1,1,0,1,26906.0
+1569,Add axios snippets,0,True,False,,2020-10-15T06:33:12Z,1,2,1,2,70,0,70,0
+1577,snippet added for Api-handling ,115,True,False,,2020-10-15T06:32:29Z,1,2,0,1,35,0,35,0
+1576,created caesarCipher snippet,0,True,False,,2020-10-15T06:31:50Z,1,2,0,1,61,0,61,0
+1568,Add productOfArray,0,True,False,,2020-10-15T06:31:13Z,1,2,0,1,20,0,20,0
+1575,created insertAtIf snippet,60,True,False,,2020-10-15T06:30:21Z,1,2,0,1,38,0,38,0
+1574,Added snippets,174,True,False,,2020-10-15T06:29:41Z,1,2,0,5,53,1,54,0
+1566,add getDomPath,0,True,True,2020-10-15T06:28:47Z,2020-10-15T06:28:47Z,1,2,0,1,24,0,24,33646.0
+1564,Move misplaced snippet,77,True,False,,2020-10-14T21:08:57Z,0,1,1,1,0,0,0,0
+1561,Adding mergeTwoObjects snippet,0,True,False,,2020-10-14T17:42:58Z,1,2,1,1,26,0,26,0
+1562,Add randomChoiceFromArray,245,True,False,,2020-10-14T17:44:08Z,1,2,0,1,20,0,20,0
+1560,Reload snippet,0,True,False,,2020-10-14T17:43:31Z,1,2,0,1,5,0,5,0
+1559,Adding isFibonacciNumber snippet,0,True,False,,2020-10-14T17:41:05Z,1,2,0,1,20,0,20,0
+1558,Added celsiusToKelvin method - Converts degrees to kelvin,0,True,False,,2020-10-14T17:40:28Z,1,2,0,1,17,0,17,0
+1555,Add RGBDivider,82,True,True,2020-10-14T17:39:20Z,2020-10-14T17:39:21Z,1,3,2,2,38,0,38,59629.0
+1553,Add http OPTIONS snippets,0,True,False,,2020-10-14T05:52:24Z,1,2,1,1,50,0,50,0
+1470,Add an universal UUID/GUID generator snippet,0,True,False,,2020-10-09T17:29:18Z,1,2,1,1,61,0,61,0
+1557,Added simple matrix operation snippet,87,True,False,,2020-10-14T07:44:09Z,1,2,0,1,26,0,26,0
+1554,add initializeArray,0,True,False,,2020-10-14T05:44:51Z,1,2,0,1,25,0,25,0
+1556,Add RGBToCMYK,34,True,False,,2020-10-14T05:43:46Z,1,2,0,1,25,0,25,0
+1541,fix: allow for shorter arrays in isSorted,102,True,True,2020-10-13T07:17:39Z,2020-10-13T07:17:39Z,1,2,0,1,10,9,19,44456.0
+1552,adds pickObjectProperties snippet,0,True,False,,2020-10-13T19:00:23Z,1,2,0,1,46,0,46,0
+1548,added convertTimestampToDDMMYYYYFormat,109,True,False,,2020-10-13T17:28:41Z,1,3,1,1,28,0,28,0
+1550,Added a new CSS snippet to the collection - CSSBrowserDetector.md,0,True,False,,2020-10-13T17:15:54Z,0,2,2,1,79,0,79,0
+1549,adds `useDebounce` custom React Hook snippet,0,True,False,,2020-10-13T17:12:45Z,0,2,1,1,59,0,59,0
+1545,Added removeDuplicates,0,True,False,,2020-10-13T10:57:52Z,2,3,0,1,20,0,20,0
+1547,Added islandsCount.md,0,True,False,,2020-10-13T14:15:47Z,1,2,0,1,30,0,30,0
+1489,Add isSubsetByComparator JavaScript array function,211,True,False,,2020-10-10T18:10:30Z,1,2,2,1,20,0,20,0
+1543,Create removeAllWhitespaces.md,138,True,True,2020-10-13T06:37:28Z,2020-10-13T06:37:28Z,1,2,1,1,16,0,16,1326.0
+1453,added DECIMALtoHEX,61,True,False,,2020-10-09T06:28:49Z,1,2,1,1,23,0,23,0
+1542,Kelvin Conversions,194,True,False,,2020-10-12T20:12:08Z,1,2,0,4,64,0,64,0
+1526,"Add isNode, randomIpAddress and isRegularExpression",128,True,True,2020-10-12T17:01:21Z,2020-10-12T17:01:22Z,1,2,1,1,21,0,21,74017.0
+1528,"Add snippets isHexadecimalNumber, isHexadecimalColor, isBinary",86,True,False,,2020-10-12T16:57:48Z,1,2,1,3,57,0,57,0
+1540,Create Fetch API,35,True,False,,2020-10-12T17:02:16Z,1,2,0,1,20,0,20,0
+1524,added function that generates random OTP of desired length,0,True,False,,2020-10-12T16:55:06Z,1,2,0,1,26,0,26,0
+1538,Added a javascript code,0,True,False,,2020-10-12T16:42:57Z,0,2,0,1,3,3,6,0
+1539,typo,0,True,True,2020-10-12T16:42:27Z,2020-10-12T16:42:27Z,1,2,1,1,1,1,2,180.0
+1529,Adding addDaysToDate snippet,58,True,True,2020-10-12T16:41:04Z,2020-10-12T16:41:04Z,1,2,0,1,23,0,23,59715.0
+1517,add week days to a given date,0,True,True,2020-10-12T16:34:27Z,2020-10-12T16:34:27Z,1,2,0,1,27,0,27,96053.0
+1536,add triangle area snippet,37,True,False,,2020-10-12T16:27:56Z,1,2,0,1,19,0,19,0
+1537,find_index_of snippet added,0,True,False,,2020-10-12T16:26:23Z,1,2,0,1,18,0,18,0
+1534,Create pageTransition.md,0,True,False,,2020-10-12T12:27:09Z,1,2,1,1,28,0,28,0
+1535,Add toString,33,True,False,,2020-10-12T12:25:16Z,1,2,0,1,18,0,18,0
+1533,Omitted the third argument step,0,True,False,,2020-10-12T12:23:29Z,1,2,0,1,2,2,4,0
+1532,Add function to calculate distance between two coordinates,91,True,False,,2020-10-12T12:22:21Z,1,2,0,1,35,0,35,0
+1531,Count words in string,77,True,False,,2020-10-12T12:21:17Z,1,2,0,1,16,0,16,0
+1522,added a function that generates strong random alphaNumericAndCharacte…,25,True,False,,2020-10-12T12:19:43Z,1,2,0,1,45,0,45,0
+1525,added isEtheriumAddress,40,True,False,,2020-10-12T03:55:49Z,1,2,0,1,17,0,17,0
+1527,Create checkPassword.md,115,True,False,,2020-10-12T03:53:55Z,1,2,0,1,26,0,26,0
+1530,Add Sieve of Eratosthenes,88,True,False,,2020-10-12T03:18:47Z,0,1,1,1,37,0,37,0
+1521,Update: Increase the speed of the algorithm,595,True,False,,2020-10-11T18:26:21Z,1,2,1,1,19,8,27,0
+1520,Num to words,197,True,False,,2020-10-11T18:21:37Z,1,2,0,1,66,0,66,0
+1519,Loop with sequence or parallel,0,True,False,,2020-10-11T18:20:59Z,1,2,0,1,42,0,42,0
+1490,Palindrome recursion snippet added,0,True,False,,2020-10-11T07:11:09Z,1,2,1,1,42,0,42,0
+1516,Add generateOTP,92,True,False,,2020-10-11T13:38:58Z,1,2,0,1,27,0,27,0
+1512,Count weekdays between 2 dates,0,True,True,2020-10-11T11:33:36Z,2020-10-11T11:33:36Z,1,2,0,1,26,0,26,9961.0
+1515,spintext based on options provided snippet,128,True,False,,2020-10-11T11:01:15Z,1,2,0,1,39,0,39,0
+1513,Set operations,0,True,True,2020-10-11T08:54:50Z,2020-10-11T08:54:50Z,1,2,0,4,87,0,87,52.0
+1511,update the website,30,True,False,,2020-10-11T08:40:42Z,1,2,0,1,2,2,4,0
+1509,feature(snippets): add dynamic comparator sorting by key,312,True,False,,2020-10-11T07:29:55Z,1,2,0,1,35,0,35,0
+1507,Detect if a word is an isogram,0,True,False,,2020-10-11T07:25:41Z,1,2,0,1,26,0,26,0
+1506,change function in average.md,0,True,False,,2020-10-11T07:22:27Z,0,2,0,1,1,1,2,0
+1505,Create convertToBoolean.md,43,True,False,,2020-10-11T07:22:01Z,1,2,0,1,19,0,19,0
+1502,Create some.md,0,True,False,,2020-10-11T07:21:52Z,1,2,0,1,11,0,11,0
+1504,Create sortNumbers.md,81,True,False,,2020-10-11T07:21:16Z,1,2,0,1,24,0,24,0
+1499,Create scroll.md,144,True,False,,2020-10-11T07:20:44Z,1,2,0,1,14,0,14,0
+1501,Create objectToString.md,0,True,False,,2020-10-11T07:20:13Z,0,2,0,1,9,0,9,0
+1498,Create areaOfCircle.md,0,True,False,,2020-10-11T07:20:01Z,1,2,0,1,19,0,19,0
+1494,Add isPerfectSquare.md,0,True,False,,2020-10-11T07:19:16Z,1,3,2,1,19,0,19,0
+1495,Add cmToInches,18,True,False,,2020-10-11T07:18:41Z,1,2,0,1,16,0,16,0
+1496,added randomString.js,0,True,False,,2020-10-11T07:16:07Z,1,2,0,2,25,19,44,0
+1503,Create a toPascalCase snippet,0,True,False,,2020-10-11T07:14:13Z,1,2,0,1,23,0,23,0
+1492,added binary search recursive function snippet,0,True,False,,2020-10-11T07:14:11Z,1,2,0,1,39,0,39,0
+1491,Add removeDuplicatesFromArray snippet,145,True,False,,2020-10-11T07:13:25Z,1,2,0,1,24,0,24,0
+1508,Fix : Indentation and spaces,42,True,False,,2020-10-11T07:10:56Z,1,3,0,402,1626,1328,2954,0
+1488,Add exponentiation,46,True,False,,2020-10-10T16:23:05Z,1,2,0,1,16,0,16,0
+1337,Added promiseDebounce,87,True,True,2020-10-10T18:09:15Z,2020-10-10T18:09:16Z,1,2,0,1,48,0,48,418488.0
+1426,Adds remove primitive snippet,208,True,False,,2020-10-08T14:02:23Z,1,2,0,1,23,0,23,0
+1485,Added new snippet for decimal to binary conversion,71,True,False,,2020-10-10T16:16:59Z,0,2,2,1,19,0,19,0
+1486,Add validateEmail snippet,70,True,False,,2020-10-10T16:20:12Z,1,3,1,1,21,0,21,0
+1483,📝 Added formatphone helper.,65,True,False,,2020-10-10T16:23:56Z,1,2,0,1,26,0,26,0
+1482,Add Falsy validator snippet,51,True,False,,2020-10-10T16:22:12Z,1,2,0,1,30,0,30,0
+1481,Convert numbers got added,78,True,False,,2020-10-10T16:21:11Z,1,2,0,1,26,0,26,0
+1484,Added new snippet for decimal to hex conversion,65,True,False,,2020-10-10T15:07:15Z,0,3,3,1,19,0,19,0
+1487,Add FilterCounter,0,True,False,,2020-10-10T14:56:42Z,0,2,1,1,8,0,8,0
+1479,Add unary plus snippet,89,True,False,,2020-10-10T07:03:07Z,1,2,0,1,27,0,27,0
+1480,Add Login-Function Snippet,119,True,False,,2020-10-10T08:31:01Z,1,2,0,1,61,0,61,0
+1477,added geometric-mean snippet,62,True,False,,2020-10-10T07:04:12Z,1,3,1,1,37,0,37,0
+1475,Added DollarsToCents.md,0,True,False,,2020-10-10T05:11:00Z,1,2,0,1,24,0,24,0
+1476,Update flatten to use latest syntax,98,True,False,,2020-10-10T05:09:45Z,1,2,0,1,2,6,8,0
+1469,Add mergeObject snippet,66,True,False,,2020-10-09T17:30:06Z,1,2,0,1,18,0,18,0
+1474,Create concatNtimes.md,28,True,False,,2020-10-09T20:03:53Z,1,3,0,1,18,0,18,0
+1473,add lastDateOfMonth,0,True,True,2020-10-09T19:01:54Z,2020-10-09T19:01:54Z,1,2,0,1,21,0,21,5048.0
+1381,Add factoryWithSeed snippet,242,True,True,2020-10-09T17:41:31Z,2020-10-09T17:41:31Z,1,2,0,1,16,0,16,211884.0
+1472,add getLastInMap,0,True,False,,2020-10-09T17:31:53Z,1,2,0,1,14,0,14,0
+1468,added function to remove any element from an array at specified index,0,True,False,,2020-10-09T17:31:27Z,1,2,0,1,23,0,23,0
+1471,Update all.md,0,True,False,,2020-10-09T15:50:30Z,0,2,0,1,14,0,14,0
+1467,Proposal of a new template way,236,True,False,,2020-10-09T13:04:45Z,1,2,1,1,4,2,6,0
+1466,add of replaceAllInQuery,273,True,False,,2020-10-09T12:49:41Z,1,2,0,1,22,0,22,0
+1465,add getAge.md,61,True,False,,2020-10-09T12:39:16Z,1,2,0,1,18,0,18,0
+1464,added timesince snippet,0,True,False,,2020-10-09T12:38:03Z,1,2,0,1,47,0,47,0
+1463,Added randomColor function,0,True,False,,2020-10-09T12:36:30Z,1,2,0,1,25,0,25,0
+1457,Depth First Search Snippet,72,True,False,,2020-10-09T12:31:06Z,1,2,0,1,84,0,84,0
+1460,Added CreditChecker,0,True,False,,2020-10-09T09:08:39Z,1,2,0,1,42,0,42,0
+1462,added daysFromNow.md,65,True,True,2020-10-09T09:19:21Z,2020-10-09T09:19:21Z,1,2,0,1,21,0,21,203.0
+1461,Added the diceRoll snippet,57,True,False,,2020-10-09T09:07:51Z,1,2,0,1,25,0,25,0
+1459,Added the diceRoll snippet,56,True,False,,2020-10-09T08:51:21Z,0,2,1,1,25,0,25,0
+1393,added function to get quarter with the year for the supplied date,0,True,True,2020-10-09T07:24:07Z,2020-10-09T07:24:07Z,1,2,0,1,23,0,23,155652.0
+1445,Snippet thats converts date format,67,True,False,,2020-10-08T18:31:54Z,1,2,0,1,21,0,21,0
+1456,Updated Fibonacci code snippet,20,True,False,,2020-10-09T06:38:51Z,1,2,0,2,27,19,46,0
+1454,closest lower prime snippet,23,True,False,,2020-10-09T06:37:18Z,0,2,0,7,120,67,187,0
+1455,Update factorial.md,54,True,False,,2020-10-09T06:35:52Z,1,2,0,1,13,12,25,0
+1452,isEmail.md added,52,True,False,,2020-10-09T06:28:03Z,1,2,0,1,18,0,18,0
+1451,added daysBetween.md,54,True,False,,2020-10-09T06:26:10Z,1,2,0,2,38,0,38,0
+1446,add. downloadFile snippet,103,True,False,,2020-10-09T06:24:45Z,1,3,3,1,27,0,27,0
+1447,Capitalised the titles of the markdown tables,0,True,False,,2020-10-08T22:09:17Z,0,2,1,436,875,875,1750,0
+1450,Added dateFormat snippet,146,True,False,,2020-10-08T22:04:41Z,0,2,1,1,21,0,21,0
+1449,Create a cloneObject,209,True,False,,2020-10-08T21:52:49Z,0,2,1,1,20,0,20,0
+1444,New snippet shortestWordOnArray,0,True,False,,2020-10-08T17:55:08Z,1,3,1,1,19,0,19,0
+1407,Whitespace snippet,0,True,False,,2020-10-08T12:13:31Z,1,2,1,1,27,0,27,0
+1425,sum upto first n natural number,0,True,False,,2020-10-08T13:59:13Z,1,2,0,1,18,0,18,0
+1442,Add snippet: domainName,114,True,False,,2020-10-08T16:50:17Z,1,2,0,1,17,0,17,0
+1443,add focusTabModal.md,0,True,False,,2020-10-08T16:43:26Z,1,2,1,1,49,0,49,0
+1441,Added abs function to get absolute value of a number,62,True,False,,2020-10-08T16:42:37Z,1,2,0,1,19,0,19,0
+1345,Added snippet `RGBToCMYK`,78,True,False,,2020-10-08T15:41:26Z,0,3,3,1,32,0,32,0
+1440,Add snippet: purgeArray,171,True,False,,2020-10-08T16:01:19Z,1,2,0,1,26,0,26,0
+1438,dynamically include the contents of a resource inside the HTML body,67,True,False,,2020-10-08T15:44:55Z,1,3,1,1,35,0,35,0
+1386,Create getLastDateFromNoOfMonths.md,66,True,False,,2020-10-08T15:45:46Z,1,2,0,1,24,0,24,0
+1392,Added timeDiff snippet,0,True,False,,2020-10-08T15:43:02Z,0,3,2,1,20,0,20,0
+1439,add snippet for power,0,True,False,,2020-10-08T15:28:53Z,1,2,0,1,35,0,35,0
+1408,New snippet - changeStringToArrayOfChars,82,True,True,2020-10-08T12:18:02Z,2020-10-08T12:18:02Z,1,2,1,1,16,0,16,58996.0
+1423,added a function that converts roman numbers to integers,0,True,False,,2020-10-08T13:57:12Z,1,2,1,1,51,0,51,0
+1437,added timestamp.md,60,True,True,2020-10-08T14:16:11Z,2020-10-08T14:16:11Z,1,2,0,1,19,0,19,1065.0
+1435,Added tetranacciSequence.md,82,True,False,,2020-10-08T14:10:27Z,1,2,0,1,32,0,32,0
+1434,Add RGBAToRGB,100,True,False,,2020-10-08T14:09:38Z,1,2,0,1,23,0,23,0
+1432,Create keyBy.md,0,True,False,,2020-10-08T14:08:29Z,1,2,0,1,23,0,23,0
+1433,Added onProgress callback,79,True,False,,2020-10-08T14:05:45Z,1,2,0,1,5,1,6,0
+1427,Adding URLToDoc snippet,0,True,False,,2020-10-08T14:03:40Z,1,2,0,1,38,0,38,0
+1424,add snippet for make unique array in js,60,True,False,,2020-10-08T13:57:51Z,1,2,0,1,43,0,43,0
+1421,initial commit,0,True,False,,2020-10-08T13:56:06Z,1,2,0,2,36,0,36,0
+1436,added timestamp.md,76,True,False,,2020-10-08T13:55:15Z,0,1,0,1,18,0,18,0
+1420,add. getUserAgent snippet,55,True,False,,2020-10-08T13:55:04Z,1,2,0,1,18,0,18,0
+1419,Add Gauss sum or sum of k naturals.,0,True,True,2020-10-08T13:53:15Z,2020-10-08T13:53:15Z,1,2,0,1,16,0,16,36601.0
+1418,Update hasKey snippet,186,True,False,,2020-10-08T13:46:16Z,1,2,0,1,1,1,2,0
+1416,Added snipped getCollectionOfElements,0,True,False,,2020-10-08T13:43:30Z,1,2,0,1,22,0,22,0
+1415,Added a snippet isDateValid,0,True,True,2020-10-08T13:39:23Z,2020-10-08T13:39:23Z,1,2,1,1,23,0,23,54481.0
+1413,Added snippet addMultipleEvents,0,True,True,2020-10-08T12:54:26Z,2020-10-08T12:54:26Z,1,2,0,1,22,0,22,54644.0
+1410,Add snippet to enable/disable HTML page scrolling,108,True,False,,2020-10-08T12:38:48Z,1,3,1,1,44,0,44,0
+1412,New snippet hexadecimalToDecimalNumber,74,True,False,,2020-10-08T12:41:31Z,1,2,0,1,41,0,41,0
+1365,Added getProtocol,96,True,True,2020-10-08T12:25:13Z,2020-10-08T12:25:13Z,1,2,0,1,16,0,16,135779.0
+1417,Correct a typo in combine.md,0,True,True,2020-10-08T12:22:14Z,2020-10-08T12:22:14Z,1,2,0,1,1,1,2,46755.0
+1430,Update getElementsBiggerThanViewport.md,133,True,True,2020-10-08T12:21:32Z,2020-10-08T12:21:32Z,1,2,0,1,2,5,7,2628.0
+1414,Added limitText.md snippet,0,True,False,,2020-10-08T12:20:17Z,1,2,0,1,23,0,23,0
+1411,Generate alphanumeric string snippet for a given length,0,True,False,,2020-10-08T12:19:00Z,1,2,0,1,20,0,20,0
+1422,Please ignore.,0,True,False,,2020-10-08T06:51:09Z,0,2,1,1,0,0,0,0
+1394,Javascript array remove,481,True,False,,2020-10-07T16:33:52Z,1,3,1,3,76,24,100,0
+1405,Adding count_substring in Python,72,True,False,,2020-10-07T18:05:57Z,1,2,1,1,26,0,26,0
+1409,Support number as input in palindrome snippet,0,True,False,,2020-10-07T20:43:36Z,1,2,0,1,6,5,11,0
+1404,sleepSync: add synchronous sleep snippet,65,True,False,,2020-10-07T18:07:25Z,1,2,0,2,25,2,27,0
+1406,Added isBetweenDates snippet,0,True,True,2020-10-07T18:04:49Z,2020-10-07T18:04:49Z,1,2,0,1,17,0,17,1807.0
+1358,Remove duplicates in the array snippet,52,True,False,,2020-10-06T18:04:02Z,1,2,0,1,21,0,21,0
+1388,Added matrixMult.md,191,True,False,,2020-10-07T16:22:38Z,1,2,1,1,98,0,98,0
+1397,Add Phone Number Formatting Function,150,True,False,,2020-10-07T16:36:40Z,1,2,1,1,60,0,60,0
+1401,Add. Adds objectToArrayOfArrays.md,368,True,False,,2020-10-07T16:44:10Z,1,2,0,1,16,0,16,0
+1400,Added detectOrientationChange snippet,44,True,False,,2020-10-07T16:42:46Z,1,2,0,1,33,0,33,0
+1399,Create portValidation.md,19,True,False,,2020-10-07T16:39:13Z,1,2,0,1,19,0,19,0
+1398,Add isIPv4 snippet,0,True,False,,2020-10-07T16:38:46Z,1,2,0,1,22,0,22,0
+1396,Added isMultiple.md,70,True,False,,2020-10-07T16:35:53Z,1,2,1,2,44,0,44,0
+1395,Added a new snippet convertArrayIntoObject,63,True,False,,2020-10-07T16:34:35Z,1,2,0,1,24,0,24,0
+1391,Create ExponentPower.md,35,True,False,,2020-10-07T16:25:21Z,1,3,1,1,19,0,19,0
+1390,Create IterateObject.md,30,True,False,,2020-10-07T16:23:19Z,1,2,0,1,30,0,30,0
+1387,Add getCpuModel snippet,0,True,False,,2020-10-07T16:22:03Z,1,2,0,1,18,0,18,0
+1382,[add] base64 to file,25,True,False,,2020-10-07T16:18:21Z,1,2,0,1,18,0,18,0
+1384,[add] validate file,34,True,False,,2020-10-07T16:16:46Z,1,2,0,1,33,0,33,0
+1380,Added a space,30,True,False,,2020-10-07T16:15:43Z,0,2,0,1,1,1,2,0
+1370,Adding logarithm calculator for given number in given base,0,True,True,2020-10-07T16:15:11Z,2020-10-07T16:15:11Z,1,2,0,1,17,0,17,51548.0
+1385,Update isWeekday.md,0,True,False,,2020-10-07T14:19:42Z,1,2,0,1,4,3,7,0
+1389,Create fastPower.md,43,True,False,,2020-10-07T14:18:13Z,1,2,0,1,32,0,32,0
+1374,Added a snippet that gets a random item from an array,39,True,False,,2020-10-07T06:09:36Z,1,2,1,1,18,0,18,0
+1377,Easy for users to identify the code,62,True,False,,2020-10-07T05:53:48Z,0,2,0,1,1,1,2,0
+1383,Update daysAgo.md,13,True,False,,2020-10-07T08:14:23Z,1,2,0,1,4,4,8,0
+1344,Add: Mean,69,True,False,,2020-10-06T14:21:04Z,1,2,1,1,20,0,20,0
+1373,items in array swap helper function,0,True,False,,2020-10-07T06:28:55Z,1,2,0,1,25,0,25,0
+1372,added a snippet that helps find an object from an array of objects,114,True,False,,2020-10-07T06:27:19Z,1,2,0,1,19,0,19,0
+1371,Added displacementWithAcceleration snippet,327,True,False,,2020-10-07T06:26:50Z,1,2,0,1,21,0,21,0
+1369,feat: add getISO8601StringTzAware snippet,86,True,True,2020-10-07T06:25:24Z,2020-10-07T06:25:24Z,1,2,0,1,30,0,30,20335.0
+1379,Update any.md,0,True,False,,2020-10-07T06:10:52Z,1,2,0,1,1,0,1,0
+1375,Add Snippet for solving a quadratic equation,0,True,False,,2020-10-07T06:07:51Z,1,2,0,1,22,0,22,0
+1366,feat: add isTruthy snippet,0,True,False,,2020-10-07T06:00:34Z,1,2,0,1,37,0,37,0
+1368,feat: add executeMicroTask snippet,172,True,False,,2020-10-07T05:59:03Z,1,2,0,1,22,0,22,0
+1367,feat: add executeMacroTask snippet,80,True,False,,2020-10-07T05:58:29Z,1,2,0,1,18,0,18,0
+1364,Add to dolar method using Intl lib,0,True,False,,2020-10-07T05:54:51Z,1,2,0,1,26,0,26,0
+1378,update digitize.md,0,True,False,,2020-10-07T05:53:03Z,1,2,0,1,3,2,5,0
+1322,Add ucfirst snippet,63,True,False,,2020-10-05T14:39:01Z,1,2,2,1,19,0,19,0
+1326,Add detectLanguage.md,82,True,True,2020-10-06T15:47:30Z,2020-10-06T15:47:30Z,1,2,2,1,20,0,20,89027.0
+1359,Added detectUserAgent.md snippet,95,True,False,,2020-10-06T21:12:02Z,1,2,0,1,16,0,16,0
+1363,Add yieldFilter snippet,115,True,False,,2020-10-06T21:11:09Z,1,2,0,1,32,0,32,0
+1362,add array to object snippet,0,True,False,,2020-10-06T21:10:04Z,1,2,0,1,26,0,26,0
+1361,Add limitCharacters.md,0,True,False,,2020-10-06T21:07:46Z,1,2,0,1,20,0,20,0
+1360,Added hyphenToCamelCase.md snippet,71,True,False,,2020-10-06T21:07:11Z,1,2,0,1,16,0,16,0
+1342,Add CSVToYAML snippet,48,True,False,,2020-10-06T09:10:24Z,1,2,1,1,37,0,37,0
+1350,Add generateRGB snippet,0,True,False,,2020-10-06T09:09:35Z,1,2,1,1,28,0,28,0
+1356,Added code for converting integer to roman representation of number,0,True,True,2020-10-06T16:56:42Z,2020-10-06T16:56:42Z,1,2,0,1,42,0,42,17470.0
+1339,add elementBiggerThanViewport,83,True,True,2020-10-06T14:42:02Z,2020-10-06T14:42:02Z,1,2,1,1,23,0,23,48444.0
+1340,previous N days from today as date string,0,True,True,2020-10-06T16:18:43Z,2020-10-06T16:18:43Z,1,2,0,1,21,0,21,49388.0
+1331,Added xor.md,61,True,True,2020-10-06T16:09:54Z,2020-10-06T16:09:55Z,1,2,0,1,19,0,19,78132.0
+1320,Add Fetch Get,0,True,False,,2020-10-06T16:06:26Z,1,2,0,1,60,0,60,0
+1323,Add getCaptcha Snippet,0,True,False,,2020-10-06T15:34:50Z,1,2,0,1,22,0,22,0
+1297,added randomString,39,True,True,2020-10-06T15:33:41Z,2020-10-06T15:33:41Z,1,2,0,1,27,0,27,158043.0
+1351,add(isDefined): one liner for isDefined,43,True,False,,2020-10-06T14:27:16Z,1,2,1,1,23,0,23,0
+1357,Add numberToString,127,True,False,,2020-10-06T14:19:19Z,1,2,1,1,81,0,81,0
+1336,Add filter array of objects snippet,87,True,False,,2020-10-06T14:28:29Z,1,3,2,2,42,0,42,0
+1355,Added a new snippet to select a Random Item from Array,0,True,False,,2020-10-06T14:26:09Z,1,2,0,1,26,0,26,0
+1354,Added latinToMilitaryTime,196,True,False,,2020-10-06T14:22:42Z,1,2,0,1,23,0,23,0
+1352,New Snippet: isIdentityMatrix,354,True,False,,2020-10-06T14:21:58Z,1,2,1,1,30,0,30,0
+1334,Added snippet to make 3rd party API calls with vanilla JS,0,True,False,,2020-10-06T14:17:23Z,1,2,0,1,26,0,26,0
+1347,Added circularJSONStringify snippet,0,True,True,2020-10-06T09:32:45Z,2020-10-06T09:32:45Z,1,2,0,1,29,0,29,3828.0
+1349,Added wordWrap snippet and fixed typos,154,True,True,2020-10-06T09:19:44Z,2020-10-06T09:19:44Z,1,2,0,3,24,4,28,1554.0
+1338,Add withTimedReject,360,True,False,,2020-10-06T09:15:15Z,1,2,0,1,43,0,43,0
+1341,Create RandomColor.md,38,True,False,,2020-10-06T09:10:47Z,1,2,0,1,8,0,8,0
+1333,Add substring.md,49,True,False,,2020-10-06T09:08:32Z,1,2,0,1,29,0,29,0
+1335,Add trimWhiteSpaces snippet,109,True,False,,2020-10-06T09:07:01Z,1,2,0,1,19,0,19,0
+1302,added binaryToDecimal.md,66,True,False,,2020-10-05T14:04:37Z,1,2,0,1,31,0,31,0
+1239,Add 2 colour-related function,234,True,False,,2020-10-03T22:08:10Z,1,2,1,2,41,0,41,0
+1332,Create strongPasswordGenerator.md,0,True,False,,2020-10-05T19:48:37Z,1,2,0,1,54,0,54,0
+1330,Add nTimesString,0,True,False,,2020-10-05T18:17:30Z,1,2,0,1,18,0,18,0
+1329,Added digitalClock.md,0,True,False,,2020-10-05T18:11:09Z,1,2,0,1,44,0,44,0
+1328,Add selectToCopy.md,245,True,False,,2020-10-05T16:42:18Z,1,2,0,1,45,0,45,0
+1318,formatDateShort snippet,269,True,False,,2020-10-05T16:39:07Z,1,2,0,1,35,0,35,0
+1327,Program to check if a number is part of the Fibonacci series,0,True,False,,2020-10-05T16:28:02Z,1,2,0,2,17,0,17,0
+1325,Add litersToGallons and gallonsToLiters snippets,64,True,False,,2020-10-05T14:57:56Z,0,2,1,2,44,0,44,0
+1311,added parseYoutubeUrl,146,True,False,,2020-10-05T14:01:45Z,1,3,2,1,28,0,28,0
+1321,Added snippets/convertArrayOfObjectsToObjectOfObjects.md,278,True,False,,2020-10-05T14:37:26Z,1,2,0,1,52,0,52,0
+1314,Added nTimesString,0,True,False,,2020-10-05T14:33:42Z,1,2,0,1,18,0,18,0
+1305,Program that checks substrings,97,True,False,,2020-10-05T14:32:10Z,1,2,0,2,23,0,23,0
+1315,Added percentageRedToGreen.md,0,True,False,,2020-10-05T14:30:27Z,1,2,0,1,22,0,22,0
+1312,syntax fixing and language,0,True,False,,2020-10-05T14:28:49Z,0,2,1,1,1,1,2,0
+1313,added progressBar.md,46,True,False,,2020-10-05T14:27:48Z,1,2,0,1,42,0,42,0
+1309,Added toFixed.md snippet,0,True,False,,2020-10-05T14:25:02Z,1,2,0,1,20,0,20,0
+1319,Added formatToThousands,0,True,False,,2020-10-05T14:17:22Z,1,2,1,1,19,0,19,0
+1310,add mergeSort.md,235,True,False,,2020-10-05T14:19:00Z,1,2,0,1,34,0,34,0
+1316,Added emsoChecker.md,0,True,False,,2020-10-05T14:10:50Z,1,2,0,1,33,0,33,0
+1308,Added 'bitwiseNot.md',0,True,False,,2020-10-05T14:09:01Z,1,2,0,4,72,0,72,0
+1307,Added 'bitwiseXOR.md,0,True,False,,2020-10-05T14:08:44Z,1,2,0,3,54,0,54,0
+1306,Added 'bitwiseAND.md,0,True,False,,2020-10-05T14:08:18Z,1,2,0,2,36,0,36,0
+1304,Added 'bitwiseOR.md',0,True,False,,2020-10-05T14:07:47Z,1,2,0,2,36,0,36,0
+1317,Creater new file (meterToYard.md),0,True,False,,2020-10-05T14:02:54Z,1,2,0,1,16,0,16,0
+1294,added getStringPermutations,87,True,False,,2020-10-04T18:33:14Z,1,3,2,1,45,0,45,0
+1298,added convert-array-of-objects.md,0,True,False,,2020-10-05T13:46:27Z,1,2,1,1,52,0,52,0
+1301,added isBalancedParentheses,52,True,False,,2020-10-05T13:58:14Z,1,2,0,1,34,0,34,0
+1300,formatDateShort.md,264,True,False,,2020-10-05T13:44:04Z,0,12,1,15,347,44,391,0
+1303,Update CONTRIBUTING.md,15,True,False,,2020-10-05T07:49:35Z,0,2,0,1,1,0,1,0
+1295,Update CSVToArray.md,29,True,False,,2020-10-04T19:44:13Z,1,2,0,1,1,0,1,0
+1296,snippet for python,0,True,False,,2020-10-04T19:42:01Z,0,2,0,2,74,0,74,0
+1293,Add apply snippet,72,True,False,,2020-10-04T18:32:53Z,1,2,0,1,27,0,27,0
+1291,Added object destructure snippet for javascript,80,True,False,,2020-10-04T18:11:37Z,0,2,1,1,30,0,30,0
+1292,Add apply method snippet,0,True,False,,2020-10-04T18:15:15Z,1,2,0,1,24,0,24,0
+1289,Added object destructuring snippet for javascript.,0,True,False,,2020-10-04T17:25:51Z,1,2,1,1,48,0,48,0
+1290,add snippets search use array.proptypes.filter,40,True,False,,2020-10-04T17:39:25Z,1,2,0,1,27,0,27,0
+1279,Added fullscreen,0,True,True,2020-10-04T17:38:38Z,2020-10-04T17:38:38Z,1,2,0,1,23,0,23,13692.0
+1253,Add getScrollDirection snippet,502,True,False,,2020-10-04T17:29:59Z,1,2,1,1,23,0,23,0
+1284,Add template snippet,64,True,False,,2020-10-04T17:29:10Z,1,2,0,1,13,0,13,0
+1288,After or before N-days,54,True,False,,2020-10-04T17:28:52Z,1,2,0,1,24,0,24,0
+1281,KeysDetection Snipped added,81,True,False,,2020-10-04T17:28:19Z,1,2,0,1,32,0,32,0
+1287,Convert miles to feet,0,True,False,,2020-10-04T17:27:48Z,1,2,0,1,16,0,16,0
+1285,"Add snippet ""getCookie""",98,True,False,,2020-10-04T17:27:21Z,1,2,0,1,31,0,31,0
+1282,Add new snippet,58,True,False,,2020-10-04T17:26:38Z,1,2,0,1,18,0,18,0
+1283,Add new snippet,50,True,False,,2020-10-04T17:26:23Z,1,2,0,1,26,0,26,0
+1280,Add new snippet,41,True,False,,2020-10-04T17:25:23Z,1,2,0,1,17,0,17,0
+1286,snippet in python,0,True,False,,2020-10-04T17:01:07Z,1,2,0,1,37,0,37,0
+1260,Add removeAccents,0,True,True,2020-10-04T13:42:50Z,2020-10-04T13:42:51Z,2,2,1,1,17,0,17,51376.0
+1277,Added new Snippet to find BMI,0,True,False,,2020-10-04T13:46:17Z,1,2,0,1,30,0,30,0
+1278,Add new snippet,38,True,False,,2020-10-04T13:48:34Z,1,2,0,1,17,0,17,0
+1276,Add findFirst function,0,True,False,,2020-10-04T13:39:21Z,1,2,0,1,26,0,26,0
+1275,Add isDuplicates,55,True,True,2020-10-04T13:16:40Z,2020-10-04T13:16:40Z,1,2,0,1,18,0,18,1205.0
+1274,Create kgToLbs,0,True,False,,2020-10-04T13:08:59Z,1,2,0,1,16,0,16,0
+1273,Add mixTwoColors.md,30,True,False,,2020-10-04T13:08:00Z,1,2,0,1,41,0,41,0
+1271,Add mixTwoColors,198,True,False,,2020-10-04T11:26:42Z,1,2,1,1,38,0,38,0
+1272,Create isCoprime.md,0,True,False,,2020-10-04T11:43:01Z,1,2,0,2,34,0,34,0
+1262,Add isTouchScreen snippet,140,True,False,,2020-10-04T07:21:30Z,1,2,0,1,16,0,16,0
+1261,Add isInternetExplorer snippet,171,True,False,,2020-10-04T07:14:15Z,1,2,0,1,17,0,17,0
+1265,Add readCookie,163,True,False,,2020-10-04T08:15:58Z,1,3,2,1,32,0,32,0
+1270,added inchCmconverter,22,True,False,,2020-10-04T10:14:49Z,1,2,0,1,20,0,20,0
+1269,Delete elo,38,True,True,2020-10-04T09:26:57Z,2020-10-04T09:26:57Z,1,2,0,1,0,44,44,149.0
+1268,Create kgToPound.md,0,True,False,,2020-10-04T09:21:13Z,1,2,0,1,17,0,17,0
+1237,Add orderByEnum snippet,126,True,True,2020-10-04T09:11:36Z,2020-10-04T09:11:36Z,1,2,0,1,45,0,45,63259.0
+1267,Add arithmeticProgression,0,True,True,2020-10-04T08:57:32Z,2020-10-04T08:57:32Z,1,2,0,1,17,0,17,1181.0
+1266,Create celsiusToKelvin,0,True,False,,2020-10-04T08:35:07Z,1,2,0,2,33,0,33,0
+1232,Added HSL to RGB and RGB to HSL snippets. 2 commits only.,0,True,True,2020-10-04T08:25:27Z,2020-10-04T08:25:27Z,3,3,1,2,62,0,62,216478.0
+1263,Create numToCurrency.md in snippets folder,0,True,False,,2020-10-04T07:12:33Z,1,3,6,1,32,0,32,0
+1264,Add slugify,78,True,True,2020-10-04T07:36:57Z,2020-10-04T07:36:57Z,1,3,1,1,23,0,23,2934.0
+1246,Add milesToKilometers.md,39,True,True,2020-10-03T21:52:06Z,2020-10-03T21:52:06Z,1,2,1,1,16,0,16,9624.0
+1254,Create countWords snippet,75,True,False,,2020-10-03T21:47:14Z,1,2,1,1,22,0,22,0
+1259,Add addDays snippet,34,True,False,,2020-10-03T23:08:10Z,1,2,1,1,24,0,24,0
+1258,Add monthName snippet,67,True,False,,2020-10-03T23:08:22Z,1,2,0,1,20,0,20,0
+1256,Add dayName,47,True,True,2020-10-03T21:59:49Z,2020-10-03T21:59:49Z,1,2,0,1,18,0,18,1614.0
+1252,Add yardToMeter snippet,0,True,False,,2020-10-03T21:54:14Z,1,2,0,1,16,0,16,0
+1257,Add km to miles,0,True,True,2020-10-03T21:52:54Z,2020-10-03T21:52:54Z,1,2,0,1,16,0,16,135.0
+1251,Update weightedAverage,0,True,True,2020-10-03T21:38:34Z,2020-10-03T21:38:34Z,1,2,0,1,17,0,17,966.0
+1255,Add combine,0,True,True,2020-10-03T21:29:45Z,2020-10-03T21:29:45Z,1,2,0,1,40,0,40,140.0
+1250,Create weightedAverages.md,0,True,False,,2020-10-03T20:44:35Z,1,2,0,1,28,0,28,0
+1249,Add padNumber,0,True,True,2020-10-03T20:32:11Z,2020-10-03T20:32:11Z,1,2,0,1,16,0,16,25.0
+1248,feat(snippets): add characterCount,86,True,False,,2020-10-03T19:55:05Z,1,2,0,1,18,0,18,0
+1245,Adding snippet to sum using Clojure concept.,140,True,False,,2020-10-03T18:51:27Z,0,2,1,1,24,0,24,0
+1244,Adding snippet to generate random alphanumeric strings.,112,True,False,,2020-10-03T18:39:42Z,1,2,1,1,23,0,23,0
+1247,django ajax request pure javascript with promise,0,True,False,,2020-10-03T19:36:13Z,0,2,0,1,40,0,40,0
+1238,Added digitalClock.md,0,True,False,,2020-10-03T18:25:39Z,1,2,1,1,43,0,43,0
+1235,Add formatTime snippet,104,True,False,,2020-10-03T18:12:14Z,1,2,1,1,31,0,31,0
+1241,Add levenshtein snippet,111,True,False,,2020-10-03T17:58:17Z,1,2,0,1,48,0,48,0
+1236,Added isAnyKeyInObjectNullOrUndefined snippet,0,True,False,,2020-10-03T18:22:44Z,1,2,0,1,39,0,39,0
+1242,BinarySearch,44,True,False,,2020-10-03T17:56:01Z,0,2,0,1,40,0,40,0
+1240,Update average.md,34,True,False,,2020-10-03T17:54:46Z,1,2,1,1,1,0,1,0
+1234,Use modern asynchronous clipboard API,0,True,False,,2020-10-03T14:29:55Z,1,2,0,1,3,24,27,0
+1233,Snippet for merging two arrays of objects with a common field,192,True,False,,2020-10-03T13:14:56Z,1,2,0,1,18,0,18,0
+1225,Pr/1144,0,True,False,,2020-10-03T13:05:12Z,1,4,1,1,16,0,16,0
+1231,Added HSL to RGB and RGB to HSL conversion snippets.,0,True,False,,2020-10-01T18:29:25Z,1,3,1,4,103,0,103,0
+1226,Add snippet execution measurement,74,True,False,,2020-10-01T18:22:54Z,1,2,0,2,61,0,61,0
+1230,Get Random Item From an array,135,True,False,,2020-10-01T09:01:45Z,1,2,0,1,28,0,28,0
+1228,Added Snippet to get live Covid Data,330,True,False,,2020-10-01T05:42:08Z,1,2,0,1,74,0,74,0
+1227,update median to be more general.,77,True,False,,2020-10-01T05:51:39Z,1,2,0,1,3,3,6,0
+1229,Update README.md,123,True,False,,2020-10-01T05:34:02Z,0,2,0,1,1,0,1,0
+1221,Update is.md,679,True,False,,2020-09-26T18:58:00Z,3,4,1,1,2,0,2,0
+1222,Added a snippets to get a random RGB color,0,True,False,,2020-09-26T18:54:05Z,2,3,0,1,23,0,23,0
+1223,Added a snippet to get all unique objects in an array,0,True,False,,2020-09-26T18:47:56Z,1,2,0,1,20,0,20,0
+1220,Fix issue #1175 and cater additional scenarios,1298,True,True,2020-09-22T19:37:38Z,2020-09-22T19:37:38Z,9,2,2,1,18,17,35,35858.0
+1144,I already add zerofill.md into the snippets directory,0,True,False,,2020-09-15T13:10:55Z,4,5,2,1,16,0,16,0
+1167,reverse number snippet added,57,True,True,2020-09-16T12:58:28Z,2020-09-16T12:58:29Z,8,7,4,1,22,0,22,5267303.0
+1219,Added syntax.md ,0,True,False,,2020-09-18T18:15:43Z,0,2,0,1,12,0,12,0
+1218,Added clock.md to display current time,159,True,False,,2020-09-18T17:41:27Z,1,3,1,1,31,0,31,0
+1213,Added a snippets to convert RGB colour format into HSV and vice versa.,0,True,True,2020-09-18T11:25:07Z,2020-09-18T11:25:07Z,4,2,3,2,51,0,51,485665.0
+1179,Update listenOnce.md,72,True,True,2020-08-10T10:53:42Z,2020-08-10T10:53:42Z,1,2,0,1,4,11,15,56.0
+1215,don't need to check whether  fn is last or not,21,True,False,,2020-09-16T12:59:41Z,1,2,0,1,3,6,9,0
+1217,I want my ID code to be # 5502,30,True,False,,2020-09-16T12:48:35Z,0,2,2,1,1,0,1,0
+1216,Apply new format to snippets and template,29,True,True,2020-09-15T18:54:18Z,2020-09-15T18:54:18Z,1,2,0,401,969,950,1919,19488.0
+1214,update: simple way,0,True,True,2020-09-14T07:37:41Z,2020-09-14T07:37:41Z,1,2,0,1,6,7,13,13289.0
+1212,Update recordAnimationFrames.md,750,True,True,2020-09-08T06:39:10Z,2020-09-08T06:39:10Z,1,2,0,1,3,1,4,17366.0
+1211,add isAlphaNumeric snippet,0,True,True,2020-09-07T09:39:24Z,2020-09-07T09:39:24Z,2,3,0,1,19,0,19,1111.0
+1156,create goobox,79,True,False,,2020-09-07T06:21:36Z,8,4,0,1,45,0,45,0
+1210,Add removeUnwantedFields,116,True,False,,2020-09-07T06:12:09Z,1,2,0,2,89,0,89,0
+1207,hotfix: unfrozenObject in frozenObject return wrong value,0,True,True,2020-09-04T16:50:54Z,2020-09-04T16:50:54Z,2,3,2,1,2,2,4,50573.0
+1205,update: change to a simple way and add comment,0,True,False,,2020-09-04T16:34:06Z,0,2,1,1,4,7,11,0
+1209,deepGet fix:add case and fix Bug,316,True,False,,2020-09-04T06:30:52Z,1,2,1,1,8,4,12,0
+1206,update: comment for easy understanding,0,True,True,2020-09-04T06:38:08Z,2020-09-04T06:38:08Z,1,2,1,1,2,2,4,13944.0
+1202,update: comments,0,True,False,,2020-09-02T11:40:24Z,1,2,0,1,1,1,2,0
+1195,optmize: change + to easy understanding,0,True,False,,2020-09-02T11:39:08Z,1,2,1,1,1,1,2,0
+1201,update: change hack way to normal,175,True,False,,2020-09-02T11:37:57Z,0,2,1,1,2,2,4,0
+1204,Hotfix/current url,113,True,True,2020-09-02T10:48:28Z,2020-09-02T10:48:28Z,0,2,0,1,1,1,2,279.0
+1200,Feature/current url,0,True,False,,2020-09-02T09:56:43Z,1,2,2,1,2,2,4,0
+1203,del: useless function,136,True,False,,2020-09-02T10:37:30Z,0,2,1,1,0,23,23,0
+1194,update: add comments and avoid default fileName repeat,0,True,False,,2020-09-02T10:35:20Z,1,2,1,1,2,2,4,0
+1198,del: useless variable,0,True,True,2020-09-02T10:02:42Z,2020-09-02T10:02:42Z,2,2,0,1,1,1,2,1209.0
+1197,fix: counter error course of browser property,156,True,False,,2020-09-02T09:48:51Z,1,2,1,1,30,11,41,0
+1199,comments: point out disadvantage of JavaScript prototype,0,True,False,,2020-09-02T09:56:11Z,1,2,0,1,1,1,2,0
+1196,update: map return in a simple way,0,True,True,2020-09-02T09:42:21Z,2020-09-02T09:42:21Z,1,2,0,1,4,4,8,393.0
+1193,Feature/fix error and optimize,156,True,False,,2020-09-02T06:05:23Z,1,2,0,11,47,53,100,0
+1190,Update sum.md,722,True,False,,2020-08-27T04:39:39Z,1,2,1,1,1,1,2,0
+1188,cmp :  to compare two arrays,258,True,False,,2020-08-25T12:26:26Z,2,4,0,1,20,0,20,0
+1189,Rename CONTRIBUTING.md to CONTRIBUTING.md,2,True,False,,2020-08-24T02:35:34Z,0,2,2,0,0,0,0,0
+1187,Add new snippet random_vowel,151,True,False,,2020-08-19T18:05:59Z,1,2,0,1,21,0,21,0
+1186,Function to return values of form in JSON,0,True,False,,2020-08-18T10:20:00Z,1,2,0,1,7,0,7,0
+1182,I am spam,16,True,False,,2020-08-15T21:31:48Z,0,2,0,1,1,1,2,0
+1180,Added swap snippet in Python,338,True,False,,2020-08-15T10:16:40Z,1,2,0,2,34,0,34,0
+1178,feat: isNarcissist,40,True,False,,2020-08-10T07:04:03Z,1,5,1,1,33,0,33,0
+1177,Solved Issue #1176,14,True,True,2020-08-10T06:04:47Z,2020-08-10T06:04:47Z,1,2,0,1,8,3,11,229561.0
+1174,Create randomise.md,185,True,False,,2020-08-01T08:03:05Z,1,2,0,1,18,0,18,0
+1170,Update countBy.md,41,True,True,2020-07-31T19:47:24Z,2020-07-31T19:47:24Z,1,2,0,1,2,1,3,558760.0
+1171,Update intersectionBy.md,0,True,True,2020-07-31T19:46:45Z,2020-07-31T19:46:45Z,1,2,0,1,1,0,1,558368.0
+1172,Update unionBy.md,19,True,True,2020-07-31T19:46:01Z,2020-07-31T19:46:01Z,2,3,0,1,2,1,3,520765.0
+1173,Added format number in JS,0,True,True,2020-07-31T19:24:04Z,2020-07-31T19:24:05Z,6,3,0,1,17,0,17,181120.0
+1169,Update symmetricDifferenceBy.md: add another example,46,True,True,2020-07-25T06:23:25Z,2020-07-25T06:23:25Z,3,5,1,1,2,1,3,46676.0
+1168,Update deepFreeze.md,48,True,True,2020-07-23T06:01:17Z,2020-07-23T06:01:17Z,1,2,0,1,1,1,2,255840.0
+1166,use isArray instead of instanceof,27,True,True,2020-07-12T15:30:21Z,2020-07-12T15:30:21Z,1,3,1,1,1,1,2,41276.0
+1165,use `instanceof` to determine if arg is an array,17,True,True,2020-07-08T06:19:42Z,2020-07-08T06:19:42Z,2,3,2,1,2,2,4,1687.0
+1111,Update object to pairs,13,True,True,2020-03-23T13:11:03Z,2020-03-23T13:11:03Z,0,1,0,4,59,3,62,177.0
+1112,[FEATURE] add logging and results snippet,582,True,False,,2020-03-24T20:05:44Z,1,2,1,1,25,0,25,0
+1114,FEATURE Created date generator ,558,True,False,,2020-04-01T14:46:18Z,1,2,1,1,42,0,42,0
+1119,Update reject.md,521,True,False,,2020-04-03T18:43:14Z,4,3,1,1,1,1,2,0
+1120,Update reject.md,506,True,True,2020-04-04T13:54:30Z,2020-04-04T13:54:31Z,2,3,0,1,2,2,4,84253.0
+1122,Feature: Toggle function,553,True,False,,2020-04-06T06:22:17Z,1,2,0,2,66,0,66,0
+1121,Committed Flatten Array,645,True,False,,2020-04-06T06:07:24Z,0,1,0,1,14,0,14,0
+1124,Update isSorted.md,506,True,True,2020-04-08T14:02:51Z,2020-04-08T14:02:51Z,1,2,0,1,2,2,4,3379.0
+1131,FEATURE Object Maker From Arrays ,638,True,False,,2020-04-13T14:09:34Z,1,2,0,3,95,0,95,0
+1133,[ENHANCEMENT] Enhancing of getURLParameters to support arrays,512,True,False,,2020-04-15T06:15:55Z,1,2,0,1,33,8,41,0
+1113,[FIX] update implementation & explanation for mapObject,605,True,True,2020-04-15T15:32:31Z,2020-04-15T15:32:31Z,1,2,0,1,11,10,21,1868772.0
+1117,[FEATURE] Added fastModularExponentiation snippet,575,True,False,,2020-04-15T16:50:50Z,3,3,2,1,60,0,60,0
+1083,[FEATURE] Add isLeapYear snippet,551,True,False,,2020-04-15T17:32:41Z,1,3,1,2,20,1,21,0
+1134,add isLeapYear snippet,54,True,True,2020-04-15T17:38:10Z,2020-04-15T17:38:10Z,1,2,0,1,17,0,17,352.0
+1061,Add quick links to readme for social,601,True,False,,2020-04-03T18:46:56Z,0,3,4,1,6,0,6,0
+1058,added snippet VectorAngle,570,True,True,2020-04-16T20:18:44Z,2020-04-16T20:18:44Z,11,2,0,1,23,0,23,10560142.0
+1138,Determinant Feature ,96,True,False,,2020-04-19T09:05:42Z,1,2,0,4,123,0,123,0
+1162,Created a new snippet replace.md,0,True,False,,2020-06-23T08:55:05Z,1,2,0,1,17,0,17,0
+1159,Update: update forEachRight.md,533,True,True,2020-06-17T18:09:43Z,2020-06-17T18:09:43Z,2,3,0,1,2,2,4,36164.0
+1155,Added count_words_in_a_string.md,98,True,False,,2020-06-07T03:27:34Z,0,1,0,1,20,0,20,0
+1154,Added snippet for cartesian product in JS,60,True,False,,2020-06-05T14:53:52Z,2,2,0,1,31,0,31,0
+1150,add juxt,41,True,True,2020-05-21T15:53:52Z,2020-05-21T15:53:52Z,5,2,2,1,26,0,26,83072.0
+1101,add incrementAllBy snippet,208,True,False,,2020-03-07T18:04:25Z,1,2,0,3,31,1,32,0
+1102,Modified _30s.js file,712,True,False,,2020-03-08T13:10:42Z,0,2,0,1,4,7,11,0
+1106,Build(deps): Bump acorn from 5.7.3 to 5.7.4,2050,True,True,2020-03-14T09:32:08Z,2020-03-14T09:32:08Z,0,1,0,1,6,6,12,43702.0
+1109,removed unnecessary curly braces for if statement,599,True,False,,2020-03-16T08:01:20Z,1,2,0,2,6,12,18,0
+1108,[FIX] typo,521,True,True,2020-03-16T08:02:20Z,2020-03-16T08:02:20Z,1,2,0,1,2,2,4,24875.0
+1149,Add partitionBy,103,True,False,,2020-05-20T16:02:22Z,2,2,0,2,39,1,40,0
+1147,added thanks,0,True,False,,2020-05-15T18:19:35Z,0,2,0,1,2,0,2,0
+1146,adding isMobile,257,True,False,,2020-05-15T05:57:02Z,0,3,3,1,23,0,23,0
+1143,2x2 Matrix Multiplier ,94,True,False,,2020-05-08T06:40:55Z,1,2,0,5,150,0,150,0
+1096,added countUniqueCharacters method,506,True,False,,2020-03-02T17:08:51Z,1,2,0,3,69,1,70,0
+1099,added 24 hour time format snippet called matchTime,506,True,False,,2020-03-05T19:40:26Z,1,2,0,3,40,1,41,0
+1142,Integrations-tools cleanup,26,True,True,2020-05-02T16:52:31Z,2020-05-02T16:52:31Z,0,1,0,7,1,11588,11589,19.0
+1063,Build(deps): Bump handlebars from 4.1.2 to 4.5.3,3939,True,True,2019-12-27T07:19:03Z,2019-12-27T07:19:03Z,0,1,0,1,9,35,44,3243.0
+1136,Tan branch,506,True,False,,2020-04-16T08:47:29Z,0,7,1,9,14,0,14,0
+1135,Star git,506,True,False,,2020-04-16T08:46:31Z,0,7,1,9,13,0,13,0
+1050,Integration for new infrastructure,224,True,True,2019-12-05T17:44:04Z,2019-12-05T17:44:04Z,0,1,0,187,10490,35772,46262,245841.0
+1046,Fix breaking snippets,101,True,True,2019-11-21T20:03:30Z,2019-11-21T20:03:30Z,0,1,0,4,9,10,19,9.0
+1042,[Chore] Update extractor for 30-seconds-web,94,True,True,2019-11-06T17:24:43Z,2019-11-06T17:24:43Z,0,1,0,7,23,12,35,1246.0
+1085,[FIX] Correctly implement luhnCheck,1014,True,True,2020-02-08T11:13:21Z,2020-02-08T11:13:22Z,1,2,0,5,13,7,20,49952.0
+1081,typo?,549,True,False,,2020-02-08T11:15:59Z,1,2,0,1,2,2,4,0
+1079,[FIX] update typo,571,True,True,2020-01-30T05:16:57Z,2020-01-30T05:16:57Z,1,2,0,1,1,1,2,36407.0
+1078,[FIX] update typo,573,True,True,2020-01-30T05:17:54Z,2020-01-30T05:17:54Z,1,2,0,1,1,1,2,36473.0
+1077,isContainedIn.md: rewrite descrpition,379,True,True,2020-01-21T21:39:46Z,2020-01-21T21:39:46Z,0,2,0,1,1,1,2,7161.0
+1075,[FEATURE] Update objectToQueryString snippet to support array type,564,True,False,,2020-01-16T13:26:12Z,1,2,0,2,12,2,14,0
+1074,Remove adapter,46,True,True,2020-01-13T08:12:31Z,2020-01-13T08:12:31Z,0,1,0,12,88,88,176,222.0
+1073,Create binaryToDecimal.md,622,True,False,,2020-01-12T18:54:28Z,1,2,0,1,25,0,25,0
+1072,Create roundUpDown.md,622,True,False,,2020-01-12T18:54:09Z,1,2,1,1,25,0,25,0
+1070,"[ENHANCEMENT]: Improve description, examples, and tests of 'remove'",856,True,False,,2020-01-07T15:39:36Z,1,2,2,2,17,8,25,0
+1068,simplify remove function,438,True,False,,2020-01-07T05:16:43Z,1,2,0,1,2,8,10,0
+1067,master,9,True,False,,2020-01-05T12:20:37Z,0,3,0,3,19,26,45,0
+1065,"enhance(bind, bindKey):  more concise",507,True,False,,2020-01-03T12:42:02Z,1,2,0,2,5,6,11,0
+1064,fix: Wrong function name: checkProps -> checkProp,44,True,True,2019-12-31T09:40:09Z,2019-12-31T09:40:09Z,1,2,0,1,1,1,2,891.0
+750,Update issue templates,137,True,True,2018-09-25T19:36:38Z,2018-09-25T19:36:38Z,1,3,1,3,37,0,37,86072.0
+1062,[FIX] Update pull.md,714,True,True,2019-12-24T06:08:11Z,2019-12-24T06:08:11Z,1,2,0,1,2,2,4,10462.0
+231,reverseString: Replace spread operator with split() for compatibility,0,True,True,2017-12-19T10:28:14Z,2017-12-19T10:28:14Z,2,4,7,1,2,2,4,125148.0
+312,[UPDATE] Resolves #297,718,True,True,2017-12-22T10:38:07Z,2017-12-22T10:38:07Z,1,2,1,1,4,2,6,7491.0
+343,[UPDATE] toCamelCase and toSnakeCase,771,True,True,2017-12-24T23:11:26Z,2017-12-24T23:11:26Z,1,3,1,2,17,4,21,29847.0
+339,[bug] useage: change Array.slice() for String.slice(),988,True,True,2017-12-24T11:51:30Z,2017-12-24T11:51:30Z,1,2,1,1,1,1,2,7122.0
+336,ADD: negate.md,935,True,True,2017-12-24T11:49:53Z,2017-12-24T11:49:53Z,2,4,6,1,11,0,11,17992.0
+338,Snippet to detect device type,787,True,True,2017-12-24T11:57:55Z,2017-12-24T11:57:55Z,2,3,2,1,11,0,11,15311.0
+335,[ENHANCEMENT] a better difference,744,True,False,,2017-12-24T06:43:07Z,1,4,5,1,4,3,7,0
+334,[FEATURE] Add copy to clipboard functionality,805,True,True,2017-12-23T21:43:36Z,2017-12-23T21:43:36Z,2,3,2,2,48,4,52,20278.0
+342,Better syntax highlighting (close to GitHub's),394,True,False,,2017-12-24T23:08:39Z,0,2,4,1,34,31,65,0
+345,[FEATURE] Generate tests and run tests with AVA,715,True,False,,2017-12-24T22:34:09Z,0,4,5,3,38,0,38,0
+344,[FIX] kebabCase styling + remove global variable + handle empty string,718,True,True,2017-12-24T23:11:14Z,2017-12-24T23:11:14Z,1,2,5,1,5,6,11,29346.0
+341,[UPDATE] toKebabCase.md,814,True,True,2017-12-24T13:48:34Z,2017-12-24T13:48:34Z,1,3,3,1,14,4,18,2721.0
+329,[UPDATE] Flatten updated to use ES6 spread,774,True,True,2017-12-23T10:02:39Z,2017-12-23T10:02:39Z,2,3,1,1,2,2,4,25757.0
+332,ADD: toKebabCase.md and repeatString.md,963,True,True,2017-12-23T19:11:34Z,2017-12-23T19:11:34Z,1,2,5,2,29,0,29,19998.0
+330,[FIX: #330][SNIPPETS] snippets arrayLcm part syntax,737,True,True,2017-12-23T10:05:26Z,2017-12-23T10:05:26Z,1,3,3,1,1,1,2,5146.0
+350,[BUGFIX] Factorial snippet and examples,865,True,True,2017-12-24T22:37:52Z,2017-12-24T22:37:52Z,2,3,3,1,6,4,10,9514.0
+353,Fix parameter reference error in the usage,905,True,True,2017-12-25T06:51:14Z,2017-12-25T06:51:14Z,1,2,1,1,2,2,4,10358.0
+347,[UPDATE] Fix typo in negate.md,900,True,True,2017-12-24T16:12:47Z,2017-12-24T16:12:47Z,0,2,1,1,1,1,2,260.0
+349,[BUGIFX] Fix the flip examples,797,True,True,2017-12-24T22:36:31Z,2017-12-24T22:36:32Z,2,3,1,1,2,2,4,10279.0
+348,[ENHANCEMENT] Optimize randomHexColorCode.md,818,True,True,2017-12-24T21:18:12Z,2017-12-24T21:18:12Z,2,3,2,1,2,6,8,11818.0
+363,Fix documentation for shuffle,251,True,True,2017-12-27T08:20:44Z,2017-12-27T08:20:44Z,1,2,1,1,5,3,8,25914.0
+362,[FIX] rename pipe.md and randomHexColorCode.md,817,True,True,2017-12-26T17:20:48Z,2017-12-26T17:20:48Z,1,3,1,2,2,2,4,764.0
+356,[FIX: #355][randomHexColorcode.md] Fix 5-digit issue ,906,True,True,2017-12-26T06:30:01Z,2017-12-26T06:30:01Z,1,2,1,1,5,1,6,25173.0
+354,Fix the same format as other methods,964,True,True,2017-12-26T13:18:59Z,2017-12-26T13:18:59Z,2,3,1,1,3,3,6,113691.0
+359,[FIX] toSnakeCase,750,True,True,2017-12-26T13:15:14Z,2017-12-26T13:15:14Z,1,3,5,1,3,2,5,9661.0
+360,add tomorrow snippet,848,True,True,2017-12-26T13:16:50Z,2017-12-26T13:16:50Z,2,3,1,2,10,0,10,6876.0
+367,[FIX] lint-script.js,999,True,True,2017-12-27T08:49:48Z,2017-12-27T08:49:48Z,1,2,1,1,5,4,9,663.0
+370,[FIX] Hyper speed-boost lint-script to lint examples + use prettier formatting,844,True,True,2017-12-28T08:24:01Z,2017-12-28T08:24:01Z,1,4,5,3,862,42,904,47257.0
+369,[ENHANCEMENT] Simplifying clampNumber method,1007,True,False,,2017-12-27T13:30:15Z,1,3,2,1,1,1,2,0
+366,update cleanObj,914,True,True,2017-12-27T08:33:50Z,2017-12-27T08:33:50Z,1,3,1,1,3,3,6,9677.0
+372,Make orderBy pure and fix examples,703,True,True,2017-12-28T09:21:44Z,2017-12-28T09:21:44Z,1,2,1,1,3,3,6,1480.0
+371,Update sdbm.md,938,True,True,2017-12-28T09:52:41Z,2017-12-28T09:52:41Z,1,2,1,1,1,1,2,9208.0
+368,ENHANCEMENT: tightened code for clampnumber,834,True,True,2017-12-27T10:02:40Z,2017-12-27T10:02:40Z,1,2,1,1,2,6,8,297.0
+373,[FEATURE] arrayQuickSort,723,True,True,2017-12-28T11:43:26Z,2017-12-28T11:43:26Z,1,2,1,1,23,0,23,1064.0
+378,[FEATURE] Add hasClass/toggleClass snippets (browser),794,True,True,2017-12-28T22:03:19Z,2017-12-28T22:03:19Z,3,3,1,3,28,0,28,935.0
+379,[FEATURE] Add getStyle/setStyle snippets (browser),793,True,True,2017-12-28T22:37:09Z,2017-12-28T22:37:09Z,1,3,3,7,120,0,120,1663.0
+381,[FIX: #376] Update UUIDGenerator with new examples,864,True,True,2017-12-29T08:13:06Z,2017-12-29T08:13:06Z,1,3,2,3,23,5,28,1436.0
+364,[ENHANCEMENT] Handle CRLF for splitting lines on Windows,874,True,True,2017-12-27T08:31:50Z,2017-12-27T08:31:50Z,1,2,5,2,4,4,8,18857.0
+365,[FIX] lint-script.js,1047,True,False,,2017-12-27T08:17:40Z,1,2,8,3,60,32,92,0
+390,[FEATURE] Create a script for building a module,1046,True,True,2018-01-02T14:51:45Z,2018-01-02T14:51:45Z,8,8,11,11,3625,46,3671,347834.0
+391,[FIX] average when passing an array as an argument,927,True,True,2017-12-29T14:43:38Z,2017-12-29T14:43:38Z,1,2,1,1,5,1,6,100.0
+392,[FIX] lcm.md,927,True,True,2017-12-29T14:56:33Z,2017-12-29T14:56:33Z,0,2,1,1,3,4,7,90.0
+388,[FEATURE] Add escape/unescape string,773,True,True,2017-12-29T13:21:26Z,2017-12-29T13:21:26Z,1,2,3,3,42,4,46,3579.0
+385,[FIX #295] Update lcm.md and gcd.md,811,True,True,2017-12-29T11:14:44Z,2017-12-29T11:14:45Z,1,3,2,4,14,42,56,420.0
+384,[FEATURE] Add splitLines,752,True,True,2017-12-29T13:04:46Z,2017-12-29T13:04:46Z,1,2,1,2,14,0,14,7478.0
+387,[FIX: #295] Make max min sum average snippets,737,True,True,2017-12-29T11:37:38Z,2017-12-29T11:37:38Z,1,2,1,7,42,42,84,221.0
+428,[ENHANCEMENT] Added a link to the README with a repo with files to import snippets into text editors,1693,True,False,,2017-12-31T06:47:48Z,0,2,3,1,37,36,73,0
+424,Add emojis to README categories,548,True,True,2017-12-30T17:09:59Z,2017-12-30T17:09:59Z,1,2,1,2,113,88,201,643.0
+423,[FEATURE] Add yesNo snippet,770,True,True,2017-12-30T17:24:37Z,2017-12-30T17:24:37Z,1,2,1,2,19,0,19,2823.0
+422,[FEATURE] Elo rating system snippet,752,True,True,2017-12-31T17:35:33Z,2017-12-31T17:35:33Z,1,3,5,2,25,0,25,103578.0
+420,fix fibonacci example typo,42,True,True,2017-12-30T10:58:58Z,2017-12-30T10:58:58Z,2,3,2,3,6,7,13,26129.0
+421,Recover the lost byteSize snippet,0,True,True,2017-12-30T10:37:25Z,2017-12-30T10:37:25Z,0,2,1,1,14,0,14,83.0
+418,Run prettier on scripts,408,True,True,2017-12-30T10:57:08Z,2017-12-30T10:57:08Z,2,3,1,9,424,307,731,53851.0
+425,[FIX] toSnakeCase,927,True,True,2017-12-30T18:18:10Z,2017-12-30T18:18:10Z,0,1,1,1,5,6,11,76.0
+417,Create onUserInputChange.md,944,True,True,2017-12-30T11:07:46Z,2017-12-30T11:07:46Z,3,4,10,2,30,0,30,69769.0
+434,[FEATURE] Add: sampleSize.md,915,True,True,2017-12-31T12:12:01Z,2017-12-31T12:12:01Z,1,2,1,1,23,0,23,561.0
+442,[WEB] Remove useless spans,796,True,True,2017-12-31T17:23:48Z,2017-12-31T17:23:48Z,0,2,1,4,3,5,8,3674.0
+441,Update isArrayLike.md,927,True,False,,2017-12-31T15:21:03Z,0,2,2,1,3,0,3,0
+438,[ADD : isArrayLike.md and isValidJSON.md],900,True,True,2017-12-31T13:05:30Z,2017-12-31T13:05:30Z,1,2,1,2,45,0,45,466.0
+439,Update isValidJSON.md,893,True,True,2017-12-31T13:13:45Z,2017-12-31T13:13:45Z,0,2,1,1,3,3,6,236.0
+443,[ENHANCEMENT] Exponent operator,927,True,True,2017-12-31T17:42:30Z,2017-12-31T17:42:30Z,0,2,1,2,3,5,8,50.0
+436,[FEATURE] Add isPromise snippet,765,True,True,2017-12-31T13:54:00Z,2017-12-31T13:54:00Z,0,1,1,2,17,0,17,5559.0
+432,Update build.js,782,True,True,2017-12-31T12:00:15Z,2017-12-31T12:00:15Z,1,2,1,1,4,4,8,568.0
+437,[FEATURE] Add isAbsoluteURL,760,True,True,2017-12-31T13:15:04Z,2017-12-31T13:15:04Z,1,2,1,2,16,0,16,1869.0
+456,[FEATURE] runAsync snippet,800,True,True,2018-01-02T08:37:58Z,2018-01-02T08:37:58Z,2,3,1,2,52,0,52,28750.0
+450,[FEATURE] Add prettyBytes snippet,704,True,True,2018-01-01T18:11:08Z,2018-01-01T18:11:08Z,1,2,1,1,28,0,28,6548.0
+455,[ADD `once.md`] once,900,True,True,2018-01-02T08:49:18Z,2018-01-02T08:49:18Z,2,3,1,2,19,0,19,36379.0
+459,[FEATURE] add infixToPostfix and postfixToInfix,691,True,False,,2018-01-03T12:14:38Z,2,4,7,2,4,6,10,0
+447,[FEATURE] add snippet sumPower,691,True,True,2018-01-01T14:29:25Z,2018-01-01T14:29:25Z,1,2,1,2,19,0,19,2234.0
+444,[FEATURE] join.md,723,True,True,2018-01-01T12:37:23Z,2018-01-01T12:37:23Z,1,2,1,1,26,0,26,7721.0
+453,[FEATURE] cloneRegExp,732,True,True,2018-01-01T18:18:39Z,2018-01-01T18:18:39Z,1,3,2,2,15,0,15,1923.0
+452,Add warning to anagrams,927,True,True,2018-01-01T17:06:09Z,2018-01-01T17:06:09Z,1,3,1,1,2,0,2,84.0
+445,add mask,703,True,True,2018-01-01T12:41:57Z,2018-01-01T12:41:57Z,1,2,1,1,20,0,20,5888.0
+446,Update tag_database,774,True,True,2018-01-01T12:20:10Z,2018-01-01T12:20:10Z,0,2,1,1,1,1,2,23.0
+470,Create factors.md,691,True,True,2018-01-03T13:05:51Z,2018-01-03T13:05:51Z,1,2,8,1,35,0,35,10445.0
+468,Create geometricProgression.md,703,True,True,2018-01-03T11:51:41Z,2018-01-03T11:51:41Z,1,2,1,1,20,0,20,15240.0
+465,Fixed grammar,703,True,True,2018-01-03T06:01:06Z,2018-01-03T06:01:06Z,4,5,1,1,1,1,2,9278.0
+466,Add the list of supported operator,901,True,True,2018-01-03T06:10:34Z,2018-01-03T06:10:34Z,3,4,1,1,1,1,2,9357.0
+463,[FIX #419] remove max and min shims,716,True,True,2018-01-03T11:47:59Z,2018-01-03T11:47:59Z,1,2,2,3,0,30,30,34714.0
+467,Update InitializeArrayWithRange.md,772,True,True,2018-01-03T11:46:46Z,2018-01-03T11:46:46Z,4,3,3,1,7,5,12,17083.0
+460,Fixed minor typos,455,True,True,2018-01-02T11:53:07Z,2018-01-02T11:53:07Z,1,2,1,6,6,6,12,412.0
+476,Better highlight the npm package + add warning,927,True,True,2018-01-03T14:31:56Z,2018-01-03T14:31:56Z,1,2,1,1,37,1,38,634.0
+475,Create howManyTimes.md,691,True,True,2018-01-03T14:03:03Z,2018-01-03T14:03:03Z,1,2,1,1,32,0,32,2824.0
+478,Update memoize,927,True,True,2018-01-03T15:03:39Z,2018-01-03T15:03:39Z,0,1,1,3,156,40,196,9.0
+477,Add CDN + Browser usage of package,927,True,True,2018-01-03T14:52:23Z,2018-01-03T14:52:23Z,1,2,1,1,19,4,23,118.0
+474,Fixed an error in pluralize.md,749,True,True,2018-01-03T12:57:24Z,2018-01-03T12:57:24Z,0,2,1,1,1,1,2,117.0
+461,[UPDATE] once.md,704,True,True,2018-01-02T15:36:00Z,2018-01-02T15:36:00Z,1,3,2,1,13,8,21,217.0
+491,[UPDATE] gcd.md,733,True,True,2018-01-04T14:14:47Z,2018-01-04T14:14:47Z,0,2,1,1,3,4,7,2081.0
+490,[FIX] Update httpsRedirect.md,93,True,True,2018-01-04T10:34:16Z,2018-01-04T10:34:16Z,1,2,1,1,4,0,4,138.0
+486,[UPDATE] Add multiplayer support to elo.md,768,True,True,2018-01-04T12:32:33Z,2018-01-04T12:32:33Z,2,2,1,1,28,8,36,30752.0
+487,Update differenceWith.md,1064,True,True,2018-01-04T09:29:03Z,2018-01-04T09:29:03Z,1,2,1,1,3,3,6,18052.0
+485,Update isFunction.md,927,True,True,2018-01-03T23:11:10Z,2018-01-03T23:11:10Z,3,4,1,1,2,1,3,7137.0
+494,Improve syntax highlighting,758,True,True,2018-01-05T10:21:39Z,2018-01-05T10:21:39Z,2,3,1,1,6,5,11,40719.0
+488,Create formatDuration.md,703,True,True,2018-01-04T09:51:46Z,2018-01-04T09:51:46Z,1,2,2,1,31,0,31,8631.0
+481,[UPDATE] runAsync.md,925,True,True,2018-01-03T18:15:30Z,2018-01-03T18:15:30Z,1,3,1,1,4,7,11,3960.0
+482,[ENHANCEMENT] Add npm badges,739,True,True,2018-01-03T17:32:34Z,2018-01-03T17:32:34Z,1,2,1,2,2,2,4,1161.0
+483,[WEB] Make Github ribbon responsive,734,True,True,2018-01-03T18:31:57Z,2018-01-03T18:31:57Z,0,1,1,2,2,2,4,1679.0
+479,Improve factors,745,True,False,,2018-01-04T08:59:11Z,1,3,8,1,10,6,16,0
+510,[README] Add Hit Counter,691,True,False,,2018-01-08T11:43:07Z,1,3,4,2,2,2,4,0
+509,fix hide err,930,True,True,2018-01-08T10:42:29Z,2018-01-08T10:42:29Z,0,2,4,1,1,1,2,1154.0
+508,[FEATURE] Added longestString(),925,True,True,2018-01-08T19:58:59Z,2018-01-08T19:59:00Z,2,3,4,1,17,0,17,78239.0
+507,[FEATURE] isHappyNumber,815,True,False,,2018-01-06T12:08:12Z,0,2,2,1,25,0,25,0
+506,[FEATURE] isUpperCase isLowerCase,742,True,True,2018-01-06T11:54:11Z,2018-01-06T11:54:11Z,0,2,1,2,31,0,31,9162.0
+504,Update reversString.md,743,True,True,2018-01-06T08:17:10Z,2018-01-06T08:17:10Z,2,3,1,1,1,1,2,1400.0
+503,[FEATURE] Add chunksArray.md,874,True,False,,2018-01-06T11:21:43Z,3,5,8,1,17,0,17,0
+501,[FEATURE] createElement,738,True,True,2018-01-06T10:28:44Z,2018-01-06T10:28:44Z,2,3,2,2,25,0,25,65160.0
+499,Add Plurals and improve pluralize,703,True,False,,2018-01-05T15:45:39Z,0,3,3,3,25,3,28,0
+496,"If using ES6, use template litorals",971,True,True,2018-01-05T15:47:56Z,2018-01-05T15:47:56Z,1,3,2,1,2,2,4,14777.0
+495,Updated initializeArrayWithRange,1051,True,True,2018-01-05T10:24:10Z,2018-01-05T10:24:10Z,1,2,1,1,1,1,2,5076.0
+520,Update getType.md,862,True,True,2018-01-10T05:16:08Z,2018-01-10T05:16:08Z,1,2,2,1,1,1,2,8944.0
+518,[FEATURE] noVowels.md,755,True,True,2018-01-09T12:22:56Z,2018-01-09T12:22:56Z,1,5,14,3,15,1,16,11086.0
+515,Update CONTRIBUTING.md,751,True,True,2018-01-08T23:00:00Z,2018-01-08T23:00:00Z,1,2,1,1,2,2,4,1595.0
+513,Update lcm.md,725,True,True,2018-01-08T20:27:57Z,2018-01-08T20:27:57Z,1,2,1,1,1,1,2,1333.0
+512,[FEATURE] Add partition,759,True,True,2018-01-08T17:55:27Z,2018-01-08T17:55:27Z,2,3,5,2,20,0,20,10558.0
+522,[FEATURE] Add few tests,828,True,True,2018-01-10T10:57:30Z,2018-01-10T10:57:30Z,1,2,1,14,45,6,51,931.0
+524,[FEATURE]  Snippet tests,1153,True,True,2018-01-10T14:24:28Z,2018-01-10T14:24:29Z,1,2,1,62,126,16,142,800.0
+521,Updated styleguide,30,True,True,2018-01-10T09:12:09Z,2018-01-10T09:12:09Z,1,2,1,1,6,6,12,277.0
+519,Snippets archive,13,True,True,2018-01-09T13:16:14Z,2018-01-09T13:16:14Z,0,2,1,1,59,5,64,6.0
+534,Adding Type Test,1046,True,True,2018-01-11T10:01:36Z,2018-01-11T10:01:36Z,1,2,1,5,40,10,50,212.0
+532,[FIX: #525] Flatten fix,848,True,True,2018-01-11T08:56:25Z,2018-01-11T08:56:25Z,1,2,1,5,16,23,39,74.0
+533,[FIX: #523] ToEnglishDate remove,760,True,True,2018-01-11T09:24:40Z,2018-01-11T09:24:40Z,1,2,1,3,0,43,43,420.0
+571,delay.md's heading was defer,56,True,True,2018-01-26T02:32:19Z,2018-01-26T02:32:19Z,1,2,2,1,1,1,2,5816.0
+535,Add isObject,918,True,True,2018-01-11T10:38:09Z,2018-01-11T10:38:09Z,1,2,1,8,72,0,72,202.0
+528,Tdd bugfix & update,995,True,True,2018-01-10T21:38:11Z,2018-01-10T21:38:11Z,2,3,2,210,343,200,543,4094.0
+529,style guide fix Array().fill -> Array.from(),917,True,True,2018-01-10T21:44:49Z,2018-01-10T21:44:49Z,1,2,1,1,1,3,4,2529.0
+537,Contribution guidelines,19,True,True,2018-01-12T11:28:46Z,2018-01-12T11:28:46Z,0,2,1,1,14,5,19,7.0
+527,Snippet tests 2nd edition ,750,True,True,2018-01-10T19:05:51Z,2018-01-10T19:05:52Z,1,3,3,56,95,4,99,424.0
+551,Fix spelling in snippet description,11,True,True,2018-01-17T07:22:52Z,2018-01-17T07:22:52Z,0,1,1,1,1,1,2,16.0
+549,PATCH: HTTP Post footprint change,1044,True,True,2018-01-16T18:11:56Z,2018-01-16T18:11:56Z,1,2,1,1,12,3,15,202.0
+548,[FEATURE] Add URLJoin.md,847,True,True,2018-01-16T16:49:17Z,2018-01-16T16:49:17Z,1,2,1,5,568,517,1085,10484.0
+547,[FEATURE]  Recursive snippets tests,876,True,True,2018-01-15T20:17:34Z,2018-01-15T20:17:34Z,1,2,1,4,13,8,21,378.0
+545,Adding test,859,True,True,2018-01-15T17:13:27Z,2018-01-15T17:13:27Z,1,2,1,34,330,39,369,4299.0
+544,[FEATURE] update readme-start.md,758,True,True,2018-01-15T15:59:37Z,2018-01-15T15:59:37Z,1,2,1,1,5,1,6,91.0
+546,[FEATURE] Added equals.md and tests,1031,True,True,2018-01-15T17:11:50Z,2018-01-15T17:11:50Z,1,2,3,4,59,0,59,2064.0
+539,"[FIX: #526] Tests, update the broken ones",942,True,True,2018-01-12T20:28:49Z,2018-01-12T20:28:49Z,0,1,1,4,2,21,23,13.0
+541,[FEATURE] Add parseCookie and serializeCookie,778,True,True,2018-01-13T22:58:16Z,2018-01-13T22:58:16Z,1,2,1,3,31,0,31,38255.0
+563,update tdd script tabbing chained methods making more readable,907,True,True,2018-01-21T19:29:40Z,2018-01-21T19:29:40Z,0,1,1,1,9,9,18,3268.0
+562,[ADD: zipWith.md],920,True,True,2018-01-23T14:00:31Z,2018-01-23T14:00:31Z,6,5,10,2,28,0,28,254181.0
+561,Update shuffle.md,765,True,True,2018-01-19T11:07:30Z,2018-01-19T11:07:30Z,1,2,1,1,1,1,2,287.0
+559,[FEATURE][ADD] Add forOwn and forOwnRight,1001,True,True,2018-01-19T01:05:59Z,2018-01-19T01:05:59Z,2,3,5,3,28,0,28,37109.0
+558,[ENHANCEMENT] [UPDATE: `flip.md`] Use idiomatic js for flip function ,1640,True,True,2018-01-18T14:10:47Z,2018-01-18T14:10:47Z,2,4,3,1,10,10,20,21406.0
+555,Tdd update,937,True,True,2018-01-17T19:51:33Z,2018-01-17T19:51:33Z,1,2,1,245,901,380,1281,4059.0
+553,Adding test,869,True,True,2018-01-17T18:23:34Z,2018-01-17T18:23:34Z,2,3,1,6,67,39,106,9442.0
+557,[FEATURE] btoa and atob,799,True,True,2018-01-17T21:05:31Z,2018-01-17T21:05:31Z,3,3,5,3,28,0,28,4827.0
+554,FIX: Unique elements ,816,True,True,2018-01-17T17:40:17Z,2018-01-17T17:40:17Z,2,3,1,7,29,29,58,1633.0
+578,[TYPO] Fixed a typo in bindAll snippet,1031,True,True,2018-01-27T19:14:16Z,2018-01-27T19:14:16Z,1,2,1,1,0,2,2,4475.0
+572,Activating Open Collective,1270,True,False,,2018-03-12T20:35:47Z,0,2,1,5,88,5,93,0
+570,FEATURE Browser tests,1013,True,True,2018-01-26T09:24:13Z,2018-01-26T09:24:13Z,1,3,3,3,505,12,517,70193.0
+568,Fix Tdd,1339,True,True,2018-01-24T13:53:49Z,2018-01-24T13:53:49Z,0,1,1,272,1133,881,2014,8234.0
+577,[FEATURE][ADD] pipeAsyncFunctions,1181,True,True,2018-01-28T12:30:02Z,2018-01-28T12:30:02Z,1,2,1,8,1577,23,1600,71647.0
+573,Update average.md,732,True,True,2018-01-27T12:09:39Z,2018-01-27T12:09:39Z,0,2,1,1,1,1,2,25199.0
+576,Add test,854,True,True,2018-01-28T12:11:23Z,2018-01-28T12:11:23Z,1,2,1,7,107,53,160,74752.0
+574,[FIX] Documentation ,792,True,True,2018-01-27T15:01:42Z,2018-01-27T15:01:42Z,1,2,1,1,4,1,5,3306.0
+591,Add a Codacy badge to README.md,0,True,True,2018-02-04T18:27:49Z,2018-02-04T18:27:49Z,0,2,1,1,7926,7926,15852,97.0
+590,Update isPlainObject |  typo,703,True,True,2018-02-04T04:06:46Z,2018-02-04T04:06:46Z,0,1,1,1,1,1,2,79.0
+579,Update CONTRIBUTING.md,48,True,True,2018-01-28T19:50:26Z,2018-01-28T19:50:26Z,0,1,1,1,1,1,2,108.0
+588,[FEATURE] trimNewLines,770,True,False,,2018-02-02T11:29:52Z,0,2,3,1,22,0,22,0
+589,[FEATURE] keyValuePair.md,710,True,False,,2018-02-02T11:45:09Z,0,2,3,1,24,0,24,0
+586,Update PULL_REQUEST_TEMPLATE.md,1017,True,True,2018-01-31T14:00:28Z,2018-01-31T14:00:28Z,1,2,1,1,0,9,9,2673.0
+585,Fix overArgs example,934,True,True,2018-01-31T17:06:10Z,2018-01-31T17:06:10Z,1,2,1,1,4,7,11,31724.0
+581,[FIX: #580] Fix randomHexColorCode() sometimes returning strings too short & Fix test for same snippet,897,True,True,2018-01-30T02:58:19Z,2018-01-30T02:58:19Z,1,2,2,2,3,3,6,25838.0
+605,Add permuteAll,1844,True,True,2018-02-19T13:55:32Z,2018-02-19T13:55:33Z,0,6,25,14,1110,1106,2216,576774.0
+600,add `.codeclimate.yml`,369,True,True,2018-02-09T09:42:27Z,2018-02-09T09:42:27Z,2,2,2,2,8066,8029,16095,60953.0
+599,update mapObject basic test,761,True,True,2018-02-08T16:16:53Z,2018-02-08T16:16:53Z,0,1,1,1,5,4,9,3467.0
+597,Update randomIntegerInRange.test.js,750,True,True,2018-02-08T14:30:09Z,2018-02-08T14:30:09Z,1,2,1,1,6,1,7,97.0
+595,Update tag-database,751,True,True,2018-02-07T23:32:29Z,2018-02-07T23:32:29Z,0,1,1,1,1,1,2,277.0
+594,Update README-start.md,790,True,True,2018-02-07T08:45:08Z,2018-02-07T08:45:08Z,1,2,1,1,1,0,1,306.0
+596,Shorten runAsync.md,865,True,True,2018-02-09T07:05:14Z,2018-02-09T07:05:14Z,2,3,1,1,1,2,3,96900.0
+604,Simplify debounce.md,737,True,True,2018-02-12T07:19:31Z,2018-02-12T07:19:31Z,1,2,1,1,9,12,21,1265.0
+602,fix broken test in tomorrow.test.js,746,True,True,2018-02-10T14:57:34Z,2018-02-10T14:57:34Z,0,2,8,1,1,1,2,405.0
+598,Update test,735,True,True,2018-02-08T14:41:38Z,2018-02-08T14:41:38Z,0,2,1,1,1,1,2,43.0
+606,"[FEATURE] Add any, anyBy, all, allBy, none, noneBy",1096,True,True,2018-02-14T11:30:39Z,2018-02-14T11:30:39Z,0,2,4,20,243,0,243,6094.0
+607,Add mostPerformant snippet,1082,True,True,2018-02-14T11:53:22Z,2018-02-14T11:53:22Z,1,2,4,2,32,0,32,673.0
+611,[ADD] levenshteinDistance,898,True,True,2018-02-26T15:33:41Z,2018-02-26T15:33:41Z,2,2,4,4,77,15,92,693727.0
+609,Fix typo in average test and add test for randomHexColorCode,710,True,True,2018-02-16T09:37:02Z,2018-02-16T09:37:02Z,1,2,1,2,4,2,6,3135.0
+632,[FIX:#629] Fix invalid test for sortedLastIndex & Fix sortedLastIndex,847,True,True,2018-03-12T19:59:34Z,2018-03-12T19:59:34Z,1,2,1,3,4,4,8,1134.0
+630,Create prefix.md,779,True,True,2018-03-12T20:29:40Z,2018-03-12T20:29:40Z,2,2,2,2,20,0,20,371188.0
+631,[WEB] Avoid forced reflows inside search function,1706,True,True,2018-03-12T18:53:50Z,2018-03-12T18:53:50Z,1,3,3,1,2,2,4,625.0
+628,[FEATURE] is NaN type function,1757,True,False,,2018-03-07T08:45:33Z,0,3,3,7,196,149,345,0
+623,[FEATURE] Smooth scrolling,896,True,True,2018-03-03T12:43:00Z,2018-03-03T12:43:00Z,1,2,2,2,19,0,19,72855.0
+614,Create nest,759,True,True,2018-02-25T21:09:55Z,2018-02-25T21:09:55Z,1,2,1,2,30,0,30,120021.0
+898,Update promisify.test.js,301,True,True,2019-02-28T18:01:23Z,2019-02-28T18:01:23Z,1,2,1,1,9,1,10,6486775.0
+616,Create recordAnimationFrames.md,848,True,True,2018-03-06T07:10:24Z,2018-03-06T07:10:24Z,2,3,5,2,39,0,39,790997.0
+617,[ENHANCEMENT] smooth scrolling on iOS devices,710,True,True,2018-02-26T12:49:24Z,2018-02-26T12:49:24Z,1,4,7,2,4,1,5,75122.0
+639,[FIX: #638] bug in 'attempt' snippet,724,True,True,2018-03-23T13:41:41Z,2018-03-23T13:41:41Z,0,2,1,1,1,1,2,669.0
+634,add a readme_CN.md file translate to Chinese  ,737,True,False,,2018-03-16T16:31:51Z,0,2,2,2,845,36,881,0
+642,[ENHANCEMENT] New website,750,True,True,2018-04-07T17:28:22Z,2018-04-07T17:28:22Z,0,2,1,38,4471,2157,6628,26.0
+636,indexOfAll in a functional way [ENHANCEMENT]],737,True,True,2018-03-19T17:30:09Z,2018-03-19T17:30:09Z,2,3,1,2,4,10,14,61419.0
+633,[FEATURE] Add mapAsync snippet,851,True,False,,2018-03-16T23:22:04Z,0,3,8,4,32,0,32,0
+646,[FEATURE] renameKeys,698,True,True,2018-04-12T18:43:15Z,2018-04-12T18:43:15Z,2,4,9,4,42,0,42,172797.0
+645,[FEATURE] Add offset snippet,1129,True,True,2018-04-10T16:38:14Z,2018-04-10T16:38:14Z,0,2,3,6,1091,1042,2133,1669.0
+649,fix(is.md): use constructor property instead of instanceof,738,True,True,2018-04-12T05:34:47Z,2018-04-12T05:34:47Z,1,2,3,1,6,6,12,54255.0
+644,Add new Clipboard API Disclaimer to copyToClipboard,993,True,True,2018-04-10T15:40:55Z,2018-04-10T15:40:55Z,1,2,1,1,2,0,2,4215.0
+648,[FEATURE] hz,794,True,True,2018-04-12T18:42:53Z,2018-04-12T18:42:53Z,2,4,6,2,34,0,34,104545.0
+651,[FEATURE] Add initializeNDArray,757,True,True,2018-04-16T14:52:13Z,2018-04-16T14:52:14Z,1,2,1,2,17,0,17,197849.0
+650,Update util.js,855,True,True,2018-04-13T16:57:15Z,2018-04-13T16:57:15Z,1,2,2,1,1,1,2,82907.0
+669,Simplify takeWhile,869,True,True,2018-05-17T14:27:21Z,2018-05-17T14:27:21Z,1,2,1,2,3,3,6,4067.0
+662,Squash,737,True,False,,2018-05-07T05:39:31Z,0,3,1,0,0,0,0,0
+660,update arrayToHtmlList to more high efficiency,467,True,False,,2018-05-04T17:57:09Z,1,3,3,1,8837,8836,17673,0
+667,Simplify findLastIndex,873,True,True,2018-05-15T18:47:13Z,2018-05-15T18:47:13Z,1,2,1,2,5,5,10,107564.0
+666,FIX #665 Update deepClone.md,796,True,True,2018-05-15T18:52:27Z,2018-05-15T18:52:27Z,1,2,4,1,1,1,2,132226.0
+659,Update dependencies to enable Greenkeeper 🌴,3764,True,True,2018-05-02T16:49:21Z,2018-05-02T16:49:21Z,0,1,1,4,38,33,71,7441.0
+653,Merge pull request #1 from Chalarangelo/master,746,True,False,,2018-04-22T17:05:39Z,0,1,1,0,0,0,0,0
+656,[ENHANCEMENT] Update palindrome,951,True,True,2018-04-26T17:43:12Z,2018-04-26T17:43:12Z,1,2,1,3,38,23,61,974.0
+655,Update license in package.json,134,True,True,2018-04-25T17:12:46Z,2018-04-25T17:12:46Z,1,2,1,1,1,1,2,8771.0
+652,Add when(),1043,True,True,2018-04-19T17:05:30Z,2018-04-19T17:05:30Z,1,2,2,4,39,0,39,58425.0
+684,make data check accordingly,950,True,True,2018-06-23T05:54:20Z,2018-06-23T05:54:20Z,1,3,2,2,38,38,76,12168.0
+685,fix typo and make equals consistency,915,True,True,2018-06-23T13:38:35Z,2018-06-23T13:38:36Z,1,2,1,2,39,39,78,9828.0
+682,[ENHANCEMENT] Migrated tests from tape to jest,1079,True,True,2018-06-18T18:21:42Z,2018-06-18T18:21:42Z,0,1,1,337,12165,7939,20104,1817.0
+689,Dig,156,True,True,2018-07-14T07:34:07Z,2018-07-14T07:34:07Z,1,3,2,4,78,0,78,91612.0
+687,WIP: npm run tester failed,1238,True,False,,2018-07-08T19:53:40Z,0,2,4,3,1422,1355,2777,0
+674,add toHash to tag database with Array tag,820,True,True,2018-05-31T21:55:18Z,2018-05-31T21:55:18Z,0,1,2,1,1,0,1,260.0
+680,make `difference` function a one liner,754,True,False,,2018-06-05T15:14:02Z,1,2,3,1,1,4,5,0
+672,Add toHash snippet,1075,True,True,2018-05-31T18:11:44Z,2018-05-31T18:11:44Z,1,2,6,1,28,0,28,68276.0
+679,Update `countOccurrences` function,746,True,True,2018-06-05T15:09:33Z,2018-06-05T15:09:33Z,1,1,1,1,1,1,2,9797.0
+678, Unnecessary spread operator removed from `hide`,841,True,False,,2018-06-05T15:07:00Z,1,1,1,1,2,2,4,0
+676,Update `nodeListToArray` function,968,True,False,,2018-06-05T14:58:32Z,1,1,1,1,2,2,4,0
+677,Unnecessary spread operator removed from `show`,841,True,False,,2018-06-05T15:06:11Z,1,2,2,1,2,2,4,0
+703,[CODACY] Test files linted,737,True,True,2018-08-03T07:45:47Z,2018-08-03T07:45:47Z,0,1,1,153,756,465,1221,315.0
+708,Get rid of arguments for bindKey,779,True,True,2018-08-10T07:48:28Z,2018-08-10T07:48:28Z,1,2,1,2,3,9,12,124.0
+707,Update symmetricDifference,811,True,False,,2018-08-10T07:44:52Z,1,2,1,1,9363,9365,18728,0
+698,[FEATURE] Glossary scripts #690,854,True,True,2018-08-02T07:49:29Z,2018-08-02T07:49:29Z,2,3,1,8,295,9,304,382088.0
+706,Get rid of arguments for bind,839,True,True,2018-08-10T06:31:57Z,2018-08-10T06:31:57Z,2,3,5,2,2,8,10,81604.0
+704,[CODACY] Scripts linted,737,True,True,2018-08-03T07:53:39Z,2018-08-03T07:53:39Z,0,1,1,13,525,233,758,183.0
+695,add InitializeOrderedArray,969,True,False,,2018-07-21T10:57:21Z,1,2,1,4,26,0,26,0
+697,[Glossary] Functor,725,True,True,2018-07-24T17:53:33Z,2018-07-24T17:53:33Z,1,2,1,1,5,0,5,1506.0
+692,[ENHANCEMENT] Glossary,749,True,True,2018-07-17T18:05:01Z,2018-07-17T18:05:01Z,1,2,1,5,23,0,23,32829.0
+691,#690 create Element glossary for disambiguation,903,True,True,2018-07-17T18:04:44Z,2018-07-17T18:04:44Z,1,2,1,1,4,0,4,62459.0
+701,indexOfAll.md returns a functions with shadow vars,866,True,True,2018-08-02T20:14:20Z,2018-08-02T20:14:20Z,1,2,2,1,1,1,2,999.0
+702,[FEATURE] Added allEqual + tests,846,True,True,2018-08-06T08:42:03Z,2018-08-06T08:42:03Z,0,2,1,4,56,0,56,300859.0
+705,Simplify average,840,True,True,2018-08-09T06:49:14Z,2018-08-09T06:49:14Z,2,3,3,2,2,2,4,73419.0
+709,Update symmetricDifference,787,True,True,2018-08-17T05:41:33Z,2018-08-17T05:41:33Z,3,3,9,6,39,2,41,597208.0
+711,[ENHANCEMENT] Optimized Longest Item function,926,True,True,2018-08-13T05:38:28Z,2018-08-13T05:38:28Z,1,4,16,2,3,3,6,16174.0
+712,[ENHANCEMENT] Simplified nth Element,958,True,True,2018-08-16T20:30:24Z,2018-08-16T20:30:24Z,1,3,18,2,3,3,6,328751.0
+713,Update initializeArrayWithRange snippet,863,True,True,2018-08-13T11:22:33Z,2018-08-13T11:22:33Z,1,2,3,3,10,4,14,34245.0
+714,Update mapObject,782,True,False,,2018-08-13T05:54:02Z,1,3,3,1,1,4,5,0
+710,[ENHANCEMENT] Simplified Rearg Snippet,1286,True,True,2018-08-13T11:25:51Z,2018-08-13T11:25:51Z,1,2,2,2,3,15,18,67545.0
+716,[ENHANCEMENT] Simplified isArrayLike,981,True,True,2018-08-14T17:38:53Z,2018-08-14T17:38:53Z,2,2,8,3,4,16,20,82759.0
+717,Updated longestItem + tests,803,True,True,2018-08-15T06:33:16Z,2018-08-15T06:33:16Z,1,2,2,3,29,4,33,45390.0
+723,"[FIX] Update index.html ""implemented"" misspelled word",780,True,True,2018-08-28T17:13:30Z,2018-08-28T17:13:30Z,2,3,2,2,2,2,4,12734.0
+725,test: fibonacci(55); check works correct memoization,737,True,False,,2018-09-03T16:21:30Z,2,3,4,1,2,0,2,0
+724,Simplify hide,814,True,True,2018-08-29T21:09:42Z,2018-08-29T21:09:42Z,3,3,5,2,4,4,8,40650.0
+720,Use destructuring and template string for formatDuration,832,True,True,2018-08-27T13:52:07Z,2018-08-27T13:52:07Z,1,3,1,2,2,2,4,447333.0
+742,Add unit tests for deepFreeze,823,True,True,2018-09-15T09:31:57Z,2018-09-15T09:31:57Z,2,3,3,1,29,0,29,90098.0
+726,Simplify initialize2DArray,847,True,False,,2018-09-02T17:18:47Z,1,3,7,2,15,3,18,0
+734,Using more declarative way to create array in nodeListToArray,853,True,True,2018-09-07T05:37:40Z,2018-09-07T05:37:40Z,2,5,3,2,3,3,6,140541.0
+732,Simplify inRange,769,True,True,2018-09-03T07:07:37Z,2018-09-03T07:07:37Z,1,2,1,2,3,3,6,2285.0
+738,Website Material Redesign,48,True,True,2018-09-08T12:24:10Z,2018-09-08T12:24:10Z,1,2,1,44,3048,5030,8078,785.0
+741,Simplify objectToPairs,799,True,False,,2018-09-14T08:25:42Z,2,3,2,0,0,0,0,0
+733,Simplify intersectionBy,784,True,True,2018-09-04T20:52:56Z,2018-09-04T20:52:56Z,2,3,6,2,2,2,4,28283.0
+744,Simplify observeMutations,782,True,True,2018-09-18T05:25:54Z,2018-09-18T05:25:54Z,2,3,1,1,1,1,2,77442.0
+749,New template for PRs,62,True,True,2018-09-25T03:57:05Z,2018-09-25T03:57:05Z,2,3,3,1,13,26,39,30269.0
+751, [ENHANCEMENT] Simpler solution to mask using padStart,925,True,True,2018-09-26T09:27:34Z,2018-09-26T09:27:34Z,4,5,11,2,3,5,8,118594.0
+448,Add a new function called thousandthToNumber,927,True,False,,2018-01-01T14:31:29Z,0,2,2,1,13,0,13,0
+752,[FEATURE] shank(),686,True,False,,2018-09-27T12:56:57Z,1,3,2,6,1470,1401,2871,0
+748,Add indentString,343,True,True,2018-09-27T13:58:32Z,2018-09-27T13:58:32Z,1,2,1,4,32,0,32,240123.0
+753,[FEATURE] shank(),702,True,True,2018-09-27T15:12:11Z,2018-09-27T15:12:11Z,2,3,2,5,62,0,62,8171.0
+757,[FEATURE] Date snippets,665,True,True,2018-09-29T13:46:33Z,2018-09-29T13:46:33Z,1,2,3,34,201,20,221,7959.0
+767,[FIX] change test comments in indexOfAll.test.js,757,True,True,2018-10-01T19:05:43Z,2018-10-01T19:05:43Z,1,2,1,1,1,1,2,305.0
+770,## Description <!-- Write a detailed description of your changes/additions here --,589,True,False,,2018-10-02T13:21:04Z,0,4,1,6,1323,1322,2645,0
+768,Simplify triggerEvent,779,True,True,2018-10-02T17:58:18Z,2018-10-02T17:58:18Z,1,3,3,1,2,2,4,39152.0
+773,Update PULL_REQUEST_TEMPLATE.md,601,True,True,2018-10-02T18:03:38Z,2018-10-02T18:03:38Z,1,2,1,1,1,1,2,914.0
+777,Minor Simplification,634,True,True,2018-10-03T05:02:53Z,2018-10-03T05:02:53Z,1,2,1,2,12,16,28,407.0
+772,Minor Simplifications,662,True,False,,2018-10-02T18:06:36Z,2,3,3,3,22,44,66,0
+778,Change docs for triggerEvent [ENHANCEMENT],799,True,True,2018-10-03T09:33:02Z,2018-10-03T09:33:02Z,1,2,1,1,2,2,4,257.0
+779,Update README.md,589,True,False,,2018-10-03T09:40:32Z,0,2,2,1,9333,9333,18666,0
+780,Update README.md,589,True,False,,2018-10-03T09:41:52Z,0,2,2,1,9333,9333,18666,0
+781,arj,589,True,False,,2018-10-03T09:42:58Z,0,2,2,1,2,2,4,0
+758,Update README.md,621,True,False,,2018-10-01T16:23:41Z,1,2,2,1,9338,9337,18675,0
+782,Update README.md,589,True,False,,2018-10-03T09:45:58Z,0,2,2,1,9333,9333,18666,0
+783,Update LICENSE,589,True,False,,2018-10-03T09:50:04Z,0,2,2,1,1,1,2,0
+784,Update travis.log,589,True,False,,2018-10-03T09:53:42Z,0,2,2,1,2,2,4,0
+785,adding multiSplit,589,True,False,,2018-10-03T10:07:43Z,0,1,1,7,1587,2078,3665,0
+786,adding multiSplit,589,True,False,,2018-10-03T11:29:23Z,1,2,1,0,0,0,0,0
+787,Update README.md,589,True,False,,2018-10-03T14:05:51Z,0,2,2,1,9336,9333,18669,0
+796,first commit,589,True,False,,2018-10-03T18:19:57Z,0,3,1,1,2,2,4,0
+797,Minor Simplifications,589,True,False,,2018-10-03T19:09:54Z,0,7,2,17,1414,1434,2848,0
+803,[FIX] Error with new in btoa,619,True,True,2018-10-04T13:44:56Z,2018-10-04T13:44:56Z,1,2,1,2,2,2,4,5060.0
+776,Make tomorrow.js readable and fix tests,863,True,False,,2018-10-04T17:39:10Z,2,4,5,3,13,7,20,0
+800,[FIX] Replace deprecated calls in atob and btoa,601,True,True,2018-10-04T03:36:40Z,2018-10-04T03:36:40Z,1,3,5,4,4,4,8,22806.0
+801,[FEATURE] Add getQueryString snippet,615,True,False,,2018-10-04T03:39:38Z,1,3,3,5,2260,343,2603,0
+802,Update analyze.js,589,True,False,,2018-10-04T07:59:59Z,0,3,3,1,1,1,2,0
+798,Add range,614,True,False,,2018-10-04T03:35:23Z,1,3,4,4,96,0,96,0
+808,Fix side nav,1001,True,False,,2018-10-05T14:24:46Z,0,1,2,9,435,624,1059,0
+807,Added Navigation to missing pages,631,True,False,,2018-10-05T10:00:23Z,1,2,2,4,369,469,838,0
+810,Fixed typo in README.md,613,True,False,,2018-10-05T18:16:28Z,0,2,2,1,9445,9445,18890,0
+809,Added side nav to glossary and archived pages,1222,True,True,2018-10-06T09:33:40Z,2018-10-06T09:33:40Z,1,2,3,5,67,156,223,68521.0
+814,Fixed typos at readme,212,True,False,,2018-10-06T20:31:14Z,0,2,4,1,9445,9445,18890,0
+813,[FEATURE] Adding Heron's formula for area of any triangle,1000,True,True,2018-10-07T18:53:52Z,2018-10-07T18:53:52Z,2,4,6,1,19,0,19,94276.0
+761,:bug: Fix deepClone's bug when values includes null,14,True,False,,2018-10-08T07:24:33Z,2,3,2,2,30,30,60,0
+819,"""Add an example"" note/text added",1122,True,False,,2018-10-09T11:13:42Z,0,2,2,1,1,0,1,0
+823,Update tag.js,633,True,False,,2018-10-09T15:14:32Z,0,2,1,1,2,2,4,0
+822,Update analyze.js,633,True,False,,2018-10-09T15:14:48Z,0,2,1,1,2,2,4,0
+811,Update glossary terms,660,True,True,2018-10-09T16:18:58Z,2018-10-09T16:18:58Z,1,3,7,2,9,0,9,345723.0
+824,Javascript Promises added as a new Snippet,633,True,False,,2018-10-09T20:03:15Z,0,2,2,1,32,0,32,0
+825,Update README.md,656,True,False,,2018-10-10T02:39:19Z,0,2,2,1,9472,9472,18944,0
+820,dropProperties snippet for array of objects,922,True,False,,2018-10-09T13:02:52Z,0,3,5,4,58,0,58,0
+826,Simplify unionBy,759,True,True,2018-10-10T18:00:54Z,2018-10-10T18:00:54Z,2,3,1,2,2,2,4,18684.0
+818,[FIX] Fixed typo,692,True,True,2018-10-09T08:15:11Z,2018-10-09T08:15:11Z,1,2,1,1,1,1,2,675.0
+828,[FIX] Updates typo in 'sample' snippet from 'of' to 'off',769,True,True,2018-10-11T12:07:50Z,2018-10-11T12:07:50Z,1,2,1,1,1,1,2,6860.0
+1032,"Add a new snippet, hasKey",593,True,True,2019-10-15T12:53:12Z,2019-10-15T12:53:12Z,1,2,1,2,66,0,66,99.0
+675,Update `arrayToHtmlList` function,998,True,False,,2018-06-05T15:18:09Z,0,2,5,1,4,6,10,0
+831,Update palindrome.md,633,True,False,,2018-10-12T13:22:25Z,0,3,3,1,1,1,2,0
+834,Update factorial.md,633,True,False,,2018-10-13T13:58:51Z,0,2,1,1,8,1,9,0
+838,Correct palindrome.md description,866,True,True,2018-10-15T05:08:51Z,2018-10-15T05:08:51Z,1,2,3,1,2,2,4,26440.0
+840,[FEATURE] Sum of squares of numbers,633,True,False,,2018-10-15T08:01:24Z,1,4,14,11,3219,3163,6382,0
+756,Avoid confusing prototype methods for static methods,886,True,True,2018-09-28T19:45:03Z,2018-09-28T19:45:03Z,3,4,4,194,545,545,1090,2258.0
+844,[ENHANCEMENT]  add 30react to similar projects - it's no longer a secret,756,True,True,2018-10-16T05:28:04Z,2018-10-16T05:28:04Z,2,3,2,1,16,14,30,41601.0
+841,Simplify countBy,763,True,True,2018-10-16T08:28:26Z,2018-10-16T08:28:26Z,1,2,1,2,2,2,4,86913.0
+830,Another primitive assert function,633,True,True,2018-10-16T08:35:21Z,2018-10-16T08:35:21Z,4,4,1,1,2,4,6,350405.0
+842,Add squareSum,633,True,True,2018-10-16T10:55:33Z,2018-10-16T10:55:33Z,1,3,5,1,13,0,13,93547.0
+845,Create isNaN.md,633,True,False,,2018-10-16T12:23:40Z,1,2,1,1,13,0,13,0
+812,[FEATURE] Added to title case snippet,261,True,False,,2018-10-16T17:12:58Z,4,5,5,3,70,0,70,0
+832,[FEATURE] Add Kilometers/Hour to Miles/Hour conversion and reverse,701,True,True,2018-10-16T17:24:42Z,2018-10-16T17:24:42Z,2,4,5,6,50,0,50,336688.0
+839,Few changesEdit,633,True,False,,2018-10-15T07:47:51Z,1,2,2,3,3,3,6,0
+764,[FEATURE] add celsiusToFahrenheit and fahrenheitToCelsius,667,True,True,2018-10-16T17:31:46Z,2018-10-16T17:31:46Z,1,5,11,6,82,0,82,1314157.0
+846,Update string.md as String literals aren't Strings,843,True,False,,2018-10-16T18:45:58Z,0,2,1,1,7,0,7,0
+847,Update string.md as String literals aren't Strings,843,True,False,,2018-10-16T18:47:53Z,0,3,1,1,7,0,7,0
+836,Update palindrome.md,633,True,False,,2018-10-14T06:20:35Z,0,1,1,2,2,2,4,0
+848,Simplify differenceBy,769,True,True,2018-10-17T10:18:00Z,2018-10-17T10:18:00Z,1,2,1,2,2,2,4,8111.0
+852,Slice,207,True,False,,2018-10-18T20:33:01Z,0,2,2,1,16,0,16,0
+851,Splice,209,True,False,,2018-10-18T20:33:36Z,0,2,2,2,32,0,32,0
+853,[SCRIPTS] ESLint (finally),1336,True,True,2018-10-19T06:04:37Z,2018-10-19T06:04:38Z,2,3,1,31,2286,1844,4130,33670.0
+859,added a change,633,True,False,,2018-10-22T06:13:22Z,0,2,1,1,1,0,1,0
+858,cotributed with a comment,633,True,False,,2018-10-22T18:07:31Z,0,3,1,1,1,0,1,0
+827,[SCRIPTS] Packaging and testing updates,1407,True,True,2018-10-19T17:29:07Z,2018-10-19T17:29:07Z,1,9,2,781,7656,9467,17123,766048.0
+860,fix: typo,633,True,True,2018-10-25T09:44:17Z,2018-10-25T09:44:17Z,0,2,2,1,2,2,4,46575.0
+857,Simplify longestItem,772,True,True,2018-10-25T10:25:08Z,2018-10-25T10:25:08Z,4,4,8,1,2,2,4,519688.0
+861,my changes 1,633,True,False,,2018-10-28T12:28:49Z,0,2,1,1,1,1,2,0
+862,readme,23,True,False,,2018-10-28T18:36:48Z,0,3,2,1,29,29,58,0
+805,[FIX] allEqual.test.js test arrays with different types in the same array,679,True,True,2018-10-04T19:06:49Z,2018-10-04T19:06:49Z,2,3,1,1,4,0,4,326.0
+867,Update date.html,633,True,False,,2018-10-31T13:50:42Z,0,2,1,1,3,1,4,0
+868,[FIX] docs: `prototype.prototype` -> `prototype`,808,True,True,2018-10-31T16:49:57Z,2018-10-31T16:49:57Z,1,2,1,2,2,3,5,1558.0
+871,[FIX] wrong comment with getColonTimeFromDate #869,714,True,True,2018-11-03T14:14:52Z,2018-11-03T14:14:52Z,1,2,1,1,1,1,2,9908.0
+1,Added capitalize first letter of every word,0,True,True,2017-12-12T13:37:53Z,2017-12-12T13:37:53Z,2,2,1,1,9,0,9,65479.0
+31,Anagrams recursion refactor (code legibility),107,True,False,,2017-12-12T16:23:00Z,1,2,2,1,11,7,18,0
+13,Directly return object from arrow function,82,True,True,2017-12-12T14:07:36Z,2017-12-12T14:07:36Z,6,3,2,2,4,6,10,24959.0
+25,Create Check_for_palindrome.md,0,True,True,2017-12-12T14:23:01Z,2017-12-12T14:23:01Z,3,2,4,1,8,0,8,13438.0
+21,Faster even/odd check with bitwise operator,113,True,False,,2017-12-12T09:47:35Z,2,2,2,1,1,2,3,0
+42,get minimum value from an array,72,True,True,2017-12-12T18:56:31Z,2017-12-12T18:56:31Z,2,3,2,1,8,0,8,3774.0
+37,Added async function chain,206,True,True,2017-12-13T10:12:43Z,2017-12-13T10:12:43Z,4,2,1,1,14,0,14,63736.0
+51,refactor curry to account for variadic functions,263,True,True,2017-12-13T11:33:50Z,2017-12-13T11:33:50Z,2,2,4,1,11,3,14,47243.0
+101,Fix: validateNumber: check cooercian,619,True,True,2017-12-14T08:20:34Z,2017-12-14T08:20:34Z,2,2,5,1,2,1,3,1467.0
+106,ran npm run build-list & add take.md,296,True,True,2017-12-14T09:55:13Z,2017-12-14T09:55:13Z,4,2,2,2,23,1,24,1053.0
+38,Add chunk array,146,True,True,2017-12-13T10:04:56Z,2017-12-13T10:04:56Z,2,2,1,1,13,0,13,62840.0
+46,Collatz algorithm,132,True,False,,2017-12-14T12:52:35Z,1,6,9,1,11,0,11,0
+75,Create join_array_like_objects.md,0,True,True,2017-12-14T10:48:26Z,2017-12-14T10:48:26Z,1,2,5,3,31,0,31,66916.0
+85,group by,100,True,True,2017-12-14T08:45:47Z,2017-12-14T08:45:47Z,3,3,2,1,14,0,14,42987.0
+82,Use Array.from instead of slice to capitalize a string,45,True,False,,2017-12-14T08:31:50Z,3,2,3,1,4,5,9,0
+64,Add promisify snippet,52,True,True,2017-12-13T12:18:15Z,2017-12-13T12:18:15Z,13,3,2,2,36,0,36,6129.0
+144,Add takeRight,346,True,True,2017-12-15T10:42:38Z,2017-12-15T10:42:38Z,5,3,1,2,11,0,11,38016.0
+113,Added American to English date,0,True,False,,2017-12-17T10:45:31Z,3,4,7,2,21,6,27,0
+140,Create compose-functions.md,0,True,True,2017-12-16T11:42:16Z,2017-12-16T11:42:16Z,4,4,15,1,15,0,15,135452.0
+132,method name,34,True,True,2017-12-16T12:37:53Z,2017-12-16T12:37:53Z,4,3,1,1,8,0,8,147434.0
+131,Added snippet to convert number to array of digits,40,True,True,2017-12-14T20:54:56Z,2017-12-14T20:54:56Z,3,2,2,1,9,0,9,7207.0
+120,add json to file function,61,True,True,2017-12-15T11:16:09Z,2017-12-15T11:16:09Z,3,2,3,1,9,0,9,74624.0
+155,added symmetric difference note to Array difference,155,True,True,2017-12-16T16:36:11Z,2017-12-16T16:36:11Z,1,2,1,1,10,2,12,114029.0
+164,add a check,0,True,False,,2017-12-16T11:24:28Z,1,3,2,1,1,1,2,0
+226,correcting in new branch,4,True,False,,2017-12-17T18:16:43Z,2,1,1,1,1,1,2,0
+196,improve array.remove performance and description,155,True,False,,2017-12-19T15:07:46Z,5,2,2,1,17,8,25,0
+187,Create First-one-to-pass-truth-test.md,95,True,True,2017-12-18T11:05:33Z,2017-12-18T11:05:33Z,2,2,8,2,21,0,21,167440.0
+202,Add pull,676,True,True,2017-12-17T09:48:21Z,2017-12-17T09:48:21Z,2,4,2,2,17,2,19,20314.0
+261,orderBy implementation,622,True,True,2017-12-20T09:33:42Z,2017-12-20T09:33:42Z,4,3,2,1,26,0,26,62819.0
+265,[FEATURE] add isPrime,659,True,True,2017-12-20T09:12:27Z,2017-12-20T09:12:27Z,5,5,3,4,47,0,47,45028.0
+262,Snippet to convert array to HTML list items,500,True,True,2017-12-20T09:09:02Z,2017-12-20T09:09:02Z,3,3,2,1,10,0,10,54046.0
+268,[FEATURE] Search Functionality: Search Bar for searching snippets on website,692,True,True,2017-12-20T09:29:44Z,2017-12-20T09:29:44Z,7,3,1,2,36,2,38,29158.0
+264,Snippet for checking armstrong number,500,True,True,2017-12-20T09:11:17Z,2017-12-20T09:11:17Z,6,4,7,1,13,0,13,47186.0
+263,Snippet to convert string to array of words,500,True,True,2017-12-20T09:19:22Z,2017-12-20T09:19:22Z,9,5,15,1,12,0,12,51862.0
+320,found a way more ES6ish solution for toDecimalMark,780,True,True,2017-12-22T17:32:25Z,2017-12-22T17:32:25Z,2,3,3,1,3,9,12,7703.0
+282,[FEATURE] Add zipObject,808,True,True,2017-12-21T09:14:01Z,2017-12-21T09:14:01Z,2,3,3,2,12,0,12,36756.0
+319,Update toDecimalMark,475,True,True,2017-12-22T15:09:44Z,2017-12-22T15:09:44Z,1,2,1,1,3,6,9,3382.0
+304,[ENHANCEMENT] Insight.io and PRs badge,772,True,True,2017-12-22T11:43:43Z,2017-12-22T11:43:43Z,4,3,4,1,2,1,3,44094.0
+293,Add snippet arrayLcm,760,True,True,2017-12-21T15:43:04Z,2017-12-21T15:43:05Z,5,4,6,1,15,0,15,1955.0
+292,Add numberWithCommas,30,True,True,2017-12-21T14:41:02Z,2017-12-21T14:41:02Z,2,3,6,2,18,0,18,1841.0
+317,[FEATURE] Add two snippets fibsTillNum and fibonacciTillNum,754,True,True,2017-12-23T10:19:41Z,2017-12-23T10:19:41Z,5,4,4,2,26,0,26,82072.0
+287,Add snippet primes,752,True,True,2017-12-21T12:47:41Z,2017-12-21T12:47:41Z,1,3,3,2,17,1,18,7958.0
+298,Improve isPrime to be O(sqrt(n)),70,True,True,2017-12-21T22:31:52Z,2017-12-21T22:31:52Z,2,4,3,2,22,24,46,17971.0
+351,added sdbm-hash algorithm,57,True,True,2017-12-27T08:29:13Z,2017-12-27T08:29:13Z,3,4,5,1,17,0,17,208595.0
+328,[FIX: #327][WEB] Last category doesn't disappear if empty,786,True,True,2017-12-23T15:22:27Z,2017-12-23T15:22:28Z,6,3,3,2,28,6,34,55216.0
+340,Snippet to generate random color code,722,True,True,2017-12-24T13:29:32Z,2017-12-24T13:29:32Z,2,4,4,1,16,0,16,2692.0
+331,[ENHANCEMENT] dropRight bad example 👎,784,True,True,2017-12-24T12:15:47Z,2017-12-24T12:15:47Z,2,3,7,1,3,3,6,90445.0
+361,Recreate tomorrow snippet,64,True,True,2017-12-26T16:59:26Z,2017-12-26T16:59:26Z,0,1,1,2,10,0,10,71.0
+358,[FIX: #357] Change shuffle algorithm to Fisher-Yates shuffle,955,True,True,2017-12-26T13:24:48Z,2017-12-26T13:24:48Z,2,5,10,1,10,3,13,38271.0
+315,[FEATURE] reduced Filter,1228,True,True,2018-01-01T15:06:10Z,2018-01-01T15:06:10Z,8,7,8,1,33,0,33,880062.0
+380,[FIX: #376] Update UUIDGenerator with new examples,918,True,False,,2017-12-28T22:43:47Z,8,3,3,3,78,43,121,0
+377,[FEATURE] Add show/hide snippets (browser),774,True,True,2017-12-28T22:10:11Z,2017-12-28T22:10:11Z,4,2,2,3,28,0,28,2109.0
+389,Add a snippet byteSize,766,True,True,2017-12-29T12:58:29Z,2017-12-29T12:58:29Z,3,3,2,1,14,0,14,1344.0
+386,[FEATURE] Add lowercaseKeys,788,True,True,2017-12-29T13:37:01Z,2017-12-29T13:37:01Z,4,3,1,2,17,0,17,7659.0
+427,[ADD: `size.md`] add size snippet,903,True,True,2017-12-31T10:43:45Z,2017-12-31T10:43:45Z,3,5,5,1,27,0,27,38640.0
+430,[FEATURE] Add copyToClipboard,756,True,True,2017-12-31T10:14:45Z,2017-12-31T10:14:45Z,3,2,1,2,33,0,33,1992.0
+440,[ADD sortedIndex.md] ,901,True,True,2017-12-31T15:07:55Z,2017-12-31T15:07:55Z,3,3,5,1,19,0,19,1218.0
+431,[FEATURE] isPrimitive utility snippet,747,True,True,2017-12-31T17:30:08Z,2017-12-31T17:30:08Z,4,3,1,2,23,0,23,23982.0
+429,[FEATURE] add link to README for files to import snippets into text editors,904,True,True,2017-12-31T09:29:13Z,2017-12-31T09:29:14Z,4,3,1,1,1,0,1,6937.0
+464,[FEATURE] MinN and MaxN Snippets,733,True,True,2018-01-03T06:15:48Z,2018-01-03T06:15:48Z,4,4,1,2,32,0,32,10371.0
+462,Add ProductHunt Badge to README,735,True,True,2018-01-03T06:04:48Z,2018-01-03T06:04:48Z,6,5,1,1,4,1,5,18754.0
+457,[UPDATE] memoize.md,861,True,True,2018-01-03T11:53:21Z,2018-01-03T11:53:21Z,4,3,4,1,12,4,16,121573.0
+449,add RPN solver,691,True,True,2018-01-01T17:04:02Z,2018-01-01T17:04:02Z,5,3,3,1,34,0,34,6093.0
+454,[ADD: `defer.md`] defer,903,True,True,2018-01-02T08:41:27Z,2018-01-02T08:41:27Z,6,3,1,2,20,0,20,39341.0
+451,[FEATURE] Micro modules,808,True,True,2018-01-01T16:44:41Z,2018-01-01T16:44:41Z,2,3,1,5,64,0,64,838.0
+433,[FEATURE] memoize snippet,949,True,True,2017-12-31T12:06:56Z,2017-12-31T12:06:56Z,3,3,1,2,21,0,21,363.0
+492,loadash xor functionality added,50,True,False,,2018-01-08T12:12:01Z,1,3,3,3,61,0,61,0
+469,Create luhnCheck.md,854,True,True,2018-01-04T09:23:46Z,2018-01-04T09:23:46Z,6,4,10,1,25,0,25,87593.0
+493,Add binarySearch,1555,True,False,,2018-01-05T15:34:52Z,2,5,13,2,5298,5032,10330,0
+484,[FEATURE] Binary tree snippets,1120,True,False,,2018-01-05T10:17:28Z,2,4,6,7,926,260,1186,0
+480,[UPDATE] pluralize.md,1013,True,True,2018-01-04T09:07:36Z,2018-01-04T09:07:36Z,2,4,7,1,20,14,34,61718.0
+458,Tdd update,1544,True,True,2018-01-03T14:22:00Z,2018-01-03T14:22:00Z,3,2,3,3,144,14,158,104626.0
+502,u combinator + z combinator + permutations,820,True,False,,2018-01-06T07:35:55Z,4,3,2,3,49,0,49,0
+500,Add.binary search,468,True,True,2018-01-08T23:20:56Z,2018-01-08T23:20:56Z,6,5,12,1,24,0,24,287225.0
+497,[FEATURE] Event listener utils,703,True,True,2018-01-05T16:11:12Z,2018-01-05T16:11:12Z,1,2,1,3,41,1,42,12928.0
+514,[FEATURE] http requests snippets,1187,True,True,2018-01-10T19:33:03Z,2018-01-10T19:33:03Z,4,7,35,5,122,0,122,168507.0
+498,[FEATURE] Add createEventHub,732,True,True,2018-01-09T12:18:30Z,2018-01-09T12:18:30Z,6,3,9,2,46,0,46,342592.0
+516,Tdd Update ,920,True,True,2018-01-09T14:20:37Z,2018-01-09T14:20:37Z,11,3,8,388,3291,7,3298,24622.0
+511,[FEATURE] Add reject,756,True,False,,2018-01-08T23:10:19Z,9,4,3,2,18,0,18,0
+505,[FEATURE] indexesOf,703,True,True,2018-01-06T11:48:13Z,2018-01-06T11:48:13Z,12,5,20,1,20,0,20,11951.0
+542,[FEATURE] Add observeMutations.md,775,True,True,2018-01-16T13:58:55Z,2018-01-16T13:58:55Z,2,2,1,2,28,0,28,262732.0
+540,[FEATURE] Add colorize,817,True,True,2018-01-13T15:25:32Z,2018-01-13T15:25:32Z,2,3,1,2,36,0,36,13625.0
+543,[FEATURE] Add randomIntArrayInRange,711,True,True,2018-01-15T12:01:47Z,2018-01-15T12:01:47Z,5,5,3,4,30,0,30,153874.0
+565,[FIX: #564] Fix inaccurate tomorrow() function,1378,True,True,2018-01-23T11:30:32Z,2018-01-23T11:30:32Z,10,4,1,1,6,2,8,49434.0
+552,[FEATURE] Hash methods,896,True,True,2018-01-17T19:25:30Z,2018-01-17T19:25:30Z,17,3,5,4,40,1,41,26101.0
+556,[PATCH] Combined is snippets into a generic one,819,True,True,2018-01-17T19:38:36Z,2018-01-17T19:38:36Z,3,3,2,10,26,112,138,808.0
+567,Added getMinOrMaxValueInArrayBySomeRules utility function,934,True,True,2018-01-25T11:41:13Z,2018-01-25T11:41:13Z,12,3,6,1,16,0,16,160049.0
+536,4 New Snippets,1013,True,True,2018-02-02T11:03:26Z,2018-02-02T11:03:26Z,19,6,4,2,29,0,29,1847359.0
+575,Add toCurrency,1681,True,True,2018-01-31T17:14:15Z,2018-01-31T17:14:15Z,6,3,4,7,48,30,78,352388.0
+592,[FEATURE][ADD] Add stableSort function,858,True,True,2018-02-18T17:45:57Z,2018-02-18T17:45:57Z,7,5,37,4,45,0,45,1040743.0
+582,Ignore files that shouldn't be tracked,1045,True,False,,2018-02-01T14:36:27Z,13,4,7,305,161,1817,1978,0
+583,[#526] Added some test cases,890,True,True,2018-02-03T09:33:30Z,2018-02-03T09:33:30Z,5,3,1,4,34,5,39,305055.0
+661,update arrayToHtmlList to more high efficiency,421,True,True,2018-05-07T08:32:56Z,2018-05-07T08:32:56Z,2,3,3,1,4,3,7,24966.0
+663,[FIX: #658] Fixed problems with array values in deepClone snippet,810,True,True,2018-05-11T09:45:25Z,2018-05-11T09:45:26Z,4,3,1,3,13,3,16,139292.0
+637,[FEATURE] isBrowser,698,True,True,2018-03-19T14:49:53Z,2018-03-19T14:49:53Z,3,3,1,2,18,0,18,42983.0
+657,Add reject,964,True,True,2018-04-27T12:49:18Z,2018-04-27T12:49:18Z,2,2,1,4,39,0,39,44190.0
+618,Add affiliates,745,True,True,2018-02-27T10:32:04Z,2018-02-27T10:32:04Z,2,3,3,1,5,0,5,2461.0
+610,[ADD] fuzzySearch,1039,True,True,2018-02-26T15:30:08Z,2018-02-26T15:30:08Z,18,5,13,2,1043,1036,2079,772972.0
+613,[FEATURE] pad - string padding,754,True,True,2018-02-26T11:53:10Z,2018-02-26T11:53:10Z,2,3,5,4,34,0,34,179388.0
+664,Simplify findLast snippet,826,True,True,2018-05-11T15:08:25Z,2018-05-11T15:08:25Z,2,3,3,2,3,3,6,10661.0
+671,ELO snippet formatting + performance,840,True,True,2018-06-23T07:21:27Z,2018-06-23T07:21:27Z,5,4,4,1,6,7,13,2042049.0
+699,Simplify indexOfAll,795,True,True,2018-08-02T19:48:51Z,2018-08-02T19:48:51Z,4,3,1,2,3,11,14,29402.0
+696,[ENHANCEMENT] Glossary terms,824,True,True,2018-07-25T19:09:42Z,2018-07-25T19:09:43Z,4,3,2,5,19,0,19,117431.0
+693,[ENHANCEMENT] Glossary,752,True,True,2018-07-18T16:57:38Z,2018-07-18T16:57:38Z,3,3,1,5,22,0,22,26777.0
+688,Dig,1054,True,False,,2018-07-13T06:00:47Z,13,4,1,5,1429,1349,2778,0
+718,[GLOSSARY] Glossary additions,863,True,True,2018-08-23T07:30:12Z,2018-08-23T07:30:12Z,18,4,6,13,52,0,52,515778.0
+719,[FEATURE] Create pipeLog.md,732,True,True,2018-09-22T11:37:26Z,2018-09-22T11:37:26Z,5,4,11,1,13,0,13,2847724.0
+721,[FEATURE]  add deepFreeze,763,True,True,2018-09-01T10:09:00Z,2018-09-01T10:09:00Z,22,5,14,4,48,0,48,583474.0
+731,Glossary terms v2,837,True,True,2018-09-02T18:58:03Z,2018-09-02T18:58:03Z,3,3,2,12,43,0,43,108541.0
+743,[REFACTOR/ENHANCEMENT] Refactor + Simplify Builder,1366,True,True,2018-09-14T16:33:51Z,2018-09-14T16:33:51Z,12,2,3,8,1869,1927,3796,11323.0
+746,Refactor takeRightWhile,795,True,True,2018-10-01T16:33:55Z,2018-10-01T16:33:55Z,2,3,3,2,3,12,15,958873.0
+736,Simplify objectFromPairs,796,True,True,2018-09-10T05:31:32Z,2018-09-10T05:31:32Z,6,4,1,2,2,2,4,229369.0
+727,Glossary additions,902,True,True,2018-09-02T17:19:44Z,2018-09-02T17:19:44Z,6,4,1,19,74,0,74,263425.0
+729,Glossary terms,873,True,True,2018-09-02T19:22:12Z,2018-09-02T19:22:12Z,4,3,1,32,121,0,121,110323.0
+771,adding sorting algo(Bubblesort) :zap:,589,True,False,,2018-10-04T04:59:16Z,5,3,16,5,69,2153,2222,0
+765,Add isStream,709,True,True,2018-10-03T19:17:30Z,2018-10-03T19:17:30Z,3,2,7,17,189,1,190,180168.0
+763,[FEATURE] Add getCookie function,760,True,False,,2018-10-01T09:18:54Z,1,2,4,4,1467,1431,2898,0
+806,[FEATURE] Add getImages snippet,657,True,True,2018-10-07T13:24:36Z,2018-10-07T13:24:36Z,14,5,4,4,41,0,41,191095.0
+855,Add toTitleCase snippet and update tag_database accordingly,833,True,True,2018-10-26T14:17:52Z,2018-10-26T14:17:52Z,5,4,5,2,20,0,20,648768.0
+762,"[FIX] Packager script: Babel 7, named exports",934,True,True,2018-10-08T17:08:42Z,2018-10-08T17:08:42Z,2,4,21,9,7527,5738,13265,664651.0
+815, fix time problem,633,True,True,2018-10-09T11:14:34Z,2018-10-09T11:14:34Z,6,6,4,1,1,1,2,77140.0
+874,[FEATURE] added midpoint.md & midpoint.test.js,1738,True,False,,2018-11-09T06:47:42Z,0,3,6,10,3375,3223,6598,0
+870,Create const  all  =  ( arr ، fn = Boolean )  => arr . كل ( fn ) ؛,633,True,False,,2018-11-10T20:22:45Z,0,2,3,1,1,0,1,0
+877,[ENHANCEMENT] added edge cases to everyNth test,840,True,True,2018-11-12T22:12:05Z,2018-11-12T22:12:05Z,2,3,1,1,7,0,7,94760.0
+881,[FEATURE]  added defaultValue function for undefined or null object properties.,702,True,False,,2018-11-19T14:52:01Z,1,3,3,2,52,0,52,0
+883,Kot,633,True,False,,2018-11-21T06:33:18Z,0,6,1,7,693,694,1387,0
+882,swift version,692,True,False,,2018-11-21T10:47:13Z,1,5,6,1,29,28,57,0
+878,[FEATURE] add isNegativeZero,1612,True,True,2018-11-21T17:20:35Z,2018-11-21T17:20:36Z,1,4,3,3,30,0,30,789674.0
+863,"[ENHANCEMENT] Improve user experience by making possible to click the entire box (menu item), not only the text.",857,True,True,2018-11-21T17:01:11Z,2018-11-21T17:01:11Z,1,5,7,2,3,2,5,2051475.0
+884,Merge pull request #1 from 30-seconds/master,640,True,False,,2018-11-25T07:11:28Z,0,1,1,0,0,0,0,0
+887,[FIX] Make description and example better,727,True,True,2018-12-04T06:51:21Z,2018-12-04T06:51:21Z,1,2,1,1,4,4,8,7317.0
+888,Add a simple example for sum,680,True,True,2018-12-05T10:20:54Z,2018-12-05T10:20:54Z,1,2,1,1,1,0,1,1267.0
+886,[FIX] Added edge cases and minor spelling fixes to tests,782,True,True,2018-12-06T11:57:47Z,2018-12-06T11:57:47Z,1,2,1,7,34,6,40,231808.0
+865,"add filterFalsy snippet, tags, and tests",869,True,True,2018-12-07T16:15:50Z,2018-12-07T16:15:50Z,4,4,1,3,32,0,32,3351083.0
+879,[FEATURE] add normalizeVector snippet,795,True,True,2018-12-07T16:18:01Z,2018-12-07T16:18:01Z,2,3,3,2,18,0,18,1941466.0
+880,Added Midpoint.js,774,True,True,2018-12-07T16:25:12Z,2018-12-07T16:25:12Z,1,2,4,3,51,0,51,1902667.0
+885,[FEATURE] adds deepMapKeys snippet,759,True,True,2018-12-10T09:50:36Z,2018-12-10T09:50:36Z,2,2,2,3,87,0,87,937432.0
+843,Add copyToClipboardAsync,732,True,False,,2018-12-11T09:53:19Z,2,2,2,5,47,1,48,0
+876,[FIX] Module generation,913,True,True,2018-11-10T19:49:07Z,2018-11-10T19:49:07Z,1,2,1,2,130,80,210,12368.0
+889,[FEATURE] chainAsync update: last function shouldn't get 'next' as argument,1066,True,True,2018-12-12T22:03:11Z,2018-12-12T22:03:11Z,8,3,1,2,25,5,30,438062.0
+900,added new 30 sec,63,True,False,,2018-12-24T08:38:17Z,1,2,2,1,9639,9638,19277,0
+903,[FIX]: prettyBytes 1000 to 1024,245,True,False,,2019-01-09T17:12:29Z,3,4,4,2,11,8,19,0
+849,[FIX] Improve the readability of tomorrow.js (solves #775),487,True,True,2019-01-09T17:37:50Z,2019-01-09T17:37:50Z,2,5,10,3,16,14,30,7285782.0
+894,[FEATURE] Add createDirIfNotExists snippet,635,True,True,2019-01-09T17:44:28Z,2019-01-09T17:44:28Z,0,1,1,4,1893,1506,3399,2420283.0
+904,[FIX] Fix title overlaping after hash link redirect (#745),689,True,False,,2019-01-09T18:10:50Z,0,2,4,2,8,3,11,0
+905,Added a visualisation of code evolution,40,True,False,,2019-01-11T11:28:32Z,0,2,2,1,9,0,9,0
+908,Fix deepClone edge case,605,True,True,2019-01-12T09:15:19Z,2019-01-12T09:15:19Z,5,3,1,2,6,1,7,25635.0
+899,Better deep clone,731,True,False,,2019-01-12T09:19:38Z,1,2,1,2,6,0,6,0
+909,[FIX] #907 Explain next tick logic on `hashNode`,937,True,True,2019-01-14T05:40:07Z,2019-01-14T05:40:07Z,1,2,1,1,1,1,2,31685.0
+910,[ENHANCEMENT] Add related Kotlin project to README,679,True,True,2019-01-16T21:40:17Z,2019-01-16T21:40:17Z,2,3,5,1,1,0,1,244481.0
+902,[ENHANCEMENT] Replace double-quote characters in CSV fields,899,True,False,,2019-01-21T07:13:11Z,1,3,4,2,7,1,8,0
+912,FLIP the behavior of takeWhile,292,True,False,,2019-01-23T11:36:22Z,1,2,1,2,9,9,18,0
+919,removeDuplicates from array snippet created,89,True,False,,2019-02-08T12:46:01Z,1,2,3,3,24,0,24,0
+913,arrayDelimiter snippets created,589,True,False,,2019-02-19T17:26:50Z,1,2,1,8,47,3,50,0
+911,Update README.md for Open Collective,1969,True,False,,2019-02-19T17:27:08Z,1,2,2,1,9684,9663,19347,0
+922,Mapping Number Ranges,714,True,True,2019-02-23T09:26:46Z,2019-02-23T09:26:46Z,3,2,2,3,23,0,23,413726.0
+926,vectorDistance Snippet ,658,True,True,2019-02-25T06:31:43Z,2019-02-25T06:31:43Z,2,2,2,3,27,0,27,139227.0
+927,[FIX] Repair levenshtein distance code block,625,True,True,2019-02-28T18:01:52Z,2019-02-28T18:01:52Z,2,2,1,1,1,1,2,168761.0
+928,Resolve issue #914 Search field,662,True,True,2019-03-01T17:44:24Z,2019-03-01T17:44:24Z,2,3,1,2,2,2,4,7259.0
+929,[FIX] Minor typo fix,667,True,True,2019-03-03T00:07:50Z,2019-03-03T00:07:50Z,0,2,1,1,1,1,2,12097.0
+931,[FIX]: differenceBy,615,True,False,,2019-03-05T17:03:29Z,1,2,2,10,108,103,211,0
+932,[FIX] differenceBy,615,True,True,2019-03-05T18:10:26Z,2019-03-05T18:10:26Z,1,2,2,2,6,6,12,2519.0
+933,date typo,644,True,True,2019-03-08T09:23:25Z,2019-03-08T09:23:25Z,1,2,1,1,1,1,2,2095.0
+938,Delete links to Gitter,110,True,True,2019-03-17T12:33:35Z,2019-03-17T12:33:35Z,1,2,1,1,1,1,2,145158.0
+940,[FEATURE] add checkProp utility function for inspecting objects,813,True,True,2019-03-17T15:10:08Z,2019-03-17T15:10:08Z,1,2,2,2,30,0,30,47517.0
+942,[ENHANCEMENT] arrayToCSV escape quotes in strings and un-quote numeric vals,599,True,True,2019-03-19T07:39:03Z,2019-03-19T07:39:03Z,1,2,1,2,5,1,6,65298.0
+937,[FIX] #935 isNumber is wrong for NaN,603,True,True,2019-03-19T07:42:32Z,2019-03-19T07:42:32Z,1,2,1,2,8,3,11,337977.0
+941,added urlParams snippet,589,True,False,,2019-03-19T07:40:17Z,1,2,3,3,29,9,38,0
+943,Abc,589,True,False,,2019-03-19T11:28:28Z,0,2,1,2,2,0,2,0
+945,[FIX] JSONToDate test about timezone,622,True,True,2019-03-23T12:08:25Z,2019-03-23T12:08:25Z,2,2,2,1,2,1,3,25342.0
+946,"[FIX] Use mapFn belong to Array.from,  instead of Array.prototype.map",696,True,False,,2019-03-23T14:03:07Z,1,2,1,2,5,4,9,0
+934,add serializeForm snippet,634,True,True,2019-04-08T05:39:07Z,2019-04-08T05:39:07Z,7,3,5,5,73,0,73,2221694.0
+948,Fixed typos,50,True,True,2019-04-08T18:18:53Z,2019-04-08T18:18:53Z,1,2,1,5,5,5,10,13705.0
+949,Create The Tiger up hill,657,True,False,,2019-04-10T08:15:19Z,0,2,2,1,1,0,1,0
+954,"Maps and Sets are not collections, but Stores",664,True,True,2019-04-13T07:35:51Z,2019-04-13T07:35:51Z,1,2,1,1,1,3,4,594.0
+956,Minor typo fixes with drop and dropRight snippets,704,True,True,2019-04-15T06:58:43Z,2019-04-15T06:58:43Z,1,2,1,2,2,2,4,6119.0
+962,P,589,True,False,,2019-05-13T08:03:33Z,0,25,1,1347,38211,30616,68827,0
+961,Add deepGet.md,589,True,True,2019-05-15T09:37:41Z,2019-05-15T09:37:41Z,3,2,2,3,66,0,66,524512.0
+920,Update README-start from PR#911,1969,True,False,,2019-05-15T09:38:18Z,1,3,1,1,23,1,24,0
+966,docs: fix typo,589,True,False,,2019-05-26T07:01:20Z,0,1,2,1,5480,5480,10960,0
+967,docs: fix typo,589,True,True,2019-05-27T07:17:13Z,2019-05-27T07:17:13Z,2,3,1,1,1,1,2,87261.0
+968,Build(deps): Bump tar from 2.2.1 to 2.2.2,1801,True,True,2019-05-27T15:28:13Z,2019-05-27T15:28:13Z,0,1,1,2,148,92,240,439.0
+960, update-dropRightWhilejust: slice arr once ,589,True,True,2019-05-29T06:16:19Z,2019-05-29T06:16:19Z,2,2,1,1,3,2,5,2151722.0
+969,[FIX] Fix memory leak in createEventHub Issue #952,696,True,False,,2019-05-29T18:49:16Z,1,2,5,4,5,2,7,0
+970,[FIX] Fix memory leak in createEventHub Issue #952,787,True,True,2019-05-30T06:15:59Z,2019-05-30T06:15:59Z,1,2,1,3,4,2,6,40581.0
+971,Build(deps): Bump fstream from 1.0.11 to 1.0.12,1661,True,True,2019-05-30T20:54:24Z,2019-05-30T20:54:24Z,0,1,1,1,3,17,20,7827.0
+973,Add aria-label and title,753,True,True,2019-06-03T09:00:35Z,2019-06-03T09:00:35Z,1,2,1,1,13,1,14,1921.0
+972,Migrate to kleur,713,True,True,2019-06-03T08:58:31Z,2019-06-03T08:58:31Z,1,2,2,12,59,58,117,1945.0
+974,Move devDependencies under dependencies,701,True,True,2019-06-03T08:50:42Z,2019-06-03T08:50:42Z,1,2,1,1,20,20,40,1271.0
+975,Build(deps): Bump js-yaml from 3.12.0 to 3.13.1,2354,True,True,2019-06-05T06:27:57Z,2019-06-05T06:27:57Z,0,1,1,2,18,10,28,28594.0
+976,Chalarangelo sponsor change,589,True,True,2019-06-05T07:44:24Z,2019-06-05T07:44:24Z,0,1,1,6,67,11,78,9.0
+977,added 30-seconds-of-automation repo to README.md,679,True,False,,2019-06-05T14:06:56Z,0,1,2,1,36,35,71,0
+979,Build(deps): Bump handlebars from 4.0.11 to 4.1.2,3750,True,True,2019-06-06T05:37:50Z,2019-06-06T05:37:50Z,0,1,1,2,32,86,118,26677.0
+978,added 30-seconds-of-automation repo to README-start.md,629,True,False,,2019-06-07T09:16:14Z,1,27,2,1,1,0,1,0
+980,[FIX] copy/paste typo in uniqueElementsByRight,692,True,True,2019-06-07T14:59:09Z,2019-06-07T14:59:09Z,1,2,1,1,2,2,4,1966.0
+981,FIX  Extra line break,130,True,False,,2019-06-08T06:32:18Z,0,2,2,1,9846,9867,19713,0
+959,Update createDirIfNotExists function,1364,True,False,,2019-06-07T09:16:13Z,3,27,8,5,10,28,38,0
+982,FIX Extra line break,635,True,True,2019-06-09T19:04:26Z,2019-06-09T19:04:26Z,1,2,1,1,0,21,21,16558.0
+985,[ENHANCEMENT] Simplify min and max date functions,933,True,True,2019-06-13T05:04:53Z,2019-06-13T05:04:53Z,1,2,1,3,5,5,10,38047.0
+988,[ENHANCEMENT] Properly configure eslint to work with jest,1207,True,True,2019-06-18T05:34:46Z,2019-06-18T05:34:46Z,1,2,1,374,2,377,379,29667.0
+986,More Elegant and Performant Definition,686,True,False,,2019-06-18T05:53:31Z,1,2,1,1,2,2,4,0
+987,[FIX] Fixed the Error For Negative Result,803,True,False,,2019-06-18T05:59:36Z,1,2,1,1,2,7,9,0
+989,fix(tests): expectations of some async test where not working,1508,True,True,2019-06-26T05:35:25Z,2019-06-26T05:35:25Z,1,2,1,7,20,19,39,11499.0
+992,Clarify that keys are being stringified,687,True,True,2019-07-01T05:00:46Z,2019-07-01T05:00:46Z,1,2,1,1,1,1,2,43392.0
+993,FIX(snippet): Changing instances of the word falsey to falsy,810,True,True,2019-07-04T20:24:02Z,2019-07-04T20:24:02Z,1,2,1,9,10,10,20,2024.0
+995,Build(deps): Bump lodash from 4.17.10 to 4.17.14,1928,True,True,2019-07-11T05:27:08Z,2019-07-11T05:27:08Z,0,1,1,2,6,26,32,13438.0
+994,Build(deps): Bump lodash.mergewith from 4.6.1 to 4.6.2,1601,True,True,2019-07-11T05:30:36Z,2019-07-11T05:30:36Z,0,1,1,2,5,5,10,31023.0
+996,Build(deps): Bump merge from 1.2.0 to 1.2.1,1642,True,True,2019-07-11T07:19:57Z,2019-07-11T07:19:57Z,0,1,1,2,5,5,10,275.0
+963,Update string.md as String literals aren't Strings,799,True,False,,2019-05-15T09:36:59Z,0,3,1,1,7,0,7,0
+694,Update string.md as String literals aren't Strings,1026,True,False,,2019-04-11T22:28:12Z,6,7,6,1,7,0,7,0
+997,[ENHANCEMENT] Remove unofficial message because they're official,601,True,True,2019-07-19T06:29:09Z,2019-07-19T06:29:09Z,1,2,1,3,64,64,128,314.0
+998,[FEATURE] Add yesterday snippets,224,True,True,2019-07-19T08:22:49Z,2019-07-19T08:22:49Z,1,2,2,8,63,3,66,543.0
+999,[FEATURE] Add isWeekday code snippets,228,True,True,2019-07-19T10:12:09Z,2019-07-19T10:12:09Z,3,2,1,3,33,0,33,2910.0
+1000,[FEATURE] Add isWeekend code snippets,224,True,True,2019-07-19T16:20:31Z,2019-07-19T16:20:31Z,1,2,1,3,33,0,33,6555.0
+1001,[FEATURE] Add isInteger code snippets,224,True,False,,2019-07-19T16:58:21Z,1,3,5,3,40,0,40,0
+1003,Update isWeekday.md,265,True,True,2019-07-20T09:35:44Z,2019-07-20T09:35:44Z,1,2,1,1,2,2,4,38897.0
+1002,Simplify the comparison for a weekend,399,True,True,2019-07-20T09:43:07Z,2019-07-20T09:43:07Z,1,2,1,1,2,2,4,39519.0
+1006,fix findLastIndex: return default index when not found,589,True,True,2019-08-11T17:24:34Z,2019-08-11T17:24:34Z,2,3,1,3,10,5,15,32343.0
+1007,Use 30-seconds-starter template,1329,True,True,2019-08-19T15:13:36Z,2019-08-19T15:13:36Z,1,3,6,636,33499,25617,59116,531421.0
+1011,Build(deps): Bump eslint-utils from 1.4.0 to 1.4.2,1901,True,True,2019-08-26T18:11:12Z,2019-08-26T18:11:12Z,0,1,1,1,3,3,6,1177.0
+1012,[FIX] Update the link of 30 Seconds of CSS,550,True,True,2019-08-27T10:09:32Z,2019-08-27T10:09:32Z,1,2,1,1,1,1,2,401.0
+1013,Update homepage to act as a hub for projects,143,True,True,2019-08-29T11:43:40Z,2019-08-29T11:43:40Z,1,2,1,2,47,8,55,4178.0
+1015,[ENHANCEMENT] Make the example for unary clearer,685,True,True,2019-09-03T05:28:20Z,2019-09-03T05:28:20Z,1,2,1,2,3,3,6,2218.0
+1017,[FIX]Minor spelling - accesible to accessible,287,True,True,2019-09-12T18:17:34Z,2019-09-12T18:17:34Z,1,2,1,1,1,1,2,1098.0
+991,fix(snippet): Simplify formToObject using new methods.,1040,True,False,,2019-09-18T20:31:34Z,1,4,7,2,3,18,21,0
+1020,Checking whether a number is Odd.,61,True,True,2019-09-28T10:15:21Z,2019-09-28T10:15:21Z,2,2,1,7,39,3,42,232357.0
+1010,Issues deep clone,50,True,True,2019-09-28T10:36:34Z,2019-09-28T10:36:34Z,1,2,3,7,46,36,82,3245917.0
+1023,For doing AND operations,0,True,False,,2019-10-02T07:22:54Z,1,2,3,1,19,0,19,0
+1026,[ENHANCEMENT] Remove redundant condition from equals snippet,863,True,True,2019-10-09T18:08:03Z,2019-10-09T18:08:03Z,2,3,1,1,1,2,3,3356.0
+12,Add reverseString,0,True,True,2017-12-12T09:25:35Z,2017-12-12T09:25:35Z,1,2,2,1,9,1,10,8747.0
+1031,[FIX] Link to 30 seconds of knowledge wasn't working on website,876,True,True,2019-10-15T12:15:46Z,2019-10-15T12:15:46Z,1,2,1,1,1,1,2,1442.0
+1019,Create custom 'Snippet' schema in GraphQL,920,True,True,2019-09-21T06:13:59Z,2019-09-21T06:14:00Z,0,1,1,9,322,280,602,47610.0
+1030,[FEATURE] Add new objectToQueryString utility snippet and it's unit tests,686,True,True,2019-10-16T06:36:36Z,2019-10-16T06:36:36Z,2,3,1,2,55,0,55,382224.0
+1035,[FIX] Update hasKey snippet to handle failing scenario and add new tests,1569,True,True,2019-10-18T06:32:15Z,2019-10-18T06:32:15Z,2,2,1,2,38,24,62,44624.0
+1034,Optimize code and make more concise,592,True,False,,2019-10-18T06:36:44Z,2,2,1,1,2,6,8,0
+1033,Create flatMap.md,537,True,False,,2019-12-11T18:17:05Z,3,3,4,1,19,0,19,0
+1055,[ENHANCEMENT] Updates `head` and `last` to type check,604,True,True,2019-12-11T07:53:20Z,2019-12-11T07:53:20Z,2,2,1,4,28,34,62,155845.0
+1049,[FIX] Patch assignment error & remove whitespace,613,True,True,2019-12-09T10:52:55Z,2019-12-09T10:52:55Z,1,2,0,1,2,34,36,584684.0
+1047,"Add ""getType"" test case",641,True,True,2019-12-09T10:43:36Z,2019-12-09T10:43:36Z,1,2,0,1,4,0,4,1503133.0
+1052,Update snippet list -> isString. Simplified the language context,507,True,False,,2019-12-08T01:57:34Z,0,1,0,1,2,2,4,0
+1048,Fix a mistype in ary,26,True,True,2019-11-30T08:30:15Z,2019-11-30T08:30:15Z,2,3,0,1,1,1,2,35747.0
+1045,"Shorten the ""getType"" code",534,True,False,,2019-11-21T10:45:46Z,1,2,0,2,2,4,6,0
+1041,add includesAll,601,True,True,2019-11-05T12:30:06Z,2019-11-05T12:30:06Z,1,2,0,2,31,0,31,60571.0
+1040,add includesAny,609,True,True,2019-11-04T07:15:00Z,2019-11-04T07:15:00Z,1,2,2,2,31,0,31,32830.0
+1024,[ENHANCEMENT] Add an explanation for solution of powerset,690,True,False,,2019-10-31T07:32:14Z,1,2,0,1,4,0,4,0
+1037,fix(pick of Object):add a judgment ,76,True,False,,2019-10-24T10:46:18Z,1,2,1,1,1,1,2,0
+1036,Enhancement: Check if the value is undefined,550,True,False,,2019-10-20T09:47:03Z,1,2,0,1,3,3,6,0
+1029,Pull request Practice,507,True,False,,2019-10-11T06:55:31Z,1,2,0,1,1,1,2,0
+1028,10-10,507,True,False,,2019-10-11T06:54:51Z,1,2,0,1,1,1,2,0
+1027,my open source contribution,535,True,False,,2019-10-10T07:57:47Z,0,2,0,1,5,5,10,0
+1022,Python Program to Add Two Numbers,154,True,False,,2019-10-02T06:36:57Z,0,5,0,19,253,130,383,0
+1021,Texty,507,True,False,,2019-10-01T12:13:06Z,0,2,0,1,1,1,2,0
+1016,git 样式的书写,507,True,False,,2019-09-06T04:40:54Z,1,2,0,1,9,0,9,0
+893,[FEATURE] Add compactWhitespace snippet,650,True,True,2018-12-17T09:39:29Z,2018-12-17T09:39:29Z,0,4,3,4,1905,1511,3416,404802.0
+326,"Revert ""Fixing typos""",12,True,True,2017-12-22T22:36:29Z,2017-12-22T22:36:29Z,0,1,0,30,35,35,70,15.0
+325,Fixing typos,65,True,True,2017-12-22T22:30:11Z,2017-12-22T22:30:11Z,1,2,1,30,35,35,70,3878.0
+323,[ENHANCEMENT] License Badge,731,True,True,2017-12-22T19:34:56Z,2017-12-22T19:34:56Z,1,2,0,1,1,1,2,154.0
+322,[FEATURE] Front end checklist,770,True,True,2017-12-22T19:21:23Z,2017-12-22T19:21:23Z,1,2,2,1,4,0,4,217.0
+321,[FEATURE] Add toSnakeCase,801,True,True,2017-12-23T22:01:46Z,2017-12-23T22:01:47Z,0,4,14,2,15,0,15,107204.0
+318,Resolves #192,719,True,False,,2017-12-22T13:04:41Z,0,2,1,1,1,1,2,0
+316,add snippet fibsTillNum,927,True,False,,2017-12-22T10:57:58Z,0,1,0,2,11,1,12,0
+314,[BUG] Add missing line of code to elementIsVisibleInViewport,954,True,True,2017-12-22T14:31:00Z,2017-12-22T14:31:00Z,4,4,3,3,2,2,4,18187.0
+313,Update travis push,979,True,True,2017-12-22T13:39:49Z,2017-12-22T13:39:49Z,2,3,0,1,2,2,4,17105.0
+310,Update fibonacci.md,863,True,True,2017-12-22T08:26:29Z,2017-12-22T08:26:29Z,1,2,0,1,1,1,2,9484.0
+309,[FEATURE] add call snippet,765,True,True,2017-12-22T19:54:31Z,2017-12-22T19:54:31Z,1,4,3,2,15,0,15,59472.0
+308,[FEATURE] add collectInto snippet,871,True,True,2017-12-22T18:19:30Z,2017-12-22T18:19:30Z,1,3,3,2,17,0,17,54543.0
+307,[FEATURE] add spreadOver snippet,796,True,True,2017-12-22T13:56:23Z,2017-12-22T13:56:23Z,2,3,0,2,15,0,15,39578.0
+306,[ENHANCEMENT] Move Promisify to the Adapter category,842,True,True,2017-12-22T15:55:41Z,2017-12-22T15:55:41Z,1,2,0,1,1,1,2,50190.0
+305,[Feature] Add flip adapter,141,True,True,2017-12-22T14:09:31Z,2017-12-22T14:09:31Z,2,4,3,2,19,0,19,48343.0
+303,[ENHANCEMENT] Removed unique occurrence of wrapping a single argument function with parenthesis,964,True,True,2017-12-21T19:06:35Z,2017-12-21T19:06:35Z,1,3,1,2,2,2,4,241.0
+302,fix typo,77,True,True,2017-12-21T18:34:06Z,2017-12-21T18:34:06Z,1,2,0,1,1,1,2,177.0
+301,"[FIX: #299] Make everyNth return the ""Nth"" value.",77,True,True,2017-12-21T21:04:56Z,2017-12-21T21:04:56Z,2,3,1,1,2,2,4,9498.0
+300,[FIX: #294] Remove validateEmail entirely (#294).,261,True,True,2017-12-21T21:06:02Z,2017-12-21T21:06:02Z,0,2,1,1,0,12,12,9623.0
+296,Update CONTRIBUTING.md,182,True,True,2017-12-21T16:10:17Z,2017-12-21T16:10:17Z,2,2,0,1,1,0,1,490.0
+291,Add numberWithCommas,30,True,False,,2017-12-21T13:52:00Z,0,1,0,0,0,0,0,0
+290,Rename stringToArrayOfWords -> words,1065,True,True,2017-12-21T13:19:36Z,2017-12-21T13:19:36Z,1,2,2,4,29,29,58,963.0
+289,Update fib Array() -> Array.from(),718,True,True,2017-12-21T12:33:10Z,2017-12-21T12:33:10Z,1,2,0,2,2,2,4,160.0
+288,Update init2d array,864,True,True,2017-12-21T12:19:18Z,2017-12-21T12:19:19Z,1,2,3,2,4,4,8,128.0
+286,Snippet to perform HTTPS redirect,722,True,True,2017-12-21T12:26:36Z,2017-12-21T12:26:36Z,3,3,2,1,11,0,11,21091.0
+285,Update CONTRIBUTING.md -> fix npm run typo,807,True,True,2017-12-21T09:15:41Z,2017-12-21T09:15:41Z,1,2,0,1,1,1,2,11367.0
+284,toThousands,14,True,False,,2017-12-21T11:28:28Z,3,3,4,2,20,0,20,0
+283,[UPDATE] pull.md -> fix hacky approach ,1544,True,True,2017-12-21T09:17:06Z,2017-12-21T09:17:06Z,1,2,1,2,8,4,12,19337.0
+281,Updating PULL_REQUEST_TEMPLATE.md -> Lodash Backlog,1069,True,True,2017-12-21T08:41:49Z,2017-12-21T08:41:49Z,1,2,1,1,9,0,9,49123.0
+280,snippet to implement toString,722,True,False,,2017-12-21T10:32:22Z,2,4,13,1,13,0,13,0
+279,Snippet to implement clamping,722,True,True,2017-12-21T09:08:53Z,2017-12-21T09:08:53Z,3,4,4,1,17,0,17,56907.0
+278,Snippet to implement inRange,722,True,True,2017-12-21T09:06:16Z,2017-12-21T09:06:16Z,3,3,2,1,17,0,17,59444.0
+277,[FEATURE] html-minify,896,True,True,2017-12-21T10:12:22Z,2017-12-21T10:12:22Z,0,2,1,3,130,1,131,74624.0
+276,fixed an issue with default parameters,730,True,True,2017-12-20T14:10:13Z,2017-12-20T14:10:13Z,1,2,0,1,1,1,2,3923.0
+274,Add a snippet gcdOfArray,759,True,True,2017-12-20T14:16:08Z,2017-12-20T14:16:08Z,2,3,0,1,14,0,14,4398.0
+273,[FEATURE] add Ribon,873,True,True,2017-12-20T11:01:14Z,2017-12-20T11:01:14Z,1,2,0,3,11,9,20,61.0
+271,Update truthCheckCollection.md,508,True,True,2017-12-20T09:14:41Z,2017-12-20T09:14:41Z,1,2,0,1,1,1,2,5589.0
+270,[Enhancement] Update PR template,708,True,True,2017-12-20T09:14:12Z,2017-12-20T09:14:12Z,1,2,0,1,8,1,9,6975.0
+266,Add Snippet initialize2DArray,546,True,True,2017-12-20T09:13:27Z,2017-12-20T09:13:27Z,4,5,0,1,10,0,10,40937.0
+260,Update `hexToRGB()` with additional supports and fixes,9,True,True,2017-12-19T14:43:02Z,2017-12-19T14:43:02Z,1,2,1,1,17,10,27,1837.0
+259,improved 30 s,508,True,False,,2017-12-19T13:47:43Z,0,1,1,1,1,1,2,0
+258,[UPDATE] pull.md -> merge pull.md & pullAll.md. ,1427,True,True,2017-12-19T14:42:12Z,2017-12-19T14:42:12Z,1,2,1,2,9,20,29,4511.0
+257,[FEATURE] Add select,778,True,True,2017-12-19T11:22:08Z,2017-12-19T11:22:08Z,1,2,0,1,13,0,13,816.0
+256,Pull request template,87,True,True,2017-12-19T10:29:33Z,2017-12-19T10:29:33Z,1,2,0,1,20,0,20,1471.0
+255,fix/update intializeArrayWithRange.md,1672,True,True,2017-12-19T10:16:05Z,2017-12-19T10:16:05Z,1,2,0,1,6,5,11,976.0
+254,Add subtitle to header,78,True,True,2017-12-19T09:56:20Z,2017-12-19T09:56:20Z,0,2,0,2,8,4,12,1222.0
+253,Web patch 2,0,True,False,,2017-12-19T09:18:20Z,0,1,0,4,20,9,29,0
+250,code error,196,True,True,2017-12-19T10:20:11Z,2017-12-19T10:20:11Z,1,2,0,1,1,1,2,12076.0
+249,Purify drop elements,10,True,True,2017-12-19T10:02:38Z,2017-12-19T10:02:38Z,1,2,0,2,4,4,8,11247.0
+248,Add pullAtValue,1101,True,True,2017-12-19T14:40:15Z,2017-12-19T14:40:15Z,1,2,2,2,25,0,25,30520.0
+246,Make median.md pure,34,True,True,2017-12-19T10:18:30Z,2017-12-19T10:18:30Z,2,3,0,1,1,1,2,37207.0
+245,Add pullAtIndex,1380,True,True,2017-12-19T11:25:50Z,2017-12-19T11:25:50Z,1,2,0,2,25,0,25,45060.0
+244,add pullAll,734,True,True,2017-12-19T11:00:04Z,2017-12-19T11:00:04Z,1,4,10,2,17,0,17,52118.0
+242,Add countVowels,30,True,True,2017-12-19T10:34:32Z,2017-12-19T10:34:32Z,2,3,0,5,39,2,41,55481.0
+241,Array - Drop right,47,True,True,2017-12-19T10:07:18Z,2017-12-19T10:07:18Z,1,3,2,1,12,0,12,57062.0
+240,Create difference-with.md,52,True,True,2017-12-19T10:32:44Z,2017-12-19T10:32:44Z,1,2,0,1,10,0,10,59449.0
+239,"Add ""back to top"" in footer",76,True,True,2017-12-19T09:55:50Z,2017-12-19T09:55:50Z,0,2,0,3,12,5,17,60077.0
+238,Add references to #pull/#without,123,True,True,2017-12-19T10:30:43Z,2017-12-19T10:30:43Z,1,2,0,2,4,0,4,72865.0
+237,Fix `nthElement'-example.,155,True,True,2017-12-18T13:50:25Z,2017-12-18T13:50:25Z,1,2,0,1,2,2,4,259.0
+234,Rename current-URL.md to currentURL.md,23,True,True,2017-12-18T10:09:10Z,2017-12-18T10:09:10Z,0,2,1,1,0,0,0,3841.0
+232,Fix typos in descriptions,0,True,True,2017-12-18T10:04:27Z,2017-12-18T10:04:27Z,1,3,1,8,8,8,16,36690.0
+230,"hexToRgb: Fix returning wrong value for short hash without # symbol, fix extendHex called 3 times",48,True,True,2017-12-18T10:38:51Z,2017-12-18T10:38:51Z,2,3,0,1,4,5,9,39514.0
+229,Fix all test cases,235,True,True,2017-12-17T21:44:56Z,2017-12-17T21:44:56Z,1,2,3,22,69,68,137,916.0
+227,Add logo hyperlink to repo,37,True,True,2017-12-17T19:25:51Z,2017-12-17T19:25:51Z,1,2,2,2,5,6,11,3784.0
+225,Fix hexToRGB() issue with 3-digit colorcodes,10,True,True,2017-12-17T17:57:42Z,2017-12-17T17:57:42Z,1,3,5,1,9,5,14,1345.0
+224,Fix extendHex.md wrong functionality,74,True,True,2017-12-17T17:56:28Z,2017-12-17T17:56:28Z,1,2,0,1,1,1,2,2147.0
+222,Typo in Readme.md,57,True,True,2017-12-17T17:56:47Z,2017-12-17T17:56:47Z,0,2,0,1,1,1,2,2391.0
+221,Renaming,14,True,True,2017-12-17T15:56:43Z,2017-12-17T15:56:43Z,0,2,0,109,1153,750,1903,8.0
+220,Array Sum,47,True,False,,2017-12-17T15:58:09Z,0,2,1,1,8,0,8,0
+218,Fix naming,529,True,True,2017-12-17T14:55:47Z,2017-12-17T14:55:47Z,0,2,1,73,18,18,36,397.0
+215,Issue template,125,True,True,2017-12-18T11:26:29Z,2017-12-18T11:26:29Z,0,2,3,1,25,0,25,77293.0
+213,Fix Array pull (mutates array) to pull out values correctly,339,True,True,2017-12-17T13:23:28Z,2017-12-17T13:23:29Z,1,2,0,2,2,2,4,1183.0
+212,Create CODE_OF_CONDUCT.md,0,True,True,2017-12-17T11:16:41Z,2017-12-17T11:16:41Z,0,1,0,1,46,0,46,5.0
+211,Updated ReadMe.md,114,True,True,2017-12-17T11:11:45Z,2017-12-17T11:11:45Z,1,2,3,1,1,1,2,328.0
+210,Changing _ to () :),0,True,True,2017-12-17T11:01:12Z,2017-12-17T11:01:12Z,1,2,0,5,6,5,11,218.0
+209,Refactor union to not use Set and accept any number of arguments,140,True,False,,2017-12-18T10:18:16Z,1,3,3,1,13,3,16,0
+207,Use Boolean for compact,66,True,True,2017-12-17T10:10:42Z,2017-12-17T10:10:42Z,1,2,0,1,1,1,2,598.0
+205,coalesce snippet,61,True,True,2017-12-18T10:16:27Z,2017-12-18T10:16:27Z,2,2,2,2,21,0,21,93917.0
+204,Update Hexcode to RGB function with bitwise version,655,True,True,2017-12-17T10:09:07Z,2017-12-17T10:09:08Z,1,2,9,1,6,3,9,13669.0
+201,there is no need to make another array to return the last element. th…,78,True,True,2017-12-17T09:39:16Z,2017-12-17T09:39:16Z,1,2,0,1,2,2,4,39139.0
+200,Update palindrome,101,True,False,,2017-12-19T10:22:35Z,1,4,6,1,3,3,6,0
+199,Update Number to array of digits to use spread operators in ES6,0,True,True,2017-12-17T09:30:26Z,2017-12-17T09:30:26Z,1,2,0,2,3,2,5,41556.0
+198,Update 3 digit to 6 digit hexcode function,89,True,True,2017-12-17T09:28:18Z,2017-12-17T09:28:19Z,1,2,0,2,4,4,8,42463.0
+197,Create least-common-multiple-(LCM).md,89,True,True,2017-12-17T09:27:02Z,2017-12-17T09:27:02Z,2,3,0,1,12,0,12,48510.0
+194,Update convert-string-to-camelcase.md,32,True,True,2017-12-16T19:17:09Z,2017-12-16T19:17:09Z,1,2,0,1,4,4,8,402.0
+193,Update convert-string-from-camelcase.md,32,True,True,2017-12-16T19:17:17Z,2017-12-16T19:17:17Z,1,2,0,1,3,3,6,431.0
+190,add camelize and decamelize function,57,True,True,2017-12-16T15:16:17Z,2017-12-16T15:16:17Z,1,2,0,3,27,0,27,5124.0
+186,John Wolfe - edited filter-out-non-unique-values-in-an-array to be mo…,174,True,False,,2017-12-16T12:16:41Z,0,2,1,1,1,1,2,0
+184,Add jsonToDate,362,True,True,2017-12-16T12:31:24Z,2017-12-16T12:31:24Z,0,2,0,1,10,11,21,4696.0
+183,Rename write-json-to-file.md to write-a-json-to-a-file.md,45,True,True,2017-12-16T11:01:38Z,2017-12-16T11:01:38Z,0,2,0,1,0,0,0,1581.0
+181,updating array conactenation example to use ES6,0,True,True,2017-12-16T11:38:29Z,2017-12-16T11:38:29Z,1,2,0,1,2,2,4,5176.0
+180,updating array-without.md for more terse implementation and resolving…,129,True,True,2017-12-16T11:37:21Z,2017-12-16T11:37:21Z,1,2,0,1,3,3,6,5755.0
+178,"Fix ""Write json to file"" link",19,True,True,2017-12-16T11:01:21Z,2017-12-16T11:01:21Z,0,3,1,1,1,1,2,12886.0
+177,Fix `Write json to file` anchor,0,True,True,2017-12-16T11:01:11Z,2017-12-16T11:01:11Z,0,3,1,1,1,1,2,13095.0
+176,Update array-concatenation.md,0,True,True,2017-12-16T11:28:01Z,2017-12-16T11:28:01Z,2,3,1,1,1,1,2,15942.0
+175,edit Array includes description,321,True,True,2017-12-16T12:33:48Z,2017-12-16T12:33:48Z,0,2,1,1,1,0,1,60108.0
+174,Fix array.concat snippet,20,True,True,2017-12-16T11:06:32Z,2017-12-16T11:06:32Z,1,2,0,1,1,1,2,58775.0
+171,take every nth element of an array,114,True,True,2017-12-16T11:35:32Z,2017-12-16T11:35:32Z,1,2,0,2,9,0,9,63440.0
+170,adding read file to array function,59,True,True,2017-12-16T11:34:31Z,2017-12-16T11:34:31Z,1,2,0,2,20,0,20,66101.0
+169,Update initialize-array-with-range.md,0,True,True,2017-12-16T11:13:03Z,2017-12-16T11:13:03Z,2,3,0,1,1,1,2,66271.0
+167,Improvement in Array difference,81,True,False,,2017-12-15T16:10:01Z,0,1,1,1,1,1,2,0
+166,Added compose such that the rightmost function may have any arity.,321,True,True,2017-12-16T11:51:31Z,2017-12-16T11:51:31Z,1,3,6,3,10,11,21,72578.0
+165,Fix broken link by changing the title,0,True,True,2017-12-16T11:00:32Z,2017-12-16T11:00:32Z,0,2,1,1,1,1,2,69932.0
+162,Create 3DigHexcode-to-6DigHexcode.md,102,True,True,2017-12-16T11:40:59Z,2017-12-16T11:40:59Z,1,2,0,1,11,0,11,79425.0
+161,Fix typos,68,True,True,2017-12-15T12:32:52Z,2017-12-15T12:32:52Z,1,2,1,4,4,4,8,163.0
+158,Updated capitalize function to use more modern approach.,0,True,True,2017-12-15T11:42:17Z,2017-12-15T11:42:17Z,1,2,0,1,4,3,7,668.0
+157,Added snippet for array includes,67,True,True,2017-12-15T11:04:38Z,2017-12-15T11:04:38Z,1,2,0,1,10,0,10,197.0
+154,Update chunk-array.md,34,True,True,2017-12-15T10:41:20Z,2017-12-15T10:41:20Z,1,2,0,1,1,1,2,6757.0
+153,Update README.md,28,True,False,,2017-12-15T10:41:48Z,1,2,1,1,1,1,2,0
+152,Create convert-json-date.md,20,True,True,2017-12-16T12:29:10Z,2017-12-16T12:29:10Z,0,3,6,1,12,0,12,100321.0
+151,Added snippet to sample an array,0,True,True,2017-12-15T10:42:02Z,2017-12-15T10:42:02Z,1,2,0,1,9,0,9,8741.0
+150,Add without,332,True,True,2017-12-15T10:42:13Z,2017-12-15T10:42:13Z,1,2,0,2,13,0,13,10859.0
+149,deep flatten array without reduce,69,True,True,2017-12-15T10:42:23Z,2017-12-15T10:42:23Z,1,2,0,1,2,3,5,13746.0
+148,add lodash remove and fix in array concat,52,True,True,2017-12-15T11:52:39Z,2017-12-15T11:52:39Z,1,2,0,2,15,2,17,19967.0
+143,Create hexadecimal-to-RGB.md,123,True,True,2017-12-15T12:36:49Z,2017-12-15T12:36:49Z,3,4,5,1,8,0,8,45230.0
+142,Array zip,108,True,True,2017-12-15T10:42:50Z,2017-12-15T10:42:50Z,1,2,0,1,17,0,17,42136.0
+141,Rewrote pipe such that the first function may have any arity.,250,True,True,2017-12-15T10:43:06Z,2017-12-15T10:43:07Z,1,4,2,1,10,3,13,42961.0
+138,Use `console.time()` to measure time taken by function,0,True,True,2017-12-14T21:47:21Z,2017-12-14T21:47:21Z,1,2,0,1,6,5,11,153.0
+137,Create shallow-clone-object.md,138,True,True,2017-12-14T21:27:36Z,2017-12-14T21:27:36Z,1,2,0,1,12,0,12,592.0
+136,Create nth-element-of-array.md,41,True,True,2017-12-14T21:26:39Z,2017-12-14T21:26:39Z,0,1,0,1,11,0,11,873.0
+135,round number to n digits,22,True,True,2017-12-14T21:26:56Z,2017-12-14T21:26:56Z,1,2,0,1,9,0,9,1008.0
+130,Fixed is-array snippet,12,True,True,2017-12-14T18:21:07Z,2017-12-14T18:21:07Z,0,1,0,1,1,1,2,9.0
+129,Created a tool to search existing snippets,188,True,False,,2017-12-14T18:21:44Z,0,2,2,2,117,0,117,0
+128,Create Speech_synthesis.md,79,True,True,2017-12-14T18:48:05Z,2017-12-14T18:48:05Z,2,3,7,1,15,0,15,6628.0
+127,Minor grammar fix in Array concatenation snippet & renamed redirect-to-URL.md filename to keep case consistent,0,True,True,2017-12-14T17:04:25Z,2017-12-14T17:04:25Z,1,2,0,3,2,2,4,3117.0
+126,Fixed few grammar mistakes while reading the CONTRIBUTING.MD,17,True,True,2017-12-14T15:57:20Z,2017-12-14T15:57:20Z,1,2,0,1,9,9,18,1687.0
+125,"adding function to clean json objects, deeply.",61,True,True,2017-12-16T12:23:49Z,2017-12-16T12:23:49Z,2,2,1,1,21,0,21,162663.0
+124,minor refactor to curry,0,True,True,2017-12-14T18:12:47Z,2017-12-14T18:12:47Z,1,2,2,1,4,7,11,10855.0
+123,Clean json objects,67,True,False,,2017-12-14T15:09:18Z,0,1,0,1,20,0,20,0
+122,minor refactor to group by,0,True,True,2017-12-14T14:59:50Z,2017-12-14T14:59:50Z,1,2,0,1,2,4,6,158.0
+119,Create flatten-array-up-to-depth.md,50,True,True,2017-12-14T15:00:03Z,2017-12-14T15:00:03Z,0,1,0,1,13,0,13,2955.0
+118,Create fill-array.md,42,True,True,2017-12-14T15:00:13Z,2017-12-14T15:00:13Z,0,1,0,1,10,0,10,4687.0
+117,Create sqaure_it.md,106,True,True,2017-12-18T10:12:14Z,2017-12-18T10:12:14Z,1,4,15,1,14,0,14,334290.0
+116,Added snippet to remove duplicate elements from an array,0,True,False,,2017-12-14T14:15:15Z,0,3,6,1,13,0,13,0
+115,collatz algorithm -- changed in 'js',46,True,True,2017-12-14T12:52:10Z,2017-12-14T12:52:10Z,1,2,0,1,9,0,9,112.0
+114,Adding get-days-difference-between-dates,59,True,True,2017-12-14T18:25:17Z,2017-12-14T18:25:17Z,1,2,0,1,8,0,8,20760.0
+112,Fixed typo,25,True,True,2017-12-14T11:45:48Z,2017-12-14T11:45:49Z,1,2,0,1,1,1,2,115.0
+110,Create element-is-visible-in-viewport.md,83,True,True,2017-12-14T11:02:57Z,2017-12-14T11:02:57Z,1,2,2,1,19,0,19,1493.0
+109,Adding a new Snippet,0,True,False,,2017-12-14T12:08:40Z,0,2,3,7,52,1,53,0
+107,array concat functionality added,51,True,True,2017-12-14T10:18:06Z,2017-12-14T10:18:06Z,1,2,0,1,8,0,8,351.0
+105,update last-of-list & ran npm run build-list,47,True,True,2017-12-14T08:52:40Z,2017-12-14T08:52:41Z,1,2,0,2,3,3,6,144.0
+104,ran npm run build-list & update intial-of-list description,50,True,True,2017-12-14T08:47:19Z,2017-12-14T08:47:19Z,1,2,0,2,3,3,6,67.0
+103,update description of head & ran npm run build-list,34,True,True,2017-12-14T08:27:29Z,2017-12-14T08:27:29Z,1,2,0,2,3,3,6,106.0
+102,Create validate-email.md,0,True,True,2017-12-14T09:23:30Z,2017-12-14T09:23:30Z,0,2,1,1,11,0,11,5140.0
+99,validateEmail,85,True,False,,2017-12-14T07:58:06Z,1,2,0,1,11,0,11,0
+98,add compact.md & ran npm run build-list,262,True,True,2017-12-14T08:06:23Z,2017-12-14T08:06:23Z,1,3,4,2,18,1,19,6178.0
+97,the chunk Array:  use Array.from instead of Array.apply,37,True,True,2017-12-14T08:58:54Z,2017-12-14T08:58:54Z,0,2,1,1,4,4,8,10115.0
+96,Update URL Paramters snipper,35,True,True,2017-12-14T08:25:29Z,2017-12-14T08:25:29Z,1,2,1,1,1,1,2,11035.0
+93,Fix names and links,125,True,True,2017-12-14T08:32:41Z,2017-12-14T08:32:41Z,1,2,0,3,5,5,10,29998.0
+92,refactor count-occurrences | easier & simpler,58,True,False,,2017-12-13T23:31:52Z,0,2,2,2,5,5,10,0
+91,Refactor palindrome,20,True,True,2017-12-13T23:50:18Z,2017-12-13T23:50:18Z,1,2,0,2,8,4,12,2990.0
+90,Add set operations,167,True,True,2017-12-13T23:48:01Z,2017-12-13T23:48:01Z,1,2,0,5,54,18,72,3923.0
+89,"Add ""Object to key-value pairs""",0,True,True,2017-12-13T23:44:46Z,2017-12-13T23:44:46Z,1,2,0,2,14,0,14,5834.0
+88,Remove duplicate shuffle array snippets. Simplify implementation,0,True,True,2017-12-14T09:13:52Z,2017-12-14T09:13:52Z,1,2,6,0,0,0,0,40618.0
+87,add pick code snippet,65,True,True,2017-12-13T23:32:58Z,2017-12-13T23:32:58Z,1,3,4,2,29,0,29,5962.0
+86,Add 'sleep' function,56,True,False,,2017-12-13T23:59:42Z,0,3,5,2,26,0,26,0
+84,add sleep function - making delays in async functions,104,True,True,2017-12-14T08:34:47Z,2017-12-14T08:34:47Z,1,2,0,1,12,0,12,42672.0
+83,Added snippet for square root,61,True,False,,2017-12-13T21:11:02Z,0,2,2,1,12,0,12,0
+80,Simplify the Even or odd number snippet,109,True,True,2017-12-14T08:23:14Z,2017-12-14T08:23:14Z,1,2,1,2,6,6,12,46952.0
+79,Testing With Tape & Making Snippets Modular,854,True,False,,2017-12-14T09:57:09Z,0,2,3,5,1211,2,1213,0
+77, Create URL-parameters-2.md,178,True,False,,2017-12-13T18:00:58Z,0,2,1,1,20,0,20,0
+73,Create diff_two_arrays.md,0,True,False,,2017-12-13T23:36:00Z,0,2,2,1,19,0,19,0
+71,Get Ordinal Suffix of Number,245,True,True,2017-12-14T08:15:55Z,2017-12-14T08:15:55Z,2,3,1,1,15,0,15,65480.0
+70,Correct array method names ,57,True,True,2017-12-13T12:49:17Z,2017-12-13T12:49:18Z,1,2,0,10,10,10,20,932.0
+69,hamming distance between two numbers,0,True,True,2017-12-13T12:24:18Z,2017-12-13T12:24:18Z,1,2,0,1,9,0,9,266.0
+68,Create standard-deviation.md,168,True,True,2017-12-14T09:29:31Z,2017-12-14T09:29:31Z,1,2,10,1,17,0,17,77267.0
+67,Dashes not underscores,0,True,True,2017-12-13T11:56:22Z,2017-12-13T11:56:22Z,1,2,0,2,1,1,2,246.0
+66,Create truncate_a_string.md,0,True,True,2017-12-13T11:47:56Z,2017-12-13T11:47:56Z,0,2,2,1,10,0,10,3129.0
+65,Create percentile.md,116,True,True,2017-12-13T11:28:09Z,2017-12-13T11:28:09Z,1,2,6,1,10,0,10,2145.0
+63,Fix filename typo,0,True,True,2017-12-13T10:14:19Z,2017-12-13T10:14:19Z,1,2,0,1,0,0,0,251.0
+61,"Add ""Run promises in series""",46,True,True,2017-12-13T09:59:33Z,2017-12-13T09:59:33Z,1,2,0,2,21,1,22,797.0
+60,Check for array length in tail function to return the correct value f…,32,True,True,2017-12-13T09:39:31Z,2017-12-13T09:39:31Z,1,2,0,2,4,2,6,53.0
+59,use const in snippet template,0,True,True,2017-12-13T09:38:43Z,2017-12-13T09:38:43Z,1,2,0,1,1,1,2,65.0
+56,Fixed a typo in README.md,82,True,True,2017-12-13T09:29:41Z,2017-12-13T09:29:41Z,1,2,1,1,2,3,5,4503.0
+55,Add value or default,79,True,True,2017-12-13T09:36:29Z,2017-12-13T09:36:29Z,1,2,0,1,8,0,8,7144.0
+54,Add bottomVisible,81,True,True,2017-12-13T12:14:47Z,2017-12-13T12:14:47Z,1,2,0,2,27,0,27,23156.0
+53,Create median-of-array-of-numbers.md,0,True,True,2017-12-13T09:46:56Z,2017-12-13T09:46:56Z,1,2,6,1,17,0,17,38574.0
+52,Create random-integer-in-range.md,0,True,True,2017-12-12T22:48:49Z,2017-12-12T22:48:49Z,1,2,0,1,9,0,9,62.0
+49,Fix deep flatten array implementation,0,True,True,2017-12-12T22:09:48Z,2017-12-12T22:09:48Z,1,2,0,1,1,1,2,73.0
+48,fixing minor type bug in flatten function,39,True,True,2017-12-12T21:41:46Z,2017-12-12T21:41:46Z,1,2,0,1,1,1,2,799.0
+47,"Make ""Anagrams of string"" fully functional",207,True,True,2017-12-13T10:37:50Z,2017-12-13T10:37:50Z,1,2,1,2,3,6,9,50747.0
+45,Added getType function,70,True,True,2017-12-13T09:31:51Z,2017-12-13T09:31:51Z,1,4,5,1,9,0,9,50180.0
+44,Refactor measure-time-taken-by-function from spread syntax to callback function,394,True,True,2017-12-13T11:54:38Z,2017-12-13T11:54:38Z,1,3,2,1,3,3,6,62978.0
+43,get max value from array,49,True,True,2017-12-12T18:57:55Z,2017-12-12T18:57:55Z,0,2,0,1,8,0,8,2780.0
+40,minor refactor to the fibonacci array generator,195,True,True,2017-12-12T17:21:11Z,2017-12-12T17:21:11Z,1,2,1,1,3,7,10,2117.0
+39,fix typo,0,True,True,2017-12-12T17:07:05Z,2017-12-12T17:07:05Z,1,2,0,1,1,1,2,1328.0
+36,Added Pipe snippet,25,True,True,2017-12-12T16:16:00Z,2017-12-12T16:16:00Z,1,2,0,2,18,0,18,564.0
+35,refactor(anagrams): improve code legibility,211,True,True,2017-12-12T16:01:34Z,2017-12-12T16:01:34Z,2,3,4,2,10,11,21,139.0
+34,Avoid creating global vars for `f` and `v`.,0,True,False,,2017-12-13T12:07:51Z,0,3,6,1,1,1,2,0
+33,docs: use filter replace reduce,64,True,False,,2017-12-12T14:19:17Z,0,3,2,2,5,4,9,0
+32,Fix link in CONTRIBUTING.md,86,True,True,2017-12-12T13:51:04Z,2017-12-12T13:51:04Z,1,2,0,1,1,1,2,175.0
+30,Change all snippets from var to const,129,True,True,2017-12-12T12:18:49Z,2017-12-12T12:18:49Z,0,2,1,33,35,35,70,333.0
+29,Add getScrollPos of HTMLElement / window,154,True,True,2017-12-12T12:02:18Z,2017-12-12T12:02:18Z,1,2,1,2,29,0,29,403.0
+28,"Correct a typo in ""slice"".",0,True,True,2017-12-12T11:01:19Z,2017-12-12T11:01:19Z,1,2,1,2,2,2,4,56.0
+27,add a isDivisible function,149,True,True,2017-12-12T14:32:36Z,2017-12-12T14:32:36Z,0,2,0,2,16,0,16,12958.0
+26,using bitwise operator for checking if the number is even or odd,74,True,False,,2017-12-12T16:27:24Z,0,3,2,2,28,6,34,0
+23,Change last-of-list function name,61,True,True,2017-12-12T10:13:30Z,2017-12-12T10:13:30Z,1,2,0,1,1,1,2,224.0
+22,add another way to calculate factorial,149,True,True,2017-12-12T09:53:19Z,2017-12-12T09:53:19Z,1,3,1,1,7,1,8,325.0
+20,Sort snippets with case-insensitivity,300,True,True,2017-12-12T09:33:02Z,2017-12-12T09:33:03Z,1,2,2,1,13,1,14,149.0
+19,Count occurrences of value in array with reduce,63,True,True,2017-12-12T10:11:23Z,2017-12-12T10:11:23Z,1,2,0,1,6,0,6,2650.0
+18,Fix typos,0,True,True,2017-12-12T09:11:36Z,2017-12-12T09:11:36Z,1,2,0,1,2,2,4,468.0
+17,Fix syntax error,0,True,True,2017-12-12T08:47:50Z,2017-12-12T08:47:50Z,1,2,0,2,2,2,4,126.0
+14,Created confirm ending of the string and reverse string,50,True,False,,2017-12-12T10:24:48Z,0,2,1,2,18,0,18,0
+11,Fixes a typo,0,True,True,2017-12-12T09:13:49Z,2017-12-12T09:13:49Z,1,2,0,1,1,1,2,8985.0
+10,Capitalize first letter: safe against empty string,39,True,True,2017-12-12T09:16:01Z,2017-12-12T09:16:01Z,1,2,0,1,1,1,2,24375.0
+9,Update RGB to hexadecimal to new bitwise version,96,True,True,2017-12-12T18:52:34Z,2017-12-12T18:52:34Z,2,4,7,1,16,4,20,61045.0
+8,Replace the usage of ìndexOf` for `includes`,0,True,True,2017-12-12T09:08:33Z,2017-12-12T09:08:33Z,1,2,0,1,5,4,9,27260.0
+7,Update unique-values-of-array.md,0,True,True,2017-12-12T08:56:25Z,2017-12-12T08:56:25Z,1,2,2,1,14,8,22,29308.0
+6,"Fix ""occurrence"" typos",0,True,True,2017-12-11T22:34:55Z,2017-12-11T22:34:55Z,0,2,0,2,5,5,10,134.0
+5,simple ES6 unique array  values,0,True,False,,2017-12-12T00:29:50Z,1,3,1,1,2,8,10,0
+4,Remove stray open curly brace,81,True,True,2017-12-11T19:42:09Z,2017-12-11T19:42:09Z,1,2,0,1,1,1,2,63.0
+3,Update and rename count-occurences-of-a-value-in-array.md to count-oc…,33,True,True,2017-12-11T22:35:49Z,2017-12-11T22:35:49Z,0,2,0,1,2,2,4,11064.0
+2,Update README.md,0,True,False,,2017-12-11T21:05:10Z,0,2,1,1,2,2,4,0
+603,Update tomorrow,726,True,True,2018-02-26T10:17:10Z,2018-02-26T10:17:10Z,2,4,17,2,6,4,10,1359042.0
+472,Create pluralize.md,703,True,True,2018-01-03T12:29:31Z,2018-01-03T12:29:32Z,1,2,2,1,19,0,19,4295.0
+383,Tdd.updated,927,True,True,2017-12-29T09:48:31Z,2017-12-29T09:48:31Z,1,2,2,4,920,1,921,5098.0

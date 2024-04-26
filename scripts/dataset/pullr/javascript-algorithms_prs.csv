@@ -1,0 +1,511 @@
+Number,Title,Body,Closed,Merged,MergedAt,ClosedAt,ReviewComments,Participants,Comments,Files,Additions,Deletions,Modifications,TimeToMergeOrClose
+901,Contributing to translations to Portuguese,94,True,False,,2024-04-09T12:41:20Z,1,2,0,1,2,2,4,0
+473,Update jest.config.js,130,True,False,,2024-04-04T09:36:01Z,0,1,0,1,1,0,1,0
+1122,wqkksw,0,True,False,,2024-04-01T01:37:43Z,0,1,0,2,2,2,4,0
+1100,Update factorial.js,65,True,False,,2024-03-24T09:01:23Z,1,2,1,1,4,0,4,0
+1101,Update DoublyLinkedList.js,57,True,False,,2024-03-24T09:01:23Z,0,1,0,1,0,1,1,0
+420,Update linearSearch with a more functional approach using reduce,77,True,False,,2024-03-11T13:25:55Z,0,1,1,1,5,7,12,0
+1118,Create tty,0,True,False,,2024-03-12T03:09:23Z,0,1,2,1,1,0,1,0
+1116,Update README.ar-AR.md,8,True,False,,2024-03-09T15:57:23Z,0,2,0,1,1,1,2,0
+1104,replaceChild method fixed,25,True,False,,2024-03-09T15:59:00Z,0,2,1,1,4,2,6,0
+1097,test_11_jan,18,True,False,,2024-03-09T16:00:40Z,1,3,0,1,1,0,1,0
+1093,fix: 3 instead of 7 as per diagram,0,True,True,2024-03-09T16:02:30Z,2024-03-09T16:02:30Z,0,2,0,1,1,1,2,7699075.0
+1088,Vietsub,0,True,True,2024-03-09T16:06:47Z,2024-03-09T16:06:47Z,0,2,1,3,204,0,204,9317321.0
+1086,Add Vietnamese translation for LinkedList,0,True,True,2024-03-09T16:09:21Z,2024-03-09T16:09:21Z,0,2,2,0,0,0,0,9560722.0
+1079,fix binary search typo,22,True,True,2024-03-09T16:11:53Z,2024-03-09T16:11:53Z,0,2,0,1,1,1,2,13553349.0
+1066,Update README.md,16,True,False,,2024-03-09T16:13:28Z,1,3,0,1,0,1,1,0
+1071,feat: added korean translation for trie,33,True,True,2024-03-09T16:13:55Z,2024-03-09T16:13:55Z,0,2,0,2,21,1,22,15998465.0
+1117,"Ad hoc versions of MinHeap, MaxHeap, and DisjointSet",392,True,True,2024-03-09T16:15:19Z,2024-03-09T16:15:19Z,0,1,0,8,552,0,552,1207.0
+1010,Added JavaScript mascot with link to Wikimedia Commons,145,True,False,,2024-02-27T10:41:58Z,0,1,0,1,4,0,4,0
+1113,Update README.de-DE.md,0,True,False,,2024-02-27T17:46:13Z,0,2,1,1,1,1,2,0
+1112,Update .babelrc,0,True,False,,2024-02-27T17:46:30Z,0,2,0,1,1,0,1,0
+1111,Update README.md,5,True,False,,2024-02-27T17:46:41Z,0,2,0,1,1,1,2,0
+1110,Update README.md,5,True,False,,2024-02-27T17:46:57Z,0,2,0,1,1,0,1,0
+1109,Update README.md,5,True,False,,2024-02-27T17:47:10Z,0,2,0,1,1,0,1,0
+1105,Update CI.yml,578,True,False,,2024-02-27T17:47:37Z,0,2,0,1,1,0,1,0
+1108,Improved,0,True,False,,2024-02-26T07:08:26Z,0,1,0,1,1,0,1,0
+128,New changes and functions,0,True,False,,2024-02-26T08:01:16Z,0,2,1,3,85,10,95,0
+983,Add fastPoweringBitwise function,0,True,False,,2024-02-16T20:22:01Z,0,1,0,2,47,0,47,0
+1065,Typo in Binary Search file is corrected ,119,True,False,,2024-01-23T07:05:49Z,8,3,1,1,1,1,2,0
+885,Translated to  Chinese and fixed several mistakes about linked list files,177,True,False,,2024-01-03T04:09:19Z,0,1,0,5,35,39,74,0
+1006,feat: added Ukrainian translation for factorial,62,True,True,2023-03-16T19:40:42Z,2023-03-16T19:40:42Z,0,3,0,3,35,2,37,200996.0
+223,Non Recursive Segment Tree,172,True,False,,2023-11-28T14:32:45Z,0,1,2,6,388,0,388,0
+366,Dev,37,True,False,,2023-11-03T02:44:54Z,0,1,0,3,40,0,40,0
+1078,Session 5,0,True,False,,2023-10-13T05:44:58Z,0,2,1,1,11,0,11,0
+977,chore: renaming rawIndex to desiredIndex,62,True,False,,2023-09-29T15:15:36Z,0,1,0,1,2,2,4,0
+1060,typescript basics,0,True,False,,2023-08-18T16:59:21Z,0,2,1,2,42,0,42,0
+1059,initial commit,0,True,False,,2023-08-18T16:14:47Z,0,1,0,1,1,0,1,0
+1052,modified insert method in linkedlist and .eslintrc,173,True,False,,2023-07-21T15:25:28Z,0,1,0,3,314,22,336,0
+1011,throw-error-for-negative-factorial,174,True,False,,2023-07-16T18:57:46Z,2,2,0,4,12,0,12,0
+1019,Bhoomika H B,33,True,False,,2023-06-05T14:59:56Z,0,1,0,1,0,1,1,0
+1017,Translations added for Urdu.,0,True,False,,2023-05-18T10:07:03Z,0,1,0,18,370,17,387,0
+989,Upgrade packages and Node versions.,0,True,True,2023-01-30T07:19:38Z,2023-01-30T07:19:38Z,0,2,1,7,11859,2368,14227,299.0
+1018,FIX : insert method duplicates value of head in tail,11,True,False,,2023-04-20T12:04:29Z,0,2,1,2,5,4,9,0
+1003,Binary tree invert algs,242,True,False,,2023-04-16T14:42:28Z,0,1,0,2,33,0,33,0
+1029,Fix the repo build for Apple M1 laptops,353,True,True,2023-04-10T16:31:07Z,2023-04-10T16:31:07Z,0,1,0,8,1365,2231,3596,105.0
+1009,Update factorialRecursive.js by checking the factorial of negative numbers at run time,102,True,False,,2023-04-08T05:22:32Z,1,3,5,0,0,0,0,0
+984,updatedreverselistquestion,0,True,False,,2023-02-10T02:32:35Z,0,1,0,1,21,19,40,0
+988,minor changes,14,True,False,,2023-01-30T07:20:24Z,0,3,1,13,12416,2369,14785,0
+976,Bump json5 from 1.0.1 to 1.0.2,3070,True,False,,2023-01-30T07:20:21Z,0,0,1,1,7,10,17,0
+981,Sandhya new2,0,True,False,,2023-01-25T02:37:33Z,0,2,0,3,32,0,32,0
+980,Add an example of the LRU (Least Recently Used) Cache implementation,217,True,True,2023-01-23T17:03:41Z,2023-01-23T17:03:41Z,0,1,0,6,339,0,339,89.0
+943,Brazilian Portuguese translation and typos fixes,0,True,True,2022-10-10T13:23:32Z,2022-10-10T13:23:32Z,0,3,2,34,567,145,712,876503.0
+942,Brazilian Portuguese typo,110,True,False,,2022-09-30T09:21:22Z,0,1,0,14,219,128,347,0
+919,Create a factors.js,78,True,False,,2022-08-30T12:46:24Z,2,2,0,3,36,1,37,0
+882,"Fixed the typo in README.md, line:280, issue#880",0,True,False,,2022-08-31T20:40:38Z,0,1,0,1,1,1,2,0
+934,Test,0,True,False,,2022-09-01T14:41:01Z,0,4,0,17,491,23,514,0
+909,Fix: Added punctuation,95,True,False,,2022-09-10T18:23:56Z,0,1,0,1,91,91,182,0
+691,Feature/add matrix power,103,True,False,,2022-09-13T18:21:29Z,0,1,0,2,92,0,92,0
+914,Fixed bugs in pseudocode for deletion and reverse traversal.,60,True,False,,2022-09-14T16:16:53Z,0,1,0,1,3,3,6,0
+933,Add a link to minimalistic data structure sketches.,167,True,True,2022-08-30T07:26:36Z,2022-08-30T07:26:36Z,0,1,0,1,2,1,3,367.0
+947,Add Georgian translation for 'algorithms: Factorial',136,True,True,2022-10-10T13:02:41Z,2022-10-10T13:02:41Z,0,2,1,2,33,1,34,150815.0
+338,Ktrongnhan fix for 248,139,True,False,,2022-10-07T13:56:29Z,0,1,1,2,33,31,64,0
+932,feat: combSort,0,True,False,,2022-10-18T16:58:17Z,0,1,0,2,48,0,48,0
+896,Add binary search tree README.ko-KR,0,True,False,,2022-11-01T05:02:16Z,0,1,0,2,267,1,268,0
+874,Fixed binary search tree typos,33,True,False,,2022-11-01T05:02:30Z,0,2,2,1,2,2,4,0
+965,"feat: added Ukrainian translations for graph, heap, linked-list, etc.",100,True,True,2022-12-05T06:38:36Z,2022-12-05T06:38:36Z,0,2,0,14,313,14,327,121376.0
+961,README.md commit,3,True,False,,2022-11-23T15:13:26Z,0,1,0,1,0,7,7,0
+951,"Add Georgian translation for ""Fibonacci Number""",53,True,True,2022-11-10T14:00:22Z,2022-11-10T14:00:22Z,0,2,0,4,26,3,29,1188159.0
+899,docs: add pt-br in insertion-sort,38,True,False,,2022-12-31T12:20:11Z,0,1,0,2,23,0,23,0
+975,Adding a simple cascading solution to generate a Power Set,186,True,True,2023-01-06T13:37:37Z,2023-01-06T13:37:37Z,0,1,0,4,115,12,127,102.0
+927,Malay readme,29,True,True,2022-12-05T06:59:34Z,2022-12-05T06:59:34Z,0,3,2,3,367,3,370,8752572.0
+963,Update Permutation and Combination cheatsheets.,0,True,True,2022-11-28T15:43:30Z,2022-11-28T15:43:30Z,0,1,0,10,25,29,54,34.0
+957,"feat: added ukr translations for bloom filter,  Disjoint Set, Linked List",67,True,True,2022-11-10T14:02:30Z,2022-11-10T14:02:30Z,0,2,0,6,217,30,247,237242.0
+953,Update README.md,10,True,True,2022-11-10T14:04:50Z,2022-11-10T14:04:50Z,0,2,0,1,1,1,2,1165948.0
+875,Switch to gender neutral terms,409,True,False,,2022-03-31T15:50:39Z,0,3,2,6,20,20,40,0
+930,Create pages.yml,0,True,False,,2022-10-10T13:23:18Z,1,3,1,1,50,0,50,0
+948,feat: added Ukrainian translations for hash table,58,True,True,2022-10-10T13:05:58Z,2022-10-10T13:05:58Z,0,2,2,2,35,5,40,53599.0
+633,"What about using the spread operator? (set1, set2 leftover)",0,True,False,,2022-10-01T05:34:40Z,0,1,0,1,2,2,4,0
+888,fix typo,0,True,False,,2022-09-08T05:46:42Z,3,4,0,1,1,1,2,0
+936,adding the README.ar-AR.md in linked-list,255,True,False,,2022-09-06T19:57:45Z,0,1,0,5,186,17,203,0
+847,Translate to Vietnamese,23,True,False,,2022-08-13T01:24:43Z,0,1,0,3,198,0,198,0
+878,Bump minimist from 1.2.5 to 1.2.6,2125,True,False,,2022-07-26T18:55:09Z,0,1,1,1,3,3,6,0
+915,"Update images for Linked List, Doubly Linked List, Queue, and Stack.",85,True,True,2022-07-26T18:54:39Z,2022-07-26T18:54:39Z,0,1,0,19,68,38,106,22.0
+908,Fix: Fix Typo on line 280,136,True,False,,2022-07-16T14:16:36Z,0,1,0,1,1,1,2,0
+906,added documentation to explain the search process,0,True,False,,2022-06-30T20:58:57Z,0,1,0,1,9,0,9,0
+843, Add Korean translation for data-structures Hash Table & Heap,60,True,True,2022-01-25T08:32:01Z,2022-01-25T08:32:01Z,0,2,0,2,25,0,25,229474.0
+699,Compacted MergeSort code,0,True,False,,2022-04-16T19:41:32Z,0,1,0,1,9,22,31,0
+876,Update READ.me,49,True,False,,2022-04-02T19:12:28Z,0,1,0,1,77,77,154,0
+877,fix spelling in README.it-IT.md,0,True,False,,2022-04-01T15:34:24Z,0,1,0,1,203,201,404,0
+652,Update Copy Write to 2021,36,True,True,2022-01-27T19:57:34Z,2022-01-27T19:57:34Z,0,2,0,1,1,1,2,29379906.0
+862,"chore(docs): Turned all the ""Italiana"" into ""Italiano"".",766,True,False,,2022-03-05T00:44:42Z,0,1,0,16,2660,2638,5298,0
+707,no need to check for null value in linked list,168,True,False,,2022-02-20T06:43:11Z,0,1,0,1,3,8,11,0
+860,chore(docs): Typo in README,354,True,False,,2022-02-18T18:06:21Z,0,1,1,1,1,1,2,0
+685,Update README.zh-CN.md,0,True,True,2022-01-27T19:40:51Z,2022-01-27T19:40:51Z,0,2,0,1,1,1,2,25380325.0
+684,Chore/Refactoring for loop in PolynomialHash,32,True,False,,2022-01-27T19:42:51Z,0,2,1,7,6020,33,6053,0
+807,Update README.es-ES.md,29,True,False,,2022-01-22T09:39:39Z,0,2,1,1,1,1,2,0
+651,fix small modification in README.ja-JP.md,59,True,True,2022-01-27T19:56:33Z,2022-01-27T19:56:34Z,0,2,0,1,1,1,2,29496270.0
+632,Add merge sort document in Korean,50,True,True,2022-01-27T20:04:41Z,2022-01-27T20:04:41Z,0,2,0,2,37,12,49,31328888.0
+634,"French translation for module ""Graph""",459,True,True,2022-01-27T20:03:48Z,2022-01-27T20:03:49Z,0,2,0,2,24,0,24,31047752.0
+628,Update README.es-ES.md,34,True,True,2022-01-27T20:03:13Z,2022-01-27T20:03:13Z,0,2,0,1,4,4,8,31701334.0
+637,fix error,0,True,True,2022-01-27T20:02:10Z,2022-01-27T20:02:10Z,1,3,0,1,1,1,2,30815704.0
+639,Fix: spacing word,16,True,True,2022-01-27T20:01:42Z,2022-01-27T20:01:42Z,0,2,0,1,1,1,2,30373546.0
+644,Add Korean translation. ,217,True,True,2022-01-27T20:00:45Z,2022-01-27T20:00:45Z,0,2,0,7,75,5,80,29867057.0
+663,Add pt-BR translation to search/linear-search,0,True,True,2022-01-27T19:56:02Z,2022-01-27T19:56:02Z,0,2,0,2,23,0,23,28154876.0
+664,Add pt-BR translation to search/binary-search,0,True,True,2022-01-27T19:55:13Z,2022-01-27T19:55:13Z,0,2,0,2,25,0,25,28148316.0
+665,Add pt-BR translation to sorting/selection-sort,0,True,True,2022-01-27T19:54:41Z,2022-01-27T19:54:41Z,0,2,0,2,23,0,23,28058376.0
+666,Update breadthFirstSearch.js,11,True,True,2022-01-27T19:53:42Z,2022-01-27T19:53:42Z,0,2,0,1,3,3,6,28013153.0
+667,Add Vietnamese translation,0,True,True,2022-01-27T19:52:47Z,2022-01-27T19:52:47Z,0,2,0,16,343,0,343,27463701.0
+670,Adding single quotes type to editorconfig,142,True,True,2022-01-27T19:46:06Z,2022-01-27T19:46:06Z,0,2,0,1,1,0,1,26800581.0
+668,"Typos fixed (lines 81, 130, 166, 248)",0,True,True,2022-01-27T19:44:03Z,2022-01-27T19:44:03Z,0,2,0,1,4,4,8,27197739.0
+708,Use exist method to be consistent with Stack,0,True,True,2022-01-27T19:36:39Z,2022-01-27T19:36:39Z,0,2,0,1,1,1,2,22081197.0
+710,Fixing typos in Linked List README.es-ES.md,0,True,True,2022-01-27T19:33:47Z,2022-01-27T19:33:47Z,0,2,0,1,17,17,34,21481162.0
+712,fix: LinkedList test,0,True,True,2022-01-27T19:31:19Z,2022-01-27T19:31:19Z,0,2,0,1,1,1,2,21290015.0
+723,"Fix a typo in linked list's ""ru"" readme",42,True,True,2022-01-27T08:51:29Z,2022-01-27T08:51:29Z,0,2,0,1,1,1,2,19178458.0
+726,Fix error in Queue definition from README.ru-RU.md,0,True,True,2022-01-27T08:50:47Z,2022-01-27T08:50:47Z,1,3,0,1,2,2,4,19104171.0
+735,Created Quicksort documentation in pt-BR,149,True,True,2022-01-27T08:49:11Z,2022-01-27T08:49:11Z,1,3,0,2,36,1,37,16998600.0
+724,"Typos in a doubly linked list's ""ru"" readme",0,True,True,2022-01-26T19:57:02Z,2022-01-26T19:57:02Z,0,2,0,1,4,4,8,19131567.0
+717,Add type name to Big O table,0,True,True,2022-01-26T19:38:56Z,2022-01-26T19:38:56Z,1,3,0,1,9,9,18,20126172.0
+734,Added line in gitignore,0,True,False,,2022-01-26T19:37:25Z,0,3,2,1,1,0,1,0
+739,Linked list turkish readme,60,True,True,2022-01-26T19:36:54Z,2022-01-26T19:36:54Z,0,2,0,2,160,0,160,16764822.0
+740,Factorial turkish readme,35,True,True,2022-01-26T19:35:45Z,2022-01-26T19:35:45Z,1,3,0,2,39,1,40,16672945.0
+742,[ID] Minor Improvements,248,True,True,2022-01-26T19:35:01Z,2022-01-26T19:35:01Z,0,2,0,1,36,36,72,15994734.0
+774,Add linkedList insert method,0,True,True,2022-01-26T19:29:51Z,2022-01-26T19:29:51Z,0,2,0,2,49,0,49,10750773.0
+746,Added config.yml,146,True,False,,2022-01-25T16:56:05Z,0,2,2,1,9,0,9,0
+752,Add Korean translation,160,True,True,2022-01-25T16:54:01Z,2022-01-25T16:54:01Z,7,4,0,2,22,1,23,14033419.0
+767,Add Korean translation,141,True,True,2022-01-25T16:48:56Z,2022-01-25T16:48:56Z,0,2,0,2,18,7,25,11371305.0
+775,fixed spelling error for hash-table (ru),0,True,True,2022-01-25T09:04:32Z,2022-01-25T09:04:32Z,0,2,0,1,1,1,2,10172547.0
+771,fix typos,0,True,True,2022-01-25T09:03:20Z,2022-01-25T09:03:20Z,0,2,0,1,6,6,12,10985377.0
+768,Correct inaccurate Chinese translation.,33,True,True,2022-01-25T09:02:35Z,2022-01-25T09:02:35Z,0,2,0,1,1,1,2,11320841.0
+773,fix typos,0,True,True,2022-01-25T08:39:11Z,2022-01-25T08:39:11Z,0,2,0,1,5,5,10,10893752.0
+777,"Updating a typo in "" Get bit"" section",128,True,True,2022-01-25T08:37:30Z,2022-01-25T08:37:30Z,0,2,0,1,1,1,2,10026375.0
+780,"Grammar change and ""Block "" to ""Jump""",24,True,True,2022-01-25T08:36:45Z,2022-01-25T08:36:45Z,0,2,0,1,2,2,4,9777462.0
+842,Add Chinise  Translation,0,True,True,2022-01-25T08:34:17Z,2022-01-25T08:34:17Z,0,2,0,2,31,0,31,232460.0
+806,added palindromeCheck,208,True,True,2022-01-23T20:42:43Z,2022-01-23T20:42:43Z,0,2,0,4,57,0,57,4323822.0
+782,dont understand well,0,True,False,,2022-01-23T20:37:03Z,1,3,0,1,1,0,1,0
+785,Update README.pl-PL.md,8,True,True,2022-01-23T20:36:02Z,2022-01-23T20:36:02Z,0,2,0,1,1,1,2,8863637.0
+787,Fixes README.pt-BR.md,40,True,True,2022-01-23T20:34:09Z,2022-01-23T20:34:09Z,1,3,0,1,54,54,108,8752189.0
+789,Update README.tr-TR.md,10,True,True,2022-01-22T09:49:30Z,2022-01-22T09:49:30Z,0,2,0,1,1,1,2,8403818.0
+796,Fixed: Translation Typo Error,197,True,True,2022-01-22T09:48:15Z,2022-01-22T09:48:16Z,0,2,0,1,2,2,4,7261534.0
+797,Add Korean translation for data-structures/stack,142,True,True,2022-01-22T09:44:22Z,2022-01-22T09:44:22Z,0,2,0,2,26,1,27,7111004.0
+804,Update README.zh-CN.md,14,True,True,2022-01-22T09:43:11Z,2022-01-22T09:43:11Z,0,2,0,1,4,4,8,4584611.0
+805,Linked List -- PT-BR,207,True,True,2022-01-22T09:42:36Z,2022-01-22T09:42:36Z,0,2,0,1,4,4,8,4246999.0
+808,Typo in README.id-ID.md,36,True,True,2022-01-22T09:37:23Z,2022-01-22T09:37:23Z,0,2,0,1,2,2,4,4040763.0
+809,issue #631 solved,0,True,True,2022-01-22T09:35:06Z,2022-01-22T09:35:06Z,0,4,2,1,2,2,4,3960109.0
+810,"Update main README.ru-RU, add README.ru-RU for cryptography/caesar-cipher",0,True,True,2022-01-22T09:25:59Z,2022-01-22T09:25:59Z,0,2,0,2,49,0,49,3768385.0
+815,Add Chinese Translation,61,True,True,2022-01-22T09:21:37Z,2022-01-22T09:21:37Z,0,2,0,4,42,0,42,3438929.0
+817,Null Reference Exception,264,True,True,2022-01-22T09:19:14Z,2022-01-22T09:19:14Z,0,2,0,1,2,1,3,2565869.0
+816,Fixed typos in the turkish and added descriptions,118,True,True,2022-01-22T09:13:29Z,2022-01-22T09:13:29Z,0,2,0,1,21,18,39,3261364.0
+820,fixed: fixed error in linked list README.ko-KR,62,True,True,2022-01-22T09:11:41Z,2022-01-22T09:11:41Z,0,2,0,1,1,1,2,2073884.0
+828,Addition of slight grammatical corrections,68,True,True,2022-01-22T09:09:39Z,2022-01-22T09:09:39Z,0,2,0,1,3,3,6,1882696.0
+829,Fix a few typos in Spanish Readme,56,True,True,2022-01-22T09:08:30Z,2022-01-22T09:08:30Z,0,2,0,1,5,5,10,1759030.0
+833,docs: add README.tr-TR.md,61,True,True,2022-01-22T09:05:55Z,2022-01-22T09:05:55Z,0,2,0,2,20,1,21,560371.0
+836,Update README.es-ES.md,16,True,True,2022-01-22T09:03:57Z,2022-01-22T09:03:57Z,0,2,0,1,1,1,2,240068.0
+841,Upgrade dependencies.,0,True,True,2022-01-22T08:58:38Z,2022-01-22T08:58:38Z,0,1,0,3,1423,2112,3535,111.0
+662,Add pt-BR translation to math/factorial,0,True,False,,2021-12-20T19:27:22Z,0,1,0,3,37,2,39,0
+791,docs: add README.zh-CN.md,36,True,False,,2021-11-13T15:15:04Z,0,1,0,1,42,0,42,0
+611,beginner-friendly implementation of prepend,206,True,False,,2021-10-27T12:55:43Z,0,2,0,1,13,17,30,0
+792,"Add the ""Weighted Random"" algorithm",0,True,True,2021-10-22T07:56:44Z,2021-10-22T07:56:44Z,0,1,0,4,259,0,259,92.0
+788,Update LinkedList.js,0,True,False,,2021-10-18T16:04:58Z,0,2,0,1,9,0,9,0
+790,Upgrade dependencies.,0,True,True,2021-10-18T16:02:40Z,2021-10-18T16:02:40Z,0,1,0,2,2597,4304,6901,134.0
+772,Bump tmpl from 1.0.4 to 1.0.5,1956,True,False,,2021-10-18T15:54:05Z,0,1,1,1,3,3,6,0
+399,Much more efficient trial division test,136,True,False,,2021-10-05T17:21:12Z,0,1,0,1,12,25,37,0
+779,Create cpp new project 1,0,True,False,,2021-10-01T14:07:39Z,0,1,0,1,20,0,20,0
+762,Bump tar from 4.4.13 to 4.4.19,2362,True,False,,2021-09-16T05:26:10Z,0,1,1,1,20,12,32,0
+749,Bump path-parse from 1.0.6 to 1.0.7,1962,True,False,,2021-09-16T05:26:09Z,0,1,1,1,3,3,6,0
+738,Bump ws from 7.4.5 to 7.5.3,4037,True,False,,2021-09-16T05:26:09Z,0,1,1,1,3,3,6,0
+711,Bump browserslist from 4.16.4 to 4.16.6,2415,True,False,,2021-09-16T05:26:08Z,0,1,1,1,19,17,36,0
+747,Bump tar from 4.4.13 to 4.4.15,2127,True,False,,2021-09-02T20:39:18Z,0,0,1,1,3,3,6,0
+758,Added new algorithms,0,True,False,,2021-08-28T14:02:46Z,0,4,0,6,445,0,445,0
+756,mistake,7,True,False,,2021-08-27T16:16:51Z,0,3,0,6,483,0,483,0
+754,mistake,7,True,False,,2021-08-27T06:14:50Z,0,2,0,4,199,0,199,0
+755,Merged Milton branch,0,True,False,,2021-08-27T10:20:01Z,0,2,0,2,59,0,59,0
+725,Update README.zh-CN.md,0,True,False,,2021-08-16T11:21:49Z,0,1,0,1,1,1,2,0
+750,Added algorithm involving the intersection of two sets,140,True,False,,2021-08-12T10:11:44Z,0,1,0,2,37,0,37,0
+745,Type script,0,True,False,,2021-08-04T05:27:04Z,0,1,0,70,1,8191,8192,0
+743,Development,0,True,False,,2021-08-03T18:30:59Z,1,4,3,1,2,0,2,0
+741,Update README.md,0,True,False,,2021-07-25T03:59:04Z,0,1,0,1,4,4,8,0
+736,Update README.zh-CN.md,0,True,False,,2021-07-24T05:28:32Z,0,2,1,1,1,1,2,0
+714,Bump ws from 7.4.5 to 7.4.6,3037,True,False,,2021-07-16T09:52:45Z,0,0,1,1,3,3,6,0
+737,Binary representation of floating-point numbers,411,True,True,2021-07-16T09:51:53Z,2021-07-16T09:51:53Z,0,1,0,9,397,0,397,113.0
+653,"Add indonesian translation ""Linked list""",58,True,False,,2021-07-16T01:48:57Z,0,1,0,2,153,0,153,0
+716,Add type name to Big O table,0,True,False,,2021-06-07T21:00:39Z,0,1,0,1,9,9,18,0
+370,Start working directly in your browser,761,True,False,,2021-06-06T12:08:07Z,0,1,2,2,12,5,17,0
+508,Bump handlebars from 4.1.2 to 4.7.6,121,True,False,,2020-07-26T11:22:13Z,0,2,2,1,12,23,35,0
+687,update linkedlist comment,58,True,True,2021-05-06T05:02:52Z,2021-05-06T05:02:52Z,0,2,0,1,1,1,2,2247900.0
+680,Create README.es-ES.md,29,True,True,2021-05-06T05:00:11Z,2021-05-06T05:00:11Z,0,2,0,1,102,0,102,3048239.0
+690,Update README.zh-TW.md,56,True,True,2021-05-06T04:56:41Z,2021-05-06T04:56:41Z,0,2,0,1,1,1,2,1977991.0
+703,add german translation for main readme,489,True,True,2021-05-06T04:46:04Z,2021-05-06T04:46:04Z,0,2,1,16,363,15,378,553140.0
+704,Update README.es-ES.md,48,True,True,2021-05-06T04:43:28Z,2021-05-06T04:43:28Z,1,3,0,1,20,21,41,538385.0
+697,Capitalized the first letter,0,True,False,,2021-05-03T19:50:05Z,0,1,0,1,1,1,2,0
+694,Test that two images are identical for the Seam Carving algorithm.,0,True,True,2021-04-21T05:39:59Z,2021-04-21T05:39:59Z,0,1,0,2,43,2,45,725.0
+693,Adding a Seam Carving algorithm with Dynamic Programming implementation.,65,True,True,2021-04-20T15:47:34Z,2021-04-20T15:47:34Z,0,1,0,13,2838,1193,4031,19861.0
+630,Add Chinese translation for binary-search-tree.,0,True,False,,2021-04-20T05:20:39Z,0,2,0,2,270,1,271,0
+681,Small refactor to use already written class method.,0,True,False,,2021-04-02T07:04:47Z,0,1,0,1,1,1,2,0
+676,Merge pull request #1 from trekhleb/master,1,True,False,,2021-03-30T10:43:05Z,0,1,0,0,0,0,0,0
+646,"Create {{name.first | ""orada""}} ,",0,True,False,,2021-02-18T07:03:30Z,1,2,1,1,1,0,1,0
+629,fix binary-search-tree README.md,0,True,False,,2021-01-26T11:03:33Z,0,1,0,2,279,10,289,0
+627,Merge pull request #1 from trekhleb/master,7,True,False,,2021-01-19T12:21:59Z,0,1,0,0,0,0,0,0
+617,"Optimize Insertion Sort, update tests, & correct comments",531,True,True,2021-01-03T09:26:15Z,2021-01-03T09:26:15Z,0,2,1,2,7,7,14,466857.0
+615,Add chinesre translation.,156,True,True,2021-01-03T09:42:13Z,2021-01-03T09:42:13Z,0,2,1,6,302,2,304,780045.0
+622,Add an Arabic version of the README file,208,True,True,2021-01-03T09:23:18Z,2021-01-03T09:23:18Z,0,2,0,2,326,1,327,57382.0
+614,Add chinesre translation of math/bits README.md,0,True,False,,2020-12-25T08:59:33Z,0,1,0,6,302,2,304,0
+613,Add Ukrainian translation of the main README file.,0,True,True,2020-12-23T18:00:36Z,2020-12-23T18:00:37Z,0,2,1,13,328,12,340,504.0
+612,Add divide and conquer example: best time to buy and sell stocks,0,True,True,2020-12-23T16:24:50Z,2020-12-23T16:24:50Z,0,1,0,10,429,6,435,120.0
+607,Bump node-notifier from 8.0.0 to 8.0.1,2206,True,True,2020-12-22T15:59:07Z,2020-12-22T15:59:07Z,0,1,0,1,6,12,18,81260.0
+608,Added tortoise and hare algorithm,150,True,False,,2020-12-21T18:55:44Z,0,1,0,3,37,0,37,0
+409,Linked List Spanish Traslation,0,True,True,2020-12-20T19:16:36Z,2020-12-20T19:16:36Z,0,2,1,2,164,0,164,37730324.0
+405,Add pt-BR translation for Bubble Sort,0,True,False,,2020-12-20T19:13:40Z,0,2,2,1,23,0,23,0
+397,Added README.tr-TR.md for Turkish Language,0,True,False,,2020-12-20T19:11:50Z,0,2,2,1,305,0,305,0
+396,Fix a grammar mistake,0,True,True,2020-12-20T19:09:10Z,2020-12-20T19:09:10Z,0,2,1,1,1,1,2,38911076.0
+350,fix typo in levenshtein-distance/README.md,56,True,True,2020-12-20T19:06:36Z,2020-12-20T19:06:36Z,0,2,1,1,1,1,2,51026700.0
+345,Add missing step,11,True,True,2020-12-20T19:05:19Z,2020-12-20T19:05:19Z,0,2,1,1,1,0,1,52415150.0
+291,Remove a extra space,0,True,True,2020-12-20T19:00:44Z,2020-12-20T19:00:44Z,0,2,1,1,1,1,2,60936399.0
+286,"Add the word ""set"" to avoid misinterpretation in description",412,True,True,2020-12-20T18:57:04Z,2020-12-20T18:57:04Z,0,2,1,2,1,1,2,61699235.0
+516,Add rail fence cipher,15,True,True,2020-12-20T17:40:23Z,2020-12-20T17:40:23Z,0,2,2,7,262,0,262,12539805.0
+603,feat(lang): add README.id-ID.md translation for Bahasa Indonesia,72,True,True,2020-12-20T11:52:02Z,2020-12-20T11:52:02Z,0,2,1,1,303,0,303,4109.0
+599,feat(lang): add README.md translation for Bahasa Indonesia,68,True,False,,2020-12-20T10:44:05Z,0,2,4,13,2351,2015,4366,0
+594,Update README.zh-CN.md,28,True,False,,2020-12-19T20:32:40Z,0,2,1,1,2,0,2,0
+595,Added kmeans clustering,119,True,True,2020-12-19T18:36:09Z,2020-12-19T18:36:09Z,0,2,1,4,167,0,167,150476.0
+602,Add Euclidean Distance formula,0,True,True,2020-12-19T18:26:03Z,2020-12-19T18:26:03Z,0,1,0,7,97,26,123,102.0
+600,Add Matrices section with basic Matrix operations,0,True,True,2020-12-19T17:48:11Z,2020-12-19T17:48:11Z,0,1,0,5,852,21,873,92.0
+598,feat(lang): add translation for Bahasa Indonesia,46,True,False,,2020-12-18T10:36:03Z,0,1,0,13,2369,2031,4400,0
+597,Merge pull request #1 from trekhleb/master,17,True,False,,2020-12-18T03:42:37Z,0,1,1,0,0,0,0,0
+386,Translate README.pt-BR,31,True,True,2020-12-17T08:49:12Z,2020-12-17T08:49:12Z,0,2,1,1,6,6,12,41079731.0
+385,Update README.md,0,True,True,2020-12-17T08:48:43Z,2020-12-17T08:48:43Z,0,2,1,0,0,0,0,41093499.0
+371,update desc,15,True,True,2020-12-17T08:48:19Z,2020-12-17T08:48:19Z,0,2,1,1,1,1,2,45603287.0
+388,Russian version of the translation for README,57,True,False,,2020-12-17T08:44:24Z,0,2,2,12,2497,451,2948,0
+285,Translate Reversed Linked List Traversal to Russian,0,True,False,,2020-12-17T08:43:09Z,0,2,2,2,22,0,22,0
+283,Translate Linked List Traversal to Russian,0,True,True,2020-12-17T08:40:05Z,2020-12-17T08:40:06Z,0,2,1,2,23,1,24,61437778.0
+151,Add missing LinkedList tests,260,True,True,2020-12-17T08:36:01Z,2020-12-17T08:36:01Z,0,3,1,1,23,0,23,74196029.0
+424,add hillCipher at cryptography section,21,True,True,2020-12-17T06:26:22Z,2020-12-17T06:26:22Z,0,2,2,3,120,0,120,35732973.0
+592,Adding K Nearest Neighbor to ML folder in algorithms with README and tests   ,328,True,True,2020-12-16T05:44:57Z,2020-12-16T05:44:57Z,0,2,1,4,132,6,138,38020.0
+408,Added Caesar Cipher to Cryptograpy section,0,True,False,,2020-12-15T18:00:05Z,0,2,2,4,73,1,74,0
+423,Creating a explanation of Bubblesort in portuguese,0,True,True,2020-12-15T17:52:43Z,2020-12-15T17:52:43Z,0,2,1,1,16,0,16,35686921.0
+439,Update README.zh-CN.md,10,True,True,2020-12-15T17:44:44Z,2020-12-15T17:44:44Z,0,2,1,1,1,1,2,31333817.0
+448,Add linked list document in Korean,37,True,False,,2020-12-15T17:42:16Z,0,2,2,2,148,0,148,0
+437,translate in french factorial,105,True,False,,2020-12-15T17:39:29Z,0,2,2,2,33,1,34,0
+588,Added BMI algorithm,175,True,False,,2020-12-14T17:09:57Z,0,2,2,3,29,0,29,0
+433,Add README.ko-KR.md(translation) in 'data-structures/linked-list',65,True,False,,2020-12-11T08:18:35Z,0,2,2,1,157,0,157,0
+447,Modify HashTable,56,True,True,2020-12-11T07:54:38Z,2020-12-11T07:54:38Z,0,2,1,2,22,0,22,29617336.0
+459,Fix typo,0,True,True,2020-12-11T07:51:13Z,2020-12-11T07:51:13Z,0,2,1,1,1,1,2,27117663.0
+466,Update README.ko-KR.md,0,True,True,2020-12-11T07:48:58Z,2020-12-11T07:48:58Z,0,2,1,1,149,0,149,24122131.0
+449,Add doubly-linked-list doc in Korean,64,True,True,2020-12-11T07:45:55Z,2020-12-11T07:45:55Z,0,2,1,2,108,0,108,29043825.0
+532,added prime-factors algorithms under maths algorithms,193,True,True,2020-12-10T16:54:12Z,2020-12-10T16:54:12Z,1,3,1,4,119,0,119,9057066.0
+584,Repeated Math operation,0,True,True,2020-12-10T16:50:47Z,2020-12-10T16:50:47Z,0,2,1,1,1,1,2,640197.0
+587,Update README.zh-CN.md,24,True,True,2020-12-10T16:41:22Z,2020-12-10T16:41:22Z,0,3,3,1,1,1,2,54392.0
+349,deleted a lot,0,True,False,,2020-12-09T09:15:51Z,0,4,3,20,0,11981,11981,0
+432,Italian Implementation,140,True,True,2020-12-09T08:00:53Z,2020-12-09T08:00:53Z,0,2,3,1,294,0,294,32006066.0
+441,update dependencies + fix founded vulnerabilities,0,True,False,,2020-12-09T07:55:55Z,0,2,2,2,1717,1420,3137,0
+533,added README.ru-RU.md,30,True,True,2020-12-09T07:18:36Z,2020-12-09T07:18:37Z,0,2,2,1,303,0,303,8705983.0
+540,Fix typo in comment,91,True,True,2020-12-09T07:13:06Z,2020-12-09T07:13:06Z,1,3,1,1,1,1,2,7343210.0
+542,Fix typo in tree BFS testcase name,55,True,True,2020-12-09T07:11:04Z,2020-12-09T07:11:04Z,0,2,1,1,1,1,2,6958271.0
+547,"set Data Structure to ""Estrutura de Dados""",53,True,True,2020-12-09T07:09:30Z,2020-12-09T07:09:30Z,1,3,1,1,1,1,2,6494696.0
+551,Create Fade in fade out in JavaScript,55,True,False,,2020-12-08T17:14:26Z,0,3,4,1,58,0,58,0
+552,Create AVL Tree,0,True,False,,2020-12-08T17:12:32Z,1,3,2,1,288,0,288,0
+553,Improved docsUpdate README.md,0,True,False,,2020-12-08T17:10:53Z,1,4,3,1,1,1,2,0
+570,Amir Abdul Sattar,177,True,False,,2020-12-08T17:05:54Z,0,3,3,2,280,0,280,0
+571,Create taximete,0,True,False,,2020-12-08T17:04:36Z,1,3,1,1,106,0,106,0
+575,Add Horner's Method,276,True,True,2020-12-08T07:59:32Z,2020-12-08T07:59:32Z,3,3,1,3,52,0,52,1840096.0
+548,Add Mini-max sum,18,True,False,,2020-12-04T10:27:15Z,1,2,1,4,52,0,52,0
+582,Created parity algorithm,143,True,False,,2020-12-03T16:03:38Z,0,2,4,4,48,0,48,0
+577,Update Branch & Bound description in README.md,76,True,False,,2020-12-03T15:01:54Z,1,2,1,0,0,0,0,0
+581,Refactored merge sort to use array pointers instead of .shift(),1177,True,True,2020-11-28T15:35:09Z,2020-11-28T15:35:09Z,0,2,1,1,30,24,54,72016.0
+422,string: add longest-palindrome algorithm,56,True,False,,2020-11-12T19:55:08Z,0,1,1,3,92,0,92,0
+574,Create README.tr-TR.md,35,True,True,2020-11-02T17:39:47Z,2020-11-02T17:39:47Z,0,2,1,1,317,0,317,172764.0
+549,Create README.tr-TR.md,25,True,False,,2020-11-02T17:38:44Z,0,2,1,1,196,0,196,0
+470,Reduce traverseInOrder time complexity and space complexity,494,True,False,,2020-11-02T17:38:44Z,0,2,3,2,1840,1838,3678,0
+398,binary search algorithm in js,0,True,False,,2020-10-20T03:55:38Z,0,1,1,1,27,0,27,0
+558,Chore(math-translation-FR-fr): a pack of translations for the math section,188,True,True,2020-10-05T19:13:48Z,2020-10-05T19:13:48Z,0,2,2,15,1201,329,1530,209897.0
+557,Feature/exercises,22,True,False,,2020-10-02T15:03:52Z,0,1,0,2,48,2,50,0
+534,Fix broken link in sets/permutations/README.md,24,True,False,,2020-09-23T15:54:18Z,0,1,1,1,1,1,2,0
+541,chore: I made a mistake just ignore this stupid pull request,91,True,False,,2020-09-22T01:28:10Z,0,0,1,1,0,1,1,0
+469,Fix and Update README.zh-CN.md,198,True,True,2020-08-21T05:28:07Z,2020-08-21T05:28:07Z,0,2,1,1,4,2,6,13791731.0
+471,i++,0,True,False,,2020-08-21T05:25:48Z,0,1,1,1,1,1,2,0
+487,fix: three errors,58,True,True,2020-08-21T05:23:45Z,2020-08-21T05:23:45Z,0,2,1,1,3,3,6,8702706.0
+502,Fix infinity loop with negative numbers,0,True,True,2020-08-21T05:21:21Z,2020-08-21T05:21:21Z,0,2,1,2,5,1,6,5041309.0
+530,Update README.ru-RU.md (error in deletion complexity),40,True,True,2020-08-21T05:08:27Z,2020-08-21T05:08:27Z,0,2,1,1,1,1,2,42136.0
+526,Update README.md,0,True,False,,2020-08-09T17:01:20Z,0,1,1,1,1,1,2,0
+486,fix: 0->ø,30,True,True,2020-08-09T12:13:37Z,2020-08-09T12:13:37Z,0,2,1,1,1,1,2,7698163.0
+494,Bump handlebars from 4.1.2 to 4.5.3,121,True,False,,2020-08-09T12:12:39Z,0,1,2,1,3,3,6,0
+520,Add french translation for some chapters,166,True,True,2020-08-09T12:10:16Z,2020-08-09T12:10:16Z,1,2,2,10,135,0,135,725624.0
+517,Caeser cipher,209,True,True,2020-08-08T09:51:23Z,2020-08-08T09:51:23Z,1,3,2,3,72,0,72,899046.0
+524,Fix README typo,88,True,True,2020-08-08T09:45:16Z,2020-08-08T09:45:16Z,2,4,1,2,2,2,4,366558.0
+395,Fix japanese-translation typo,25,True,False,,2020-08-06T12:42:50Z,0,1,1,1,1,1,2,0
+515,Add rail fence cipher,15,True,False,,2020-07-28T14:13:00Z,0,8,0,51,6508,3452,9960,0
+510,Bump eslint-utils from 1.3.1 to 1.4.3,113,True,False,,2020-07-26T11:21:43Z,0,2,1,1,15,4,19,0
+497,Swap as destructuring assignment,0,True,True,2020-07-26T11:21:14Z,2020-07-26T11:21:14Z,0,2,0,1,1,3,4,4608620.0
+489,Adding inequality conditions,57,True,True,2020-07-26T11:19:29Z,2020-07-26T11:19:29Z,0,2,1,1,3,3,6,5620981.0
+444,Bump handlebars from 4.1.2 to 4.5.3,3939,True,False,,2020-07-26T10:38:47Z,0,0,2,1,3,3,6,0
+392,Bump eslint-utils from 1.3.1 to 1.4.2,2079,True,False,,2020-07-26T10:38:47Z,0,0,2,1,7,4,11,0
+512,Bump lodash from 4.17.11 to 4.17.19,2569,True,False,,2020-07-26T10:38:29Z,0,0,2,1,3,3,6,0
+468,Bump acorn from 5.7.3 to 5.7.4,2050,True,False,,2020-07-26T10:38:29Z,0,1,3,1,6,6,12,0
+507,Dependabot/npm and yarn/acorn 5.7.4,35,True,False,,2020-07-26T10:38:31Z,0,2,3,3,21,6,27,0
+454,Update README.zh-TW.md,35,True,False,,2020-07-22T03:36:08Z,0,1,1,1,175,111,286,0
+509,Dependabot/npm and yarn/lodash 4.17.15,41,True,False,,2020-07-16T02:23:32Z,0,2,2,4,20,3,23,0
+393,Bump lodash from 4.17.11 to 4.17.15,1996,True,False,,2020-07-16T02:23:20Z,0,0,2,1,3,3,6,0
+503,Fix portuguese translation of graph on README,150,True,True,2020-07-15T04:46:32Z,2020-07-15T04:46:32Z,0,2,1,1,10,10,20,1440852.0
+492,Update README.ko-KR.md,24,True,True,2020-07-15T04:49:30Z,2020-07-15T04:49:30Z,0,2,1,1,1,1,2,4185917.0
+490,Update README.pt-BR.md,35,True,True,2020-07-15T04:47:56Z,2020-07-15T04:47:56Z,0,2,1,1,1,1,2,4287650.0
+511,Link error,0,True,True,2020-07-15T04:43:09Z,2020-07-15T04:43:09Z,0,2,1,1,1,1,2,489574.0
+501,chore(factorial): add translation fr-FR,197,True,False,,2020-07-04T07:22:18Z,0,1,2,3,37,2,39,0
+493,Dependabot/npm and yarn/lodash 4.17.15,0,True,False,,2020-06-06T07:29:53Z,0,2,1,2,5,3,8,0
+482,update title data structure for estrutura de dados,0,True,False,,2020-04-22T04:49:05Z,0,1,1,1,1,1,2,0
+443,Cartesian Product Fixed,277,True,False,,2020-04-09T14:55:34Z,0,1,0,3,24,7,31,0
+457,Add zh-TW version of Factorial,106,True,False,,2020-02-01T14:12:15Z,0,1,1,5,92,1,93,0
+442,Fixed Cartesian Product,71,True,False,,2019-12-26T18:48:15Z,0,1,0,5,26,8,34,0
+429,Update README.md,50,True,False,,2019-11-22T23:03:49Z,0,1,2,1,4,4,8,0
+159,Add karatsubaMultiplication,53,True,False,,2019-10-14T13:01:34Z,1,3,2,3,55,0,55,0
+158,Add Booth's multiplication,75,True,False,,2019-10-14T13:01:12Z,0,1,0,3,93,0,93,0
+157,Add checking if pandigitalConcatenation,78,True,False,,2019-10-14T13:00:57Z,0,2,2,3,76,0,76,0
+153,Add computing XORWithoutXOR,69,True,False,,2019-10-14T12:53:57Z,0,2,1,3,27,0,27,0
+240,add another solution,0,True,False,,2019-10-03T06:59:40Z,0,2,1,1,6,0,6,0
+375,delete next link for deleted node,79,True,False,,2019-08-12T12:41:29Z,0,1,1,1,2,0,2,0
+342,Update README.md,19,True,False,,2019-07-17T15:59:34Z,0,1,1,1,1,1,2,0
+367,Upgrade dependencies to latest versions.,0,True,True,2019-06-25T04:56:45Z,2019-06-25T04:56:45Z,0,1,1,4,1197,3690,4887,205.0
+358,longestCommonSubsequence.js optimized [fixed],40,True,False,,2019-06-01T20:33:10Z,0,1,0,1,2,11,13,0
+357,longestCommonSubsequence.js optimization,40,True,False,,2019-06-01T20:33:06Z,1,1,0,1,2,11,13,0
+355,Insertion sort - Check index instead of element in while loop / use destructing,135,True,False,,2019-05-26T00:15:10Z,0,1,0,1,6,1,7,0
+354,"bug/fix (Remove "","" from //substitution end)",0,True,False,,2019-05-24T14:22:55Z,0,1,0,1,1,1,2,0
+353,"bug/fix (Remove "","" from //substitution end)",376,True,False,,2019-05-24T14:16:02Z,0,1,0,1,1,1,2,0
+340,Adds Portuguese (pt-BR) translation,190,True,True,2019-04-16T14:47:05Z,2019-04-16T14:47:05Z,0,2,4,35,1111,63,1174,12248.0
+332,Fix a spelling mistake in README.md for Levenshtein Distance,12,True,True,2019-04-12T05:41:26Z,2019-04-12T05:41:26Z,0,3,2,1,1,1,2,1705827.0
+333,fix README.md,9,True,True,2019-04-12T05:36:12Z,2019-04-12T05:36:12Z,0,2,1,1,1,1,2,792146.0
+335,Update README.pt-BR.md,21,True,True,2019-04-12T05:35:37Z,2019-04-12T05:35:37Z,0,2,1,1,6,6,12,675964.0
+337,Translate Data Structures for beginner into Japanese,105,True,True,2019-04-12T05:32:08Z,2019-04-12T05:32:08Z,0,2,2,14,323,7,330,445021.0
+336,Add Japanese translation,0,True,False,,2019-04-07T01:22:19Z,0,1,0,14,327,7,334,0
+313,Fix performance measuring code bug,64,True,True,2019-03-08T11:08:19Z,2019-03-08T11:08:19Z,0,2,1,1,1,1,2,1693580.0
+334,Add Full Adder algorithm (math/bits),1465,True,True,2019-04-03T04:42:17Z,2019-04-03T04:42:17Z,0,2,2,3,123,0,123,9880.0
+293,adds note explaining origin of the name 'radix sort',0,True,True,2019-03-22T05:45:04Z,2019-03-22T05:45:04Z,0,2,1,1,7,0,7,5460352.0
+320,Translate Bloom filter into Russian.,0,True,True,2019-03-22T05:36:35Z,2019-03-22T05:36:35Z,0,2,1,2,59,0,59,1005438.0
+324,Feature/translate trie,0,True,True,2019-03-22T05:32:44Z,2019-03-22T05:32:44Z,0,2,1,2,30,0,30,732476.0
+322,some mistakes in doubly-linked-list/README.md,0,True,True,2019-03-22T05:29:51Z,2019-03-22T05:29:51Z,0,2,1,1,2,2,4,839540.0
+326,Update README.zh-CN.md,0,True,True,2019-03-22T05:28:13Z,2019-03-22T05:28:13Z,0,2,1,1,1,1,2,610339.0
+331,Update README.md,36,True,True,2019-03-22T05:27:13Z,2019-03-22T05:27:13Z,0,2,1,1,2,1,3,96695.0
+330,Translated to portuguese,0,True,True,2019-03-22T05:25:49Z,2019-03-22T05:25:49Z,0,2,1,1,155,0,155,96823.0
+321,Translate disjoint set into Russian.,0,True,True,2019-03-22T05:18:19Z,2019-03-22T05:18:19Z,0,2,1,2,26,0,26,905524.0
+301,"fix typo ""リー"" to ""ツリー""",9,True,True,2019-03-08T11:01:07Z,2019-03-08T11:01:08Z,1,3,1,1,1,1,2,2242113.0
+309,Fix typo: yeild => yield,51,True,True,2019-03-08T11:02:16Z,2019-03-08T11:02:16Z,0,2,1,3,3,3,6,1754933.0
+296,Fix japanese-translation typo and awkward grammer,22,True,True,2019-03-08T11:12:11Z,2019-03-08T11:12:11Z,0,2,1,1,5,5,10,3873339.0
+316,Update README.md,45,True,True,2019-03-08T11:05:51Z,2019-03-08T11:05:51Z,0,2,1,1,1,1,2,1235850.0
+318,Translate hash table into Russian. Add links into English README,0,True,True,2019-03-08T10:52:53Z,2019-03-08T10:52:53Z,0,2,1,2,29,0,29,321626.0
+317,Translate heap into Russian. Add links to main README file.,0,True,True,2019-03-08T10:50:40Z,2019-03-08T10:50:40Z,0,2,1,2,26,0,26,754425.0
+319,Translate graph into Russian.,0,True,True,2019-03-08T10:47:10Z,2019-03-08T10:47:10Z,0,2,1,2,28,0,28,151027.0
+290,Use increment instead of +=,0,True,False,,2019-01-15T21:05:44Z,0,2,2,1,1,1,2,0
+284,Translate reversed linked list traversal,0,True,False,,2019-01-06T07:12:08Z,0,1,1,4,42,20,62,0
+282,[Fix] Capitalization issues of doubly linked list.,84,True,True,2019-01-04T14:38:58Z,2019-01-04T14:38:58Z,0,2,2,3,3,3,6,2001.0
+267,Create README.zh-CN.md,0,True,True,2018-12-28T14:33:26Z,2018-12-28T14:33:26Z,0,2,1,1,27,0,27,1369229.0
+279,Translate Priority Queue.,0,True,True,2018-12-28T14:28:45Z,2018-12-28T14:28:45Z,0,2,1,2,26,0,26,4527.0
+278,Translate Queue into Russian.,0,True,True,2018-12-28T14:27:14Z,2018-12-28T14:27:15Z,0,2,1,2,23,0,23,4471.0
+277,Translate stack into Russian.,0,True,True,2018-12-28T14:25:36Z,2018-12-28T14:25:36Z,0,2,1,2,28,1,29,4442.0
+276,Translate DoublyLinkedList.,0,True,True,2018-12-28T14:21:52Z,2018-12-28T14:21:52Z,0,2,1,3,113,1,114,18896.0
+275,Translate into Russian,142,True,True,2018-12-28T05:13:01Z,2018-12-28T05:13:01Z,0,2,2,2,160,0,160,70775.0
+273,fix wrong words,11,True,True,2018-12-28T05:03:40Z,2018-12-28T05:03:40Z,0,2,1,1,1,1,2,411815.0
+263,fix: correct the wrong code of `Deletion`,0,True,True,2018-12-11T04:00:22Z,2018-12-11T04:00:22Z,0,2,1,1,24,12,36,131890.0
+266,[FIX] Japanese Translation,10,True,True,2018-12-11T03:52:58Z,2018-12-11T03:52:58Z,0,2,2,8,8,8,16,34553.0
+260,[REFACTOR] Algorithms by Paradigm of ReadMe.ko-KR.md,70,True,True,2018-12-10T17:15:36Z,2018-12-10T17:15:37Z,0,2,3,2,295,5,300,181107.0
+247,Fix DoublyLinkedList reverse,38,True,False,,2018-12-10T17:06:10Z,0,2,2,2,7,0,7,0
+257,fixed doubly-linked-list reverse method omit change node's previous,4,True,True,2018-12-09T15:03:47Z,2018-12-09T15:03:47Z,0,2,2,2,30,7,37,190528.0
+262,Update the linke of trie to the chinese version,0,True,True,2018-12-09T14:34:03Z,2018-12-09T14:34:03Z,0,2,2,1,1,1,2,4880.0
+250,update readme.zh-CN from readme,0,True,True,2018-12-09T14:21:51Z,2018-12-09T14:21:51Z,0,2,2,1,95,64,159,1822669.0
+235,update on readme,67,True,True,2018-12-09T14:10:31Z,2018-12-09T14:10:31Z,0,2,2,1,1,1,2,3852963.0
+259,[INITIAL] BogoSort Algorithm,23,True,False,,2018-12-08T14:40:58Z,0,1,0,3,107,0,107,0
+243,Changed push to spreadoperator,20,True,False,,2018-11-13T16:02:51Z,0,2,1,1,5,2,7,0
+244,Jest test - Example in README,282,True,False,,2018-11-13T15:58:11Z,0,2,2,1,44,3,47,0
+110,Refactor Rabin-Karp,115,True,True,2018-07-30T09:20:41Z,2018-07-30T09:20:41Z,1,4,17,4,139,88,227,483468.0
+245,Arreglado error de sintaxis,0,True,False,,2018-11-11T22:24:31Z,0,1,1,1,1,0,1,0
+238,Create power,0,True,False,,2018-10-31T13:30:53Z,0,2,1,1,34,0,34,0
+242,Add files via upload,0,True,False,,2018-10-31T13:30:10Z,0,2,1,1,4,0,4,0
+136,fibonacci logn iterative implementation,189,True,False,,2018-10-29T22:09:22Z,3,4,1,3,58,4,62,0
+233,use Destructuring in change,0,True,True,2018-10-23T02:45:59Z,2018-10-23T02:45:59Z,0,2,2,1,1,3,4,36180.0
+230,sync,0,True,False,,2018-10-21T02:12:02Z,0,2,0,1,1,3,4,0
+228,fix typo error,0,True,True,2018-10-18T03:19:47Z,2018-10-18T03:19:47Z,0,2,2,1,1,1,2,3887.0
+227,Add prepend and fix bug,57,True,True,2018-10-17T03:08:34Z,2018-10-17T03:08:34Z,0,2,2,1,20,7,27,61191.0
+224,Properly detect min and max element in array,0,True,True,2018-10-17T03:19:14Z,2018-10-17T03:19:14Z,1,4,6,1,2,6,8,323756.0
+226,BubbleSort: use Destructuring assignment to swap values,44,True,True,2018-10-17T03:13:27Z,2018-10-17T03:13:28Z,0,2,2,1,1,3,4,63876.0
+222,Adding missing algorithms in the spanish readme,112,True,True,2018-10-09T03:14:18Z,2018-10-09T03:14:18Z,0,2,2,1,17,4,21,5325.0
+221,Mutiple fixes in the spanish readme,192,True,True,2018-10-08T03:33:52Z,2018-10-08T03:33:52Z,0,2,2,1,140,140,280,4026.0
+220,HI Update .babelrc,0,True,False,,2018-10-02T19:00:33Z,0,1,1,1,3,0,3,0
+187,Minor refactor of QuickSortInPlace for simplification,78,True,True,2018-09-14T14:03:38Z,2018-09-14T14:03:38Z,0,2,1,1,32,32,64,1417384.0
+218,Fixed the translation in spanish,69,True,True,2018-10-01T14:15:08Z,2018-10-01T14:15:08Z,0,2,2,1,5,5,10,890.0
+205,"added largest subarray sum algorithm, AVL Tree remove function, egg dropping, all permutations algorithms",83,True,False,,2018-09-24T08:55:42Z,0,3,3,10,255,1,256,0
+33,Fix remove method in AvlTree: Nodes can not re-balance.,58,True,True,2018-09-24T06:12:38Z,2018-09-24T06:12:39Z,0,3,4,2,80,0,80,10090966.0
+214,Fix Stack pop comlexity to be O(1),224,True,True,2018-09-24T04:31:18Z,2018-09-24T04:31:18Z,0,2,3,2,14,15,29,37252.0
+211,Fix minor typos in README ,54,True,True,2018-09-20T13:23:18Z,2018-09-20T13:23:18Z,0,2,3,1,5,5,10,43667.0
+207,Update euclideanAlgorithm.js,73,True,True,2018-09-18T05:04:56Z,2018-09-18T05:04:57Z,0,2,1,1,14,0,14,68206.0
+208,change '克努斯-莫里斯-普拉特算法' to 'KMP算法',273,True,True,2018-09-18T04:43:49Z,2018-09-18T04:43:49Z,0,2,1,1,8,8,16,53303.0
+130,Add fibonnaci sequence closed form function,257,True,True,2018-09-14T15:01:42Z,2018-09-14T15:01:42Z,0,3,2,2,34,0,34,3886690.0
+204,feat(bitwise): Function to check if a number is positive,60,True,True,2018-09-14T04:42:43Z,2018-09-14T04:42:43Z,0,2,2,4,48,1,49,296643.0
+201,Perform multiplication of any two integers positive or negative throu…,59,True,True,2018-09-08T19:51:03Z,2018-09-08T19:51:03Z,0,2,2,5,109,14,123,353735.0
+203,Improve JSDocs in Stack.js,143,True,True,2018-09-08T19:35:25Z,2018-09-08T19:35:25Z,0,2,2,1,7,7,14,162188.0
+194,Add LinkedList traversal and reverse implementations,142,True,True,2018-09-08T08:55:52Z,2018-09-08T08:55:52Z,1,3,5,3,104,5,109,666780.0
+189,Simplify dpMaximumSubarray,220,True,True,2018-09-04T06:47:06Z,2018-09-04T06:47:06Z,0,2,1,1,30,46,76,515167.0
+198,Improved the countSetBit,71,True,False,,2018-09-04T16:03:50Z,2,2,2,7,82,4,86,0
+172,Adding math algorithm to compute power and its tests,79,True,True,2018-09-04T14:21:10Z,2018-09-04T14:21:10Z,0,4,4,3,74,0,74,1389628.0
+193,Clarify comments of Queue class,68,True,True,2018-08-31T09:14:30Z,2018-08-31T09:14:30Z,0,2,1,1,10,13,23,2078.0
+184,clean up Heap implementation,156,True,True,2018-08-30T05:11:14Z,2018-08-30T05:11:15Z,0,2,1,1,18,21,39,168261.0
+188,Update LinkedList prepend pseudocode and append test,103,True,True,2018-08-30T05:43:22Z,2018-08-30T05:43:22Z,0,2,2,2,15,1,16,90451.0
+185,Partial translation of Simplified Chinese,41,True,True,2018-08-30T05:30:25Z,2018-08-30T05:30:25Z,0,2,1,11,395,9,404,158885.0
+176,fix longestCommonSubstring() to handle unicode characters (#129),131,True,True,2018-08-28T03:56:44Z,2018-08-28T03:56:44Z,0,3,4,2,12,8,20,491904.0
+181,Feature: Add Trie.deleteWord and TrieNode.removeChild,656,True,True,2018-08-27T12:33:17Z,2018-08-27T12:33:17Z,0,2,1,4,96,0,96,22178.0
+177,Fix TrieNode.addChild so substrings get marked as complete words,339,True,True,2018-08-25T10:27:44Z,2018-08-25T10:27:44Z,0,3,2,2,7,1,8,31788.0
+183,Fix minor typo on `segment-tree` readme,61,True,True,2018-08-28T03:37:19Z,2018-08-28T03:37:19Z,0,2,1,1,1,1,2,13973.0
+155,Add ifPowerOf2,84,True,True,2018-08-27T13:59:44Z,2018-08-27T13:59:44Z,0,3,2,3,33,0,33,1370332.0
+174,Fix Heap.remove() bug,369,True,False,,2018-08-27T13:44:00Z,0,3,2,2,25,11,36,0
+180,Fixed Contains operation pseudo code,0,True,True,2018-08-27T13:37:26Z,2018-08-27T13:37:26Z,0,2,1,1,1,1,2,77138.0
+178,Update multiplyUnsigned.js,0,True,False,,2018-08-27T13:05:12Z,0,2,1,1,1,1,2,0
+168,Add Trie Remove Words,215,True,False,,2018-08-27T12:59:45Z,0,3,2,4,89,0,89,0
+175,Fix method Trie::doesWordExist(),78,True,True,2018-08-21T20:00:11Z,2018-08-21T20:00:11Z,1,3,2,2,5,2,7,1499.0
+15,Add N queens problem bitwise solution,0,True,True,2018-08-20T12:57:02Z,2018-08-20T12:57:02Z,1,5,5,3,68,0,68,7609419.0
+173,Update README.md with license image,0,True,False,,2018-08-20T12:39:53Z,0,3,2,1,1,0,1,0
+167,Add MaxHeap,0,True,True,2018-08-16T15:18:19Z,2018-08-16T15:18:19Z,0,3,4,4,460,167,627,242366.0
+170,Issue 169 test suite failed fix,26,True,True,2018-08-16T10:35:05Z,2018-08-16T10:35:05Z,0,3,2,1,2,0,2,47155.0
+166,Pseudocode + big O for BFS,0,True,True,2018-08-14T12:21:35Z,2018-08-14T12:21:35Z,0,3,1,1,26,0,26,73051.0
+165,Update README.md,24,True,True,2018-08-14T12:20:55Z,2018-08-14T12:20:55Z,0,3,1,1,200,0,200,73295.0
+164,Update README.md,37,True,True,2018-08-14T12:20:10Z,2018-08-14T12:20:10Z,0,3,2,1,76,0,76,74987.0
+163,Update README.md,12,True,True,2018-08-14T12:18:55Z,2018-08-14T12:18:55Z,0,3,2,1,2,1,3,75517.0
+135,Added Fast Fourier transform,0,True,True,2018-08-13T14:45:51Z,2018-08-13T14:45:51Z,0,3,2,4,193,0,193,919716.0
+154,Add countBitsToflipAToB,110,True,True,2018-08-13T07:52:30Z,2018-08-13T07:52:30Z,0,2,1,2,26,0,26,138940.0
+156,Add multiplyBy7,78,True,False,,2018-08-13T07:47:16Z,0,2,1,3,27,0,27,0
+162,Update README.md,48,True,True,2018-08-13T07:30:50Z,2018-08-13T07:30:50Z,0,3,2,1,101,0,101,15558.0
+152,Add countSetBits,82,True,True,2018-08-12T07:06:14Z,2018-08-12T07:06:14Z,0,2,1,3,32,0,32,50430.0
+161,"Translated into Portuguese, Brazil.",80,True,True,2018-08-12T06:40:06Z,2018-08-12T06:40:06Z,0,2,2,1,288,0,288,28214.0
+133,Add few algos implementation,468,True,False,,2018-08-10T15:25:13Z,0,2,2,14,378,11,389,0
+141,Update README.md,0,True,True,2018-08-10T15:16:39Z,2018-08-10T15:16:39Z,0,3,2,1,19,0,19,599131.0
+140,Create multiply.js,45,True,True,2018-08-10T14:39:46Z,2018-08-10T14:39:46Z,0,2,1,1,14,0,14,599082.0
+148,Added spanish translation for README.md,0,True,True,2018-08-10T13:12:23Z,2018-08-10T13:12:23Z,0,3,2,2,284,1,285,56625.0
+147,Spanish translatation of README.md,32,True,False,,2018-08-09T20:10:35Z,0,1,0,1,282,0,282,0
+146,Update README.zh-CN.md and Add date,28,True,True,2018-08-09T13:10:35Z,2018-08-09T13:10:35Z,0,3,2,1,163,122,285,105817.0
+142,Errors in LinkedList,63,True,False,,2018-08-06T13:49:41Z,0,2,3,1,2,1,3,0
+137,Update combinationSum.js,30,True,True,2018-08-06T13:40:24Z,2018-08-06T13:40:24Z,0,3,2,1,5,5,10,260416.0
+138,Fix kruskal's exception message for directed graph,0,True,True,2018-08-06T13:26:23Z,2018-08-06T13:26:23Z,0,3,2,1,1,1,2,257424.0
+126,New test case for 'fromArray' function,0,True,False,,2018-08-06T13:20:03Z,0,2,1,1,14,0,14,0
+125,New function 'fromArray',60,True,False,,2018-08-06T13:19:25Z,5,3,3,1,7,0,7,0
+127,Patch 5,27,True,True,2018-08-06T13:02:47Z,2018-08-06T13:02:47Z,0,3,2,2,26,0,26,534485.0
+134,Added Fast Fourier transform,0,True,False,,2018-08-02T23:07:10Z,0,1,0,4,185,0,185,0
+121,Update LinkedList.js,120,True,False,,2018-07-30T12:28:44Z,0,2,2,1,1,1,2,0
+124,Twice defined,43,True,True,2018-07-30T12:33:18Z,2018-07-30T12:33:18Z,0,3,2,1,1,5,6,1170.0
+120,오타 수정,16,True,True,2018-07-30T09:10:06Z,2018-07-30T09:10:06Z,0,3,2,1,1,1,2,13221.0
+118,Update README.ko-KR.md ,59,True,True,2018-07-28T05:54:14Z,2018-07-28T05:54:14Z,0,3,1,1,3,0,3,3828.0
+117,Update README.ko-KR.md,59,True,False,,2018-07-28T04:49:33Z,0,3,2,1,3,0,3,0
+112,Add rain-terraces (trapping rain water) algorithm,45,True,True,2018-07-27T09:25:16Z,2018-07-27T09:25:16Z,0,3,4,3,142,0,142,143199.0
+116,Add French translation,108,True,True,2018-07-27T06:04:10Z,2018-07-27T06:04:10Z,0,3,2,2,267,1,268,24787.0
+115,Translation to Polish,94,True,True,2018-07-26T18:53:03Z,2018-07-26T18:53:03Z,0,3,2,2,276,1,277,1665.0
+113,Refactored disjoint set data structure,103,True,False,,2018-07-26T14:33:41Z,11,3,3,7,82,449,531,0
+114,Added running statistics,0,True,False,,2018-07-26T12:42:18Z,0,3,2,4,102,5,107,0
+109, Translate to Korean,20,True,True,2018-07-24T19:24:36Z,2018-07-24T19:24:36Z,0,3,2,2,272,1,273,14019.0
+88,Complex Number and Vector Class added,0,True,False,,2018-07-24T10:07:47Z,2,3,3,8,910,137,1047,0
+101,Fix knuthMorrisPratt for empty word request,401,True,True,2018-07-24T09:26:23Z,2018-07-24T09:26:23Z,5,3,3,2,6,2,8,294140.0
+106,docs:update README.zh-CN.md,0,True,True,2018-07-24T08:56:26Z,2018-07-24T08:56:26Z,0,3,2,1,1,0,1,21077.0
+99,Update README.md,0,True,False,,2018-07-22T15:47:21Z,0,3,2,1,2,1,3,0
+100,Fix CountingSort for negative numbers,464,True,True,2018-07-22T15:03:14Z,2018-07-22T15:03:14Z,0,3,2,2,14,6,20,143500.0
+104,Merge pull request #1 from trekhleb/master,11,True,False,,2018-07-22T07:13:50Z,0,2,1,0,0,0,0,0
+59,Fix typos,26,True,True,2018-06-12T14:46:40Z,2018-06-12T14:46:40Z,2,4,1,8,19,19,38,282043.0
+62,docs: update correct Big-O chart,119,True,True,2018-06-12T11:28:20Z,2018-06-12T11:28:20Z,0,3,2,4,25,25,50,73714.0
+97,Add Floyd-Warshall,11,True,True,2018-07-13T11:23:47Z,2018-07-13T11:23:48Z,0,3,2,6,194,5,199,86796.0
+95,Update jest.config.js,0,True,False,,2018-07-11T05:57:57Z,0,3,2,1,1,0,1,0
+94,Improve data-structures/heap/README.md,436,True,True,2018-07-08T01:27:07Z,2018-07-08T01:27:07Z,0,3,2,1,13,6,19,19610.0
+93,Fix some errors in README.md ,97,True,False,,2018-07-06T05:44:50Z,0,3,2,6,19,23,42,0
+92,Added doubly linked list,99,True,True,2018-07-05T12:18:57Z,2018-07-05T12:18:57Z,0,3,2,5,510,0,510,61203.0
+91,Minor fixes.,63,True,True,2018-07-04T14:53:23Z,2018-07-04T14:53:23Z,0,3,2,10,15,75,90,3330.0
+71,Permutation and Combination Calculation,94,True,False,,2018-07-03T08:47:25Z,0,3,3,10,617,0,617,0
+86,Fix the insertion sort,97,True,True,2018-07-03T08:56:35Z,2018-07-03T08:56:35Z,1,6,2,1,1,1,2,158374.0
+84,Add bloom filter,0,True,True,2018-06-30T17:07:20Z,2018-06-30T17:07:20Z,0,3,3,5,358,0,358,239608.0
+85,Add recursive factorial function,0,True,True,2018-06-28T18:03:32Z,2018-06-28T18:03:32Z,0,5,2,2,18,0,18,15494.0
+83,Add bloom filter,0,True,False,,2018-06-27T22:33:15Z,0,2,3,5,358,0,358,0
+81,Fix the value returned by DisjointSet union,43,True,True,2018-06-27T13:22:55Z,2018-06-27T13:22:55Z,0,5,2,1,1,1,2,164894.0
+82,Fix the prepend method,171,True,False,,2018-06-27T06:48:12Z,0,3,3,1,1,0,1,0
+80, Fix the findEdge method of the graph,0,True,True,2018-06-25T11:33:31Z,2018-06-25T11:33:31Z,0,5,2,2,9,2,11,12323.0
+79,Remove redundant node detachments,163,True,False,,2018-06-25T07:12:48Z,0,2,1,1,8,11,19,0
+75,Corrected explanations and included an example,0,True,True,2018-06-22T11:31:58Z,2018-06-22T11:31:58Z,0,3,2,1,16,4,20,228632.0
+76,Added Complexity of Each Algorithm in Sorting/ directory.,77,True,True,2018-06-22T11:54:41Z,2018-06-22T11:54:41Z,0,3,2,9,56,0,56,190286.0
+74,Fix BST removal method,95,True,True,2018-06-22T04:57:53Z,2018-06-22T04:57:53Z,0,5,2,2,26,7,33,247781.0
+77,Z algorithm implementation,53,True,True,2018-06-21T13:42:14Z,2018-06-21T13:42:14Z,0,3,2,3,96,0,96,39546.0
+72,Reworded and introduced an example,0,True,False,,2018-06-19T19:56:59Z,0,2,1,1,16,4,20,0
+66,Correct a comment,0,True,True,2018-06-18T13:30:31Z,2018-06-18T13:30:31Z,0,5,2,1,1,1,2,426786.0
+73,fix unbound knapsack problem with items more than 1(default value),11,True,True,2018-06-18T12:50:03Z,2018-06-18T12:50:03Z,0,3,2,2,54,1,55,103977.0
+67,added Bidirectional Conditional Insertion Sort,1031,True,False,,2018-06-14T15:45:28Z,2,2,2,5,1605,1386,2991,0
+64,Upgraded jest and related packages,157,True,False,,2018-06-13T03:24:39Z,0,2,1,2,330,287,617,0
+52,add recursive solution to permutations with repetitions problem,0,True,True,2018-06-13T05:03:57Z,2018-06-13T05:03:57Z,0,3,2,4,87,49,136,719842.0
+60,Fix bug in 'BinarySearchTreeNode.js,414,True,False,,2018-06-13T03:44:23Z,0,2,1,1,1,1,2,0
+65,chore: ignore .DS_Store in git,52,True,True,2018-06-13T03:27:03Z,2018-06-13T03:27:03Z,0,3,2,1,1,0,1,5091.0
+61,feat: Add Liu Hui's π algorithm,0,True,True,2018-06-12T11:54:00Z,2018-06-12T11:54:00Z,0,3,2,4,79,0,79,88278.0
+55,Fix the translation of sorting complexity table,68,True,True,2018-06-07T05:28:37Z,2018-06-07T05:28:37Z,0,3,2,1,1,1,2,8490.0
+32,Avoiding recursive calls,67,True,False,,2018-06-06T05:55:02Z,0,2,1,1,10,6,16,0
+51,Added Binary Indexed Tree / Fenwick Tree Implementation,42,True,True,2018-06-06T03:25:32Z,2018-06-06T03:25:32Z,0,3,2,3,94,0,94,133454.0
+50, Fix the remove method for the MinHeap,81,True,True,2018-06-05T13:17:15Z,2018-06-05T13:17:15Z,0,5,2,2,23,1,24,102647.0
+45,Segment Tree implementation,69,True,True,2018-06-04T03:32:35Z,2018-06-04T03:32:35Z,0,3,2,3,294,0,294,143126.0
+47,Fix the prepend method for the LinkedList,133,True,True,2018-06-04T02:21:42Z,2018-06-04T02:21:42Z,0,5,2,2,13,3,16,52925.0
+46,Adding Sieve of Eratosthenes,87,True,True,2018-06-03T06:25:16Z,2018-06-03T06:25:16Z,0,3,2,3,69,0,69,32980.0
+35,Added Explanation of Branch And Bound Approach for solving n-queen Problem in README section,0,True,False,,2018-06-02T08:36:33Z,0,3,5,1,33,0,33,0
+39,Correct some grammar in the README.,0,True,True,2018-06-02T06:09:53Z,2018-06-02T06:09:53Z,0,3,3,1,14,14,28,142459.0
+36,fibonacciNth function added,165,True,True,2018-06-02T06:31:10Z,2018-06-02T06:31:10Z,0,5,3,4,59,27,86,206468.0
+42,Fix LinkedList,163,True,True,2018-06-02T06:23:56Z,2018-06-02T06:23:56Z,0,6,3,2,4,3,7,64461.0
+28,Radix sort,122,True,True,2018-05-29T05:38:20Z,2018-05-29T05:38:20Z,1,3,2,5,150,0,150,40121.0
+27,Use Map for TrieNode children,83,True,True,2018-05-29T03:13:13Z,2018-05-29T03:13:13Z,0,3,4,2,9,13,22,38237.0
+25,Create pizza.txt,0,True,False,,2018-05-28T18:41:40Z,0,3,2,1,1,0,1,0
+26,Create test2,0,True,False,,2018-05-28T15:21:28Z,0,2,2,1,5,0,5,0
+16,Add in-place sort to QuickSort.js,877,True,True,2018-05-27T20:11:14Z,2018-05-27T20:11:14Z,0,5,6,3,116,1,117,258848.0
+23,Added missing return type,0,True,True,2018-05-27T15:20:05Z,2018-05-27T15:20:05Z,0,3,2,1,1,0,1,103056.0
+20,Added Linear Search,54,True,True,2018-05-25T21:43:51Z,2018-05-25T21:43:51Z,0,2,1,2,14,0,14,42446.0
+18,Finish main part of translation,31,True,True,2018-05-25T21:33:01Z,2018-05-25T21:33:02Z,0,3,3,2,212,0,212,57789.0
+17,add Mandarin overview,56,True,True,2018-05-25T04:44:23Z,2018-05-25T04:44:23Z,0,3,7,1,218,0,218,4173.0
+11,1 is not prime,0,True,False,,2018-05-24T13:50:55Z,0,3,2,2,5,4,9,0
+14,Fix a typo,0,True,True,2018-05-24T13:22:16Z,2018-05-24T13:22:16Z,0,3,2,1,1,1,2,8482.0
+4,Corrected typo,0,True,True,2018-05-24T05:42:53Z,2018-05-24T05:42:53Z,0,3,2,1,1,1,2,32059.0
+2,Fix incorrect spelling of 'than',62,True,False,,2018-05-24T06:04:23Z,0,2,2,11,40,40,80,0
+10,stop bubble sort revisiting already sorted elements,0,True,True,2018-05-24T06:22:08Z,2018-05-24T06:22:08Z,0,3,2,2,4,4,8,929.0
+5,Translate to Chinese,19,True,True,2018-05-24T05:50:51Z,2018-05-24T05:50:51Z,0,3,4,1,212,0,212,31363.0
+9,Optimization BubbleSort.js,0,True,False,,2018-05-24T06:08:50Z,0,1,0,1,1,1,2,0
+3,small refactor in some sorting algorithms for better readability,64,True,True,2018-05-24T06:07:09Z,2018-05-24T06:07:09Z,0,3,2,5,5,5,10,34088.0
+8,Fixed Typo in Big O Complexity table,30,True,True,2018-05-24T05:36:34Z,2018-05-24T05:36:34Z,0,3,2,1,1,1,2,25043.0
